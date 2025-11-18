@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Literature Reviews in Information Systems</title>
+<link>http://0.0.0.0:4200/</link>
+<atom:link href="http://0.0.0.0:4200/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Mon, 01 Jan 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Algorithmic Governance in Platforms</title>
+  <link>http://0.0.0.0:4200/papers/Vial2019.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level1">
+<h1>Summary</h1>
+<p>Short abstract…</p>
+</section>
+<section id="key-findings" class="level1">
+<h1>Key Findings</h1>
+<ul>
+<li>…</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/Vial2019.html</guid>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
