@@ -1,0 +1,35 @@
+project:
+  type: website
+
+
+
+website:
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**Alert** - this is some information that you should pay attention to"
+  #   type: primary
+  #   position: below-navbar
+
+  site-url: http://0.0.0.0:4200/
+  title: "Literature Reviews in Information Systems"
+  navbar:
+    left:
+      - text: "Overview"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto
+

@@ -1,0 +1,16 @@
+---
+title: "Algorithmic Governance in Platforms"
+authors: "Wagner et al."
+topic: "digital transformation"
+review_type: ["narrative"]
+date: "2024"
+doi: "https://doi.org/xxxx"
+journal:
+  name: "MIS Quarterly"
+---
+
+# Summary
+Short abstract…
+
+# Key Findings
+- …

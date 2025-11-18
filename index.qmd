@@ -1,0 +1,20 @@
+---
+title: "Home"
+format: html
+---
+
+---
+title: "Database"
+listing:
+  contents: papers
+  type: table
+  fields: ["authors", "title", "journal", "date"]
+  filter: true
+  date-format: iso
+  sort: "date desc"
+  sort-ui: true
+  search: true
+  categories: true
+  feed: 
+    items: 10
+---
