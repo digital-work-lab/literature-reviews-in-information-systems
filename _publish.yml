@@ -1,0 +1,4 @@
+- source: .
+  gh-pages:
+    id: github-pages
+    url: https://github.com/digital-work-lab/literature-reviews-in-information-systems

@@ -8,9 +8,9 @@ title: "Database"
 listing:
   contents: papers
   type: table
-  fields: ["authors", "title", "journal", "date"]
+  fields: ["authors", "title", "journal.name", "date"]
   filter: true
-  date-format: iso
+  date-format: YYYY
   sort: "date desc"
   sort-ui: true
   search: true
