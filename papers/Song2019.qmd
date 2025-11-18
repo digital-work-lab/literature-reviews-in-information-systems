@@ -1,0 +1,24 @@
+---
+title: "Collaborative Dynamics of Electronic Information Sharing in Government - A Systematic Literature Review"
+author:
+- Song, Yi
+topic: ""
+categories: []
+date: "2019"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Song2019,
+  author = {Song, Yi},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Collaborative Dynamics of Electronic Information Sharing in Government - A Systematic Literature Review},
+  year = {2019},
+  url = {https://aisel.aisnet.org/pacis2019/94}
+}
+```

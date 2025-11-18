@@ -1,0 +1,26 @@
+---
+title: "Conceptualizing the Value Co-Destruction Process for Service Systems - Literature Review and Synthesis"
+author:
+- Lintula, Juuli
+- Tuunanen, Tuure
+- Salo, Markus
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LintulaTuunanenSalo2017,
+  author = {Lintula, Juuli and Tuunanen, Tuure and Salo, Markus},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Conceptualizing the Value Co-Destruction Process for Service Systems - Literature Review and Synthesis},
+  year = {2017},
+  url = {http://hdl.handle.net/10125/41350}
+}
+```

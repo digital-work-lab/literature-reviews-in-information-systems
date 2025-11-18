@@ -1,0 +1,27 @@
+---
+title: "Understanding the Role of Use Cases in UML: A Review and Research Agenda"
+author:
+- Dobing, Brian
+- Parsons, Jeffrey
+topic: ""
+categories: ['critical-review']
+date: "2000"
+doi: ""
+journal:
+  name: "Journal of Database Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Dobing2000,
+  author = {Dobing, Brian and Parsons, Jeffrey},
+  title = {Understanding the Role of Use Cases in UML: A Review and Research Agenda},
+  year = {2000},
+  journal = {Journal of Database Management},
+  volume = {11},
+  number = {4},
+  pages = {28--36}
+}
+```

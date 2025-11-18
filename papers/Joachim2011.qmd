@@ -1,0 +1,24 @@
+---
+title: "A Literature Review of Research on Service-Oriented Architectures (SOA) - Characteristics, Adoption Determinants, Governance Mechanisms, and Business Impact"
+author:
+- Joachim, Nils
+topic: ""
+categories: []
+date: "2011"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Joachim2011,
+  author = {Joachim, Nils},
+  booktitle = {Americas Conference on Information Systems},
+  title = {A Literature Review of Research on Service-Oriented Architectures (SOA) - Characteristics, Adoption Determinants, Governance Mechanisms, and Business Impact},
+  year = {2011},
+  url = {https://aisel.aisnet.org/amcis2011_submissions/339}
+}
+```

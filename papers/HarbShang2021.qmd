@@ -1,0 +1,25 @@
+---
+title: "Linking Information Technology and Entrepreneurship - A Literature Review"
+author:
+- Harb, Yousra
+- Shang, Yanyan
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{HarbShang2021,
+  author = {Harb, Yousra and Shang, Yanyan},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Linking Information Technology and Entrepreneurship - A Literature Review},
+  year = {2021},
+  url = {http://hdl.handle.net/10125/71228}
+}
+```

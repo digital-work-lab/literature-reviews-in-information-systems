@@ -1,0 +1,27 @@
+---
+title: "Entrepreneurial characteristics - a Systematic literature Review"
+author:
+- Lee, Hyejung
+- Lee, Jungwoo
+- Shim, Kwansub
+- Lee, Hyejung
+topic: ""
+categories: []
+date: "2016"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LeeLeeShimEtAl2016,
+  author = {Lee, Hyejung and Lee, Jungwoo and Shim, Kwansub and Lee, Hyejung},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Entrepreneurial characteristics - a Systematic literature Review},
+  year = {2016},
+  url = {https://aisel.aisnet.org/pacis2016/81}
+}
+```

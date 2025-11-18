@@ -1,0 +1,26 @@
+---
+title: "Team Learning in Information Systems Development - a literature Review"
+author:
+- Spohrer, Kai
+- Gholami, Behnaz
+- Heinzl, Armin
+topic: ""
+categories: []
+date: "2012"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{SpohrerGholamiHeinzl2012,
+  author = {Spohrer, Kai and Gholami, Behnaz and Heinzl, Armin},
+  booktitle = {European Conference on Information Systems},
+  title = {Team Learning in Information Systems Development - a literature Review},
+  year = {2012},
+  url = {http://aisel.aisnet.org/ecis2012/223}
+}
+```

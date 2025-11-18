@@ -1,0 +1,29 @@
+---
+title: "ICT Innovation in Emerging Economies: A Review of the Existing Literature and a Framework for Future Research"
+author:
+- Xiao, Xiao
+- Califf, Christopher B.
+- Sarker, Saonee
+- Sarker, Suprateek
+topic: ""
+categories: ['scoping-review']
+date: "2013"
+doi: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Xiao2013,
+  author = {Xiao, Xiao and Califf, Christopher B. and Sarker, Saonee and Sarker, Suprateek},
+  title = {ICT Innovation in Emerging Economies: A Review of the Existing Literature and a Framework for Future Research},
+  year = {2013},
+  journal = {Journal of Information Technology},
+  volume = {28},
+  number = {4},
+  pages = {264--278}
+}
+```

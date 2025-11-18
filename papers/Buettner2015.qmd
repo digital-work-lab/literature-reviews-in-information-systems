@@ -1,0 +1,25 @@
+---
+title: "A Systematic Literature Review of Crowdsourcing Research from a Human Resource Management Perspective"
+author:
+- Buettner, Ricardo
+topic: ""
+categories: []
+date: "2015"
+doi: "https://doi.org/10.1109/HICSS.2015.549"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Buettner2015,
+  doi = {10.1109/HICSS.2015.549},
+  author = {Buettner, Ricardo},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {A Systematic Literature Review of Crowdsourcing Research from a Human Resource Management Perspective},
+  year = {2015},
+  url = {https://ieeexplore.ieee.org/document/7070369}
+}
+```

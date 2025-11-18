@@ -1,0 +1,28 @@
+---
+title: "Task-Technology Fit for Mobile Information Systems"
+author:
+- Gebauer, Judith
+- Shaw, Michael J.
+- Gribbins, Michele L.
+topic: ""
+categories: ['theoretical-review']
+date: "2010"
+doi: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Gebauer2010,
+  author = {Gebauer, Judith and Shaw, Michael J. and Gribbins, Michele L.},
+  title = {Task-Technology Fit for Mobile Information Systems},
+  year = {2010},
+  journal = {Journal of Information Technology},
+  volume = {25},
+  number = {3},
+  pages = {259--272}
+}
+```

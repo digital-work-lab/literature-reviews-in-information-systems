@@ -1,0 +1,24 @@
+---
+title: "ERP for the IT Service Industry - A Structured Literature Review"
+author:
+- Hintsch, Johannes
+topic: ""
+categories: []
+date: "2013"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Hintsch2013,
+  author = {Hintsch, Johannes},
+  booktitle = {Americas Conference on Information Systems},
+  title = {ERP for the IT Service Industry - A Structured Literature Review},
+  year = {2013},
+  url = {https://aisel.aisnet.org/amcis2013/EnterpriseSystems/GeneralPresentations/4}
+}
+```

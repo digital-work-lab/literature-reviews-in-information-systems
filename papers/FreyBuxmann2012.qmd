@@ -1,0 +1,25 @@
+---
+title: "It Project portfolio Management - a Structured literature Review"
+author:
+- Frey, Thorsten
+- Buxmann, Peter
+topic: ""
+categories: []
+date: "2012"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{FreyBuxmann2012,
+  author = {Frey, Thorsten and Buxmann, Peter},
+  booktitle = {European Conference on Information Systems},
+  title = {It Project portfolio Management - a Structured literature Review},
+  year = {2012},
+  url = {http://aisel.aisnet.org/ecis2012/167}
+}
+```

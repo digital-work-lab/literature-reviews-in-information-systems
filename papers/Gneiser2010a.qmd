@@ -1,0 +1,26 @@
+---
+title: "Value-based CRM"
+author:
+- Gneiser, Martin S.
+topic: ""
+categories: ['narrative-review']
+date: "2010"
+doi: ""
+journal:
+  name: "Business & Information Systems Engineering"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Gneiser2010a,
+  author = {Gneiser, Martin S.},
+  title = {Value-based CRM},
+  year = {2010},
+  journal = {Business & Information Systems Engineering},
+  volume = {2},
+  number = {2},
+  pages = {95--103}
+}
+```

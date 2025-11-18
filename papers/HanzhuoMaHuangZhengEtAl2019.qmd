@@ -1,0 +1,29 @@
+---
+title: "Program management - A comprehensive literature review for future research directions"
+author:
+- Hanzhuo Ma, Vivian
+- Huang, Wei
+- Zheng, Yujuan
+- Wu, Xiaosong
+- Klein, Gary S.
+- Jiang, James J.
+topic: ""
+categories: []
+date: "2019"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{HanzhuoMaHuangZhengEtAl2019,
+  author = {Hanzhuo Ma, Vivian and Huang, Wei and Zheng, Yujuan and Wu, Xiaosong and Klein, Gary S. and Jiang, James J.},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Program management - A comprehensive literature review for future research directions},
+  year = {2019},
+  url = {https://aisel.aisnet.org/pacis2019/135}
+}
+```

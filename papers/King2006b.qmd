@@ -1,0 +1,27 @@
+---
+title: "A Meta-Analysis of the Technology Acceptance Model"
+author:
+- King, William R.
+- He, Jun
+topic: ""
+categories: ['meta-analysis']
+date: "2006"
+doi: ""
+journal:
+  name: "Information & Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{King2006b,
+  author = {King, William R. and He, Jun},
+  title = {A Meta-Analysis of the Technology Acceptance Model},
+  year = {2006},
+  journal = {Information & Management},
+  volume = {43},
+  number = {6},
+  pages = {740--755}
+}
+```

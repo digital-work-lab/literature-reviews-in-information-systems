@@ -1,0 +1,26 @@
+---
+title: "Toward a Comprehensive Framework: EUC Research Issues and Trends (1999-2000)"
+author:
+- Downey, James P.
+topic: ""
+categories: ['descriptive-review']
+date: "2004"
+doi: ""
+journal:
+  name: "Journal of Organizational and End User Computing"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Downey2004,
+  author = {Downey, James P.},
+  title = {Toward a Comprehensive Framework: EUC Research Issues and Trends (1999-2000)},
+  year = {2004},
+  journal = {Journal of Organizational and End User Computing},
+  volume = {16},
+  number = {4},
+  pages = {1--16}
+}
+```

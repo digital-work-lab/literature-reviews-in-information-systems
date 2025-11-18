@@ -1,0 +1,25 @@
+---
+title: "The Concept of Governance in IT Outsourcing - A Literature Review"
+author:
+- Lin, Tingting
+- Vaia, Giovanni
+topic: ""
+categories: []
+date: "2015"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LinVaia2015,
+  author = {Lin, Tingting and Vaia, Giovanni},
+  booktitle = {European Conference on Information Systems},
+  title = {The Concept of Governance in IT Outsourcing - A Literature Review},
+  year = {2015},
+  url = {http://aisel.aisnet.org/ecis2015_cr/123}
+}
+```

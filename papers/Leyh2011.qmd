@@ -1,0 +1,24 @@
+---
+title: "Critical success factors of ERP system implementation projects - A literature review"
+author:
+- Leyh, Christian
+topic: ""
+categories: []
+date: "2011"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Leyh2011,
+  author = {Leyh, Christian},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Critical success factors of ERP system implementation projects - A literature review},
+  year = {2011},
+  url = {https://aisel.aisnet.org/amcis2011_submissions/94}
+}
+```

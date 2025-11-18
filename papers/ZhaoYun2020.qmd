@@ -1,0 +1,25 @@
+---
+title: "A Literature Review on Social Media Marketing - Social, Behavioral and Market-related Influences"
+author:
+- Zhao, Wenjin
+- Yun, Xu
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{ZhaoYun2020,
+  author = {Zhao, Wenjin and Yun, Xu},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {A Literature Review on Social Media Marketing - Social, Behavioral and Market-related Influences},
+  year = {2020},
+  url = {https://aisel.aisnet.org/pacis2020/92}
+}
+```

@@ -1,0 +1,25 @@
+---
+title: "A Systematic Literature Review on the Relation of Information Technology and Information Overload"
+author:
+- Sobotta, Nikolai
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.111"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Sobotta2016,
+  doi = {10.1109/HICSS.2016.111},
+  author = {Sobotta, Nikolai},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {A Systematic Literature Review on the Relation of Information Technology and Information Overload},
+  year = {2016},
+  url = {https://ieeexplore.ieee.org/document/7427288}
+}
+```

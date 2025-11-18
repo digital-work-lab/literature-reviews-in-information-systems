@@ -1,0 +1,27 @@
+---
+title: "Web 2.0 - A Definition, Literature Review, and Directions for Future Research"
+author:
+- Wilson, David W.
+- Lin, Xiaolin
+- Longstreet, Phil
+- Sarker, Saonee
+topic: ""
+categories: []
+date: "2011"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{WilsonLinLongstreetEtAl2011,
+  author = {Wilson, David W. and Lin, Xiaolin and Longstreet, Phil and Sarker, Saonee},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Web 2.0 - A Definition, Literature Review, and Directions for Future Research},
+  year = {2011},
+  url = {https://aisel.aisnet.org/amcis2011_submissions/368}
+}
+```

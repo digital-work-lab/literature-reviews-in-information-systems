@@ -1,0 +1,25 @@
+---
+title: "Estimation of Rooftop Solar Photovoltaic (PV) Potential - A Systematic Literature Review and Guidelines for Future Research"
+author:
+- Alsuhaibany, Yazeed
+- Li, Yan
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{AlsuhaibanyLi2017,
+  author = {Alsuhaibany, Yazeed and Li, Yan},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Estimation of Rooftop Solar Photovoltaic (PV) Potential - A Systematic Literature Review and Guidelines for Future Research},
+  year = {2017},
+  url = {https://aisel.aisnet.org/amcis2017/GreenIS/Presentations/3}
+}
+```

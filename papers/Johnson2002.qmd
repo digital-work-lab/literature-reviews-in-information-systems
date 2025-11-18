@@ -1,0 +1,26 @@
+---
+title: "Object-Oriented Systems Development: A Review of Empirical Research"
+author:
+- Johnson, Richard A.
+topic: ""
+categories: ['qualitative-systematic-review']
+date: "2002"
+doi: ""
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Johnson2002,
+  author = {Johnson, Richard A.},
+  title = {Object-Oriented Systems Development: A Review of Empirical Research},
+  year = {2002},
+  journal = {Communications of the Association for Information Systems},
+  volume = {8},
+  number = {4},
+  pages = {65--81}
+}
+```

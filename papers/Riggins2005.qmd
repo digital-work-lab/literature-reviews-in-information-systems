@@ -1,0 +1,27 @@
+---
+title: "The Digital Divide: Current and Future Research Directions"
+author:
+- Dewan, Sanjeev
+- Riggins, Frederick J.
+topic: ""
+categories: ['narrative-review']
+date: "2005"
+doi: ""
+journal:
+  name: "Journal of the Association for Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Riggins2005,
+  author = {Dewan, Sanjeev and Riggins, Frederick J.},
+  title = {The Digital Divide: Current and Future Research Directions},
+  year = {2005},
+  journal = {Journal of the Association for Information Systems},
+  volume = {6},
+  number = {12},
+  pages = {298--336}
+}
+```

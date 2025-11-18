@@ -1,0 +1,28 @@
+---
+title: "Status Quo and Potential of XBRL for Business and Information Systems Engineering"
+author:
+- Gräning, André
+- Felden, Carsten
+- Piechocki, Maciej
+topic: ""
+categories: ['scoping-review']
+date: "2011"
+doi: ""
+journal:
+  name: "Business & Information Systems Engineering"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Graening2011a,
+  author = {Gräning, André and Felden, Carsten and Piechocki, Maciej},
+  title = {Status Quo and Potential of XBRL for Business and Information Systems Engineering},
+  year = {2011},
+  journal = {Business & Information Systems Engineering},
+  volume = {3},
+  number = {4},
+  pages = {231--239}
+}
+```

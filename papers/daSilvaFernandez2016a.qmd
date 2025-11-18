@@ -1,0 +1,26 @@
+---
+title: "Sustainability of ICTD Projects and Its Influencing Factors - A Comprehensive Literature Review"
+author:
+- da Silva, Abel Pires
+- Fernández, Walter D.
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.341"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{daSilvaFernandez2016a,
+  doi = {10.1109/HICSS.2016.341},
+  author = {da Silva, Abel Pires and Fernández, Walter D.},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Sustainability of ICTD Projects and Its Influencing Factors - A Comprehensive Literature Review},
+  year = {2016},
+  url = {https://ieeexplore.ieee.org/document/7427524/}
+}
+```

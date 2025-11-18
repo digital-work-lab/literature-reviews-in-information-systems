@@ -1,0 +1,28 @@
+---
+title: "Factors Affecting Information Technology Usage: A Meta-Analysis of the Empirical Literature"
+author:
+- Mahmood, Mo Adam
+- Hall, Laura
+- Swanberg, Daniel Leonard
+topic: ""
+categories: ['meta-analysis']
+date: "2001"
+doi: ""
+journal:
+  name: "Journal of Organizational Computing and Electronic Commerce"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Mahmood2001,
+  author = {Mahmood, Mo Adam and Hall, Laura and Swanberg, Daniel Leonard},
+  title = {Factors Affecting Information Technology Usage: A Meta-Analysis of the Empirical Literature},
+  year = {2001},
+  journal = {Journal of Organizational Computing and Electronic Commerce},
+  volume = {11},
+  number = {2},
+  pages = {107--130}
+}
+```

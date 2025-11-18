@@ -1,0 +1,25 @@
+---
+title: "A literature Review on Smartphone Security in Organizations using a New Theoretical Model - the Dynamic Security Success Model"
+author:
+- Reinfelder, Lena
+- Weishäupl, Eva
+topic: ""
+categories: []
+date: "2016"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{ReinfelderWeishaupl2016,
+  author = {Reinfelder, Lena and Weishäupl, Eva},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {A literature Review on Smartphone Security in Organizations using a New Theoretical Model - the Dynamic Security Success Model},
+  year = {2016},
+  url = {https://aisel.aisnet.org/pacis2016/59}
+}
+```

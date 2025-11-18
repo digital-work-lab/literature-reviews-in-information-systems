@@ -1,0 +1,23 @@
+---
+title: "Choosing appropriate approach for research on user participation - A literature review"
+author:
+- Lei, Lei
+topic: ""
+categories: []
+date: "1994"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Lei1994,
+  author = {Lei, Lei},
+  booktitle = {European Conference on Information Systems},
+  title = {Choosing appropriate approach for research on user participation - A literature review},
+  year = {1994}
+}
+```

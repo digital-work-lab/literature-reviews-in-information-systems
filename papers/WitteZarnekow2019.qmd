@@ -1,0 +1,25 @@
+---
+title: "Transforming Personal Healthcare through Technology - A Systematic Literature Review of Wearable Sensors for Medical Application"
+author:
+- Witte, Anne-Katrin
+- Zarnekow, Rüdiger
+topic: ""
+categories: []
+date: "2019"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{WitteZarnekow2019,
+  author = {Witte, Anne-Katrin and Zarnekow, Rüdiger},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Transforming Personal Healthcare through Technology - A Systematic Literature Review of Wearable Sensors for Medical Application},
+  year = {2019},
+  url = {http://hdl.handle.net/10125/59821}
+}
+```

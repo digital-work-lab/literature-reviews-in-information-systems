@@ -1,0 +1,34 @@
+---
+title: "Social Knowledge Environments"
+author:
+- Pawlowski, Jan M.
+- Bick, Markus
+- Peinl, René
+- Thalmann, Stefan
+- Maier, Ronald
+- Hetmank, Lars
+- Kruse, Paul
+- Martensen, Malte
+- Pirkkalainen, Henri
+topic: ""
+categories: ['scoping-review']
+date: "2014"
+doi: ""
+journal:
+  name: "Business & Information Systems Engineering"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Pawlowski2014,
+  author = {Pawlowski, Jan M. and Bick, Markus and Peinl, René and Thalmann, Stefan and Maier, Ronald and Hetmank, Lars and Kruse, Paul and Martensen, Malte and Pirkkalainen, Henri},
+  title = {Social Knowledge Environments},
+  year = {2014},
+  journal = {Business & Information Systems Engineering},
+  volume = {6},
+  number = {2},
+  pages = {81--88}
+}
+```

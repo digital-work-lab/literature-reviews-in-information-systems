@@ -1,0 +1,30 @@
+---
+title: "The Role of Software Patents in Sustaining IT-Enabled Competitive Advantage: A Call for Research"
+author:
+- Mykytyn, Kathleen
+- Mykytyn, Peter P.
+- Bordoloi, Bijoy
+- McKinney, Vicki
+- Bandyopadhyay, Kakoli
+topic: ""
+categories: ['scoping-review']
+date: "2002"
+doi: ""
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Mykytyn2002,
+  author = {Mykytyn, Kathleen and Mykytyn, Peter P. and Bordoloi, Bijoy and McKinney, Vicki and Bandyopadhyay, Kakoli},
+  title = {The Role of Software Patents in Sustaining IT-Enabled Competitive Advantage: A Call for Research},
+  year = {2002},
+  journal = {The Journal of Strategic Information Systems},
+  volume = {11},
+  number = {1},
+  pages = {59--82}
+}
+```

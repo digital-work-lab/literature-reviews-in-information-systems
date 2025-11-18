@@ -1,0 +1,26 @@
+---
+title: "Mobile Health Information Technology and Patient Care - A Literature Review and Analysis"
+author:
+- Dadgar, Majid
+- Samhan, Bahae
+- Joshi, K. D.
+topic: ""
+categories: []
+date: "2013"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{DadgarSamhanJoshi2013,
+  author = {Dadgar, Majid and Samhan, Bahae and Joshi, K. D.},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Mobile Health Information Technology and Patient Care - A Literature Review and Analysis},
+  year = {2013},
+  url = {https://aisel.aisnet.org/amcis2013/HealthInformation/GeneralPresentations/1}
+}
+```

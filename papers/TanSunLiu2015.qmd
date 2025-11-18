@@ -1,0 +1,26 @@
+---
+title: "Big Data Architecture for Pervasive Healthcare - A Literature Review"
+author:
+- Tan, Chekfoung
+- Sun, Lily
+- Liu, Kecheng
+topic: ""
+categories: []
+date: "2015"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{TanSunLiu2015,
+  author = {Tan, Chekfoung and Sun, Lily and Liu, Kecheng},
+  booktitle = {European Conference on Information Systems},
+  title = {Big Data Architecture for Pervasive Healthcare - A Literature Review},
+  year = {2015},
+  url = {http://aisel.aisnet.org/ecis2015_cr/177}
+}
+```

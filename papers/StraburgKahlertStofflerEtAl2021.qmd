@@ -1,0 +1,27 @@
+---
+title: "Identification of Issues in Design Science Research Evaluation - A Literature Review"
+author:
+- Straßburg, Sebastian
+- Kahlert, Sebastian
+- Stöffler, Deborah
+- Schäffer, Thomas
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{StraburgKahlertStofflerEtAl2021,
+  author = {Straßburg, Sebastian and Kahlert, Sebastian and Stöffler, Deborah and Schäffer, Thomas},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Identification of Issues in Design Science Research Evaluation - A Literature Review},
+  year = {2021},
+  url = {https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/21}
+}
+```

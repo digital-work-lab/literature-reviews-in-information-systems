@@ -1,0 +1,24 @@
+---
+title: "The State of the Art on Process Virtualization - A Literature Review"
+author:
+- Balci, Bilal
+topic: ""
+categories: []
+date: "2014"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Balci2014,
+  author = {Balci, Bilal},
+  booktitle = {Americas Conference on Information Systems},
+  title = {The State of the Art on Process Virtualization - A Literature Review},
+  year = {2014},
+  url = {https://aisel.aisnet.org/amcis2014/e-Business/GeneralPresentations/9}
+}
+```

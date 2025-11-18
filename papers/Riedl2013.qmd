@@ -1,0 +1,26 @@
+---
+title: "On the Biology of Technostress: Literature Review and Research Agenda"
+author:
+- Riedl, René
+topic: ""
+categories: ['scoping-review']
+date: "2013"
+doi: ""
+journal:
+  name: "ACM SIGMIS Database"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Riedl2013,
+  author = {Riedl, René},
+  title = {On the Biology of Technostress: Literature Review and Research Agenda},
+  year = {2013},
+  journal = {ACM SIGMIS Database},
+  volume = {44},
+  number = {1},
+  pages = {18--55}
+}
+```

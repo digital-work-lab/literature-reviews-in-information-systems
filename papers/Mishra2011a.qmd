@@ -1,0 +1,27 @@
+---
+title: "E-Government - Exploring the Different Dimensions of Challenges, Implementation, and Success Factors"
+author:
+- Mishra, Alok
+- Mishra, Deepti
+topic: ""
+categories: ['descriptive-review']
+date: "2011"
+doi: ""
+journal:
+  name: "ACM SIGMIS Database"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Mishra2011a,
+  author = {Mishra, Alok and Mishra, Deepti},
+  title = {E-Government - Exploring the Different Dimensions of Challenges, Implementation, and Success Factors},
+  year = {2011},
+  journal = {ACM SIGMIS Database},
+  volume = {42},
+  number = {4},
+  pages = {23--37}
+}
+```

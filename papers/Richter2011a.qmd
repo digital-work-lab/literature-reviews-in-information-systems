@@ -1,0 +1,28 @@
+---
+title: "Internet Social Networking"
+author:
+- Richter, Daniel
+- Riemer, Kai
+- vom Brocke, Jan
+topic: ""
+categories: ['scoping-review']
+date: "2011"
+doi: ""
+journal:
+  name: "Business & Information Systems Engineering"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Richter2011a,
+  author = {Richter, Daniel and Riemer, Kai and vom Brocke, Jan},
+  title = {Internet Social Networking},
+  year = {2011},
+  journal = {Business & Information Systems Engineering},
+  volume = {3},
+  number = {2},
+  pages = {89--101}
+}
+```

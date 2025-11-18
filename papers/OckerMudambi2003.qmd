@@ -1,0 +1,26 @@
+---
+title: "Assessing the readiness of firms for CRM - a literature review and research model"
+author:
+- Ocker, Rosalie J.
+- Mudambi, Susan M.
+topic: ""
+categories: []
+date: "2003"
+doi: "https://doi.org/10.1109/HICSS.2003.1174390"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{OckerMudambi2003,
+  doi = {10.1109/HICSS.2003.1174390},
+  author = {Ocker, Rosalie J. and Mudambi, Susan M.},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Assessing the readiness of firms for CRM - a literature review and research model},
+  year = {2003},
+  url = {https://ieeexplore.ieee.org/document/1174390}
+}
+```

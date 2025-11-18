@@ -1,0 +1,27 @@
+---
+title: "Investigating the Moderators of the Group Support Systems Use with Meta-Analysis"
+author:
+- Dennis, Alan R.
+- Wixom, Barbara H.
+topic: ""
+categories: ['meta-analysis']
+date: "2002"
+doi: ""
+journal:
+  name: "Journal of Management Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Dennis2002,
+  author = {Dennis, Alan R. and Wixom, Barbara H.},
+  title = {Investigating the Moderators of the Group Support Systems Use with Meta-Analysis},
+  year = {2002},
+  journal = {Journal of Management Information Systems},
+  volume = {18},
+  number = {3},
+  pages = {235--257}
+}
+```

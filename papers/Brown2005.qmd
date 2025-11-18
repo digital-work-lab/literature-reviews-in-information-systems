@@ -1,0 +1,27 @@
+---
+title: "Framing the Frameworks: A Review of IT Governance Research"
+author:
+- Brown, Allen E.
+- Grant, Gerald G.
+topic: ""
+categories: ['narrative-review']
+date: "2005"
+doi: ""
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Brown2005,
+  author = {Brown, Allen E. and Grant, Gerald G.},
+  title = {Framing the Frameworks: A Review of IT Governance Research},
+  year = {2005},
+  journal = {Communications of the Association for Information Systems},
+  volume = {15},
+  number = {38},
+  pages = {696--712}
+}
+```

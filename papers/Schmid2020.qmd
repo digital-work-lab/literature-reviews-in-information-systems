@@ -1,0 +1,24 @@
+---
+title: "Influential Users in Social Media Networks - a literature Review"
+author:
+- Schmid, Isabel Maria
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Schmid2020,
+  author = {Schmid, Isabel Maria},
+  booktitle = {European Conference on Information Systems},
+  title = {Influential Users in Social Media Networks - a literature Review},
+  year = {2020},
+  url = {https://aisel.aisnet.org/ecis2020_rp/98}
+}
+```

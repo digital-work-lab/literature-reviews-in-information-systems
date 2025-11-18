@@ -1,0 +1,26 @@
+---
+title: "Collective behaviour, Social Media, and disasters - a Systematic literature Review"
+author:
+- Eismann, Kathrin
+- Posegga, Oliver
+- Fischbach, Kai
+topic: ""
+categories: []
+date: "2016"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{EismannPoseggaFischbach2016,
+  author = {Eismann, Kathrin and Posegga, Oliver and Fischbach, Kai},
+  booktitle = {European Conference on Information Systems},
+  title = {Collective behaviour, Social Media, and disasters - a Systematic literature Review},
+  year = {2016},
+  url = {http://aisel.aisnet.org/ecis2016_rp/104}
+}
+```

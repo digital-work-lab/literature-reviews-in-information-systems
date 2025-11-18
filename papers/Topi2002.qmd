@@ -1,0 +1,27 @@
+---
+title: "Human Factors Research on Data Modeling: A Review of Prior Research, an Extended Framework and Future Research Directions"
+author:
+- Topi, Heikki
+- Ramesh, V.
+topic: ""
+categories: ['theoretical-review']
+date: "2002"
+doi: ""
+journal:
+  name: "Journal of Database Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Topi2002,
+  author = {Topi, Heikki and Ramesh, V.},
+  title = {Human Factors Research on Data Modeling: A Review of Prior Research, an Extended Framework and Future Research Directions},
+  year = {2002},
+  journal = {Journal of Database Management},
+  volume = {13},
+  number = {2},
+  pages = {3--19}
+}
+```

@@ -1,0 +1,25 @@
+---
+title: "Value of Electronic Health Records since HITECH - A Literature Review"
+author:
+- Modi, Shikha
+- Feldman, Sue S.
+topic: ""
+categories: []
+date: "2018"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{ModiFeldman2018,
+  author = {Modi, Shikha and Feldman, Sue S.},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Value of Electronic Health Records since HITECH - A Literature Review},
+  year = {2018},
+  url = {https://aisel.aisnet.org/amcis2018/TREOsPDS/Presentations/47}
+}
+```

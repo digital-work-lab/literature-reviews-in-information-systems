@@ -1,0 +1,26 @@
+---
+title: "Towards a Critical Realist Understanding of Digital Transformation - Results of a Structured Literature Review"
+author:
+- Haskamp, Thomas
+- Dremel, Christian
+- Uebernickel, Falk
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{HaskampDremelUebernickel2021,
+  author = {Haskamp, Thomas and Dremel, Christian and Uebernickel, Falk},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Towards a Critical Realist Understanding of Digital Transformation - Results of a Structured Literature Review},
+  year = {2021},
+  url = {https://aisel.aisnet.org/amcis2021/phil_socio_digital_innov_entren/phil_socio_digital_innov_entren/2}
+}
+```

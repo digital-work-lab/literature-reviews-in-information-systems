@@ -1,0 +1,25 @@
+---
+title: "Actors' Dynamic Value Co-creation and Co-destruction Behavior in Service Systems - A Structured Literature Review"
+author:
+- Li, Mengcheng
+- Tuunanen, Tuure
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LiTuunanen2020,
+  author = {Li, Mengcheng and Tuunanen, Tuure},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Actors' Dynamic Value Co-creation and Co-destruction Behavior in Service Systems - A Structured Literature Review},
+  year = {2020},
+  url = {http://hdl.handle.net/10125/63882}
+}
+```

@@ -1,0 +1,25 @@
+---
+title: "A Systematic Literature Review to Understand Cross-organizational Relationship Management and Collaboration"
+author:
+- Diirr, Bruna
+- Cappelli, Claudia
+topic: ""
+categories: []
+date: "2018"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{DiirrCappelli2018,
+  author = {Diirr, Bruna and Cappelli, Claudia},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {A Systematic Literature Review to Understand Cross-organizational Relationship Management and Collaboration},
+  year = {2018},
+  url = {http://hdl.handle.net/10125/49907}
+}
+```

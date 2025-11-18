@@ -1,0 +1,26 @@
+---
+title: "Intermediaries in E-Inclusion - A Literature Review"
+author:
+- Sorrentino, Maddalena
+- Niehaves, Björn
+topic: ""
+categories: []
+date: "2010"
+doi: "https://doi.org/10.1109/HICSS.2010.239"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{SorrentinoNiehaves2010,
+  doi = {10.1109/HICSS.2010.239},
+  author = {Sorrentino, Maddalena and Niehaves, Björn},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Intermediaries in E-Inclusion - A Literature Review},
+  year = {2010},
+  url = {https://ieeexplore.ieee.org/document/5428295}
+}
+```

@@ -1,0 +1,29 @@
+---
+title: "Absorptive Capacity and Information Systems Research: Review, Synthesis, and Directions for Future Research"
+author:
+- Roberts, Nicholas
+- Galluch, Pamela S.
+- Dinger, Michael
+- Grover, Varun
+topic: ""
+categories: ['critical-review']
+date: "2012"
+doi: ""
+journal:
+  name: "MIS Quarterly"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Roberts2012,
+  author = {Roberts, Nicholas and Galluch, Pamela S. and Dinger, Michael and Grover, Varun},
+  title = {Absorptive Capacity and Information Systems Research: Review, Synthesis, and Directions for Future Research},
+  year = {2012},
+  journal = {MIS Quarterly},
+  volume = {36},
+  number = {2},
+  pages = {625--648}
+}
+```

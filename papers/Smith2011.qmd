@@ -1,0 +1,28 @@
+---
+title: "Information Privacy Research: An Interdisciplinary Review"
+author:
+- Smith, H. Jeff
+- Dinev, Tamara
+- Xu, Heng
+topic: ""
+categories: ['scoping-review']
+date: "2011"
+doi: ""
+journal:
+  name: "MIS Quarterly"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Smith2011,
+  author = {Smith, H. Jeff and Dinev, Tamara and Xu, Heng},
+  title = {Information Privacy Research: An Interdisciplinary Review},
+  year = {2011},
+  journal = {MIS Quarterly},
+  volume = {35},
+  number = {4},
+  pages = {989--1015}
+}
+```

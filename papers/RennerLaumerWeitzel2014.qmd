@@ -1,0 +1,26 @@
+---
+title: "Effectiveness and Efficiency of Blended Learning - A Literature Review"
+author:
+- Renner, Diana
+- Laumer, Sven
+- Weitzel, Tim
+topic: ""
+categories: []
+date: "2014"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{RennerLaumerWeitzel2014,
+  author = {Renner, Diana and Laumer, Sven and Weitzel, Tim},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Effectiveness and Efficiency of Blended Learning - A Literature Review},
+  year = {2014},
+  url = {https://aisel.aisnet.org/amcis2014/ISEducation/GeneralPresentations/15}
+}
+```

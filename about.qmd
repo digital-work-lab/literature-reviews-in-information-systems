@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-People and process.
+People and license.

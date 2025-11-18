@@ -1,0 +1,30 @@
+---
+title: "The Application of Data Mining Techniques in Financial Fraud Detection: A Classification Framework and an Academic Review of Literature"
+author:
+- Ngai, E. W. T.
+- Hu, Yong
+- Wong, Y. H.
+- Chen, Yijun
+- Sun, Xin
+topic: ""
+categories: ['descriptive-review']
+date: "2011"
+doi: ""
+journal:
+  name: "Decision Support Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Ngai2011,
+  author = {Ngai, E. W. T. and Hu, Yong and Wong, Y. H. and Chen, Yijun and Sun, Xin},
+  title = {The Application of Data Mining Techniques in Financial Fraud Detection: A Classification Framework and an Academic Review of Literature},
+  year = {2011},
+  journal = {Decision Support Systems},
+  volume = {50},
+  number = {3},
+  pages = {559--569}
+}
+```

@@ -1,0 +1,27 @@
+---
+title: "Comparing Conceptual Modeling Techniques: A Critical Review of the EER Vs. OO Empirical Literature"
+author:
+- Aguirre-Urreta, Miguel I.
+- Marakas, George M.
+topic: ""
+categories: ['critical-review']
+date: "2008"
+doi: ""
+journal:
+  name: "ACM SIGMIS Database"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Aguirre-Urreta2008,
+  author = {Aguirre-Urreta, Miguel I. and Marakas, George M.},
+  title = {Comparing Conceptual Modeling Techniques: A Critical Review of the EER Vs. OO Empirical Literature},
+  year = {2008},
+  journal = {ACM SIGMIS Database},
+  volume = {39},
+  number = {2},
+  pages = {9--32}
+}
+```

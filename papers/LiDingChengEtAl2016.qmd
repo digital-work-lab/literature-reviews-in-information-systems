@@ -1,0 +1,29 @@
+---
+title: "A Comprehensive Literature Review on Big Data in Healthcare"
+author:
+- Li, Jingwei
+- Ding, Wei
+- Cheng, Hsing
+- Chen, Ping
+- Di, Dehai
+- Huang, Wei
+topic: ""
+categories: []
+date: "2016"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LiDingChengEtAl2016,
+  author = {Li, Jingwei and Ding, Wei and Cheng, Hsing and Chen, Ping and Di, Dehai and Huang, Wei},
+  booktitle = {Americas Conference on Information Systems},
+  title = {A Comprehensive Literature Review on Big Data in Healthcare},
+  year = {2016},
+  url = {https://aisel.aisnet.org/amcis2016/AsiaPac/Presentations/8}
+}
+```

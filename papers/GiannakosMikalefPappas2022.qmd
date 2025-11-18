@@ -1,0 +1,31 @@
+---
+title: "Systematic Literature Review of E-Learning Capabilities to Enhance Organizational Learning"
+author:
+- Giannakos, Michail N.
+- Mikalef, Patrick
+- Pappas, Ilias O.
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1007/S10796-020-10097-2"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{GiannakosMikalefPappas2022,
+  doi = {10.1007/S10796-020-10097-2},
+  author = {Giannakos, Michail N. and Mikalef, Patrick and Pappas, Ilias O.},
+  journal = {Information Systems Frontiers},
+  title = {Systematic Literature Review of E-Learning Capabilities to Enhance Organizational Learning},
+  year = {2022},
+  volume = {24},
+  number = {2},
+  pages = {619--635},
+  url = {https://link.springer.com/article/10.1007/s10796-020-10097-2},
+  abstract = {Abstract E-learning systems are receiving ever increasing attention in academia, business and public administration. Major crises, like the pandemic, highlight the tremendous importance of the appropriate development of e-learning systems and its adoption and processes in organizations. Managers and employees who need efficient forms of training and learning flow within organizations do not have to gather in one place at the same time or to travel far away to attend courses. Contemporary affordances of e-learning systems allow users to perform different jobs or tasks for training courses according to their own scheduling, as well as to collaborate and share knowledge and experiences that result in rich learning flows within organizations. The purpose of this article is to provide a systematic review of empirical studies at the intersection of e-learning and organizational learning in order to summarize the current findings and guide future research. Forty-seven peer-reviewed articles were collected from a systematic literature search and analyzed based on a categorization of their main elements. This survey identifies five major directions of the research on the confluence of e-learning and organizational learning during the last decade. Future research should leverage big data produced from the platforms and investigate how the incorporation of advanced learning technologies (e.g., learning analytics, personalized learning) can help increase organizational value.}
+}
+```

@@ -1,0 +1,28 @@
+---
+title: "Impact of Culture on Knowledge Management: A Meta-Analysis and Framework"
+author:
+- Jacks, Tim
+- Wallace, Steve
+- Nemati, Hamid
+topic: ""
+categories: ['meta-analysis']
+date: "2012"
+doi: ""
+journal:
+  name: "Journal of Global Information Technology Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Jacks2012,
+  author = {Jacks, Tim and Wallace, Steve and Nemati, Hamid},
+  title = {Impact of Culture on Knowledge Management: A Meta-Analysis and Framework},
+  year = {2012},
+  journal = {Journal of Global Information Technology Management},
+  volume = {15},
+  number = {4},
+  pages = {8--42}
+}
+```

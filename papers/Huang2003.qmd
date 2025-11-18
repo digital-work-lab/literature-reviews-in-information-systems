@@ -1,0 +1,28 @@
+---
+title: "Using a GSS to Support Virtual Teambuilding: A Theoretical Framework"
+author:
+- Huang, Wayne
+- Wei, Kwok-Kee
+- Lim, John
+topic: ""
+categories: ['theoretical-review']
+date: "2003"
+doi: ""
+journal:
+  name: "Journal of Global Information Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Huang2003,
+  author = {Huang, Wayne and Wei, Kwok-Kee and Lim, John},
+  title = {Using a GSS to Support Virtual Teambuilding: A Theoretical Framework},
+  year = {2003},
+  journal = {Journal of Global Information Management},
+  volume = {11},
+  number = {1},
+  pages = {72--89}
+}
+```

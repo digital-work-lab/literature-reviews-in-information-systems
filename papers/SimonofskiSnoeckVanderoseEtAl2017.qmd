@@ -1,0 +1,28 @@
+---
+title: "Reexamining E-participation - Systematic Literature Review on Citizen Participation in E-government Service Delivery"
+author:
+- Simonofski, Anthony
+- Snoeck, Monique
+- Vanderose, Benoît
+- Crompvoets, Joep
+- Habra, Naji
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{SimonofskiSnoeckVanderoseEtAl2017,
+  author = {Simonofski, Anthony and Snoeck, Monique and Vanderose, Benoît and Crompvoets, Joep and Habra, Naji},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Reexamining E-participation - Systematic Literature Review on Citizen Participation in E-government Service Delivery},
+  year = {2017},
+  url = {https://aisel.aisnet.org/amcis2017/eGovernment/Presentations/3}
+}
+```

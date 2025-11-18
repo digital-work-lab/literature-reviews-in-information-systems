@@ -1,0 +1,27 @@
+---
+title: "Critical Success Factors Affecting Implementation of Cloud ERP Systems - A Systematic Literature Review with Future Research Possibilities"
+author:
+- Huang, Qian
+- Rahim, Mahbubur
+- Foster, Susan
+- Anwar, Misita
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{HuangRahimFosterEtAl2021,
+  author = {Huang, Qian and Rahim, Mahbubur and Foster, Susan and Anwar, Misita},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Critical Success Factors Affecting Implementation of Cloud ERP Systems - A Systematic Literature Review with Future Research Possibilities},
+  year = {2021},
+  url = {http://hdl.handle.net/10125/71186}
+}
+```

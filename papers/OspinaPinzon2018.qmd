@@ -1,0 +1,25 @@
+---
+title: "Theoretical Perspectives on Usage of e-Government Services - A Literature Review"
+author:
+- Ospina, Martha Liliana Correa
+- Pinzon, Beatriz Helena Diaz
+topic: ""
+categories: []
+date: "2018"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{OspinaPinzon2018,
+  author = {Ospina, Martha Liliana Correa and Pinzon, Beatriz Helena Diaz},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Theoretical Perspectives on Usage of e-Government Services - A Literature Review},
+  year = {2018},
+  url = {https://aisel.aisnet.org/amcis2018/eGovernment/Presentations/7}
+}
+```

@@ -1,0 +1,27 @@
+---
+title: "IT Alignment: What Have We Learned?"
+author:
+- Chan, Yolande E.
+- Reich, Blaize Horner
+topic: ""
+categories: ['narrative-review']
+date: "2007"
+doi: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Chan2007a,
+  author = {Chan, Yolande E. and Reich, Blaize Horner},
+  title = {IT Alignment: What Have We Learned?},
+  year = {2007},
+  journal = {Journal of Information Technology},
+  volume = {22},
+  number = {4},
+  pages = {297--315}
+}
+```

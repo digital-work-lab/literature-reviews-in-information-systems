@@ -1,0 +1,28 @@
+---
+title: "We Need to Talk! Antecedents and Consequences of Children's Smartphone Use - A Literature Review"
+author:
+- Gladkaya, Margarita
+- Gundlach, Jana
+- Bergert, Cora
+- Baumann, Annika
+- Krasnova, Hanna
+topic: ""
+categories: []
+date: "2018"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{GladkayaGundlachBergertEtAl2018,
+  author = {Gladkaya, Margarita and Gundlach, Jana and Bergert, Cora and Baumann, Annika and Krasnova, Hanna},
+  booktitle = {Americas Conference on Information Systems},
+  title = {We Need to Talk! Antecedents and Consequences of Children's Smartphone Use - A Literature Review},
+  year = {2018},
+  url = {https://aisel.aisnet.org/amcis2018/AdoptionDiff/Presentations/16}
+}
+```

@@ -1,0 +1,25 @@
+---
+title: "Business Continuity in Network Organizations - A Literature Review"
+author:
+- Morisse, Marcel
+- Prigge, Corvin
+topic: ""
+categories: []
+date: "2014"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{MorissePrigge2014,
+  author = {Morisse, Marcel and Prigge, Corvin},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Business Continuity in Network Organizations - A Literature Review},
+  year = {2014},
+  url = {https://aisel.aisnet.org/amcis2014/GlobalIssues/GeneralPresentations/2}
+}
+```

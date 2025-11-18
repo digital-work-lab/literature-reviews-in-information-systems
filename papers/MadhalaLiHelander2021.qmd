@@ -1,0 +1,26 @@
+---
+title: "Understanding the Antecedents and Consequences of Data Analytics Capabilities - A Literature Review in IS field"
+author:
+- Madhala, Prashanth
+- Li, Hongxiu
+- Helander, Nina
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{MadhalaLiHelander2021,
+  author = {Madhala, Prashanth and Li, Hongxiu and Helander, Nina},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Understanding the Antecedents and Consequences of Data Analytics Capabilities - A Literature Review in IS field},
+  year = {2021},
+  url = {https://aisel.aisnet.org/pacis2021/49}
+}
+```

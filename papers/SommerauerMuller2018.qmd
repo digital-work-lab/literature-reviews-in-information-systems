@@ -1,0 +1,25 @@
+---
+title: "Augmented Reality for Teaching and Learning - a literature Review on Theoretical and Empirical Foundations"
+author:
+- Sommerauer, Peter
+- Müller, Oliver
+topic: ""
+categories: []
+date: "2018"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{SommerauerMuller2018,
+  author = {Sommerauer, Peter and Müller, Oliver},
+  booktitle = {European Conference on Information Systems},
+  title = {Augmented Reality for Teaching and Learning - a literature Review on Theoretical and Empirical Foundations},
+  year = {2018},
+  url = {https://aisel.aisnet.org/ecis2018_rp/31}
+}
+```

@@ -1,0 +1,26 @@
+---
+title: "Literature Review to determine Environmental and Cognitive Factors underlying User Value Cocreation behaviour"
+author:
+- Bidar, Reihaneh
+- Watson, Jason
+- Barros, Alistair
+topic: ""
+categories: []
+date: "2016"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{BidarWatsonBarros2016,
+  author = {Bidar, Reihaneh and Watson, Jason and Barros, Alistair},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Literature Review to determine Environmental and Cognitive Factors underlying User Value Cocreation behaviour},
+  year = {2016},
+  url = {https://aisel.aisnet.org/pacis2016/327}
+}
+```

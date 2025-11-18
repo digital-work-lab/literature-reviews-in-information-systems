@@ -1,0 +1,26 @@
+---
+title: "Enterprise Systems in Transition Economies - An Initial Literature Review"
+author:
+- Weistroffer, Heinz Roland
+- Roztocki, Narcyz
+- Soja, Piotr
+topic: ""
+categories: []
+date: "2015"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{WeistrofferRoztockiSoja2015,
+  author = {Weistroffer, Heinz Roland and Roztocki, Narcyz and Soja, Piotr},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Enterprise Systems in Transition Economies - An Initial Literature Review},
+  year = {2015},
+  url = {https://aisel.aisnet.org/amcis2015/General/GeneralPresentations/6}
+}
+```

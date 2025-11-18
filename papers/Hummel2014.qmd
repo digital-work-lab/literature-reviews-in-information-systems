@@ -1,0 +1,25 @@
+---
+title: "State-of-the-Art - A Systematic Literature Review on Agile Information Systems Development"
+author:
+- Hummel, Markus
+topic: ""
+categories: []
+date: "2014"
+doi: "https://doi.org/10.1109/HICSS.2014.579"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Hummel2014,
+  doi = {10.1109/HICSS.2014.579},
+  author = {Hummel, Markus},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {State-of-the-Art - A Systematic Literature Review on Agile Information Systems Development},
+  year = {2014},
+  url = {https://ieeexplore.ieee.org/document/6759181}
+}
+```

@@ -1,0 +1,28 @@
+---
+title: "Information Systems Offshoring - A Literature Review and Analysis"
+author:
+- Wiener, Martin
+- Vogel, Bianca
+- Amberg, Michael
+topic: ""
+categories: ['descriptive-review']
+date: "2010"
+doi: ""
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Wiener2010,
+  author = {Wiener, Martin and Vogel, Bianca and Amberg, Michael},
+  title = {Information Systems Offshoring - A Literature Review and Analysis},
+  year = {2010},
+  journal = {Communications of the Association for Information Systems},
+  volume = {27},
+  number = {25},
+  pages = {455--492}
+}
+```

@@ -1,0 +1,25 @@
+---
+title: "Data-Driven Service Innovation - a Systematic literature Review and Development of a Research Agenda"
+author:
+- Engel, Christian
+- Ebel, Philipp
+topic: ""
+categories: []
+date: "2019"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{EngelEbel2019,
+  author = {Engel, Christian and Ebel, Philipp},
+  booktitle = {European Conference on Information Systems},
+  title = {Data-Driven Service Innovation - a Systematic literature Review and Development of a Research Agenda},
+  year = {2019},
+  url = {https://aisel.aisnet.org/ecis2019_rp/161}
+}
+```

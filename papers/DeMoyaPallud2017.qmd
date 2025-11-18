@@ -1,0 +1,25 @@
+---
+title: "Quantified Self - a literature Review based on the Funnel Paradigm"
+author:
+- De Moya, Jean-Francois
+- Pallud, Jessie
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{DeMoyaPallud2017,
+  author = {De Moya, Jean-Francois and Pallud, Jessie},
+  booktitle = {European Conference on Information Systems},
+  title = {Quantified Self - a literature Review based on the Funnel Paradigm},
+  year = {2017},
+  url = {https://aisel.aisnet.org/ecis2017_rp/108}
+}
+```

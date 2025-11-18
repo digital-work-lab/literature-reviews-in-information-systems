@@ -1,0 +1,29 @@
+---
+title: "A Review of the IT Outsourcing Empirical Literature and Future Research Directions"
+author:
+- Lacity, Mary C.
+- Khan, Shaji A.
+- Yan, Aihua
+- Willcocks, Leslie P.
+topic: ""
+categories: ['qualitative-systematic-review']
+date: "2010"
+doi: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Lacity2010,
+  author = {Lacity, Mary C. and Khan, Shaji A. and Yan, Aihua and Willcocks, Leslie P.},
+  title = {A Review of the IT Outsourcing Empirical Literature and Future Research Directions},
+  year = {2010},
+  journal = {Journal of Information Technology},
+  volume = {25},
+  number = {4},
+  pages = {395--433}
+}
+```

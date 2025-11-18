@@ -1,0 +1,31 @@
+---
+title: "IT outsourcing research from 1992 to 2013 - A literature review based on main path analysis"
+author:
+- Liang, Huigang
+- Wang, Jian-Jun
+- Xue, Yajiong
+- Cui, Xiaocong
+topic: ""
+categories: []
+date: "2015"
+doi: "https://doi.org/10.1016/J.IM.2015.10.001"
+journal:
+  name: "Information & Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{LiangWangXueEtAl2016,
+  doi = {10.1016/J.IM.2015.10.001},
+  author = {Liang, Huigang and Wang, Jian-Jun and Xue, Yajiong and Cui, Xiaocong},
+  journal = {Information & Management},
+  title = {IT outsourcing research from 1992 to 2013 - A literature review based on main path analysis},
+  year = {2015},
+  volume = {53},
+  number = {2},
+  pages = {227--251},
+  url = {https://www.sciencedirect.com/science/article/pii/S037872061500110X}
+}
+```

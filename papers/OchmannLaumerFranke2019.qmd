@@ -1,0 +1,26 @@
+---
+title: "The Power of Knowledge - A Literature Review on Socio-Technical Perspectives on Organizational Knowledge Management"
+author:
+- Ochmann, Jessica
+- Laumer, Sven
+- Franke, Jörg
+topic: ""
+categories: []
+date: "2019"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{OchmannLaumerFranke2019,
+  author = {Ochmann, Jessica and Laumer, Sven and Franke, Jörg},
+  booktitle = {Americas Conference on Information Systems},
+  title = {The Power of Knowledge - A Literature Review on Socio-Technical Perspectives on Organizational Knowledge Management},
+  year = {2019},
+  url = {https://aisel.aisnet.org/amcis2019/org_transformation_is/org_transformation_is/6}
+}
+```

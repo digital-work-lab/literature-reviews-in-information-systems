@@ -1,0 +1,26 @@
+---
+title: "Schools of Thought in Research into End-User Computing Success"
+author:
+- Harris, Roger W.
+topic: ""
+categories: ['theoretical-review']
+date: "2000"
+doi: ""
+journal:
+  name: "Journal of Organizational and End User Computing"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Harris2000,
+  author = {Harris, Roger W.},
+  title = {Schools of Thought in Research into End-User Computing Success},
+  year = {2000},
+  journal = {Journal of Organizational and End User Computing},
+  volume = {12},
+  number = {1},
+  pages = {24--34}
+}
+```

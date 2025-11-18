@@ -1,0 +1,25 @@
+---
+title: "A Literature Review and Classification of Green Computing Research"
+author:
+- Sahu, Ganesh P.
+- Srivastava, Rajeev
+topic: ""
+categories: []
+date: "2011"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{SahuSrivastava2011,
+  author = {Sahu, Ganesh P. and Srivastava, Rajeev},
+  booktitle = {Americas Conference on Information Systems},
+  title = {A Literature Review and Classification of Green Computing Research},
+  year = {2011},
+  url = {https://aisel.aisnet.org/amcis2011_submissions/399}
+}
+```

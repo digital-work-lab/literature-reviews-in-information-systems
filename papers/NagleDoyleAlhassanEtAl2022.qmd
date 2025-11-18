@@ -1,0 +1,30 @@
+---
+title: "The Research Method we Need or Deserve? A Literature Review of the Design Science Research Landscape"
+author:
+- Nagle, Tadhg
+- Doyle, Cathal
+- Alhassan, Ibrahim Mohammed
+- Sammon, David
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.17705/1CAIS.05015"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{NagleDoyleAlhassanEtAl2022,
+  doi = {10.17705/1CAIS.05015},
+  author = {Nagle, Tadhg and Doyle, Cathal and Alhassan, Ibrahim Mohammed and Sammon, David},
+  journal = {Communications of the Association for Information Systems},
+  title = {The Research Method we Need or Deserve? A Literature Review of the Design Science Research Landscape},
+  year = {2022},
+  volume = {50},
+  pages = {358--395},
+  url = {https://aisel.aisnet.org/cgi/login.cgi?return_to=https%3A%2F%2Faisel.aisnet.org%2Fcgi%2Fcview.cgi%2Fcais%2Fvol50%2Fiss1%2F14&context=https://aisel.aisnet.org}
+}
+```

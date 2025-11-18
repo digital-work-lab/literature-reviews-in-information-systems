@@ -1,0 +1,27 @@
+---
+title: "Acceptance of Agile Methodologies: A Critical Review and Conceptual Framework"
+author:
+- Chan, Frank K. Y.
+- Thong, James Y. L.
+topic: ""
+categories: ['theoretical-review']
+date: "2009"
+doi: ""
+journal:
+  name: "Decision Support Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Chan2009,
+  author = {Chan, Frank K. Y. and Thong, James Y. L.},
+  title = {Acceptance of Agile Methodologies: A Critical Review and Conceptual Framework},
+  year = {2009},
+  journal = {Decision Support Systems},
+  volume = {46},
+  number = {4},
+  pages = {803--814}
+}
+```

@@ -1,0 +1,27 @@
+---
+title: "Moments of Governance in IS Outsourcing: Conceptualizing Effects of Contracts on Value Capture and Creation"
+author:
+- Miranda, Shaila M.
+- Kavan, C. Bruce
+topic: ""
+categories: ['theoretical-review']
+date: "2005"
+doi: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Miranda2005,
+  author = {Miranda, Shaila M. and Kavan, C. Bruce},
+  title = {Moments of Governance in IS Outsourcing: Conceptualizing Effects of Contracts on Value Capture and Creation},
+  year = {2005},
+  journal = {Journal of Information Technology},
+  volume = {20},
+  number = {3},
+  pages = {152--169}
+}
+```

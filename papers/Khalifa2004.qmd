@@ -1,0 +1,27 @@
+---
+title: "The State of Research on Information Systems Satisfaction"
+author:
+- Khalifa, Mohamed
+- Liu, Vanessa
+topic: ""
+categories: ['narrative-review']
+date: "2004"
+doi: ""
+journal:
+  name: "Journal of Information Technology Theory and Application"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Khalifa2004,
+  author = {Khalifa, Mohamed and Liu, Vanessa},
+  title = {The State of Research on Information Systems Satisfaction},
+  year = {2004},
+  journal = {Journal of Information Technology Theory and Application},
+  volume = {5},
+  number = {4},
+  pages = {37--49}
+}
+```

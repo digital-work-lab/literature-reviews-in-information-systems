@@ -1,0 +1,26 @@
+---
+title: "New Service Development for Electronic Services - A Literature Review"
+author:
+- Riedl, Christoph
+- Leimeister, Jan Marco
+- Krcmar, Helmut
+topic: ""
+categories: []
+date: "2009"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{RiedlLeimeisterKrcmar2009,
+  author = {Riedl, Christoph and Leimeister, Jan Marco and Krcmar, Helmut},
+  booktitle = {Americas Conference on Information Systems},
+  title = {New Service Development for Electronic Services - A Literature Review},
+  year = {2009},
+  url = {https://aisel.aisnet.org/amcis2009/606}
+}
+```

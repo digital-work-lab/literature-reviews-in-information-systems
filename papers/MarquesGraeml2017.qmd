@@ -1,0 +1,25 @@
+---
+title: "Collective Intelligence and the Mapping of Accessible Ways in the City - a Systematic Literature Review"
+author:
+- Marques, Valmir Luiz
+- Graeml, Alexandre Reis
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{MarquesGraeml2017,
+  author = {Marques, Valmir Luiz and Graeml, Alexandre Reis},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Collective Intelligence and the Mapping of Accessible Ways in the City - a Systematic Literature Review},
+  year = {2017},
+  url = {https://aisel.aisnet.org/amcis2017/SocialTechincal/Presentations/8}
+}
+```

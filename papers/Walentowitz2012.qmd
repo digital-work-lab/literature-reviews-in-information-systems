@@ -1,0 +1,25 @@
+---
+title: "Aligning Multiple Definitions of Alignment--A Literature Review"
+author:
+- Walentowitz, Katja
+topic: ""
+categories: []
+date: "2012"
+doi: "https://doi.org/10.1109/HICSS.2012.3"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Walentowitz2012,
+  doi = {10.1109/HICSS.2012.3},
+  author = {Walentowitz, Katja},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Aligning Multiple Definitions of Alignment--A Literature Review},
+  year = {2012},
+  url = {https://ieeexplore.ieee.org/document/6149496}
+}
+```

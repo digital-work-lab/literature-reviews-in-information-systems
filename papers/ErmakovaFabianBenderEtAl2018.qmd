@@ -1,0 +1,27 @@
+---
+title: "Web Tracking - A Literature Review on the State of Research"
+author:
+- Ermakova, Tatiana
+- Fabian, Benjamin
+- Bender, Benedict
+- Klimek, Kerstin
+topic: ""
+categories: []
+date: "2018"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{ErmakovaFabianBenderEtAl2018,
+  author = {Ermakova, Tatiana and Fabian, Benjamin and Bender, Benedict and Klimek, Kerstin},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Web Tracking - A Literature Review on the State of Research},
+  year = {2018},
+  url = {http://hdl.handle.net/10125/50485}
+}
+```

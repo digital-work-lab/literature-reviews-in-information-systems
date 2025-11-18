@@ -1,0 +1,28 @@
+---
+title: "Towards Modelling the Effects of National Culture on IT Implementation and Acceptance"
+author:
+- Veiga, John F.
+- Floyd, Steven
+- Dechant, Kathleen
+topic: ""
+categories: ['theoretical-review']
+date: "2001"
+doi: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Veiga2001,
+  author = {Veiga, John F. and Floyd, Steven and Dechant, Kathleen},
+  title = {Towards Modelling the Effects of National Culture on IT Implementation and Acceptance},
+  year = {2001},
+  journal = {Journal of Information Technology},
+  volume = {16},
+  number = {3},
+  pages = {145--158}
+}
+```

@@ -1,0 +1,29 @@
+---
+title: "Past, Present and Future of Mobile Payments Research: A Literature Review"
+author:
+- Dahlberg, Tomi
+- Mallat, Niina
+- Ondrus, Jan
+- Zmijewska, Agnieszka
+topic: ""
+categories: ['descriptive-review']
+date: "2008"
+doi: ""
+journal:
+  name: "Electronic Commerce Research and Applications"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Dahlberg2008,
+  author = {Dahlberg, Tomi and Mallat, Niina and Ondrus, Jan and Zmijewska, Agnieszka},
+  title = {Past, Present and Future of Mobile Payments Research: A Literature Review},
+  year = {2008},
+  journal = {Electronic Commerce Research and Applications},
+  volume = {7},
+  number = {2},
+  pages = {165--181}
+}
+```

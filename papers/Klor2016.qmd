@@ -1,0 +1,24 @@
+---
+title: "Understanding the Role of Decision Support Systems in Green is Research - literature Review and Research Agenda"
+author:
+- Klör, Benjamin
+topic: ""
+categories: []
+date: "2016"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Klor2016,
+  author = {Klör, Benjamin},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Understanding the Role of Decision Support Systems in Green is Research - literature Review and Research Agenda},
+  year = {2016},
+  url = {https://aisel.aisnet.org/pacis2016/378}
+}
+```

@@ -1,0 +1,27 @@
+---
+title: "Understanding Inertia in Digital Transformation: A Literature Review and Multilevel Research Framework"
+author:
+- Haskamp, Thomas
+- Dremel, Christian
+- Marx, Carolin
+- Uebernickel, Falk
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "International Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{HaskampDremelMarxEtAl2021,
+  author = {Haskamp, Thomas and Dremel, Christian and Marx, Carolin and Uebernickel, Falk},
+  booktitle = {International Conference on Information Systems},
+  title = {Understanding Inertia in Digital Transformation: A Literature Review and Multilevel Research Framework},
+  year = {2021},
+  url = {https://aisel.aisnet.org/icis2021/dig_innov/dig_innov/5}
+}
+```

@@ -1,0 +1,26 @@
+---
+title: "IT Outsourcing in the Public Sector: A Literature Analysis"
+author:
+- Gantman, Sonia
+topic: ""
+categories: ['narrative-review']
+date: "2011"
+doi: ""
+journal:
+  name: "Journal of Global Information Technology Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Gantman2011,
+  author = {Gantman, Sonia},
+  title = {IT Outsourcing in the Public Sector: A Literature Analysis},
+  year = {2011},
+  journal = {Journal of Global Information Technology Management},
+  volume = {14},
+  number = {2},
+  pages = {48--83}
+}
+```

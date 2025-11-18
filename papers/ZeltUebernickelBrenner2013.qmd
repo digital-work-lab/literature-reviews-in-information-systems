@@ -1,0 +1,27 @@
+---
+title: "Managing Global IT Delivery Networks - A Literature Review from the Supplier's Perspective"
+author:
+- Zelt, Saskia
+- Uebernickel, Falk
+- Brenner, Walter
+topic: ""
+categories: []
+date: "2013"
+doi: "https://doi.org/10.1109/HICSS.2013.389"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{ZeltUebernickelBrenner2013,
+  doi = {10.1109/HICSS.2013.389},
+  author = {Zelt, Saskia and Uebernickel, Falk and Brenner, Walter},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Managing Global IT Delivery Networks - A Literature Review from the Supplier's Perspective},
+  year = {2013},
+  url = {https://ieeexplore.ieee.org/document/6479869}
+}
+```

@@ -1,0 +1,27 @@
+---
+title: "Utilizing the Crowd - A Literature Review on Factors influencing Crowdsourcing Initiative Success"
+author:
+- Rechenberger, Tristan
+- Jung, Verena M. E.
+- Schmidt, Nikolaus
+- Rosenkranz, Christoph
+topic: ""
+categories: []
+date: "2015"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{RechenbergerJungSchmidtEtAl2015,
+  author = {Rechenberger, Tristan and Jung, Verena M. E. and Schmidt, Nikolaus and Rosenkranz, Christoph},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Utilizing the Crowd - A Literature Review on Factors influencing Crowdsourcing Initiative Success},
+  year = {2015},
+  url = {https://aisel.aisnet.org/pacis2015/250}
+}
+```

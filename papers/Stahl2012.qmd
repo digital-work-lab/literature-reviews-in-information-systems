@@ -1,0 +1,26 @@
+---
+title: "Morality, Ethics, and Reflection: A Categorization of Normative IS Research"
+author:
+- Stahl, Bernd Carsten
+topic: ""
+categories: ['narrative-review']
+date: "2012"
+doi: ""
+journal:
+  name: "Journal of the Association for Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Stahl2012,
+  author = {Stahl, Bernd Carsten},
+  title = {Morality, Ethics, and Reflection: A Categorization of Normative IS Research},
+  year = {2012},
+  journal = {Journal of the Association for Information Systems},
+  volume = {13},
+  number = {8},
+  pages = {636--656}
+}
+```

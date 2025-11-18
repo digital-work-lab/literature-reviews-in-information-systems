@@ -1,0 +1,25 @@
+---
+title: "To Adopt or not to Adopt - a literature Review on Barriers to Citizens' Adoption of E-Government Services"
+author:
+- Distel, Bettina
+- Ogonek, Nadine
+topic: ""
+categories: []
+date: "2016"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{DistelOgonek2016,
+  author = {Distel, Bettina and Ogonek, Nadine},
+  booktitle = {European Conference on Information Systems},
+  title = {To Adopt or not to Adopt - a literature Review on Barriers to Citizens' Adoption of E-Government Services},
+  year = {2016},
+  url = {http://aisel.aisnet.org/ecis2016_rp/155}
+}
+```

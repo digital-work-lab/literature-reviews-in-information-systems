@@ -1,0 +1,25 @@
+---
+title: "Data-driven Decision-making and the Role of Personality and Cognitive Style - A Systematic Literature Review"
+author:
+- Wiedenhof, Tertia M.
+- Plomp, Marijn G. A.
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{WiedenhofPlomp2017,
+  author = {Wiedenhof, Tertia M. and Plomp, Marijn G. A.},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Data-driven Decision-making and the Role of Personality and Cognitive Style - A Systematic Literature Review},
+  year = {2017},
+  url = {https://aisel.aisnet.org/amcis2017/DataScience/Presentations/31}
+}
+```

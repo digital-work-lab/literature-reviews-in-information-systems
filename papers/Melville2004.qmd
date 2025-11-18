@@ -1,0 +1,28 @@
+---
+title: "Review: Information Technology and Organizational Performance: An Integrative Model of IT Business Value"
+author:
+- Melville, Nigel
+- Kraemer, Kenneth
+- Gurbaxani, Vijay
+topic: ""
+categories: ['theoretical-review']
+date: "2004"
+doi: ""
+journal:
+  name: "MIS Quarterly"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Melville2004,
+  author = {Melville, Nigel and Kraemer, Kenneth and Gurbaxani, Vijay},
+  title = {Review: Information Technology and Organizational Performance: An Integrative Model of IT Business Value},
+  year = {2004},
+  journal = {MIS Quarterly},
+  volume = {28},
+  number = {2},
+  pages = {283--322}
+}
+```

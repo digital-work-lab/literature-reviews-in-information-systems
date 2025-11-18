@@ -1,0 +1,29 @@
+---
+title: "A systematic literature review and critical assessment of model-driven decision support for IT outsourcing"
+author:
+- Rajaeian, Mohammad Mehdi
+- Cater-Steel, Aileen
+- Lane, Michael
+topic: ""
+categories: []
+date: "2017"
+doi: "https://doi.org/10.1016/J.DSS.2017.07.002"
+journal:
+  name: "Decision Support Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{RajaeianCaterSteelLane2017,
+  doi = {10.1016/J.DSS.2017.07.002},
+  author = {Rajaeian, Mohammad Mehdi and Cater-Steel, Aileen and Lane, Michael},
+  journal = {Decision Support Systems},
+  title = {A systematic literature review and critical assessment of model-driven decision support for IT outsourcing},
+  year = {2017},
+  volume = {102},
+  pages = {42--56},
+  url = {https://www.sciencedirect.com/science/article/pii/S0167923617301240}
+}
+```

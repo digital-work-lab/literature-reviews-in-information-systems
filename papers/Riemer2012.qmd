@@ -1,0 +1,27 @@
+---
+title: "Virtual or Vague? A Literature Review Exposing Conceptual Differences in Defining Virtual Organizations in IS Research"
+author:
+- Riemer, Kai
+- Vehring, Nadine
+topic: ""
+categories: ['critical-review']
+date: "2012"
+doi: ""
+journal:
+  name: "Electronic Markets"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Riemer2012,
+  author = {Riemer, Kai and Vehring, Nadine},
+  title = {Virtual or Vague? A Literature Review Exposing Conceptual Differences in Defining Virtual Organizations in IS Research},
+  year = {2012},
+  journal = {Electronic Markets},
+  volume = {22},
+  number = {4},
+  pages = {267--282}
+}
+```

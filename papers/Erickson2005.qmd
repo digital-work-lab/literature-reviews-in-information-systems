@@ -1,0 +1,28 @@
+---
+title: "Agile Modeling, Agile Software Development, and Extreme Programming: The State of Research"
+author:
+- Erickson, John
+- Lyytinen, Kalle
+- Siau, Keng
+topic: ""
+categories: ['narrative-review']
+date: "2005"
+doi: ""
+journal:
+  name: "Journal of Database Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Erickson2005,
+  author = {Erickson, John and Lyytinen, Kalle and Siau, Keng},
+  title = {Agile Modeling, Agile Software Development, and Extreme Programming: The State of Research},
+  year = {2005},
+  journal = {Journal of Database Management},
+  volume = {16},
+  number = {4},
+  pages = {88--100}
+}
+```

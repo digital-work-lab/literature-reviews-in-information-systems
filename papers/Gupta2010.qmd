@@ -1,0 +1,28 @@
+---
+title: "End-User Training Methods: What We Know, Need to Know"
+author:
+- Gupta, Saurabh
+- Bostrom, Robert P.
+- Huber, Mark
+topic: ""
+categories: ['theoretical-review']
+date: "2010"
+doi: ""
+journal:
+  name: "ACM SIGMIS Database"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Gupta2010,
+  author = {Gupta, Saurabh and Bostrom, Robert P. and Huber, Mark},
+  title = {End-User Training Methods: What We Know, Need to Know},
+  year = {2010},
+  journal = {ACM SIGMIS Database},
+  volume = {41},
+  number = {4},
+  pages = {9--39}
+}
+```

@@ -1,0 +1,25 @@
+---
+title: "Digital Twin - A literature review and research agenda in Information Systems"
+author:
+- Khan, Raania N.
+- Pigni, Federico
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{KhanPigni2021,
+  author = {Khan, Raania N. and Pigni, Federico},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Digital Twin - A literature review and research agenda in Information Systems},
+  year = {2021},
+  url = {https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/12}
+}
+```

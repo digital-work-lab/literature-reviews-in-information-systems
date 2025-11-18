@@ -1,0 +1,26 @@
+---
+title: "Implications for Strategic IS Research of the Resource-Based Theory of the Firm: A Reflection"
+author:
+- Seddon, Peter B.
+topic: ""
+categories: ['narrative-review']
+date: "2014"
+doi: ""
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Seddon2014,
+  author = {Seddon, Peter B.},
+  title = {Implications for Strategic IS Research of the Resource-Based Theory of the Firm: A Reflection},
+  year = {2014},
+  journal = {The Journal of Strategic Information Systems},
+  volume = {23},
+  number = {4},
+  pages = {257--269}
+}
+```

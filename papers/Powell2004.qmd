@@ -1,0 +1,28 @@
+---
+title: "Virtual Teams: A Review of Current Literature and Directions for Future Research"
+author:
+- Powell, Anne
+- Piccoli, Gabriele
+- Ives, Blake
+topic: ""
+categories: ['scoping-review']
+date: "2004"
+doi: ""
+journal:
+  name: "ACM SIGMIS Database"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Powell2004,
+  author = {Powell, Anne and Piccoli, Gabriele and Ives, Blake},
+  title = {Virtual Teams: A Review of Current Literature and Directions for Future Research},
+  year = {2004},
+  journal = {ACM SIGMIS Database},
+  volume = {35},
+  number = {1},
+  pages = {6--36}
+}
+```

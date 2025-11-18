@@ -1,0 +1,28 @@
+---
+title: "The Regulatory Considerations and Ethical Dilemmas of Location-based Services (LBS): A Literature Review"
+author:
+- Abbas, Roba
+- Michael, Katina
+- Michael, M. G.
+topic: ""
+categories: ['narrative-review']
+date: "2014"
+doi: ""
+journal:
+  name: "Information Technology & People"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Abbas2014,
+  author = {Abbas, Roba and Michael, Katina and Michael, M. G.},
+  title = {The Regulatory Considerations and Ethical Dilemmas of Location-based Services (LBS): A Literature Review},
+  year = {2014},
+  journal = {Information Technology & People},
+  volume = {27},
+  number = {1},
+  pages = {2--20}
+}
+```

@@ -1,0 +1,26 @@
+---
+title: "Customer Co-creation through the Lens of Service-dominant Logic - A literature Review"
+author:
+- Dam, Nguyen Anh Khoa
+- Le Dinh, Thang
+- Menvielle, William
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{DamLeDinhMenvielle2020a,
+  author = {Dam, Nguyen Anh Khoa and Le Dinh, Thang and Menvielle, William},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Customer Co-creation through the Lens of Service-dominant Logic - A literature Review},
+  year = {2020},
+  url = {https://aisel.aisnet.org/amcis2020/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/29}
+}
+```

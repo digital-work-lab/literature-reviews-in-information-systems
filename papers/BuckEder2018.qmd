@@ -1,0 +1,25 @@
+---
+title: "The Impact of Digitization on Business Models - A Systematic Literature Review"
+author:
+- Buck, Christoph
+- Eder, David
+topic: ""
+categories: []
+date: "2018"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{BuckEder2018,
+  author = {Buck, Christoph and Eder, David},
+  booktitle = {Americas Conference on Information Systems},
+  title = {The Impact of Digitization on Business Models - A Systematic Literature Review},
+  year = {2018},
+  url = {https://aisel.aisnet.org/amcis2018/StrategicIT/Presentations/6}
+}
+```

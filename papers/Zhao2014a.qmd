@@ -1,0 +1,27 @@
+---
+title: "Evaluation on Crowdsourcing Research: Current Status and Future Direction"
+author:
+- Zhao, Yuxiang
+- Zhu, Qinghua
+topic: ""
+categories: ['scoping-review']
+date: "2014"
+doi: ""
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Zhao2014a,
+  author = {Zhao, Yuxiang and Zhu, Qinghua},
+  title = {Evaluation on Crowdsourcing Research: Current Status and Future Direction},
+  year = {2014},
+  journal = {Information Systems Frontiers},
+  volume = {16},
+  number = {3},
+  pages = {417--434}
+}
+```

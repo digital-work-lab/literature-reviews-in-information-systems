@@ -1,0 +1,26 @@
+---
+title: "Valuation of IT Investments Using Real Options Theory"
+author:
+- Ullrich, Christian
+topic: ""
+categories: ['critical-review']
+date: "2013"
+doi: ""
+journal:
+  name: "Business & Information Systems Engineering"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Ullrich2013a,
+  author = {Ullrich, Christian},
+  title = {Valuation of IT Investments Using Real Options Theory},
+  year = {2013},
+  journal = {Business & Information Systems Engineering},
+  volume = {5},
+  number = {5},
+  pages = {331--341}
+}
+```

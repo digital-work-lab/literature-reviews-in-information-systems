@@ -1,0 +1,25 @@
+---
+title: "IFRS 9 (Financial Instruments) and the Heightened Demand for Big Data Governance. A Preliminary Literature Review"
+author:
+- Stead, Connor
+- Vatanasakdakul, Savanid
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{SteadVatanasakdakul2017,
+  author = {Stead, Connor and Vatanasakdakul, Savanid},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {IFRS 9 (Financial Instruments) and the Heightened Demand for Big Data Governance. A Preliminary Literature Review},
+  year = {2017},
+  url = {https://aisel.aisnet.org/pacis2017/249}
+}
+```

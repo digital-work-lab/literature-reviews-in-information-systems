@@ -1,0 +1,27 @@
+---
+title: "Towards an Integrative Approach for Automated Literature Reviews Using Machine Learning"
+author:
+- Tauchert, Christoph
+- Bender, Marco
+- Mesbah, Neda
+- Buxmann, Peter
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{TauchertBenderMesbahEtAl2020,
+  author = {Tauchert, Christoph and Bender, Marco and Mesbah, Neda and Buxmann, Peter},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Towards an Integrative Approach for Automated Literature Reviews Using Machine Learning},
+  year = {2020},
+  url = {http://hdl.handle.net/10125/63834}
+}
+```

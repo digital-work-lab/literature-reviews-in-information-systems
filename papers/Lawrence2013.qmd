@@ -1,0 +1,26 @@
+---
+title: "A Holistic Narrative of Culture's Mediation of Information Systems Innovation: A Qualitative Meta-Synthesis"
+author:
+- Lawrence, Carl
+topic: ""
+categories: ['narrative-review']
+date: "2013"
+doi: ""
+journal:
+  name: "Journal of Global Information Technology Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Lawrence2013,
+  author = {Lawrence, Carl},
+  title = {A Holistic Narrative of Culture's Mediation of Information Systems Innovation: A Qualitative Meta-Synthesis},
+  year = {2013},
+  journal = {Journal of Global Information Technology Management},
+  volume = {16},
+  number = {3},
+  pages = {31--52}
+}
+```

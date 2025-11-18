@@ -1,0 +1,25 @@
+---
+title: "What the Crowd Sources - A Protocol for a Contribution-Centred Systematic Literature Review of Data Crowdsourcing Research"
+author:
+- Murphy, Ryan J. A.
+- Parsons, Jeffrey
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{MurphyParsons2020,
+  author = {Murphy, Ryan J. A. and Parsons, Jeffrey},
+  booktitle = {Americas Conference on Information Systems},
+  title = {What the Crowd Sources - A Protocol for a Contribution-Centred Systematic Literature Review of Data Crowdsourcing Research},
+  year = {2020},
+  url = {https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/16}
+}
+```

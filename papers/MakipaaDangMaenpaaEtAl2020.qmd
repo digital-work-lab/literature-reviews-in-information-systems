@@ -1,0 +1,27 @@
+---
+title: "Citizen Science in Information Systems Research - Evidence From a Systematic Literature Review"
+author:
+- Mäkipää, Juho-Pekka
+- Dang, Duong
+- Mäenpää, Teemu
+- Pasanen, Tomi
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{MakipaaDangMaenpaaEtAl2020,
+  author = {Mäkipää, Juho-Pekka and Dang, Duong and Mäenpää, Teemu and Pasanen, Tomi},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Citizen Science in Information Systems Research - Evidence From a Systematic Literature Review},
+  year = {2020},
+  url = {http://hdl.handle.net/10125/64311}
+}
+```

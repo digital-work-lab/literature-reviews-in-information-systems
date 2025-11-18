@@ -1,0 +1,26 @@
+---
+title: "A Review of Modeling Approaches for Sustainable Supply Chain Management"
+author:
+- Seuring, Stefan
+topic: ""
+categories: ['descriptive-review']
+date: "2013"
+doi: ""
+journal:
+  name: "Decision Support Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Seuring2013,
+  author = {Seuring, Stefan},
+  title = {A Review of Modeling Approaches for Sustainable Supply Chain Management},
+  year = {2013},
+  journal = {Decision Support Systems},
+  volume = {54},
+  number = {4},
+  pages = {1513--1520}
+}
+```

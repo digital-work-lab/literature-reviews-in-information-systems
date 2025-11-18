@@ -1,0 +1,26 @@
+---
+title: "Transaction Costs and Information Systems: Does IT Add Up?"
+author:
+- Cordella, Antonio
+topic: ""
+categories: ['critical-review']
+date: "2009"
+doi: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Cordella2009,
+  author = {Cordella, Antonio},
+  title = {Transaction Costs and Information Systems: Does IT Add Up?},
+  year = {2009},
+  journal = {Journal of Information Technology},
+  volume = {21},
+  number = {3},
+  pages = {386--400}
+}
+```

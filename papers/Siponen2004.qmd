@@ -1,0 +1,27 @@
+---
+title: "Unauthorized Copying of Software and Levels of Moral Development: A Literature Analysis and Its Implications for Research and Practice"
+author:
+- Siponen, Mikko T.
+- Vartiainen, Tero
+topic: ""
+categories: ['narrative-review']
+date: "2004"
+doi: ""
+journal:
+  name: "Information Systems Journal"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Siponen2004,
+  author = {Siponen, Mikko T. and Vartiainen, Tero},
+  title = {Unauthorized Copying of Software and Levels of Moral Development: A Literature Analysis and Its Implications for Research and Practice},
+  year = {2004},
+  journal = {Information Systems Journal},
+  volume = {14},
+  number = {4},
+  pages = {387--407}
+}
+```

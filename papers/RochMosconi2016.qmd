@@ -1,0 +1,26 @@
+---
+title: "The Use of Social Media Tools in the Product Life Cycle Phases - A Systematic Literature Review"
+author:
+- Roch, Jeremi
+- Mosconi, Elaine
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.232"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{RochMosconi2016,
+  doi = {10.1109/HICSS.2016.232},
+  author = {Roch, Jeremi and Mosconi, Elaine},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {The Use of Social Media Tools in the Product Life Cycle Phases - A Systematic Literature Review},
+  year = {2016},
+  url = {https://ieeexplore.ieee.org/document/7427412}
+}
+```

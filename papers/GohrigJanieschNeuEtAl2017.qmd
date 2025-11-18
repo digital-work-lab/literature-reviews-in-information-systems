@@ -1,0 +1,28 @@
+---
+title: "Identification of current Key Topics in ERP Post-Implementation Research - a literature Review Classification Framework"
+author:
+- Göhrig, Sebastian
+- Janiesch, Christian
+- Neuß, Daniel
+- Kolb, Julian
+- Winkelmann, Axel
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{GohrigJanieschNeuEtAl2017,
+  author = {Göhrig, Sebastian and Janiesch, Christian and Neuß, Daniel and Kolb, Julian and Winkelmann, Axel},
+  booktitle = {European Conference on Information Systems},
+  title = {Identification of current Key Topics in ERP Post-Implementation Research - a literature Review Classification Framework},
+  year = {2017},
+  url = {http://aisel.aisnet.org/ecis2017_rip/12}
+}
+```

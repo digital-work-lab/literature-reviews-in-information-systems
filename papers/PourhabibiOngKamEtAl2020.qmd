@@ -1,0 +1,30 @@
+---
+title: "Fraud detection: A systematic literature review of graph-based anomaly detection approaches"
+author:
+- Pourhabibi, Tahereh
+- Ong, Kok-Leong
+- Kam, Booi
+- Boo, Yee Ling
+topic: ""
+categories: []
+date: "2020"
+doi: "https://doi.org/10.1016/J.DSS.2020.113303"
+journal:
+  name: "Decision Support Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{PourhabibiOngKamEtAl2020,
+  doi = {10.1016/J.DSS.2020.113303},
+  author = {Pourhabibi, Tahereh and Ong, Kok-Leong and Kam, Booi and Boo, Yee Ling},
+  journal = {Decision Support Systems},
+  title = {Fraud detection: A systematic literature review of graph-based anomaly detection approaches},
+  year = {2020},
+  volume = {133},
+  pages = {113303},
+  url = {https://www.sciencedirect.com/science/article/pii/S0167923620300580}
+}
+```

@@ -1,0 +1,26 @@
+---
+title: "Understanding Employee Responses to Software Robots: A Systematic Literature Review"
+author:
+- Seiffer, Anja
+- Gnewuch, Ulrich
+- Maedche, Alexander
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "International Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{SeifferGnewuchMaedche2021,
+  author = {Seiffer, Anja and Gnewuch, Ulrich and Maedche, Alexander},
+  booktitle = {International Conference on Information Systems},
+  title = {Understanding Employee Responses to Software Robots: A Systematic Literature Review},
+  year = {2021},
+  url = {https://aisel.aisnet.org/icis2021/is_future_work/is_future_work/5}
+}
+```

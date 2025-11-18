@@ -1,0 +1,30 @@
+---
+title: "Re-examining the Causal Structure of Information Technology Impact Research"
+author:
+- Paré, Guy
+- Bourdeau, Simon
+- Marsan, Josianne
+- Nach, Hamid
+- Shuraida, Shadi
+topic: ""
+categories: ['descriptive-review']
+date: "2008"
+doi: ""
+journal:
+  name: "European Journal of Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Pare2008,
+  author = {Paré, Guy and Bourdeau, Simon and Marsan, Josianne and Nach, Hamid and Shuraida, Shadi},
+  title = {Re-examining the Causal Structure of Information Technology Impact Research},
+  year = {2008},
+  journal = {European Journal of Information Systems},
+  volume = {17},
+  number = {4},
+  pages = {403--416}
+}
+```

@@ -1,0 +1,107 @@
+---
+title: "Paper Statistics"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+
+```{r}
+#| label: setup
+#| include: false
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(plotly)
+library(DT)
+
+# Load your dataset
+# Replace with your actual file
+df <- readr::read_csv("records.csv", show_col_types = FALSE)
+```
+
+## Publication Count Over Time
+
+```{r}
+#| label: pubs_over_time
+#| fig-cap: "Number of papers over time"
+
+df_time <- df %>%
+  dplyr::count(year) %>%
+  dplyr::arrange(year)
+
+plot_ly(
+  data = df_time,
+  x = ~year,
+  y = ~n,
+  type = "scatter",
+  mode = "lines+markers"
+) %>%
+  layout(
+    xaxis = list(title = "Year"),
+    yaxis = list(title = "Number of Publications")
+  )
+```
+
+## Journal Frequency Table
+
+```{r}
+#| label: journal_freq
+#| tbl-cap: "Frequency of journals"
+
+df %>%
+  dplyr::count(journal, sort = TRUE) %>%
+  DT::datatable(
+    options = list(pageLength = 10),
+    rownames = FALSE
+  )
+```
+
+## Journal Frequency Plot (Top 10 Journals)
+
+```{r}
+#| label: journal_freq_plot
+#| fig-cap: "Top Journals by Number of Publications"
+
+top_journals <- df %>%
+  dplyr::count(journal, sort = TRUE) %>%
+  dplyr::slice_max(n, n = 10)
+
+plot_ly(
+  data = top_journals,
+  x = ~n,
+  y = ~reorder(journal, n),
+  type = "bar",
+  orientation = "h"
+) %>%
+  layout(
+    xaxis = list(title = "Count"),
+    yaxis = list(title = "Journal")
+  )
+``` 
+
+## Types of reviews
+
+```{r}
+#| label: lr_type_pare_et_al
+#| fig-cap: "Distribution of literature review types (Paré et al.)"
+
+df_lr_type <- df %>%
+  dplyr::count(lr_type_pare_et_al, sort = TRUE)
+
+plot_ly(
+  data = df_lr_type,
+  x = ~lr_type_pare_et_al,
+  y = ~n,
+  type = "bar"
+) %>%
+  layout(
+    xaxis = list(title = "Literature review type"),
+    yaxis = list(title = "Count")
+  )
+```

@@ -1,0 +1,25 @@
+---
+title: "Privacy of the Internet of Things - A Systematic Literature Review"
+author:
+- Aleisa, Noura
+- Renaud, Karen
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{AleisaRenaud2017,
+  author = {Aleisa, Noura and Renaud, Karen},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Privacy of the Internet of Things - A Systematic Literature Review},
+  year = {2017},
+  url = {http://hdl.handle.net/10125/41881}
+}
+```

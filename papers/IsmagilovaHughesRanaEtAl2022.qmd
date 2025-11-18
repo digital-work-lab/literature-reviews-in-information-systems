@@ -1,0 +1,32 @@
+---
+title: "Security, Privacy and Risks Within Smart Cities: Literature Review and Development of a Smart City Interaction Framework"
+author:
+- Ismagilova, Elvira
+- Hughes, Laurie
+- Rana, Nripendra P.
+- Dwivedi, Yogesh K.
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1007/S10796-020-10044-1"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{IsmagilovaHughesRanaEtAl2022,
+  doi = {10.1007/S10796-020-10044-1},
+  author = {Ismagilova, Elvira and Hughes, Laurie and Rana, Nripendra P. and Dwivedi, Yogesh K.},
+  journal = {Information Systems Frontiers},
+  title = {Security, Privacy and Risks Within Smart Cities: Literature Review and Development of a Smart City Interaction Framework},
+  year = {2022},
+  volume = {24},
+  number = {2},
+  pages = {393--414},
+  url = {https://link.springer.com/article/10.1007/s10796-020-10044-1},
+  abstract = {Abstract The complex and interdependent nature of smart cities raises significant political, technical, and socioeconomic challenges for designers, integrators and organisations involved in administrating these new entities. An increasing number of studies focus on the security, privacy and risks within smart cities, highlighting the threats relating to information security and challenges for smart city infrastructure in the management and processing of personal data. This study analyses many of these challenges, offers a valuable synthesis of the relevant key literature, and develops a smart city interaction framework. The study is organised around a number of key themes within smart cities research: privacy and security of mobile devices and services; smart city infrastructure, power systems, healthcare, frameworks, algorithms and protocols to improve security and privacy, operational threats for smart cities, use and adoption of smart services by citizens, use of blockchain and use of social media. This comprehensive review provides a useful perspective on many of the key issues and offers key direction for future studies. The findings of this study can provide an informative research framework and reference point for academics and practitioners.}
+}
+```

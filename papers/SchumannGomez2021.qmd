@@ -1,0 +1,25 @@
+---
+title: "Natural Language Processing in Internal Auditing - a Structured Literature Review"
+author:
+- Schumann, Gerrit
+- Gómez, Jorge Marx
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{SchumannGomez2021,
+  author = {Schumann, Gerrit and Gómez, Jorge Marx},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Natural Language Processing in Internal Auditing - a Structured Literature Review},
+  year = {2021},
+  url = {https://aisel.aisnet.org/amcis2021/sig_acctinfosystem_asys/sig_acctinfosystem_asys/1}
+}
+```

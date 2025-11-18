@@ -1,0 +1,25 @@
+---
+title: "Enterprise Systems in the Public Sector - A Literature Review"
+author:
+- Roztocki, Narcyz
+- Strzelczyk, Wojciech
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{RoztockiStrzelczyk2020,
+  author = {Roztocki, Narcyz and Strzelczyk, Wojciech},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Enterprise Systems in the Public Sector - A Literature Review},
+  year = {2020},
+  url = {https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/23}
+}
+```

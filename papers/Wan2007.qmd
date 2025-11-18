@@ -1,0 +1,28 @@
+---
+title: "The Role of Information Technology in Technology-Mediated Learning: A Review of the Past for the Future"
+author:
+- Wan, Zeyin
+- Fang, Yulin
+- Neufeld, Derrick J.
+topic: ""
+categories: ['theoretical-review']
+date: "2007"
+doi: ""
+journal:
+  name: "Journal of Information Systems Education"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Wan2007,
+  author = {Wan, Zeyin and Fang, Yulin and Neufeld, Derrick J.},
+  title = {The Role of Information Technology in Technology-Mediated Learning: A Review of the Past for the Future},
+  year = {2007},
+  journal = {Journal of Information Systems Education},
+  volume = {18},
+  number = {2},
+  pages = {183--192}
+}
+```

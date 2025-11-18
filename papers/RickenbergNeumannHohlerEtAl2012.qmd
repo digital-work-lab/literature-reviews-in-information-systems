@@ -1,0 +1,27 @@
+---
+title: "Enterprise Content Management - A Literature Review"
+author:
+- Rickenberg, Tim A.
+- Neumann, Markus
+- Hohler, Bernd
+- Breitner, Michael H.
+topic: ""
+categories: []
+date: "2012"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{RickenbergNeumannHohlerEtAl2012,
+  author = {Rickenberg, Tim A. and Neumann, Markus and Hohler, Bernd and Breitner, Michael H.},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Enterprise Content Management - A Literature Review},
+  year = {2012},
+  url = {https://aisel.aisnet.org/amcis2012/proceedings/DataInfoQuality/10}
+}
+```

@@ -1,0 +1,26 @@
+---
+title: "Review of the Status of Cyberbullying and Cyberbullying Prevention"
+author:
+- Chisholm, June F.
+topic: ""
+categories: ['narrative-review']
+date: "2014"
+doi: ""
+journal:
+  name: "Journal of Information Systems Education"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Chisholm2014,
+  author = {Chisholm, June F.},
+  title = {Review of the Status of Cyberbullying and Cyberbullying Prevention},
+  year = {2014},
+  journal = {Journal of Information Systems Education},
+  volume = {25},
+  number = {1},
+  pages = {77--87}
+}
+```

@@ -1,0 +1,25 @@
+---
+title: "Identification of Business Services Literature Review and Lessons Learned"
+author:
+- Börner, René
+- Goeken, Matthias
+topic: ""
+categories: []
+date: "2009"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{BornerGoeken2009,
+  author = {Börner, René and Goeken, Matthias},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Identification of Business Services Literature Review and Lessons Learned},
+  year = {2009},
+  url = {https://aisel.aisnet.org/amcis2009/106}
+}
+```

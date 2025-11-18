@@ -1,0 +1,26 @@
+---
+title: "Theory of Workarounds"
+author:
+- Alter, Steven
+topic: ""
+categories: ['theoretical-review']
+date: "2014"
+doi: ""
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Alter2014,
+  author = {Alter, Steven},
+  title = {Theory of Workarounds},
+  year = {2014},
+  journal = {Communications of the Association for Information Systems},
+  volume = {34},
+  number = {1},
+  pages = {1041--1066}
+}
+```

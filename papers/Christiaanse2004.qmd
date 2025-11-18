@@ -1,0 +1,28 @@
+---
+title: "Proprietary Versus Internet Technologies and the Adoption and Impact of Electronic Marketplaces"
+author:
+- Christiaanse, Ellen
+- van Diepen, Tonja
+- Damsgaard, Jan
+topic: ""
+categories: ['theoretical-review']
+date: "2004"
+doi: ""
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Christiaanse2004,
+  author = {Christiaanse, Ellen and van Diepen, Tonja and Damsgaard, Jan},
+  title = {Proprietary Versus Internet Technologies and the Adoption and Impact of Electronic Marketplaces},
+  year = {2004},
+  journal = {The Journal of Strategic Information Systems},
+  volume = {13},
+  number = {2},
+  pages = {151--165}
+}
+```

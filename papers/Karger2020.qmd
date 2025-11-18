@@ -1,0 +1,24 @@
+---
+title: "Combining Blockchain and Artificial Intelligence - Literature Review and State of the Art"
+author:
+- Karger, Erik
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "International Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Karger2020,
+  author = {Karger, Erik},
+  booktitle = {International Conference on Information Systems},
+  title = {Combining Blockchain and Artificial Intelligence - Literature Review and State of the Art},
+  year = {2020},
+  url = {https://aisel.aisnet.org/icis2020/blockchain_fintech/blockchain_fintech/6}
+}
+```

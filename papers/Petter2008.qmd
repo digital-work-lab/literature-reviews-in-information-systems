@@ -1,0 +1,28 @@
+---
+title: "Measuring Information Systems Success: Models, Dimensions, Measures, and Interrelationships"
+author:
+- Petter, Stacie
+- DeLone, William H.
+- McLean, Ephraim R.
+topic: ""
+categories: ['qualitative-systematic-review']
+date: "2008"
+doi: ""
+journal:
+  name: "European Journal of Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Petter2008,
+  author = {Petter, Stacie and DeLone, William H. and McLean, Ephraim R.},
+  title = {Measuring Information Systems Success: Models, Dimensions, Measures, and Interrelationships},
+  year = {2008},
+  journal = {European Journal of Information Systems},
+  volume = {17},
+  number = {3},
+  pages = {236--263}
+}
+```

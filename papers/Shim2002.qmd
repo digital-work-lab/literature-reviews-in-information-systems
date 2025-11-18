@@ -1,0 +1,31 @@
+---
+title: "Past, Present, and Future of Decision Support Technology"
+author:
+- Shim, J. P.
+- Warkentin, Merrill
+- Courtney, James F.
+- Power, Daniel J.
+- Sharda, Ramesh
+- Carlsson, Christer
+topic: ""
+categories: ['narrative-review']
+date: "2002"
+doi: ""
+journal:
+  name: "Decision Support Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Shim2002,
+  author = {Shim, J. P. and Warkentin, Merrill and Courtney, James F. and Power, Daniel J. and Sharda, Ramesh and Carlsson, Christer},
+  title = {Past, Present, and Future of Decision Support Technology},
+  year = {2002},
+  journal = {Decision Support Systems},
+  volume = {33},
+  number = {2},
+  pages = {111--126}
+}
+```

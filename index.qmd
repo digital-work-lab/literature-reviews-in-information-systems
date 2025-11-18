@@ -3,17 +3,18 @@ title: "Home"
 format: html
 ---
 
+TODO: add a how-to-cite! + license
+
 ---
 title: "Database"
 listing:
   contents: papers
   type: table
-  fields: ["authors", "title", "journal.name", "date"]
-  filter: true
+  fields: ["author", "title", "journal.name", "date"]
   date-format: YYYY
   sort: "date desc"
   sort-ui: true
-  search: true
+  filter-ui: [author, title, journal.name]
   categories: true
   feed: 
     items: 10

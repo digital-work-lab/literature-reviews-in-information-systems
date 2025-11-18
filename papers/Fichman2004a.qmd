@@ -1,0 +1,26 @@
+---
+title: "Real Options and IT Platform Adoption: Implications for Theory and Practice"
+author:
+- Fichman, Robert G.
+topic: ""
+categories: ['theoretical-review']
+date: "2004"
+doi: ""
+journal:
+  name: "Information Systems Research"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Fichman2004a,
+  author = {Fichman, Robert G.},
+  title = {Real Options and IT Platform Adoption: Implications for Theory and Practice},
+  year = {2004},
+  journal = {Information Systems Research},
+  volume = {15},
+  number = {2},
+  pages = {132--154}
+}
+```

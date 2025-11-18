@@ -1,0 +1,28 @@
+---
+title: "Toward an Ontology of Workarounds - A Literature Review on Existing Concepts"
+author:
+- Röder, Nina
+- Wiesche, Manuel
+- Schermann, Michael
+- Krcmar, Helmut
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.640"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{RoderWiescheSchermannEtAl2016,
+  doi = {10.1109/HICSS.2016.640},
+  author = {Röder, Nina and Wiesche, Manuel and Schermann, Michael and Krcmar, Helmut},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Toward an Ontology of Workarounds - A Literature Review on Existing Concepts},
+  year = {2016},
+  url = {https://ieeexplore.ieee.org/document/7427827}
+}
+```

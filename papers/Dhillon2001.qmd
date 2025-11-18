@@ -1,0 +1,27 @@
+---
+title: "Current Directions in IS Security Research: Towards Socio-Organizational Perspectives"
+author:
+- Dhillon, Gurpreet
+- Backhouse, James
+topic: ""
+categories: ['scoping-review']
+date: "2001"
+doi: ""
+journal:
+  name: "Information Systems Journal"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Dhillon2001,
+  author = {Dhillon, Gurpreet and Backhouse, James},
+  title = {Current Directions in IS Security Research: Towards Socio-Organizational Perspectives},
+  year = {2001},
+  journal = {Information Systems Journal},
+  volume = {11},
+  number = {2},
+  pages = {127--153}
+}
+```

@@ -1,0 +1,27 @@
+---
+title: "Big Data Analytics-Enabled Supply Chain Transformation - A Literature Review"
+author:
+- Feki, Mondher
+- Boughzala, Imed
+- Wamba, Samuel Fosso
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.142"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{FekiBoughzalaWamba2016,
+  doi = {10.1109/HICSS.2016.142},
+  author = {Feki, Mondher and Boughzala, Imed and Wamba, Samuel Fosso},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Big Data Analytics-Enabled Supply Chain Transformation - A Literature Review},
+  year = {2016},
+  url = {http://doi.ieeecomputersociety.org/10.1109/HICSS.2016.142}
+}
+```

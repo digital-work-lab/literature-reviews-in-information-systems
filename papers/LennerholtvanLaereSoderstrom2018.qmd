@@ -1,0 +1,26 @@
+---
+title: "Implementation Challenges of Self Service Business Intelligence - A Literature Review"
+author:
+- Lennerholt, Christian
+- van Laere, Joeri
+- Söderström, Eva
+topic: ""
+categories: []
+date: "2018"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LennerholtvanLaereSoderstrom2018,
+  author = {Lennerholt, Christian and van Laere, Joeri and Söderström, Eva},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Implementation Challenges of Self Service Business Intelligence - A Literature Review},
+  year = {2018},
+  url = {http://hdl.handle.net/10125/50520}
+}
+```

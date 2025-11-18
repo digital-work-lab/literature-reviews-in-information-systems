@@ -1,0 +1,29 @@
+---
+title: "Towards a Systemic Framework for Digital Forensic Readiness"
+author:
+- Elyas, Mohamed
+- Maynard, Sean B.
+- Ahmad, Atif
+- Lonie, Andrew
+topic: ""
+categories: ['theoretical-review']
+date: "2014"
+doi: ""
+journal:
+  name: "Journal of Computer Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Elyas2014,
+  author = {Elyas, Mohamed and Maynard, Sean B. and Ahmad, Atif and Lonie, Andrew},
+  title = {Towards a Systemic Framework for Digital Forensic Readiness},
+  year = {2014},
+  journal = {Journal of Computer Information Systems},
+  volume = {54},
+  number = {3},
+  pages = {97--105}
+}
+```

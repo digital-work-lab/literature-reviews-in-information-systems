@@ -1,0 +1,25 @@
+---
+title: "Turning Big Data into Value - A Literature Review on Business Value Realization from Process Mining"
+author:
+- Eggers, Julia
+- Hein, Andreas
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{EggersHein2020,
+  author = {Eggers, Julia and Hein, Andreas},
+  booktitle = {European Conference on Information Systems},
+  title = {Turning Big Data into Value - A Literature Review on Business Value Realization from Process Mining},
+  year = {2020},
+  url = {https://aisel.aisnet.org/ecis2020_rp/57}
+}
+```

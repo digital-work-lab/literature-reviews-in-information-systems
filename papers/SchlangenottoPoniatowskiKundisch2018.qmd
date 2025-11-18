@@ -1,0 +1,26 @@
+---
+title: "What Drives Paid Search Success? A Systematic Literature Review"
+author:
+- Schlangenotto, Darius
+- Poniatowski, Martin
+- Kundisch, Dennis
+topic: ""
+categories: []
+date: "2018"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{SchlangenottoPoniatowskiKundisch2018,
+  author = {Schlangenotto, Darius and Poniatowski, Martin and Kundisch, Dennis},
+  booktitle = {Americas Conference on Information Systems},
+  title = {What Drives Paid Search Success? A Systematic Literature Review},
+  year = {2018},
+  url = {https://aisel.aisnet.org/amcis2018/MetaResearch/Presentations/2}
+}
+```

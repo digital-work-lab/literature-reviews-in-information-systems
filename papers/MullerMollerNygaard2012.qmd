@@ -1,0 +1,26 @@
+---
+title: "IT-enabled Process Innovation - A Literature Review"
+author:
+- Müller, Sune
+- Møller, Elisa
+- Nygaard, Thomas
+topic: ""
+categories: []
+date: "2012"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{MullerMollerNygaard2012,
+  author = {Müller, Sune and Møller, Elisa and Nygaard, Thomas},
+  booktitle = {Americas Conference on Information Systems},
+  title = {IT-enabled Process Innovation - A Literature Review},
+  year = {2012},
+  url = {https://aisel.aisnet.org/amcis2012/proceedings/OrganizationalIssuesIS/4}
+}
+```

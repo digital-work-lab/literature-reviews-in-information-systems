@@ -1,0 +1,27 @@
+---
+title: "A Review of Information Security Issues and Respective Research Contributions"
+author:
+- Siponen, Mikko T.
+- Oinas-Kukkonen, Harri
+topic: ""
+categories: ['narrative-review']
+date: "2007"
+doi: ""
+journal:
+  name: "ACM SIGMIS Database"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Siponen2007,
+  author = {Siponen, Mikko T. and Oinas-Kukkonen, Harri},
+  title = {A Review of Information Security Issues and Respective Research Contributions},
+  year = {2007},
+  journal = {ACM SIGMIS Database},
+  volume = {38},
+  number = {1},
+  pages = {60--80}
+}
+```

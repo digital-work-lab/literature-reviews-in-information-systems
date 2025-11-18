@@ -1,0 +1,25 @@
+---
+title: "Post-Adoption of Social Network sites - a literature Review and a Process Framework"
+author:
+- Lu, Yuan
+- Gallupe, R. Brent
+topic: ""
+categories: []
+date: "2016"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LuGallupe2016,
+  author = {Lu, Yuan and Gallupe, R. Brent},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Post-Adoption of Social Network sites - a literature Review and a Process Framework},
+  year = {2016},
+  url = {https://aisel.aisnet.org/pacis2016/329}
+}
+```

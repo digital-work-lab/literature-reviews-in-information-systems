@@ -1,0 +1,26 @@
+---
+title: "Unlashing the Next Wave of Business Models in the Internet of Things Era - New Directions for a Research Agenda based on a Systematic Literature Review"
+author:
+- Omerovic, Mirheta
+- Islam, Nihal
+- Buxmann, Peter
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{OmerovicIslamBuxmann2020,
+  author = {Omerovic, Mirheta and Islam, Nihal and Buxmann, Peter},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Unlashing the Next Wave of Business Models in the Internet of Things Era - New Directions for a Research Agenda based on a Systematic Literature Review},
+  year = {2020},
+  url = {http://hdl.handle.net/10125/64301}
+}
+```

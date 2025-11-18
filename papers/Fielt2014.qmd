@@ -1,0 +1,29 @@
+---
+title: "Exploring Shared Services from an IS Perspective : A Literature Review and Research Agenda"
+author:
+- Fielt, Erwin
+- Bandara, Wasana
+- Miskon, Suraya
+- Gable, Guy
+topic: ""
+categories: ['scoping-review']
+date: "2014"
+doi: ""
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Fielt2014,
+  author = {Fielt, Erwin and Bandara, Wasana and Miskon, Suraya and Gable, Guy},
+  title = {Exploring Shared Services from an IS Perspective : A Literature Review and Research Agenda},
+  year = {2014},
+  journal = {Communications of the Association for Information Systems},
+  volume = {34},
+  number = {1},
+  pages = {1001--1040}
+}
+```

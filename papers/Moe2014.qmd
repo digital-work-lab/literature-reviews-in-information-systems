@@ -1,0 +1,26 @@
+---
+title: "Research on Public Procurement of Information Systems: The Need for a Process Approach"
+author:
+- Moe, Carl Erik
+topic: ""
+categories: ['descriptive-review']
+date: "2014"
+doi: ""
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Moe2014,
+  author = {Moe, Carl Erik},
+  title = {Research on Public Procurement of Information Systems: The Need for a Process Approach},
+  year = {2014},
+  journal = {Communications of the Association for Information Systems},
+  volume = {34},
+  number = {1},
+  pages = {1319--1335}
+}
+```

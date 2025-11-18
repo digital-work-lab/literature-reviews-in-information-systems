@@ -1,0 +1,27 @@
+---
+title: "A Research Framework for Analysing eBusiness Models"
+author:
+- Pateli, Adamantia G.
+- Giaglis, George M.
+topic: ""
+categories: ['scoping-review']
+date: "2004"
+doi: ""
+journal:
+  name: "European Journal of Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Pateli2004,
+  author = {Pateli, Adamantia G. and Giaglis, George M.},
+  title = {A Research Framework for Analysing eBusiness Models},
+  year = {2004},
+  journal = {European Journal of Information Systems},
+  volume = {13},
+  number = {4},
+  pages = {302--314}
+}
+```

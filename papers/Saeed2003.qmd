@@ -1,0 +1,28 @@
+---
+title: "Toward an Integrative Framework for Online Consumer Behavior Research: A Meta-Analysis Approach"
+author:
+- Saeed, Khawaja A.
+- Hwang, Yujong
+- Yi, Mun Y.
+topic: ""
+categories: ['meta-analysis']
+date: "2003"
+doi: ""
+journal:
+  name: "Journal of Organizational and End User Computing"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Saeed2003,
+  author = {Saeed, Khawaja A. and Hwang, Yujong and Yi, Mun Y.},
+  title = {Toward an Integrative Framework for Online Consumer Behavior Research: A Meta-Analysis Approach},
+  year = {2003},
+  journal = {Journal of Organizational and End User Computing},
+  volume = {15},
+  number = {4},
+  pages = {1--26}
+}
+```

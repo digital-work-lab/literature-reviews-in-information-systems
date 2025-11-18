@@ -1,0 +1,25 @@
+---
+title: "The State of Social Computing Research - A Literature Review and Synthesis using the Latent Semantic Analysis Approach"
+author:
+- Li, Yibai
+- Joshi, K. D.
+topic: ""
+categories: []
+date: "2012"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LiJoshi2012,
+  author = {Li, Yibai and Joshi, K. D.},
+  booktitle = {Americas Conference on Information Systems},
+  title = {The State of Social Computing Research - A Literature Review and Synthesis using the Latent Semantic Analysis Approach},
+  year = {2012},
+  url = {https://aisel.aisnet.org/amcis2012/proceedings/DecisionSupport/13}
+}
+```

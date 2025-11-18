@@ -1,0 +1,28 @@
+---
+title: "Cognitive Biases in IS Research - A Framework Based on a Systematic Literature Review"
+author:
+- Godefroid, Marie
+- Zeuge, Anna
+- Oschinsky, Frederike Marie
+- Plattfaut, Ralf
+- Niehaves, Björn
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{GodefroidZeugeOschinskyEtAl2021,
+  author = {Godefroid, Marie and Zeuge, Anna and Oschinsky, Frederike Marie and Plattfaut, Ralf and Niehaves, Björn},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Cognitive Biases in IS Research - A Framework Based on a Systematic Literature Review},
+  year = {2021},
+  url = {https://aisel.aisnet.org/pacis2021/105}
+}
+```

@@ -1,0 +1,24 @@
+---
+title: "Advertising-Funded IS - A Literature Review on Factors Influencing Users Clicking Behavior for In-App Ads"
+author:
+- Mattke, Jens
+topic: ""
+categories: []
+date: "2019"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Mattke2019,
+  author = {Mattke, Jens},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Advertising-Funded IS - A Literature Review on Factors Influencing Users Clicking Behavior for In-App Ads},
+  year = {2019},
+  url = {https://aisel.aisnet.org/amcis2019/adoption_diffusion_IT/adoption_diffusion_IT/9}
+}
+```

@@ -1,0 +1,30 @@
+---
+title: "A Literature Review of Electronic Marketplace Research: Themes, Theories and an Integrative Framework"
+author:
+- Wang, Shan
+- Zheng, Shi
+- Xu, Lida
+- Li, Dezheng
+- Meng, Huan
+topic: ""
+categories: ['descriptive-review']
+date: "2008"
+doi: ""
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Wang2008,
+  author = {Wang, Shan and Zheng, Shi and Xu, Lida and Li, Dezheng and Meng, Huan},
+  title = {A Literature Review of Electronic Marketplace Research: Themes, Theories and an Integrative Framework},
+  year = {2008},
+  journal = {Information Systems Frontiers},
+  volume = {10},
+  number = {5},
+  pages = {555--571}
+}
+```

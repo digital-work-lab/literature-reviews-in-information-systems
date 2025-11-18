@@ -1,0 +1,28 @@
+---
+title: "Building a Knowledge Base for MIS Research: A Meta-Analysis of a Systems Success Model"
+author:
+- Hwang, Mark I.
+- Windsor, John C.
+- Pryor, Alan
+topic: ""
+categories: ['meta-analysis']
+date: "2000"
+doi: ""
+journal:
+  name: "Information Resources Management Journal"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Hwang2000,
+  author = {Hwang, Mark I. and Windsor, John C. and Pryor, Alan},
+  title = {Building a Knowledge Base for MIS Research: A Meta-Analysis of a Systems Success Model},
+  year = {2000},
+  journal = {Information Resources Management Journal},
+  volume = {13},
+  number = {2},
+  pages = {26--32}
+}
+```

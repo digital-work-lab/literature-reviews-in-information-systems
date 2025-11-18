@@ -1,0 +1,26 @@
+---
+title: "The Concept and Effects of Service Modularity -- A Literature Review"
+author:
+- Dörbecker, Regine
+- Böhmann, Tilo
+topic: ""
+categories: []
+date: "2013"
+doi: "https://doi.org/10.1109/HICSS.2013.22"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{DorbeckerBohmann2013,
+  doi = {10.1109/HICSS.2013.22},
+  author = {Dörbecker, Regine and Böhmann, Tilo},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {The Concept and Effects of Service Modularity -- A Literature Review},
+  year = {2013},
+  url = {https://ieeexplore.ieee.org/document/6479999/}
+}
+```

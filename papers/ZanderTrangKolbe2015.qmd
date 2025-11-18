@@ -1,0 +1,27 @@
+---
+title: "E-Collaboration in Interorganizational Networks - A Literature Review and an Agenda for Future Research"
+author:
+- Zander, Sebastian
+- Trang, Simon Thanh-Nam
+- Kolbe, Lutz M.
+topic: ""
+categories: []
+date: "2015"
+doi: "https://doi.org/10.1109/HICSS.2015.38"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{ZanderTrangKolbe2015,
+  doi = {10.1109/HICSS.2015.38},
+  author = {Zander, Sebastian and Trang, Simon Thanh-Nam and Kolbe, Lutz M.},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {E-Collaboration in Interorganizational Networks - A Literature Review and an Agenda for Future Research},
+  year = {2015},
+  url = {https://ieeexplore.ieee.org/document/7069686/}
+}
+```

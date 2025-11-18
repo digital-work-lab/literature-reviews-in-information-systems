@@ -1,0 +1,26 @@
+---
+title: "Exploring VC Reasearch - A Systematic Literature Review from 1985 to 2008"
+author:
+- Li, Honglei
+- Dwivedi, Yogesh Kumar
+- Williams, Michael D.
+topic: ""
+categories: []
+date: "2009"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LiDwivediWilliams2009,
+  author = {Li, Honglei and Dwivedi, Yogesh Kumar and Williams, Michael D.},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Exploring VC Reasearch - A Systematic Literature Review from 1985 to 2008},
+  year = {2009},
+  url = {https://aisel.aisnet.org/amcis2009/241}
+}
+```

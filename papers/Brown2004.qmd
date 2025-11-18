@@ -1,0 +1,26 @@
+---
+title: "Testing and Extending Theory in Strategic Information Systems Planning Through Literature Analysis"
+author:
+- Brown, Irwin T. J.
+topic: ""
+categories: ['meta-analysis']
+date: "2004"
+doi: ""
+journal:
+  name: "Information Resources Management Journal"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Brown2004,
+  author = {Brown, Irwin T. J.},
+  title = {Testing and Extending Theory in Strategic Information Systems Planning Through Literature Analysis},
+  year = {2004},
+  journal = {Information Resources Management Journal},
+  volume = {17},
+  number = {4},
+  pages = {19--47}
+}
+```

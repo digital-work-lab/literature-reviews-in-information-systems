@@ -1,0 +1,28 @@
+---
+title: "Electronic Commerce Research: A Taxonomy and Synthesis"
+author:
+- Urbaczewski, Adrew
+- Jessup, Leonard M.
+- Wheeler, Bradley
+topic: ""
+categories: ['scoping-review']
+date: "2002"
+doi: ""
+journal:
+  name: "Journal of Organizational Computing and Electronic Commerce"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Urbaczewski2002,
+  author = {Urbaczewski, Adrew and Jessup, Leonard M. and Wheeler, Bradley},
+  title = {Electronic Commerce Research: A Taxonomy and Synthesis},
+  year = {2002},
+  journal = {Journal of Organizational Computing and Electronic Commerce},
+  volume = {12},
+  number = {4},
+  pages = {263--305}
+}
+```

@@ -1,0 +1,29 @@
+---
+title: "Digital Platforms and Market Dominance - Insights from a Systematic Literature Review and Avenues for Future Research"
+author:
+- Hermes, Sebastian
+- Pfab, Simon
+- Hein, Andreas
+- Weking, Jörg
+- Böhm, Markus
+- Krcmar, Helmut
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{HermesPfabHeinEtAl2020,
+  author = {Hermes, Sebastian and Pfab, Simon and Hein, Andreas and Weking, Jörg and Böhm, Markus and Krcmar, Helmut},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Digital Platforms and Market Dominance - Insights from a Systematic Literature Review and Avenues for Future Research},
+  year = {2020},
+  url = {https://aisel.aisnet.org/pacis2020/42}
+}
+```

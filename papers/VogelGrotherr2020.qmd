@@ -1,0 +1,25 @@
+---
+title: "Collaborating with the Crowd for Software Requirements Engineering - A Literature Review"
+author:
+- Vogel, Pascal
+- Grotherr, Christian
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{VogelGrotherr2020,
+  author = {Vogel, Pascal and Grotherr, Christian},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Collaborating with the Crowd for Software Requirements Engineering - A Literature Review},
+  year = {2020},
+  url = {https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/1}
+}
+```

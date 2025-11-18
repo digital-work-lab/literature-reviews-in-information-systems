@@ -1,0 +1,25 @@
+---
+title: "Developing Intellectual Capital within Agile IT Teams - a literature Review"
+author:
+- Wiedemann, Anna
+- Weeger, Andy
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{WiedemannWeeger2017,
+  author = {Wiedemann, Anna and Weeger, Andy},
+  booktitle = {European Conference on Information Systems},
+  title = {Developing Intellectual Capital within Agile IT Teams - a literature Review},
+  year = {2017},
+  url = {http://aisel.aisnet.org/ecis2017_rp/91}
+}
+```

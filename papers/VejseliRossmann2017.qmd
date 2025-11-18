@@ -1,0 +1,25 @@
+---
+title: "The Impact of IT Governance on Firm Performance A Literature Review"
+author:
+- Vejseli, Sulejman
+- Rossmann, Alexander
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{VejseliRossmann2017,
+  author = {Vejseli, Sulejman and Rossmann, Alexander},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {The Impact of IT Governance on Firm Performance A Literature Review},
+  year = {2017},
+  url = {https://aisel.aisnet.org/pacis2017/41}
+}
+```

@@ -1,0 +1,28 @@
+---
+title: "Digital Nudging Toward Pro-Environmental Behavior - A Literature Review"
+author:
+- Zimmermann, Sina
+- Hein, Andreas
+- Schulz, Thomas
+- Gewald, Heiko
+- Krcmar, Helmut
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{ZimmermannHeinSchulzEtAl2021,
+  author = {Zimmermann, Sina and Hein, Andreas and Schulz, Thomas and Gewald, Heiko and Krcmar, Helmut},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Digital Nudging Toward Pro-Environmental Behavior - A Literature Review},
+  year = {2021},
+  url = {https://aisel.aisnet.org/pacis2021/226}
+}
+```

@@ -1,0 +1,26 @@
+---
+title: "An Integrative Literature Review And Empirical Validation Of Motives For Introducing Shared Services In Government Organizations"
+author:
+- Paagman, Arnaud
+- Tate, Mary
+- Furtmueller, Elfi
+topic: ""
+categories: []
+date: "2013"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{PaagmanTateFurtmueller2013,
+  author = {Paagman, Arnaud and Tate, Mary and Furtmueller, Elfi},
+  booktitle = {European Conference on Information Systems},
+  title = {An Integrative Literature Review And Empirical Validation Of Motives For Introducing Shared Services In Government Organizations},
+  year = {2013},
+  url = {http://aisel.aisnet.org/ecis2013_cr/100}
+}
+```

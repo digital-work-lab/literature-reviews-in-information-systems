@@ -1,0 +1,26 @@
+---
+title: "Work System Theory: Overview of Core Concepts, Extensions, and Challenges for the Future"
+author:
+- Alter, Steven
+topic: ""
+categories: ['theoretical-review']
+date: "2013"
+doi: ""
+journal:
+  name: "Journal of the Association for Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Alter2013,
+  author = {Alter, Steven},
+  title = {Work System Theory: Overview of Core Concepts, Extensions, and Challenges for the Future},
+  year = {2013},
+  journal = {Journal of the Association for Information Systems},
+  volume = {14},
+  number = {2},
+  pages = {72--121}
+}
+```

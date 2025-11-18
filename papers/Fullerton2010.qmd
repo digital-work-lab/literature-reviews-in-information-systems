@@ -1,0 +1,27 @@
+---
+title: "Information Technology Flexibility: A Synthesized Model from Existing Literature"
+author:
+- Fullerton, Tom
+- Ness, Lawrence
+topic: ""
+categories: ['theoretical-review']
+date: "2010"
+doi: ""
+journal:
+  name: "Journal of Information Technology Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Fullerton2010,
+  author = {Fullerton, Tom and Ness, Lawrence},
+  title = {Information Technology Flexibility: A Synthesized Model from Existing Literature},
+  year = {2010},
+  journal = {Journal of Information Technology Management},
+  volume = {21},
+  number = {3},
+  pages = {51--59}
+}
+```

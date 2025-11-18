@@ -1,0 +1,29 @@
+---
+title: "Beyond the Border - A Comparative Literature Review on Communication Practices for Agile Global Outsourced Software Development Projects"
+author:
+- Dreesen, Tim
+- Linden, Robert
+- Meures, Caroline
+- Schmidt, Nikolaus
+- Rosenkranz, Christoph
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.612"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{DreesenLindenMeuresEtAl2016,
+  doi = {10.1109/HICSS.2016.612},
+  author = {Dreesen, Tim and Linden, Robert and Meures, Caroline and Schmidt, Nikolaus and Rosenkranz, Christoph},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Beyond the Border - A Comparative Literature Review on Communication Practices for Agile Global Outsourced Software Development Projects},
+  year = {2016},
+  url = {https://ieeexplore.ieee.org/document/7427799}
+}
+```

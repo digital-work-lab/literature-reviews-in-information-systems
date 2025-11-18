@@ -1,0 +1,24 @@
+---
+title: "State of the art concerning the integration of methods and techniques in quality management - literature review and an agenda for research"
+author:
+- Johannsen, Florian
+topic: ""
+categories: []
+date: "2011"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Johannsen2011,
+  author = {Johannsen, Florian},
+  booktitle = {European Conference on Information Systems},
+  title = {State of the art concerning the integration of methods and techniques in quality management - literature review and an agenda for research},
+  year = {2011},
+  url = {http://aisel.aisnet.org/ecis2011/41}
+}
+```

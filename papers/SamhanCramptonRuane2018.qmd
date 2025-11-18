@@ -1,0 +1,29 @@
+---
+title: "The Trajectory of IT in Healthcare at HICSS - A Literature Review, Analysis, and Future Directions"
+author:
+- Samhan, Bahae
+- Crampton, Tara
+- Ruane, Regina
+topic: ""
+categories: []
+date: "2018"
+doi: "https://doi.org/10.17705/1CAIS.04341"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{SamhanCramptonRuane2018,
+  doi = {10.17705/1CAIS.04341},
+  author = {Samhan, Bahae and Crampton, Tara and Ruane, Regina},
+  journal = {Communications of the Association for Information Systems},
+  title = {The Trajectory of IT in Healthcare at HICSS - A Literature Review, Analysis, and Future Directions},
+  year = {2018},
+  volume = {43},
+  pages = {792--845},
+  url = {https://aisel.aisnet.org/cais/vol43/iss1/41}
+}
+```

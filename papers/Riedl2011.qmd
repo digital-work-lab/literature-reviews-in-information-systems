@@ -1,0 +1,28 @@
+---
+title: "Why E-Service Development is Different: A Literature Review"
+author:
+- Riedl, Christoph
+- Leimeister, Jan Marco
+- Krcmar, Helmut
+topic: ""
+categories: ['scoping-review']
+date: "2011"
+doi: ""
+journal:
+  name: "e-Service Journal"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Riedl2011,
+  author = {Riedl, Christoph and Leimeister, Jan Marco and Krcmar, Helmut},
+  title = {Why E-Service Development is Different: A Literature Review},
+  year = {2011},
+  journal = {e-Service Journal},
+  volume = {8},
+  number = {1},
+  pages = {2--22}
+}
+```

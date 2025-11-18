@@ -1,0 +1,26 @@
+---
+title: "IT Value: The Great Divide Between Qualitative and Quantitative and Individual and Organizational Measures"
+author:
+- Chan, Yolande E.
+topic: ""
+categories: ['descriptive-review']
+date: "2000"
+doi: ""
+journal:
+  name: "Journal of Management Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Chan2000,
+  author = {Chan, Yolande E.},
+  title = {IT Value: The Great Divide Between Qualitative and Quantitative and Individual and Organizational Measures},
+  year = {2000},
+  journal = {Journal of Management Information Systems},
+  volume = {16},
+  number = {4},
+  pages = {225--261}
+}
+```

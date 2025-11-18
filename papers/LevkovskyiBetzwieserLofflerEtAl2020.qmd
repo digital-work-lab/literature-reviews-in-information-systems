@@ -1,0 +1,27 @@
+---
+title: "Why Do Organizations Change? A Literature Review on Drivers and Measures of Success for Digital Transformation"
+author:
+- Levkovskyi, Borys
+- Betzwieser, Benedikt
+- Löffler, Alexander
+- Wittges, Holger
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LevkovskyiBetzwieserLofflerEtAl2020,
+  author = {Levkovskyi, Borys and Betzwieser, Benedikt and Löffler, Alexander and Wittges, Holger},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Why Do Organizations Change? A Literature Review on Drivers and Measures of Success for Digital Transformation},
+  year = {2020},
+  url = {https://aisel.aisnet.org/amcis2020/org_transformation_is/org_transformation_is/25}
+}
+```

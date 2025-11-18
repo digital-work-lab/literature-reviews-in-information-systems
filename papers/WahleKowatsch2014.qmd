@@ -1,0 +1,25 @@
+---
+title: "Towards the Design of Evidence-based Mental Health Information Systems - A Preliminary Literature Review"
+author:
+- Wahle, Fabian
+- Kowatsch, Tobias
+topic: ""
+categories: []
+date: "2014"
+doi: ""
+journal:
+  name: "International Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{WahleKowatsch2014,
+  author = {Wahle, Fabian and Kowatsch, Tobias},
+  booktitle = {International Conference on Information Systems},
+  title = {Towards the Design of Evidence-based Mental Health Information Systems - A Preliminary Literature Review},
+  year = {2014},
+  url = {http://aisel.aisnet.org/icis2014/proceedings/ISHealthcare/17}
+}
+```

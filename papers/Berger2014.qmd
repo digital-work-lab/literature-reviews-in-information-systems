@@ -1,0 +1,29 @@
+---
+title: "A Review of Information Systems Research on Online Social Networks"
+author:
+- Berger, Katharina
+- Klier, Julia
+- Klier, Mathias
+- Probst, Florian
+topic: ""
+categories: ['descriptive-review']
+date: "2014"
+doi: ""
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Berger2014,
+  author = {Berger, Katharina and Klier, Julia and Klier, Mathias and Probst, Florian},
+  title = {A Review of Information Systems Research on Online Social Networks},
+  year = {2014},
+  journal = {Communications of the Association for Information Systems},
+  volume = {35},
+  number = {1},
+  pages = {145--172}
+}
+```

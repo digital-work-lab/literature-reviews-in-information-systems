@@ -1,0 +1,26 @@
+---
+title: "The Current State of Social Media Research for eParticipation in Developing Countries - A Literature Review"
+author:
+- Dini, Alfatika Aunuriella
+- Sæbø, Øystein
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.339"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{DiniSbo2016,
+  doi = {10.1109/HICSS.2016.339},
+  author = {Dini, Alfatika Aunuriella and Sæbø, Øystein},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {The Current State of Social Media Research for eParticipation in Developing Countries - A Literature Review},
+  year = {2016},
+  url = {https://ieeexplore.ieee.org/document/7427522/}
+}
+```

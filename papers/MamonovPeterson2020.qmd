@@ -1,0 +1,25 @@
+---
+title: "The Role of IT in Innovation at the Organizational Level - A Literature Review"
+author:
+- Mamonov, Stanislav
+- Peterson, Richard
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{MamonovPeterson2020,
+  author = {Mamonov, Stanislav and Peterson, Richard},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {The Role of IT in Innovation at the Organizational Level - A Literature Review},
+  year = {2020},
+  url = {http://hdl.handle.net/10125/64322}
+}
+```

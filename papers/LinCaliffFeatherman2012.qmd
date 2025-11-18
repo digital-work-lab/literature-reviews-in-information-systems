@@ -1,0 +1,26 @@
+---
+title: "Gender Differences in IS - A literature Review"
+author:
+- Lin, Xiaolin
+- Califf, Christopher B.
+- Featherman, Mauricio
+topic: ""
+categories: []
+date: "2012"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LinCaliffFeatherman2012,
+  author = {Lin, Xiaolin and Califf, Christopher B. and Featherman, Mauricio},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Gender Differences in IS - A literature Review},
+  year = {2012},
+  url = {https://aisel.aisnet.org/amcis2012/proceedings/SocialIssues/20}
+}
+```

@@ -1,0 +1,27 @@
+---
+title: "Deriving a Research Agenda for the Management of Multisourcing Relationships Based on a Literature Review"
+author:
+- Herz, Thomas
+- Hamel, Florian
+- Uebernickel, Falk
+- Brenner, Walter
+topic: ""
+categories: []
+date: "2010"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{HerzHamelUebernickelEtAl2010,
+  author = {Herz, Thomas and Hamel, Florian and Uebernickel, Falk and Brenner, Walter},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Deriving a Research Agenda for the Management of Multisourcing Relationships Based on a Literature Review},
+  year = {2010},
+  url = {https://aisel.aisnet.org/amcis2010/357}
+}
+```

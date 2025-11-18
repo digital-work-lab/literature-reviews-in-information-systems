@@ -1,0 +1,28 @@
+---
+title: "A Meta-Analysis Comparing Relational and Semantic Models"
+author:
+- Siau, Keng
+- Nah, Fiona Fui-Hoon
+- Cao, Qing
+topic: ""
+categories: ['meta-analysis']
+date: "2011"
+doi: ""
+journal:
+  name: "Journal of Database Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Siau2011,
+  author = {Siau, Keng and Nah, Fiona Fui-Hoon and Cao, Qing},
+  title = {A Meta-Analysis Comparing Relational and Semantic Models},
+  year = {2011},
+  journal = {Journal of Database Management},
+  volume = {22},
+  number = {4},
+  pages = {57--72}
+}
+```

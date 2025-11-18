@@ -1,0 +1,28 @@
+---
+title: "Success Factors and Value Propositions of Software as a Service Providers - A Literature Review and Classification"
+author:
+- Walther, Sebastian
+- Plank, Andreas
+- Eymann, Torsten
+- Singh, Niraj
+- Phadke, Gaurang
+topic: ""
+categories: []
+date: "2012"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{WaltherPlankEymannEtAl2012,
+  author = {Walther, Sebastian and Plank, Andreas and Eymann, Torsten and Singh, Niraj and Phadke, Gaurang},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Success Factors and Value Propositions of Software as a Service Providers - A Literature Review and Classification},
+  year = {2012},
+  url = {https://aisel.aisnet.org/amcis2012/proceedings/EnterpriseSystems/1}
+}
+```

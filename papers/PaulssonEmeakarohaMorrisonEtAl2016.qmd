@@ -1,0 +1,27 @@
+---
+title: "Cloud Service Brokerage - A systematic literature review using a software development lifecycle"
+author:
+- Paulsson, Victoria
+- Emeakaroha, Vincent C.
+- Morrison, John P.
+- Lynn, Theo
+topic: ""
+categories: []
+date: "2016"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{PaulssonEmeakarohaMorrisonEtAl2016,
+  author = {Paulsson, Victoria and Emeakaroha, Vincent C. and Morrison, John P. and Lynn, Theo},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Cloud Service Brokerage - A systematic literature review using a software development lifecycle},
+  year = {2016},
+  url = {https://aisel.aisnet.org/amcis2016/DigitalComm/Presentations/19}
+}
+```

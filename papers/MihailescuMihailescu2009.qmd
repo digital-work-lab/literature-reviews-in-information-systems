@@ -1,0 +1,25 @@
+---
+title: "Exploring the Nature of Information Systems Development Methodology - A Synthesized View Based on a Literature Review"
+author:
+- Mihailescu, Daniela
+- Mihailescu, Marius
+topic: ""
+categories: []
+date: "2009"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{MihailescuMihailescu2009,
+  author = {Mihailescu, Daniela and Mihailescu, Marius},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Exploring the Nature of Information Systems Development Methodology - A Synthesized View Based on a Literature Review},
+  year = {2009},
+  url = {https://aisel.aisnet.org/amcis2009/301}
+}
+```

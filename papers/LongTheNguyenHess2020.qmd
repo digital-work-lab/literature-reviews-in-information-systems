@@ -1,0 +1,25 @@
+---
+title: "Motivation to Use IS - A Literature Review"
+author:
+- Nguyen, Long The
+- Hess, Traci J.
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LongTheNguyenHess2020,
+  author = {Nguyen, Long The and Hess, Traci J.},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Motivation to Use IS - A Literature Review},
+  year = {2020},
+  url = {https://aisel.aisnet.org/amcis2020/meta_research_is/meta_research_is/3}
+}
+```

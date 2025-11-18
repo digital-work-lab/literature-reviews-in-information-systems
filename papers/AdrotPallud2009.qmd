@@ -1,0 +1,25 @@
+---
+title: "Crisis Response and IT Use Literature Review and Suggestions for Future Research"
+author:
+- Adrot, Anouck
+- Pallud, Jessie
+topic: ""
+categories: []
+date: "2009"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{AdrotPallud2009,
+  author = {Adrot, Anouck and Pallud, Jessie},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Crisis Response and IT Use Literature Review and Suggestions for Future Research},
+  year = {2009},
+  url = {https://aisel.aisnet.org/amcis2009/366}
+}
+```

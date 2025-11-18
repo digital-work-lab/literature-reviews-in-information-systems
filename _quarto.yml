@@ -15,11 +15,15 @@ website:
   title: "Literature Reviews in Information Systems"
   navbar:
     left:
-      - text: "Overview"
+      - text: "Database"
         href: index.qmd
+      - text: "Statistics"
+        href: statistics.qmd
       - text: "About"
         href: about.qmd
 
+      - icon: github
+        href: https://github.com/digital-work-lab/literature-reviews-in-information-systems
 
 format:
   html:
@@ -29,6 +33,7 @@ format:
     toc-depth: 3
     code-fold: true
     smooth-scroll: true
+    body-width: 800px
 
 execute:
   freeze: auto

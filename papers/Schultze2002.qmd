@@ -1,0 +1,27 @@
+---
+title: "Studying Knowledge Management in Information Systems Research: Discourses and Theoretical Assumptions"
+author:
+- Schultze, Ulrike
+- Leidner, Dorothy E.
+topic: ""
+categories: ['scoping-review']
+date: "2002"
+doi: ""
+journal:
+  name: "MIS Quarterly"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Schultze2002,
+  author = {Schultze, Ulrike and Leidner, Dorothy E.},
+  title = {Studying Knowledge Management in Information Systems Research: Discourses and Theoretical Assumptions},
+  year = {2002},
+  journal = {MIS Quarterly},
+  volume = {26},
+  number = {3},
+  pages = {213--242}
+}
+```

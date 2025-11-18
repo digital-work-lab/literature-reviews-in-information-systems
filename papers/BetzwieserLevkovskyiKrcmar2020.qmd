@@ -1,0 +1,26 @@
+---
+title: "At the Nexus of Business Models and Business Processes - A Systematic Literature Review"
+author:
+- Betzwieser, Benedikt
+- Levkovskyi, Borys
+- Krcmar, Helmut
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{BetzwieserLevkovskyiKrcmar2020,
+  author = {Betzwieser, Benedikt and Levkovskyi, Borys and Krcmar, Helmut},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {At the Nexus of Business Models and Business Processes - A Systematic Literature Review},
+  year = {2020},
+  url = {https://aisel.aisnet.org/pacis2020/150}
+}
+```

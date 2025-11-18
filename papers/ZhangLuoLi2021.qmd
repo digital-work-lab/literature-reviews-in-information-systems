@@ -1,0 +1,26 @@
+---
+title: "Depression Detection Using Virtual Reality - A Literature Review"
+author:
+- Zhang, Chi
+- Luo, Hao
+- Li, Yi
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{ZhangLuoLi2021,
+  author = {Zhang, Chi and Luo, Hao and Li, Yi},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Depression Detection Using Virtual Reality - A Literature Review},
+  year = {2021},
+  url = {http://hdl.handle.net/10125/71103}
+}
+```

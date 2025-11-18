@@ -1,0 +1,28 @@
+---
+title: "Enterprise Social Networking: Opportunities, Adoption, and Risk Mitigation"
+author:
+- Turban, Efraim
+- Bolloju, Narasimha
+- Liang, Ting-Peng
+topic: ""
+categories: ['theoretical-review']
+date: "2011"
+doi: ""
+journal:
+  name: "Journal of Organizational Computing and Electronic Commerce"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Turban2011,
+  author = {Turban, Efraim and Bolloju, Narasimha and Liang, Ting-Peng},
+  title = {Enterprise Social Networking: Opportunities, Adoption, and Risk Mitigation},
+  year = {2011},
+  journal = {Journal of Organizational Computing and Electronic Commerce},
+  volume = {21},
+  number = {3},
+  pages = {202--220}
+}
+```

@@ -1,0 +1,28 @@
+---
+title: "A Review of the Predictors, Linkages, and Biases in IT Innovation Adoption Research"
+author:
+- Jeyaraj, Anand
+- Rottman, Joseph W.
+- Lacity, Mary C.
+topic: ""
+categories: ['qualitative-systematic-review']
+date: "2006"
+doi: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Jeyaraj2006,
+  author = {Jeyaraj, Anand and Rottman, Joseph W. and Lacity, Mary C.},
+  title = {A Review of the Predictors, Linkages, and Biases in IT Innovation Adoption Research},
+  year = {2006},
+  journal = {Journal of Information Technology},
+  volume = {21},
+  number = {1},
+  pages = {1--23}
+}
+```

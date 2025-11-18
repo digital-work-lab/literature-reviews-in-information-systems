@@ -1,0 +1,25 @@
+---
+title: "Big Data and Business Analytic Concepts - A Literature Review"
+author:
+- Fernando, Fabiane
+- Engel, Tobias
+topic: ""
+categories: []
+date: "2018"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{FernandoEngel2018,
+  author = {Fernando, Fabiane and Engel, Tobias},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Big Data and Business Analytic Concepts - A Literature Review},
+  year = {2018},
+  url = {https://aisel.aisnet.org/amcis2018/DataScience/Presentations/8}
+}
+```

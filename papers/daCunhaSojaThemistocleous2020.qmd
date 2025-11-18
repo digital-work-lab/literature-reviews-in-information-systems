@@ -1,0 +1,26 @@
+---
+title: "Blockchain for Development - Preliminary Insights from a Literature Review"
+author:
+- da Cunha, Paulo Rupino
+- Soja, Piotr
+- Themistocleous, Marinos
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{daCunhaSojaThemistocleous2020,
+  author = {da Cunha, Paulo Rupino and Soja, Piotr and Themistocleous, Marinos},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Blockchain for Development - Preliminary Insights from a Literature Review},
+  year = {2020},
+  url = {https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/10}
+}
+```

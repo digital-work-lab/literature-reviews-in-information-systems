@@ -1,0 +1,26 @@
+---
+title: "Computer Interaction for Older Users - A Literature Review"
+author:
+- Wagner, Nicole L.
+- Hassanein, Khaled
+- Head, Milena M.
+topic: ""
+categories: []
+date: "2007"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{WagnerHassaneinHead2007,
+  author = {Wagner, Nicole L. and Hassanein, Khaled and Head, Milena M.},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Computer Interaction for Older Users - A Literature Review},
+  year = {2007},
+  url = {https://aisel.aisnet.org/amcis2007/264}
+}
+```

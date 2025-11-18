@@ -1,0 +1,28 @@
+---
+title: "The Social Network Structure of Alignment - A Literature Review"
+author:
+- Walentowitz, Katja
+- Beimborn, Daniel
+- Schroiff, Anna
+- Weitzel, Tim
+topic: ""
+categories: []
+date: "2011"
+doi: "https://doi.org/10.1109/HICSS.2011.434"
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{WalentowitzBeimbornSchroiffEtAl2011,
+  doi = {10.1109/HICSS.2011.434},
+  author = {Walentowitz, Katja and Beimborn, Daniel and Schroiff, Anna and Weitzel, Tim},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {The Social Network Structure of Alignment - A Literature Review},
+  year = {2011},
+  url = {https://ieeexplore.ieee.org/document/5718956}
+}
+```

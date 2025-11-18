@@ -1,0 +1,26 @@
+---
+title: "Business Intelligence System Adoption, Utilization and Success - A Systematic Literature Review"
+author:
+- Ain, NoorUl
+- Vaia, Giovanni
+- DeLone, William H.
+topic: ""
+categories: []
+date: "2019"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{AinVaiaDeLone2019,
+  author = {Ain, NoorUl and Vaia, Giovanni and DeLone, William H.},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Business Intelligence System Adoption, Utilization and Success - A Systematic Literature Review},
+  year = {2019},
+  url = {http://hdl.handle.net/10125/60024}
+}
+```

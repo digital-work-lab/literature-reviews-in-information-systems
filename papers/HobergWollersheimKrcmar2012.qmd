@@ -1,0 +1,26 @@
+---
+title: "The Business Perspective on Cloud Computing - A Literature Review of Research on Cloud Computing"
+author:
+- Hoberg, Patrick
+- Wollersheim, Jan
+- Krcmar, Helmut
+topic: ""
+categories: []
+date: "2012"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{HobergWollersheimKrcmar2012,
+  author = {Hoberg, Patrick and Wollersheim, Jan and Krcmar, Helmut},
+  booktitle = {Americas Conference on Information Systems},
+  title = {The Business Perspective on Cloud Computing - A Literature Review of Research on Cloud Computing},
+  year = {2012},
+  url = {https://aisel.aisnet.org/amcis2012/proceedings/EnterpriseSystems/5}
+}
+```

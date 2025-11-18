@@ -1,0 +1,25 @@
+---
+title: "Success Factors for the Adoption of Artificial Intelligence in Organizations - A Literature Review"
+author:
+- Hamm, Pascal
+- Klesel, Michael
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{HammKlesel2021,
+  author = {Hamm, Pascal and Klesel, Michael},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Success Factors for the Adoption of Artificial Intelligence in Organizations - A Literature Review},
+  year = {2021},
+  url = {https://aisel.aisnet.org/amcis2021/art_intel_sem_tech_intelligent_systems/art_intel_sem_tech_intelligent_systems/10}
+}
+```

@@ -1,0 +1,25 @@
+---
+title: "Service Design Methods' Ability to Personalize Telehealth - A Systematic Literature Review"
+author:
+- Aswad, Oday
+- Lessard, Lysanne
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{AswadLessard2021,
+  author = {Aswad, Oday and Lessard, Lysanne},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Service Design Methods' Ability to Personalize Telehealth - A Systematic Literature Review},
+  year = {2021},
+  url = {https://aisel.aisnet.org/amcis2021/healthcare_it/sig_health/13}
+}
+```

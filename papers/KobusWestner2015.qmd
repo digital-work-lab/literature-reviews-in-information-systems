@@ -1,0 +1,25 @@
+---
+title: "Lean Management of IT Organizations - A Literature Review"
+author:
+- Kobus, Jörn
+- Westner, Markus
+topic: ""
+categories: []
+date: "2015"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{KobusWestner2015,
+  author = {Kobus, Jörn and Westner, Markus},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Lean Management of IT Organizations - A Literature Review},
+  year = {2015},
+  url = {https://aisel.aisnet.org/pacis2015/172}
+}
+```

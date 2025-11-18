@@ -1,0 +1,30 @@
+---
+title: "Artificial Intelligence in Business: A Literature Review and Research Agenda"
+author:
+- Nguyen, Quynh N
+- Sidorova, Anna
+- Brint, G.
+- Torres, Russell
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.17705/1CAIS.05007"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{NguyenSidorovaBrintEtAl2022,
+  doi = {10.17705/1CAIS.05007},
+  author = {Nguyen, Quynh N and Sidorova, Anna and Brint, G. and Torres, Russell},
+  journal = {Communications of the Association for Information Systems},
+  title = {Artificial Intelligence in Business: A Literature Review and Research Agenda},
+  year = {2022},
+  volume = {50},
+  pages = {175--207},
+  url = {https://aisel.aisnet.org/cais/vol50/iss1/7}
+}
+```

@@ -1,0 +1,27 @@
+---
+title: "Understanding Self-Disclosure on Social Networking Sites - A Literature Review"
+author:
+- Abramova, Olga
+- Wagner, Amina
+- Krasnova, Hanna
+- Buxmann, Peter
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{AbramovaWagnerKrasnovaEtAl2017,
+  author = {Abramova, Olga and Wagner, Amina and Krasnova, Hanna and Buxmann, Peter},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Understanding Self-Disclosure on Social Networking Sites - A Literature Review},
+  year = {2017},
+  url = {https://aisel.aisnet.org/amcis2017/AdoptionIT/Presentations/30}
+}
+```

@@ -1,0 +1,29 @@
+---
+title: "Code camps and hackathons in education - literature review and lessons learned"
+author:
+- Porras, Jari
+- Knutas, Antti
+- Ikonen, Jouni
+- Happonen, Ari
+- Khakurel, Jayden
+- Herala, Antti
+topic: ""
+categories: []
+date: "2019"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{PorrasKnutasIkonenEtAl2019,
+  author = {Porras, Jari and Knutas, Antti and Ikonen, Jouni and Happonen, Ari and Khakurel, Jayden and Herala, Antti},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Code camps and hackathons in education - literature review and lessons learned},
+  year = {2019},
+  url = {http://hdl.handle.net/10125/60213}
+}
+```

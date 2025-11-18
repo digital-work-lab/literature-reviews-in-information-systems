@@ -1,0 +1,26 @@
+---
+title: "Communication Barriers in Crisis Management - a literature Review"
+author:
+- Fischer, Diana
+- Posegga, Oliver
+- Fischbach, Kai
+topic: ""
+categories: []
+date: "2016"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{FischerPoseggaFischbach2016,
+  author = {Fischer, Diana and Posegga, Oliver and Fischbach, Kai},
+  booktitle = {European Conference on Information Systems},
+  title = {Communication Barriers in Crisis Management - a literature Review},
+  year = {2016},
+  url = {http://aisel.aisnet.org/ecis2016_rp/168}
+}
+```

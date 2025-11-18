@@ -1,0 +1,27 @@
+---
+title: "Security Concerns Influencing the Adoption of Cloud Computing of SMEs - A Literature Review"
+author:
+- Nagahawatta, Ruwan
+- Warren, Matthew J.
+- Lokuge, Sachithra
+- Salzman, Scott
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+journal:
+  name: "Americas Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{NagahawattaWarrenLokugeEtAl2021,
+  author = {Nagahawatta, Ruwan and Warren, Matthew J. and Lokuge, Sachithra and Salzman, Scott},
+  booktitle = {Americas Conference on Information Systems},
+  title = {Security Concerns Influencing the Adoption of Cloud Computing of SMEs - A Literature Review},
+  year = {2021},
+  url = {https://aisel.aisnet.org/amcis2021/info_security/info_security/20}
+}
+```

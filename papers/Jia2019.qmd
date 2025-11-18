@@ -1,0 +1,24 @@
+---
+title: "Literature Review of YouTube in Teaching Activities"
+author:
+- Jia, Shizhen
+topic: ""
+categories: []
+date: "2019"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{Jia2019,
+  author = {Jia, Shizhen},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Literature Review of YouTube in Teaching Activities},
+  year = {2019},
+  url = {https://aisel.aisnet.org/pacis2019/228}
+}
+```

@@ -1,0 +1,28 @@
+---
+title: "A Meta-Analysis of the Consequences of Virtualness on Team Functioning"
+author:
+- Ortiz de Guinea, Ana
+- Webster, Jane
+- Staples, D. Sandy
+topic: ""
+categories: ['meta-analysis']
+date: "2012"
+doi: ""
+journal:
+  name: "Information & Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Guinea2012,
+  author = {Ortiz de Guinea, Ana and Webster, Jane and Staples, D. Sandy},
+  title = {A Meta-Analysis of the Consequences of Virtualness on Team Functioning},
+  year = {2012},
+  journal = {Information & Management},
+  volume = {49},
+  number = {6},
+  pages = {301--308}
+}
+```

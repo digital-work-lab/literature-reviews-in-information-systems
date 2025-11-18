@@ -1,0 +1,25 @@
+---
+title: "Innovation Wanted - a literature Review on Innovation Sourcing Engagements"
+author:
+- Linden, Robert
+- Schmidt, Nikolaus
+topic: ""
+categories: []
+date: "2016"
+doi: ""
+journal:
+  name: "Pacific Asia Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LindenSchmidt2016,
+  author = {Linden, Robert and Schmidt, Nikolaus},
+  booktitle = {Pacific Asia Conference on Information Systems},
+  title = {Innovation Wanted - a literature Review on Innovation Sourcing Engagements},
+  year = {2016},
+  url = {https://aisel.aisnet.org/pacis2016/83}
+}
+```

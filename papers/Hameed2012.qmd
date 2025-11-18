@@ -1,0 +1,28 @@
+---
+title: "A Meta-Analysis of Relationships between Organizational Characteristics and IT Innovation Adoption in Organizations"
+author:
+- Hameed, Mumtaz Abdul
+- Counsell, Steve
+- Swift, Stephen
+topic: ""
+categories: ['meta-analysis']
+date: "2012"
+doi: ""
+journal:
+  name: "Information & Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Hameed2012,
+  author = {Hameed, Mumtaz Abdul and Counsell, Steve and Swift, Stephen},
+  title = {A Meta-Analysis of Relationships between Organizational Characteristics and IT Innovation Adoption in Organizations},
+  year = {2012},
+  journal = {Information & Management},
+  volume = {49},
+  number = {5},
+  pages = {218--232}
+}
+```

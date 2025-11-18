@@ -1,0 +1,27 @@
+---
+title: "Developing a Frame of Reference for Ex-Ante IT/IS Investment Evaluation"
+author:
+- Irani, Zahir
+- Love, Peter E. D.
+topic: ""
+categories: ['narrative-review']
+date: "2002"
+doi: ""
+journal:
+  name: "European Journal of Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Irani2002,
+  author = {Irani, Zahir and Love, Peter E. D.},
+  title = {Developing a Frame of Reference for Ex-Ante IT/IS Investment Evaluation},
+  year = {2002},
+  journal = {European Journal of Information Systems},
+  volume = {11},
+  number = {1},
+  pages = {74--82}
+}
+```

@@ -1,0 +1,27 @@
+---
+title: "The Effects Playing Pokémon GO has on Physical Activity -A Systematic Literature Review"
+author:
+- Laato, Samuli
+- Hyrynsalmi, Sonja
+- Rauti, Sampsa
+- Sutinen, Erkki
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LaatoHyrynsalmiRautiEtAl2020,
+  author = {Laato, Samuli and Hyrynsalmi, Sonja and Rauti, Sampsa and Sutinen, Erkki},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {The Effects Playing Pokémon GO has on Physical Activity -A Systematic Literature Review},
+  year = {2020},
+  url = {http://hdl.handle.net/10125/64159}
+}
+```

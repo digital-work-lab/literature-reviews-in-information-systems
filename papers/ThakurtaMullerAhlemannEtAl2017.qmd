@@ -1,0 +1,27 @@
+---
+title: "The State of Design - A Comprehensive Literature Review to Chart the Design Science Research Discourse"
+author:
+- Thakurta, Rahul
+- Müller, Benjamin
+- Ahlemann, Frederik
+- Hoffmann, David
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{ThakurtaMullerAhlemannEtAl2017,
+  author = {Thakurta, Rahul and Müller, Benjamin and Ahlemann, Frederik and Hoffmann, David},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {The State of Design - A Comprehensive Literature Review to Chart the Design Science Research Discourse},
+  year = {2017},
+  url = {http://hdl.handle.net/10125/41733}
+}
+```

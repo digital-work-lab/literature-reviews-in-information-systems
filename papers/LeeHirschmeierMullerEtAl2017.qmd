@@ -1,0 +1,27 @@
+---
+title: "Enablers in Crisis Information Management - A Literature Review"
+author:
+- Lee, No-San
+- Hirschmeier, Stefan
+- Müller, Sven
+- Luz, Lars Jürgen
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+journal:
+  name: "Hawaii International Conference on System Sciences"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{LeeHirschmeierMullerEtAl2017,
+  author = {Lee, No-San and Hirschmeier, Stefan and Müller, Sven and Luz, Lars Jürgen},
+  booktitle = {Hawaii International Conference on System Sciences},
+  title = {Enablers in Crisis Information Management - A Literature Review},
+  year = {2017},
+  url = {http://hdl.handle.net/10125/41182}
+}
+```

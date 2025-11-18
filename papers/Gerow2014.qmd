@@ -1,0 +1,29 @@
+---
+title: "Looking Toward the Future of IT-Business Strategic Alignment through the Past: A Meta-Analysis"
+author:
+- Gerow, Jennifer E.
+- Grover, Varun
+- Thatcher, Jason
+- Roth, Philip L.
+topic: ""
+categories: ['meta-analysis']
+date: "2014"
+doi: ""
+journal:
+  name: "MIS Quarterly"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Gerow2014,
+  author = {Gerow, Jennifer E. and Grover, Varun and Thatcher, Jason and Roth, Philip L.},
+  title = {Looking Toward the Future of IT-Business Strategic Alignment through the Past: A Meta-Analysis},
+  year = {2014},
+  journal = {MIS Quarterly},
+  volume = {38},
+  number = {4},
+  pages = {1159--1185}
+}
+```

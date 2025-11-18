@@ -1,0 +1,26 @@
+---
+title: "Business Process Simulation - A Systematic Literature Review"
+author:
+- Rosenthal, Kristina
+- Ternes, Benjamin
+- Strecker, Stefan
+topic: ""
+categories: []
+date: "2018"
+doi: ""
+journal:
+  name: "European Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{RosenthalTernesStrecker2018,
+  author = {Rosenthal, Kristina and Ternes, Benjamin and Strecker, Stefan},
+  booktitle = {European Conference on Information Systems},
+  title = {Business Process Simulation - A Systematic Literature Review},
+  year = {2018},
+  url = {https://aisel.aisnet.org/ecis2018_rp/199}
+}
+```

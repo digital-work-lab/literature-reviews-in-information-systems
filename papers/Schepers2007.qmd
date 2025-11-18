@@ -1,0 +1,27 @@
+---
+title: "A Meta-Analysis of the Technology Acceptance Model: Investigating Subjective Norm and Moderation Effects"
+author:
+- Schepers, Jeroen
+- Wetzels, Martin
+topic: ""
+categories: ['meta-analysis']
+date: "2007"
+doi: ""
+journal:
+  name: "Information & Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Schepers2007,
+  author = {Schepers, Jeroen and Wetzels, Martin},
+  title = {A Meta-Analysis of the Technology Acceptance Model: Investigating Subjective Norm and Moderation Effects},
+  year = {2007},
+  journal = {Information & Management},
+  volume = {44},
+  number = {1},
+  pages = {90--103}
+}
+```

@@ -1,0 +1,26 @@
+---
+title: "Credible vs Fake - A Literature Review on Differentiating Online Reviews based on Credibility"
+author:
+- Abedin, Ehsan
+- Mendoza, Antonette
+- Karunasekera, Shanika
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+journal:
+  name: "International Conference on Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@inproceedings{AbedinMendozaKarunasekera2020,
+  author = {Abedin, Ehsan and Mendoza, Antonette and Karunasekera, Shanika},
+  booktitle = {International Conference on Information Systems},
+  title = {Credible vs Fake - A Literature Review on Differentiating Online Reviews based on Credibility},
+  year = {2020},
+  url = {https://aisel.aisnet.org/icis2020/social_media/social_media/2}
+}
+```

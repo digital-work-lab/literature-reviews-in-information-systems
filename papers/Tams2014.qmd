@@ -1,0 +1,28 @@
+---
+title: "Modern Information Technology in an Old Workforce: Toward a Strategic Research Agenda"
+author:
+- Tams, Stefan
+- Grover, Varun
+- Thatcher, Jason
+topic: ""
+categories: ['scoping-review']
+date: "2014"
+doi: ""
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Tams2014,
+  author = {Tams, Stefan and Grover, Varun and Thatcher, Jason},
+  title = {Modern Information Technology in an Old Workforce: Toward a Strategic Research Agenda},
+  year = {2014},
+  journal = {The Journal of Strategic Information Systems},
+  volume = {23},
+  number = {4},
+  pages = {284--304}
+}
+```

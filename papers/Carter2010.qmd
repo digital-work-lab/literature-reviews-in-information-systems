@@ -1,0 +1,26 @@
+---
+title: "IT Service Value Creation in a Global Environment"
+author:
+- Carter, Pamela E.
+topic: ""
+categories: ['theoretical-review']
+date: "2010"
+doi: ""
+journal:
+  name: "Journal of Global Information Technology Management"
+cited_by: 0
+---
+
+Citation:
+
+```bibtex
+@article{Carter2010,
+  author = {Carter, Pamela E.},
+  title = {IT Service Value Creation in a Global Environment},
+  year = {2010},
+  journal = {Journal of Global Information Technology Management},
+  volume = {13},
+  number = {4},
+  pages = {4--27}
+}
+```
