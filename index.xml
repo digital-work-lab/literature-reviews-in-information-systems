@@ -10,31 +10,643 @@
 <atom:link href="http://0.0.0.0:4200/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Mon, 01 Jan 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Jan 2022 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Algorithmic Governance in Platforms</title>
-  <link>http://0.0.0.0:4200/papers/Vial2019.html</link>
+  <title>Security, Privacy and Risks Within Smart Cities: Literature Review and Development of a Smart City Interaction Framework</title>
+  <link>http://0.0.0.0:4200/papers/IsmagilovaHughesRanaEtAl2022.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="summary" class="level1">
-<h1>Summary</h1>
-<p>Short abstract…</p>
-</section>
-<section id="key-findings" class="level1">
-<h1>Key Findings</h1>
-<ul>
-<li>…</li>
-</ul>
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">IsmagilovaHughesRanaEtAl2022</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_origin</span> = {['local_index_title_LIKE_literature_review.bib/000389', 'md_crossref.bib/000123', 'md_curated.bib/000379', 'md_dblp.bib/000379']},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_status</span> = {md_prepared},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_masterdata_provenance</span> = {{'CURATED': {'source': 'TODO', 'note': ''}}},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_data_provenance</span> = {{'doi': {'source': 'md_curated.bib/000379', 'note': ''}, 'abstract': {'source': 'md_curated.bib/000379', 'note': ''}, 'language': {'source': 'md_curated.bib/000379', 'note': ''}, 'url': {'source': 'md_curated.bib/000379', 'note': ''}, 'curation_id': {'source': 'local_index_title_LIKE_literature_review.bib/000389', 'note': ''}, 'colrev.dblp.dblp_key': {'source': 'md_curated.bib/000379|rename-from:dblp_key', 'note': ''}}},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span> = {10.1007/S10796-020-10044-1},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev.dblp.dblp_key</span> = {https://dblp.org/rec/journals/isf/IsmagilovaHRD22},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span> = {Ismagilova, Elvira and Hughes, Laurie and Rana, Nripendra P. and Dwivedi, Yogesh K.},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span> = {Information Systems Frontiers},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span> = {Security, Privacy and Risks Within Smart Cities: Literature Review and Development of a Smart City Interaction Framework},</span>
+<span id="cb1-11">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span> = {2022},</span>
+<span id="cb1-12">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span> = {24},</span>
+<span id="cb1-13">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">number</span> = {2},</span>
+<span id="cb1-14">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span> = {393--414},</span>
+<span id="cb1-15">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span> = {https://link.springer.com/article/10.1007/s10796-020-10044-1},</span>
+<span id="cb1-16">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">abstract</span> = {Abstract The complex and interdependent nature of smart cities raises significant political, technical, and socioeconomic challenges for designers, integrators and organisations involved in administrating these new entities. An increasing number of studies focus on the security, privacy and risks within smart cities, highlighting the threats relating to information security and challenges for smart city infrastructure in the management and processing of personal data. This study analyses many of these challenges, offers a valuable synthesis of the relevant key literature, and develops a smart city interaction framework. The study is organised around a number of key themes within smart cities research: privacy and security of mobile devices and services; smart city infrastructure, power systems, healthcare, frameworks, algorithms and protocols to improve security and privacy, operational threats for smart cities, use and adoption of smart services by citizens, use of blockchain and use of social media. This comprehensive review provides a useful perspective on many of the key issues and offers key direction for future studies. The findings of this study can provide an informative research framework and reference point for academics and practitioners.},</span>
+<span id="cb1-17">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">curation_id</span> = {TODO#IsmagilovaHughesRanaEtAl2022},</span>
+<span id="cb1-18">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">language</span> = {eng}</span>
+<span id="cb1-19">}</span></code></pre></div></div>
 
 
-</section>
 
  ]]></description>
-  <guid>http://0.0.0.0:4200/papers/Vial2019.html</guid>
-  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+  <guid>http://0.0.0.0:4200/papers/IsmagilovaHughesRanaEtAl2022.html</guid>
+  <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Systematic Literature Review of E-Learning Capabilities to Enhance Organizational Learning</title>
+  <link>http://0.0.0.0:4200/papers/GiannakosMikalefPappas2022.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">GiannakosMikalefPappas2022</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_origin</span> = {['local_index_title_LIKE_literature_review.bib/000388', 'md_crossref.bib/000122', 'md_curated.bib/000378', 'md_dblp.bib/000376']},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_status</span> = {md_prepared},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_masterdata_provenance</span> = {{'CURATED': {'source': 'TODO', 'note': ''}}},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_data_provenance</span> = {{'doi': {'source': 'md_curated.bib/000378', 'note': ''}, 'abstract': {'source': 'md_curated.bib/000378', 'note': ''}, 'language': {'source': 'md_curated.bib/000378', 'note': ''}, 'url': {'source': 'md_curated.bib/000378', 'note': ''}, 'curation_id': {'source': 'local_index_title_LIKE_literature_review.bib/000388', 'note': ''}, 'colrev.dblp.dblp_key': {'source': 'md_curated.bib/000378|rename-from:dblp_key', 'note': ''}}},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span> = {10.1007/S10796-020-10097-2},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev.dblp.dblp_key</span> = {https://dblp.org/rec/journals/isf/GiannakosMP22},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span> = {Giannakos, Michail N. and Mikalef, Patrick and Pappas, Ilias O.},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span> = {Information Systems Frontiers},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span> = {Systematic Literature Review of E-Learning Capabilities to Enhance Organizational Learning},</span>
+<span id="cb1-11">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span> = {2022},</span>
+<span id="cb1-12">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span> = {24},</span>
+<span id="cb1-13">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">number</span> = {2},</span>
+<span id="cb1-14">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span> = {619--635},</span>
+<span id="cb1-15">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span> = {https://link.springer.com/article/10.1007/s10796-020-10097-2},</span>
+<span id="cb1-16">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">abstract</span> = {Abstract E-learning systems are receiving ever increasing attention in academia, business and public administration. Major crises, like the pandemic, highlight the tremendous importance of the appropriate development of e-learning systems and its adoption and processes in organizations. Managers and employees who need efficient forms of training and learning flow within organizations do not have to gather in one place at the same time or to travel far away to attend courses. Contemporary affordances of e-learning systems allow users to perform different jobs or tasks for training courses according to their own scheduling, as well as to collaborate and share knowledge and experiences that result in rich learning flows within organizations. The purpose of this article is to provide a systematic review of empirical studies at the intersection of e-learning and organizational learning in order to summarize the current findings and guide future research. Forty-seven peer-reviewed articles were collected from a systematic literature search and analyzed based on a categorization of their main elements. This survey identifies five major directions of the research on the confluence of e-learning and organizational learning during the last decade. Future research should leverage big data produced from the platforms and investigate how the incorporation of advanced learning technologies (e.g., learning analytics, personalized learning) can help increase organizational value.},</span>
+<span id="cb1-17">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">curation_id</span> = {TODO#GiannakosMikalefPappas2022},</span>
+<span id="cb1-18">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">language</span> = {eng}</span>
+<span id="cb1-19">}</span></code></pre></div></div>
+
+
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/GiannakosMikalefPappas2022.html</guid>
+  <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Artificial Intelligence and Business Value: a Literature Review</title>
+  <link>http://0.0.0.0:4200/papers/EnholmPapagiannidisMikalefEtAl2022.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">EnholmPapagiannidisMikalefEtAl2022</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_origin</span> = {['local_index_title_LIKE_literature_review.bib/000386', 'md_crossref.bib/000120', 'md_curated.bib/000376', 'md_dblp.bib/000374']},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_status</span> = {md_prepared},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_masterdata_provenance</span> = {{'CURATED': {'source': 'TODO', 'note': ''}}},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_data_provenance</span> = {{'doi': {'source': 'md_curated.bib/000376', 'note': ''}, 'abstract': {'source': 'md_curated.bib/000376', 'note': ''}, 'language': {'source': 'md_curated.bib/000376', 'note': ''}, 'url': {'source': 'md_curated.bib/000376', 'note': ''}, 'curation_id': {'source': 'local_index_title_LIKE_literature_review.bib/000386', 'note': ''}, 'colrev.dblp.dblp_key': {'source': 'md_curated.bib/000376|rename-from:dblp_key', 'note': ''}}},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span> = {10.1007/S10796-021-10186-W},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev.dblp.dblp_key</span> = {https://dblp.org/rec/journals/isf/EnholmPMK22},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span> = {Enholm, Ida Merete and Papagiannidis, Emmanouil and Mikalef, Patrick and Krogstie, John},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span> = {Information Systems Frontiers},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span> = {Artificial Intelligence and Business Value: a Literature Review},</span>
+<span id="cb1-11">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span> = {2022},</span>
+<span id="cb1-12">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span> = {24},</span>
+<span id="cb1-13">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">number</span> = {5},</span>
+<span id="cb1-14">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span> = {1709--1734},</span>
+<span id="cb1-15">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span> = {https://link.springer.com/article/10.1007/s10796-021-10186-w},</span>
+<span id="cb1-16">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">abstract</span> = {Abstract Artificial Intelligence (AI) are a wide-ranging set of technologies that promise several advantages for organizations in terms off added business value. Over the past few years, organizations are increasingly turning to AI in order to gain business value following a deluge of data and a strong increase in computational capacity. Nevertheless, organizations are still struggling to adopt and leverage AI in their operations. The lack of a coherent understanding of how AI technologies create business value, and what type of business value is expected, therefore necessitates a holistic understanding. This study provides a systematic literature review that attempts to explain how organizations can leverage AI technologies in their operations and elucidate the value-generating mechanisms. Our analysis synthesizes the current literature and highlights: (1) the key enablers and inhibitors of AI adoption and use; (2) the typologies of AI use in the organizational setting; and (3) the first- and second-order effects of AI. The paper concludes with an identification of the gaps in the literature and develops a research agenda that identifies areas that need to be addressed by future studies.},</span>
+<span id="cb1-17">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">curation_id</span> = {TODO#EnholmPapagiannidisMikalefEtAl2022},</span>
+<span id="cb1-18">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">language</span> = {eng}</span>
+<span id="cb1-19">}</span></code></pre></div></div>
+
+
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/EnholmPapagiannidisMikalefEtAl2022.html</guid>
+  <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The Research Method we Need or Deserve? A Literature Review of the Design Science Research Landscape</title>
+  <link>http://0.0.0.0:4200/papers/NagleDoyleAlhassanEtAl2022.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">NagleDoyleAlhassanEtAl2022</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_origin</span> = {['local_index_title_LIKE_literature_review.bib/000225', 'md_crossref.bib/000043', 'md_curated.bib/000244', 'md_dblp.bib/000244']},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_status</span> = {md_prepared},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_masterdata_provenance</span> = {{'CURATED': {'source': 'https://github.com/CoLRev-curations/communications-of-the-association-for-information-systems', 'note': ''}}},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_data_provenance</span> = {{'doi': {'source': 'md_curated.bib/000244', 'note': ''}, 'url': {'source': 'md_curated.bib/000244', 'note': ''}, 'language': {'source': 'md_curated.bib/000244', 'note': ''}, 'curation_id': {'source': 'local_index_title_LIKE_literature_review.bib/000225', 'note': ''}}},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span> = {10.17705/1CAIS.05015},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span> = {Nagle, Tadhg and Doyle, Cathal and Alhassan, Ibrahim Mohammed and Sammon, David},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span> = {Communications of the Association for Information Systems},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span> = {The Research Method we Need or Deserve? A Literature Review of the Design Science Research Landscape},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span> = {2022},</span>
+<span id="cb1-11">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span> = {50},</span>
+<span id="cb1-12">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span> = {358--395},</span>
+<span id="cb1-13">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span> = {https://aisel.aisnet.org/cgi/login.cgi?return_to=https%3A%2F%2Faisel.aisnet.org%2Fcgi%2Fcview.cgi%2Fcais%2Fvol50%2Fiss1%2F14&amp;context=https://aisel.aisnet.org},</span>
+<span id="cb1-14">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">curation_id</span> = {https://github.com/CoLRev-curations/communications-of-the-association-for-information-systems#NagleDoyleAlhassanEtAl2022},</span>
+<span id="cb1-15">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">language</span> = {eng}</span>
+<span id="cb1-16">}</span></code></pre></div></div>
+
+
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/NagleDoyleAlhassanEtAl2022.html</guid>
+  <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Artificial Intelligence in Business: A Literature Review and Research Agenda</title>
+  <link>http://0.0.0.0:4200/papers/NguyenSidorovaBrintEtAl2022.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">NguyenSidorovaBrintEtAl2022</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_origin</span> = {['local_index_title_LIKE_literature_review.bib/000224', 'md_crossref.bib/000041', 'md_curated.bib/000242', 'md_dblp.bib/000240']},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_status</span> = {md_prepared},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_masterdata_provenance</span> = {{'CURATED': {'source': 'https://github.com/CoLRev-curations/communications-of-the-association-for-information-systems', 'note': ''}}},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_data_provenance</span> = {{'doi': {'source': 'md_curated.bib/000242', 'note': ''}, 'url': {'source': 'md_curated.bib/000242', 'note': ''}, 'language': {'source': 'md_curated.bib/000242', 'note': ''}, 'curation_id': {'source': 'local_index_title_LIKE_literature_review.bib/000224', 'note': ''}}},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span> = {10.17705/1CAIS.05007},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span> = {Nguyen, Quynh N and Sidorova, Anna and Brint, G. and Torres, Russell},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span> = {Communications of the Association for Information Systems},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span> = {Artificial Intelligence in Business: A Literature Review and Research Agenda},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span> = {2022},</span>
+<span id="cb1-11">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span> = {50},</span>
+<span id="cb1-12">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span> = {175--207},</span>
+<span id="cb1-13">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span> = {https://aisel.aisnet.org/cais/vol50/iss1/7},</span>
+<span id="cb1-14">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">curation_id</span> = {https://github.com/CoLRev-curations/communications-of-the-association-for-information-systems#NguyenSidorovaBrintEtAl2022},</span>
+<span id="cb1-15">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">language</span> = {eng}</span>
+<span id="cb1-16">}</span></code></pre></div></div>
+
+
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/NguyenSidorovaBrintEtAl2022.html</guid>
+  <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Understanding Inertia in Digital Transformation: A Literature Review and Multilevel Research Framework</title>
+  <link>http://0.0.0.0:4200/papers/HaskampDremelMarxEtAl2021.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">HaskampDremelMarxEtAl2021</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_origin</span> = {['local_index_title_LIKE_literature_review.bib/000006', 'md_curated.bib/000015', 'md_dblp.bib/000014']},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_status</span> = {md_prepared},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_masterdata_provenance</span> = {{'CURATED': {'source': 'https://github.com/CoLRev-curations/international-conference-on-information-systems', 'note': ''}}},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_data_provenance</span> = {{'language': {'source': 'md_curated.bib/000015', 'note': ''}, 'url': {'source': 'md_curated.bib/000015', 'note': ''}, 'curation_id': {'source': 'local_index_title_LIKE_literature_review.bib/000006', 'note': ''}, 'colrev.dblp.dblp_key': {'source': 'md_curated.bib/000015|rename-from:dblp_key', 'note': ''}}},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev.dblp.dblp_key</span> = {https://dblp.org/rec/conf/icis/HaskampDMU21},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span> = {Haskamp, Thomas and Dremel, Christian and Marx, Carolin and Uebernickel, Falk},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">booktitle</span> = {International Conference on Information Systems},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span> = {Understanding Inertia in Digital Transformation: A Literature Review and Multilevel Research Framework},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span> = {2021},</span>
+<span id="cb1-11">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span> = {https://aisel.aisnet.org/icis2021/dig_innov/dig_innov/5},</span>
+<span id="cb1-12">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">curation_id</span> = {https://github.com/CoLRev-curations/international-conference-on-information-systems#HaskampDremelMarxEtAl2021},</span>
+<span id="cb1-13">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">language</span> = {eng}</span>
+<span id="cb1-14">}</span></code></pre></div></div>
+
+
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/HaskampDremelMarxEtAl2021.html</guid>
+  <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A Different Kind of Sharing Economy - A Literature Review of Platform Cooperatives</title>
+  <link>http://0.0.0.0:4200/papers/ZhuMarjanovic2021.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">ZhuMarjanovic2021</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_origin</span> = {['local_index_title_LIKE_literature_review.bib/000331', 'md_curated.bib/000325', 'md_dblp.bib/000325']},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_status</span> = {md_prepared},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_masterdata_provenance</span> = {{'CURATED': {'source': 'https://github.com/CoLRev-curations/hawaii-international-conference-on-system-sciences', 'note': ''}}},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_data_provenance</span> = {{'url': {'source': 'md_curated.bib/000325', 'note': ''}, 'curation_id': {'source': 'local_index_title_LIKE_literature_review.bib/000331', 'note': ''}, 'language': {'source': 'LanguageDetector', 'note': ''}, 'colrev.dblp.dblp_key': {'source': 'md_curated.bib/000325|rename-from:dblp_key', 'note': ''}}},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev.dblp.dblp_key</span> = {https://dblp.org/rec/conf/hicss/ZhuM21},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span> = {Zhu, Jiang and Marjanovic, Olivera},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">booktitle</span> = {Hawaii International Conference on System Sciences},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span> = {A Different Kind of Sharing Economy - A Literature Review of Platform Cooperatives},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span> = {2021},</span>
+<span id="cb1-11">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span> = {http://hdl.handle.net/10125/71119},</span>
+<span id="cb1-12">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">curation_id</span> = {https://github.com/CoLRev-curations/hawaii-international-conference-on-system-sciences#ZhuMarjanovic2021},</span>
+<span id="cb1-13">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">language</span> = {eng}</span>
+<span id="cb1-14">}</span></code></pre></div></div>
+
+
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/ZhuMarjanovic2021.html</guid>
+  <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Cryptocurrency Market Manipulation - A Systematic Literature Review</title>
+  <link>http://0.0.0.0:4200/papers/EigelshovenUllrichParry2021.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">EigelshovenUllrichParry2021</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_origin</span> = {['local_index_title_LIKE_literature_review.bib/000005', 'md_curated.bib/000012', 'md_dblp.bib/000011']},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_status</span> = {md_prepared},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_masterdata_provenance</span> = {{'CURATED': {'source': 'https://github.com/CoLRev-curations/international-conference-on-information-systems', 'note': ''}}},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_data_provenance</span> = {{'language': {'source': 'md_curated.bib/000012', 'note': ''}, 'url': {'source': 'md_curated.bib/000012', 'note': ''}, 'curation_id': {'source': 'local_index_title_LIKE_literature_review.bib/000005', 'note': ''}, 'colrev.dblp.dblp_key': {'source': 'md_curated.bib/000012|rename-from:dblp_key', 'note': ''}}},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev.dblp.dblp_key</span> = {https://dblp.org/rec/conf/icis/EigelshovenUP21},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span> = {Eigelshoven, Felix and Ullrich, André and Parry, Douglas},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">booktitle</span> = {International Conference on Information Systems},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span> = {Cryptocurrency Market Manipulation - A Systematic Literature Review},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span> = {2021},</span>
+<span id="cb1-11">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span> = {https://aisel.aisnet.org/icis2021/fintech/fintech/1},</span>
+<span id="cb1-12">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">curation_id</span> = {https://github.com/CoLRev-curations/international-conference-on-information-systems#EigelshovenUllrichParry2021},</span>
+<span id="cb1-13">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">language</span> = {eng}</span>
+<span id="cb1-14">}</span></code></pre></div></div>
+
+
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/EigelshovenUllrichParry2021.html</guid>
+  <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Security Concerns Influencing the Adoption of Cloud Computing of SMEs - A Literature Review</title>
+  <link>http://0.0.0.0:4200/papers/NagahawattaWarrenLokugeEtAl2021.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">NagahawattaWarrenLokugeEtAl2021</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_origin</span> = {['local_index_title_LIKE_literature_review.bib/000166', 'md_curated.bib/000172', 'md_dblp.bib/000174']},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_status</span> = {md_prepared},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_masterdata_provenance</span> = {{'CURATED': {'source': 'https://github.com/CoLRev-curations/americas-conference-on-information-systems', 'note': ''}}},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_data_provenance</span> = {{'url': {'source': 'md_curated.bib/000172', 'note': ''}, 'curation_id': {'source': 'local_index_title_LIKE_literature_review.bib/000166', 'note': ''}, 'language': {'source': 'LanguageDetector', 'note': ''}, 'colrev.dblp.dblp_key': {'source': 'md_curated.bib/000172|rename-from:dblp_key', 'note': ''}}},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev.dblp.dblp_key</span> = {https://dblp.org/rec/conf/amcis/NagahawattaWLS21},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span> = {Nagahawatta, Ruwan and Warren, Matthew J. and Lokuge, Sachithra and Salzman, Scott},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">booktitle</span> = {Americas Conference on Information Systems},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span> = {Security Concerns Influencing the Adoption of Cloud Computing of SMEs - A Literature Review},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span> = {2021},</span>
+<span id="cb1-11">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span> = {https://aisel.aisnet.org/amcis2021/info_security/info_security/20},</span>
+<span id="cb1-12">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">curation_id</span> = {https://github.com/CoLRev-curations/americas-conference-on-information-systems#NagahawattaWarrenLokugeEtAl2021},</span>
+<span id="cb1-13">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">language</span> = {eng}</span>
+<span id="cb1-14">}</span></code></pre></div></div>
+
+
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/NagahawattaWarrenLokugeEtAl2021.html</guid>
+  <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Towards a Critical Realist Understanding of Digital Transformation - Results of a Structured Literature Review</title>
+  <link>http://0.0.0.0:4200/papers/HaskampDremelUebernickel2021.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">HaskampDremelUebernickel2021</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_origin</span> = {['local_index_title_LIKE_literature_review.bib/000133', 'md_curated.bib/000131', 'md_dblp.bib/000133']},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_status</span> = {md_prepared},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_masterdata_provenance</span> = {{'CURATED': {'source': 'https://github.com/CoLRev-curations/americas-conference-on-information-systems', 'note': ''}}},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev_data_provenance</span> = {{'url': {'source': 'md_curated.bib/000131', 'note': ''}, 'curation_id': {'source': 'local_index_title_LIKE_literature_review.bib/000133', 'note': ''}, 'language': {'source': 'LanguageDetector', 'note': ''}, 'colrev.dblp.dblp_key': {'source': 'md_curated.bib/000131|rename-from:dblp_key', 'note': ''}}},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">colrev.dblp.dblp_key</span> = {https://dblp.org/rec/conf/amcis/HaskampDU21},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span> = {Haskamp, Thomas and Dremel, Christian and Uebernickel, Falk},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">booktitle</span> = {Americas Conference on Information Systems},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span> = {Towards a Critical Realist Understanding of Digital Transformation - Results of a Structured Literature Review},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span> = {2021},</span>
+<span id="cb1-11">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span> = {https://aisel.aisnet.org/amcis2021/phil_socio_digital_innov_entren/phil_socio_digital_innov_entren/2},</span>
+<span id="cb1-12">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">curation_id</span> = {https://github.com/CoLRev-curations/americas-conference-on-information-systems#HaskampDremelUebernickel2021},</span>
+<span id="cb1-13">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">language</span> = {eng}</span>
+<span id="cb1-14">}</span></code></pre></div></div>
+
+
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/HaskampDremelUebernickel2021.html</guid>
+  <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
