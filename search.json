@@ -2088,35 +2088,28 @@
   {
     "objectID": "statistics.html",
     "href": "statistics.html",
-    "title": "Paper Statistics",
+    "title": "Statistics",
     "section": "",
     "text": "Code\ndf_time &lt;- df %&gt;%\n  dplyr::count(year) %&gt;%\n  dplyr::arrange(year)\n\nplot_ly(\n  data = df_time,\n  x = ~year,\n  y = ~n,\n  type = \"scatter\",\n  mode = \"lines+markers\"\n) %&gt;%\n  layout(\n    xaxis = list(title = \"Year\"),\n    yaxis = list(title = \"Number of Publications\")\n  )\n\n\n\n\nNumber of papers over time"
   },
   {
-    "objectID": "statistics.html#publication-count-over-time",
-    "href": "statistics.html#publication-count-over-time",
-    "title": "Paper Statistics",
+    "objectID": "statistics.html#timeline",
+    "href": "statistics.html#timeline",
+    "title": "Statistics",
     "section": "",
     "text": "Code\ndf_time &lt;- df %&gt;%\n  dplyr::count(year) %&gt;%\n  dplyr::arrange(year)\n\nplot_ly(\n  data = df_time,\n  x = ~year,\n  y = ~n,\n  type = \"scatter\",\n  mode = \"lines+markers\"\n) %&gt;%\n  layout(\n    xaxis = list(title = \"Year\"),\n    yaxis = list(title = \"Number of Publications\")\n  )\n\n\n\n\nNumber of papers over time"
   },
   {
-    "objectID": "statistics.html#journal-frequency-table",
-    "href": "statistics.html#journal-frequency-table",
-    "title": "Paper Statistics",
-    "section": "Journal Frequency Table",
-    "text": "Journal Frequency Table\n\n\nCode\ndf %&gt;%\n  dplyr::count(journal, sort = TRUE) %&gt;%\n  DT::datatable(\n    options = list(pageLength = 10),\n    rownames = FALSE\n  )"
-  },
-  {
-    "objectID": "statistics.html#journal-frequency-plot-top-10-journals",
-    "href": "statistics.html#journal-frequency-plot-top-10-journals",
-    "title": "Paper Statistics",
-    "section": "Journal Frequency Plot (Top 10 Journals)",
-    "text": "Journal Frequency Plot (Top 10 Journals)\n\n\nCode\ntop_journals &lt;- df %&gt;%\n  dplyr::count(journal, sort = TRUE) %&gt;%\n  dplyr::slice_max(n, n = 10)\n\nplot_ly(\n  data = top_journals,\n  x = ~n,\n  y = ~reorder(journal, n),\n  type = \"bar\",\n  orientation = \"h\"\n) %&gt;%\n  layout(\n    xaxis = list(title = \"Count\"),\n    yaxis = list(title = \"Journal\")\n  )\n\n\n\n\nTop Journals by Number of Publications"
+    "objectID": "statistics.html#journals",
+    "href": "statistics.html#journals",
+    "title": "Statistics",
+    "section": "Journals",
+    "text": "Journals\n\n\nCode\ndf %&gt;%\n  dplyr::count(journal, sort = TRUE) %&gt;%\n  DT::datatable(\n    options = list(pageLength = 10),\n    rownames = FALSE\n  )"
   },
   {
     "objectID": "statistics.html#types-of-reviews",
     "href": "statistics.html#types-of-reviews",
-    "title": "Paper Statistics",
+    "title": "Statistics",
     "section": "Types of reviews",
     "text": "Types of reviews\n\n\nCode\ndf_lr_type &lt;- df %&gt;%\n  dplyr::count(lr_type_pare_et_al, sort = TRUE)\n\nplot_ly(\n  data = df_lr_type,\n  x = ~lr_type_pare_et_al,\n  y = ~n,\n  type = \"bar\"\n) %&gt;%\n  layout(\n    xaxis = list(title = \"Literature review type\"),\n    yaxis = list(title = \"Count\")\n  )\n\n\n\n\nDistribution of literature review types (Paré et al.)"
   },
