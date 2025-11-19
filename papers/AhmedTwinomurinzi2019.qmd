@@ -1,24 +1,25 @@
 ---
-title: "Exploring Semantic Interoperability in e-Government Interoperability Frameworks for intra-African collaboration - A Systematic Literature Review"
+title: "Exploring Semantic Interoperability in e-Government Interoperability Frameworks for intra-African collaboration: A Systematic Literature Review"
 author:
-- Ahmed, Safa Yousif
+- Yousif Ahmed, Safa
 - Twinomurinzi, Hossana
 topic: ""
 categories: []
 date: "2019"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2019.384"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 2
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{AhmedTwinomurinzi2019,
-  author     = {Ahmed, Safa Yousif and Twinomurinzi, Hossana},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Exploring Semantic Interoperability in e-Government Interoperability Frameworks for intra-African collaboration - A Systematic Literature Review},
+  doi        = {10.24251/HICSS.2019.384},
+  author     = {Yousif Ahmed, Safa and Twinomurinzi, Hossana},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Exploring Semantic Interoperability in e-Government Interoperability Frameworks for intra-African collaboration: A Systematic Literature Review},
   year       = {2019},
   url        = {http://hdl.handle.net/10125/59754}
 }

@@ -1,5 +1,5 @@
 ---
-title: "Research Review: A Systematic Literature Review on the Quality of UML Models"
+title: "Research Review"
 author:
 - Genero, Marcela
 - Fernández-Saez, Ana M.
@@ -9,22 +9,24 @@ author:
 topic: ""
 categories: ['descriptive-review']
 date: "2011"
-doi: ""
+doi: "https://doi.org/10.4018/JDM.2011070103"
 journal:
   name: "Journal of Database Management"
-cited_by: 0
+cited_by: 44
 ---
 
 Citation:
 
 ```bibtex
 @article{Genero2011,
+  doi        = {10.4018/JDM.2011070103},
   author     = {Genero, Marcela and Fernández-Saez, Ana M. and Nelson, H. James and Poels, Geert and Piattini, Mario},
-  title      = {Research Review: A Systematic Literature Review on the Quality of UML Models},
-  year       = {2011},
   journal    = {Journal of Database Management},
+  title      = {Research Review},
+  year       = {2011},
   volume     = {22},
   number     = {3},
-  pages      = {46--70}
+  pages      = {46--70},
+  abstract   = {The quality of conceptual models directly affects the quality of the understanding of the application domain and the quality of the final software products that are ultimately based on them. This paper describes a systematic literature review (SLR) of peer-reviewed conference and journal articles published from 1997 through 2009 on the quality of conceptual models written in UML, undertaken to understand the state-of-the-art, and then identify any gaps in current research. Six digital libraries were searched, and 266 papers dealing specifically with the quality of UML models were identified and classified into five dimensions: type of model quality, type of evidence, type of research result, type of diagram, and research goal. The results indicate that most research focuses on semantic quality, with relatively little on semantic completeness; as such, this research examines new modeling methods vs. quality frameworks and metrics, as well as quality assurance vs. understanding quality issues. The results also indicate that more empirical research is needed to develop a theoretical understanding of conceptual model quality. The classification scheme developed in this paper can serve as a guide for both researchers and practitioners.}
 }
 ```

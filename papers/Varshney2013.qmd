@@ -1,24 +1,25 @@
 ---
-title: "Mobile Health: Four Emerging Themes of Research"
+title: "Mobile health: Four emerging themes of research"
 author:
 - Varshney, Upkar
 topic: ""
 categories: ['scoping-review']
-date: "2013"
-doi: ""
+date: "2014"
+doi: "https://doi.org/10.1016/J.DSS.2014.06.001"
 journal:
   name: "Decision Support Systems"
-cited_by: 0
+cited_by: 180
 ---
 
 Citation:
 
 ```bibtex
 @article{Varshney2013,
+  doi        = {10.1016/J.DSS.2014.06.001},
   author     = {Varshney, Upkar},
-  title      = {Mobile Health: Four Emerging Themes of Research},
-  year       = {2013},
   journal    = {Decision Support Systems},
+  title      = {Mobile health: Four emerging themes of research},
+  year       = {2014},
   volume     = {66},
   number     = {no issue},
   pages      = {20--35}

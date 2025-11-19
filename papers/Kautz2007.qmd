@@ -1,5 +1,5 @@
 ---
-title: "Persistent Problems and Practices in Information Systems Development"
+title: "Persistent problems and practices in information systems development"
 author:
 - Kautz, Karlheinz
 - Madsen, Sabine
@@ -7,22 +7,24 @@ author:
 topic: ""
 categories: ['narrative-review']
 date: "2007"
-doi: ""
+doi: "https://doi.org/10.1111/J.1365-2575.2007.00222.X"
 journal:
   name: "Information Systems Journal"
-cited_by: 0
+cited_by: 60
 ---
 
 Citation:
 
 ```bibtex
 @article{Kautz2007,
+  doi        = {10.1111/J.1365-2575.2007.00222.X},
   author     = {Kautz, Karlheinz and Madsen, Sabine and Nørbjerg, Jacob},
-  title      = {Persistent Problems and Practices in Information Systems Development},
-  year       = {2007},
   journal    = {Information Systems Journal},
+  title      = {Persistent problems and practices in information systems development},
+  year       = {2007},
   volume     = {17},
   number     = {3},
-  pages      = {217--239}
+  pages      = {217--239},
+  abstract   = {Abstract. This paper identifies and discusses the persistent problems and development practices of information systems development (ISD). A critical examination and comparison of past times’‘traditional’ and present‐day ‘web‐based’ development shows that contemporary ISD can be seen as an accentuated evolution – rather than a revolution – of well‐known challenges and solutions. On this basis, (1) diversity; (2) knowledge; and (3) structure are identified as inherent and interrelated problems, while the practices for coping with these three challenges are (a) organization and specialization; (b) constant verbal communication and negotiation; and (c) pragmatic application of certain development methods and methodical concepts. We conclude that more research on the occurrence and interaction of problems and practices at, and between, different contextual levels (e.g. the business environment, company, project, team and individual levels) is needed to understand and assess (the gap between) ‘observed practice’ and ‘good practice’ across the many types of Web and non‐Web ISD projects conducted today. We outline a possible research agenda to investigate these issues.}
 }
 ```

@@ -1,27 +1,28 @@
 ---
 title: "Review: A Review of Culture in Information Systems Research: Toward a Theory of Information Technology Culture Conflict"
 author:
-- Leidner, Dorothy E.
-- Kayworth, Timothy
+- Leidner
+- Kayworth
 topic: ""
-categories: ['theoretical-review']
+categories: ['theoretical-review', 'highly-cited']
 date: "2006"
-doi: ""
+doi: "https://doi.org/10.2307/25148735"
 journal:
   name: "MIS Quarterly"
-cited_by: 0
+cited_by: 919
 ---
 
 Citation:
 
 ```bibtex
 @article{Leidner2006,
-  author     = {Leidner, Dorothy E. and Kayworth, Timothy},
+  doi        = {10.2307/25148735},
+  author     = {Leidner and Kayworth},
+  journal    = {MIS Quarterly},
   title      = {Review: A Review of Culture in Information Systems Research: Toward a Theory of Information Technology Culture Conflict},
   year       = {2006},
-  journal    = {MIS Quarterly},
   volume     = {30},
   number     = {2},
-  pages      = {357--399}
+  pages      = {357}
 }
 ```

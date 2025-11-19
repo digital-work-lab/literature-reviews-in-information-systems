@@ -10,7 +10,7 @@ date: "2021"
 doi: "https://doi.org/10.1016/J.IM.2020.103411"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 126
 ---
 
 Citation:

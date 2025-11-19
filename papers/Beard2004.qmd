@@ -1,25 +1,26 @@
 ---
-title: "Seeking Strategic Advantage in the Post-net Era: Viewing ERP Systems from the Resource-based Perspective"
+title: "Seeking strategic advantage in the post-net era: viewing ERP systems from the resource-based perspective"
 author:
-- Beard, Jon W.
+- Beard, Jon W
 - Sumner, Mary
 topic: ""
 categories: ['narrative-review']
 date: "2004"
-doi: ""
+doi: "https://doi.org/10.1016/J.JSIS.2004.02.003"
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 0
+cited_by: 100
 ---
 
 Citation:
 
 ```bibtex
 @article{Beard2004,
-  author     = {Beard, Jon W. and Sumner, Mary},
-  title      = {Seeking Strategic Advantage in the Post-net Era: Viewing ERP Systems from the Resource-based Perspective},
-  year       = {2004},
+  doi        = {10.1016/J.JSIS.2004.02.003},
+  author     = {Beard, Jon W and Sumner, Mary},
   journal    = {The Journal of Strategic Information Systems},
+  title      = {Seeking strategic advantage in the post-net era: viewing ERP systems from the resource-based perspective},
+  year       = {2004},
   volume     = {13},
   number     = {2},
   pages      = {129--150}

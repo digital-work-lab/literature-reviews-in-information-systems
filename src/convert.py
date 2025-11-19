@@ -24,7 +24,7 @@ def record_to_bibtex(rec: dict) -> str:
     # max_field_len = max(len(field) for field in rec.keys())
     max_field_len = 10
     for field, value in rec.items():
-        if field in {"ENTRYTYPE", "ID", "citation_key", "colrev_id", "colrev_origin", "colrev_status", "colrev_masterdata_provenance", "colrev_data_provenance", "colrev.dblp.dblp_key", "curation_id", "language", "note", "topic", "lr_type_pare_et_al", "goal_rowe", "synthesis", "r_gaps", "theory_building", "aggregating_evidence", "r_agenda", "r_agenda_levels"}:
+        if field in {"ENTRYTYPE", "ID", "citation_key", "colrev_id", "colrev_origin", "colrev_status", "colrev_masterdata_provenance", "colrev_data_provenance", "colrev.dblp.dblp_key", "curation_id", "language", "note", "topic", "lr_type_pare_et_al", "goal_rowe", "synthesis", "r_gaps", "theory_building", "aggregating_evidence", "r_agenda", "r_agenda_levels", "cited_by"}:
             continue
         if value is None or value == "":
             continue
@@ -69,6 +69,8 @@ def record_to_qmd_content(rec: dict) -> str:
     #     categories += [rec["goal_rowe"]]
     if "lr_type_pare_et_al" in rec:
         categories += [rec["lr_type_pare_et_al"]]
+    if "cited_by" in rec and int(rec["cited_by"]) > 500:
+        categories += ["highly-cited"]
 
     qmd = f"""---
 title: "{title}"

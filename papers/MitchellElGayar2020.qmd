@@ -1,24 +1,25 @@
 ---
-title: "The Effect of Privacy Policies on Information Sharing Behavior on Social Networks - A Systematic Literature Review"
+title: "The Effect of Privacy Policies on Information Sharing Behavior on Social Networks: A Systematic Literature Review"
 author:
 - Mitchell, Damion
-- El-Gayar, Omar F.
+- El-Gayar, Omar
 topic: ""
 categories: []
 date: "2020"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2020.517"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 11
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{MitchellElGayar2020,
-  author     = {Mitchell, Damion and El-Gayar, Omar F.},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {The Effect of Privacy Policies on Information Sharing Behavior on Social Networks - A Systematic Literature Review},
+  doi        = {10.24251/HICSS.2020.517},
+  author     = {Mitchell, Damion and El-Gayar, Omar},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {The Effect of Privacy Policies on Information Sharing Behavior on Social Networks: A Systematic Literature Review},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64259}
 }

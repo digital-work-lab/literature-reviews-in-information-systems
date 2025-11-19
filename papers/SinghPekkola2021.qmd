@@ -1,24 +1,25 @@
 ---
-title: "Packaged Enterprise System Customization - A Systematic Literature Review"
+title: "Packaged Enterprise System Customization – A Systematic Literature Review"
 author:
 - Singh, Chandan
 - Pekkola, Samuli
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.809"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 2
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{SinghPekkola2021,
+  doi        = {10.24251/HICSS.2021.809},
   author     = {Singh, Chandan and Pekkola, Samuli},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Packaged Enterprise System Customization - A Systematic Literature Review},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Packaged Enterprise System Customization – A Systematic Literature Review},
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71429}
 }

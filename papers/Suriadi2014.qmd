@@ -1,10 +1,10 @@
 ---
-title: "Current Research in Risk-aware Business Process Management-Overview, Comparison, and Gap Analysis"
+title: "Current Research in Risk-aware Business Process Management―Overview, Comparison, and Gap Analysis"
 author:
 - Suriadi, Suriadi
 - Weiß, Burkhard
 - Winkelmann, Axel
-- ter Hofstede, Arthur H. M.
+- ter Hofstede, Arthur H.M.
 - Adams, Michael
 - Conforti, Raffaele
 - Fidge, Colin
@@ -16,20 +16,21 @@ author:
 topic: ""
 categories: ['scoping-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.17705/1CAIS.03452"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 0
+cited_by: 33
 ---
 
 Citation:
 
 ```bibtex
 @article{Suriadi2014,
-  author     = {Suriadi, Suriadi and Weiß, Burkhard and Winkelmann, Axel and ter Hofstede, Arthur H. M. and Adams, Michael and Conforti, Raffaele and Fidge, Colin and La Rosa, Marcello and Ouyang, Chun and Pika, Anastasiia and Rosemann, Michael and Wynn, Moe},
-  title      = {Current Research in Risk-aware Business Process Management-Overview, Comparison, and Gap Analysis},
-  year       = {2014},
+  doi        = {10.17705/1CAIS.03452},
+  author     = {Suriadi, Suriadi and Weiß, Burkhard and Winkelmann, Axel and ter Hofstede, Arthur H.M. and Adams, Michael and Conforti, Raffaele and Fidge, Colin and La Rosa, Marcello and Ouyang, Chun and Pika, Anastasiia and Rosemann, Michael and Wynn, Moe},
   journal    = {Communications of the Association for Information Systems},
+  title      = {Current Research in Risk-aware Business Process Management―Overview, Comparison, and Gap Analysis},
+  year       = {2014},
   volume     = {34},
   number     = {1},
   pages      = {933--984}

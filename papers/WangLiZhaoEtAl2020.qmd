@@ -12,7 +12,7 @@ date: "2020"
 doi: "https://doi.org/10.1007/S10796-020-10057-W"
 journal:
   name: "Information Systems Frontiers"
-cited_by: 0
+cited_by: 34
 ---
 
 Citation:

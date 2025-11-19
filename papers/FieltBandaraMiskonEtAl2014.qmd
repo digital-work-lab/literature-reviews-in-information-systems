@@ -11,7 +11,7 @@ date: "2014"
 doi: "https://doi.org/10.17705/1CAIS.03454"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 0
+cited_by: 9
 ---
 
 Citation:

@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['narrative-review']
 date: "2000"
-doi: ""
+doi: "https://doi.org/10.1207/S15327744JOCE1003_01"
 journal:
   name: "Journal of Organizational Computing and Electronic Commerce"
-cited_by: 0
+cited_by: 54
 ---
 
 Citation:
 
 ```bibtex
 @article{Holsapple2000,
+  doi        = {10.1207/S15327744JOCE1003_01},
   author     = {Holsapple, Clyde W. and Singh, Meenu},
+  journal    = {Journal of Organizational Computing and Electronic Commerce},
   title      = {Electronic Commerce: From a Definitional Taxonomy Toward a Knowledge-Management View},
   year       = {2000},
-  journal    = {Journal of Organizational Computing and Electronic Commerce},
   volume     = {10},
   number     = {3},
   pages      = {149--170}

@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['meta-analysis']
 date: "2008"
-doi: ""
+doi: "https://doi.org/10.2753/MIS0742-1222250111"
 journal:
   name: "Journal of Management Information Systems"
-cited_by: 0
+cited_by: 160
 ---
 
 Citation:
 
 ```bibtex
 @article{He2008,
+  doi        = {10.2753/MIS0742-1222250111},
   author     = {He, Jun and King, William R.},
+  journal    = {Journal of Management Information Systems},
   title      = {The Role of User Participation in Information Systems Development: Implications from a Meta-Analysis},
   year       = {2008},
-  journal    = {Journal of Management Information Systems},
   volume     = {25},
   number     = {1},
   pages      = {301--331}

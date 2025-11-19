@@ -1,26 +1,27 @@
 ---
-title: "Solving the Distinctiveness--Blindness Debate: A Unified Model for Understanding Banner Processing"
+title: "Solving the Distinctiveness – Blindness Debate: A Unified Model for Understanding Banner Processing"
 author:
-- Sun, Yongqiang
-- Lim, Kai H.
-- Peng, Jerry Zeyu
+- Sun, Yonggiang
+- Lim, Kai
+- Peng, Jerry
 topic: ""
 categories: ['theoretical-review']
 date: "2013"
-doi: ""
+doi: "https://doi.org/10.17705/1JAIS.00324"
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 0
+cited_by: 20
 ---
 
 Citation:
 
 ```bibtex
 @article{Sun2013,
-  author     = {Sun, Yongqiang and Lim, Kai H. and Peng, Jerry Zeyu},
-  title      = {Solving the Distinctiveness--Blindness Debate: A Unified Model for Understanding Banner Processing},
-  year       = {2013},
+  doi        = {10.17705/1JAIS.00324},
+  author     = {Sun, Yonggiang and Lim, Kai and Peng, Jerry},
   journal    = {Journal of the Association for Information Systems},
+  title      = {Solving the Distinctiveness – Blindness Debate: A Unified Model for Understanding Banner Processing},
+  year       = {2013},
   volume     = {14},
   number     = {2},
   pages      = {49--71}

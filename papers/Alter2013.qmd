@@ -5,20 +5,21 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2013"
-doi: ""
+doi: "https://doi.org/10.17705/1JAIS.00323"
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 0
+cited_by: 177
 ---
 
 Citation:
 
 ```bibtex
 @article{Alter2013,
+  doi        = {10.17705/1JAIS.00323},
   author     = {Alter, Steven},
+  journal    = {Journal of the Association for Information Systems},
   title      = {Work System Theory: Overview of Core Concepts, Extensions, and Challenges for the Future},
   year       = {2013},
-  journal    = {Journal of the Association for Information Systems},
   volume     = {14},
   number     = {2},
   pages      = {72--121}

@@ -7,22 +7,23 @@ author:
 topic: ""
 categories: ['scoping-review']
 date: "2012"
-doi: ""
+doi: "https://doi.org/10.17705/1JAIS.00290"
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 0
+cited_by: 49
 ---
 
 Citation:
 
 ```bibtex
 @article{Davern2012,
+  doi        = {10.17705/1JAIS.00290},
   author     = {Davern, Michael and Shaft, Teresa and Te'eni, Dov},
+  journal    = {Journal of the Association for Information Systems},
   title      = {Cognition Matters: Enduring Questions in Cognitive IS Research},
   year       = {2012},
-  journal    = {Journal of the Association for Information Systems},
   volume     = {13},
-  number     = {Special Issue},
+  number     = {4},
   pages      = {273--314}
 }
 ```

@@ -1,23 +1,24 @@
 ---
-title: "Online Employer Reviews as a Data Source - A Systematic Literature Review"
+title: "Online Employer Reviews as a Data Source: A Systematic Literature Review"
 author:
 - Höllig, Christoph
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.527"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 6
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{Hollig2021,
+  doi        = {10.24251/HICSS.2021.527},
   author     = {Höllig, Christoph},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Online Employer Reviews as a Data Source - A Systematic Literature Review},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Online Employer Reviews as a Data Source: A Systematic Literature Review},
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71144}
 }

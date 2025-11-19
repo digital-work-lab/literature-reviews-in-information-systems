@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['narrative-review']
 date: "2003"
-doi: ""
+doi: "https://doi.org/10.17705/1CAIS.01205"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 0
+cited_by: 31
 ---
 
 Citation:
 
 ```bibtex
 @article{Zviran2003,
+  doi        = {10.17705/1CAIS.01205},
   author     = {Zviran, Moshe and Erlich, Zippy},
+  journal    = {Communications of the Association for Information Systems},
   title      = {Measuring IS User Satisfaction: Review and Implications},
   year       = {2003},
-  journal    = {Communications of the Association for Information Systems},
   volume     = {12},
   number     = {5},
   pages      = {81--103}

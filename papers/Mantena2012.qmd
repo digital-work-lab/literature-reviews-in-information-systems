@@ -1,5 +1,5 @@
 ---
-title: "Literature Survey: Mathematical Models in the Analysis of Durable Goods with Emphasis on Information Systems and Operations Management Issues"
+title: "Literature survey: Mathematical models in the analysis of durable goods with emphasis on information systems and operations management issues"
 author:
 - Mantena, Ravi
 - Tilson, Vera
@@ -7,20 +7,21 @@ author:
 topic: ""
 categories: ['narrative-review']
 date: "2012"
-doi: ""
+doi: "https://doi.org/10.1016/J.DSS.2012.01.012"
 journal:
   name: "Decision Support Systems"
-cited_by: 0
+cited_by: 17
 ---
 
 Citation:
 
 ```bibtex
 @article{Mantena2012,
+  doi        = {10.1016/J.DSS.2012.01.012},
   author     = {Mantena, Ravi and Tilson, Vera and Zheng, Xiaobo},
-  title      = {Literature Survey: Mathematical Models in the Analysis of Durable Goods with Emphasis on Information Systems and Operations Management Issues},
-  year       = {2012},
   journal    = {Decision Support Systems},
+  title      = {Literature survey: Mathematical models in the analysis of durable goods with emphasis on information systems and operations management issues},
+  year       = {2012},
   volume     = {53},
   number     = {2},
   pages      = {331--344}

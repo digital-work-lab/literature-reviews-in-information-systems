@@ -7,22 +7,24 @@ author:
 topic: ""
 categories: ['scoping-review']
 date: "2011"
-doi: ""
+doi: "https://doi.org/10.1007/S12599-011-0151-Y"
 journal:
   name: "Business & Information Systems Engineering"
-cited_by: 0
+cited_by: 57
 ---
 
 Citation:
 
 ```bibtex
 @article{Richter2011a,
+  doi        = {10.1007/S12599-011-0151-Y},
   author     = {Richter, Daniel and Riemer, Kai and vom Brocke, Jan},
+  journal    = {Business & Information Systems Engineering},
   title      = {Internet Social Networking},
   year       = {2011},
-  journal    = {Business & Information Systems Engineering},
   volume     = {3},
   number     = {2},
-  pages      = {89--101}
+  pages      = {89--101},
+  fulltext   = {http://link.springer.com/content/pdf/10.1007/s12599-011-0151-y.pdf}
 }
 ```

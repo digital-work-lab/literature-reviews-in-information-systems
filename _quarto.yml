@@ -32,7 +32,7 @@ format:
     code-fold: true
     smooth-scroll: true
     grid:
-      body-width: 1100px
+      body-width: 1200px
 
 execute:
   freeze: auto

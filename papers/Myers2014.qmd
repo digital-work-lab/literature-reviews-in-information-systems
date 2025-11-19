@@ -1,25 +1,26 @@
 ---
-title: "A Set of Ethical Principles for Design Science Research in Information Systems"
+title: "A set of ethical principles for design science research in information systems"
 author:
 - Myers, Michael D.
 - Venable, John R.
 topic: ""
 categories: ['critical-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.1016/J.IM.2014.01.002"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 69
 ---
 
 Citation:
 
 ```bibtex
 @article{Myers2014,
+  doi        = {10.1016/J.IM.2014.01.002},
   author     = {Myers, Michael D. and Venable, John R.},
-  title      = {A Set of Ethical Principles for Design Science Research in Information Systems},
-  year       = {2014},
   journal    = {Information & Management},
+  title      = {A set of ethical principles for design science research in information systems},
+  year       = {2014},
   volume     = {51},
   number     = {6},
   pages      = {801--809}

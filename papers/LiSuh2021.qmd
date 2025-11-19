@@ -6,18 +6,19 @@ author:
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.493"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 46
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{LiSuh2021,
+  doi        = {10.24251/HICSS.2021.493},
   author     = {Li, Mengjun and Suh, Ayoung},
-  booktitle  = {Hawaii International Conference on System Sciences},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
   title      = {Machinelike or Humanlike? A Literature Review of Anthropomorphism in AI-Enabled Technology},
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71110}

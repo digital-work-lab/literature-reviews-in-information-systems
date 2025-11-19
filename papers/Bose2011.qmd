@@ -1,25 +1,26 @@
 ---
-title: "Integrative Framework for Assessing Firms' Potential to Undertake Green IT Initiatives Via Virtualization –A Theoretical Perspective"
+title: "Integrative framework for assessing firms’ potential to undertake Green IT initiatives via virtualization – A theoretical perspective"
 author:
 - Bose, Ranjit
 - Luo, Xin
 topic: ""
 categories: ['theoretical-review']
 date: "2011"
-doi: ""
+doi: "https://doi.org/10.1016/J.JSIS.2011.01.003"
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 0
+cited_by: 242
 ---
 
 Citation:
 
 ```bibtex
 @article{Bose2011,
+  doi        = {10.1016/J.JSIS.2011.01.003},
   author     = {Bose, Ranjit and Luo, Xin},
-  title      = {Integrative Framework for Assessing Firms' Potential to Undertake Green IT Initiatives Via Virtualization –A Theoretical Perspective},
-  year       = {2011},
   journal    = {The Journal of Strategic Information Systems},
+  title      = {Integrative framework for assessing firms’ potential to undertake Green IT initiatives via virtualization – A theoretical perspective},
+  year       = {2011},
   volume     = {20},
   number     = {1},
   pages      = {38--54}

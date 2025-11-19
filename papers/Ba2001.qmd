@@ -1,5 +1,5 @@
 ---
-title: "Research Commentary: Introducing a Third Dimension in Information Systems Design—the Case for Incentive Alignment"
+title: "Research Commentary: Introducing a Third Dimension in Information Systems Design—The Case for Incentive Alignment"
 author:
 - Ba, Sulin
 - Stallaert, Jan
@@ -7,22 +7,24 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2001"
-doi: ""
+doi: "https://doi.org/10.1287/ISRE.12.3.225.9712"
 journal:
   name: "Information Systems Research"
-cited_by: 0
+cited_by: 190
 ---
 
 Citation:
 
 ```bibtex
 @article{Ba2001,
+  doi        = {10.1287/ISRE.12.3.225.9712},
   author     = {Ba, Sulin and Stallaert, Jan and Whinston, Andrew B.},
-  title      = {Research Commentary: Introducing a Third Dimension in Information Systems Design—the Case for Incentive Alignment},
-  year       = {2001},
   journal    = {Information Systems Research},
+  title      = {Research Commentary: Introducing a Third Dimension in Information Systems Design—The Case for Incentive Alignment},
+  year       = {2001},
   volume     = {12},
   number     = {3},
-  pages      = {225--239}
+  pages      = {225--239},
+  abstract   = {Prior research has generated considerable knowledge on information systems design from software engineering and user-acceptance perspectives. As organizational processes are increasingly embedded within information systems, one of the key considerations of many business processes—organizational incentives—should become an important dimension of any information systems design and evaluation, which we categorize as the third dimension: incentive alignment. Incentive issues have become important in many IS areas, including distributed decision support systems (DSS), knowledge management, and e-business supply chain coordination. In this paper we outline why incentives are important in each of these areas and specify requirements for designing incentive-aligned information systems. We identify and define important unresolved problems along the incentive-alignment dimension of information systems and present a research agenda to address them.}
 }
 ```

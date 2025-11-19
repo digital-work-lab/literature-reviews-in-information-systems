@@ -4,24 +4,25 @@ author:
 - Alavi, Maryam
 - Leidner, Dorothy E.
 topic: ""
-categories: ['narrative-review']
+categories: ['narrative-review', 'highly-cited']
 date: "2001"
-doi: ""
+doi: "https://doi.org/10.2307/3250961"
 journal:
   name: "MIS Quarterly"
-cited_by: 0
+cited_by: 5695
 ---
 
 Citation:
 
 ```bibtex
 @article{Alavi2001,
+  doi        = {10.2307/3250961},
   author     = {Alavi, Maryam and Leidner, Dorothy E.},
+  journal    = {MIS Quarterly},
   title      = {Review: Knowledge Management and Knowledge Management Systems: Conceptual Foundations and Research Issues},
   year       = {2001},
-  journal    = {MIS Quarterly},
   volume     = {25},
   number     = {1},
-  pages      = {107--136}
+  pages      = {107}
 }
 ```

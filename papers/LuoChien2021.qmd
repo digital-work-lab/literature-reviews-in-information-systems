@@ -1,24 +1,25 @@
 ---
-title: "Factors Affecting Negative E-WOM - A Literature Review and Merged Model"
+title: "Factors Affecting Negative E-WOM: A Literature Review and Merged Model"
 author:
 - Luo, Margaret Meiling
 - Chien, Chih-Chia
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.514"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 3
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{LuoChien2021,
+  doi        = {10.24251/HICSS.2021.514},
   author     = {Luo, Margaret Meiling and Chien, Chih-Chia},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Factors Affecting Negative E-WOM - A Literature Review and Merged Model},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Factors Affecting Negative E-WOM: A Literature Review and Merged Model},
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71131}
 }

@@ -1,25 +1,26 @@
 ---
-title: "A Review and Analysis of Deterrence Theory in the IS Security Literature: Making Sense of the Disparate Findings"
+title: "A review and analysis of deterrence theory in the IS security literature: making sense of the disparate findings"
 author:
 - D'Arcy, John
 - Herath, Tejaswini
 topic: ""
 categories: ['critical-review']
 date: "2011"
-doi: ""
+doi: "https://doi.org/10.1057/EJIS.2011.23"
 journal:
   name: "European Journal of Information Systems"
-cited_by: 0
+cited_by: 262
 ---
 
 Citation:
 
 ```bibtex
 @article{DArcy2011,
+  doi        = {10.1057/EJIS.2011.23},
   author     = {D'Arcy, John and Herath, Tejaswini},
-  title      = {A Review and Analysis of Deterrence Theory in the IS Security Literature: Making Sense of the Disparate Findings},
-  year       = {2011},
   journal    = {European Journal of Information Systems},
+  title      = {A review and analysis of deterrence theory in the IS security literature: making sense of the disparate findings},
+  year       = {2011},
   volume     = {20},
   number     = {6},
   pages      = {643--658}

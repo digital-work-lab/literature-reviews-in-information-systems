@@ -1,27 +1,28 @@
 ---
-title: "Security in Grid Computing: A Review and Synthesis"
+title: "Security in grid computing: A review and synthesis"
 author:
 - Cody, Erin
 - Sharman, Raj
-- Rao, H. Raghav
-- Upadhyay, Shambhu J.
+- Rao, Raghav H.
+- Upadhyaya, Shambhu
 topic: ""
 categories: ['scoping-review']
 date: "2008"
-doi: ""
+doi: "https://doi.org/10.1016/J.DSS.2007.09.007"
 journal:
   name: "Decision Support Systems"
-cited_by: 0
+cited_by: 37
 ---
 
 Citation:
 
 ```bibtex
 @article{Cody2008,
-  author     = {Cody, Erin and Sharman, Raj and Rao, H. Raghav and Upadhyay, Shambhu J.},
-  title      = {Security in Grid Computing: A Review and Synthesis},
-  year       = {2008},
+  doi        = {10.1016/J.DSS.2007.09.007},
+  author     = {Cody, Erin and Sharman, Raj and Rao, Raghav H. and Upadhyaya, Shambhu},
   journal    = {Decision Support Systems},
+  title      = {Security in grid computing: A review and synthesis},
+  year       = {2008},
   volume     = {44},
   number     = {4},
   pages      = {749--764}

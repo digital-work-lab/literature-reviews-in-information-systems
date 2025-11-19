@@ -18,9 +18,9 @@ Citation:
 ```bibtex
 @article{Wan2007,
   author     = {Wan, Zeyin and Fang, Yulin and Neufeld, Derrick J.},
+  journal    = {Journal of Information Systems Education},
   title      = {The Role of Information Technology in Technology-Mediated Learning: A Review of the Past for the Future},
   year       = {2007},
-  journal    = {Journal of Information Systems Education},
   volume     = {18},
   number     = {2},
   pages      = {183--192}

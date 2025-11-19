@@ -1,27 +1,28 @@
 ---
-title: "Review: The Resource-based View and Information Systems Research: Review, Extension, and Suggestions for Future Research"
+title: "Review: The Resource-Based View and Information Systems Research: Review, Extension, and Suggestions for Future Research"
 author:
-- Wade, Michael
-- Hulland, John
+- Wade
+- Hulland
 topic: ""
-categories: ['theoretical-review']
+categories: ['theoretical-review', 'highly-cited']
 date: "2004"
-doi: ""
+doi: "https://doi.org/10.2307/25148626"
 journal:
   name: "MIS Quarterly"
-cited_by: 0
+cited_by: 1516
 ---
 
 Citation:
 
 ```bibtex
 @article{Wade2004,
-  author     = {Wade, Michael and Hulland, John},
-  title      = {Review: The Resource-based View and Information Systems Research: Review, Extension, and Suggestions for Future Research},
-  year       = {2004},
+  doi        = {10.2307/25148626},
+  author     = {Wade and Hulland},
   journal    = {MIS Quarterly},
+  title      = {Review: The Resource-Based View and Information Systems Research: Review, Extension, and Suggestions for Future Research},
+  year       = {2004},
   volume     = {28},
   number     = {1},
-  pages      = {107--142}
+  pages      = {107}
 }
 ```

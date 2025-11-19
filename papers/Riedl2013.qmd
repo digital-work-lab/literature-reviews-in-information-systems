@@ -1,26 +1,28 @@
 ---
-title: "On the Biology of Technostress: Literature Review and Research Agenda"
+title: "On the biology of technostress"
 author:
 - Riedl, René
 topic: ""
 categories: ['scoping-review']
-date: "2013"
-doi: ""
+date: "2012"
+doi: "https://doi.org/10.1145/2436239.2436242"
 journal:
-  name: "ACM SIGMIS Database"
-cited_by: 0
+  name: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
+cited_by: 203
 ---
 
 Citation:
 
 ```bibtex
 @article{Riedl2013,
+  doi        = {10.1145/2436239.2436242},
   author     = {Riedl, René},
-  title      = {On the Biology of Technostress: Literature Review and Research Agenda},
-  year       = {2013},
-  journal    = {ACM SIGMIS Database},
+  journal    = {ACM SIGMIS Database: the DATABASE for Advances in Information Systems},
+  title      = {On the biology of technostress},
+  year       = {2012},
   volume     = {44},
   number     = {1},
-  pages      = {18--55}
+  pages      = {18--55},
+  abstract   = {Despite the fact that human society has greatly benefited from the availability of information and communication technologies (ICT), both the use and ubiquity of ICT may also have a "dark side." Direct human interaction with ICT, as well as perceptions, emotions, and thoughts regarding the implementation of ICT in organizations and its pervasiveness in society in general, may lead to notable stress perceptions--a type of stress referred to as technostress. Analysis of the information systems (IS) literature reveals that technostress has hardly been addressed from a biological perspective. This is problematic, because biology not only provides objective measurements, but also, to a notable degree, determines human behavior toward ICT. Most important, biological measures (e.g., stress hormone levels, cardiovascular activity) are crucial predictors of human health, making them an indispensable complement to self-reports on stress perceptions. Against this background, the present article reviews the technostress research based on biological approaches that has been published in various disciplines such as human-computer interaction, medicine, biological psychology, and ergonomics. With the goal of developing a "big-picture" view of technostress and biology, this article integrates a body of highly fragmented work. The review reveals significant negative biological effects that develop from human interaction with ICT (e.g., increased activity of the cardiovascular system, or elevated levels of stress hormones such as adrenaline and cortisol). However, the review also indicates that countermeasures, which may positively affect biological parameters (e.g., reduced levels of stress hormones), do exist. Drawing on the literature review, this article also specifies a research agenda for future technostress research. The agenda is organized along three themes (theory and methods, design science and engineering, health and coping strategies), and proposes fifteen research questions (topics) that can be addressed in future investigations.}
 }
 ```

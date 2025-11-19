@@ -7,20 +7,21 @@ author:
 topic: ""
 categories: ['narrative-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.1080/10580530.2014.958024"
 journal:
   name: "Information Systems Management"
-cited_by: 0
+cited_by: 40
 ---
 
 Citation:
 
 ```bibtex
 @article{Ben-Zion2014,
+  doi        = {10.1080/10580530.2014.958024},
   author     = {Ben-Zion, Ronnie and Pliskin, Nava and Fink, Lior},
+  journal    = {Information Systems Management},
   title      = {Critical Success Factors for Adoption of Electronic Health Record Systems: Literature Review and Prescriptive Analysis},
   year       = {2014},
-  journal    = {Information Systems Management},
   volume     = {31},
   number     = {4},
   pages      = {296--312}

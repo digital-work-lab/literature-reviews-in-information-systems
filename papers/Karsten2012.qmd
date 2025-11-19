@@ -1,5 +1,5 @@
 ---
-title: "Computer Self-Efficacy: A Meta-Analysis"
+title: "Computer Self-Efficacy"
 author:
 - Karsten, Rex
 - Mitra, Atul
@@ -7,22 +7,24 @@ author:
 topic: ""
 categories: ['meta-analysis']
 date: "2012"
-doi: ""
+doi: "https://doi.org/10.4018/JOEUC.2012100104"
 journal:
   name: "Journal of Organizational and End User Computing"
-cited_by: 0
+cited_by: 36
 ---
 
 Citation:
 
 ```bibtex
 @article{Karsten2012,
+  doi        = {10.4018/JOEUC.2012100104},
   author     = {Karsten, Rex and Mitra, Atul and Schmidt, Dennis},
-  title      = {Computer Self-Efficacy: A Meta-Analysis},
-  year       = {2012},
   journal    = {Journal of Organizational and End User Computing},
+  title      = {Computer Self-Efficacy},
+  year       = {2012},
   volume     = {24},
   number     = {4},
-  pages      = {54--80}
+  pages      = {54--80},
+  abstract   = {Computer self-efficacy (CSE) has been a popular and important construct in information systems research for more than two decades. Although CSE researchers have conducted extensive qualitative reviews, quantitative analyses are lacking for studies of the relationships between CSE and variables of interest. This study provides such a quantitative analysis. The authors meta-analyze 102 empirical CSE studies that reported 232 usable statistical relationships between CSE and seven correlates. Their main meta-analysis demonstrates that CSE is significantly correlated in the theoretically predicted direction with each of the seven correlates. They also quantitatively assess five study characteristics as potential moderators of the CSE-correlate relationships. The moderator analysis reveals complex patterns and indicates that more research is needed to investigate possible moderating effects.}
 }
 ```

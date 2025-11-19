@@ -7,20 +7,21 @@ author:
 topic: ""
 categories: ['scoping-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.17705/1CAIS.03468"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 0
+cited_by: 1
 ---
 
 Citation:
 
 ```bibtex
 @article{Bergvall-Kareborn2014,
+  doi        = {10.17705/1CAIS.03468},
   author     = {Bergvall-Kåreborn, Birgitta and Howcroft, Debra and Ståhlbröst, Anna},
+  journal    = {Communications of the Association for Information Systems},
   title      = {Disregarding History: Contemporary IS Contexts and Participatory Design},
   year       = {2014},
-  journal    = {Communications of the Association for Information Systems},
   volume     = {34},
   number     = {1},
   pages      = {1319--1332}

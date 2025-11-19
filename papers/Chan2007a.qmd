@@ -1,27 +1,29 @@
 ---
 title: "IT Alignment: What Have We Learned?"
 author:
-- Chan, Yolande E.
+- Chan, Yolande E
 - Reich, Blaize Horner
 topic: ""
-categories: ['narrative-review']
+categories: ['narrative-review', 'highly-cited']
 date: "2007"
-doi: ""
+doi: "https://doi.org/10.1057/PALGRAVE.JIT.2000109"
 journal:
   name: "Journal of Information Technology"
-cited_by: 0
+cited_by: 595
 ---
 
 Citation:
 
 ```bibtex
 @article{Chan2007a,
-  author     = {Chan, Yolande E. and Reich, Blaize Horner},
+  doi        = {10.1057/PALGRAVE.JIT.2000109},
+  author     = {Chan, Yolande E and Reich, Blaize Horner},
+  journal    = {Journal of Information Technology},
   title      = {IT Alignment: What Have We Learned?},
   year       = {2007},
-  journal    = {Journal of Information Technology},
   volume     = {22},
   number     = {4},
-  pages      = {297--315}
+  pages      = {297--315},
+  abstract   = {We provide a review of the alignment literature in IT, addressing questions such as: What have we learned? What is disputed? Who are contributors to the debate? The article is intended to be useful to faculty and graduate students considering conducting research on alignment, instructors preparing lectures, and practitioners seeking to assess the ‘state-of-play’. It is both informational and provocative. Challenges to the value of alignment research, divergent views, and new perspectives on alignment are presented. It is hoped that the article will spark helpful conversation on the merits of continued investigation of IT alignment.}
 }
 ```

@@ -9,7 +9,7 @@ date: "2016"
 doi: "https://doi.org/10.1109/HICSS.2016.232"
 journal:
   name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+cited_by: 7
 ---
 
 Citation:

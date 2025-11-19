@@ -1,28 +1,30 @@
 ---
-title: "The Regulatory Considerations and Ethical Dilemmas of Location-based Services (LBS): A Literature Review"
+title: "The regulatory considerations and ethical dilemmas of location-based services (LBS)"
 author:
 - Abbas, Roba
 - Michael, Katina
-- Michael, M. G.
+- Michael, MG
 topic: ""
 categories: ['narrative-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.1108/ITP-12-2012-0156"
 journal:
   name: "Information Technology & People"
-cited_by: 0
+cited_by: 42
 ---
 
 Citation:
 
 ```bibtex
 @article{Abbas2014,
-  author     = {Abbas, Roba and Michael, Katina and Michael, M. G.},
-  title      = {The Regulatory Considerations and Ethical Dilemmas of Location-based Services (LBS): A Literature Review},
-  year       = {2014},
+  doi        = {10.1108/ITP-12-2012-0156},
+  author     = {Abbas, Roba and Michael, Katina and Michael, MG},
   journal    = {Information Technology & People},
+  title      = {The regulatory considerations and ethical dilemmas of location-based services (LBS)},
+  year       = {2014},
   volume     = {27},
   number     = {1},
-  pages      = {2--20}
+  pages      = {2--20},
+  abstract   = {<jats:title content-type="abstract-heading">Purpose – The purpose of this paper is to comprehensively review existing literature regarding the ethical dilemmas posed by location-based services (LBS) and their impact upon the adoption of a regulatory framework. <jats:title content-type="abstract-heading">Design/methodology/approach – This paper employs a qualitative approach for reviewing LBS scholarship, in which existing knowledge is presented in narrative form and is critiqued thematically. <jats:title content-type="abstract-heading">Findings – In reviewing contemporary scholarship, the value of technical, social and environmental considerations is demonstrated. This encourages an understanding of the complexities, multiple interests and contextual factors that must be incorporated into the examination of LBS regulation in any social context. <jats:title content-type="abstract-heading">Practical implications – Approximately 85 per cent of handsets now have a global positioning system chipset on board. LBS affect a great number of mobile users. This research will create awareness among users of the potential benefits and harms that can come from the (mis)use of the technology. It will also promote an awareness of the complexities surrounding LBS regulation, drawing attention to the importance of collaboration and involvement of LBS stakeholders in the regulatory process. <jats:title content-type="abstract-heading">Originality/value – Defines the ethical dilemmas of LBS that influence regulatory choices through a review of applicable literature and proposes that future research simultaneously address technical, social and environmental factors relevant to LBS.}
 }
 ```

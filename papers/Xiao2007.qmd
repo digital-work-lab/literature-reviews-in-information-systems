@@ -1,27 +1,28 @@
 ---
 title: "E-Commerce Product Recommendation Agents: Use, Characteristics, and Impact"
 author:
-- Xiao, Bo
-- Benbasat, Izak
+- Xiao
+- Benbasat
 topic: ""
-categories: ['theoretical-review']
+categories: ['theoretical-review', 'highly-cited']
 date: "2007"
-doi: ""
+doi: "https://doi.org/10.2307/25148784"
 journal:
   name: "MIS Quarterly"
-cited_by: 0
+cited_by: 683
 ---
 
 Citation:
 
 ```bibtex
 @article{Xiao2007,
-  author     = {Xiao, Bo and Benbasat, Izak},
+  doi        = {10.2307/25148784},
+  author     = {Xiao and Benbasat},
+  journal    = {MIS Quarterly},
   title      = {E-Commerce Product Recommendation Agents: Use, Characteristics, and Impact},
   year       = {2007},
-  journal    = {MIS Quarterly},
   volume     = {31},
   number     = {1},
-  pages      = {137--209}
+  pages      = {137}
 }
 ```

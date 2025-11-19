@@ -1,5 +1,5 @@
 ---
-title: "Toward an Integrative Framework for Online Consumer Behavior Research: A Meta-Analysis Approach"
+title: "Toward an Integrative Framework for Online Consumer Behavior Research"
 author:
 - Saeed, Khawaja A.
 - Hwang, Yujong
@@ -7,22 +7,24 @@ author:
 topic: ""
 categories: ['meta-analysis']
 date: "2003"
-doi: ""
+doi: "https://doi.org/10.4018/JOEUC.2003100101"
 journal:
   name: "Journal of Organizational and End User Computing"
-cited_by: 0
+cited_by: 92
 ---
 
 Citation:
 
 ```bibtex
 @article{Saeed2003,
+  doi        = {10.4018/JOEUC.2003100101},
   author     = {Saeed, Khawaja A. and Hwang, Yujong and Yi, Mun Y.},
-  title      = {Toward an Integrative Framework for Online Consumer Behavior Research: A Meta-Analysis Approach},
-  year       = {2003},
   journal    = {Journal of Organizational and End User Computing},
+  title      = {Toward an Integrative Framework for Online Consumer Behavior Research},
+  year       = {2003},
   volume     = {15},
   number     = {4},
-  pages      = {1--26}
+  pages      = {1--26},
+  abstract   = {The recent failure of a large number of e-tail companies epitomizes the challenges of operating through virtual channels and underscores the need to better understand key drivers of online consumer behavior. The objective of this study is to provide a comprehensive review of the extant information systems (IS) literature related to online consumer behavior and integrate the literature in order to enhance our knowledge of consumer behavior in electronic markets and provide clear directions for future research. This paper introduces a framework that integrates research findings across studies to develop a coherent and comprehensive picture of the online consumer behavior research conducted in the IS field. The integrative framework proposes system quality, information quality, service quality, and vendor and channel characteristics as key factors that impact online consumer behavior, achieving their effects by altering the perceptions of usefulness, ease of use, trust, and shopping enjoyment.}
 }
 ```

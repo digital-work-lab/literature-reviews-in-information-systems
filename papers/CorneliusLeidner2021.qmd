@@ -1,24 +1,25 @@
 ---
-title: "Acceptance of Anthropomorphic Technology - A Literature Review"
+title: "Acceptance of Anthropomorphic Technology: A Literature Review"
 author:
 - Cornelius, Samia
-- Leidner, Dorothy E.
+- Leidner, Dorothy
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.774"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 7
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{CorneliusLeidner2021,
-  author     = {Cornelius, Samia and Leidner, Dorothy E.},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Acceptance of Anthropomorphic Technology - A Literature Review},
+  doi        = {10.24251/HICSS.2021.774},
+  author     = {Cornelius, Samia and Leidner, Dorothy},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Acceptance of Anthropomorphic Technology: A Literature Review},
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71394}
 }

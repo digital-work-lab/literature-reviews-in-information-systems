@@ -1,24 +1,25 @@
 ---
-title: "Enterprise Strategy Management Systems: Current and Next Generation"
+title: "Enterprise strategy management systems: current and next generation"
 author:
 - Wagner, Christian
 topic: ""
 categories: ['narrative-review']
 date: "2004"
-doi: ""
+doi: "https://doi.org/10.1016/J.JSIS.2004.02.005"
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 0
+cited_by: 23
 ---
 
 Citation:
 
 ```bibtex
 @article{Wagner2004a,
+  doi        = {10.1016/J.JSIS.2004.02.005},
   author     = {Wagner, Christian},
-  title      = {Enterprise Strategy Management Systems: Current and Next Generation},
-  year       = {2004},
   journal    = {The Journal of Strategic Information Systems},
+  title      = {Enterprise strategy management systems: current and next generation},
+  year       = {2004},
   volume     = {13},
   number     = {2},
   pages      = {105--128}

@@ -1,28 +1,30 @@
 ---
 title: "Digital Natives and Digital Immigrants"
 author:
-- Wang, Qian Emily
+- Wang, Qian
 - Myers, Michael D.
 - Sundaram, David
 topic: ""
 categories: ['theoretical-review']
 date: "2013"
-doi: ""
+doi: "https://doi.org/10.1007/S12599-013-0296-Y"
 journal:
   name: "Business & Information Systems Engineering"
-cited_by: 0
+cited_by: 139
 ---
 
 Citation:
 
 ```bibtex
 @article{Wang2013e,
-  author     = {Wang, Qian Emily and Myers, Michael D. and Sundaram, David},
+  doi        = {10.1007/S12599-013-0296-Y},
+  author     = {Wang, Qian and Myers, Michael D. and Sundaram, David},
+  journal    = {Business & Information Systems Engineering},
   title      = {Digital Natives and Digital Immigrants},
   year       = {2013},
-  journal    = {Business & Information Systems Engineering},
   volume     = {5},
   number     = {6},
-  pages      = {409--419}
+  pages      = {409--419},
+  fulltext   = {http://link.springer.com/content/pdf/10.1007/s12599-013-0296-y.pdf}
 }
 ```

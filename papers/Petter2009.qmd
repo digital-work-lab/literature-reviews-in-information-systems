@@ -1,25 +1,26 @@
 ---
-title: "A Meta-Analytic Assessment of the DeLone and McLean IS Success Model: An Examination of IS Success at the Individual Level"
+title: "A meta-analytic assessment of the DeLone and McLean IS success model: An examination of IS success at the individual level"
 author:
 - Petter, Stacie
 - McLean, Ephraim R.
 topic: ""
 categories: ['meta-analysis']
 date: "2009"
-doi: ""
+doi: "https://doi.org/10.1016/J.IM.2008.12.006"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 419
 ---
 
 Citation:
 
 ```bibtex
 @article{Petter2009,
+  doi        = {10.1016/J.IM.2008.12.006},
   author     = {Petter, Stacie and McLean, Ephraim R.},
-  title      = {A Meta-Analytic Assessment of the DeLone and McLean IS Success Model: An Examination of IS Success at the Individual Level},
-  year       = {2009},
   journal    = {Information & Management},
+  title      = {A meta-analytic assessment of the DeLone and McLean IS success model: An examination of IS success at the individual level},
+  year       = {2009},
   volume     = {46},
   number     = {3},
   pages      = {159--166}

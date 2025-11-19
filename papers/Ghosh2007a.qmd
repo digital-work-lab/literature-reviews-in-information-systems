@@ -1,27 +1,28 @@
 ---
-title: "Self-healing Systems - Survey and Synthesis"
+title: "Self-healing systems — survey and synthesis"
 author:
 - Ghosh, Debanjan
 - Sharman, Raj
-- Rao, H. Raghav
-- Upadhyay, Shambhu J.
+- Raghav Rao, H.
+- Upadhyaya, Shambhu
 topic: ""
 categories: ['scoping-review']
 date: "2007"
-doi: ""
+doi: "https://doi.org/10.1016/J.DSS.2006.06.011"
 journal:
   name: "Decision Support Systems"
-cited_by: 0
+cited_by: 218
 ---
 
 Citation:
 
 ```bibtex
 @article{Ghosh2007a,
-  author     = {Ghosh, Debanjan and Sharman, Raj and Rao, H. Raghav and Upadhyay, Shambhu J.},
-  title      = {Self-healing Systems - Survey and Synthesis},
-  year       = {2007},
+  doi        = {10.1016/J.DSS.2006.06.011},
+  author     = {Ghosh, Debanjan and Sharman, Raj and Raghav Rao, H. and Upadhyaya, Shambhu},
   journal    = {Decision Support Systems},
+  title      = {Self-healing systems — survey and synthesis},
+  year       = {2007},
   volume     = {42},
   number     = {4},
   pages      = {2164--2185}

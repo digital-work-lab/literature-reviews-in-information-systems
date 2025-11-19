@@ -1,28 +1,30 @@
 ---
-title: "Virtual Teams: A Review of Current Literature and Directions for Future Research"
+title: "Virtual teams"
 author:
 - Powell, Anne
 - Piccoli, Gabriele
 - Ives, Blake
 topic: ""
-categories: ['scoping-review']
+categories: ['scoping-review', 'highly-cited']
 date: "2004"
-doi: ""
+doi: "https://doi.org/10.1145/968464.968467"
 journal:
-  name: "ACM SIGMIS Database"
-cited_by: 0
+  name: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
+cited_by: 748
 ---
 
 Citation:
 
 ```bibtex
 @article{Powell2004,
+  doi        = {10.1145/968464.968467},
   author     = {Powell, Anne and Piccoli, Gabriele and Ives, Blake},
-  title      = {Virtual Teams: A Review of Current Literature and Directions for Future Research},
+  journal    = {ACM SIGMIS Database: the DATABASE for Advances in Information Systems},
+  title      = {Virtual teams},
   year       = {2004},
-  journal    = {ACM SIGMIS Database},
   volume     = {35},
   number     = {1},
-  pages      = {6--36}
+  pages      = {6--36},
+  abstract   = {Information technology is providing the infrastructure necessary to support the development of new organizational forms. Virtual teams represent one such organizational form, one that could revolutionize the workplace and provide organizations with unprecedented levels of flexibility and responsiveness. As the technological infrastructure necessary to support virtual teams is now readily available, further research on the range of issues surrounding virtual teams is required if we are to learn how to manage them effectively. While the findings of team research in the traditional environment may provide useful pointers, the idiosyncratic structural and contextual issues surrounding virtual teams call for specific research attention.This article provides a review of previously published work and reports on the findings from early virtual team research in an effort to take stock of the current state of the art. The review is organized around the input - process - output model and categorizes the literature into issues pertaining to inputs, socio-emotional processes, task processes, and outputs. Building on this review we critically evaluate virtual team research and develop research questions that can guide future inquiry in this fertile are of inquiry.}
 }
 ```

@@ -1,27 +1,28 @@
 ---
-title: "A Contingency Model for Requirements Development"
+title: "A Contigency Model for Requirements Development"
 author:
-- Mathiassen, Lars
-- Saarinen, Timo
 - Tuunanen, Tuure
 - Rossi, Matti
+- Saarinen, Timo
+- Mathiassen, Lars
 topic: ""
 categories: ['theoretical-review']
 date: "2007"
-doi: ""
+doi: "https://doi.org/10.17705/1JAIS.00143"
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 0
+cited_by: 34
 ---
 
 Citation:
 
 ```bibtex
 @article{Mathiassen2007,
-  author     = {Mathiassen, Lars and Saarinen, Timo and Tuunanen, Tuure and Rossi, Matti},
-  title      = {A Contingency Model for Requirements Development},
-  year       = {2007},
+  doi        = {10.17705/1JAIS.00143},
+  author     = {Tuunanen, Tuure and Rossi, Matti and Saarinen, Timo and Mathiassen, Lars},
   journal    = {Journal of the Association for Information Systems},
+  title      = {A Contigency Model for Requirements Development},
+  year       = {2007},
   volume     = {8},
   number     = {11},
   pages      = {569--597}

@@ -1,5 +1,5 @@
 ---
-title: "Building a Knowledge Base for MIS Research: A Meta-Analysis of a Systems Success Model"
+title: "Building a Knowledge Base for MIS Research"
 author:
 - Hwang, Mark I.
 - Windsor, John C.
@@ -7,22 +7,24 @@ author:
 topic: ""
 categories: ['meta-analysis']
 date: "2000"
-doi: ""
+doi: "https://doi.org/10.4018/IRMJ.2000040103"
 journal:
   name: "Information Resources Management Journal"
-cited_by: 0
+cited_by: 23
 ---
 
 Citation:
 
 ```bibtex
 @article{Hwang2000,
+  doi        = {10.4018/IRMJ.2000040103},
   author     = {Hwang, Mark I. and Windsor, John C. and Pryor, Alan},
-  title      = {Building a Knowledge Base for MIS Research: A Meta-Analysis of a Systems Success Model},
-  year       = {2000},
   journal    = {Information Resources Management Journal},
+  title      = {Building a Knowledge Base for MIS Research},
+  year       = {2000},
   volume     = {13},
   number     = {2},
-  pages      = {26--32}
+  pages      = {26--32},
+  abstract   = {This study was conducted to create a knowledge base for MIS research. Building on two previous theoretical models, a systems success model relating six independent variables (external environment, organizational environment, user environment, IS operations environment, IS development environment, and information systems) to four success variables (use, satisfaction, individual impact, and organizational impact) was developed. This model was tested using data from 82 empirical studies in a meta-analysis. Results showed that all but one independent variable, external environment, had a significant relationship with success variables. In addition, each independent variable had varying strengths of relationships with different success variables. The findings yield important guidelines for the selection of variables in future research. The validated systems success model is general and theory based, and is useful in providing directions for future research.}
 }
 ```

@@ -1,25 +1,26 @@
 ---
-title: "Strategizing Information Systems-enabled Organizational Transformation: A Transdisciplinary Review and New Directions"
+title: "Strategizing information systems-enabled organizational transformation: A transdisciplinary review and new directions"
 author:
 - Besson, Patrick
 - Rowe, Frantz
 topic: ""
 categories: ['scoping-review']
 date: "2012"
-doi: ""
+doi: "https://doi.org/10.1016/J.JSIS.2012.05.001"
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 0
+cited_by: 337
 ---
 
 Citation:
 
 ```bibtex
 @article{Besson2012,
+  doi        = {10.1016/J.JSIS.2012.05.001},
   author     = {Besson, Patrick and Rowe, Frantz},
-  title      = {Strategizing Information Systems-enabled Organizational Transformation: A Transdisciplinary Review and New Directions},
-  year       = {2012},
   journal    = {The Journal of Strategic Information Systems},
+  title      = {Strategizing information systems-enabled organizational transformation: A transdisciplinary review and new directions},
+  year       = {2012},
   volume     = {21},
   number     = {2},
   pages      = {103--124}

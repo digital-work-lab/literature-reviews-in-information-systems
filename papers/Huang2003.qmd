@@ -1,5 +1,5 @@
 ---
-title: "Using a GSS to Support Virtual Teambuilding: A Theoretical Framework"
+title: "Using a GSS to Support Virtual Teambuilding"
 author:
 - Huang, Wayne
 - Wei, Kwok-Kee
@@ -7,22 +7,24 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2003"
-doi: ""
+doi: "https://doi.org/10.4018/JGIM.2003010104"
 journal:
   name: "Journal of Global Information Management"
-cited_by: 0
+cited_by: 5
 ---
 
 Citation:
 
 ```bibtex
 @article{Huang2003,
+  doi        = {10.4018/JGIM.2003010104},
   author     = {Huang, Wayne and Wei, Kwok-Kee and Lim, John},
-  title      = {Using a GSS to Support Virtual Teambuilding: A Theoretical Framework},
-  year       = {2003},
   journal    = {Journal of Global Information Management},
+  title      = {Using a GSS to Support Virtual Teambuilding},
+  year       = {2003},
   volume     = {11},
   number     = {1},
-  pages      = {72--89}
+  pages      = {72--89},
+  abstract   = {This paper deals with the use of a group support system (GSS) to support virtual team-building. Literature review on Group Support Systems (GSS) indicates that most prior GSS research focuses on supporting face-to-face teamwork, and few studies were conducted in supporting virtual teamwork and team-building. When virtual teamwork becomes more common in modern organizations, how GSS can be used to enhance virtual team-building is becoming an important research issue. This paper proposes a conceptual team-building framework. By embedding this conceptual framework into a GSS, the GSS may have the potential to support virtual team-building. Based on the framework, a set of testable research propositions is formulated, and some suggestions for future GSS research are discussed.}
 }
 ```

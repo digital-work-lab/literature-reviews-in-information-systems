@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['descriptive-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.17705/1CAIS.03404"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 0
+cited_by: 9
 ---
 
 Citation:
 
 ```bibtex
 @article{Basten2014,
+  doi        = {10.17705/1CAIS.03404},
   author     = {Basten, Dirk and Sunyaev, Ali},
+  journal    = {Communications of the Association for Information Systems},
   title      = {A Systematic Mapping of Factors Affecting Accuracy of Software Development Effort Estimation},
   year       = {2014},
-  journal    = {Communications of the Association for Information Systems},
   volume     = {34},
   number     = {1},
   pages      = {51--86}

@@ -7,20 +7,21 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2011"
-doi: ""
+doi: "https://doi.org/10.1080/10919392.2011.590109"
 journal:
   name: "Journal of Organizational Computing and Electronic Commerce"
-cited_by: 0
+cited_by: 150
 ---
 
 Citation:
 
 ```bibtex
 @article{Turban2011,
+  doi        = {10.1080/10919392.2011.590109},
   author     = {Turban, Efraim and Bolloju, Narasimha and Liang, Ting-Peng},
+  journal    = {Journal of Organizational Computing and Electronic Commerce},
   title      = {Enterprise Social Networking: Opportunities, Adoption, and Risk Mitigation},
   year       = {2011},
-  journal    = {Journal of Organizational Computing and Electronic Commerce},
   volume     = {21},
   number     = {3},
   pages      = {202--220}

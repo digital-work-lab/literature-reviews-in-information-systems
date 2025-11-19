@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['scoping-review']
 date: "2006"
-doi: ""
+doi: "https://doi.org/10.17705/1CAIS.01721"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 0
+cited_by: 1
 ---
 
 Citation:
 
 ```bibtex
 @article{Beaudry2006,
+  doi        = {10.17705/1CAIS.01721},
   author     = {Beaudry, Anne and Carillo, Kevin D.},
+  journal    = {Communications of the Association for Information Systems},
   title      = {The Customer-Centered B2C Literature through the Lens of Activity Theory: A Review and Research Agenda},
   year       = {2006},
-  journal    = {Communications of the Association for Information Systems},
   volume     = {17},
   number     = {21},
   pages      = {428--503}

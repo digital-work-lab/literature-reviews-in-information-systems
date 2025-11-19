@@ -1,27 +1,30 @@
 ---
-title: "Privacy in the Digital Age: A Review of Information Privacy Research in Information Systems"
+title: "Privacy in the Digital Age: a Review of Information Privacy Research in Information Systems1"
 author:
 - Bélanger, France
 - Crossler, Robert E.
 topic: ""
-categories: ['critical-review']
+categories: ['critical-review', 'highly-cited']
 date: "2011"
-doi: ""
+doi: "https://doi.org/10.2307/41409971"
 journal:
   name: "MIS Quarterly"
-cited_by: 0
+cited_by: 842
 ---
 
 Citation:
 
 ```bibtex
 @article{Belanger2011,
+  doi        = {10.2307/41409971},
   author     = {Bélanger, France and Crossler, Robert E.},
-  title      = {Privacy in the Digital Age: A Review of Information Privacy Research in Information Systems},
-  year       = {2011},
   journal    = {MIS Quarterly},
+  title      = {Privacy in the Digital Age: a Review of Information Privacy Research in Information Systems1},
+  year       = {2011},
   volume     = {35},
   number     = {4},
-  pages      = {1017--1041}
+  pages      = {1017--A36},
+  abstract   = {Information privacy refers to the desire of individuals to control or have some influence over data about themselves. Advances in information technology have raised concerns about information privacy and its impacts, and have motivated Information Systems researchers to explore information privacy issues, including technical solutions to address these concerns. In this paper, we inform researchers about the current state of information privacy research in IS through a critical analysis of the IS literature that considers information privacy as a key construct. The review of the literature reveals that information privacy is a multilevel concept, but rarely studied as such. We also find that information privacy research has been heavily reliant on student-based and USA-centric samples, which results in findings of limited generalizability. Information privacy research focuses on explaining and predicting theoretical contributions, with few studies in journal articles focusing on design and action contributions. We recommend that future research should consider different levels of analysis as well as multilevel effects of information privacy. We illustrate this with a multilevel framework for information privacy concerns. We call for research on information privacy to use a broader diversity of sampling populations, and for more design and action information privacy research to be published in journal articles that can result in IT artifacts for protection or control of information privacy.},
+  fulltext   = {https://misq.umn.edu/misq/article-pdf/35/4/1017/11397/10_belangercrossler.pdf}
 }
 ```

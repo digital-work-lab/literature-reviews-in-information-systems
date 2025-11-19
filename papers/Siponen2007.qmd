@@ -1,27 +1,29 @@
 ---
-title: "A Review of Information Security Issues and Respective Research Contributions"
+title: "A review of information security issues and respective research contributions"
 author:
 - Siponen, Mikko T.
 - Oinas-Kukkonen, Harri
 topic: ""
 categories: ['narrative-review']
 date: "2007"
-doi: ""
+doi: "https://doi.org/10.1145/1216218.1216224"
 journal:
-  name: "ACM SIGMIS Database"
-cited_by: 0
+  name: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
+cited_by: 129
 ---
 
 Citation:
 
 ```bibtex
 @article{Siponen2007,
+  doi        = {10.1145/1216218.1216224},
   author     = {Siponen, Mikko T. and Oinas-Kukkonen, Harri},
-  title      = {A Review of Information Security Issues and Respective Research Contributions},
+  journal    = {ACM SIGMIS Database: the DATABASE for Advances in Information Systems},
+  title      = {A review of information security issues and respective research contributions},
   year       = {2007},
-  journal    = {ACM SIGMIS Database},
   volume     = {38},
   number     = {1},
-  pages      = {60--80}
+  pages      = {60--80},
+  abstract   = {This paper identifies four security issues (access to Information Systems, secure communication, security management, development of secure Information Systems), and examines the extent to which these security issues have been addressed by existing research efforts. Research contributions in relation to these four security issues are analyzed from three viewpoints: a meta-model for information systems, the research approaches used, and the reference disciplines used. Our survey reveals that most information security research has focused on the technical context, and on issues of access to IS and secure communication. The corresponding security issues have been resolved by using mathematical approaches as a research approach. The reference disciplines most commonly reflected have been mathematics, including philosophical logic. Based on this analysis, we suggest new directions for studying information security from an information systems viewpoint, with respect to research methodology and research questions. Empirical studies in relation to the issues of security management and the development of secure IS, based on suitable reference theories (e.g., psychology, sociology, semiotics, and philosophy), are particularly necessary.}
 }
 ```

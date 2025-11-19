@@ -1,15 +1,15 @@
 ---
-title: "Realizing Value with Data and Analytics - A Structured Literature Review on Classification Approaches of Data-Driven Innovations"
+title: "Realizing Value with Data and Analytics: A Structured Literature Review on Classification Approaches of Data-Driven Innovations"
 author:
 - Kayser, Liza
 - Fruhwirth, Michael
-- Müller, Roland M.
+- Mueller, Roland M.
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.690"
 journal:
-  name: "Hawaii International Conference on System Sciences"
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
 cited_by: 0
 ---
 
@@ -17,9 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{KayserFruhwirthMuller2021,
-  author     = {Kayser, Liza and Fruhwirth, Michael and Müller, Roland M.},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Realizing Value with Data and Analytics - A Structured Literature Review on Classification Approaches of Data-Driven Innovations},
+  doi        = {10.24251/HICSS.2021.690},
+  author     = {Kayser, Liza and Fruhwirth, Michael and Mueller, Roland M.},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Realizing Value with Data and Analytics: A Structured Literature Review on Classification Approaches of Data-Driven Innovations},
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71310}
 }

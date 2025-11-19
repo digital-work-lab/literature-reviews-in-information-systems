@@ -1,5 +1,5 @@
 ---
-title: "The Ongoing Quest For The IT Artifact: Looking Back, Moving Forward"
+title: "The Ongoing Quest for the it Artifact: Looking Back, Moving Forward"
 author:
 - Akhlaghpour, Saeed
 - Wu, Jing
@@ -8,22 +8,24 @@ author:
 topic: ""
 categories: ['descriptive-review']
 date: "2013"
-doi: ""
+doi: "https://doi.org/10.1057/JIT.2013.10"
 journal:
   name: "Journal of Information Technology"
-cited_by: 0
+cited_by: 44
 ---
 
 Citation:
 
 ```bibtex
 @article{Akhlaghpour2013,
+  doi        = {10.1057/JIT.2013.10},
   author     = {Akhlaghpour, Saeed and Wu, Jing and Lapointe, Liette and Pinsonneault, Alain},
-  title      = {The Ongoing Quest For The IT Artifact: Looking Back, Moving Forward},
-  year       = {2013},
   journal    = {Journal of Information Technology},
+  title      = {The Ongoing Quest for the it Artifact: Looking Back, Moving Forward},
+  year       = {2013},
   volume     = {28},
   number     = {2},
-  pages      = {150--166}
+  pages      = {150--166},
+  abstract   = {More than 10 years ago, Orlikowski and Iacono (2001) examined the conceptualization of Information Technology (IT) in Information Systems Research (ISR) articles published in the 1990s. Their main conclusion was that the majority of these articles did not properly conceptualize the IT artifact. They recommended that IS researchers start to theorize about the IT artifact and employ rich conceptualizations of IT. The Orlikowski and Iacono paper provides a strong anchor point from which to analyze the evolution of the IS discipline. In order to obtain an up-to-date image of contemporary IS research, and to assess how the IS field has evolved since the 1990s, we carried out a similar analysis on a more recent and broader set of articles, that is, the full set (N = 644) of papers published between 2006 and 2009 by six top North American (ISR, MISQ, JAIS) and European (JIT, ISJ, EJIS) journals. The statistics in our results reveal no drastic advance in terms of deeper engagement with the IT artifact; more than 39% of the articles in our set are virtually mute about the artifact, and less than 16% employ an ensemble view of IT. Moreover, we note differences among the North American and European journals. Implications of the findings for two perspectives central to the IS research legitimacy debate are discussed.}
 }
 ```

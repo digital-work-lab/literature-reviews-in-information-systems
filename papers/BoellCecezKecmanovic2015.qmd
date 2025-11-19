@@ -9,7 +9,7 @@ date: "2015"
 doi: "https://doi.org/10.1057/JIT.2014.26"
 journal:
   name: "Journal of Information Technology"
-cited_by: 0
+cited_by: 298
 ---
 
 Citation:

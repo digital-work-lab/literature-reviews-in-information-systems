@@ -5,20 +5,21 @@ author:
 topic: ""
 categories: ['meta-analysis']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.17705/1CAIS.03502"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 0
+cited_by: 3
 ---
 
 Citation:
 
 ```bibtex
 @article{Hwang2014,
+  doi        = {10.17705/1CAIS.03502},
   author     = {Hwang, Mark I.},
+  journal    = {Communications of the Association for Information Systems},
   title      = {Disentangling the Effect of Top Management Support and Training on Systems Implementation Success: A Meta-Analysis},
   year       = {2014},
-  journal    = {Communications of the Association for Information Systems},
   volume     = {35},
   number     = {1},
   pages      = {19--37}

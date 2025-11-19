@@ -2,25 +2,27 @@
 title: "Telework: Existing Research and Future Directions"
 author:
 - Shin, Bongsik
-- Liu Sheng, Olivia R.
+- El Sawy, Omar A.
+- Sheng, Olivia R. Liu
 - Higa, Kunihiko
 topic: ""
 categories: ['narrative-review']
 date: "2000"
-doi: ""
+doi: "https://doi.org/10.1207/S15327744JOCE1002_2"
 journal:
   name: "Journal of Organizational Computing and Electronic Commerce"
-cited_by: 0
+cited_by: 69
 ---
 
 Citation:
 
 ```bibtex
 @article{Shin2000,
-  author     = {Shin, Bongsik and Liu Sheng, Olivia R. and Higa, Kunihiko},
+  doi        = {10.1207/S15327744JOCE1002_2},
+  author     = {Shin, Bongsik and El Sawy, Omar A. and Sheng, Olivia R. Liu and Higa, Kunihiko},
+  journal    = {Journal of Organizational Computing and Electronic Commerce},
   title      = {Telework: Existing Research and Future Directions},
   year       = {2000},
-  journal    = {Journal of Organizational Computing and Electronic Commerce},
   volume     = {10},
   number     = {2},
   pages      = {85--101}

@@ -6,18 +6,19 @@ author:
 topic: ""
 categories: []
 date: "2019"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2019.466"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 5
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{WitteZarnekow2019,
+  doi        = {10.24251/HICSS.2019.466},
   author     = {Witte, Anne-Katrin and Zarnekow, Rüdiger},
-  booktitle  = {Hawaii International Conference on System Sciences},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
   title      = {Transforming Personal Healthcare through Technology - A Systematic Literature Review of Wearable Sensors for Medical Application},
   year       = {2019},
   url        = {http://hdl.handle.net/10125/59821}

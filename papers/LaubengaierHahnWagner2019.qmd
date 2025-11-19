@@ -1,25 +1,26 @@
 ---
-title: "Organizational Culture and Knowledge Exchange and Combination - A Systematic Literature Review"
+title: "Organizational Culture and Knowledge Exchange and Combination: A Systematic Literature Review"
 author:
 - Laubengaier, Désirée
-- Hahn, Gerd J.
+- Hahn, Gerd
 - Wagner, Heinz-Theo
 topic: ""
 categories: []
 date: "2019"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2019.662"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 4
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{LaubengaierHahnWagner2019,
-  author     = {Laubengaier, Désirée and Hahn, Gerd J. and Wagner, Heinz-Theo},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Organizational Culture and Knowledge Exchange and Combination - A Systematic Literature Review},
+  doi        = {10.24251/HICSS.2019.662},
+  author     = {Laubengaier, Désirée and Hahn, Gerd and Wagner, Heinz-Theo},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Organizational Culture and Knowledge Exchange and Combination: A Systematic Literature Review},
   year       = {2019},
   url        = {http://hdl.handle.net/10125/59986}
 }

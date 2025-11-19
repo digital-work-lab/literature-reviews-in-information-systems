@@ -5,20 +5,21 @@ author:
 topic: ""
 categories: ['qualitative-systematic-review']
 date: "2002"
-doi: ""
+doi: "https://doi.org/10.17705/1CAIS.00804"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 0
+cited_by: 1
 ---
 
 Citation:
 
 ```bibtex
 @article{Johnson2002,
+  doi        = {10.17705/1CAIS.00804},
   author     = {Johnson, Richard A.},
+  journal    = {Communications of the Association for Information Systems},
   title      = {Object-Oriented Systems Development: A Review of Empirical Research},
   year       = {2002},
-  journal    = {Communications of the Association for Information Systems},
   volume     = {8},
   number     = {4},
   pages      = {65--81}

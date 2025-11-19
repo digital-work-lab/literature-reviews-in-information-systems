@@ -12,7 +12,7 @@ date: "2008"
 doi: "https://doi.org/10.1007/S10796-008-9115-2"
 journal:
   name: "Information Systems Frontiers"
-cited_by: 0
+cited_by: 47
 ---
 
 Citation:

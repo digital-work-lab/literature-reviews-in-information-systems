@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['narrative-review']
 date: "2001"
-doi: ""
+doi: "https://doi.org/10.1080/10864415.2001.11044222"
 journal:
   name: "International Journal of Electronic Commerce"
-cited_by: 0
+cited_by: 210
 ---
 
 Citation:
 
 ```bibtex
 @article{Kauffman2001,
+  doi        = {10.1080/10864415.2001.11044222},
   author     = {Kauffman, Robert J. and Walden, Eric A.},
+  journal    = {International Journal of Electronic Commerce},
   title      = {Economics and Electronic Commerce: Survey and Directions for Research},
   year       = {2001},
-  journal    = {International Journal of Electronic Commerce},
   volume     = {5},
   number     = {4},
   pages      = {5--116}

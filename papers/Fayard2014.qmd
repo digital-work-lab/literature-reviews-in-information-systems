@@ -1,25 +1,26 @@
 ---
-title: "Affordances for Practice"
+title: "Affordances for practice"
 author:
 - Fayard, Anne-Laure
 - Weeks, John
 topic: ""
 categories: ['narrative-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.1016/J.INFOANDORG.2014.10.001"
 journal:
   name: "Information and Organization"
-cited_by: 0
+cited_by: 151
 ---
 
 Citation:
 
 ```bibtex
 @article{Fayard2014,
+  doi        = {10.1016/J.INFOANDORG.2014.10.001},
   author     = {Fayard, Anne-Laure and Weeks, John},
-  title      = {Affordances for Practice},
-  year       = {2014},
   journal    = {Information and Organization},
+  title      = {Affordances for practice},
+  year       = {2014},
   volume     = {24},
   number     = {4},
   pages      = {236--249}

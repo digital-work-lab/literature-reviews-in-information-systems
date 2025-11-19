@@ -18,9 +18,9 @@ Citation:
 ```bibtex
 @article{Kontolemakis2004,
   author     = {Kontolemakis, George and Kanellis, Panagiotis and Martakos, Drakoulis},
+  journal    = {Journal of Information Technology Theory and Application},
   title      = {Software Agents for Electronic Marketplaces: Current and Future Research Directions},
   year       = {2004},
-  journal    = {Journal of Information Technology Theory and Application},
   volume     = {6},
   number     = {1},
   pages      = {43--60}

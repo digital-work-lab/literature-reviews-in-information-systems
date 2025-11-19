@@ -9,7 +9,7 @@ date: "2016"
 doi: "https://doi.org/10.1016/J.DSS.2016.04.001"
 journal:
   name: "Decision Support Systems"
-cited_by: 0
+cited_by: 427
 ---
 
 Citation:

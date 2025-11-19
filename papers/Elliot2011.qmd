@@ -1,26 +1,27 @@
 ---
 title: "Transdisciplinary Perspectives on Environmental Sustainability: A Resource Base and Framework for IT-Enabled Business Transformation"
 author:
-- Elliot, Steve
+- Elliot
 topic: ""
 categories: ['theoretical-review']
 date: "2011"
-doi: ""
+doi: "https://doi.org/10.2307/23043495"
 journal:
   name: "MIS Quarterly"
-cited_by: 0
+cited_by: 304
 ---
 
 Citation:
 
 ```bibtex
 @article{Elliot2011,
-  author     = {Elliot, Steve},
+  doi        = {10.2307/23043495},
+  author     = {Elliot},
+  journal    = {MIS Quarterly},
   title      = {Transdisciplinary Perspectives on Environmental Sustainability: A Resource Base and Framework for IT-Enabled Business Transformation},
   year       = {2011},
-  journal    = {MIS Quarterly},
   volume     = {35},
   number     = {1},
-  pages      = {197--236}
+  pages      = {197}
 }
 ```

@@ -5,12 +5,12 @@ author:
 - Koivisto, Jonna
 - Sarsa, Harri
 topic: ""
-categories: []
+categories: ['highly-cited']
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.377"
 journal:
   name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+cited_by: 2761
 ---
 
 Citation:

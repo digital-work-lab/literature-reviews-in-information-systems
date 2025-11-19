@@ -1,27 +1,29 @@
 ---
-title: "Comparing Conceptual Modeling Techniques: A Critical Review of the EER Vs. OO Empirical Literature"
+title: "Comparing conceptual modeling techniques"
 author:
 - Aguirre-Urreta, Miguel I.
 - Marakas, George M.
 topic: ""
 categories: ['critical-review']
 date: "2008"
-doi: ""
+doi: "https://doi.org/10.1145/1364636.1364640"
 journal:
-  name: "ACM SIGMIS Database"
-cited_by: 0
+  name: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
+cited_by: 23
 ---
 
 Citation:
 
 ```bibtex
 @article{Aguirre-Urreta2008,
+  doi        = {10.1145/1364636.1364640},
   author     = {Aguirre-Urreta, Miguel I. and Marakas, George M.},
-  title      = {Comparing Conceptual Modeling Techniques: A Critical Review of the EER Vs. OO Empirical Literature},
+  journal    = {ACM SIGMIS Database: the DATABASE for Advances in Information Systems},
+  title      = {Comparing conceptual modeling techniques},
   year       = {2008},
-  journal    = {ACM SIGMIS Database},
   volume     = {39},
   number     = {2},
-  pages      = {9--32}
+  pages      = {9--32},
+  abstract   = {The empirical literature comparing entity relationship and object-oriented modeling techniques, while vibrant, has often yielded equivocal findings. This review employs Norman's (1986) Theory of Action to distinguish between model creation and comprehension studies, and applies and extends the theoretical framework proposed by Gemino and Wand (2004) to highlight and detail several issues that may need further exploration if consistent results in this stream are to be realized. Specifically, this paper explores why and how issues of ontological foundation, training, equivalence of conceptual models, and modeling practices may result in differences between alternative modeling techniques. A comprehensive picture of this literature is provided and a number of potential avenues for future research are proposed.}
 }
 ```

@@ -17,9 +17,9 @@ Citation:
 ```bibtex
 @article{Khalifa2004,
   author     = {Khalifa, Mohamed and Liu, Vanessa},
+  journal    = {Journal of Information Technology Theory and Application},
   title      = {The State of Research on Information Systems Satisfaction},
   year       = {2004},
-  journal    = {Journal of Information Technology Theory and Application},
   volume     = {5},
   number     = {4},
   pages      = {37--49}

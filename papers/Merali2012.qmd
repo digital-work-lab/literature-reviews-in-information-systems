@@ -1,5 +1,5 @@
 ---
-title: "Information Systems Strategy: Past, Present, Future?"
+title: "Information systems strategy: Past, present, future?"
 author:
 - Merali, Yasmin
 - Papadopoulos, Thanos
@@ -7,20 +7,21 @@ author:
 topic: ""
 categories: ['narrative-review']
 date: "2012"
-doi: ""
+doi: "https://doi.org/10.1016/J.JSIS.2012.04.002"
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 0
+cited_by: 133
 ---
 
 Citation:
 
 ```bibtex
 @article{Merali2012,
+  doi        = {10.1016/J.JSIS.2012.04.002},
   author     = {Merali, Yasmin and Papadopoulos, Thanos and Nadkarni, Tanvee},
-  title      = {Information Systems Strategy: Past, Present, Future?},
-  year       = {2012},
   journal    = {The Journal of Strategic Information Systems},
+  title      = {Information systems strategy: Past, present, future?},
+  year       = {2012},
   volume     = {21},
   number     = {2},
   pages      = {125--153}

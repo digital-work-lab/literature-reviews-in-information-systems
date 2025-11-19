@@ -1,24 +1,25 @@
 ---
-title: "About the Measuring of Information Security Awareness - A Systematic Literature Review"
+title: "About the Measuring of Information Security Awareness: A Systematic Literature Review"
 author:
 - Fertig, Tobias
-- Schütz, Andreas E.
+- Schütz, Andreas
 topic: ""
 categories: []
 date: "2020"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2020.798"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 10
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{FertigSchutz2020,
-  author     = {Fertig, Tobias and Schütz, Andreas E.},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {About the Measuring of Information Security Awareness - A Systematic Literature Review},
+  doi        = {10.24251/HICSS.2020.798},
+  author     = {Fertig, Tobias and Schütz, Andreas},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {About the Measuring of Information Security Awareness: A Systematic Literature Review},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64540}
 }

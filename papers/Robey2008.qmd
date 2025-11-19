@@ -3,24 +3,25 @@ title: "Theoretical Foundations of Empirical Research on Interorganizational Sys
 author:
 - Robey, Daniel
 - Im, Ghiyoung
-- Wareham, Jonathan D.
+- Wareham, Jonathan
 topic: ""
 categories: ['narrative-review']
 date: "2008"
-doi: ""
+doi: "https://doi.org/10.17705/1JAIS.00171"
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 0
+cited_by: 120
 ---
 
 Citation:
 
 ```bibtex
 @article{Robey2008,
-  author     = {Robey, Daniel and Im, Ghiyoung and Wareham, Jonathan D.},
+  doi        = {10.17705/1JAIS.00171},
+  author     = {Robey, Daniel and Im, Ghiyoung and Wareham, Jonathan},
+  journal    = {Journal of the Association for Information Systems},
   title      = {Theoretical Foundations of Empirical Research on Interorganizational Systems: Assessing Past Contributions and Guiding Future Directions},
   year       = {2008},
-  journal    = {Journal of the Association for Information Systems},
   volume     = {9},
   number     = {9},
   pages      = {497--518}

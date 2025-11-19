@@ -1,5 +1,5 @@
 ---
-title: "Online Trust: A Stakeholder Perspective, Concepts, Implications, and Future Directions"
+title: "Online trust: a stakeholder perspective, concepts, implications, and future directions"
 author:
 - Shankar, Venkatesh
 - Urban, Glen L.
@@ -7,20 +7,21 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2002"
-doi: ""
+doi: "https://doi.org/10.1016/S0963-8687(02)00022-7"
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 0
+cited_by: 407
 ---
 
 Citation:
 
 ```bibtex
 @article{Shankar2002,
+  doi        = {10.1016/S0963-8687(02)00022-7},
   author     = {Shankar, Venkatesh and Urban, Glen L. and Sultan, Fareena},
-  title      = {Online Trust: A Stakeholder Perspective, Concepts, Implications, and Future Directions},
-  year       = {2002},
   journal    = {The Journal of Strategic Information Systems},
+  title      = {Online trust: a stakeholder perspective, concepts, implications, and future directions},
+  year       = {2002},
   volume     = {11},
   number     = {3-4},
   pages      = {325--344}

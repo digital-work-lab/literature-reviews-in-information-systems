@@ -1,27 +1,29 @@
 ---
-title: "Human Factors Research on Data Modeling: A Review of Prior Research, an Extended Framework and Future Research Directions"
+title: "Human Factors Research on Data Modeling"
 author:
 - Topi, Heikki
 - Ramesh, V.
 topic: ""
 categories: ['theoretical-review']
 date: "2002"
-doi: ""
+doi: "https://doi.org/10.4018/JDM.2002040101"
 journal:
   name: "Journal of Database Management"
-cited_by: 0
+cited_by: 53
 ---
 
 Citation:
 
 ```bibtex
 @article{Topi2002,
+  doi        = {10.4018/JDM.2002040101},
   author     = {Topi, Heikki and Ramesh, V.},
-  title      = {Human Factors Research on Data Modeling: A Review of Prior Research, an Extended Framework and Future Research Directions},
-  year       = {2002},
   journal    = {Journal of Database Management},
+  title      = {Human Factors Research on Data Modeling},
+  year       = {2002},
   volume     = {13},
   number     = {2},
-  pages      = {3--19}
+  pages      = {3--19},
+  abstract   = {This study reviews and synthesizes human factors research on conceptual data modeling. In addition to analyzing the variables used in earlier studies and summarizing the results of this stream of research, we propose a new framework to help with future efforts in this area. The study finds that prior research has focused on issues that are relevant when conceptual models are used for communication between systems analysts and developers (Analyst – Developer models) whereas the issues important for models that are used to facilitate communication between analysts and users (User – Analyst models) have received little attention and, hence, require a significantly stronger role in future research. In addition, we emphasize the importance of building a strong theoretical foundation and using it to guide future empirical work in this area.}
 }
 ```

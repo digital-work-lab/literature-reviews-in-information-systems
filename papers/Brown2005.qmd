@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['narrative-review']
 date: "2005"
-doi: ""
+doi: "https://doi.org/10.17705/1CAIS.01538"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 0
+cited_by: 145
 ---
 
 Citation:
 
 ```bibtex
 @article{Brown2005,
+  doi        = {10.17705/1CAIS.01538},
   author     = {Brown, Allen E. and Grant, Gerald G.},
+  journal    = {Communications of the Association for Information Systems},
   title      = {Framing the Frameworks: A Review of IT Governance Research},
   year       = {2005},
-  journal    = {Communications of the Association for Information Systems},
   volume     = {15},
   number     = {38},
   pages      = {696--712}

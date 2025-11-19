@@ -1,26 +1,29 @@
 ---
-title: "The Affective Response Model: A Theoretical Framework of Affective Concepts and their Relationships in the ICT Context"
+title: "The Affective Response Model: A Theoretical Framework of Affective Concepts and Their Relationships in the ICT Context1"
 author:
 - Zhang, Ping
 topic: ""
 categories: ['theoretical-review']
 date: "2013"
-doi: ""
+doi: "https://doi.org/10.25300/MISQ/2013/37.1.11"
 journal:
   name: "MIS Quarterly"
-cited_by: 0
+cited_by: 228
 ---
 
 Citation:
 
 ```bibtex
 @article{Zhang2013f,
+  doi        = {10.25300/MISQ/2013/37.1.11},
   author     = {Zhang, Ping},
-  title      = {The Affective Response Model: A Theoretical Framework of Affective Concepts and their Relationships in the ICT Context},
-  year       = {2013},
   journal    = {MIS Quarterly},
+  title      = {The Affective Response Model: A Theoretical Framework of Affective Concepts and Their Relationships in the ICT Context1},
+  year       = {2013},
   volume     = {37},
   number     = {1},
-  pages      = {247--274}
+  pages      = {247--274},
+  abstract   = {Affect is a critical factor in human decisions and behaviors within many social contexts. In the information and communication technology (ICT) context, a growing number of studies consider the affective dimension of human interaction with ICTs. However, few of these studies take systematic approaches, resulting in inconsistent conclusions and contradictory advice for researchers and practitioners. Many of these issues stem from ambiguous conceptualizations of various affective concepts and their relationships. Before researchers can address questions such as “what causes affective responses in an ICT context” and “what impacts do affective responses have on human interaction with ICTs,” a theoretical foundation for affective concepts and their relationships has to be established. This theory and review paper addresses three research questions: (1) What are pertinent affective concepts in the ICT context? (2) In what ways are these affective concepts similar to, or different from each other? (3) How do these affective concepts relate to or influence one another? Based on theoretical reasoning and empirical evidence, the affective response model (ARM) is developed. ARM is a theoretically bound conceptual framework that provides a systematic and holistic reference map for any ICT study that considers affect. It includes a taxonomy that classifies affective concepts along five dimensions: the residing, the temporal, the particular/general stimulus, the object/behavior stimulus, and the process/outcome dimensions. ARM also provides a nomological network to indicate the causal or co-occurring relationships among the various types of affective concepts in an ICT interaction episode. ARM has the power for explaining and predicting, as well as prescribing, potential future research directions.},
+  fulltext   = {https://misq.umn.edu/misq/article-pdf/37/1/247/5543/11_pingzhang.pdf}
 }
 ```

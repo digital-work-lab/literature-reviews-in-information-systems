@@ -17,9 +17,9 @@ Citation:
 ```bibtex
 @article{Ma2004,
   author     = {Ma, Qingxiong and Liu, Liping},
+  journal    = {Journal of Organizational and End User Computing},
   title      = {The Technology Acceptance Model: A Meta-Analysis of Empirical Findings},
   year       = {2004},
-  journal    = {Journal of Organizational and End User Computing},
   volume     = {16},
   number     = {1},
   pages      = {59--72}

@@ -11,7 +11,7 @@ date: "2016"
 doi: "https://doi.org/10.17705/1CAIS.03802"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 17
+cited_by: 24
 ---
 
 Citation:
@@ -25,7 +25,6 @@ Citation:
   year       = {2016},
   volume     = {38},
   pages      = {20--83},
-  url        = {https://aisel.aisnet.org/cais/vol38/iss1/2},
-  cited_by   = {17}
+  url        = {https://aisel.aisnet.org/cais/vol38/iss1/2}
 }
 ```

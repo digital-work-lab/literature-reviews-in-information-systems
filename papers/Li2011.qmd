@@ -8,7 +8,7 @@ date: "2011"
 doi: "https://doi.org/10.17705/1CAIS.02828"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 49
+cited_by: 79
 ---
 
 Citation:
@@ -21,7 +21,6 @@ Citation:
   title      = {Empirical Studies on Online Information Privacy Concerns - Literature Review and an Integrative Framework},
   year       = {2011},
   volume     = {28},
-  url        = {https://aisel.aisnet.org/cais/vol28/iss1/28},
-  cited_by   = {49}
+  url        = {https://aisel.aisnet.org/cais/vol28/iss1/28}
 }
 ```

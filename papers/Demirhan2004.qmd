@@ -16,9 +16,9 @@ Citation:
 ```bibtex
 @article{Demirhan2004,
   author     = {Demirhan, Didem},
+  journal    = {Journal of Information Technology Theory and Application},
   title      = {Factors Affecting Investment in IT: A Critical Review},
   year       = {2004},
-  journal    = {Journal of Information Technology Theory and Application},
   volume     = {6},
   number     = {4},
   pages      = {1--13}

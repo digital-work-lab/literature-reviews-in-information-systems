@@ -1,26 +1,27 @@
 ---
-title: "Embodiment and Presence in Virtual Worlds: A Review"
+title: "Embodiment and presence in virtual worlds: a review"
 author:
 - Schultze, Ulrike
 topic: ""
 categories: ['narrative-review']
 date: "2010"
-doi: ""
+doi: "https://doi.org/10.1057/JIT.2010.25"
 journal:
   name: "Journal of Information Technology"
-cited_by: 0
+cited_by: 96
 ---
 
 Citation:
 
 ```bibtex
 @article{Schultze2010,
+  doi        = {10.1057/JIT.2010.25},
   author     = {Schultze, Ulrike},
-  title      = {Embodiment and Presence in Virtual Worlds: A Review},
-  year       = {2010},
   journal    = {Journal of Information Technology},
+  title      = {Embodiment and presence in virtual worlds: a review},
+  year       = {2010},
   volume     = {25},
   number     = {4},
-  pages      = {434--494}
+  pages      = {434--449}
 }
 ```

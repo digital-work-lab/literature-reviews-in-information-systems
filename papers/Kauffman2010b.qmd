@@ -1,25 +1,26 @@
 ---
 title: "A Multi-Level Theory Approach to Understanding Price Rigidity in Internet Retailing"
 author:
-- Kauffman, Robert J.
+- Kauffman, Robert
 - Lee, Dongwon
 topic: ""
 categories: ['theoretical-review']
 date: "2010"
-doi: ""
+doi: "https://doi.org/10.17705/1JAIS.00230"
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 0
+cited_by: 9
 ---
 
 Citation:
 
 ```bibtex
 @article{Kauffman2010b,
-  author     = {Kauffman, Robert J. and Lee, Dongwon},
+  doi        = {10.17705/1JAIS.00230},
+  author     = {Kauffman, Robert and Lee, Dongwon},
+  journal    = {Journal of the Association for Information Systems},
   title      = {A Multi-Level Theory Approach to Understanding Price Rigidity in Internet Retailing},
   year       = {2010},
-  journal    = {Journal of the Association for Information Systems},
   volume     = {11},
   number     = {6},
   pages      = {303--338}

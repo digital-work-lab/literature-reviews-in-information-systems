@@ -1,25 +1,26 @@
 ---
-title: "An Integrative Semiotic Framework for Information Systems: The Social, Personal and Material Worlds"
+title: "An integrative semiotic framework for information systems: The social, personal and material worlds"
 author:
 - Mingers, John
-- Willcocks, Leslie P.
+- Willcocks, Leslie
 topic: ""
 categories: ['narrative-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.1016/J.INFOANDORG.2014.01.002"
 journal:
   name: "Information and Organization"
-cited_by: 0
+cited_by: 52
 ---
 
 Citation:
 
 ```bibtex
 @article{Mingers2014,
-  author     = {Mingers, John and Willcocks, Leslie P.},
-  title      = {An Integrative Semiotic Framework for Information Systems: The Social, Personal and Material Worlds},
-  year       = {2014},
+  doi        = {10.1016/J.INFOANDORG.2014.01.002},
+  author     = {Mingers, John and Willcocks, Leslie},
   journal    = {Information and Organization},
+  title      = {An integrative semiotic framework for information systems: The social, personal and material worlds},
+  year       = {2014},
   volume     = {24},
   number     = {1},
   pages      = {48--70}

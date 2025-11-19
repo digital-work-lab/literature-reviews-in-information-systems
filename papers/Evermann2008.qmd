@@ -1,26 +1,28 @@
 ---
-title: "Theories of Meaning in Schema Matching: A Review"
+title: "Theories of Meaning in Schema Matching"
 author:
 - Evermann, Joerg
 topic: ""
 categories: ['narrative-review']
 date: "2008"
-doi: ""
+doi: "https://doi.org/10.4018/JDM.2008070104"
 journal:
   name: "Journal of Database Management"
-cited_by: 0
+cited_by: 12
 ---
 
 Citation:
 
 ```bibtex
 @article{Evermann2008,
+  doi        = {10.4018/JDM.2008070104},
   author     = {Evermann, Joerg},
-  title      = {Theories of Meaning in Schema Matching: A Review},
-  year       = {2008},
   journal    = {Journal of Database Management},
+  title      = {Theories of Meaning in Schema Matching},
+  year       = {2008},
   volume     = {19},
   number     = {3},
-  pages      = {55--82}
+  pages      = {55--82},
+  abstract   = {Schema matching is the identification of database elements with similar meaning as preparation for subsequent database integration. Over the past 20 years, different schema-matching methods have been proposed and have been shown to be successful to various degrees. However, schema matching is an ongoing research area and the problem is not yet considered to be solved. This article reviews existing schema-matching methods from the perspective of theories of meanings drawn from philosophy and psychology. It positions existing methods, raises questions for future research based on these theories, and shows how these theories can form a firm theoretical basis as well as guide future schema-matching research.}
 }
 ```

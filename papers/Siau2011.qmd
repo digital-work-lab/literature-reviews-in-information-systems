@@ -2,27 +2,29 @@
 title: "A Meta-Analysis Comparing Relational and Semantic Models"
 author:
 - Siau, Keng
-- Nah, Fiona Fui-Hoon
+- Nah, Fiona F.H.
 - Cao, Qing
 topic: ""
 categories: ['meta-analysis']
 date: "2011"
-doi: ""
+doi: "https://doi.org/10.4018/JDM.2011100103"
 journal:
   name: "Journal of Database Management"
-cited_by: 0
+cited_by: 3
 ---
 
 Citation:
 
 ```bibtex
 @article{Siau2011,
-  author     = {Siau, Keng and Nah, Fiona Fui-Hoon and Cao, Qing},
+  doi        = {10.4018/JDM.2011100103},
+  author     = {Siau, Keng and Nah, Fiona F.H. and Cao, Qing},
+  journal    = {Journal of Database Management},
   title      = {A Meta-Analysis Comparing Relational and Semantic Models},
   year       = {2011},
-  journal    = {Journal of Database Management},
   volume     = {22},
   number     = {4},
-  pages      = {57--72}
+  pages      = {57--72},
+  abstract   = {Data modeling is the sine quo non of systems development and one of the most widely researched topics in the database literature. In the past three decades, semantic data modeling has emerged as an alternative to traditional relational modeling. The majority of the research in data modeling suggests that the use of semantic data models leads to better performance; however, the findings are not conclusive and are sometimes inconsistent. The discrepancies that exist in the data modeling literature and the relatively low statistical power in the studies make meta-analysis a viable choice in analyzing and integrating the findings of these studies.}
 }
 ```

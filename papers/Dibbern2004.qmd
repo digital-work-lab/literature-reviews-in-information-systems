@@ -1,29 +1,31 @@
 ---
-title: "Information Systems Outsourcing: A Survey and Analysis of the Literature"
+title: "Information systems outsourcing"
 author:
 - Dibbern, Jens
 - Goles, Tim
 - Hirschheim, Rudy
 - Jayatilaka, Bandula
 topic: ""
-categories: ['theoretical-review']
+categories: ['theoretical-review', 'highly-cited']
 date: "2004"
-doi: ""
+doi: "https://doi.org/10.1145/1035233.1035236"
 journal:
-  name: "ACM SIGMIS Database"
-cited_by: 0
+  name: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
+cited_by: 699
 ---
 
 Citation:
 
 ```bibtex
 @article{Dibbern2004,
+  doi        = {10.1145/1035233.1035236},
   author     = {Dibbern, Jens and Goles, Tim and Hirschheim, Rudy and Jayatilaka, Bandula},
-  title      = {Information Systems Outsourcing: A Survey and Analysis of the Literature},
+  journal    = {ACM SIGMIS Database: the DATABASE for Advances in Information Systems},
+  title      = {Information systems outsourcing},
   year       = {2004},
-  journal    = {ACM SIGMIS Database},
   volume     = {35},
   number     = {4},
-  pages      = {6--102}
+  pages      = {6--102},
+  abstract   = {In the last fifteen years, academic research on information systems (IS) outsourcing has evolved rapidly. Indeed the field of outsourcing research has grown so fast that there has been scant opportunity for the research community to take a collective breath, and complete a global assessment of research activities to date. This paper seeks to address this need by exploring and synthesizing the academic literature on IS outsourcing. It offers a roadmap of the IS outsourcing literature, highlighting what has been done so far, how the work fits together under a common umbrella, and what the future directions might be. In order to adequately address the immense diversity of research on IS outsourcing and outsourcing in general, we develop a conceptual framework that helps us to categorize the literature. In particular, we look at the research objectives, methods used and theoretical foundations of the papers. In identifying the major research objectives, we view outsourcing as an organizational decision process and adapt Simon's stage model of decision making. This allows us to identify five major sourcing issues, from which at least one is covered by each academic article. These are the questions of why to outsource, what to outsource, which decision process to take, how to implement the sourcing decision, and what is the outcome of the sourcing decision. In analyzing the literature, we identify and structure the main explanatory factors and theoretical relationships within each of these sourcing stages. Based on our discussion of the research objectives, theoretical foundations and research approaches taken in the literature, we show how the various research streams hang together and we come up with a number of implications for research. Moreover, we identify a number of emerging sourcing issues. We believe that research on these "new" phenomena such as offshore outsourcing, application service providing and business process outsourcing would benefit from 'standing on the shoulders' of what has already been accomplished in the field of IS outsourcing.}
 }
 ```

@@ -11,7 +11,7 @@ date: "2020"
 doi: "https://doi.org/10.1016/J.JSIS.2020.101641"
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 0
+cited_by: 42
 ---
 
 Citation:

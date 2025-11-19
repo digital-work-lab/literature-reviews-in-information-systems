@@ -10,7 +10,7 @@ date: "2018"
 doi: "https://doi.org/10.17705/1CAIS.04341"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 0
+cited_by: 7
 ---
 
 Citation:

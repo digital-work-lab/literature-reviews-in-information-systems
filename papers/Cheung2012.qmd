@@ -1,25 +1,26 @@
 ---
-title: "The Impact of Electronic Word-of-Mouth Communication: A Literature Analysis and Integrative Model"
+title: "The impact of electronic word-of-mouth communication: A literature analysis and integrative model"
 author:
-- Cheung, Christy M. K.
+- Cheung, Christy M.K.
 - Thadani, Dimple R.
 topic: ""
-categories: ['theoretical-review']
+categories: ['theoretical-review', 'highly-cited']
 date: "2012"
-doi: ""
+doi: "https://doi.org/10.1016/J.DSS.2012.06.008"
 journal:
   name: "Decision Support Systems"
-cited_by: 0
+cited_by: 1099
 ---
 
 Citation:
 
 ```bibtex
 @article{Cheung2012,
-  author     = {Cheung, Christy M. K. and Thadani, Dimple R.},
-  title      = {The Impact of Electronic Word-of-Mouth Communication: A Literature Analysis and Integrative Model},
-  year       = {2012},
+  doi        = {10.1016/J.DSS.2012.06.008},
+  author     = {Cheung, Christy M.K. and Thadani, Dimple R.},
   journal    = {Decision Support Systems},
+  title      = {The impact of electronic word-of-mouth communication: A literature analysis and integrative model},
+  year       = {2012},
   volume     = {54},
   number     = {1},
   pages      = {461--470}

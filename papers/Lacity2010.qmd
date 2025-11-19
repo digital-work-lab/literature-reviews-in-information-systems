@@ -1,29 +1,31 @@
 ---
-title: "A Review of the IT Outsourcing Empirical Literature and Future Research Directions"
+title: "A Review of the it Outsourcing Empirical Literature and Future Research Directions"
 author:
-- Lacity, Mary C.
-- Khan, Shaji A.
+- Lacity, Mary C
+- Khan, Shaji
 - Yan, Aihua
-- Willcocks, Leslie P.
+- Willcocks, Leslie P
 topic: ""
 categories: ['qualitative-systematic-review']
 date: "2010"
-doi: ""
+doi: "https://doi.org/10.1057/JIT.2010.21"
 journal:
   name: "Journal of Information Technology"
-cited_by: 0
+cited_by: 281
 ---
 
 Citation:
 
 ```bibtex
 @article{Lacity2010,
-  author     = {Lacity, Mary C. and Khan, Shaji A. and Yan, Aihua and Willcocks, Leslie P.},
-  title      = {A Review of the IT Outsourcing Empirical Literature and Future Research Directions},
-  year       = {2010},
+  doi        = {10.1057/JIT.2010.21},
+  author     = {Lacity, Mary C and Khan, Shaji and Yan, Aihua and Willcocks, Leslie P},
   journal    = {Journal of Information Technology},
+  title      = {A Review of the it Outsourcing Empirical Literature and Future Research Directions},
+  year       = {2010},
   volume     = {25},
   number     = {4},
-  pages      = {395--433}
+  pages      = {395--433},
+  abstract   = {An enormous amount of information has been produced about the IT outsourcing phenomenon over the last 20 years, but one has to look to the academic literature for consistent, objective, and reliable research approaches and analyses. Our review finds that, In practice, the academic literature on IT outsourcing has very much honored both rigor and relevance In the ways In which research has been conducted. Our central purpose In the review was to answer two research questions: What has the empirical academic literature found about information technology outsourcing (ITO) decisions and outcomes? What are the gaps In knowledge to consider In future ITO research? To answer these questions, we examined 164 empirical ITO articles published between 1992 and 2010 In 50 journals. Adapting a method used by Jeyaraj et al. (2006), we encapsulated this vast empirical literature on ITO In a way that was concise, meaningful, and helpful to researchers. We coded 36 dependent variables, 138 independent variables, and 741 relationships between Independent and dependent variables. By extracting the best evidence, we developed two models of outsourcing: one model addressed ITO decisions and one model addressed ITO outcomes. The model of ITO decisions includes Independent variables associated with motives to outsource, transaction attributes, client firm characteristics, and influence sources. The model of ITO outcomes includes Independent variables associated with client and supplier capabilities, relationship characteristics, contractual governance, decision characteristics, and transaction attributes. We also examined the interactions among broad categories of variables and the learning curve effects resulting from feedback loops. Overall, ITO researchers have a broad and deep understanding of ITO. However, the field continues to evolve as clients and suppliers on every inhabited continent participate actively in the global sourcing community. There is still much research yet to be done. We reviewed recent studies that have identified gaps in current knowledge and proposed future paths of research pertaining to strategic motivations, environmental influences, dynamic interactions, configurational and portfolio approaches, global destinations, emerging models, reference theory extension, and grounded theory development.}
 }
 ```

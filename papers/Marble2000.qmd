@@ -1,24 +1,25 @@
 ---
-title: "Operationalising the Implementation Puzzle: An Argument for Eclecticism in Research and in Practice"
+title: "Operationalising the implementation puzzle: an argument for eclecticism in research and in practice"
 author:
-- Marble, Robert P.
+- Marble, R P
 topic: ""
 categories: ['narrative-review']
 date: "2000"
-doi: ""
+doi: "https://doi.org/10.1057/PALGRAVE/EJIS/3000369"
 journal:
   name: "European Journal of Information Systems"
-cited_by: 0
+cited_by: 3
 ---
 
 Citation:
 
 ```bibtex
 @article{Marble2000,
-  author     = {Marble, Robert P.},
-  title      = {Operationalising the Implementation Puzzle: An Argument for Eclecticism in Research and in Practice},
-  year       = {2000},
+  doi        = {10.1057/PALGRAVE/EJIS/3000369},
+  author     = {Marble, R P},
   journal    = {European Journal of Information Systems},
+  title      = {Operationalising the implementation puzzle: an argument for eclecticism in research and in practice},
+  year       = {2000},
   volume     = {9},
   number     = {3},
   pages      = {132--147}

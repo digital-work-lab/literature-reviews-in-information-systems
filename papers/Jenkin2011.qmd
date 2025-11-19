@@ -1,5 +1,5 @@
 ---
-title: "An Agenda for 'Green' Information Technology and Systems Research"
+title: "An agenda for ‘Green’ information technology and systems research"
 author:
 - Jenkin, Tracy A.
 - Webster, Jane
@@ -7,20 +7,21 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2011"
-doi: ""
+doi: "https://doi.org/10.1016/J.INFOANDORG.2010.09.003"
 journal:
   name: "Information and Organization"
-cited_by: 0
+cited_by: 263
 ---
 
 Citation:
 
 ```bibtex
 @article{Jenkin2011,
+  doi        = {10.1016/J.INFOANDORG.2010.09.003},
   author     = {Jenkin, Tracy A. and Webster, Jane and McShane, Lindsay},
-  title      = {An Agenda for 'Green' Information Technology and Systems Research},
-  year       = {2011},
   journal    = {Information and Organization},
+  title      = {An agenda for ‘Green’ information technology and systems research},
+  year       = {2011},
   volume     = {21},
   number     = {1},
   pages      = {17--40}

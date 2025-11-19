@@ -1,26 +1,27 @@
 ---
-title: "Agile Project Management - A Systematic Literature Review of Adoption Drivers and Critical Success Factors"
+title: "Agile Project Management: A Systematic Literature Review of Adoption Drivers and Critical Success Factors"
 author:
 - Noteboom, Cherie
 - Ofori, Martinson
 - Sutrave, Kruttika
-- El-Gayar, Omar F.
+- El-Gayar, Omar
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.813"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 18
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{NoteboomOforiSutraveEtAl2021,
-  author     = {Noteboom, Cherie and Ofori, Martinson and Sutrave, Kruttika and El-Gayar, Omar F.},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Agile Project Management - A Systematic Literature Review of Adoption Drivers and Critical Success Factors},
+  doi        = {10.24251/HICSS.2021.813},
+  author     = {Noteboom, Cherie and Ofori, Martinson and Sutrave, Kruttika and El-Gayar, Omar},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Agile Project Management: A Systematic Literature Review of Adoption Drivers and Critical Success Factors},
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71434}
 }

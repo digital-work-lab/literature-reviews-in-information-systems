@@ -10,7 +10,7 @@ date: "2015"
 doi: "https://doi.org/10.17705/1CAIS.03710"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 4
+cited_by: 6
 ---
 
 Citation:
@@ -23,7 +23,6 @@ Citation:
   title      = {Stylized Facts as an Instrument for Literature Review and Cumulative Information Systems Research},
   year       = {2015},
   volume     = {37},
-  url        = {https://aisel.aisnet.org/cais/vol37/iss1/10},
-  cited_by   = {4}
+  url        = {https://aisel.aisnet.org/cais/vol37/iss1/10}
 }
 ```

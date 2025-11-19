@@ -17,9 +17,9 @@ Citation:
 ```bibtex
 @article{DeLone2003,
   author     = {DeLone, William H. and McLean, Ephraim R.},
+  journal    = {Journal of Management Information Systems},
   title      = {The DeLone and McLean Model of Information Systems Success: A Ten-Year Update},
   year       = {2003},
-  journal    = {Journal of Management Information Systems},
   volume     = {19},
   number     = {4},
   pages      = {9--30}

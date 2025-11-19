@@ -61,7 +61,7 @@ df %>%
   )
 ```
 
-## Types of reviews
+## Review types
 
 ```{r}
 #| label: lr_type_pare_et_al
@@ -79,5 +79,32 @@ plot_ly(
   layout(
     xaxis = list(title = "Literature review type"),
     yaxis = list(title = "Count")
+  )
+```
+
+## Top cited
+
+```{r}
+#| label: top_cited
+#| tbl-cap: "Top papers by Crossref citation count"
+
+df %>%
+  # keep only those with a citation count
+  dplyr::filter(!is.na(cited_by)) %>%
+  # ensure numeric in case it's stored as character
+  dplyr::mutate(cited_by = as.numeric(cited_by)) %>%
+  dplyr::arrange(dplyr::desc(cited_by)) %>%
+  dplyr::slice_head(n = 30) %>%        # change n for more/less papers
+  dplyr::select(
+    cited_by,
+    year,
+    author,
+    title,
+    journal,
+    doi
+  ) %>%
+  DT::datatable(
+    options = list(pageLength = 10),
+    rownames = FALSE
   )
 ```

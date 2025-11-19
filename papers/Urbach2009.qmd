@@ -7,22 +7,24 @@ author:
 topic: ""
 categories: ['descriptive-review']
 date: "2009"
-doi: ""
+doi: "https://doi.org/10.1007/S12599-009-0059-Y"
 journal:
   name: "Business & Information Systems Engineering"
-cited_by: 0
+cited_by: 97
 ---
 
 Citation:
 
 ```bibtex
 @article{Urbach2009,
+  doi        = {10.1007/S12599-009-0059-Y},
   author     = {Urbach, Nils and Smolnik, Stefan and Riempp, Gerold},
+  journal    = {Business & Information Systems Engineering},
   title      = {The State of Research on Information Systems Success},
   year       = {2009},
-  journal    = {Business & Information Systems Engineering},
   volume     = {1},
   number     = {4},
-  pages      = {315--325}
+  pages      = {315--325},
+  fulltext   = {http://link.springer.com/content/pdf/10.1007/s12599-009-0059-y.pdf}
 }
 ```

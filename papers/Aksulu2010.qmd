@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2010"
-doi: ""
+doi: "https://doi.org/10.17705/1JAIS.00245"
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 0
+cited_by: 104
 ---
 
 Citation:
 
 ```bibtex
 @article{Aksulu2010,
+  doi        = {10.17705/1JAIS.00245},
   author     = {Aksulu, Altay and Wade, Michael},
+  journal    = {Journal of the Association for Information Systems},
   title      = {A Comprehensive Review and Synthesis of Open Source Research},
   year       = {2010},
-  journal    = {Journal of the Association for Information Systems},
   volume     = {11},
   number     = {11},
   pages      = {576--656}

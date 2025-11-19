@@ -5,20 +5,21 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2001"
-doi: ""
+doi: "https://doi.org/10.1080/1097198X.2001.10856305"
 journal:
   name: "Journal of Global Information Technology Management"
-cited_by: 0
+cited_by: 9
 ---
 
 Citation:
 
 ```bibtex
 @article{Fagan2001,
+  doi        = {10.1080/1097198X.2001.10856305},
   author     = {Fagan, Mary Helen},
+  journal    = {Journal of Global Information Technology Management},
   title      = {Global Information Technology Transfer: A Framework for Analysis},
   year       = {2001},
-  journal    = {Journal of Global Information Technology Management},
   volume     = {4},
   number     = {3},
   pages      = {5--26}

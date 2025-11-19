@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2004"
-doi: ""
+doi: "https://doi.org/10.17705/1JAIS.00060"
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 0
+cited_by: 65
 ---
 
 Citation:
 
 ```bibtex
 @article{Carte2004,
+  doi        = {10.17705/1JAIS.00060},
   author     = {Carte, Traci and Chidambaram, Laku},
+  journal    = {Journal of the Association for Information Systems},
   title      = {A Capabilities-Based Theory of Technology Deployment in Diverse Teams: Leapfrogging the Pitfalls of Diversity and Leveraging Its Potential with Collaborative Technology},
   year       = {2004},
-  journal    = {Journal of the Association for Information Systems},
   volume     = {5},
   number     = {11},
   pages      = {448--471}

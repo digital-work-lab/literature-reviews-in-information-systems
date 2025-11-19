@@ -1,26 +1,27 @@
 ---
-title: "A Review of Research on E-Marketplaces 1997–2008"
+title: "A review of research on e-marketplaces 1997–2008"
 author:
 - Standing, Susan
 - Standing, Craig
-- Love, Peter E. D.
+- Love, Peter E. D
 topic: ""
 categories: ['descriptive-review']
 date: "2010"
-doi: ""
+doi: "https://doi.org/10.1016/J.DSS.2009.12.008"
 journal:
   name: "Decision Support Systems"
-cited_by: 0
+cited_by: 76
 ---
 
 Citation:
 
 ```bibtex
 @article{Standing2010,
-  author     = {Standing, Susan and Standing, Craig and Love, Peter E. D.},
-  title      = {A Review of Research on E-Marketplaces 1997–2008},
-  year       = {2010},
+  doi        = {10.1016/J.DSS.2009.12.008},
+  author     = {Standing, Susan and Standing, Craig and Love, Peter E. D},
   journal    = {Decision Support Systems},
+  title      = {A review of research on e-marketplaces 1997–2008},
+  year       = {2010},
   volume     = {49},
   number     = {1},
   pages      = {41--51}

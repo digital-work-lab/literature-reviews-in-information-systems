@@ -1,27 +1,28 @@
 ---
-title: "An Assessment of the Use of Transaction Cost Theory in Information Technology Outsourcing"
+title: "An assessment of the use of Transaction Cost Theory in information technology outsourcing"
 author:
-- Karimi Alaghehband, Forough
+- Alaghehband, Forough Karimi
 - Rivard, Suzanne
 - Wu, Shikui
 - Goyette, Sylvain
 topic: ""
 categories: ['qualitative-systematic-review']
 date: "2011"
-doi: ""
+doi: "https://doi.org/10.1016/J.JSIS.2011.04.003"
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 0
+cited_by: 99
 ---
 
 Citation:
 
 ```bibtex
 @article{Alaghehband2011,
-  author     = {Karimi Alaghehband, Forough and Rivard, Suzanne and Wu, Shikui and Goyette, Sylvain},
-  title      = {An Assessment of the Use of Transaction Cost Theory in Information Technology Outsourcing},
-  year       = {2011},
+  doi        = {10.1016/J.JSIS.2011.04.003},
+  author     = {Alaghehband, Forough Karimi and Rivard, Suzanne and Wu, Shikui and Goyette, Sylvain},
   journal    = {The Journal of Strategic Information Systems},
+  title      = {An assessment of the use of Transaction Cost Theory in information technology outsourcing},
+  year       = {2011},
   volume     = {20},
   number     = {2},
   pages      = {125--138}

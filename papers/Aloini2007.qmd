@@ -1,5 +1,5 @@
 ---
-title: "Risk Management in ERP Project Introduction: Review of the Literature"
+title: "Risk management in ERP project introduction: Review of the literature"
 author:
 - Aloini, Davide
 - Dulmin, Riccardo
@@ -7,20 +7,21 @@ author:
 topic: ""
 categories: ['descriptive-review']
 date: "2007"
-doi: ""
+doi: "https://doi.org/10.1016/J.IM.2007.05.004"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 233
 ---
 
 Citation:
 
 ```bibtex
 @article{Aloini2007,
+  doi        = {10.1016/J.IM.2007.05.004},
   author     = {Aloini, Davide and Dulmin, Riccardo and Mininno, Valeria},
-  title      = {Risk Management in ERP Project Introduction: Review of the Literature},
-  year       = {2007},
   journal    = {Information & Management},
+  title      = {Risk management in ERP project introduction: Review of the literature},
+  year       = {2007},
   volume     = {44},
   number     = {6},
   pages      = {547--567}

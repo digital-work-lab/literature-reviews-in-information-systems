@@ -1,25 +1,26 @@
 ---
-title: "Organizational Size and IT Innovation Adoption: A Meta-analysis"
+title: "Organizational size and IT innovation adoption: A meta-analysis"
 author:
 - Lee, Gwanhoo
 - Xia, Weidong
 topic: ""
 categories: ['meta-analysis']
 date: "2006"
-doi: ""
+doi: "https://doi.org/10.1016/J.IM.2006.09.003"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 203
 ---
 
 Citation:
 
 ```bibtex
 @article{Lee2006h,
+  doi        = {10.1016/J.IM.2006.09.003},
   author     = {Lee, Gwanhoo and Xia, Weidong},
-  title      = {Organizational Size and IT Innovation Adoption: A Meta-analysis},
-  year       = {2006},
   journal    = {Information & Management},
+  title      = {Organizational size and IT innovation adoption: A meta-analysis},
+  year       = {2006},
   volume     = {43},
   number     = {8},
   pages      = {975--985}

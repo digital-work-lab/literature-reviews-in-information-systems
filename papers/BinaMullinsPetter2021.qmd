@@ -1,25 +1,26 @@
 ---
-title: "Examining Game-based Approaches in Human Resources Recruitment and Selection - A Literature Review and Research Agenda"
+title: "Examining Game-based Approaches in Human Resources Recruitment and Selection: A Literature Review and Research Agenda"
 author:
 - Bina, Saman
-- Mullins, Jeffrey K.
+- Mullins, Jeffrey
 - Petter, Stacie
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.161"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 6
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{BinaMullinsPetter2021,
-  author     = {Bina, Saman and Mullins, Jeffrey K. and Petter, Stacie},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Examining Game-based Approaches in Human Resources Recruitment and Selection - A Literature Review and Research Agenda},
+  doi        = {10.24251/HICSS.2021.161},
+  author     = {Bina, Saman and Mullins, Jeffrey and Petter, Stacie},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Examining Game-based Approaches in Human Resources Recruitment and Selection: A Literature Review and Research Agenda},
   year       = {2021},
   url        = {http://hdl.handle.net/10125/70773}
 }

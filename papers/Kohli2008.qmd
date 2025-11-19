@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['narrative-review']
 date: "2008"
-doi: ""
+doi: "https://doi.org/10.17705/1JAIS.00147"
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 0
+cited_by: 482
 ---
 
 Citation:
 
 ```bibtex
 @article{Kohli2008,
+  doi        = {10.17705/1JAIS.00147},
   author     = {Kohli, Rajiv and Grover, Varun},
+  journal    = {Journal of the Association for Information Systems},
   title      = {Business Value of IT: An Essay on Expanding Research Directions to Keep up with the Times},
   year       = {2008},
-  journal    = {Journal of the Association for Information Systems},
   volume     = {9},
   number     = {1},
   pages      = {23--39}

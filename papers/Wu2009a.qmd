@@ -1,27 +1,28 @@
 ---
 title: "A Meta-Analysis of the Role of Environment-Based Voluntariness in Information Technology Acceptance"
 author:
-- Wu, Jiming
-- Lederer, Albert
+- Wu
+- Lederer
 topic: ""
 categories: ['meta-analysis']
 date: "2009"
-doi: ""
+doi: "https://doi.org/10.2307/20650298"
 journal:
   name: "MIS Quarterly"
-cited_by: 0
+cited_by: 177
 ---
 
 Citation:
 
 ```bibtex
 @article{Wu2009a,
-  author     = {Wu, Jiming and Lederer, Albert},
+  doi        = {10.2307/20650298},
+  author     = {Wu and Lederer},
+  journal    = {MIS Quarterly},
   title      = {A Meta-Analysis of the Role of Environment-Based Voluntariness in Information Technology Acceptance},
   year       = {2009},
-  journal    = {MIS Quarterly},
   volume     = {33},
   number     = {2},
-  pages      = {419--432}
+  pages      = {419}
 }
 ```

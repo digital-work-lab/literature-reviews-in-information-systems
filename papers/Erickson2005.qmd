@@ -1,5 +1,5 @@
 ---
-title: "Agile Modeling, Agile Software Development, and Extreme Programming: The State of Research"
+title: "Agile Modeling, Agile Software Development, and Extreme Programming"
 author:
 - Erickson, John
 - Lyytinen, Kalle
@@ -7,22 +7,24 @@ author:
 topic: ""
 categories: ['narrative-review']
 date: "2005"
-doi: ""
+doi: "https://doi.org/10.4018/JDM.2005100105"
 journal:
   name: "Journal of Database Management"
-cited_by: 0
+cited_by: 181
 ---
 
 Citation:
 
 ```bibtex
 @article{Erickson2005,
+  doi        = {10.4018/JDM.2005100105},
   author     = {Erickson, John and Lyytinen, Kalle and Siau, Keng},
-  title      = {Agile Modeling, Agile Software Development, and Extreme Programming: The State of Research},
-  year       = {2005},
   journal    = {Journal of Database Management},
+  title      = {Agile Modeling, Agile Software Development, and Extreme Programming},
+  year       = {2005},
   volume     = {16},
   number     = {4},
-  pages      = {88--100}
+  pages      = {88--100},
+  abstract   = {While there are many claims for the successful use of extreme programming (XP) and agile modeling (AM), and the proponents can often be vocal in the extreme regarding their supposed benefits, research evidence supporting proponents‘ claims is somewhat lacking. Currently, the only research appearing to investigate the phenomena consists of two prominent streams. A small number of case studies and experience reports that generally promote the success of XP in various development environments, and a well-established stream of research into pair programming has generated results that in part support the idea of XP. Research into AM appears to be even more sparse than that for XP. Case studies, comparative analyses, and experience reports comprise the majority of the research in the area, while very few empirical research efforts have been conducted. This article reviews the state of research in XP and AM, and recommends areas that could benefit from further study. Since nearly all empirical XP research relates to pair programming, a closer look into the unstudied XP core practices would be beneficial, although interaction between related core practice areas could confound such efforts. It might also be possible to group related core XP concepts and study the groups individually. Finally, there are those who claim that XP and AM, or even agility in general, are really nothing more than a repackaging of old concepts. This claim needs to be investigated.}
 }
 ```

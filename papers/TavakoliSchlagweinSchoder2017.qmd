@@ -10,7 +10,7 @@ date: "2017"
 doi: "https://doi.org/10.1016/J.JSIS.2017.01.003"
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 0
+cited_by: 87
 ---
 
 Citation:

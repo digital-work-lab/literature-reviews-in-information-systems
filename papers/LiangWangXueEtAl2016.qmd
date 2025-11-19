@@ -11,7 +11,7 @@ date: "2015"
 doi: "https://doi.org/10.1016/J.IM.2015.10.001"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 95
 ---
 
 Citation:

@@ -1,25 +1,26 @@
 ---
-title: "Toward a Better Understanding of Behavioral Intention and System Usage Constructs"
+title: "Toward a better understanding of behavioral intention and system usage constructs"
 author:
 - Wu, Jiming
-- Du, H.
+- Du, Hongwei
 topic: ""
 categories: ['meta-analysis']
 date: "2012"
-doi: ""
+doi: "https://doi.org/10.1057/EJIS.2012.15"
 journal:
   name: "European Journal of Information Systems"
-cited_by: 0
+cited_by: 136
 ---
 
 Citation:
 
 ```bibtex
 @article{Wu2012b,
-  author     = {Wu, Jiming and Du, H.},
-  title      = {Toward a Better Understanding of Behavioral Intention and System Usage Constructs},
-  year       = {2012},
+  doi        = {10.1057/EJIS.2012.15},
+  author     = {Wu, Jiming and Du, Hongwei},
   journal    = {European Journal of Information Systems},
+  title      = {Toward a better understanding of behavioral intention and system usage constructs},
+  year       = {2012},
   volume     = {21},
   number     = {6},
   pages      = {680--698}

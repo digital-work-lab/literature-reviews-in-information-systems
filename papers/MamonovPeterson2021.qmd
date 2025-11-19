@@ -9,7 +9,7 @@ date: "2021"
 doi: "https://doi.org/10.1016/J.JSIS.2021.101696"
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 0
+cited_by: 28
 ---
 
 Citation:

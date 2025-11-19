@@ -6,22 +6,23 @@ author:
 topic: ""
 categories: ['scoping-review']
 date: "2002"
-doi: ""
+doi: "https://doi.org/10.2307/4132331"
 journal:
   name: "MIS Quarterly"
-cited_by: 0
+cited_by: 340
 ---
 
 Citation:
 
 ```bibtex
 @article{Schultze2002,
+  doi        = {10.2307/4132331},
   author     = {Schultze, Ulrike and Leidner, Dorothy E.},
+  journal    = {MIS Quarterly},
   title      = {Studying Knowledge Management in Information Systems Research: Discourses and Theoretical Assumptions},
   year       = {2002},
-  journal    = {MIS Quarterly},
   volume     = {26},
   number     = {3},
-  pages      = {213--242}
+  pages      = {213}
 }
 ```

@@ -1,27 +1,28 @@
 ---
 title: "Giddens's Structuration Theory and Information Systems Research"
 author:
-- Jones, Matthew R.
-- Karsten, Helena
+- Jones
+- Karsten
 topic: ""
 categories: ['critical-review']
 date: "2008"
-doi: ""
+doi: "https://doi.org/10.2307/25148831"
 journal:
   name: "MIS Quarterly"
-cited_by: 0
+cited_by: 389
 ---
 
 Citation:
 
 ```bibtex
 @article{Jones2008,
-  author     = {Jones, Matthew R. and Karsten, Helena},
+  doi        = {10.2307/25148831},
+  author     = {Jones and Karsten},
+  journal    = {MIS Quarterly},
   title      = {Giddens's Structuration Theory and Information Systems Research},
   year       = {2008},
-  journal    = {MIS Quarterly},
   volume     = {32},
   number     = {1},
-  pages      = {127--157}
+  pages      = {127}
 }
 ```

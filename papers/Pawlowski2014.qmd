@@ -13,22 +13,24 @@ author:
 topic: ""
 categories: ['scoping-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.1007/S12599-014-0318-4"
 journal:
   name: "Business & Information Systems Engineering"
-cited_by: 0
+cited_by: 32
 ---
 
 Citation:
 
 ```bibtex
 @article{Pawlowski2014,
+  doi        = {10.1007/S12599-014-0318-4},
   author     = {Pawlowski, Jan M. and Bick, Markus and Peinl, René and Thalmann, Stefan and Maier, Ronald and Hetmank, Lars and Kruse, Paul and Martensen, Malte and Pirkkalainen, Henri},
+  journal    = {Business & Information Systems Engineering},
   title      = {Social Knowledge Environments},
   year       = {2014},
-  journal    = {Business & Information Systems Engineering},
   volume     = {6},
   number     = {2},
-  pages      = {81--88}
+  pages      = {81--88},
+  fulltext   = {http://link.springer.com/content/pdf/10.1007/s12599-014-0318-4.pdf}
 }
 ```

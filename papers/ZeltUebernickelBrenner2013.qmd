@@ -10,7 +10,7 @@ date: "2013"
 doi: "https://doi.org/10.1109/HICSS.2013.389"
 journal:
   name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+cited_by: 4
 ---
 
 Citation:

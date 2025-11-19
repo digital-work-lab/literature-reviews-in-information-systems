@@ -1,26 +1,27 @@
 ---
-title: "Literature Derived Reference Models for the Adoption of Online Shopping"
+title: "Literature derived reference models for the adoption of online shopping"
 author:
-- Chang, Man Kit
-- Cheung, Waiman
-- Lai, Vincent S.
+- CHANG, M
+- CHEUNG, W
+- LAI, V
 topic: ""
 categories: ['qualitative-systematic-review']
 date: "2005"
-doi: ""
+doi: "https://doi.org/10.1016/S0378-7206(04)00051-5"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 262
 ---
 
 Citation:
 
 ```bibtex
 @article{Chang2005,
-  author     = {Chang, Man Kit and Cheung, Waiman and Lai, Vincent S.},
-  title      = {Literature Derived Reference Models for the Adoption of Online Shopping},
-  year       = {2005},
+  doi        = {10.1016/S0378-7206(04)00051-5},
+  author     = {CHANG, M and CHEUNG, W and LAI, V},
   journal    = {Information & Management},
+  title      = {Literature derived reference models for the adoption of online shopping},
+  year       = {2005},
   volume     = {42},
   number     = {4},
   pages      = {543--559}

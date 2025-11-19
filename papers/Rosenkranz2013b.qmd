@@ -1,29 +1,31 @@
 ---
 title: "Health Information on the Internet"
 author:
-- Rosenkranz, Nadine
+- Rozenkranz, Nadine
 - Eckhardt, Andreas
 - Kühne, Mirko
 - Rosenkranz, Christoph
 topic: ""
 categories: ['descriptive-review']
 date: "2013"
-doi: ""
+doi: "https://doi.org/10.1007/S12599-013-0274-4"
 journal:
   name: "Business & Information Systems Engineering"
-cited_by: 0
+cited_by: 16
 ---
 
 Citation:
 
 ```bibtex
 @article{Rosenkranz2013b,
-  author     = {Rosenkranz, Nadine and Eckhardt, Andreas and Kühne, Mirko and Rosenkranz, Christoph},
+  doi        = {10.1007/S12599-013-0274-4},
+  author     = {Rozenkranz, Nadine and Eckhardt, Andreas and Kühne, Mirko and Rosenkranz, Christoph},
+  journal    = {Business & Information Systems Engineering},
   title      = {Health Information on the Internet},
   year       = {2013},
-  journal    = {Business & Information Systems Engineering},
   volume     = {5},
   number     = {4},
-  pages      = {259--274}
+  pages      = {259--274},
+  fulltext   = {http://link.springer.com/content/pdf/10.1007/s12599-013-0274-4.pdf}
 }
 ```

@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['meta-analysis']
 date: "2013"
-doi: ""
+doi: "https://doi.org/10.17705/1JAIS.00325"
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 0
+cited_by: 135
 ---
 
 Citation:
 
 ```bibtex
 @article{Wu2013a,
+  doi        = {10.17705/1JAIS.00325},
   author     = {Wu, Jiming and Lu, Xinjian},
+  journal    = {Journal of the Association for Information Systems},
   title      = {Effects of Extrinsic and Intrinsic Motivators on Using Utilitarian, Hedonic, and Dual-Purposed Information Systems: A Meta-Analysis},
   year       = {2013},
-  journal    = {Journal of the Association for Information Systems},
   volume     = {14},
   number     = {3},
   pages      = {153--191}

@@ -5,22 +5,24 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2000"
-doi: ""
+doi: "https://doi.org/10.4018/JOEUC.2000010103"
 journal:
   name: "Journal of Organizational and End User Computing"
-cited_by: 0
+cited_by: 4
 ---
 
 Citation:
 
 ```bibtex
 @article{Harris2000,
+  doi        = {10.4018/JOEUC.2000010103},
   author     = {Harris, Roger W.},
+  journal    = {Journal of Organizational and End User Computing},
   title      = {Schools of Thought in Research into End-User Computing Success},
   year       = {2000},
-  journal    = {Journal of Organizational and End User Computing},
   volume     = {12},
   number     = {1},
-  pages      = {24--34}
+  pages      = {24--34},
+  abstract   = {This article analyses the last decade of research into the causal factors of end-user computing (EUC) success. The last ten years of EUC research are characterised within an analysis of 16 studies, which demonstrates the variety of influences that researchers have postulated to contribute towards EUC success. Three distinct schools of thought are described. One school of thought of research is based on the contribution towards EUC success made by the behaviour of individuals, one is based on the characteristics of an end-user application, and another is based on the characteristics of the organization in which EUC occurs. The analysis provides researchers and practitioners with a road-map for defining and creating the conditions necessary for success with EUC. It is expected to assist future research in identifying gaps in current knowledge as well as facilitating a coherent progression of contribution to the field. Practitioners can use it to identify those factors that contribute most relevance to their achievement of success with EUC within their own contexts. A framework and agenda are suggested for future research.}
 }
 ```

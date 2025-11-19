@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2006"
-doi: ""
+doi: "https://doi.org/10.1080/1097198X.2006.10856413"
 journal:
   name: "Journal of Global Information Technology Management"
-cited_by: 0
+cited_by: 53
 ---
 
 Citation:
 
 ```bibtex
 @article{Gurung2006,
+  doi        = {10.1080/1097198X.2006.10856413},
   author     = {Gurung, Anil and Prater, Edmund},
+  journal    = {Journal of Global Information Technology Management},
   title      = {A Research Framework for the Impact of Cultural Differences on IT Outsourcing},
   year       = {2006},
-  journal    = {Journal of Global Information Technology Management},
   volume     = {9},
   number     = {1},
   pages      = {24--43}

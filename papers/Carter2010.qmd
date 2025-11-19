@@ -5,20 +5,21 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2010"
-doi: ""
+doi: "https://doi.org/10.1080/1097198X.2010.10856524"
 journal:
   name: "Journal of Global Information Technology Management"
-cited_by: 0
+cited_by: 5
 ---
 
 Citation:
 
 ```bibtex
 @article{Carter2010,
+  doi        = {10.1080/1097198X.2010.10856524},
   author     = {Carter, Pamela E.},
+  journal    = {Journal of Global Information Technology Management},
   title      = {IT Service Value Creation in a Global Environment},
   year       = {2010},
-  journal    = {Journal of Global Information Technology Management},
   volume     = {13},
   number     = {4},
   pages      = {4--27}

@@ -1,28 +1,29 @@
 ---
-title: "The Dynamic Structure of Management Support Systems: Theory Development, Research Focus, and Directions"
+title: "The Dynamic Structure of Management Support Systems: Theory Development, Research Focus, and Direction"
 author:
-- Clark, Thomas D. Jr.
-- Jones, Mary C.
-- Armstrong, Curtis P.
+- Clark
+- Jones
+- Armstrong
 topic: ""
 categories: ['theoretical-review']
 date: "2007"
-doi: ""
+doi: "https://doi.org/10.2307/25148808"
 journal:
   name: "MIS Quarterly"
-cited_by: 0
+cited_by: 173
 ---
 
 Citation:
 
 ```bibtex
 @article{Clark2007,
-  author     = {Clark, Thomas D. Jr. and Jones, Mary C. and Armstrong, Curtis P.},
-  title      = {The Dynamic Structure of Management Support Systems: Theory Development, Research Focus, and Directions},
-  year       = {2007},
+  doi        = {10.2307/25148808},
+  author     = {Clark and Jones and Armstrong},
   journal    = {MIS Quarterly},
+  title      = {The Dynamic Structure of Management Support Systems: Theory Development, Research Focus, and Direction},
+  year       = {2007},
   volume     = {31},
   number     = {3},
-  pages      = {579--615}
+  pages      = {579}
 }
 ```

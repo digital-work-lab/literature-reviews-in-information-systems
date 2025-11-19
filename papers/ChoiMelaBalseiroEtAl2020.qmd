@@ -11,7 +11,7 @@ date: "2020"
 doi: "https://doi.org/10.1287/ISRE.2019.0902"
 journal:
   name: "Information Systems Research"
-cited_by: 0
+cited_by: 126
 ---
 
 Citation:

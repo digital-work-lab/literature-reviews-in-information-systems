@@ -5,20 +5,21 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.17705/1CAIS.03455"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 0
+cited_by: 118
 ---
 
 Citation:
 
 ```bibtex
 @article{Alter2014,
+  doi        = {10.17705/1CAIS.03455},
   author     = {Alter, Steven},
+  journal    = {Communications of the Association for Information Systems},
   title      = {Theory of Workarounds},
   year       = {2014},
-  journal    = {Communications of the Association for Information Systems},
   volume     = {34},
   number     = {1},
   pages      = {1041--1066}

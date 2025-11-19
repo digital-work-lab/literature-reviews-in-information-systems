@@ -1,5 +1,5 @@
 ---
-title: "End-User Training Methods: What We Know, Need to Know"
+title: "End-user training methods"
 author:
 - Gupta, Saurabh
 - Bostrom, Robert P.
@@ -7,22 +7,24 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2010"
-doi: ""
+doi: "https://doi.org/10.1145/1899639.1899641"
 journal:
-  name: "ACM SIGMIS Database"
-cited_by: 0
+  name: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
+cited_by: 48
 ---
 
 Citation:
 
 ```bibtex
 @article{Gupta2010,
+  doi        = {10.1145/1899639.1899641},
   author     = {Gupta, Saurabh and Bostrom, Robert P. and Huber, Mark},
-  title      = {End-User Training Methods: What We Know, Need to Know},
+  journal    = {ACM SIGMIS Database: the DATABASE for Advances in Information Systems},
+  title      = {End-user training methods},
   year       = {2010},
-  journal    = {ACM SIGMIS Database},
   volume     = {41},
   number     = {4},
-  pages      = {9--39}
+  pages      = {9--39},
+  abstract   = {End-User Training (EUT) has enjoyed a rich tradition of research in Information Systems. However, with the growing pace of change in technology and the dynamic nature of business, organizations are spending an increasing amount of money on end-user training. Training methods are also changing with little research to support new approaches. Thus, extensive research is required in the future. To be credible, end-user training research should preserve and build upon the significant literature that exists, both in IS and Education. This paper provides a review of EUT literature focusing on training methods. It summarizes research findings, while pointing out key future research issues.}
 }
 ```

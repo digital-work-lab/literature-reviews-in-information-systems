@@ -1,25 +1,26 @@
 ---
-title: "Understanding how Digital Intelligence Contributes to Digital Creativity and Digital Transformation - A Systematic Literature Review"
+title: "Understanding how Digital Intelligence Contributes to Digital Creativity and Digital Transformation: A Systematic Literature Review"
 author:
 - Boughzala, Imed
 - Garmaki, Mahda
-- Tantan, Olfa Chourabi
+- Chourabi Tantan, Olfa
 topic: ""
 categories: []
 date: "2020"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2020.040"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 15
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{BoughzalaGarmakiTantan2020,
-  author     = {Boughzala, Imed and Garmaki, Mahda and Tantan, Olfa Chourabi},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Understanding how Digital Intelligence Contributes to Digital Creativity and Digital Transformation - A Systematic Literature Review},
+  doi        = {10.24251/HICSS.2020.040},
+  author     = {Boughzala, Imed and Garmaki, Mahda and Chourabi Tantan, Olfa},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Understanding how Digital Intelligence Contributes to Digital Creativity and Digital Transformation: A Systematic Literature Review},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/63779}
 }

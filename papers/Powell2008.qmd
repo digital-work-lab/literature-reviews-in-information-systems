@@ -1,5 +1,5 @@
 ---
-title: "A Critical Review of the Literature on Spreadsheet Errors"
+title: "A critical review of the literature on spreadsheet errors"
 author:
 - Powell, Stephen G.
 - Baker, Kenneth R.
@@ -7,20 +7,21 @@ author:
 topic: ""
 categories: ['critical-review']
 date: "2008"
-doi: ""
+doi: "https://doi.org/10.1016/J.DSS.2008.06.001"
 journal:
   name: "Decision Support Systems"
-cited_by: 0
+cited_by: 91
 ---
 
 Citation:
 
 ```bibtex
 @article{Powell2008,
+  doi        = {10.1016/J.DSS.2008.06.001},
   author     = {Powell, Stephen G. and Baker, Kenneth R. and Lawson, Barry},
-  title      = {A Critical Review of the Literature on Spreadsheet Errors},
-  year       = {2008},
   journal    = {Decision Support Systems},
+  title      = {A critical review of the literature on spreadsheet errors},
+  year       = {2008},
   volume     = {46},
   number     = {1},
   pages      = {128--138}

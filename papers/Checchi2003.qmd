@@ -2,25 +2,26 @@
 title: "Public IT Policies in Less Developed Countries: A Critical Assessment of the Literature and a Reference Framework"
 author:
 - Checchi, Ricardo M.
-- Hsieh, J. J. Po-An
+- Po-An Hsieh, J. J.
 - Straub, Detmar W.
 topic: ""
 categories: ['critical-review']
 date: "2003"
-doi: ""
+doi: "https://doi.org/10.1080/1097198X.2003.10856360"
 journal:
   name: "Journal of Global Information Technology Management"
-cited_by: 0
+cited_by: 11
 ---
 
 Citation:
 
 ```bibtex
 @article{Checchi2003,
-  author     = {Checchi, Ricardo M. and Hsieh, J. J. Po-An and Straub, Detmar W.},
+  doi        = {10.1080/1097198X.2003.10856360},
+  author     = {Checchi, Ricardo M. and Po-An Hsieh, J. J. and Straub, Detmar W.},
+  journal    = {Journal of Global Information Technology Management},
   title      = {Public IT Policies in Less Developed Countries: A Critical Assessment of the Literature and a Reference Framework},
   year       = {2003},
-  journal    = {Journal of Global Information Technology Management},
   volume     = {6},
   number     = {4},
   pages      = {45--64}

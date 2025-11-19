@@ -1,5 +1,5 @@
 ---
-title: "A Reference Model for Reputation Systems"
+title: "A reference model for reputation systems"
 author:
 - Vavilis, Sokratis
 - Petković, Milan
@@ -7,20 +7,21 @@ author:
 topic: ""
 categories: ['narrative-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.1016/J.DSS.2014.02.002"
 journal:
   name: "Decision Support Systems"
-cited_by: 0
+cited_by: 61
 ---
 
 Citation:
 
 ```bibtex
 @article{Vavilis2014,
+  doi        = {10.1016/J.DSS.2014.02.002},
   author     = {Vavilis, Sokratis and Petković, Milan and Zannone, Nicola},
-  title      = {A Reference Model for Reputation Systems},
-  year       = {2014},
   journal    = {Decision Support Systems},
+  title      = {A reference model for reputation systems},
+  year       = {2014},
   volume     = {61},
   number     = {no issue},
   pages      = {147--154}

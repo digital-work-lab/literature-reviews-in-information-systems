@@ -1,5 +1,5 @@
 ---
-title: "Citizen Science in Information Systems Research - Evidence From a Systematic Literature Review"
+title: "Citizen Science in Information Systems Research: Evidence From a Systematic Literature Review"
 author:
 - Mäkipää, Juho-Pekka
 - Dang, Duong
@@ -8,19 +8,20 @@ author:
 topic: ""
 categories: []
 date: "2020"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2020.569"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 3
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{MakipaaDangMaenpaaEtAl2020,
+  doi        = {10.24251/HICSS.2020.569},
   author     = {Mäkipää, Juho-Pekka and Dang, Duong and Mäenpää, Teemu and Pasanen, Tomi},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Citizen Science in Information Systems Research - Evidence From a Systematic Literature Review},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Citizen Science in Information Systems Research: Evidence From a Systematic Literature Review},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64311}
 }

@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['narrative-review']
 date: "2000"
-doi: ""
+doi: "https://doi.org/10.1207/S15327744JOCE1003_03"
 journal:
   name: "Journal of Organizational Computing and Electronic Commerce"
-cited_by: 0
+cited_by: 11
 ---
 
 Citation:
 
 ```bibtex
 @article{Cooper2000,
+  doi        = {10.1207/S15327744JOCE1003_03},
   author     = {Cooper, William W. and Muench, Michael L.},
+  journal    = {Journal of Organizational Computing and Electronic Commerce},
   title      = {Virtual Organizations: Practice and the Literature},
   year       = {2000},
-  journal    = {Journal of Organizational Computing and Electronic Commerce},
   volume     = {10},
   number     = {3},
   pages      = {189--208}

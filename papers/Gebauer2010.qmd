@@ -2,27 +2,29 @@
 title: "Task-Technology Fit for Mobile Information Systems"
 author:
 - Gebauer, Judith
-- Shaw, Michael J.
-- Gribbins, Michele L.
+- Shaw, Michael J
+- Gribbins, Michele L
 topic: ""
 categories: ['theoretical-review']
 date: "2010"
-doi: ""
+doi: "https://doi.org/10.1057/JIT.2010.10"
 journal:
   name: "Journal of Information Technology"
-cited_by: 0
+cited_by: 118
 ---
 
 Citation:
 
 ```bibtex
 @article{Gebauer2010,
-  author     = {Gebauer, Judith and Shaw, Michael J. and Gribbins, Michele L.},
+  doi        = {10.1057/JIT.2010.10},
+  author     = {Gebauer, Judith and Shaw, Michael J and Gribbins, Michele L},
+  journal    = {Journal of Information Technology},
   title      = {Task-Technology Fit for Mobile Information Systems},
   year       = {2010},
-  journal    = {Journal of Information Technology},
   volume     = {25},
   number     = {3},
-  pages      = {259--272}
+  pages      = {259--272},
+  abstract   = {Mobile information technology (IT) holds great promise to support managerial processes; however, clear guidelines of how to design effective mobile Information systems (IS) for use by managers are still lacking. Building on earlier research studies of task-technology fit (TTF) and other areas of IS, this article presents a three-step conceptual model to establish fit between managerial tasks, mobile IT, and the mobile use context, assuming that a good fit positively impacts task performance. We find that use situations characterized by high distraction and poor quality of network connection are particularly challenging for the design of mobile IS, and that the user Interface requires particular attention. Our model contributes to IS research by joining disparate streams of research in an effort to help advance our understanding about the development and utilization of mobile IS. From a practical perspective, we contribute to the success of mobile IS and to the effectiveness of mobile work as It becomes increasingly prevalent in our modern world.}
 }
 ```

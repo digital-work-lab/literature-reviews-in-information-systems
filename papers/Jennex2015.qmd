@@ -8,7 +8,7 @@ date: "2015"
 doi: "https://doi.org/10.17705/1CAIS.03608"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 6
+cited_by: 8
 ---
 
 Citation:
@@ -21,7 +21,6 @@ Citation:
   title      = {Literature Reviews and the Review Process - An Editor-in-Chief's Perspective},
   year       = {2015},
   volume     = {36},
-  url        = {https://aisel.aisnet.org/cais/vol36/iss1/8},
-  cited_by   = {6}
+  url        = {https://aisel.aisnet.org/cais/vol36/iss1/8}
 }
 ```

@@ -1,26 +1,29 @@
 ---
-title: "Many Rivers to Cross: From ICT to Knowledge Management Systems"
+title: "Many Rivers to Cross: From Ict to Knowledge Management Systems"
 author:
 - Hendriks, Paul H. J.
 topic: ""
 categories: ['narrative-review']
 date: "2001"
-doi: ""
+doi: "https://doi.org/10.1080/02683960110054799"
 journal:
   name: "Journal of Information Technology"
-cited_by: 0
+cited_by: 47
 ---
 
 Citation:
 
 ```bibtex
 @article{Hendriks2001,
+  doi        = {10.1080/02683960110054799},
   author     = {Hendriks, Paul H. J.},
-  title      = {Many Rivers to Cross: From ICT to Knowledge Management Systems},
-  year       = {2001},
   journal    = {Journal of Information Technology},
+  title      = {Many Rivers to Cross: From Ict to Knowledge Management Systems},
+  year       = {2001},
   volume     = {16},
   number     = {2},
-  pages      = {57--72}
+  pages      = {57--72},
+  abstract   = {Several applications of information and communication technology (ICT) have gained considerable popularity as instruments for knowledge management. Some authors even seem to equate knowledge management with the introduction of specific ICT applications (intranets, groupware, etc.). However, the relationship between ICT and knowledge is no less problematic. Organizational knowledge and ICT refer to distinct sets of conceptions and establishing their relationship is far from trivial. The question then is how to assess the relationship between ICT and knowledge management. Several variables to be considered when answering this question have been identified in the literature: the enabling role of ICT for knowledge processes, the state of the ICT infrastructure, the level of knowledge required for using ICT, other user considerations, etc. However, a more encompassing perspective connecting these individual variables seems to be lacking. The aim of the present paper is to correct this. It argues that five dimensions determine the potential value of ICT applications for knowledge management. These dimensions are summarized in the following question. How and when will ICT, in interplay with other knowledge management measures (dimension 5), help knowledge (dimension 2) as a dynamic (dimension 4), institutional and action-related resource (dimension 3) realize its strategic potential (dimension 1)? The main argument in this paper is that, unless all five dimensions are addressed together, no satisfactory assessment of the status of an ICT application as a potential tool for knowledge management is feasible. Each of these dimensions is of a complex, multidimensional nature. The identification of the five dimensions is therefore only a first step. It needs a follow-up in the form of an elaboration of each dimension. This paper provides the groundwork for such an elaboration.},
+  fulltext   = {https://journals.sagepub.com/doi/pdf/10.1080/02683960110054799}
 }
 ```

@@ -1,29 +1,31 @@
 ---
 title: "Business Process Outsourcing Studies: A Critical Review and Research Directions"
 author:
-- Lacity, Mary C.
+- Lacity, Mary C
 - Solomon, Stan
 - Yan, Aihua
-- Willcocks, Leslie P.
+- Willcocks, Leslie P
 topic: ""
 categories: ['qualitative-systematic-review']
 date: "2011"
-doi: ""
+doi: "https://doi.org/10.1057/JIT.2011.25"
 journal:
   name: "Journal of Information Technology"
-cited_by: 0
+cited_by: 115
 ---
 
 Citation:
 
 ```bibtex
 @article{Lacity2011,
-  author     = {Lacity, Mary C. and Solomon, Stan and Yan, Aihua and Willcocks, Leslie P.},
+  doi        = {10.1057/JIT.2011.25},
+  author     = {Lacity, Mary C and Solomon, Stan and Yan, Aihua and Willcocks, Leslie P},
+  journal    = {Journal of Information Technology},
   title      = {Business Process Outsourcing Studies: A Critical Review and Research Directions},
   year       = {2011},
-  journal    = {Journal of Information Technology},
   volume     = {26},
   number     = {4},
-  pages      = {221--258}
+  pages      = {221--258},
+  abstract   = {Organizations are increasingly sourcing their business processes through external service providers, a practice known as Business Process Outsourcing (BPO). Worldwide, the current BPO market could be as much as $279 billion and is predicted to continue growing at 25% annually. Academic researchers have been studying this market for about 15 years and have produced findings relevant to practice. The entire body of BPO research has never been reviewed, and this paper fills that gap. We filtered the total studies and reviewed 87 empirically robust BPO articles published between 1996 and 2011 in 67 journals to answer three research questions: What has the empirical academic literature found about BPO decisions and outcomes? How do BPO findings compare with Information Technology Outsourcing (ITO) empirical research? What are the gaps in knowledge to consider in future BPO research? Employing a proven method that Lacity et al. (2010) used to review the empirical ITO literature, we encapsulated this empirical literature on BPO in a way that is concise, meaningful, and helpful to researchers. We coded 43 dependent variables, 152 independent variables, and 615 relationships between independent and dependent variables. By extracting the best evidence, we developed two models of BPO: one model addresses BPO decisions and one model addresses BPO outcomes. The model of BPO decisions includes independent variables associated with motives to outsource, transaction attributes, and client firm characteristics. The model of BPO outcomes includes independent variables associated with contractual and relational governance, country characteristics, and client and supplier capabilities. Overall, BPO researchers have a broad and deep understanding of BPO. However, the field continues to evolve as clients and suppliers on every inhabited continent participate actively in the global sourcing community. There is still much research yet to be done. We propose nine future paths of research pertaining to innovation effects, retained capabilities, environmental influences, global destinations, supplier capabilities, pricing models, business analytics, emerging models, and grounded theory development.}
 }
 ```

@@ -7,7 +7,7 @@ author:
 topic: ""
 categories: ['descriptive-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.17705/1CAIS.03484"
 journal:
   name: "Communications of the Association for Information Systems"
 cited_by: 0
@@ -17,10 +17,11 @@ Citation:
 
 ```bibtex
 @article{Amrollahi2014,
+  doi        = {10.17705/1CAIS.03484},
   author     = {Amrollahi, Alireza and Ghapanchi, Amir Hossein and Talaei-Khoei, Amir},
+  journal    = {Communications of the Association for Information Systems},
   title      = {Three Decades of Research on Strategic Information System Plan Development},
   year       = {2014},
-  journal    = {Communications of the Association for Information Systems},
   volume     = {34},
   number     = {1},
   pages      = {1439--1467}

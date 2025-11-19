@@ -1,24 +1,25 @@
 ---
-title: "A Different Kind of Sharing Economy - A Literature Review of Platform Cooperatives"
+title: "A Different Kind of Sharing Economy: A Literature Review of Platform Cooperatives"
 author:
 - Zhu, Jiang
 - Marjanovic, Olivera
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.502"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 16
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{ZhuMarjanovic2021,
+  doi        = {10.24251/HICSS.2021.502},
   author     = {Zhu, Jiang and Marjanovic, Olivera},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {A Different Kind of Sharing Economy - A Literature Review of Platform Cooperatives},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {A Different Kind of Sharing Economy: A Literature Review of Platform Cooperatives},
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71119}
 }

@@ -16,9 +16,9 @@ Citation:
 ```bibtex
 @article{Sunyaev2014,
   author     = {Sunyaev, Ali},
+  journal    = {e-Service Journal},
   title      = {Consumer Facing Health Care Systems},
   year       = {2014},
-  journal    = {e-Service Journal},
   volume     = {9},
   number     = {2},
   pages      = {1--23}

@@ -2,24 +2,25 @@
 title: "Managing Flexibility in Outsourcing"
 author:
 - Tan, Chengxun
-- Sia, Siew Kien
+- Sia, Siew
 topic: ""
 categories: ['theoretical-review']
 date: "2006"
-doi: ""
+doi: "https://doi.org/10.17705/1JAIS.00086"
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 0
+cited_by: 45
 ---
 
 Citation:
 
 ```bibtex
 @article{Tan2006,
-  author     = {Tan, Chengxun and Sia, Siew Kien},
+  doi        = {10.17705/1JAIS.00086},
+  author     = {Tan, Chengxun and Sia, Siew},
+  journal    = {Journal of the Association for Information Systems},
   title      = {Managing Flexibility in Outsourcing},
   year       = {2006},
-  journal    = {Journal of the Association for Information Systems},
   volume     = {7},
   number     = {4},
   pages      = {179--206}

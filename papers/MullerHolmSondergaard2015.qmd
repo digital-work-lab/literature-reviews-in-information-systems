@@ -10,7 +10,7 @@ date: "2015"
 doi: "https://doi.org/10.17705/1CAIS.03742"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 11
+cited_by: 21
 ---
 
 Citation:
@@ -23,7 +23,6 @@ Citation:
   title      = {Benefits of Cloud Computing - Literature Review in a Maturity Model Perspective},
   year       = {2015},
   volume     = {37},
-  url        = {https://aisel.aisnet.org/cais/vol37/iss1/42},
-  cited_by   = {11}
+  url        = {https://aisel.aisnet.org/cais/vol37/iss1/42}
 }
 ```

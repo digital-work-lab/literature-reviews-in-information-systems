@@ -11,7 +11,7 @@ date: "2020"
 doi: "https://doi.org/10.1016/J.DSS.2020.113280"
 journal:
   name: "Decision Support Systems"
-cited_by: 0
+cited_by: 256
 ---
 
 Citation:

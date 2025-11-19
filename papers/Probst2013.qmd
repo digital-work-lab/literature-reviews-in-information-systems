@@ -1,5 +1,5 @@
 ---
-title: "Who Will Lead and Who Will Follow: Identifying Influential Users in Online Social Networks"
+title: "Who will lead and who will follow: Identifying Influential Users in Online Social Networks"
 author:
 - Probst, Florian
 - Grosswiele, Laura
@@ -7,22 +7,24 @@ author:
 topic: ""
 categories: ['critical-review']
 date: "2013"
-doi: ""
+doi: "https://doi.org/10.1007/S12599-013-0263-7"
 journal:
   name: "Business & Information Systems Engineering"
-cited_by: 0
+cited_by: 80
 ---
 
 Citation:
 
 ```bibtex
 @article{Probst2013,
+  doi        = {10.1007/S12599-013-0263-7},
   author     = {Probst, Florian and Grosswiele, Laura and Pfleger, Regina},
-  title      = {Who Will Lead and Who Will Follow: Identifying Influential Users in Online Social Networks},
-  year       = {2013},
   journal    = {Business & Information Systems Engineering},
+  title      = {Who will lead and who will follow: Identifying Influential Users in Online Social Networks},
+  year       = {2013},
   volume     = {5},
   number     = {3},
-  pages      = {179--193}
+  pages      = {179--193},
+  fulltext   = {http://link.springer.com/content/pdf/10.1007/s12599-013-0263-7.pdf}
 }
 ```

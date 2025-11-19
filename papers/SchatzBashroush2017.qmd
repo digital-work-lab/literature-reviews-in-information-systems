@@ -9,7 +9,7 @@ date: "2017"
 doi: "https://doi.org/10.1007/S10796-016-9648-8"
 journal:
   name: "Information Systems Frontiers"
-cited_by: 0
+cited_by: 49
 ---
 
 Citation:

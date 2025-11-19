@@ -5,22 +5,24 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2004"
-doi: ""
+doi: "https://doi.org/10.1287/ISRE.1040.0021"
 journal:
   name: "Information Systems Research"
-cited_by: 0
+cited_by: 251
 ---
 
 Citation:
 
 ```bibtex
 @article{Fichman2004a,
+  doi        = {10.1287/ISRE.1040.0021},
   author     = {Fichman, Robert G.},
+  journal    = {Information Systems Research},
   title      = {Real Options and IT Platform Adoption: Implications for Theory and Practice},
   year       = {2004},
-  journal    = {Information Systems Research},
   volume     = {15},
   number     = {2},
-  pages      = {132--154}
+  pages      = {132--154},
+  abstract   = {The decision processes surrounding investments in innovative information technology (IT) platforms are complicated by uncertainty about expected payoffs and irreversibilities in the costs of implementation. When uncertainty and irreversibility are high, concepts from real options should be used to properly structure the evaluation and management of investment opportunities, and thereby capture the value of managerial flexibility. However, while innovation researchers have posited that option value can influence the motivations of early adopters, and options researchers have identified emerging IT as a promising area for application of options valuation techniques, there has yet to be a systematic theoretical integration of work on IT innovation and real options. This paper seeks to fill this gap by developing a model of the determinants of option value associated with investments in innovative IT platforms. In so doing, the model addresses a central question in the innovation field: When should a firm take a lead role in innovation with emerging technologies? The analysis begins with an explanation of real options analysis and how it differs from conventional approaches for evaluating new technologies. Then a set of 12 factors—drawn from 4 complementary perspectives on organizational innovation (technology strategy, organizational learning, innovation bandwagons, and technology adaptation)—is synthesized into a model of the option value of IT platform investments. Rationales are provided to explain the direct effects of these factors on option value, and selected interactions among the factors are also considered. Finally, the implications of the model are presented in three areas: predicting IT platform initiation and adoption, valuing IT platform options, and managing IT platform implementation.}
 }
 ```

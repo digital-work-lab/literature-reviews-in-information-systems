@@ -1,5 +1,5 @@
 ---
-title: "What Can Crowdsourcing Do for Decision Support?"
+title: "What can crowdsourcing do for decision support?"
 author:
 - Chiu, Chao-Min
 - Liang, Ting-Peng
@@ -7,20 +7,21 @@ author:
 topic: ""
 categories: ['scoping-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.1016/J.DSS.2014.05.010"
 journal:
   name: "Decision Support Systems"
-cited_by: 0
+cited_by: 152
 ---
 
 Citation:
 
 ```bibtex
 @article{Chiu2014,
+  doi        = {10.1016/J.DSS.2014.05.010},
   author     = {Chiu, Chao-Min and Liang, Ting-Peng and Turban, Efraim},
-  title      = {What Can Crowdsourcing Do for Decision Support?},
-  year       = {2014},
   journal    = {Decision Support Systems},
+  title      = {What can crowdsourcing do for decision support?},
+  year       = {2014},
   volume     = {65},
   number     = {no issue},
   pages      = {40--49}

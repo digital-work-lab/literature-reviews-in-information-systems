@@ -6,20 +6,21 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2006"
-doi: ""
+doi: "https://doi.org/10.1207/S15327744JOCE1603&4_2"
 journal:
   name: "Journal of Organizational Computing and Electronic Commerce"
-cited_by: 0
+cited_by: 146
 ---
 
 Citation:
 
 ```bibtex
 @article{Fan2006,
+  doi        = {10.1207/S15327744JOCE1603&4_2},
   author     = {Fan, Haiyan and Poole, Marshall Scott},
+  journal    = {Journal of Organizational Computing and Electronic Commerce},
   title      = {What Is Personalization? Perspectives on the Design and Implementation of Personalization in Information Systems},
   year       = {2006},
-  journal    = {Journal of Organizational Computing and Electronic Commerce},
   volume     = {16},
   number     = {3},
   pages      = {179--202}

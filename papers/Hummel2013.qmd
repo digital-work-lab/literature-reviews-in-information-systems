@@ -7,22 +7,24 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2013"
-doi: ""
+doi: "https://doi.org/10.1007/S12599-013-0282-4"
 journal:
   name: "Business & Information Systems Engineering"
-cited_by: 0
+cited_by: 75
 ---
 
 Citation:
 
 ```bibtex
 @article{Hummel2013,
+  doi        = {10.1007/S12599-013-0282-4},
   author     = {Hummel, Markus and Rosenkranz, Christoph and Holten, Roland},
+  journal    = {Business & Information Systems Engineering},
   title      = {The Role of Communication in Agile Systems Development},
   year       = {2013},
-  journal    = {Business & Information Systems Engineering},
   volume     = {5},
   number     = {5},
-  pages      = {343--355}
+  pages      = {343--355},
+  fulltext   = {http://link.springer.com/content/pdf/10.1007/s12599-013-0282-4.pdf}
 }
 ```

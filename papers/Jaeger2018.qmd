@@ -1,23 +1,24 @@
 ---
-title: "Information Security Awareness - Literature Review and Integrative Framework"
+title: "Information Security Awareness: Literature Review and Integrative Framework"
 author:
 - Jaeger, Lennart
 topic: ""
 categories: []
 date: "2018"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2018.593"
 journal:
-  name: "Hawaii International Conference on System Sciences"
-cited_by: 0
+  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+cited_by: 23
 ---
 
 Citation:
 
 ```bibtex
 @inproceedings{Jaeger2018,
+  doi        = {10.24251/HICSS.2018.593},
   author     = {Jaeger, Lennart},
-  booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Information Security Awareness - Literature Review and Integrative Framework},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Information Security Awareness: Literature Review and Integrative Framework},
   year       = {2018},
   url        = {http://hdl.handle.net/10125/50482}
 }

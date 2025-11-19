@@ -8,20 +8,21 @@ author:
 topic: ""
 categories: ['descriptive-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.17705/1CAIS.03508"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 0
+cited_by: 25
 ---
 
 Citation:
 
 ```bibtex
 @article{Berger2014,
+  doi        = {10.17705/1CAIS.03508},
   author     = {Berger, Katharina and Klier, Julia and Klier, Mathias and Probst, Florian},
+  journal    = {Communications of the Association for Information Systems},
   title      = {A Review of Information Systems Research on Online Social Networks},
   year       = {2014},
-  journal    = {Communications of the Association for Information Systems},
   volume     = {35},
   number     = {1},
   pages      = {145--172}

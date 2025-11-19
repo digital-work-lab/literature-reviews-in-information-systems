@@ -16,9 +16,9 @@ Citation:
 ```bibtex
 @article{Gneiser2010a,
   author     = {Gneiser, Martin S.},
+  journal    = {Business & Information Systems Engineering},
   title      = {Value-based CRM},
   year       = {2010},
-  journal    = {Business & Information Systems Engineering},
   volume     = {2},
   number     = {2},
   pages      = {95--103}

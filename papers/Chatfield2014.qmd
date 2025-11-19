@@ -8,20 +8,21 @@ author:
 topic: ""
 categories: ['descriptive-review']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.3127/AJIS.V18I3.1104"
 journal:
   name: "Australasian Journal of Information Systems"
-cited_by: 0
+cited_by: 6
 ---
 
 Citation:
 
 ```bibtex
 @article{Chatfield2014,
+  doi        = {10.3127/AJIS.V18I3.1104},
   author     = {Chatfield, Akemi Takeoka and Shlemoon, Vivian Najem and Redublado, Wilbur and Darbyshire, Gary},
+  journal    = {Australasian Journal of Information Systems},
   title      = {Creating Value through Virtual Teams: A Current Literature Review},
   year       = {2014},
-  journal    = {Australasian Journal of Information Systems},
   volume     = {18},
   number     = {3},
   pages      = {257--269}

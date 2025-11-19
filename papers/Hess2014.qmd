@@ -1,5 +1,5 @@
 ---
-title: "Reliability Generalization of Perceived Ease of Use, Perceived Usefulness, and Behavioral Intentions"
+title: "Reliability Generalization of Perceived Ease of Use, Perceived Usefulness, and Behavioral Intentions1"
 author:
 - Hess, Traci J.
 - McNab, Anna L.
@@ -7,22 +7,25 @@ author:
 topic: ""
 categories: ['meta-analysis']
 date: "2014"
-doi: ""
+doi: "https://doi.org/10.25300/MISQ/2014/38.1.01"
 journal:
   name: "MIS Quarterly"
-cited_by: 0
+cited_by: 159
 ---
 
 Citation:
 
 ```bibtex
 @article{Hess2014,
+  doi        = {10.25300/MISQ/2014/38.1.01},
   author     = {Hess, Traci J. and McNab, Anna L. and Basoglu, K. Asli},
-  title      = {Reliability Generalization of Perceived Ease of Use, Perceived Usefulness, and Behavioral Intentions},
-  year       = {2014},
   journal    = {MIS Quarterly},
+  title      = {Reliability Generalization of Perceived Ease of Use, Perceived Usefulness, and Behavioral Intentions1},
+  year       = {2014},
   volume     = {38},
   number     = {1},
-  pages      = {1--28}
+  pages      = {1--28},
+  abstract   = {A reliability generalization study (a meta-analysis of reliability coefficients) was conducted on three widely studied information systems constructs from the technology acceptance model (TAM): perceived ease of use, perceived usefulness, and behavioral intentions. This form of meta-analysis summarizes the reliability coefficients of the scores on a specified scale across studies and identifies the study characteristics that influence the reliability of these scores. Reliability is a critical issue in conducting empirical research as the reliability of the scores on well-established scales can vary with study characteristics, attenuating effect sizes. In conducting this study, an extensive literature search was conducted, with 380 articles reviewed and coded to perform reliability generalization. Study characteristics, including technology, sample, and measurement characteristics, for these articles were recorded along with effect size data for the relationships among these variables. After controlling for number of items, sample size, and sampling error, differences in reliability coefficients were found with several study characteristics for the three technology acceptance constructs. The reliability coefficients of PEOU and PU were lower in hedonic contexts than in utilitarian contexts, and were higher when the originally validated scales were used as compared to when other items were substituted. Only 27 percent of the studies that provided the measurement items used the original PEOU items, while 39 percent used the original PU items. Scales that were administered in English had higher reliability coefficients for PU and BI, with a marginal effect for PEOU. Reliability differences were also found for other study characteristics, including reliability type, subject experience, and gender composition. While average reliability coefficients were high, the results show that, on average, relationships among these constructs are attenuated by 12 percent with maximum attenuation in the range of 35 to 43 percent. Implications for technology acceptance research are discussed and suggestions for addressing variation in reliability coefficients across studies are provided.},
+  fulltext   = {https://misq.umn.edu/misq/article-pdf/38/1/1/5637/1_hessmcnabbasoglu.pdf}
 }
 ```

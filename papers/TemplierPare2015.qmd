@@ -9,7 +9,7 @@ date: "2015"
 doi: "https://doi.org/10.17705/1CAIS.03706"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 81
+cited_by: 199
 ---
 
 Citation:
@@ -23,7 +23,6 @@ Citation:
   year       = {2015},
   volume     = {37},
   pages      = {112--137},
-  url        = {https://aisel.aisnet.org/cais/vol37/iss1/6},
-  cited_by   = {81}
+  url        = {https://aisel.aisnet.org/cais/vol37/iss1/6}
 }
 ```
