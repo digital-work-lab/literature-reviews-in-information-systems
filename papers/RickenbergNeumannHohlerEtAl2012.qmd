@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{RickenbergNeumannHohlerEtAl2012,
-  author = {Rickenberg, Tim A. and Neumann, Markus and Hohler, Bernd and Breitner, Michael H.},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Enterprise Content Management - A Literature Review},
-  year = {2012},
-  url = {https://aisel.aisnet.org/amcis2012/proceedings/DataInfoQuality/10}
+  author     = {Rickenberg, Tim A. and Neumann, Markus and Hohler, Bernd and Breitner, Michael H.},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Enterprise Content Management - A Literature Review},
+  year       = {2012},
+  url        = {https://aisel.aisnet.org/amcis2012/proceedings/DataInfoQuality/10}
 }
 ```

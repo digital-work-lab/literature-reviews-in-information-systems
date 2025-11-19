@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Moker2020,
-  author = {Moker, Anna},
-  booktitle = {Americas Conference on Information Systems},
-  title = {What Do We Know about the Chief Digital Officer? A Literature Review},
-  year = {2020},
-  url = {https://aisel.aisnet.org/amcis2020/is_leadership/is_leadership/5}
+  author     = {Moker, Anna},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {What Do We Know about the Chief Digital Officer? A Literature Review},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/amcis2020/is_leadership/is_leadership/5}
 }
 ```

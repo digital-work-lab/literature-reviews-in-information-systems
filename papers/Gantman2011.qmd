@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Gantman2011,
-  author = {Gantman, Sonia},
-  title = {IT Outsourcing in the Public Sector: A Literature Analysis},
-  year = {2011},
-  journal = {Journal of Global Information Technology Management},
-  volume = {14},
-  number = {2},
-  pages = {48--83}
+  author     = {Gantman, Sonia},
+  title      = {IT Outsourcing in the Public Sector: A Literature Analysis},
+  year       = {2011},
+  journal    = {Journal of Global Information Technology Management},
+  volume     = {14},
+  number     = {2},
+  pages      = {48--83}
 }
 ```

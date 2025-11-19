@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Weber2011,
-  author = {Weber, David M. and Kauffman, Robert J.},
-  title = {What Drives Global ICT Adoption? Analysis and Research Directions},
-  year = {2011},
-  journal = {Electronic Commerce Research and Applications},
-  volume = {10},
-  number = {6},
-  pages = {683--701}
+  author     = {Weber, David M. and Kauffman, Robert J.},
+  title      = {What Drives Global ICT Adoption? Analysis and Research Directions},
+  year       = {2011},
+  journal    = {Electronic Commerce Research and Applications},
+  volume     = {10},
+  number     = {6},
+  pages      = {683--701}
 }
 ```

@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MartensTeuteberg2009,
-  author = {Martens, Benedikt and Teuteberg, Frank},
-  booktitle = {European Conference on Information Systems},
-  title = {Why risk management matters in IT outsourcing - A systematic literature review and elements of a research agenda},
-  year = {2009},
-  url = {http://aisel.aisnet.org/ecis2009/451}
+  author     = {Martens, Benedikt and Teuteberg, Frank},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Why risk management matters in IT outsourcing - A systematic literature review and elements of a research agenda},
+  year       = {2009},
+  url        = {http://aisel.aisnet.org/ecis2009/451}
 }
 ```

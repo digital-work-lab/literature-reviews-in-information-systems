@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Carter2010,
-  author = {Carter, Pamela E.},
-  title = {IT Service Value Creation in a Global Environment},
-  year = {2010},
-  journal = {Journal of Global Information Technology Management},
-  volume = {13},
-  number = {4},
-  pages = {4--27}
+  author     = {Carter, Pamela E.},
+  title      = {IT Service Value Creation in a Global Environment},
+  year       = {2010},
+  journal    = {Journal of Global Information Technology Management},
+  volume     = {13},
+  number     = {4},
+  pages      = {4--27}
 }
 ```

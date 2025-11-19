@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HaamannBasten2012,
-  author = {Haamann, Thilo and Basten, Dirk},
-  booktitle = {European Conference on Information Systems},
-  title = {Systematic Approaches for organisational Learning - a literature Review},
-  year = {2012},
-  url = {http://aisel.aisnet.org/ecis2012/26}
+  author     = {Haamann, Thilo and Basten, Dirk},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Systematic Approaches for organisational Learning - a literature Review},
+  year       = {2012},
+  url        = {http://aisel.aisnet.org/ecis2012/26}
 }
 ```

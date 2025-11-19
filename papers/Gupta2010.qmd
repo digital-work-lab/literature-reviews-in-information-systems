@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Gupta2010,
-  author = {Gupta, Saurabh and Bostrom, Robert P. and Huber, Mark},
-  title = {End-User Training Methods: What We Know, Need to Know},
-  year = {2010},
-  journal = {ACM SIGMIS Database},
-  volume = {41},
-  number = {4},
-  pages = {9--39}
+  author     = {Gupta, Saurabh and Bostrom, Robert P. and Huber, Mark},
+  title      = {End-User Training Methods: What We Know, Need to Know},
+  year       = {2010},
+  journal    = {ACM SIGMIS Database},
+  volume     = {41},
+  number     = {4},
+  pages      = {9--39}
 }
 ```

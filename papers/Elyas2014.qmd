@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Elyas2014,
-  author = {Elyas, Mohamed and Maynard, Sean B. and Ahmad, Atif and Lonie, Andrew},
-  title = {Towards a Systemic Framework for Digital Forensic Readiness},
-  year = {2014},
-  journal = {Journal of Computer Information Systems},
-  volume = {54},
-  number = {3},
-  pages = {97--105}
+  author     = {Elyas, Mohamed and Maynard, Sean B. and Ahmad, Atif and Lonie, Andrew},
+  title      = {Towards a Systemic Framework for Digital Forensic Readiness},
+  year       = {2014},
+  journal    = {Journal of Computer Information Systems},
+  volume     = {54},
+  number     = {3},
+  pages      = {97--105}
 }
 ```

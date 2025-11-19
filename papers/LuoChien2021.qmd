@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{LuoChien2021,
-  author = {Luo, Margaret Meiling and Chien, Chih-Chia},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Factors Affecting Negative E-WOM - A Literature Review and Merged Model},
-  year = {2021},
-  url = {http://hdl.handle.net/10125/71131}
+  author     = {Luo, Margaret Meiling and Chien, Chih-Chia},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Factors Affecting Negative E-WOM - A Literature Review and Merged Model},
+  year       = {2021},
+  url        = {http://hdl.handle.net/10125/71131}
 }
 ```

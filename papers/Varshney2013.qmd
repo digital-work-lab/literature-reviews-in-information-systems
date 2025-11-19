@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Varshney2013,
-  author = {Varshney, Upkar},
-  title = {Mobile Health: Four Emerging Themes of Research},
-  year = {2013},
-  journal = {Decision Support Systems},
-  volume = {66},
-  number = {no issue},
-  pages = {20--35}
+  author     = {Varshney, Upkar},
+  title      = {Mobile Health: Four Emerging Themes of Research},
+  year       = {2013},
+  journal    = {Decision Support Systems},
+  volume     = {66},
+  number     = {no issue},
+  pages      = {20--35}
 }
 ```

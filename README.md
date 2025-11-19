@@ -1,7 +1,9 @@
+# literature-reviews-in-information-systems
 
+The `records.bib` serves as the main database.
 
-rm -r papers
-python convert.py records.bib papers
+To update the pages and statistics, run
 
-colrev convert records.bib
--> csv
+```
+make update
+```

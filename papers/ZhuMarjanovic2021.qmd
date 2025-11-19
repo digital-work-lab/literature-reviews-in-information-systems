@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{ZhuMarjanovic2021,
-  author = {Zhu, Jiang and Marjanovic, Olivera},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {A Different Kind of Sharing Economy - A Literature Review of Platform Cooperatives},
-  year = {2021},
-  url = {http://hdl.handle.net/10125/71119}
+  author     = {Zhu, Jiang and Marjanovic, Olivera},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {A Different Kind of Sharing Economy - A Literature Review of Platform Cooperatives},
+  year       = {2021},
+  url        = {http://hdl.handle.net/10125/71119}
 }
 ```

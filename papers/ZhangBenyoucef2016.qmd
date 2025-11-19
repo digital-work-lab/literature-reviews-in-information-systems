@@ -16,13 +16,13 @@ Citation:
 
 ```bibtex
 @article{ZhangBenyoucef2016,
-  doi = {10.1016/J.DSS.2016.04.001},
-  author = {Zhang, Kem Z. K. and Benyoucef, Morad},
-  journal = {Decision Support Systems},
-  title = {Consumer behavior in social commerce: A literature review},
-  year = {2016},
-  volume = {86},
-  pages = {95--108},
-  url = {https://www.sciencedirect.com/science/article/pii/S0167923616300458}
+  doi        = {10.1016/J.DSS.2016.04.001},
+  author     = {Zhang, Kem Z. K. and Benyoucef, Morad},
+  journal    = {Decision Support Systems},
+  title      = {Consumer behavior in social commerce: A literature review},
+  year       = {2016},
+  volume     = {86},
+  pages      = {95--108},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0167923616300458}
 }
 ```

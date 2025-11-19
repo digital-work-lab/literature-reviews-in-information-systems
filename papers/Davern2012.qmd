@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Davern2012,
-  author = {Davern, Michael and Shaft, Teresa and Te'eni, Dov},
-  title = {Cognition Matters: Enduring Questions in Cognitive IS Research},
-  year = {2012},
-  journal = {Journal of the Association for Information Systems},
-  volume = {13},
-  number = {Special Issue},
-  pages = {273--314}
+  author     = {Davern, Michael and Shaft, Teresa and Te'eni, Dov},
+  title      = {Cognition Matters: Enduring Questions in Cognitive IS Research},
+  year       = {2012},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {13},
+  number     = {Special Issue},
+  pages      = {273--314}
 }
 ```

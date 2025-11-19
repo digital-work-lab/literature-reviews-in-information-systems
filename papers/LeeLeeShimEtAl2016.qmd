@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{LeeLeeShimEtAl2016,
-  author = {Lee, Hyejung and Lee, Jungwoo and Shim, Kwansub and Lee, Hyejung},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Entrepreneurial characteristics - a Systematic literature Review},
-  year = {2016},
-  url = {https://aisel.aisnet.org/pacis2016/81}
+  author     = {Lee, Hyejung and Lee, Jungwoo and Shim, Kwansub and Lee, Hyejung},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Entrepreneurial characteristics - a Systematic literature Review},
+  year       = {2016},
+  url        = {https://aisel.aisnet.org/pacis2016/81}
 }
 ```

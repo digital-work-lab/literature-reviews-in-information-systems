@@ -17,11 +17,11 @@ Citation:
 
 ```bibtex
 @inproceedings{HamariKoivistoSarsa2014,
-  doi = {10.1109/HICSS.2014.377},
-  author = {Hamari, Juho and Koivisto, Jonna and Sarsa, Harri},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Does Gamification Work? -- A Literature Review of Empirical Studies on Gamification},
-  year = {2014},
-  url = {https://ieeexplore.ieee.org/document/6758978}
+  doi        = {10.1109/HICSS.2014.377},
+  author     = {Hamari, Juho and Koivisto, Jonna and Sarsa, Harri},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Does Gamification Work? -- A Literature Review of Empirical Studies on Gamification},
+  year       = {2014},
+  url        = {https://ieeexplore.ieee.org/document/6758978}
 }
 ```

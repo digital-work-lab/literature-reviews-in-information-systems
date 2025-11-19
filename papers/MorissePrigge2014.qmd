@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MorissePrigge2014,
-  author = {Morisse, Marcel and Prigge, Corvin},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Business Continuity in Network Organizations - A Literature Review},
-  year = {2014},
-  url = {https://aisel.aisnet.org/amcis2014/GlobalIssues/GeneralPresentations/2}
+  author     = {Morisse, Marcel and Prigge, Corvin},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Business Continuity in Network Organizations - A Literature Review},
+  year       = {2014},
+  url        = {https://aisel.aisnet.org/amcis2014/GlobalIssues/GeneralPresentations/2}
 }
 ```

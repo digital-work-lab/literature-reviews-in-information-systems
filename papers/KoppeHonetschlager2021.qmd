@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{KoppeHonetschlager2021,
-  author = {Koppe, Timo and Honetschläger, Katharina},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Exploring Service Innovation in Manufacturing Firms Through the Lens of Service Systems - A Structured Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/pacis2021/196}
+  author     = {Koppe, Timo and Honetschläger, Katharina},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Exploring Service Innovation in Manufacturing Firms Through the Lens of Service Systems - A Structured Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/196}
 }
 ```

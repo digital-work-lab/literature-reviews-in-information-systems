@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{CohenColemanAbrahams2015,
-  author = {Cohen, Jason F. and Coleman, Emma and Abrahams, Lucienne},
-  booktitle = {European Conference on Information Systems},
-  title = {Use and Impacts of E-health Within Community Health Facilities in Developing Countries - A Systematic Literature Review},
-  year = {2015},
-  url = {http://aisel.aisnet.org/ecis2015_cr/33}
+  author     = {Cohen, Jason F. and Coleman, Emma and Abrahams, Lucienne},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Use and Impacts of E-health Within Community Health Facilities in Developing Countries - A Systematic Literature Review},
+  year       = {2015},
+  url        = {http://aisel.aisnet.org/ecis2015_cr/33}
 }
 ```

@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{GunerHanJuellSkielse2020,
-  author = {Güner, Evrim Oya and Han, Shengnan and Juell-Skielse, Gustaf},
-  booktitle = {European Conference on Information Systems},
-  title = {Robotic Process Automation as Routine Capability - a literature Review},
-  year = {2020},
-  url = {https://aisel.aisnet.org/ecis2020_rp/153}
+  author     = {Güner, Evrim Oya and Han, Shengnan and Juell-Skielse, Gustaf},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Robotic Process Automation as Routine Capability - a literature Review},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/ecis2020_rp/153}
 }
 ```

@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Chang2005,
-  author = {Chang, Man Kit and Cheung, Waiman and Lai, Vincent S.},
-  title = {Literature Derived Reference Models for the Adoption of Online Shopping},
-  year = {2005},
-  journal = {Information & Management},
-  volume = {42},
-  number = {4},
-  pages = {543--559}
+  author     = {Chang, Man Kit and Cheung, Waiman and Lai, Vincent S.},
+  title      = {Literature Derived Reference Models for the Adoption of Online Shopping},
+  year       = {2005},
+  journal    = {Information & Management},
+  volume     = {42},
+  number     = {4},
+  pages      = {543--559}
 }
 ```

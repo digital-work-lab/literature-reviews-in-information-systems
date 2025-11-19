@@ -18,11 +18,11 @@ Citation:
 
 ```bibtex
 @inproceedings{GrimmWeissErekEtAl2014,
-  doi = {10.1109/HICSS.2014.116},
-  author = {Grimm, Daniel and Weiss, Daniel and Erek, Koray and Zarnekow, Rüdiger},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Product Carbon Footprint and Life Cycle Assessment of ICT -- Literature Review and State of the Art},
-  year = {2014},
-  url = {https://ieeexplore.ieee.org/document/6758712/}
+  doi        = {10.1109/HICSS.2014.116},
+  author     = {Grimm, Daniel and Weiss, Daniel and Erek, Koray and Zarnekow, Rüdiger},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Product Carbon Footprint and Life Cycle Assessment of ICT -- Literature Review and State of the Art},
+  year       = {2014},
+  url        = {https://ieeexplore.ieee.org/document/6758712/}
 }
 ```

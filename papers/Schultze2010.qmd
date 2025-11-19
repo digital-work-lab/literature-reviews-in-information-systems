@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Schultze2010,
-  author = {Schultze, Ulrike},
-  title = {Embodiment and Presence in Virtual Worlds: A Review},
-  year = {2010},
-  journal = {Journal of Information Technology},
-  volume = {25},
-  number = {4},
-  pages = {434--494}
+  author     = {Schultze, Ulrike},
+  title      = {Embodiment and Presence in Virtual Worlds: A Review},
+  year       = {2010},
+  journal    = {Journal of Information Technology},
+  volume     = {25},
+  number     = {4},
+  pages      = {434--494}
 }
 ```

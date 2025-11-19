@@ -18,11 +18,11 @@ Citation:
 
 ```bibtex
 @inproceedings{WeissenfelsEbnerDittesEtAl2016,
-  doi = {10.1109/HICSS.2016.252},
-  author = {Weissenfels, Silke and Ebner, Katharina and Dittes, Sven and Smolnik, Stefan},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Does the is Artifact Matter in Sociomateriality Research? A Literature Review of Empirical Studies},
-  year = {2016},
-  url = {https://ieeexplore.ieee.org/document/7427433}
+  doi        = {10.1109/HICSS.2016.252},
+  author     = {Weissenfels, Silke and Ebner, Katharina and Dittes, Sven and Smolnik, Stefan},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Does the is Artifact Matter in Sociomateriality Research? A Literature Review of Empirical Studies},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427433}
 }
 ```

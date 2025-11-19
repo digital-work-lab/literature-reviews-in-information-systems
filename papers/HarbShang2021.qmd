@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HarbShang2021,
-  author = {Harb, Yousra and Shang, Yanyan},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Linking Information Technology and Entrepreneurship - A Literature Review},
-  year = {2021},
-  url = {http://hdl.handle.net/10125/71228}
+  author     = {Harb, Yousra and Shang, Yanyan},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Linking Information Technology and Entrepreneurship - A Literature Review},
+  year       = {2021},
+  url        = {http://hdl.handle.net/10125/71228}
 }
 ```

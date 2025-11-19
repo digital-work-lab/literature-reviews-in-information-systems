@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{SchlagenhauferAmberg2015,
-  author = {Schlagenhaufer, Christian and Amberg, Michael},
-  booktitle = {European Conference on Information Systems},
-  title = {A Descriptive Literature Review and Classification Framework for Gamification in Information Systems},
-  year = {2015},
-  url = {http://aisel.aisnet.org/ecis2015_cr/161}
+  author     = {Schlagenhaufer, Christian and Amberg, Michael},
+  booktitle  = {European Conference on Information Systems},
+  title      = {A Descriptive Literature Review and Classification Framework for Gamification in Information Systems},
+  year       = {2015},
+  url        = {http://aisel.aisnet.org/ecis2015_cr/161}
 }
 ```

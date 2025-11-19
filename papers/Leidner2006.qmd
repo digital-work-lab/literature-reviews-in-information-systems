@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Leidner2006,
-  author = {Leidner, Dorothy E. and Kayworth, Timothy},
-  title = {Review: A Review of Culture in Information Systems Research: Toward a Theory of Information Technology Culture Conflict},
-  year = {2006},
-  journal = {MIS Quarterly},
-  volume = {30},
-  number = {2},
-  pages = {357--399}
+  author     = {Leidner, Dorothy E. and Kayworth, Timothy},
+  title      = {Review: A Review of Culture in Information Systems Research: Toward a Theory of Information Technology Culture Conflict},
+  year       = {2006},
+  journal    = {MIS Quarterly},
+  volume     = {30},
+  number     = {2},
+  pages      = {357--399}
 }
 ```

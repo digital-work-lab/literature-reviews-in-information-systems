@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HundDrechslerReibenspiess2019,
-  author = {Hund, Axel and Drechsler, Katharina and Reibenspiess, Victoria Alexandra},
-  booktitle = {European Conference on Information Systems},
-  title = {The current State and Future Opportunities of Digital Innovation - a literature Review},
-  year = {2019},
-  url = {https://aisel.aisnet.org/ecis2019_rp/155}
+  author     = {Hund, Axel and Drechsler, Katharina and Reibenspiess, Victoria Alexandra},
+  booktitle  = {European Conference on Information Systems},
+  title      = {The current State and Future Opportunities of Digital Innovation - a literature Review},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/ecis2019_rp/155}
 }
 ```

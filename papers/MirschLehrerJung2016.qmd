@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MirschLehrerJung2016,
-  author = {Mirsch, Tobias and Lehrer, Christiane and Jung, Reinhard},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Channel Integration towards Omnichannel Management - a literature Review},
-  year = {2016},
-  url = {https://aisel.aisnet.org/pacis2016/288}
+  author     = {Mirsch, Tobias and Lehrer, Christiane and Jung, Reinhard},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Channel Integration towards Omnichannel Management - a literature Review},
+  year       = {2016},
+  url        = {https://aisel.aisnet.org/pacis2016/288}
 }
 ```

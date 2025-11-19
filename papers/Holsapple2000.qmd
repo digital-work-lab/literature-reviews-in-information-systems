@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Holsapple2000,
-  author = {Holsapple, Clyde W. and Singh, Meenu},
-  title = {Electronic Commerce: From a Definitional Taxonomy Toward a Knowledge-Management View},
-  year = {2000},
-  journal = {Journal of Organizational Computing and Electronic Commerce},
-  volume = {10},
-  number = {3},
-  pages = {149--170}
+  author     = {Holsapple, Clyde W. and Singh, Meenu},
+  title      = {Electronic Commerce: From a Definitional Taxonomy Toward a Knowledge-Management View},
+  year       = {2000},
+  journal    = {Journal of Organizational Computing and Electronic Commerce},
+  volume     = {10},
+  number     = {3},
+  pages      = {149--170}
 }
 ```

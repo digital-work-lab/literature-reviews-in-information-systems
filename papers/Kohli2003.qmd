@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Kohli2003,
-  author = {Kohli, Rajiv and Devaraj, Sarv},
-  title = {Measuring Information Technology Payoff: A Meta-Analysis of Structural Variables in Firm-Level Empirical Research},
-  year = {2003},
-  journal = {Information Systems Research},
-  volume = {14},
-  number = {2},
-  pages = {127--145}
+  author     = {Kohli, Rajiv and Devaraj, Sarv},
+  title      = {Measuring Information Technology Payoff: A Meta-Analysis of Structural Variables in Firm-Level Empirical Research},
+  year       = {2003},
+  journal    = {Information Systems Research},
+  volume     = {14},
+  number     = {2},
+  pages      = {127--145}
 }
 ```

@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Tams2014,
-  author = {Tams, Stefan and Grover, Varun and Thatcher, Jason},
-  title = {Modern Information Technology in an Old Workforce: Toward a Strategic Research Agenda},
-  year = {2014},
-  journal = {The Journal of Strategic Information Systems},
-  volume = {23},
-  number = {4},
-  pages = {284--304}
+  author     = {Tams, Stefan and Grover, Varun and Thatcher, Jason},
+  title      = {Modern Information Technology in an Old Workforce: Toward a Strategic Research Agenda},
+  year       = {2014},
+  journal    = {The Journal of Strategic Information Systems},
+  volume     = {23},
+  number     = {4},
+  pages      = {284--304}
 }
 ```

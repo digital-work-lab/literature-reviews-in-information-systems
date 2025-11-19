@@ -18,11 +18,11 @@ Citation:
 
 ```bibtex
 @inproceedings{RoderWiescheSchermannEtAl2016,
-  doi = {10.1109/HICSS.2016.640},
-  author = {Röder, Nina and Wiesche, Manuel and Schermann, Michael and Krcmar, Helmut},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Toward an Ontology of Workarounds - A Literature Review on Existing Concepts},
-  year = {2016},
-  url = {https://ieeexplore.ieee.org/document/7427827}
+  doi        = {10.1109/HICSS.2016.640},
+  author     = {Röder, Nina and Wiesche, Manuel and Schermann, Michael and Krcmar, Helmut},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Toward an Ontology of Workarounds - A Literature Review on Existing Concepts},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427827}
 }
 ```

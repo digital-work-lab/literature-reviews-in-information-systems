@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{PrinzRentropHuber2021,
-  author = {Prinz, Niculin and Rentrop, Christopher and Huber, Melanie},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Low-Code Development Platforms - A Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/2}
+  author     = {Prinz, Niculin and Rentrop, Christopher and Huber, Melanie},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Low-Code Development Platforms - A Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/2}
 }
 ```

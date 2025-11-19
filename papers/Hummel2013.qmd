@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Hummel2013,
-  author = {Hummel, Markus and Rosenkranz, Christoph and Holten, Roland},
-  title = {The Role of Communication in Agile Systems Development},
-  year = {2013},
-  journal = {Business & Information Systems Engineering},
-  volume = {5},
-  number = {5},
-  pages = {343--355}
+  author     = {Hummel, Markus and Rosenkranz, Christoph and Holten, Roland},
+  title      = {The Role of Communication in Agile Systems Development},
+  year       = {2013},
+  journal    = {Business & Information Systems Engineering},
+  volume     = {5},
+  number     = {5},
+  pages      = {343--355}
 }
 ```

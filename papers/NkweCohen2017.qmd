@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{NkweCohen2017,
-  author = {Nkwe, Nugi and Cohen, Jason F.},
-  booktitle = {European Conference on Information Systems},
-  title = {Impact of Social Network sites on Psychological and Behavioural Outcomes in the Work-Place - a Systematic literature Review},
-  year = {2017},
-  url = {https://aisel.aisnet.org/ecis2017_rp/131}
+  author     = {Nkwe, Nugi and Cohen, Jason F.},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Impact of Social Network sites on Psychological and Behavioural Outcomes in the Work-Place - a Systematic literature Review},
+  year       = {2017},
+  url        = {https://aisel.aisnet.org/ecis2017_rp/131}
 }
 ```

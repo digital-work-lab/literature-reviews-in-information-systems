@@ -16,14 +16,14 @@ Citation:
 
 ```bibtex
 @article{TeubnerStockhinger2020,
-  doi = {10.1016/J.JSIS.2020.101642},
-  author = {Teubner, Rolf Alexander and Stockhinger, Jan},
-  journal = {The Journal of Strategic Information Systems},
-  title = {Literature review - Understanding information systems strategy in the digital age},
-  year = {2020},
-  volume = {29},
-  number = {4},
-  pages = {101642},
-  url = {https://www.sciencedirect.com/science/article/pii/S0963868720300500}
+  doi        = {10.1016/J.JSIS.2020.101642},
+  author     = {Teubner, Rolf Alexander and Stockhinger, Jan},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Literature review - Understanding information systems strategy in the digital age},
+  year       = {2020},
+  volume     = {29},
+  number     = {4},
+  pages      = {101642},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0963868720300500}
 }
 ```

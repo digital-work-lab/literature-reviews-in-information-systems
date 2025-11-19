@@ -16,11 +16,11 @@ Citation:
 
 ```bibtex
 @inproceedings{RochMosconi2016,
-  doi = {10.1109/HICSS.2016.232},
-  author = {Roch, Jeremi and Mosconi, Elaine},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {The Use of Social Media Tools in the Product Life Cycle Phases - A Systematic Literature Review},
-  year = {2016},
-  url = {https://ieeexplore.ieee.org/document/7427412}
+  doi        = {10.1109/HICSS.2016.232},
+  author     = {Roch, Jeremi and Mosconi, Elaine},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {The Use of Social Media Tools in the Product Life Cycle Phases - A Systematic Literature Review},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427412}
 }
 ```

@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{FreyBuxmann2012,
-  author = {Frey, Thorsten and Buxmann, Peter},
-  booktitle = {European Conference on Information Systems},
-  title = {It Project portfolio Management - a Structured literature Review},
-  year = {2012},
-  url = {http://aisel.aisnet.org/ecis2012/167}
+  author     = {Frey, Thorsten and Buxmann, Peter},
+  booktitle  = {European Conference on Information Systems},
+  title      = {It Project portfolio Management - a Structured literature Review},
+  year       = {2012},
+  url        = {http://aisel.aisnet.org/ecis2012/167}
 }
 ```

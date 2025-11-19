@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{ChipidzaLeidner2017,
-  author = {Chipidza, Wallace and Leidner, Dorothy E.},
-  booktitle = {Americas Conference on Information Systems},
-  title = {ICT4D Research - Literature Review and Conflict Perspective},
-  year = {2017},
-  url = {https://aisel.aisnet.org/amcis2017/ICTs/Presentations/17}
+  author     = {Chipidza, Wallace and Leidner, Dorothy E.},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {ICT4D Research - Literature Review and Conflict Perspective},
+  year       = {2017},
+  url        = {https://aisel.aisnet.org/amcis2017/ICTs/Presentations/17}
 }
 ```

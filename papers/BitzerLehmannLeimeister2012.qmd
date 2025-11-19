@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{BitzerLehmannLeimeister2012,
-  author = {Bitzer, Philipp and Lehmann, Katja and Leimeister, Jan Marco},
-  booktitle = {Americas Conference on Information Systems},
-  title = {A Literature Review on Indicators for the Measurement of Technology Mediated Learning Productivity - 2000 to 2011},
-  year = {2012},
-  url = {https://aisel.aisnet.org/amcis2012/proceedings/ISEducation/30}
+  author     = {Bitzer, Philipp and Lehmann, Katja and Leimeister, Jan Marco},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {A Literature Review on Indicators for the Measurement of Technology Mediated Learning Productivity - 2000 to 2011},
+  year       = {2012},
+  url        = {https://aisel.aisnet.org/amcis2012/proceedings/ISEducation/30}
 }
 ```

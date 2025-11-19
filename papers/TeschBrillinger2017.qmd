@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{TeschBrillinger2017,
-  author = {Tesch, Jan F. and Brillinger, Anne},
-  booktitle = {European Conference on Information Systems},
-  title = {The Evaluation Aspect of Digital Business Model Innovation - a literature Review on Tools and Methodologies},
-  year = {2017},
-  url = {https://aisel.aisnet.org/ecis2017_rp/143}
+  author     = {Tesch, Jan F. and Brillinger, Anne},
+  booktitle  = {European Conference on Information Systems},
+  title      = {The Evaluation Aspect of Digital Business Model Innovation - a literature Review on Tools and Methodologies},
+  year       = {2017},
+  url        = {https://aisel.aisnet.org/ecis2017_rp/143}
 }
 ```

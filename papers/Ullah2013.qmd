@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Ullah2013,
-  author = {Ullah, Azmat and Lai, Richard},
-  title = {A Systematic Review of Business and Information Technology Alignment},
-  year = {2013},
-  journal = {ACM Transactions on Management Information Systems},
-  volume = {4},
-  number = {1},
-  pages = {1--30}
+  author     = {Ullah, Azmat and Lai, Richard},
+  title      = {A Systematic Review of Business and Information Technology Alignment},
+  year       = {2013},
+  journal    = {ACM Transactions on Management Information Systems},
+  volume     = {4},
+  number     = {1},
+  pages      = {1--30}
 }
 ```

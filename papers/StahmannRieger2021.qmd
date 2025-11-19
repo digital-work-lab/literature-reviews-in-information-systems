@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{StahmannRieger2021,
-  author = {Stahmann, Philip and Rieger, Bodo},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Requirements Identification for Real-Time Anomaly Detection in Industrie 4.0 Machine Groups - A Structured Literature Review},
-  year = {2021},
-  url = {http://hdl.handle.net/10125/71316}
+  author     = {Stahmann, Philip and Rieger, Bodo},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Requirements Identification for Real-Time Anomaly Detection in Industrie 4.0 Machine Groups - A Structured Literature Review},
+  year       = {2021},
+  url        = {http://hdl.handle.net/10125/71316}
 }
 ```

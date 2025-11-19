@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{SpottkeWulfBrenner2015,
-  author = {Spottke, Benjamin and Wulf, Jochen and Brenner, Walter},
-  booktitle = {International Conference on Information Systems},
-  title = {Consumer-Centric Information Systems - A Literature Review and Avenues for Further Research},
-  year = {2015},
-  url = {http://aisel.aisnet.org/icis2015/proceedings/HCI/3}
+  author     = {Spottke, Benjamin and Wulf, Jochen and Brenner, Walter},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Consumer-Centric Information Systems - A Literature Review and Avenues for Further Research},
+  year       = {2015},
+  url        = {http://aisel.aisnet.org/icis2015/proceedings/HCI/3}
 }
 ```

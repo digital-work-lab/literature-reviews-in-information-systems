@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{AswadLessard2021,
-  author = {Aswad, Oday and Lessard, Lysanne},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Service Design Methods' Ability to Personalize Telehealth - A Systematic Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/amcis2021/healthcare_it/sig_health/13}
+  author     = {Aswad, Oday and Lessard, Lysanne},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Service Design Methods' Ability to Personalize Telehealth - A Systematic Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/amcis2021/healthcare_it/sig_health/13}
 }
 ```

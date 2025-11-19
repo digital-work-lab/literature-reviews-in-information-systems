@@ -15,11 +15,11 @@ Citation:
 
 ```bibtex
 @inproceedings{Little2011,
-  doi = {10.1109/HICSS.2011.278},
-  author = {Little, Todd A.},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Knowledge, Intellectual Capital, and Protection - A Literature Review},
-  year = {2011},
-  url = {https://ieeexplore.ieee.org/document/5718987}
+  doi        = {10.1109/HICSS.2011.278},
+  author     = {Little, Todd A.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Knowledge, Intellectual Capital, and Protection - A Literature Review},
+  year       = {2011},
+  url        = {https://ieeexplore.ieee.org/document/5718987}
 }
 ```

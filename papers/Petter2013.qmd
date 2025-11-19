@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Petter2013,
-  author = {Petter, Stacie and DeLone, William H. and McLean, Ephraim R.},
-  title = {Information Systems Success: The Quest for the Independent Variables},
-  year = {2013},
-  journal = {Journal of Management Information Systems},
-  volume = {29},
-  number = {4},
-  pages = {7--62}
+  author     = {Petter, Stacie and DeLone, William H. and McLean, Ephraim R.},
+  title      = {Information Systems Success: The Quest for the Independent Variables},
+  year       = {2013},
+  journal    = {Journal of Management Information Systems},
+  volume     = {29},
+  number     = {4},
+  pages      = {7--62}
 }
 ```

@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Zhao2014a,
-  author = {Zhao, Yuxiang and Zhu, Qinghua},
-  title = {Evaluation on Crowdsourcing Research: Current Status and Future Direction},
-  year = {2014},
-  journal = {Information Systems Frontiers},
-  volume = {16},
-  number = {3},
-  pages = {417--434}
+  author     = {Zhao, Yuxiang and Zhu, Qinghua},
+  title      = {Evaluation on Crowdsourcing Research: Current Status and Future Direction},
+  year       = {2014},
+  journal    = {Information Systems Frontiers},
+  volume     = {16},
+  number     = {3},
+  pages      = {417--434}
 }
 ```

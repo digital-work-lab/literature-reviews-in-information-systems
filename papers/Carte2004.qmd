@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Carte2004,
-  author = {Carte, Traci and Chidambaram, Laku},
-  title = {A Capabilities-Based Theory of Technology Deployment in Diverse Teams: Leapfrogging the Pitfalls of Diversity and Leveraging Its Potential with Collaborative Technology},
-  year = {2004},
-  journal = {Journal of the Association for Information Systems},
-  volume = {5},
-  number = {11},
-  pages = {448--471}
+  author     = {Carte, Traci and Chidambaram, Laku},
+  title      = {A Capabilities-Based Theory of Technology Deployment in Diverse Teams: Leapfrogging the Pitfalls of Diversity and Leveraging Its Potential with Collaborative Technology},
+  year       = {2004},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {5},
+  number     = {11},
+  pages      = {448--471}
 }
 ```

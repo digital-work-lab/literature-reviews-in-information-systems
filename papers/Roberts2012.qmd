@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Roberts2012,
-  author = {Roberts, Nicholas and Galluch, Pamela S. and Dinger, Michael and Grover, Varun},
-  title = {Absorptive Capacity and Information Systems Research: Review, Synthesis, and Directions for Future Research},
-  year = {2012},
-  journal = {MIS Quarterly},
-  volume = {36},
-  number = {2},
-  pages = {625--648}
+  author     = {Roberts, Nicholas and Galluch, Pamela S. and Dinger, Michael and Grover, Varun},
+  title      = {Absorptive Capacity and Information Systems Research: Review, Synthesis, and Directions for Future Research},
+  year       = {2012},
+  journal    = {MIS Quarterly},
+  volume     = {36},
+  number     = {2},
+  pages      = {625--648}
 }
 ```

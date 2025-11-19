@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{WiethofBittner2021,
-  author = {Wiethof, Christina and Bittner, Eva A. C.},
-  booktitle = {International Conference on Information Systems},
-  title = {Hybrid Intelligence - Combining the Human in the Loop with the Computer in the Loop: A Systematic Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/icis2021/ai_business/ai_business/11}
+  author     = {Wiethof, Christina and Bittner, Eva A. C.},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Hybrid Intelligence - Combining the Human in the Loop with the Computer in the Loop: A Systematic Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/icis2021/ai_business/ai_business/11}
 }
 ```

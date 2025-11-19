@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Graening2011a,
-  author = {Gräning, André and Felden, Carsten and Piechocki, Maciej},
-  title = {Status Quo and Potential of XBRL for Business and Information Systems Engineering},
-  year = {2011},
-  journal = {Business & Information Systems Engineering},
-  volume = {3},
-  number = {4},
-  pages = {231--239}
+  author     = {Gräning, André and Felden, Carsten and Piechocki, Maciej},
+  title      = {Status Quo and Potential of XBRL for Business and Information Systems Engineering},
+  year       = {2011},
+  journal    = {Business & Information Systems Engineering},
+  volume     = {3},
+  number     = {4},
+  pages      = {231--239}
 }
 ```

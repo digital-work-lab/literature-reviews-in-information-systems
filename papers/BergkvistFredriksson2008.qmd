@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{BergkvistFredriksson2008,
-  author = {Bergkvist, Linda and Fredriksson, Odd},
-  booktitle = {European Conference on Information Systems},
-  title = {Outsourcing Terms - A Literature Review from an ISD Perspective},
-  year = {2008},
-  url = {http://aisel.aisnet.org/ecis2008/129}
+  author     = {Bergkvist, Linda and Fredriksson, Odd},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Outsourcing Terms - A Literature Review from an ISD Perspective},
+  year       = {2008},
+  url        = {http://aisel.aisnet.org/ecis2008/129}
 }
 ```

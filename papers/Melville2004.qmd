@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Melville2004,
-  author = {Melville, Nigel and Kraemer, Kenneth and Gurbaxani, Vijay},
-  title = {Review: Information Technology and Organizational Performance: An Integrative Model of IT Business Value},
-  year = {2004},
-  journal = {MIS Quarterly},
-  volume = {28},
-  number = {2},
-  pages = {283--322}
+  author     = {Melville, Nigel and Kraemer, Kenneth and Gurbaxani, Vijay},
+  title      = {Review: Information Technology and Organizational Performance: An Integrative Model of IT Business Value},
+  year       = {2004},
+  journal    = {MIS Quarterly},
+  volume     = {28},
+  number     = {2},
+  pages      = {283--322}
 }
 ```

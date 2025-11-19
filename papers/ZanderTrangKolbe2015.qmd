@@ -17,11 +17,11 @@ Citation:
 
 ```bibtex
 @inproceedings{ZanderTrangKolbe2015,
-  doi = {10.1109/HICSS.2015.38},
-  author = {Zander, Sebastian and Trang, Simon Thanh-Nam and Kolbe, Lutz M.},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {E-Collaboration in Interorganizational Networks - A Literature Review and an Agenda for Future Research},
-  year = {2015},
-  url = {https://ieeexplore.ieee.org/document/7069686/}
+  doi        = {10.1109/HICSS.2015.38},
+  author     = {Zander, Sebastian and Trang, Simon Thanh-Nam and Kolbe, Lutz M.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {E-Collaboration in Interorganizational Networks - A Literature Review and an Agenda for Future Research},
+  year       = {2015},
+  url        = {https://ieeexplore.ieee.org/document/7069686/}
 }
 ```

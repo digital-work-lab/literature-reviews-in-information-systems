@@ -16,11 +16,11 @@ Citation:
 
 ```bibtex
 @inproceedings{HamariKeronen2016,
-  doi = {10.1109/HICSS.2016.171},
-  author = {Hamari, Juho and Keronen, Lauri},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Why do People Buy Virtual Goods? A Literature Review},
-  year = {2016},
-  url = {https://ieeexplore.ieee.org/document/7427350}
+  doi        = {10.1109/HICSS.2016.171},
+  author     = {Hamari, Juho and Keronen, Lauri},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Why do People Buy Virtual Goods? A Literature Review},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427350}
 }
 ```

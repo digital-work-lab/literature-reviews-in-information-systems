@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Friedrich2015,
-  author = {Friedrich, Thomas},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Analyzing the Factors that Influence Consumers' Adoption of Social Commerce - A Literature Review},
-  year = {2015},
-  url = {https://aisel.aisnet.org/amcis2015/e-Biz/GeneralPresentations/15}
+  author     = {Friedrich, Thomas},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Analyzing the Factors that Influence Consumers' Adoption of Social Commerce - A Literature Review},
+  year       = {2015},
+  url        = {https://aisel.aisnet.org/amcis2015/e-Biz/GeneralPresentations/15}
 }
 ```

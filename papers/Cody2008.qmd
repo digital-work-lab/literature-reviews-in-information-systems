@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Cody2008,
-  author = {Cody, Erin and Sharman, Raj and Rao, H. Raghav and Upadhyay, Shambhu J.},
-  title = {Security in Grid Computing: A Review and Synthesis},
-  year = {2008},
-  journal = {Decision Support Systems},
-  volume = {44},
-  number = {4},
-  pages = {749--764}
+  author     = {Cody, Erin and Sharman, Raj and Rao, H. Raghav and Upadhyay, Shambhu J.},
+  title      = {Security in Grid Computing: A Review and Synthesis},
+  year       = {2008},
+  journal    = {Decision Support Systems},
+  volume     = {44},
+  number     = {4},
+  pages      = {749--764}
 }
 ```

@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Piccoli2005,
-  author = {Piccoli, Gabriele and Ives, Blake},
-  title = {Review: IT-Dependent Strategic Initiatives and Sustained Competitive Advantage: A Review and Synthesis of the Literature},
-  year = {2005},
-  journal = {MIS Quarterly},
-  volume = {29},
-  number = {4},
-  pages = {747--776}
+  author     = {Piccoli, Gabriele and Ives, Blake},
+  title      = {Review: IT-Dependent Strategic Initiatives and Sustained Competitive Advantage: A Review and Synthesis of the Literature},
+  year       = {2005},
+  journal    = {MIS Quarterly},
+  volume     = {29},
+  number     = {4},
+  pages      = {747--776}
 }
 ```

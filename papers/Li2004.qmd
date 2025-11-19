@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Li2004,
-  author = {Li, Honglei},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Virtual Community Studies - A Literature Review, Synthesis and Research Agenda},
-  year = {2004},
-  url = {https://aisel.aisnet.org/amcis2004/324}
+  author     = {Li, Honglei},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Virtual Community Studies - A Literature Review, Synthesis and Research Agenda},
+  year       = {2004},
+  url        = {https://aisel.aisnet.org/amcis2004/324}
 }
 ```

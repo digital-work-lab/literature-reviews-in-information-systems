@@ -19,14 +19,14 @@ Citation:
 
 ```bibtex
 @article{WangLiZhaoEtAl2020,
-  doi = {10.1007/S10796-020-10057-W},
-  author = {Wang, Yanxin and Li, Jian and Zhao, Xi and Feng, Gengzhong and Luo, Xin},
-  journal = {Information Systems Frontiers},
-  title = {Using Mobile Phone Data for Emergency Management: a Systematic Literature Review},
-  year = {2020},
-  volume = {22},
-  number = {6},
-  pages = {1539--1559},
-  url = {https://link.springer.com/article/10.1007/s10796-020-10057-w}
+  doi        = {10.1007/S10796-020-10057-W},
+  author     = {Wang, Yanxin and Li, Jian and Zhao, Xi and Feng, Gengzhong and Luo, Xin},
+  journal    = {Information Systems Frontiers},
+  title      = {Using Mobile Phone Data for Emergency Management: a Systematic Literature Review},
+  year       = {2020},
+  volume     = {22},
+  number     = {6},
+  pages      = {1539--1559},
+  url        = {https://link.springer.com/article/10.1007/s10796-020-10057-w}
 }
 ```

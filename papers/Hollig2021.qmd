@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Hollig2021,
-  author = {Höllig, Christoph},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Online Employer Reviews as a Data Source - A Systematic Literature Review},
-  year = {2021},
-  url = {http://hdl.handle.net/10125/71144}
+  author     = {Höllig, Christoph},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Online Employer Reviews as a Data Source - A Systematic Literature Review},
+  year       = {2021},
+  url        = {http://hdl.handle.net/10125/71144}
 }
 ```

@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{SchlangenottoPoniatowskiKundisch2018,
-  author = {Schlangenotto, Darius and Poniatowski, Martin and Kundisch, Dennis},
-  booktitle = {Americas Conference on Information Systems},
-  title = {What Drives Paid Search Success? A Systematic Literature Review},
-  year = {2018},
-  url = {https://aisel.aisnet.org/amcis2018/MetaResearch/Presentations/2}
+  author     = {Schlangenotto, Darius and Poniatowski, Martin and Kundisch, Dennis},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {What Drives Paid Search Success? A Systematic Literature Review},
+  year       = {2018},
+  url        = {https://aisel.aisnet.org/amcis2018/MetaResearch/Presentations/2}
 }
 ```

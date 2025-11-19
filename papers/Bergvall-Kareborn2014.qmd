@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Bergvall-Kareborn2014,
-  author = {Bergvall-Kåreborn, Birgitta and Howcroft, Debra and Ståhlbröst, Anna},
-  title = {Disregarding History: Contemporary IS Contexts and Participatory Design},
-  year = {2014},
-  journal = {Communications of the Association for Information Systems},
-  volume = {34},
-  number = {1},
-  pages = {1319--1332}
+  author     = {Bergvall-Kåreborn, Birgitta and Howcroft, Debra and Ståhlbröst, Anna},
+  title      = {Disregarding History: Contemporary IS Contexts and Participatory Design},
+  year       = {2014},
+  journal    = {Communications of the Association for Information Systems},
+  volume     = {34},
+  number     = {1},
+  pages      = {1319--1332}
 }
 ```

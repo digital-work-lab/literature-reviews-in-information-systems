@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Ghosh2007a,
-  author = {Ghosh, Debanjan and Sharman, Raj and Rao, H. Raghav and Upadhyay, Shambhu J.},
-  title = {Self-healing Systems - Survey and Synthesis},
-  year = {2007},
-  journal = {Decision Support Systems},
-  volume = {42},
-  number = {4},
-  pages = {2164--2185}
+  author     = {Ghosh, Debanjan and Sharman, Raj and Rao, H. Raghav and Upadhyay, Shambhu J.},
+  title      = {Self-healing Systems - Survey and Synthesis},
+  year       = {2007},
+  journal    = {Decision Support Systems},
+  volume     = {42},
+  number     = {4},
+  pages      = {2164--2185}
 }
 ```

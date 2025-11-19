@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Fan2006,
-  author = {Fan, Haiyan and Poole, Marshall Scott},
-  title = {What Is Personalization? Perspectives on the Design and Implementation of Personalization in Information Systems},
-  year = {2006},
-  journal = {Journal of Organizational Computing and Electronic Commerce},
-  volume = {16},
-  number = {3},
-  pages = {179--202}
+  author     = {Fan, Haiyan and Poole, Marshall Scott},
+  title      = {What Is Personalization? Perspectives on the Design and Implementation of Personalization in Information Systems},
+  year       = {2006},
+  journal    = {Journal of Organizational Computing and Electronic Commerce},
+  volume     = {16},
+  number     = {3},
+  pages      = {179--202}
 }
 ```

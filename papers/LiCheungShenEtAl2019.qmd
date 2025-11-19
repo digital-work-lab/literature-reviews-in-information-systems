@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{LiCheungShenEtAl2019,
-  author = {Li, Yangjun and Cheung, Christy M. K. and Shen, Xiao-Liang and Lee, Matthew K. O.},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Health Misinformation on Social Media - A Literature Review},
-  year = {2019},
-  url = {https://aisel.aisnet.org/pacis2019/194}
+  author     = {Li, Yangjun and Cheung, Christy M. K. and Shen, Xiao-Liang and Lee, Matthew K. O.},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Health Misinformation on Social Media - A Literature Review},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/pacis2019/194}
 }
 ```

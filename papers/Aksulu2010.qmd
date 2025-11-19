@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Aksulu2010,
-  author = {Aksulu, Altay and Wade, Michael},
-  title = {A Comprehensive Review and Synthesis of Open Source Research},
-  year = {2010},
-  journal = {Journal of the Association for Information Systems},
-  volume = {11},
-  number = {11},
-  pages = {576--656}
+  author     = {Aksulu, Altay and Wade, Michael},
+  title      = {A Comprehensive Review and Synthesis of Open Source Research},
+  year       = {2010},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {11},
+  number     = {11},
+  pages      = {576--656}
 }
 ```

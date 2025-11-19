@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HerzHamelUebernickelEtAl2010,
-  author = {Herz, Thomas and Hamel, Florian and Uebernickel, Falk and Brenner, Walter},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Deriving a Research Agenda for the Management of Multisourcing Relationships Based on a Literature Review},
-  year = {2010},
-  url = {https://aisel.aisnet.org/amcis2010/357}
+  author     = {Herz, Thomas and Hamel, Florian and Uebernickel, Falk and Brenner, Walter},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Deriving a Research Agenda for the Management of Multisourcing Relationships Based on a Literature Review},
+  year       = {2010},
+  url        = {https://aisel.aisnet.org/amcis2010/357}
 }
 ```

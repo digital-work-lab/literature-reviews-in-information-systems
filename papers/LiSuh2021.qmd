@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{LiSuh2021,
-  author = {Li, Mengjun and Suh, Ayoung},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Machinelike or Humanlike? A Literature Review of Anthropomorphism in AI-Enabled Technology},
-  year = {2021},
-  url = {http://hdl.handle.net/10125/71110}
+  author     = {Li, Mengjun and Suh, Ayoung},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Machinelike or Humanlike? A Literature Review of Anthropomorphism in AI-Enabled Technology},
+  year       = {2021},
+  url        = {http://hdl.handle.net/10125/71110}
 }
 ```

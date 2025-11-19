@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Cheung2012,
-  author = {Cheung, Christy M. K. and Thadani, Dimple R.},
-  title = {The Impact of Electronic Word-of-Mouth Communication: A Literature Analysis and Integrative Model},
-  year = {2012},
-  journal = {Decision Support Systems},
-  volume = {54},
-  number = {1},
-  pages = {461--470}
+  author     = {Cheung, Christy M. K. and Thadani, Dimple R.},
+  title      = {The Impact of Electronic Word-of-Mouth Communication: A Literature Analysis and Integrative Model},
+  year       = {2012},
+  journal    = {Decision Support Systems},
+  volume     = {54},
+  number     = {1},
+  pages      = {461--470}
 }
 ```

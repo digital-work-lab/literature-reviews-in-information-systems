@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{CanedoValencaSantos2019,
-  author = {Canedo, Edna Dias and Valença, Karine and Santos, Giovanni Almeida},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {An Analysis of Measurement and Metrics Tools - A Systematic Literature Review},
-  year = {2019},
-  url = {http://hdl.handle.net/10125/60133}
+  author     = {Canedo, Edna Dias and Valença, Karine and Santos, Giovanni Almeida},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {An Analysis of Measurement and Metrics Tools - A Systematic Literature Review},
+  year       = {2019},
+  url        = {http://hdl.handle.net/10125/60133}
 }
 ```

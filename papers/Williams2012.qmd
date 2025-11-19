@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Williams2012,
-  author = {Williams, Robin and Pollock, Neil},
-  title = {Research Commentary-Moving Beyond the Single Site Implementation Study: How (and Why) We Should Study the Biography of Packaged Enterprise Solutions},
-  year = {2012},
-  journal = {Information Systems Research},
-  volume = {23},
-  number = {1},
-  pages = {1--22}
+  author     = {Williams, Robin and Pollock, Neil},
+  title      = {Research Commentary-Moving Beyond the Single Site Implementation Study: How (and Why) We Should Study the Biography of Packaged Enterprise Solutions},
+  year       = {2012},
+  journal    = {Information Systems Research},
+  volume     = {23},
+  number     = {1},
+  pages      = {1--22}
 }
 ```

@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Ajer2018,
-  author = {Ajer, Anne Kristin},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Enterprise Architecture in Healthcare and Underlying Institutional Logics - a Systematic Literature Review of IS Research},
-  year = {2018},
-  url = {https://aisel.aisnet.org/pacis2018/280}
+  author     = {Ajer, Anne Kristin},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Enterprise Architecture in Healthcare and Underlying Institutional Logics - a Systematic Literature Review of IS Research},
+  year       = {2018},
+  url        = {https://aisel.aisnet.org/pacis2018/280}
 }
 ```

@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HuberZimmermannRentropEtAl2017,
-  author = {Huber, Melanie and Zimmermann, Stephan and Rentrop, Christopher and Felden, Carsten},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Integration of Shadow IT Systems with Enterprise Systems - A Literature Review},
-  year = {2017},
-  url = {https://aisel.aisnet.org/pacis2017/134}
+  author     = {Huber, Melanie and Zimmermann, Stephan and Rentrop, Christopher and Felden, Carsten},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Integration of Shadow IT Systems with Enterprise Systems - A Literature Review},
+  year       = {2017},
+  url        = {https://aisel.aisnet.org/pacis2017/134}
 }
 ```

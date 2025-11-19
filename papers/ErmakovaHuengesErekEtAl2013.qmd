@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{ErmakovaHuengesErekEtAl2013,
-  author = {Ermakova, Tatiana and Huenges, Jan and Erek, Koray and Zarnekow, Rüdiger},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Cloud Computing in Healthcare - a Literature Review on Current State of Research},
-  year = {2013},
-  url = {https://aisel.aisnet.org/amcis2013/HealthInformation/GeneralPresentations/17}
+  author     = {Ermakova, Tatiana and Huenges, Jan and Erek, Koray and Zarnekow, Rüdiger},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Cloud Computing in Healthcare - a Literature Review on Current State of Research},
+  year       = {2013},
+  url        = {https://aisel.aisnet.org/amcis2013/HealthInformation/GeneralPresentations/17}
 }
 ```

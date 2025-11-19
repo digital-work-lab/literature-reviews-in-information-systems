@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Beaudry2006,
-  author = {Beaudry, Anne and Carillo, Kevin D.},
-  title = {The Customer-Centered B2C Literature through the Lens of Activity Theory: A Review and Research Agenda},
-  year = {2006},
-  journal = {Communications of the Association for Information Systems},
-  volume = {17},
-  number = {21},
-  pages = {428--503}
+  author     = {Beaudry, Anne and Carillo, Kevin D.},
+  title      = {The Customer-Centered B2C Literature through the Lens of Activity Theory: A Review and Research Agenda},
+  year       = {2006},
+  journal    = {Communications of the Association for Information Systems},
+  volume     = {17},
+  number     = {21},
+  pages      = {428--503}
 }
 ```

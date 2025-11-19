@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MarquesGraeml2017,
-  author = {Marques, Valmir Luiz and Graeml, Alexandre Reis},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Collective Intelligence and the Mapping of Accessible Ways in the City - a Systematic Literature Review},
-  year = {2017},
-  url = {https://aisel.aisnet.org/amcis2017/SocialTechincal/Presentations/8}
+  author     = {Marques, Valmir Luiz and Graeml, Alexandre Reis},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Collective Intelligence and the Mapping of Accessible Ways in the City - a Systematic Literature Review},
+  year       = {2017},
+  url        = {https://aisel.aisnet.org/amcis2017/SocialTechincal/Presentations/8}
 }
 ```

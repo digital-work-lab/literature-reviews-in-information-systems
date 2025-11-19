@@ -18,11 +18,11 @@ Citation:
 
 ```bibtex
 @inproceedings{CoelhoPrzeybiloviczCunhaEtAl2016,
-  doi = {10.1109/HICSS.2016.336},
-  author = {Coelho, Taiane Ritta and Przeybilovicz, Erico and Cunha, Maria Alexandra and Echternacht, Tiago Henrique Souza},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Positioning Brazil in International eGov Research - A Proposal Based from Literature Review},
-  year = {2016},
-  url = {https://ieeexplore.ieee.org/document/7427519}
+  doi        = {10.1109/HICSS.2016.336},
+  author     = {Coelho, Taiane Ritta and Przeybilovicz, Erico and Cunha, Maria Alexandra and Echternacht, Tiago Henrique Souza},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Positioning Brazil in International eGov Research - A Proposal Based from Literature Review},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427519}
 }
 ```

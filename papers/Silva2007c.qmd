@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Silva2007c,
-  author = {Silva, Leiser},
-  title = {Post-positivist Review of Technology Acceptance Model},
-  year = {2007},
-  journal = {Journal of the Association for Information Systems},
-  volume = {8},
-  number = {4},
-  pages = {255--266}
+  author     = {Silva, Leiser},
+  title      = {Post-positivist Review of Technology Acceptance Model},
+  year       = {2007},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {8},
+  number     = {4},
+  pages      = {255--266}
 }
 ```

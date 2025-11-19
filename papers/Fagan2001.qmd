@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Fagan2001,
-  author = {Fagan, Mary Helen},
-  title = {Global Information Technology Transfer: A Framework for Analysis},
-  year = {2001},
-  journal = {Journal of Global Information Technology Management},
-  volume = {4},
-  number = {3},
-  pages = {5--26}
+  author     = {Fagan, Mary Helen},
+  title      = {Global Information Technology Transfer: A Framework for Analysis},
+  year       = {2001},
+  journal    = {Journal of Global Information Technology Management},
+  volume     = {4},
+  number     = {3},
+  pages      = {5--26}
 }
 ```

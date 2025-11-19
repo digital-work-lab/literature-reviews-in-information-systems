@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{FischerLohrenzLattemannEtAl2020,
-  author = {Fischer, Simon and Lohrenz, Lisa and Lattemann, Christoph and Robra-Bissantz, Susanne},
-  booktitle = {European Conference on Information Systems},
-  title = {Critical Design Factors for Digital Service Platforms - A Literature Review},
-  year = {2020},
-  url = {https://aisel.aisnet.org/ecis2020_rp/85}
+  author     = {Fischer, Simon and Lohrenz, Lisa and Lattemann, Christoph and Robra-Bissantz, Susanne},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Critical Design Factors for Digital Service Platforms - A Literature Review},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/ecis2020_rp/85}
 }
 ```

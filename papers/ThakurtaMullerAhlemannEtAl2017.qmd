@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{ThakurtaMullerAhlemannEtAl2017,
-  author = {Thakurta, Rahul and Müller, Benjamin and Ahlemann, Frederik and Hoffmann, David},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {The State of Design - A Comprehensive Literature Review to Chart the Design Science Research Discourse},
-  year = {2017},
-  url = {http://hdl.handle.net/10125/41733}
+  author     = {Thakurta, Rahul and Müller, Benjamin and Ahlemann, Frederik and Hoffmann, David},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {The State of Design - A Comprehensive Literature Review to Chart the Design Science Research Discourse},
+  year       = {2017},
+  url        = {http://hdl.handle.net/10125/41733}
 }
 ```

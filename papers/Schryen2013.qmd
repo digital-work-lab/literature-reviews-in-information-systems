@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Schryen2013,
-  author = {Schryen, Guido},
-  title = {Revisiting IS Business Value Research: What We Already Know, What We Still Need to Know, and How We Can Get There},
-  year = {2013},
-  journal = {European Journal of Information Systems},
-  volume = {22},
-  number = {2},
-  pages = {139--169}
+  author     = {Schryen, Guido},
+  title      = {Revisiting IS Business Value Research: What We Already Know, What We Still Need to Know, and How We Can Get There},
+  year       = {2013},
+  journal    = {European Journal of Information Systems},
+  volume     = {22},
+  number     = {2},
+  pages      = {139--169}
 }
 ```

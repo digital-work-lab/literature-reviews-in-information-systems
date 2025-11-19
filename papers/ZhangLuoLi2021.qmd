@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{ZhangLuoLi2021,
-  author = {Zhang, Chi and Luo, Hao and Li, Yi},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Depression Detection Using Virtual Reality - A Literature Review},
-  year = {2021},
-  url = {http://hdl.handle.net/10125/71103}
+  author     = {Zhang, Chi and Luo, Hao and Li, Yi},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Depression Detection Using Virtual Reality - A Literature Review},
+  year       = {2021},
+  url        = {http://hdl.handle.net/10125/71103}
 }
 ```

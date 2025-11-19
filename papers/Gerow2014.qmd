@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Gerow2014,
-  author = {Gerow, Jennifer E. and Grover, Varun and Thatcher, Jason and Roth, Philip L.},
-  title = {Looking Toward the Future of IT-Business Strategic Alignment through the Past: A Meta-Analysis},
-  year = {2014},
-  journal = {MIS Quarterly},
-  volume = {38},
-  number = {4},
-  pages = {1159--1185}
+  author     = {Gerow, Jennifer E. and Grover, Varun and Thatcher, Jason and Roth, Philip L.},
+  title      = {Looking Toward the Future of IT-Business Strategic Alignment through the Past: A Meta-Analysis},
+  year       = {2014},
+  journal    = {MIS Quarterly},
+  volume     = {38},
+  number     = {4},
+  pages      = {1159--1185}
 }
 ```

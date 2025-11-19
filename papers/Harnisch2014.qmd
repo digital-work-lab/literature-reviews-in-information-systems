@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Harnisch2014,
-  author = {Harnisch, Stefan},
-  booktitle = {European Conference on Information Systems},
-  title = {Enterprise-Level Packaged Software Acquisition - a Structured literature Review through the Lens of IT Governance},
-  year = {2014},
-  url = {http://aisel.aisnet.org/ecis2014/proceedings/track15/5}
+  author     = {Harnisch, Stefan},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Enterprise-Level Packaged Software Acquisition - a Structured literature Review through the Lens of IT Governance},
+  year       = {2014},
+  url        = {http://aisel.aisnet.org/ecis2014/proceedings/track15/5}
 }
 ```

@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HofmannRackersBecker2012,
-  author = {Hofmann, Sara and Räckers, Michael and Becker, Jörg},
-  booktitle = {International Conference on Information Systems},
-  title = {Identifying Factors of E-Government Acceptance - A Literature Review},
-  year = {2012},
-  url = {http://aisel.aisnet.org/icis2012/proceedings/HumanBehavior/9}
+  author     = {Hofmann, Sara and Räckers, Michael and Becker, Jörg},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Identifying Factors of E-Government Acceptance - A Literature Review},
+  year       = {2012},
+  url        = {http://aisel.aisnet.org/icis2012/proceedings/HumanBehavior/9}
 }
 ```

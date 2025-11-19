@@ -26,12 +26,12 @@ Citation:
 
 ```bibtex
 @article{Suriadi2014,
-  author = {Suriadi, Suriadi and Weiß, Burkhard and Winkelmann, Axel and ter Hofstede, Arthur H. M. and Adams, Michael and Conforti, Raffaele and Fidge, Colin and La Rosa, Marcello and Ouyang, Chun and Pika, Anastasiia and Rosemann, Michael and Wynn, Moe},
-  title = {Current Research in Risk-aware Business Process Management-Overview, Comparison, and Gap Analysis},
-  year = {2014},
-  journal = {Communications of the Association for Information Systems},
-  volume = {34},
-  number = {1},
-  pages = {933--984}
+  author     = {Suriadi, Suriadi and Weiß, Burkhard and Winkelmann, Axel and ter Hofstede, Arthur H. M. and Adams, Michael and Conforti, Raffaele and Fidge, Colin and La Rosa, Marcello and Ouyang, Chun and Pika, Anastasiia and Rosemann, Michael and Wynn, Moe},
+  title      = {Current Research in Risk-aware Business Process Management-Overview, Comparison, and Gap Analysis},
+  year       = {2014},
+  journal    = {Communications of the Association for Information Systems},
+  volume     = {34},
+  number     = {1},
+  pages      = {933--984}
 }
 ```

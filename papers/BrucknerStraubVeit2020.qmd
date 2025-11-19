@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{BrucknerStraubVeit2020,
-  author = {Bruckner, Moritz Tobias and Straub, Adrian and Veit, Daniel},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Initial Coin Offerings, How Do Investors Decide? - A Systematic Literature Review},
-  year = {2020},
-  url = {https://aisel.aisnet.org/amcis2020/global_dev/global_dev/14}
+  author     = {Bruckner, Moritz Tobias and Straub, Adrian and Veit, Daniel},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Initial Coin Offerings, How Do Investors Decide? - A Systematic Literature Review},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/amcis2020/global_dev/global_dev/14}
 }
 ```

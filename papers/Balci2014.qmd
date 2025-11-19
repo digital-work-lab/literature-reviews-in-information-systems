@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Balci2014,
-  author = {Balci, Bilal},
-  booktitle = {Americas Conference on Information Systems},
-  title = {The State of the Art on Process Virtualization - A Literature Review},
-  year = {2014},
-  url = {https://aisel.aisnet.org/amcis2014/e-Business/GeneralPresentations/9}
+  author     = {Balci, Bilal},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {The State of the Art on Process Virtualization - A Literature Review},
+  year       = {2014},
+  url        = {https://aisel.aisnet.org/amcis2014/e-Business/GeneralPresentations/9}
 }
 ```

@@ -18,13 +18,13 @@ Citation:
 
 ```bibtex
 @article{AinVaiaDeLoneEtAl2019,
-  doi = {10.1016/J.DSS.2019.113113},
-  author = {Ain, NoorUl and Vaia, Giovanni and DeLone, William H. and Waheed, Mehwish},
-  journal = {Decision Support Systems},
-  title = {Two decades of research on business intelligence system adoption, utilization and success – A systematic literature review},
-  year = {2019},
-  volume = {125},
-  pages = {113113},
-  url = {https://www.sciencedirect.com/science/article/pii/S0167923619301423}
+  doi        = {10.1016/J.DSS.2019.113113},
+  author     = {Ain, NoorUl and Vaia, Giovanni and DeLone, William H. and Waheed, Mehwish},
+  journal    = {Decision Support Systems},
+  title      = {Two decades of research on business intelligence system adoption, utilization and success – A systematic literature review},
+  year       = {2019},
+  volume     = {125},
+  pages      = {113113},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0167923619301423}
 }
 ```

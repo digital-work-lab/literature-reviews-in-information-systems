@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{DiirrCappelli2018,
-  author = {Diirr, Bruna and Cappelli, Claudia},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {A Systematic Literature Review to Understand Cross-organizational Relationship Management and Collaboration},
-  year = {2018},
-  url = {http://hdl.handle.net/10125/49907}
+  author     = {Diirr, Bruna and Cappelli, Claudia},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {A Systematic Literature Review to Understand Cross-organizational Relationship Management and Collaboration},
+  year       = {2018},
+  url        = {http://hdl.handle.net/10125/49907}
 }
 ```

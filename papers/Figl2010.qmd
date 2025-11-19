@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Figl2010,
-  author = {Figl, Kathrin},
-  title = {A Systematic Review of Developing Team Competencies in Information Systems Education},
-  year = {2010},
-  journal = {Journal of Information Systems Education},
-  volume = {21},
-  number = {1},
-  pages = {323--337}
+  author     = {Figl, Kathrin},
+  title      = {A Systematic Review of Developing Team Competencies in Information Systems Education},
+  year       = {2010},
+  journal    = {Journal of Information Systems Education},
+  volume     = {21},
+  number     = {1},
+  pages      = {323--337}
 }
 ```

@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Granados2010,
-  author = {Granados, Nelson and Gupta, Alok and Kauffman, Robert J.},
-  title = {Research Commentary-Information Transparency in Business-to-Consumer Markets: Concepts, Framework, and Research Agenda},
-  year = {2010},
-  journal = {Information Systems Research},
-  volume = {21},
-  number = {2},
-  pages = {207--226}
+  author     = {Granados, Nelson and Gupta, Alok and Kauffman, Robert J.},
+  title      = {Research Commentary-Information Transparency in Business-to-Consumer Markets: Concepts, Framework, and Research Agenda},
+  year       = {2010},
+  journal    = {Information Systems Research},
+  volume     = {21},
+  number     = {2},
+  pages      = {207--226}
 }
 ```

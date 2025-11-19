@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{JussupowBenbasatHeinzl2020,
-  author = {Jussupow, Ekaterina and Benbasat, Izak and Heinzl, Armin},
-  booktitle = {European Conference on Information Systems},
-  title = {Why are we averse towards Algorithms? A comprehensive literature Review on Algorithm aversion},
-  year = {2020},
-  url = {https://aisel.aisnet.org/ecis2020_rp/168}
+  author     = {Jussupow, Ekaterina and Benbasat, Izak and Heinzl, Armin},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Why are we averse towards Algorithms? A comprehensive literature Review on Algorithm aversion},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/ecis2020_rp/168}
 }
 ```

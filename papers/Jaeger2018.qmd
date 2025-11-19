@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Jaeger2018,
-  author = {Jaeger, Lennart},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Information Security Awareness - Literature Review and Integrative Framework},
-  year = {2018},
-  url = {http://hdl.handle.net/10125/50482}
+  author     = {Jaeger, Lennart},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Information Security Awareness - Literature Review and Integrative Framework},
+  year       = {2018},
+  url        = {http://hdl.handle.net/10125/50482}
 }
 ```

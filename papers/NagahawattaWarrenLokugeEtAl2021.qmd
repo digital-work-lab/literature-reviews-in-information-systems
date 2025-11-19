@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{NagahawattaWarrenLokugeEtAl2021,
-  author = {Nagahawatta, Ruwan and Warren, Matthew J. and Lokuge, Sachithra and Salzman, Scott},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Security Concerns Influencing the Adoption of Cloud Computing of SMEs - A Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/amcis2021/info_security/info_security/20}
+  author     = {Nagahawatta, Ruwan and Warren, Matthew J. and Lokuge, Sachithra and Salzman, Scott},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Security Concerns Influencing the Adoption of Cloud Computing of SMEs - A Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/amcis2021/info_security/info_security/20}
 }
 ```

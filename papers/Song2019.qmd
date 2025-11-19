@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Song2019,
-  author = {Song, Yi},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Collaborative Dynamics of Electronic Information Sharing in Government - A Systematic Literature Review},
-  year = {2019},
-  url = {https://aisel.aisnet.org/pacis2019/94}
+  author     = {Song, Yi},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Collaborative Dynamics of Electronic Information Sharing in Government - A Systematic Literature Review},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/pacis2019/94}
 }
 ```

@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{LeeScheepersLuiEtAl2021,
-  author = {Lee, Maggie C. M. and Scheepers, Helana and Lui, Ariel K. H. and Ngai, Eric W. T.},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Implementation of Artificial Intelligence in Organisations - A Systematic Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/pacis2021/215}
+  author     = {Lee, Maggie C. M. and Scheepers, Helana and Lui, Ariel K. H. and Ngai, Eric W. T.},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Implementation of Artificial Intelligence in Organisations - A Systematic Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/215}
 }
 ```

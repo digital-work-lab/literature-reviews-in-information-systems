@@ -17,11 +17,11 @@ Citation:
 
 ```bibtex
 @inproceedings{SantanaFischbachdeMoura2016,
-  doi = {10.1109/HICSS.2016.567},
-  author = {Santana, Alixandre and Fischbach, Kai and de Moura, Hermano P.},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Enterprise Architecture Analysis and Network Thinking - A Literature Review},
-  year = {2016},
-  url = {https://ieeexplore.ieee.org/document/7427753/}
+  doi        = {10.1109/HICSS.2016.567},
+  author     = {Santana, Alixandre and Fischbach, Kai and de Moura, Hermano P.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Enterprise Architecture Analysis and Network Thinking - A Literature Review},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427753/}
 }
 ```

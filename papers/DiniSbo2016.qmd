@@ -16,11 +16,11 @@ Citation:
 
 ```bibtex
 @inproceedings{DiniSbo2016,
-  doi = {10.1109/HICSS.2016.339},
-  author = {Dini, Alfatika Aunuriella and Sæbø, Øystein},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {The Current State of Social Media Research for eParticipation in Developing Countries - A Literature Review},
-  year = {2016},
-  url = {https://ieeexplore.ieee.org/document/7427522/}
+  doi        = {10.1109/HICSS.2016.339},
+  author     = {Dini, Alfatika Aunuriella and Sæbø, Øystein},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {The Current State of Social Media Research for eParticipation in Developing Countries - A Literature Review},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427522/}
 }
 ```

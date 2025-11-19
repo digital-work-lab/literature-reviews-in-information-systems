@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Probst2013,
-  author = {Probst, Florian and Grosswiele, Laura and Pfleger, Regina},
-  title = {Who Will Lead and Who Will Follow: Identifying Influential Users in Online Social Networks},
-  year = {2013},
-  journal = {Business & Information Systems Engineering},
-  volume = {5},
-  number = {3},
-  pages = {179--193}
+  author     = {Probst, Florian and Grosswiele, Laura and Pfleger, Regina},
+  title      = {Who Will Lead and Who Will Follow: Identifying Influential Users in Online Social Networks},
+  year       = {2013},
+  journal    = {Business & Information Systems Engineering},
+  volume     = {5},
+  number     = {3},
+  pages      = {179--193}
 }
 ```

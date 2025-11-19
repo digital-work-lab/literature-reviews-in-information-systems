@@ -20,10 +20,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HermesPfabHeinEtAl2020,
-  author = {Hermes, Sebastian and Pfab, Simon and Hein, Andreas and Weking, Jörg and Böhm, Markus and Krcmar, Helmut},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Digital Platforms and Market Dominance - Insights from a Systematic Literature Review and Avenues for Future Research},
-  year = {2020},
-  url = {https://aisel.aisnet.org/pacis2020/42}
+  author     = {Hermes, Sebastian and Pfab, Simon and Hein, Andreas and Weking, Jörg and Böhm, Markus and Krcmar, Helmut},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Digital Platforms and Market Dominance - Insights from a Systematic Literature Review and Avenues for Future Research},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/pacis2020/42}
 }
 ```

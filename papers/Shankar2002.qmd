@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Shankar2002,
-  author = {Shankar, Venkatesh and Urban, Glen L. and Sultan, Fareena},
-  title = {Online Trust: A Stakeholder Perspective, Concepts, Implications, and Future Directions},
-  year = {2002},
-  journal = {The Journal of Strategic Information Systems},
-  volume = {11},
-  number = {3-4},
-  pages = {325--344}
+  author     = {Shankar, Venkatesh and Urban, Glen L. and Sultan, Fareena},
+  title      = {Online Trust: A Stakeholder Perspective, Concepts, Implications, and Future Directions},
+  year       = {2002},
+  journal    = {The Journal of Strategic Information Systems},
+  volume     = {11},
+  number     = {3-4},
+  pages      = {325--344}
 }
 ```

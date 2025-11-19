@@ -17,14 +17,14 @@ Citation:
 
 ```bibtex
 @article{GuptaChauhanJaiswal2019,
-  doi = {10.1007/S10796-019-09911-3},
-  author = {Gupta, Parul and Chauhan, Sumedha and Jaiswal, M. P.},
-  journal = {Information Systems Frontiers},
-  title = {Classification of Smart City Research - a Descriptive Literature Review and Future Research Agenda},
-  year = {2019},
-  volume = {21},
-  number = {3},
-  pages = {661--685},
-  url = {https://link.springer.com/article/10.1007/s10796-019-09911-3}
+  doi        = {10.1007/S10796-019-09911-3},
+  author     = {Gupta, Parul and Chauhan, Sumedha and Jaiswal, M. P.},
+  journal    = {Information Systems Frontiers},
+  title      = {Classification of Smart City Research - a Descriptive Literature Review and Future Research Agenda},
+  year       = {2019},
+  volume     = {21},
+  number     = {3},
+  pages      = {661--685},
+  url        = {https://link.springer.com/article/10.1007/s10796-019-09911-3}
 }
 ```

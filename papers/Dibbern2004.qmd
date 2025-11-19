@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Dibbern2004,
-  author = {Dibbern, Jens and Goles, Tim and Hirschheim, Rudy and Jayatilaka, Bandula},
-  title = {Information Systems Outsourcing: A Survey and Analysis of the Literature},
-  year = {2004},
-  journal = {ACM SIGMIS Database},
-  volume = {35},
-  number = {4},
-  pages = {6--102}
+  author     = {Dibbern, Jens and Goles, Tim and Hirschheim, Rudy and Jayatilaka, Bandula},
+  title      = {Information Systems Outsourcing: A Survey and Analysis of the Literature},
+  year       = {2004},
+  journal    = {ACM SIGMIS Database},
+  volume     = {35},
+  number     = {4},
+  pages      = {6--102}
 }
 ```

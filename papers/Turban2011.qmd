@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Turban2011,
-  author = {Turban, Efraim and Bolloju, Narasimha and Liang, Ting-Peng},
-  title = {Enterprise Social Networking: Opportunities, Adoption, and Risk Mitigation},
-  year = {2011},
-  journal = {Journal of Organizational Computing and Electronic Commerce},
-  volume = {21},
-  number = {3},
-  pages = {202--220}
+  author     = {Turban, Efraim and Bolloju, Narasimha and Liang, Ting-Peng},
+  title      = {Enterprise Social Networking: Opportunities, Adoption, and Risk Mitigation},
+  year       = {2011},
+  journal    = {Journal of Organizational Computing and Electronic Commerce},
+  volume     = {21},
+  number     = {3},
+  pages      = {202--220}
 }
 ```

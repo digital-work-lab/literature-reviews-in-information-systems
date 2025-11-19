@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Aboulola2017,
-  author = {Aboulola, Omar Ibrahim},
-  booktitle = {Americas Conference on Information Systems},
-  title = {A Literature Review of Spatial Location Analysis for Retail Site Selection},
-  year = {2017},
-  url = {https://aisel.aisnet.org/amcis2017/DataScience/Presentations/9}
+  author     = {Aboulola, Omar Ibrahim},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {A Literature Review of Spatial Location Analysis for Retail Site Selection},
+  year       = {2017},
+  url        = {https://aisel.aisnet.org/amcis2017/DataScience/Presentations/9}
 }
 ```

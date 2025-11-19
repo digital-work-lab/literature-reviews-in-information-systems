@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Wu2012b,
-  author = {Wu, Jiming and Du, H.},
-  title = {Toward a Better Understanding of Behavioral Intention and System Usage Constructs},
-  year = {2012},
-  journal = {European Journal of Information Systems},
-  volume = {21},
-  number = {6},
-  pages = {680--698}
+  author     = {Wu, Jiming and Du, H.},
+  title      = {Toward a Better Understanding of Behavioral Intention and System Usage Constructs},
+  year       = {2012},
+  journal    = {European Journal of Information Systems},
+  volume     = {21},
+  number     = {6},
+  pages      = {680--698}
 }
 ```

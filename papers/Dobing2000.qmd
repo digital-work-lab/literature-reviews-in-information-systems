@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Dobing2000,
-  author = {Dobing, Brian and Parsons, Jeffrey},
-  title = {Understanding the Role of Use Cases in UML: A Review and Research Agenda},
-  year = {2000},
-  journal = {Journal of Database Management},
-  volume = {11},
-  number = {4},
-  pages = {28--36}
+  author     = {Dobing, Brian and Parsons, Jeffrey},
+  title      = {Understanding the Role of Use Cases in UML: A Review and Research Agenda},
+  year       = {2000},
+  journal    = {Journal of Database Management},
+  volume     = {11},
+  number     = {4},
+  pages      = {28--36}
 }
 ```

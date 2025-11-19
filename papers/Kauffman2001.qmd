@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Kauffman2001,
-  author = {Kauffman, Robert J. and Walden, Eric A.},
-  title = {Economics and Electronic Commerce: Survey and Directions for Research},
-  year = {2001},
-  journal = {International Journal of Electronic Commerce},
-  volume = {5},
-  number = {4},
-  pages = {5--116}
+  author     = {Kauffman, Robert J. and Walden, Eric A.},
+  title      = {Economics and Electronic Commerce: Survey and Directions for Research},
+  year       = {2001},
+  journal    = {International Journal of Electronic Commerce},
+  volume     = {5},
+  number     = {4},
+  pages      = {5--116}
 }
 ```

@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{KautzNagm2008,
-  author = {Kautz, Karl and Nagm, Fouad},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {The Advancement of is Evaluation - a literature Review},
-  year = {2008},
-  url = {https://aisel.aisnet.org/pacis2008/66}
+  author     = {Kautz, Karl and Nagm, Fouad},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {The Advancement of is Evaluation - a literature Review},
+  year       = {2008},
+  url        = {https://aisel.aisnet.org/pacis2008/66}
 }
 ```

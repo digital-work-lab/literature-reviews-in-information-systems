@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{RechenbergerJungSchmidtEtAl2015,
-  author = {Rechenberger, Tristan and Jung, Verena M. E. and Schmidt, Nikolaus and Rosenkranz, Christoph},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Utilizing the Crowd - A Literature Review on Factors influencing Crowdsourcing Initiative Success},
-  year = {2015},
-  url = {https://aisel.aisnet.org/pacis2015/250}
+  author     = {Rechenberger, Tristan and Jung, Verena M. E. and Schmidt, Nikolaus and Rosenkranz, Christoph},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Utilizing the Crowd - A Literature Review on Factors influencing Crowdsourcing Initiative Success},
+  year       = {2015},
+  url        = {https://aisel.aisnet.org/pacis2015/250}
 }
 ```

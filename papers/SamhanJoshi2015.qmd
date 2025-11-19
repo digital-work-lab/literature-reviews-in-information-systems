@@ -16,11 +16,11 @@ Citation:
 
 ```bibtex
 @inproceedings{SamhanJoshi2015,
-  doi = {10.1109/HICSS.2015.362},
-  author = {Samhan, Bahae and Joshi, K. D.},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Resistance of Healthcare Information Technologies; Literature Review, Analysis, and Gaps},
-  year = {2015},
-  url = {https://ieeexplore.ieee.org/document/7070177}
+  doi        = {10.1109/HICSS.2015.362},
+  author     = {Samhan, Bahae and Joshi, K. D.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Resistance of Healthcare Information Technologies; Literature Review, Analysis, and Gaps},
+  year       = {2015},
+  url        = {https://ieeexplore.ieee.org/document/7070177}
 }
 ```

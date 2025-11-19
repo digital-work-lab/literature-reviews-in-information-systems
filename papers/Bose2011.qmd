@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Bose2011,
-  author = {Bose, Ranjit and Luo, Xin},
-  title = {Integrative Framework for Assessing Firms' Potential to Undertake Green IT Initiatives Via Virtualization –A Theoretical Perspective},
-  year = {2011},
-  journal = {The Journal of Strategic Information Systems},
-  volume = {20},
-  number = {1},
-  pages = {38--54}
+  author     = {Bose, Ranjit and Luo, Xin},
+  title      = {Integrative Framework for Assessing Firms' Potential to Undertake Green IT Initiatives Via Virtualization –A Theoretical Perspective},
+  year       = {2011},
+  journal    = {The Journal of Strategic Information Systems},
+  volume     = {20},
+  number     = {1},
+  pages      = {38--54}
 }
 ```

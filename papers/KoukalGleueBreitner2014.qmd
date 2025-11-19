@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{KoukalGleueBreitner2014,
-  author = {Koukal, André and Gleue, Christoph and Breitner, Michael H.},
-  booktitle = {International Conference on Information Systems},
-  title = {Enhancing Literature Review Methods - Evaluation of a Literature Search Approach based on Latent Semantic Indexing},
-  year = {2014},
-  url = {http://aisel.aisnet.org/icis2014/proceedings/ResearchMethods/9}
+  author     = {Koukal, André and Gleue, Christoph and Breitner, Michael H.},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Enhancing Literature Review Methods - Evaluation of a Literature Search Approach based on Latent Semantic Indexing},
+  year       = {2014},
+  url        = {http://aisel.aisnet.org/icis2014/proceedings/ResearchMethods/9}
 }
 ```

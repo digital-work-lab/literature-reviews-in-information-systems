@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{OatesEdwardsWainwright2012,
-  author = {Oates, Briony June and Edwards, Helen M. and Wainwright, David W.},
-  booktitle = {International Conference on Information Systems},
-  title = {A Model-Driven Method for the Systematic Literature Review of Qualitative Empirical Research},
-  year = {2012},
-  url = {http://aisel.aisnet.org/icis2012/proceedings/ResearchMethods/5}
+  author     = {Oates, Briony June and Edwards, Helen M. and Wainwright, David W.},
+  booktitle  = {International Conference on Information Systems},
+  title      = {A Model-Driven Method for the Systematic Literature Review of Qualitative Empirical Research},
+  year       = {2012},
+  url        = {http://aisel.aisnet.org/icis2012/proceedings/ResearchMethods/5}
 }
 ```

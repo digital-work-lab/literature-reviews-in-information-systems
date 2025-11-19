@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{LiLuoZhang2021,
-  author = {Li, Yi and Luo, Hao and Zhang, Chi},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Empathy Games for Depression Using Virtual Reality - A Literature Review and A Study Design},
-  year = {2021},
-  url = {http://hdl.handle.net/10125/71104}
+  author     = {Li, Yi and Luo, Hao and Zhang, Chi},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Empathy Games for Depression Using Virtual Reality - A Literature Review and A Study Design},
+  year       = {2021},
+  url        = {http://hdl.handle.net/10125/71104}
 }
 ```

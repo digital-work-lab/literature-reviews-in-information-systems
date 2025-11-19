@@ -16,11 +16,11 @@ Citation:
 
 ```bibtex
 @inproceedings{HaddaraZach2011,
-  doi = {10.1109/HICSS.2011.191},
-  author = {Haddara, Moutaz and Zach, Ondrej},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {ERP Systems in SMEs - A Literature Review},
-  year = {2011},
-  url = {https://ieeexplore.ieee.org/document/5718924}
+  doi        = {10.1109/HICSS.2011.191},
+  author     = {Haddara, Moutaz and Zach, Ondrej},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {ERP Systems in SMEs - A Literature Review},
+  year       = {2011},
+  url        = {https://ieeexplore.ieee.org/document/5718924}
 }
 ```

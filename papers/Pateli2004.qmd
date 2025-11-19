@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Pateli2004,
-  author = {Pateli, Adamantia G. and Giaglis, George M.},
-  title = {A Research Framework for Analysing eBusiness Models},
-  year = {2004},
-  journal = {European Journal of Information Systems},
-  volume = {13},
-  number = {4},
-  pages = {302--314}
+  author     = {Pateli, Adamantia G. and Giaglis, George M.},
+  title      = {A Research Framework for Analysing eBusiness Models},
+  year       = {2004},
+  journal    = {European Journal of Information Systems},
+  volume     = {13},
+  number     = {4},
+  pages      = {302--314}
 }
 ```

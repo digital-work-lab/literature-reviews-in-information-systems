@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{BrendelMandrella2016,
-  author = {Brendel, Alfred Benedikt and Mandrella, Markus},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Information Systems in the Context of Sustainable Mobility Services - A Literature Review and Directions for Future Research},
-  year = {2016},
-  url = {https://aisel.aisnet.org/amcis2016/GreenIS/Presentations/7}
+  author     = {Brendel, Alfred Benedikt and Mandrella, Markus},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Information Systems in the Context of Sustainable Mobility Services - A Literature Review and Directions for Future Research},
+  year       = {2016},
+  url        = {https://aisel.aisnet.org/amcis2016/GreenIS/Presentations/7}
 }
 ```

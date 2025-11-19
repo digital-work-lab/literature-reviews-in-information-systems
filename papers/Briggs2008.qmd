@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Briggs2008,
-  author = {Briggs, Robert O. and Reinig, Bruce A. and de Vreede, Gert-Jan},
-  title = {The Yield Shift Theory of Satisfaction and Its Application to the IS/IT Domain},
-  year = {2008},
-  journal = {Journal of the Association for Information Systems},
-  volume = {9},
-  number = {5},
-  pages = {267--293}
+  author     = {Briggs, Robert O. and Reinig, Bruce A. and de Vreede, Gert-Jan},
+  title      = {The Yield Shift Theory of Satisfaction and Its Application to the IS/IT Domain},
+  year       = {2008},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {9},
+  number     = {5},
+  pages      = {267--293}
 }
 ```

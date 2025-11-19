@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{BornerGoeken2009,
-  author = {Börner, René and Goeken, Matthias},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Identification of Business Services Literature Review and Lessons Learned},
-  year = {2009},
-  url = {https://aisel.aisnet.org/amcis2009/106}
+  author     = {Börner, René and Goeken, Matthias},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Identification of Business Services Literature Review and Lessons Learned},
+  year       = {2009},
+  url        = {https://aisel.aisnet.org/amcis2009/106}
 }
 ```

@@ -16,11 +16,11 @@ Citation:
 
 ```bibtex
 @inproceedings{OckerMudambi2003,
-  doi = {10.1109/HICSS.2003.1174390},
-  author = {Ocker, Rosalie J. and Mudambi, Susan M.},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Assessing the readiness of firms for CRM - a literature review and research model},
-  year = {2003},
-  url = {https://ieeexplore.ieee.org/document/1174390}
+  doi        = {10.1109/HICSS.2003.1174390},
+  author     = {Ocker, Rosalie J. and Mudambi, Susan M.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Assessing the readiness of firms for CRM - a literature review and research model},
+  year       = {2003},
+  url        = {https://ieeexplore.ieee.org/document/1174390}
 }
 ```

@@ -16,14 +16,14 @@ Citation:
 
 ```bibtex
 @article{SchatzBashroush2017,
-  doi = {10.1007/S10796-016-9648-8},
-  author = {Schatz, Daniel and Bashroush, Rabih},
-  journal = {Information Systems Frontiers},
-  title = {Economic valuation for information security investment: a systematic literature review},
-  year = {2017},
-  volume = {19},
-  number = {5},
-  pages = {1205--1228},
-  url = {https://link.springer.com/article/10.1007/s10796-016-9648-8}
+  doi        = {10.1007/S10796-016-9648-8},
+  author     = {Schatz, Daniel and Bashroush, Rabih},
+  journal    = {Information Systems Frontiers},
+  title      = {Economic valuation for information security investment: a systematic literature review},
+  year       = {2017},
+  volume     = {19},
+  number     = {5},
+  pages      = {1205--1228},
+  url        = {https://link.springer.com/article/10.1007/s10796-016-9648-8}
 }
 ```

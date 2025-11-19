@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{RosaGuerreiroPereira2021,
-  author = {Rosa, Mariana and Guerreiro, Sérgio and Pereira, Rúben},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Designing an IT Risk Management Ontology grounded on Systematic Literature Review},
-  year = {2021},
-  url = {http://hdl.handle.net/10125/71349}
+  author     = {Rosa, Mariana and Guerreiro, Sérgio and Pereira, Rúben},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Designing an IT Risk Management Ontology grounded on Systematic Literature Review},
+  year       = {2021},
+  url        = {http://hdl.handle.net/10125/71349}
 }
 ```

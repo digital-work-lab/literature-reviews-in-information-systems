@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HemmerSchemmerVossingEtAl2021,
-  author = {Hemmer, Patrick and Schemmer, Max and Vössing, Michael and Kühl, Niklas},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Human-AI Complementarity in Hybrid Intelligence Systems - A Structured Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/pacis2021/78}
+  author     = {Hemmer, Patrick and Schemmer, Max and Vössing, Michael and Kühl, Niklas},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Human-AI Complementarity in Hybrid Intelligence Systems - A Structured Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/78}
 }
 ```

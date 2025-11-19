@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Lacity2011,
-  author = {Lacity, Mary C. and Solomon, Stan and Yan, Aihua and Willcocks, Leslie P.},
-  title = {Business Process Outsourcing Studies: A Critical Review and Research Directions},
-  year = {2011},
-  journal = {Journal of Information Technology},
-  volume = {26},
-  number = {4},
-  pages = {221--258}
+  author     = {Lacity, Mary C. and Solomon, Stan and Yan, Aihua and Willcocks, Leslie P.},
+  title      = {Business Process Outsourcing Studies: A Critical Review and Research Directions},
+  year       = {2011},
+  journal    = {Journal of Information Technology},
+  volume     = {26},
+  number     = {4},
+  pages      = {221--258}
 }
 ```

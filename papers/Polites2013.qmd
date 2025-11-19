@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Polites2013,
-  author = {Polites, Greta L. and Karahanna, Elena},
-  title = {The Embeddedness of Information Systems Habits in Organizational and Individual Level Routines: Development and Disruption},
-  year = {2013},
-  journal = {MIS Quarterly},
-  volume = {37},
-  number = {1},
-  pages = {221--246}
+  author     = {Polites, Greta L. and Karahanna, Elena},
+  title      = {The Embeddedness of Information Systems Habits in Organizational and Individual Level Routines: Development and Disruption},
+  year       = {2013},
+  journal    = {MIS Quarterly},
+  volume     = {37},
+  number     = {1},
+  pages      = {221--246}
 }
 ```

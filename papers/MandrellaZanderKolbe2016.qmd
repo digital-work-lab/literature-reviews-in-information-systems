@@ -17,11 +17,11 @@ Citation:
 
 ```bibtex
 @inproceedings{MandrellaZanderKolbe2016,
-  doi = {10.1109/HICSS.2016.43},
-  author = {Mandrella, Markus and Zander, Sebastian and Kolbe, Lutz M.},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {IT-Based Value Co-Creation - A Literature Review and Directions for Future Research},
-  year = {2016},
-  url = {https://ieeexplore.ieee.org/document/7427218}
+  doi        = {10.1109/HICSS.2016.43},
+  author     = {Mandrella, Markus and Zander, Sebastian and Kolbe, Lutz M.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {IT-Based Value Co-Creation - A Literature Review and Directions for Future Research},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427218}
 }
 ```

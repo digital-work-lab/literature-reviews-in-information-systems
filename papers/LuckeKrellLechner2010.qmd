@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{LuckeKrellLechner2010,
-  author = {Lucke, Carsten and Krell, Sascha and Lechner, Ulrike},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Critical Issues in Enterprise Architecting - A Literature Review},
-  year = {2010},
-  url = {https://aisel.aisnet.org/amcis2010/305}
+  author     = {Lucke, Carsten and Krell, Sascha and Lechner, Ulrike},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Critical Issues in Enterprise Architecting - A Literature Review},
+  year       = {2010},
+  url        = {https://aisel.aisnet.org/amcis2010/305}
 }
 ```

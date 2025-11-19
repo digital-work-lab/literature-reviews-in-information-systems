@@ -18,13 +18,13 @@ Citation:
 
 ```bibtex
 @article{PourhabibiOngKamEtAl2020,
-  doi = {10.1016/J.DSS.2020.113303},
-  author = {Pourhabibi, Tahereh and Ong, Kok-Leong and Kam, Booi and Boo, Yee Ling},
-  journal = {Decision Support Systems},
-  title = {Fraud detection: A systematic literature review of graph-based anomaly detection approaches},
-  year = {2020},
-  volume = {133},
-  pages = {113303},
-  url = {https://www.sciencedirect.com/science/article/pii/S0167923620300580}
+  doi        = {10.1016/J.DSS.2020.113303},
+  author     = {Pourhabibi, Tahereh and Ong, Kok-Leong and Kam, Booi and Boo, Yee Ling},
+  journal    = {Decision Support Systems},
+  title      = {Fraud detection: A systematic literature review of graph-based anomaly detection approaches},
+  year       = {2020},
+  volume     = {133},
+  pages      = {113303},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0167923620300580}
 }
 ```

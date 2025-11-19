@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{DinterLorenz2012,
-  author = {Dinter, Barbara and Lorenz, Anja},
-  booktitle = {International Conference on Information Systems},
-  title = {Social Business Intelligence - a Literature Review and Research Agenda},
-  year = {2012},
-  url = {http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/104}
+  author     = {Dinter, Barbara and Lorenz, Anja},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Social Business Intelligence - a Literature Review and Research Agenda},
+  year       = {2012},
+  url        = {http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/104}
 }
 ```

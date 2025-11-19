@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{LindenSchmidt2016,
-  author = {Linden, Robert and Schmidt, Nikolaus},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Innovation Wanted - a literature Review on Innovation Sourcing Engagements},
-  year = {2016},
-  url = {https://aisel.aisnet.org/pacis2016/83}
+  author     = {Linden, Robert and Schmidt, Nikolaus},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Innovation Wanted - a literature Review on Innovation Sourcing Engagements},
+  year       = {2016},
+  url        = {https://aisel.aisnet.org/pacis2016/83}
 }
 ```

@@ -19,10 +19,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HoermannKieneggerLangermeierEtAl2011,
-  author = {Hoermann, Stefan and Kienegger, Harald and Langermeier, Melanie and Mayer, Manuel and Krcmar, Helmut},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Comparing Risk and Success Factors in ERP Projects - A Literature Review},
-  year = {2011},
-  url = {https://aisel.aisnet.org/amcis2011_submissions/241}
+  author     = {Hoermann, Stefan and Kienegger, Harald and Langermeier, Melanie and Mayer, Manuel and Krcmar, Helmut},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Comparing Risk and Success Factors in ERP Projects - A Literature Review},
+  year       = {2011},
+  url        = {https://aisel.aisnet.org/amcis2011_submissions/241}
 }
 ```

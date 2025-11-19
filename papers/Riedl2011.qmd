@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Riedl2011,
-  author = {Riedl, Christoph and Leimeister, Jan Marco and Krcmar, Helmut},
-  title = {Why E-Service Development is Different: A Literature Review},
-  year = {2011},
-  journal = {e-Service Journal},
-  volume = {8},
-  number = {1},
-  pages = {2--22}
+  author     = {Riedl, Christoph and Leimeister, Jan Marco and Krcmar, Helmut},
+  title      = {Why E-Service Development is Different: A Literature Review},
+  year       = {2011},
+  journal    = {e-Service Journal},
+  volume     = {8},
+  number     = {1},
+  pages      = {2--22}
 }
 ```

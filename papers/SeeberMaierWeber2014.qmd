@@ -17,11 +17,11 @@ Citation:
 
 ```bibtex
 @inproceedings{SeeberMaierWeber2014,
-  doi = {10.1109/HICSS.2014.66},
-  author = {Seeber, Isabella and Maier, Ronald and Weber, Barbara},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Opening the Black Box of Team Processes and Emergent States - A Literature Review and Agenda for Research on Team Facilitation},
-  year = {2014},
-  url = {https://ieeexplore.ieee.org/document/6758662}
+  doi        = {10.1109/HICSS.2014.66},
+  author     = {Seeber, Isabella and Maier, Ronald and Weber, Barbara},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Opening the Black Box of Team Processes and Emergent States - A Literature Review and Agenda for Research on Team Facilitation},
+  year       = {2014},
+  url        = {https://ieeexplore.ieee.org/document/6758662}
 }
 ```

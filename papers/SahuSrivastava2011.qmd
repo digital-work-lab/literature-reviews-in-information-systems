@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{SahuSrivastava2011,
-  author = {Sahu, Ganesh P. and Srivastava, Rajeev},
-  booktitle = {Americas Conference on Information Systems},
-  title = {A Literature Review and Classification of Green Computing Research},
-  year = {2011},
-  url = {https://aisel.aisnet.org/amcis2011_submissions/399}
+  author     = {Sahu, Ganesh P. and Srivastava, Rajeev},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {A Literature Review and Classification of Green Computing Research},
+  year       = {2011},
+  url        = {https://aisel.aisnet.org/amcis2011_submissions/399}
 }
 ```

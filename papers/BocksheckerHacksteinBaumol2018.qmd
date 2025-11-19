@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{BocksheckerHacksteinBaumol2018,
-  author = {Bockshecker, Alina and Hackstein, Sarah and Baumöl, Ulrike},
-  booktitle = {European Conference on Information Systems},
-  title = {Systematization of the term digital transformation and its phenomena from a socio-technical perspective - A literature review},
-  year = {2018},
-  url = {https://aisel.aisnet.org/ecis2018_rp/43}
+  author     = {Bockshecker, Alina and Hackstein, Sarah and Baumöl, Ulrike},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Systematization of the term digital transformation and its phenomena from a socio-technical perspective - A literature review},
+  year       = {2018},
+  url        = {https://aisel.aisnet.org/ecis2018_rp/43}
 }
 ```

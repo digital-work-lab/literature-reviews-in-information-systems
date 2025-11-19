@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{LinSuh2021,
-  author = {Lin, Yongqian and Suh, Ayoung},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {The Role of Spatial Ability in Learning with Virtual Reality - A Literature Review},
-  year = {2021},
-  url = {http://hdl.handle.net/10125/70622}
+  author     = {Lin, Yongqian and Suh, Ayoung},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {The Role of Spatial Ability in Learning with Virtual Reality - A Literature Review},
+  year       = {2021},
+  url        = {http://hdl.handle.net/10125/70622}
 }
 ```

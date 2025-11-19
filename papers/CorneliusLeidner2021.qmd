@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{CorneliusLeidner2021,
-  author = {Cornelius, Samia and Leidner, Dorothy E.},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Acceptance of Anthropomorphic Technology - A Literature Review},
-  year = {2021},
-  url = {http://hdl.handle.net/10125/71394}
+  author     = {Cornelius, Samia and Leidner, Dorothy E.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Acceptance of Anthropomorphic Technology - A Literature Review},
+  year       = {2021},
+  url        = {http://hdl.handle.net/10125/71394}
 }
 ```

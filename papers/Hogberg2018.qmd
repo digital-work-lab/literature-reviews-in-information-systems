@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Hogberg2018,
-  author = {Högberg, Karin},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Organizational Social Media - A Literature Review and Research Agenda},
-  year = {2018},
-  url = {http://hdl.handle.net/10125/50122}
+  author     = {Högberg, Karin},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Organizational Social Media - A Literature Review and Research Agenda},
+  year       = {2018},
+  url        = {http://hdl.handle.net/10125/50122}
 }
 ```

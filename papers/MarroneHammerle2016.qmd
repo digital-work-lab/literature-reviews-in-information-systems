@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MarroneHammerle2016,
-  author = {Marrone, Mauricio and Hammerle, Mara},
-  booktitle = {International Conference on Information Systems},
-  title = {An Integrated Literature Review - Establishing Relevance for Practitioners},
-  year = {2016},
-  url = {http://aisel.aisnet.org/icis2016/Methodological/Presentations/7}
+  author     = {Marrone, Mauricio and Hammerle, Mara},
+  booktitle  = {International Conference on Information Systems},
+  title      = {An Integrated Literature Review - Establishing Relevance for Practitioners},
+  year       = {2016},
+  url        = {http://aisel.aisnet.org/icis2016/Methodological/Presentations/7}
 }
 ```

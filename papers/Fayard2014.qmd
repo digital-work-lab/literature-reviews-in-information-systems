@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Fayard2014,
-  author = {Fayard, Anne-Laure and Weeks, John},
-  title = {Affordances for Practice},
-  year = {2014},
-  journal = {Information and Organization},
-  volume = {24},
-  number = {4},
-  pages = {236--249}
+  author     = {Fayard, Anne-Laure and Weeks, John},
+  title      = {Affordances for Practice},
+  year       = {2014},
+  journal    = {Information and Organization},
+  volume     = {24},
+  number     = {4},
+  pages      = {236--249}
 }
 ```

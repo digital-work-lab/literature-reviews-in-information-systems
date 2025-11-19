@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Vavilis2014,
-  author = {Vavilis, Sokratis and Petković, Milan and Zannone, Nicola},
-  title = {A Reference Model for Reputation Systems},
-  year = {2014},
-  journal = {Decision Support Systems},
-  volume = {61},
-  number = {no issue},
-  pages = {147--154}
+  author     = {Vavilis, Sokratis and Petković, Milan and Zannone, Nicola},
+  title      = {A Reference Model for Reputation Systems},
+  year       = {2014},
+  journal    = {Decision Support Systems},
+  volume     = {61},
+  number     = {no issue},
+  pages      = {147--154}
 }
 ```

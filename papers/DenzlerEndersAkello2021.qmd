@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{DenzlerEndersAkello2021,
-  author = {Denzler, Tim and Enders, Martin Robert and Akello, Patricia},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Towards a Semi-Automated Approach for Systematic Literature Reviews},
-  year = {2021},
-  url = {https://aisel.aisnet.org/amcis2021/art_intel_sem_tech_intelligent_systems/art_intel_sem_tech_intelligent_systems/4}
+  author     = {Denzler, Tim and Enders, Martin Robert and Akello, Patricia},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Towards a Semi-Automated Approach for Systematic Literature Reviews},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/amcis2021/art_intel_sem_tech_intelligent_systems/art_intel_sem_tech_intelligent_systems/4}
 }
 ```

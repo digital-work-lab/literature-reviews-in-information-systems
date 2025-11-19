@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Cram2019,
-  author = {Cram, W. Alec},
-  booktitle = {Americas Conference on Information Systems},
-  title = {(Re)considering the Concept of Reproducibility of Information Systems Literature Reviews},
-  year = {2019},
-  url = {https://aisel.aisnet.org/amcis2019/meta_research_is/meta_research_is/4}
+  author     = {Cram, W. Alec},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {(Re)considering the Concept of Reproducibility of Information Systems Literature Reviews},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/amcis2019/meta_research_is/meta_research_is/4}
 }
 ```

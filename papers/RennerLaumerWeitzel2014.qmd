@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{RennerLaumerWeitzel2014,
-  author = {Renner, Diana and Laumer, Sven and Weitzel, Tim},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Effectiveness and Efficiency of Blended Learning - A Literature Review},
-  year = {2014},
-  url = {https://aisel.aisnet.org/amcis2014/ISEducation/GeneralPresentations/15}
+  author     = {Renner, Diana and Laumer, Sven and Weitzel, Tim},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Effectiveness and Efficiency of Blended Learning - A Literature Review},
+  year       = {2014},
+  url        = {https://aisel.aisnet.org/amcis2014/ISEducation/GeneralPresentations/15}
 }
 ```

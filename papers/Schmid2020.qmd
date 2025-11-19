@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Schmid2020,
-  author = {Schmid, Isabel Maria},
-  booktitle = {European Conference on Information Systems},
-  title = {Influential Users in Social Media Networks - a literature Review},
-  year = {2020},
-  url = {https://aisel.aisnet.org/ecis2020_rp/98}
+  author     = {Schmid, Isabel Maria},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Influential Users in Social Media Networks - a literature Review},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/ecis2020_rp/98}
 }
 ```

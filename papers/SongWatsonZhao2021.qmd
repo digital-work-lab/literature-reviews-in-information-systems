@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{SongWatsonZhao2021,
-  author = {Song, Yuanyuan and Watson, Richard T. and Zhao, Xia},
-  booktitle = {International Conference on Information Systems},
-  title = {Literature Reviewing: Addressing the Jingle and Jangle Fallacies and Jungle Conundrum Using Graph Theory and NLP},
-  year = {2021},
-  url = {https://aisel.aisnet.org/icis2021/adv_in_theories/adv_in_theories/1}
+  author     = {Song, Yuanyuan and Watson, Richard T. and Zhao, Xia},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Literature Reviewing: Addressing the Jingle and Jangle Fallacies and Jungle Conundrum Using Graph Theory and NLP},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/icis2021/adv_in_theories/adv_in_theories/1}
 }
 ```

@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Robey2008,
-  author = {Robey, Daniel and Im, Ghiyoung and Wareham, Jonathan D.},
-  title = {Theoretical Foundations of Empirical Research on Interorganizational Systems: Assessing Past Contributions and Guiding Future Directions},
-  year = {2008},
-  journal = {Journal of the Association for Information Systems},
-  volume = {9},
-  number = {9},
-  pages = {497--518}
+  author     = {Robey, Daniel and Im, Ghiyoung and Wareham, Jonathan D.},
+  title      = {Theoretical Foundations of Empirical Research on Interorganizational Systems: Assessing Past Contributions and Guiding Future Directions},
+  year       = {2008},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {9},
+  number     = {9},
+  pages      = {497--518}
 }
 ```

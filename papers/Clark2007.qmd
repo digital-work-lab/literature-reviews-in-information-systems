@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Clark2007,
-  author = {Clark, Thomas D. Jr. and Jones, Mary C. and Armstrong, Curtis P.},
-  title = {The Dynamic Structure of Management Support Systems: Theory Development, Research Focus, and Directions},
-  year = {2007},
-  journal = {MIS Quarterly},
-  volume = {31},
-  number = {3},
-  pages = {579--615}
+  author     = {Clark, Thomas D. Jr. and Jones, Mary C. and Armstrong, Curtis P.},
+  title      = {The Dynamic Structure of Management Support Systems: Theory Development, Research Focus, and Directions},
+  year       = {2007},
+  journal    = {MIS Quarterly},
+  volume     = {31},
+  number     = {3},
+  pages      = {579--615}
 }
 ```

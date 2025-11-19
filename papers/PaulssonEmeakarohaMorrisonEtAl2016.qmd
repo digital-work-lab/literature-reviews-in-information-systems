@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{PaulssonEmeakarohaMorrisonEtAl2016,
-  author = {Paulsson, Victoria and Emeakaroha, Vincent C. and Morrison, John P. and Lynn, Theo},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Cloud Service Brokerage - A systematic literature review using a software development lifecycle},
-  year = {2016},
-  url = {https://aisel.aisnet.org/amcis2016/DigitalComm/Presentations/19}
+  author     = {Paulsson, Victoria and Emeakaroha, Vincent C. and Morrison, John P. and Lynn, Theo},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Cloud Service Brokerage - A systematic literature review using a software development lifecycle},
+  year       = {2016},
+  url        = {https://aisel.aisnet.org/amcis2016/DigitalComm/Presentations/19}
 }
 ```

@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{AhmedTwinomurinzi2019,
-  author = {Ahmed, Safa Yousif and Twinomurinzi, Hossana},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Exploring Semantic Interoperability in e-Government Interoperability Frameworks for intra-African collaboration - A Systematic Literature Review},
-  year = {2019},
-  url = {http://hdl.handle.net/10125/59754}
+  author     = {Ahmed, Safa Yousif and Twinomurinzi, Hossana},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Exploring Semantic Interoperability in e-Government Interoperability Frameworks for intra-African collaboration - A Systematic Literature Review},
+  year       = {2019},
+  url        = {http://hdl.handle.net/10125/59754}
 }
 ```

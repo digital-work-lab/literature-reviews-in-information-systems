@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Lacity2010,
-  author = {Lacity, Mary C. and Khan, Shaji A. and Yan, Aihua and Willcocks, Leslie P.},
-  title = {A Review of the IT Outsourcing Empirical Literature and Future Research Directions},
-  year = {2010},
-  journal = {Journal of Information Technology},
-  volume = {25},
-  number = {4},
-  pages = {395--433}
+  author     = {Lacity, Mary C. and Khan, Shaji A. and Yan, Aihua and Willcocks, Leslie P.},
+  title      = {A Review of the IT Outsourcing Empirical Literature and Future Research Directions},
+  year       = {2010},
+  journal    = {Journal of Information Technology},
+  volume     = {25},
+  number     = {4},
+  pages      = {395--433}
 }
 ```

@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Whelan2007,
-  author = {Whelan, Eoin},
-  title = {Exploring Knowledge Exchange in Electronic Networks of Practice},
-  year = {2007},
-  journal = {Journal of Information Technology},
-  volume = {22},
-  number = {1},
-  pages = {5--12}
+  author     = {Whelan, Eoin},
+  title      = {Exploring Knowledge Exchange in Electronic Networks of Practice},
+  year       = {2007},
+  journal    = {Journal of Information Technology},
+  volume     = {22},
+  number     = {1},
+  pages      = {5--12}
 }
 ```

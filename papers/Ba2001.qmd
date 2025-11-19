@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Ba2001,
-  author = {Ba, Sulin and Stallaert, Jan and Whinston, Andrew B.},
-  title = {Research Commentary: Introducing a Third Dimension in Information Systems Design—the Case for Incentive Alignment},
-  year = {2001},
-  journal = {Information Systems Research},
-  volume = {12},
-  number = {3},
-  pages = {225--239}
+  author     = {Ba, Sulin and Stallaert, Jan and Whinston, Andrew B.},
+  title      = {Research Commentary: Introducing a Third Dimension in Information Systems Design—the Case for Incentive Alignment},
+  year       = {2001},
+  journal    = {Information Systems Research},
+  volume     = {12},
+  number     = {3},
+  pages      = {225--239}
 }
 ```

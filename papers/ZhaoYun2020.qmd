@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{ZhaoYun2020,
-  author = {Zhao, Wenjin and Yun, Xu},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {A Literature Review on Social Media Marketing - Social, Behavioral and Market-related Influences},
-  year = {2020},
-  url = {https://aisel.aisnet.org/pacis2020/92}
+  author     = {Zhao, Wenjin and Yun, Xu},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {A Literature Review on Social Media Marketing - Social, Behavioral and Market-related Influences},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/pacis2020/92}
 }
 ```

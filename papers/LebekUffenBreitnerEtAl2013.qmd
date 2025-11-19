@@ -19,11 +19,11 @@ Citation:
 
 ```bibtex
 @inproceedings{LebekUffenBreitnerEtAl2013,
-  doi = {10.1109/HICSS.2013.192},
-  author = {Lebek, Benedikt and Uffen, Jörg and Breitner, Michael H. and Neumann, Markus and Hohler, Bernd},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Employees' Information Security Awareness and Behavior - A Literature Review},
-  year = {2013},
-  url = {https://ieeexplore.ieee.org/document/6480203}
+  doi        = {10.1109/HICSS.2013.192},
+  author     = {Lebek, Benedikt and Uffen, Jörg and Breitner, Michael H. and Neumann, Markus and Hohler, Bernd},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Employees' Information Security Awareness and Behavior - A Literature Review},
+  year       = {2013},
+  url        = {https://ieeexplore.ieee.org/document/6480203}
 }
 ```

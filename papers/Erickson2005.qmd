@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Erickson2005,
-  author = {Erickson, John and Lyytinen, Kalle and Siau, Keng},
-  title = {Agile Modeling, Agile Software Development, and Extreme Programming: The State of Research},
-  year = {2005},
-  journal = {Journal of Database Management},
-  volume = {16},
-  number = {4},
-  pages = {88--100}
+  author     = {Erickson, John and Lyytinen, Kalle and Siau, Keng},
+  title      = {Agile Modeling, Agile Software Development, and Extreme Programming: The State of Research},
+  year       = {2005},
+  journal    = {Journal of Database Management},
+  volume     = {16},
+  number     = {4},
+  pages      = {88--100}
 }
 ```

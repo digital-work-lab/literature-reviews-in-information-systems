@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Zhang2008,
-  author = {Zhang, Dongsong and Lowry, Paul Benjamin},
-  title = {Issues, Limitations, and Opportunities in Cross-Cultural Research on Collaborative Software in Information Systems},
-  year = {2008},
-  journal = {Journal of Global Information Management},
-  volume = {16},
-  number = {1},
-  pages = {61--84}
+  author     = {Zhang, Dongsong and Lowry, Paul Benjamin},
+  title      = {Issues, Limitations, and Opportunities in Cross-Cultural Research on Collaborative Software in Information Systems},
+  year       = {2008},
+  journal    = {Journal of Global Information Management},
+  volume     = {16},
+  number     = {1},
+  pages      = {61--84}
 }
 ```

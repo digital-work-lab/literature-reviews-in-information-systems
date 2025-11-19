@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Chatfield2014,
-  author = {Chatfield, Akemi Takeoka and Shlemoon, Vivian Najem and Redublado, Wilbur and Darbyshire, Gary},
-  title = {Creating Value through Virtual Teams: A Current Literature Review},
-  year = {2014},
-  journal = {Australasian Journal of Information Systems},
-  volume = {18},
-  number = {3},
-  pages = {257--269}
+  author     = {Chatfield, Akemi Takeoka and Shlemoon, Vivian Najem and Redublado, Wilbur and Darbyshire, Gary},
+  title      = {Creating Value through Virtual Teams: A Current Literature Review},
+  year       = {2014},
+  journal    = {Australasian Journal of Information Systems},
+  volume     = {18},
+  number     = {3},
+  pages      = {257--269}
 }
 ```

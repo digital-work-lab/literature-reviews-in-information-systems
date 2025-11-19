@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Sidorova2008,
-  author = {Sidorova, Anna and Evangelopoulos, Nicholas and Valacich, Joseph S. and Ramakrishnan, Thiagarajan},
-  title = {Uncovering the Intellectual Core of the Information Systems Discipline},
-  year = {2008},
-  journal = {MIS Quarterly},
-  volume = {32},
-  number = {3},
-  pages = {467--482}
+  author     = {Sidorova, Anna and Evangelopoulos, Nicholas and Valacich, Joseph S. and Ramakrishnan, Thiagarajan},
+  title      = {Uncovering the Intellectual Core of the Information Systems Discipline},
+  year       = {2008},
+  journal    = {MIS Quarterly},
+  volume     = {32},
+  number     = {3},
+  pages      = {467--482}
 }
 ```

@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{WilsonLinLongstreetEtAl2011,
-  author = {Wilson, David W. and Lin, Xiaolin and Longstreet, Phil and Sarker, Saonee},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Web 2.0 - A Definition, Literature Review, and Directions for Future Research},
-  year = {2011},
-  url = {https://aisel.aisnet.org/amcis2011_submissions/368}
+  author     = {Wilson, David W. and Lin, Xiaolin and Longstreet, Phil and Sarker, Saonee},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Web 2.0 - A Definition, Literature Review, and Directions for Future Research},
+  year       = {2011},
+  url        = {https://aisel.aisnet.org/amcis2011_submissions/368}
 }
 ```

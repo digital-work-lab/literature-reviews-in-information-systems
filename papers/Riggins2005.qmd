@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Riggins2005,
-  author = {Dewan, Sanjeev and Riggins, Frederick J.},
-  title = {The Digital Divide: Current and Future Research Directions},
-  year = {2005},
-  journal = {Journal of the Association for Information Systems},
-  volume = {6},
-  number = {12},
-  pages = {298--336}
+  author     = {Dewan, Sanjeev and Riggins, Frederick J.},
+  title      = {The Digital Divide: Current and Future Research Directions},
+  year       = {2005},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {6},
+  number     = {12},
+  pages      = {298--336}
 }
 ```

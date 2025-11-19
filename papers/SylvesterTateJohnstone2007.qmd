@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{SylvesterTateJohnstone2007,
-  author = {Sylvester, Allan and Tate, Mary and Johnstone, David},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Re-presenting the Literature Review - A Rich Picture of Service Quality Research in Information Systems},
-  year = {2007},
-  url = {https://aisel.aisnet.org/pacis2007/113}
+  author     = {Sylvester, Allan and Tate, Mary and Johnstone, David},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Re-presenting the Literature Review - A Rich Picture of Service Quality Research in Information Systems},
+  year       = {2007},
+  url        = {https://aisel.aisnet.org/pacis2007/113}
 }
 ```

@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Li2006a,
-  author = {Li, Yuan and Kettinger, William J.},
-  title = {An Evolutionary Information-Processing Theory of Knowledge Creation},
-  year = {2006},
-  journal = {Journal of the Association for Information Systems},
-  volume = {7},
-  number = {9},
-  pages = {593--617}
+  author     = {Li, Yuan and Kettinger, William J.},
+  title      = {An Evolutionary Information-Processing Theory of Knowledge Creation},
+  year       = {2006},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {7},
+  number     = {9},
+  pages      = {593--617}
 }
 ```

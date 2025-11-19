@@ -18,11 +18,11 @@ Citation:
 
 ```bibtex
 @inproceedings{AbramovaBaumannKrasnovaEtAl2016,
-  doi = {10.1109/HICSS.2016.481},
-  author = {Abramova, Olga and Baumann, Annika and Krasnova, Hanna and Buxmann, Peter},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Gender Differences in Online Dating - What Do We Know So Far? A Systematic Literature Review},
-  year = {2016},
-  url = {https://ieeexplore.ieee.org/document/7427665}
+  doi        = {10.1109/HICSS.2016.481},
+  author     = {Abramova, Olga and Baumann, Annika and Krasnova, Hanna and Buxmann, Peter},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Gender Differences in Online Dating - What Do We Know So Far? A Systematic Literature Review},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427665}
 }
 ```

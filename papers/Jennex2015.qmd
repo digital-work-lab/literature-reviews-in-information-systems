@@ -15,13 +15,13 @@ Citation:
 
 ```bibtex
 @article{Jennex2015,
-  doi = {10.17705/1CAIS.03608},
-  author = {Jennex, Murray E.},
-  journal = {Communications of the Association for Information Systems},
-  title = {Literature Reviews and the Review Process - An Editor-in-Chief's Perspective},
-  year = {2015},
-  volume = {36},
-  url = {https://aisel.aisnet.org/cais/vol36/iss1/8},
-  cited_by = {6}
+  doi        = {10.17705/1CAIS.03608},
+  author     = {Jennex, Murray E.},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Literature Reviews and the Review Process - An Editor-in-Chief's Perspective},
+  year       = {2015},
+  volume     = {36},
+  url        = {https://aisel.aisnet.org/cais/vol36/iss1/8},
+  cited_by   = {6}
 }
 ```

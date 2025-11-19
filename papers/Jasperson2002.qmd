@@ -20,12 +20,12 @@ Citation:
 
 ```bibtex
 @article{Jasperson2002,
-  author = {Jasperson, Jon Sean and Carte, Traci and Saunders, Carol S. and Butler, Brian S. and Croes, Henry J. P. and Zheng, Weijun},
-  title = {Review: Power and Information Technology Research: A Metatriangulation Review},
-  year = {2002},
-  journal = {MIS Quarterly},
-  volume = {26},
-  number = {4},
-  pages = {397--459}
+  author     = {Jasperson, Jon Sean and Carte, Traci and Saunders, Carol S. and Butler, Brian S. and Croes, Henry J. P. and Zheng, Weijun},
+  title      = {Review: Power and Information Technology Research: A Metatriangulation Review},
+  year       = {2002},
+  journal    = {MIS Quarterly},
+  volume     = {26},
+  number     = {4},
+  pages      = {397--459}
 }
 ```

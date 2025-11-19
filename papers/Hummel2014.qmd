@@ -15,11 +15,11 @@ Citation:
 
 ```bibtex
 @inproceedings{Hummel2014,
-  doi = {10.1109/HICSS.2014.579},
-  author = {Hummel, Markus},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {State-of-the-Art - A Systematic Literature Review on Agile Information Systems Development},
-  year = {2014},
-  url = {https://ieeexplore.ieee.org/document/6759181}
+  doi        = {10.1109/HICSS.2014.579},
+  author     = {Hummel, Markus},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {State-of-the-Art - A Systematic Literature Review on Agile Information Systems Development},
+  year       = {2014},
+  url        = {https://ieeexplore.ieee.org/document/6759181}
 }
 ```

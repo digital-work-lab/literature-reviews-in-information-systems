@@ -16,11 +16,11 @@ Citation:
 
 ```bibtex
 @inproceedings{KaufmannChamoni2014,
-  doi = {10.1109/HICSS.2014.465},
-  author = {Kaufmann, Jens and Chamoni, Peter},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Structuring Collaborative Business Intelligence - A Literature Review},
-  year = {2014},
-  url = {https://ieeexplore.ieee.org/document/6759067}
+  doi        = {10.1109/HICSS.2014.465},
+  author     = {Kaufmann, Jens and Chamoni, Peter},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Structuring Collaborative Business Intelligence - A Literature Review},
+  year       = {2014},
+  url        = {https://ieeexplore.ieee.org/document/6759067}
 }
 ```

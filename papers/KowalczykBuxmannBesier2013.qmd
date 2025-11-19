@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{KowalczykBuxmannBesier2013,
-  author = {Kowalczyk, Martin and Buxmann, Peter and Besier, Jörg},
-  booktitle = {European Conference on Information Systems},
-  title = {Investigating Business Intelligence And Analytics From A Decision Process Perspective - A Structured Literature Review},
-  year = {2013},
-  url = {http://aisel.aisnet.org/ecis2013_cr/126}
+  author     = {Kowalczyk, Martin and Buxmann, Peter and Besier, Jörg},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Investigating Business Intelligence And Analytics From A Decision Process Perspective - A Structured Literature Review},
+  year       = {2013},
+  url        = {http://aisel.aisnet.org/ecis2013_cr/126}
 }
 ```

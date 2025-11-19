@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Belanger2011,
-  author = {Bélanger, France and Crossler, Robert E.},
-  title = {Privacy in the Digital Age: A Review of Information Privacy Research in Information Systems},
-  year = {2011},
-  journal = {MIS Quarterly},
-  volume = {35},
-  number = {4},
-  pages = {1017--1041}
+  author     = {Bélanger, France and Crossler, Robert E.},
+  title      = {Privacy in the Digital Age: A Review of Information Privacy Research in Information Systems},
+  year       = {2011},
+  journal    = {MIS Quarterly},
+  volume     = {35},
+  number     = {4},
+  pages      = {1017--1041}
 }
 ```

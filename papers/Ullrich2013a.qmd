@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Ullrich2013a,
-  author = {Ullrich, Christian},
-  title = {Valuation of IT Investments Using Real Options Theory},
-  year = {2013},
-  journal = {Business & Information Systems Engineering},
-  volume = {5},
-  number = {5},
-  pages = {331--341}
+  author     = {Ullrich, Christian},
+  title      = {Valuation of IT Investments Using Real Options Theory},
+  year       = {2013},
+  journal    = {Business & Information Systems Engineering},
+  volume     = {5},
+  number     = {5},
+  pages      = {331--341}
 }
 ```

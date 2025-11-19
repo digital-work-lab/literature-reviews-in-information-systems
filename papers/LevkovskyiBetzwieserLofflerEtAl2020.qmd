@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{LevkovskyiBetzwieserLofflerEtAl2020,
-  author = {Levkovskyi, Borys and Betzwieser, Benedikt and Löffler, Alexander and Wittges, Holger},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Why Do Organizations Change? A Literature Review on Drivers and Measures of Success for Digital Transformation},
-  year = {2020},
-  url = {https://aisel.aisnet.org/amcis2020/org_transformation_is/org_transformation_is/25}
+  author     = {Levkovskyi, Borys and Betzwieser, Benedikt and Löffler, Alexander and Wittges, Holger},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Why Do Organizations Change? A Literature Review on Drivers and Measures of Success for Digital Transformation},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/amcis2020/org_transformation_is/org_transformation_is/25}
 }
 ```

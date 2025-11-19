@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{LiZhangLuo2021,
-  author = {Li, Yi and Zhang, Chi and Luo, Hao Irene},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Using Mixed Reality in K-12 Education - A Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/amcis2021/sig_hci/sig_hci/22}
+  author     = {Li, Yi and Zhang, Chi and Luo, Hao Irene},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Using Mixed Reality in K-12 Education - A Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/amcis2021/sig_hci/sig_hci/22}
 }
 ```

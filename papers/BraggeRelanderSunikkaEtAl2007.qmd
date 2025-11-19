@@ -18,11 +18,11 @@ Citation:
 
 ```bibtex
 @inproceedings{BraggeRelanderSunikkaEtAl2007,
-  doi = {10.1109/HICSS.2007.209},
-  author = {Bragge, Johanna and Relander, Sami and Sunikka, Anne and Mannonen, Petri},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Enriching Literature Reviews with Computer-Assisted Research Mining. Case - Profiling Group Support Systems Research},
-  year = {2007},
-  url = {https://ieeexplore.ieee.org/document/4076874}
+  doi        = {10.1109/HICSS.2007.209},
+  author     = {Bragge, Johanna and Relander, Sami and Sunikka, Anne and Mannonen, Petri},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Enriching Literature Reviews with Computer-Assisted Research Mining. Case - Profiling Group Support Systems Research},
+  year       = {2007},
+  url        = {https://ieeexplore.ieee.org/document/4076874}
 }
 ```

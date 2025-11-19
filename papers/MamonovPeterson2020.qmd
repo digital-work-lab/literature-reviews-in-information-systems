@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MamonovPeterson2020,
-  author = {Mamonov, Stanislav and Peterson, Richard},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {The Role of IT in Innovation at the Organizational Level - A Literature Review},
-  year = {2020},
-  url = {http://hdl.handle.net/10125/64322}
+  author     = {Mamonov, Stanislav and Peterson, Richard},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {The Role of IT in Innovation at the Organizational Level - A Literature Review},
+  year       = {2020},
+  url        = {http://hdl.handle.net/10125/64322}
 }
 ```

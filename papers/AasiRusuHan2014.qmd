@@ -17,11 +17,11 @@ Citation:
 
 ```bibtex
 @inproceedings{AasiRusuHan2014,
-  doi = {10.1109/HICSS.2014.546},
-  author = {Aasi, Parisa and Rusu, Lazar and Han, Shengnan},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {The Influence of Culture on IT Governance - A Literature Review},
-  year = {2014},
-  url = {https://ieeexplore.ieee.org/document/6759148}
+  doi        = {10.1109/HICSS.2014.546},
+  author     = {Aasi, Parisa and Rusu, Lazar and Han, Shengnan},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {The Influence of Culture on IT Governance - A Literature Review},
+  year       = {2014},
+  url        = {https://ieeexplore.ieee.org/document/6759148}
 }
 ```

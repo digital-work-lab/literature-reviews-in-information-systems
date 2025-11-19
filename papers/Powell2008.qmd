@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Powell2008,
-  author = {Powell, Stephen G. and Baker, Kenneth R. and Lawson, Barry},
-  title = {A Critical Review of the Literature on Spreadsheet Errors},
-  year = {2008},
-  journal = {Decision Support Systems},
-  volume = {46},
-  number = {1},
-  pages = {128--138}
+  author     = {Powell, Stephen G. and Baker, Kenneth R. and Lawson, Barry},
+  title      = {A Critical Review of the Literature on Spreadsheet Errors},
+  year       = {2008},
+  journal    = {Decision Support Systems},
+  volume     = {46},
+  number     = {1},
+  pages      = {128--138}
 }
 ```

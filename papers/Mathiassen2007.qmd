@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Mathiassen2007,
-  author = {Mathiassen, Lars and Saarinen, Timo and Tuunanen, Tuure and Rossi, Matti},
-  title = {A Contingency Model for Requirements Development},
-  year = {2007},
-  journal = {Journal of the Association for Information Systems},
-  volume = {8},
-  number = {11},
-  pages = {569--597}
+  author     = {Mathiassen, Lars and Saarinen, Timo and Tuunanen, Tuure and Rossi, Matti},
+  title      = {A Contingency Model for Requirements Development},
+  year       = {2007},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {8},
+  number     = {11},
+  pages      = {569--597}
 }
 ```

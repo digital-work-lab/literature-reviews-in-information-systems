@@ -19,12 +19,12 @@ Citation:
 
 ```bibtex
 @article{Wang2008,
-  author = {Wang, Shan and Zheng, Shi and Xu, Lida and Li, Dezheng and Meng, Huan},
-  title = {A Literature Review of Electronic Marketplace Research: Themes, Theories and an Integrative Framework},
-  year = {2008},
-  journal = {Information Systems Frontiers},
-  volume = {10},
-  number = {5},
-  pages = {555--571}
+  author     = {Wang, Shan and Zheng, Shi and Xu, Lida and Li, Dezheng and Meng, Huan},
+  title      = {A Literature Review of Electronic Marketplace Research: Themes, Theories and an Integrative Framework},
+  year       = {2008},
+  journal    = {Information Systems Frontiers},
+  volume     = {10},
+  number     = {5},
+  pages      = {555--571}
 }
 ```

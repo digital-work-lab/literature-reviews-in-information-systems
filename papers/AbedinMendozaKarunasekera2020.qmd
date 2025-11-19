@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{AbedinMendozaKarunasekera2020,
-  author = {Abedin, Ehsan and Mendoza, Antonette and Karunasekera, Shanika},
-  booktitle = {International Conference on Information Systems},
-  title = {Credible vs Fake - A Literature Review on Differentiating Online Reviews based on Credibility},
-  year = {2020},
-  url = {https://aisel.aisnet.org/icis2020/social_media/social_media/2}
+  author     = {Abedin, Ehsan and Mendoza, Antonette and Karunasekera, Shanika},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Credible vs Fake - A Literature Review on Differentiating Online Reviews based on Credibility},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/icis2020/social_media/social_media/2}
 }
 ```

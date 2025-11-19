@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{VogelGrotherr2020,
-  author = {Vogel, Pascal and Grotherr, Christian},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Collaborating with the Crowd for Software Requirements Engineering - A Literature Review},
-  year = {2020},
-  url = {https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/1}
+  author     = {Vogel, Pascal and Grotherr, Christian},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Collaborating with the Crowd for Software Requirements Engineering - A Literature Review},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/1}
 }
 ```

@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Karsten2012,
-  author = {Karsten, Rex and Mitra, Atul and Schmidt, Dennis},
-  title = {Computer Self-Efficacy: A Meta-Analysis},
-  year = {2012},
-  journal = {Journal of Organizational and End User Computing},
-  volume = {24},
-  number = {4},
-  pages = {54--80}
+  author     = {Karsten, Rex and Mitra, Atul and Schmidt, Dennis},
+  title      = {Computer Self-Efficacy: A Meta-Analysis},
+  year       = {2012},
+  journal    = {Journal of Organizational and End User Computing},
+  volume     = {24},
+  number     = {4},
+  pages      = {54--80}
 }
 ```

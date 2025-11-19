@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Sun2013,
-  author = {Sun, Yongqiang and Lim, Kai H. and Peng, Jerry Zeyu},
-  title = {Solving the Distinctiveness--Blindness Debate: A Unified Model for Understanding Banner Processing},
-  year = {2013},
-  journal = {Journal of the Association for Information Systems},
-  volume = {14},
-  number = {2},
-  pages = {49--71}
+  author     = {Sun, Yongqiang and Lim, Kai H. and Peng, Jerry Zeyu},
+  title      = {Solving the Distinctiveness--Blindness Debate: A Unified Model for Understanding Banner Processing},
+  year       = {2013},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {14},
+  number     = {2},
+  pages      = {49--71}
 }
 ```

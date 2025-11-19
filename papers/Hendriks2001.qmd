@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Hendriks2001,
-  author = {Hendriks, Paul H. J.},
-  title = {Many Rivers to Cross: From ICT to Knowledge Management Systems},
-  year = {2001},
-  journal = {Journal of Information Technology},
-  volume = {16},
-  number = {2},
-  pages = {57--72}
+  author     = {Hendriks, Paul H. J.},
+  title      = {Many Rivers to Cross: From ICT to Knowledge Management Systems},
+  year       = {2001},
+  journal    = {Journal of Information Technology},
+  volume     = {16},
+  number     = {2},
+  pages      = {57--72}
 }
 ```

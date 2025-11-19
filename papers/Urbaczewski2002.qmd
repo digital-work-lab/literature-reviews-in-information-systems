@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Urbaczewski2002,
-  author = {Urbaczewski, Adrew and Jessup, Leonard M. and Wheeler, Bradley},
-  title = {Electronic Commerce Research: A Taxonomy and Synthesis},
-  year = {2002},
-  journal = {Journal of Organizational Computing and Electronic Commerce},
-  volume = {12},
-  number = {4},
-  pages = {263--305}
+  author     = {Urbaczewski, Adrew and Jessup, Leonard M. and Wheeler, Bradley},
+  title      = {Electronic Commerce Research: A Taxonomy and Synthesis},
+  year       = {2002},
+  journal    = {Journal of Organizational Computing and Electronic Commerce},
+  volume     = {12},
+  number     = {4},
+  pages      = {263--305}
 }
 ```

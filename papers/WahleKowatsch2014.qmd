@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{WahleKowatsch2014,
-  author = {Wahle, Fabian and Kowatsch, Tobias},
-  booktitle = {International Conference on Information Systems},
-  title = {Towards the Design of Evidence-based Mental Health Information Systems - A Preliminary Literature Review},
-  year = {2014},
-  url = {http://aisel.aisnet.org/icis2014/proceedings/ISHealthcare/17}
+  author     = {Wahle, Fabian and Kowatsch, Tobias},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Towards the Design of Evidence-based Mental Health Information Systems - A Preliminary Literature Review},
+  year       = {2014},
+  url        = {http://aisel.aisnet.org/icis2014/proceedings/ISHealthcare/17}
 }
 ```

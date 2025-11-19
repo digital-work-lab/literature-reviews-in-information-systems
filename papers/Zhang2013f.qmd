@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Zhang2013f,
-  author = {Zhang, Ping},
-  title = {The Affective Response Model: A Theoretical Framework of Affective Concepts and their Relationships in the ICT Context},
-  year = {2013},
-  journal = {MIS Quarterly},
-  volume = {37},
-  number = {1},
-  pages = {247--274}
+  author     = {Zhang, Ping},
+  title      = {The Affective Response Model: A Theoretical Framework of Affective Concepts and their Relationships in the ICT Context},
+  year       = {2013},
+  journal    = {MIS Quarterly},
+  volume     = {37},
+  number     = {1},
+  pages      = {247--274}
 }
 ```

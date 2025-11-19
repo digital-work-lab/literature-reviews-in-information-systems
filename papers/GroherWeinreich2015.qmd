@@ -16,11 +16,11 @@ Citation:
 
 ```bibtex
 @inproceedings{GroherWeinreich2015,
-  doi = {10.1109/HICSS.2015.634},
-  author = {Groher, Iris and Weinreich, Rainer},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Variability Support in Architecture Knowledge Management Approaches - A Systematic Literature Review},
-  year = {2015},
-  url = {https://ieeexplore.ieee.org/document/7070463}
+  doi        = {10.1109/HICSS.2015.634},
+  author     = {Groher, Iris and Weinreich, Rainer},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Variability Support in Architecture Knowledge Management Approaches - A Systematic Literature Review},
+  year       = {2015},
+  url        = {https://ieeexplore.ieee.org/document/7070463}
 }
 ```

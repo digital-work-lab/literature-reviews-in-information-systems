@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Christiaanse2004,
-  author = {Christiaanse, Ellen and van Diepen, Tonja and Damsgaard, Jan},
-  title = {Proprietary Versus Internet Technologies and the Adoption and Impact of Electronic Marketplaces},
-  year = {2004},
-  journal = {The Journal of Strategic Information Systems},
-  volume = {13},
-  number = {2},
-  pages = {151--165}
+  author     = {Christiaanse, Ellen and van Diepen, Tonja and Damsgaard, Jan},
+  title      = {Proprietary Versus Internet Technologies and the Adoption and Impact of Electronic Marketplaces},
+  year       = {2004},
+  journal    = {The Journal of Strategic Information Systems},
+  volume     = {13},
+  number     = {2},
+  pages      = {151--165}
 }
 ```

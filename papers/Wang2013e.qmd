@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Wang2013e,
-  author = {Wang, Qian Emily and Myers, Michael D. and Sundaram, David},
-  title = {Digital Natives and Digital Immigrants},
-  year = {2013},
-  journal = {Business & Information Systems Engineering},
-  volume = {5},
-  number = {6},
-  pages = {409--419}
+  author     = {Wang, Qian Emily and Myers, Michael D. and Sundaram, David},
+  title      = {Digital Natives and Digital Immigrants},
+  year       = {2013},
+  journal    = {Business & Information Systems Engineering},
+  volume     = {5},
+  number     = {6},
+  pages      = {409--419}
 }
 ```

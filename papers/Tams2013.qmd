@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Tams2013,
-  author = {Tams, Stefan},
-  title = {Moving Cultural Information Systems Research Toward Maturity: A Review of Definitions of the Culture Construct},
-  year = {2013},
-  journal = {Information Technology & People},
-  volume = {26},
-  number = {4},
-  pages = {383--400}
+  author     = {Tams, Stefan},
+  title      = {Moving Cultural Information Systems Research Toward Maturity: A Review of Definitions of the Culture Construct},
+  year       = {2013},
+  journal    = {Information Technology & People},
+  volume     = {26},
+  number     = {4},
+  pages      = {383--400}
 }
 ```

@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Lawrence2013,
-  author = {Lawrence, Carl},
-  title = {A Holistic Narrative of Culture's Mediation of Information Systems Innovation: A Qualitative Meta-Synthesis},
-  year = {2013},
-  journal = {Journal of Global Information Technology Management},
-  volume = {16},
-  number = {3},
-  pages = {31--52}
+  author     = {Lawrence, Carl},
+  title      = {A Holistic Narrative of Culture's Mediation of Information Systems Innovation: A Qualitative Meta-Synthesis},
+  year       = {2013},
+  journal    = {Journal of Global Information Technology Management},
+  volume     = {16},
+  number     = {3},
+  pages      = {31--52}
 }
 ```

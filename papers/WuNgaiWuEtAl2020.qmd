@@ -18,13 +18,13 @@ Citation:
 
 ```bibtex
 @article{WuNgaiWuEtAl2020,
-  doi = {10.1016/J.DSS.2020.113280},
-  author = {Wu, Yuanyuan and Ngai, Eric W. T. and Wu, Pengkun and Wu, Chong},
-  journal = {Decision Support Systems},
-  title = {Fake online reviews: Literature review, synthesis, and directions for future research},
-  year = {2020},
-  volume = {132},
-  pages = {113280},
-  url = {https://www.sciencedirect.com/science/article/pii/S016792362030035X}
+  doi        = {10.1016/J.DSS.2020.113280},
+  author     = {Wu, Yuanyuan and Ngai, Eric W. T. and Wu, Pengkun and Wu, Chong},
+  journal    = {Decision Support Systems},
+  title      = {Fake online reviews: Literature review, synthesis, and directions for future research},
+  year       = {2020},
+  volume     = {132},
+  pages      = {113280},
+  url        = {https://www.sciencedirect.com/science/article/pii/S016792362030035X}
 }
 ```

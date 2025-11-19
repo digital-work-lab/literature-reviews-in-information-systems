@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Leicht2018,
-  author = {Leicht, Niklas},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Given Enough Eyeballs, all Bugs are Shallow - A Literature Review for the Use of Crowdsourcing in Software Testing},
-  year = {2018},
-  url = {http://hdl.handle.net/10125/50404}
+  author     = {Leicht, Niklas},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Given Enough Eyeballs, all Bugs are Shallow - A Literature Review for the Use of Crowdsourcing in Software Testing},
+  year       = {2018},
+  url        = {http://hdl.handle.net/10125/50404}
 }
 ```

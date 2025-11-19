@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{BetzwieserLevkovskyiKrcmar2020,
-  author = {Betzwieser, Benedikt and Levkovskyi, Borys and Krcmar, Helmut},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {At the Nexus of Business Models and Business Processes - A Systematic Literature Review},
-  year = {2020},
-  url = {https://aisel.aisnet.org/pacis2020/150}
+  author     = {Betzwieser, Benedikt and Levkovskyi, Borys and Krcmar, Helmut},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {At the Nexus of Business Models and Business Processes - A Systematic Literature Review},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/pacis2020/150}
 }
 ```

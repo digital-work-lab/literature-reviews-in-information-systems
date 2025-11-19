@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Gwebu2007,
-  author = {Gwebu, Kholekile L. and Wang, Jing and Troutt, Marvin D.},
-  title = {A Conceptual Framework for Understanding Trust Building and Maintenance in Virtual Organizations},
-  year = {2007},
-  journal = {Journal of Information Technology Theory and Application},
-  volume = {9},
-  number = {1},
-  pages = {43--63}
+  author     = {Gwebu, Kholekile L. and Wang, Jing and Troutt, Marvin D.},
+  title      = {A Conceptual Framework for Understanding Trust Building and Maintenance in Virtual Organizations},
+  year       = {2007},
+  journal    = {Journal of Information Technology Theory and Application},
+  volume     = {9},
+  number     = {1},
+  pages      = {43--63}
 }
 ```

@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{ReinfelderWeishaupl2016,
-  author = {Reinfelder, Lena and Weishäupl, Eva},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {A literature Review on Smartphone Security in Organizations using a New Theoretical Model - the Dynamic Security Success Model},
-  year = {2016},
-  url = {https://aisel.aisnet.org/pacis2016/59}
+  author     = {Reinfelder, Lena and Weishäupl, Eva},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {A literature Review on Smartphone Security in Organizations using a New Theoretical Model - the Dynamic Security Success Model},
+  year       = {2016},
+  url        = {https://aisel.aisnet.org/pacis2016/59}
 }
 ```

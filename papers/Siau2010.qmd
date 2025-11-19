@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Siau2010,
-  author = {Siau, Keng and Long, Yoanna and Ling, Min},
-  title = {Toward a Unified Model of Information Systems Development Success},
-  year = {2010},
-  journal = {Journal of Database Management},
-  volume = {21},
-  number = {1},
-  pages = {80--101}
+  author     = {Siau, Keng and Long, Yoanna and Ling, Min},
+  title      = {Toward a Unified Model of Information Systems Development Success},
+  year       = {2010},
+  journal    = {Journal of Database Management},
+  volume     = {21},
+  number     = {1},
+  pages      = {80--101}
 }
 ```

@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Miranda2005,
-  author = {Miranda, Shaila M. and Kavan, C. Bruce},
-  title = {Moments of Governance in IS Outsourcing: Conceptualizing Effects of Contracts on Value Capture and Creation},
-  year = {2005},
-  journal = {Journal of Information Technology},
-  volume = {20},
-  number = {3},
-  pages = {152--169}
+  author     = {Miranda, Shaila M. and Kavan, C. Bruce},
+  title      = {Moments of Governance in IS Outsourcing: Conceptualizing Effects of Contracts on Value Capture and Creation},
+  year       = {2005},
+  journal    = {Journal of Information Technology},
+  volume     = {20},
+  number     = {3},
+  pages      = {152--169}
 }
 ```

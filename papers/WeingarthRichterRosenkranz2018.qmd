@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{WeingarthRichterRosenkranz2018,
-  author = {Weingarth, Janina and Richter, Janek and Rosenkranz, Christoph},
-  booktitle = {International Conference on Information Systems},
-  title = {Information Technology-Enabled Enterprise Agility and Environmental Turbulence " A Configurational Literature Review},
-  year = {2018},
-  url = {https://aisel.aisnet.org/icis2018/governance/Presentations/9}
+  author     = {Weingarth, Janina and Richter, Janek and Rosenkranz, Christoph},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Information Technology-Enabled Enterprise Agility and Environmental Turbulence " A Configurational Literature Review},
+  year       = {2018},
+  url        = {https://aisel.aisnet.org/icis2018/governance/Presentations/9}
 }
 ```

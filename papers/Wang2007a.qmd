@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Wang2007a,
-  author = {Wang, Jijie and Keil, Mark},
-  title = {A Meta-Analysis Comparing the Sunk Cost Effect for IT and Non-IT Projects},
-  year = {2007},
-  journal = {Information Resources Management Journal},
-  volume = {20},
-  number = {3},
-  pages = {1--18}
+  author     = {Wang, Jijie and Keil, Mark},
+  title      = {A Meta-Analysis Comparing the Sunk Cost Effect for IT and Non-IT Projects},
+  year       = {2007},
+  journal    = {Information Resources Management Journal},
+  volume     = {20},
+  number     = {3},
+  pages      = {1--18}
 }
 ```

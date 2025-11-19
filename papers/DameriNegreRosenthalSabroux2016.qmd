@@ -17,11 +17,11 @@ Citation:
 
 ```bibtex
 @inproceedings{DameriNegreRosenthalSabroux2016,
-  doi = {10.1109/HICSS.2016.372},
-  author = {Dameri, Renata Paola and Negre, Elsa and Rosenthal-Sabroux, Camille},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Triple Helix in Smart Cities - A Literature Review about the Vision of Public Bodies, Universities, and Private Companies},
-  year = {2016},
-  url = {https://ieeexplore.ieee.org/document/7427555}
+  doi        = {10.1109/HICSS.2016.372},
+  author     = {Dameri, Renata Paola and Negre, Elsa and Rosenthal-Sabroux, Camille},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Triple Helix in Smart Cities - A Literature Review about the Vision of Public Bodies, Universities, and Private Companies},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427555}
 }
 ```

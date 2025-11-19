@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{AbramovaWagnerKrasnovaEtAl2017,
-  author = {Abramova, Olga and Wagner, Amina and Krasnova, Hanna and Buxmann, Peter},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Understanding Self-Disclosure on Social Networking Sites - A Literature Review},
-  year = {2017},
-  url = {https://aisel.aisnet.org/amcis2017/AdoptionIT/Presentations/30}
+  author     = {Abramova, Olga and Wagner, Amina and Krasnova, Hanna and Buxmann, Peter},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Understanding Self-Disclosure on Social Networking Sites - A Literature Review},
+  year       = {2017},
+  url        = {https://aisel.aisnet.org/amcis2017/AdoptionIT/Presentations/30}
 }
 ```

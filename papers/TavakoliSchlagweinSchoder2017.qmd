@@ -17,14 +17,14 @@ Citation:
 
 ```bibtex
 @article{TavakoliSchlagweinSchoder2017,
-  doi = {10.1016/J.JSIS.2017.01.003},
-  author = {Tavakoli, Asin and Schlagwein, Daniel and Schoder, Detlef},
-  journal = {The Journal of Strategic Information Systems},
-  title = {Open strategy - Literature review, re-analysis of cases and conceptualisation as a practice},
-  year = {2017},
-  volume = {26},
-  number = {3},
-  pages = {163--184},
-  url = {https://www.sciencedirect.com/science/article/pii/S0963868717300240}
+  doi        = {10.1016/J.JSIS.2017.01.003},
+  author     = {Tavakoli, Asin and Schlagwein, Daniel and Schoder, Detlef},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Open strategy - Literature review, re-analysis of cases and conceptualisation as a practice},
+  year       = {2017},
+  volume     = {26},
+  number     = {3},
+  pages      = {163--184},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0963868717300240}
 }
 ```

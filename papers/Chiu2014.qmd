@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Chiu2014,
-  author = {Chiu, Chao-Min and Liang, Ting-Peng and Turban, Efraim},
-  title = {What Can Crowdsourcing Do for Decision Support?},
-  year = {2014},
-  journal = {Decision Support Systems},
-  volume = {65},
-  number = {no issue},
-  pages = {40--49}
+  author     = {Chiu, Chao-Min and Liang, Ting-Peng and Turban, Efraim},
+  title      = {What Can Crowdsourcing Do for Decision Support?},
+  year       = {2014},
+  journal    = {Decision Support Systems},
+  volume     = {65},
+  number     = {no issue},
+  pages      = {40--49}
 }
 ```

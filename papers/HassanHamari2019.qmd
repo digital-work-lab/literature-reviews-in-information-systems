@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HassanHamari2019,
-  author = {Hassan, Lobna and Hamari, Juho},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Gamification of E-Participation - A Literature Review},
-  year = {2019},
-  url = {http://hdl.handle.net/10125/59744}
+  author     = {Hassan, Lobna and Hamari, Juho},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Gamification of E-Participation - A Literature Review},
+  year       = {2019},
+  url        = {http://hdl.handle.net/10125/59744}
 }
 ```

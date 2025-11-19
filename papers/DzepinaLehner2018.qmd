@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{DzepinaLehner2018,
-  author = {Dzepina, Aleksandra and Lehner, Franz},
-  booktitle = {European Conference on Information Systems},
-  title = {Business Process Model Quality - Results from a Structured literature Review},
-  year = {2018},
-  url = {https://aisel.aisnet.org/ecis2018_rp/187}
+  author     = {Dzepina, Aleksandra and Lehner, Franz},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Business Process Model Quality - Results from a Structured literature Review},
+  year       = {2018},
+  url        = {https://aisel.aisnet.org/ecis2018_rp/187}
 }
 ```

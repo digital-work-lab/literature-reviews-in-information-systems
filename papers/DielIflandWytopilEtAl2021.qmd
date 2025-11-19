@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{DielIflandWytopilEtAl2021,
-  author = {Diel, Sören and Ifland, Sebastian and Wytopil, Frederic and Buck, Christoph},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {How Digital Technologies Transform Football - A Structured Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/pacis2021/81}
+  author     = {Diel, Sören and Ifland, Sebastian and Wytopil, Frederic and Buck, Christoph},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {How Digital Technologies Transform Football - A Structured Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/81}
 }
 ```

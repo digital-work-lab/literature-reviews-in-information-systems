@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{AleisaRenaud2017,
-  author = {Aleisa, Noura and Renaud, Karen},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Privacy of the Internet of Things - A Systematic Literature Review},
-  year = {2017},
-  url = {http://hdl.handle.net/10125/41881}
+  author     = {Aleisa, Noura and Renaud, Karen},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Privacy of the Internet of Things - A Systematic Literature Review},
+  year       = {2017},
+  url        = {http://hdl.handle.net/10125/41881}
 }
 ```

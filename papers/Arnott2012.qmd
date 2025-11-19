@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Arnott2012,
-  author = {Arnott, David and Pervan, Graham},
-  title = {Design Science in Decision Support Systems Research: An Assessment Using the Hevner, March, Park, and Ram Guidelines},
-  year = {2012},
-  journal = {Journal of the Association for Information Systems},
-  volume = {13},
-  number = {11},
-  pages = {923--949}
+  author     = {Arnott, David and Pervan, Graham},
+  title      = {Design Science in Decision Support Systems Research: An Assessment Using the Hevner, March, Park, and Ram Guidelines},
+  year       = {2012},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {13},
+  number     = {11},
+  pages      = {923--949}
 }
 ```

@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{RietscheFreiStoeckliEtAl2019,
-  author = {Rietsche, Roman and Frei, Daniel and Stoeckli, Emanuel and Söllner, Matthias},
-  booktitle = {European Conference on Information Systems},
-  title = {Not All Reviews are Equal - a literature Review on Online Review Helpfulness},
-  year = {2019},
-  url = {https://aisel.aisnet.org/ecis2019_rp/58}
+  author     = {Rietsche, Roman and Frei, Daniel and Stoeckli, Emanuel and Söllner, Matthias},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Not All Reviews are Equal - a literature Review on Online Review Helpfulness},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/ecis2019_rp/58}
 }
 ```

@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Kohli2008,
-  author = {Kohli, Rajiv and Grover, Varun},
-  title = {Business Value of IT: An Essay on Expanding Research Directions to Keep up with the Times},
-  year = {2008},
-  journal = {Journal of the Association for Information Systems},
-  volume = {9},
-  number = {1},
-  pages = {23--39}
+  author     = {Kohli, Rajiv and Grover, Varun},
+  title      = {Business Value of IT: An Essay on Expanding Research Directions to Keep up with the Times},
+  year       = {2008},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {9},
+  number     = {1},
+  pages      = {23--39}
 }
 ```

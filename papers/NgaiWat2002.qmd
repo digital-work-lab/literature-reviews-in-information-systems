@@ -16,14 +16,14 @@ Citation:
 
 ```bibtex
 @article{NgaiWat2002,
-  doi = {10.1016/S0378-7206(01)00107-0},
-  author = {Ngai, Eric W. T. and Wat, F. K. T.},
-  journal = {Information & Management},
-  title = {A literature review and classification of electronic commerce research},
-  year = {2002},
-  volume = {39},
-  number = {5},
-  pages = {415--429},
-  url = {https://www.sciencedirect.com/science/article/pii/S0378720601001070}
+  doi        = {10.1016/S0378-7206(01)00107-0},
+  author     = {Ngai, Eric W. T. and Wat, F. K. T.},
+  journal    = {Information & Management},
+  title      = {A literature review and classification of electronic commerce research},
+  year       = {2002},
+  volume     = {39},
+  number     = {5},
+  pages      = {415--429},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0378720601001070}
 }
 ```

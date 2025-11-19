@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{WeberHackervomBrocke2021,
-  author = {Weber, Manuel and Hacker, Janine and vom Brocke, Jan},
-  booktitle = {International Conference on Information Systems},
-  title = {Resilience in Information Systems Research - A Literature Review from a Socio-Technical and Temporal Perspective},
-  year = {2021},
-  url = {https://aisel.aisnet.org/icis2021/is_resilience/is_resilience/3}
+  author     = {Weber, Manuel and Hacker, Janine and vom Brocke, Jan},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Resilience in Information Systems Research - A Literature Review from a Socio-Technical and Temporal Perspective},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/icis2021/is_resilience/is_resilience/3}
 }
 ```

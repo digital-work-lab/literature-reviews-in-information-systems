@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Wills2010,
-  author = {Wills, Matthew J. and Sarnikar, Surendra and El-Gayar, Omar F. and Deokar, Amit V.},
-  title = {Information Systems and Healthcare XXXIV: Clinical Knowledge Management Systems - Literature Review and Research Issues for Information Systems},
-  year = {2010},
-  journal = {Communications of the Association for Information Systems},
-  volume = {26},
-  number = {26},
-  pages = {565--598}
+  author     = {Wills, Matthew J. and Sarnikar, Surendra and El-Gayar, Omar F. and Deokar, Amit V.},
+  title      = {Information Systems and Healthcare XXXIV: Clinical Knowledge Management Systems - Literature Review and Research Issues for Information Systems},
+  year       = {2010},
+  journal    = {Communications of the Association for Information Systems},
+  volume     = {26},
+  number     = {26},
+  pages      = {565--598}
 }
 ```

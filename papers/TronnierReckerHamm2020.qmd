@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{TronnierReckerHamm2020,
-  author = {Tronnier, Frédéric and Recker, Michael and Hamm, Peter},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Towards Central Bank Digital Currency - A Systematic Literature Review},
-  year = {2020},
-  url = {https://aisel.aisnet.org/pacis2020/131}
+  author     = {Tronnier, Frédéric and Recker, Michael and Hamm, Peter},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Towards Central Bank Digital Currency - A Systematic Literature Review},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/pacis2020/131}
 }
 ```

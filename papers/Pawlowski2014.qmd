@@ -23,12 +23,12 @@ Citation:
 
 ```bibtex
 @article{Pawlowski2014,
-  author = {Pawlowski, Jan M. and Bick, Markus and Peinl, René and Thalmann, Stefan and Maier, Ronald and Hetmank, Lars and Kruse, Paul and Martensen, Malte and Pirkkalainen, Henri},
-  title = {Social Knowledge Environments},
-  year = {2014},
-  journal = {Business & Information Systems Engineering},
-  volume = {6},
-  number = {2},
-  pages = {81--88}
+  author     = {Pawlowski, Jan M. and Bick, Markus and Peinl, René and Thalmann, Stefan and Maier, Ronald and Hetmank, Lars and Kruse, Paul and Martensen, Malte and Pirkkalainen, Henri},
+  title      = {Social Knowledge Environments},
+  year       = {2014},
+  journal    = {Business & Information Systems Engineering},
+  volume     = {6},
+  number     = {2},
+  pages      = {81--88}
 }
 ```

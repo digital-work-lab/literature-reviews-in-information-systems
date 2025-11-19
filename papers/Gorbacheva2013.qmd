@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Gorbacheva2013,
-  author = {Gorbacheva, Elena},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Evolution of the Gender Research Agenda in the Senior Scholars Basket of Journals. A Literature Review},
-  year = {2013},
-  url = {https://aisel.aisnet.org/amcis2013/SocialTechnicalIssues/GeneralPresentations/9}
+  author     = {Gorbacheva, Elena},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Evolution of the Gender Research Agenda in the Senior Scholars Basket of Journals. A Literature Review},
+  year       = {2013},
+  url        = {https://aisel.aisnet.org/amcis2013/SocialTechnicalIssues/GeneralPresentations/9}
 }
 ```

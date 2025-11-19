@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{RibeiroMantovani2019,
-  author = {Ribeiro, Giovani and Mantovani, Daielly},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Scale-up transition - Literature review and Brazilian health tech case study},
-  year = {2019},
-  url = {https://aisel.aisnet.org/amcis2019/treo/treos/6}
+  author     = {Ribeiro, Giovani and Mantovani, Daielly},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Scale-up transition - Literature review and Brazilian health tech case study},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/amcis2019/treo/treos/6}
 }
 ```

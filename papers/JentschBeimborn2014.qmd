@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{JentschBeimborn2014,
-  author = {Jentsch, Christian and Beimborn, Daniel},
-  booktitle = {European Conference on Information Systems},
-  title = {Shared Understanding among Business and IT - a literature Review and Research Agenda},
-  year = {2014},
-  url = {http://aisel.aisnet.org/ecis2014/proceedings/track15/17}
+  author     = {Jentsch, Christian and Beimborn, Daniel},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Shared Understanding among Business and IT - a literature Review and Research Agenda},
+  year       = {2014},
+  url        = {http://aisel.aisnet.org/ecis2014/proceedings/track15/17}
 }
 ```

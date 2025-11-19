@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Gurung2006,
-  author = {Gurung, Anil and Prater, Edmund},
-  title = {A Research Framework for the Impact of Cultural Differences on IT Outsourcing},
-  year = {2006},
-  journal = {Journal of Global Information Technology Management},
-  volume = {9},
-  number = {1},
-  pages = {24--43}
+  author     = {Gurung, Anil and Prater, Edmund},
+  title      = {A Research Framework for the Impact of Cultural Differences on IT Outsourcing},
+  year       = {2006},
+  journal    = {Journal of Global Information Technology Management},
+  volume     = {9},
+  number     = {1},
+  pages      = {24--43}
 }
 ```

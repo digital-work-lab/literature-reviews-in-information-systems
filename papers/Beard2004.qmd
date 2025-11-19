@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Beard2004,
-  author = {Beard, Jon W. and Sumner, Mary},
-  title = {Seeking Strategic Advantage in the Post-net Era: Viewing ERP Systems from the Resource-based Perspective},
-  year = {2004},
-  journal = {The Journal of Strategic Information Systems},
-  volume = {13},
-  number = {2},
-  pages = {129--150}
+  author     = {Beard, Jon W. and Sumner, Mary},
+  title      = {Seeking Strategic Advantage in the Post-net Era: Viewing ERP Systems from the Resource-based Perspective},
+  year       = {2004},
+  journal    = {The Journal of Strategic Information Systems},
+  volume     = {13},
+  number     = {2},
+  pages      = {129--150}
 }
 ```

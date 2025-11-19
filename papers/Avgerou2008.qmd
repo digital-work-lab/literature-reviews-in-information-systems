@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Avgerou2008,
-  author = {Avgerou, Chrisanthi},
-  title = {Information Systems in Developing Countries: A Critical Research Review},
-  year = {2008},
-  journal = {Journal of Information Technology},
-  volume = {23},
-  number = {3},
-  pages = {133--146}
+  author     = {Avgerou, Chrisanthi},
+  title      = {Information Systems in Developing Countries: A Critical Research Review},
+  year       = {2008},
+  journal    = {Journal of Information Technology},
+  volume     = {23},
+  number     = {3},
+  pages      = {133--146}
 }
 ```

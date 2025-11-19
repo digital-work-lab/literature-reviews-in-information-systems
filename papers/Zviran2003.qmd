@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Zviran2003,
-  author = {Zviran, Moshe and Erlich, Zippy},
-  title = {Measuring IS User Satisfaction: Review and Implications},
-  year = {2003},
-  journal = {Communications of the Association for Information Systems},
-  volume = {12},
-  number = {5},
-  pages = {81--103}
+  author     = {Zviran, Moshe and Erlich, Zippy},
+  title      = {Measuring IS User Satisfaction: Review and Implications},
+  year       = {2003},
+  journal    = {Communications of the Association for Information Systems},
+  volume     = {12},
+  number     = {5},
+  pages      = {81--103}
 }
 ```

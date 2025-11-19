@@ -19,10 +19,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MamunDavidMaiEtAl2018,
-  author = {Mamun, Rasel Al and David, Alsius and Mai, Bin and Kim, Dan J. and Parsons, Thomas D.},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {The First 10 Years of NeuroIS - A Systematic Literature Review of NeuroIS Publications (2007 - 2017)},
-  year = {2018},
-  url = {http://hdl.handle.net/10125/49919}
+  author     = {Mamun, Rasel Al and David, Alsius and Mai, Bin and Kim, Dan J. and Parsons, Thomas D.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {The First 10 Years of NeuroIS - A Systematic Literature Review of NeuroIS Publications (2007 - 2017)},
+  year       = {2018},
+  url        = {http://hdl.handle.net/10125/49919}
 }
 ```

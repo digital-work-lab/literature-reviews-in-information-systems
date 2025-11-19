@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Harborth2017,
-  author = {Harborth, David},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Augmented Reality in Information Systems Research - A Systematic Literature Review},
-  year = {2017},
-  url = {https://aisel.aisnet.org/amcis2017/AdvancesIS/Presentations/16}
+  author     = {Harborth, David},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Augmented Reality in Information Systems Research - A Systematic Literature Review},
+  year       = {2017},
+  url        = {https://aisel.aisnet.org/amcis2017/AdvancesIS/Presentations/16}
 }
 ```

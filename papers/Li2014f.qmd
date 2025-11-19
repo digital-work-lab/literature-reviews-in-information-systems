@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Li2014f,
-  author = {Li, Liang and Gao, Ping and Mao, Ji-Ye},
-  title = {Research on IT in China: A Call for Greater Contextualization},
-  year = {2014},
-  journal = {Journal of Information Technology},
-  volume = {29},
-  number = {3},
-  pages = {208--222}
+  author     = {Li, Liang and Gao, Ping and Mao, Ji-Ye},
+  title      = {Research on IT in China: A Call for Greater Contextualization},
+  year       = {2014},
+  journal    = {Journal of Information Technology},
+  volume     = {29},
+  number     = {3},
+  pages      = {208--222}
 }
 ```

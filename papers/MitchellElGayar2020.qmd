@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MitchellElGayar2020,
-  author = {Mitchell, Damion and El-Gayar, Omar F.},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {The Effect of Privacy Policies on Information Sharing Behavior on Social Networks - A Systematic Literature Review},
-  year = {2020},
-  url = {http://hdl.handle.net/10125/64259}
+  author     = {Mitchell, Damion and El-Gayar, Omar F.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {The Effect of Privacy Policies on Information Sharing Behavior on Social Networks - A Systematic Literature Review},
+  year       = {2020},
+  url        = {http://hdl.handle.net/10125/64259}
 }
 ```

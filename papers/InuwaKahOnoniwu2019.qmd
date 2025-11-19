@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{InuwaKahOnoniwu2019,
-  author = {Inuwa, Ibrahim and Kah, Muhammadou M. O. and Ononiwu, Chidi G.},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Understanding How the Traditional and Information Technology Anti-Corruption Strategies intertwine to Curb Public Sector Corruption - A Systematic Literature Review},
-  year = {2019},
-  url = {https://aisel.aisnet.org/pacis2019/15}
+  author     = {Inuwa, Ibrahim and Kah, Muhammadou M. O. and Ononiwu, Chidi G.},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Understanding How the Traditional and Information Technology Anti-Corruption Strategies intertwine to Curb Public Sector Corruption - A Systematic Literature Review},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/pacis2019/15}
 }
 ```

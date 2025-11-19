@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{SeifferGnewuchMaedche2021,
-  author = {Seiffer, Anja and Gnewuch, Ulrich and Maedche, Alexander},
-  booktitle = {International Conference on Information Systems},
-  title = {Understanding Employee Responses to Software Robots: A Systematic Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/icis2021/is_future_work/is_future_work/5}
+  author     = {Seiffer, Anja and Gnewuch, Ulrich and Maedche, Alexander},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Understanding Employee Responses to Software Robots: A Systematic Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/icis2021/is_future_work/is_future_work/5}
 }
 ```

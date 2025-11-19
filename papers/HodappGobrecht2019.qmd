@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HodappGobrecht2019,
-  author = {Hodapp, Daniel and Gobrecht, Lennart},
-  booktitle = {European Conference on Information Systems},
-  title = {Towards a coherent Perspective - a literature Review on the Interplay of the Internet of Things and Ecosystems},
-  year = {2019},
-  url = {https://aisel.aisnet.org/ecis2019_rip/61}
+  author     = {Hodapp, Daniel and Gobrecht, Lennart},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Towards a coherent Perspective - a literature Review on the Interplay of the Internet of Things and Ecosystems},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/ecis2019_rip/61}
 }
 ```

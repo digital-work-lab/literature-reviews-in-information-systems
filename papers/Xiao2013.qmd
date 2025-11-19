@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Xiao2013,
-  author = {Xiao, Xiao and Califf, Christopher B. and Sarker, Saonee and Sarker, Suprateek},
-  title = {ICT Innovation in Emerging Economies: A Review of the Existing Literature and a Framework for Future Research},
-  year = {2013},
-  journal = {Journal of Information Technology},
-  volume = {28},
-  number = {4},
-  pages = {264--278}
+  author     = {Xiao, Xiao and Califf, Christopher B. and Sarker, Saonee and Sarker, Suprateek},
+  title      = {ICT Innovation in Emerging Economies: A Review of the Existing Literature and a Framework for Future Research},
+  year       = {2013},
+  journal    = {Journal of Information Technology},
+  volume     = {28},
+  number     = {4},
+  pages      = {264--278}
 }
 ```

@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{NolteGuhrBreitner2017,
-  author = {Nolte, Ferry and Guhr, Nadine and Breitner, Michael H.},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Moderation of Enterprise Social Networks - A Literature Review from a Corporate Perspective},
-  year = {2017},
-  url = {http://hdl.handle.net/10125/41392}
+  author     = {Nolte, Ferry and Guhr, Nadine and Breitner, Michael H.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Moderation of Enterprise Social Networks - A Literature Review from a Corporate Perspective},
+  year       = {2017},
+  url        = {http://hdl.handle.net/10125/41392}
 }
 ```

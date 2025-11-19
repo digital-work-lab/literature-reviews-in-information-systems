@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Krogh2012,
-  author = {von Krogh, Georg and Haefliger, Stefan and Spaeth, Sebastian and Wallin, Martin W.},
-  title = {Carrots and Rainbows: Motivation and Social Practice in Open Source Software Development},
-  year = {2012},
-  journal = {MIS Quarterly},
-  volume = {36},
-  number = {2},
-  pages = {649--676}
+  author     = {von Krogh, Georg and Haefliger, Stefan and Spaeth, Sebastian and Wallin, Martin W.},
+  title      = {Carrots and Rainbows: Motivation and Social Practice in Open Source Software Development},
+  year       = {2012},
+  journal    = {MIS Quarterly},
+  volume     = {36},
+  number     = {2},
+  pages      = {649--676}
 }
 ```

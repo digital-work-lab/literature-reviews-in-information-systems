@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Kauffman2010b,
-  author = {Kauffman, Robert J. and Lee, Dongwon},
-  title = {A Multi-Level Theory Approach to Understanding Price Rigidity in Internet Retailing},
-  year = {2010},
-  journal = {Journal of the Association for Information Systems},
-  volume = {11},
-  number = {6},
-  pages = {303--338}
+  author     = {Kauffman, Robert J. and Lee, Dongwon},
+  title      = {A Multi-Level Theory Approach to Understanding Price Rigidity in Internet Retailing},
+  year       = {2010},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {11},
+  number     = {6},
+  pages      = {303--338}
 }
 ```

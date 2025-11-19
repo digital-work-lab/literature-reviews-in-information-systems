@@ -20,10 +20,10 @@ Citation:
 
 ```bibtex
 @inproceedings{SchoemerLaumerWilbersEtAl2021,
-  author = {Schoemer, Daniel and Laumer, Sven and Wilbers, Karl and Wolbring, Tobias and Weigert, Jonas and Treischl, Edgar},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Data-driven Student Advisory and Potential Direct Discrimination - A Literature Review on Machine Learning for Predicting Students' Academic Success},
-  year = {2021},
-  url = {https://aisel.aisnet.org/amcis2021/social_inclusion/social_inclusion/10}
+  author     = {Schoemer, Daniel and Laumer, Sven and Wilbers, Karl and Wolbring, Tobias and Weigert, Jonas and Treischl, Edgar},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Data-driven Student Advisory and Potential Direct Discrimination - A Literature Review on Machine Learning for Predicting Students' Academic Success},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/amcis2021/social_inclusion/social_inclusion/10}
 }
 ```

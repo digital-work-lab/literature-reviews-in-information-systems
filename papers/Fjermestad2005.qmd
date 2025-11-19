@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Fjermestad2005,
-  author = {Fjermestad, Jerry and Saitta, Jo Ann},
-  title = {A Strategic Management Framework for IT Outsourcing: A Review of the Literature and the Development of a Success Factors Model},
-  year = {2005},
-  journal = {Journal of Information Technology Case and Application Research},
-  volume = {7},
-  number = {3},
-  pages = {42--60}
+  author     = {Fjermestad, Jerry and Saitta, Jo Ann},
+  title      = {A Strategic Management Framework for IT Outsourcing: A Review of the Literature and the Development of a Success Factors Model},
+  year       = {2005},
+  journal    = {Journal of Information Technology Case and Application Research},
+  volume     = {7},
+  number     = {3},
+  pages      = {42--60}
 }
 ```

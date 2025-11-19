@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{EndersHobach2019,
-  author = {Enders, Martin Robert and Hoßbach, Nadja},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Dimensions of Digital Twin Applications - A Literature Review},
-  year = {2019},
-  url = {https://aisel.aisnet.org/amcis2019/org_transformation_is/org_transformation_is/20}
+  author     = {Enders, Martin Robert and Hoßbach, Nadja},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Dimensions of Digital Twin Applications - A Literature Review},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/amcis2019/org_transformation_is/org_transformation_is/20}
 }
 ```

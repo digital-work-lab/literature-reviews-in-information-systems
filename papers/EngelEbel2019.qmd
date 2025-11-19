@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{EngelEbel2019,
-  author = {Engel, Christian and Ebel, Philipp},
-  booktitle = {European Conference on Information Systems},
-  title = {Data-Driven Service Innovation - a Systematic literature Review and Development of a Research Agenda},
-  year = {2019},
-  url = {https://aisel.aisnet.org/ecis2019_rp/161}
+  author     = {Engel, Christian and Ebel, Philipp},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Data-Driven Service Innovation - a Systematic literature Review and Development of a Research Agenda},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/ecis2019_rp/161}
 }
 ```

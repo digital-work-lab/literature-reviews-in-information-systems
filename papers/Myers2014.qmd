@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Myers2014,
-  author = {Myers, Michael D. and Venable, John R.},
-  title = {A Set of Ethical Principles for Design Science Research in Information Systems},
-  year = {2014},
-  journal = {Information & Management},
-  volume = {51},
-  number = {6},
-  pages = {801--809}
+  author     = {Myers, Michael D. and Venable, John R.},
+  title      = {A Set of Ethical Principles for Design Science Research in Information Systems},
+  year       = {2014},
+  journal    = {Information & Management},
+  volume     = {51},
+  number     = {6},
+  pages      = {801--809}
 }
 ```

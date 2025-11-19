@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MakipaaDangMaenpaaEtAl2020,
-  author = {Mäkipää, Juho-Pekka and Dang, Duong and Mäenpää, Teemu and Pasanen, Tomi},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Citizen Science in Information Systems Research - Evidence From a Systematic Literature Review},
-  year = {2020},
-  url = {http://hdl.handle.net/10125/64311}
+  author     = {Mäkipää, Juho-Pekka and Dang, Duong and Mäenpää, Teemu and Pasanen, Tomi},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Citizen Science in Information Systems Research - Evidence From a Systematic Literature Review},
+  year       = {2020},
+  url        = {http://hdl.handle.net/10125/64311}
 }
 ```

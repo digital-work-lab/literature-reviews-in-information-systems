@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Richter2011a,
-  author = {Richter, Daniel and Riemer, Kai and vom Brocke, Jan},
-  title = {Internet Social Networking},
-  year = {2011},
-  journal = {Business & Information Systems Engineering},
-  volume = {3},
-  number = {2},
-  pages = {89--101}
+  author     = {Richter, Daniel and Riemer, Kai and vom Brocke, Jan},
+  title      = {Internet Social Networking},
+  year       = {2011},
+  journal    = {Business & Information Systems Engineering},
+  volume     = {3},
+  number     = {2},
+  pages      = {89--101}
 }
 ```

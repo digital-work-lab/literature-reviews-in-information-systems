@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Checchi2003,
-  author = {Checchi, Ricardo M. and Hsieh, J. J. Po-An and Straub, Detmar W.},
-  title = {Public IT Policies in Less Developed Countries: A Critical Assessment of the Literature and a Reference Framework},
-  year = {2003},
-  journal = {Journal of Global Information Technology Management},
-  volume = {6},
-  number = {4},
-  pages = {45--64}
+  author     = {Checchi, Ricardo M. and Hsieh, J. J. Po-An and Straub, Detmar W.},
+  title      = {Public IT Policies in Less Developed Countries: A Critical Assessment of the Literature and a Reference Framework},
+  year       = {2003},
+  journal    = {Journal of Global Information Technology Management},
+  volume     = {6},
+  number     = {4},
+  pages      = {45--64}
 }
 ```

@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Stahl2012,
-  author = {Stahl, Bernd Carsten},
-  title = {Morality, Ethics, and Reflection: A Categorization of Normative IS Research},
-  year = {2012},
-  journal = {Journal of the Association for Information Systems},
-  volume = {13},
-  number = {8},
-  pages = {636--656}
+  author     = {Stahl, Bernd Carsten},
+  title      = {Morality, Ethics, and Reflection: A Categorization of Normative IS Research},
+  year       = {2012},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {13},
+  number     = {8},
+  pages      = {636--656}
 }
 ```

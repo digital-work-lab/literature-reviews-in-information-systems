@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{TornoMetzlerTorno2021,
-  author = {Torno, Albert and Metzler, Dennis Renee and Torno, Vanessa},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Robo-What?, Robo-Why?, Robo-How? - A Systematic Literature Review of Robo-Advice},
-  year = {2021},
-  url = {https://aisel.aisnet.org/pacis2021/92}
+  author     = {Torno, Albert and Metzler, Dennis Renee and Torno, Vanessa},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Robo-What?, Robo-Why?, Robo-How? - A Systematic Literature Review of Robo-Advice},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/92}
 }
 ```

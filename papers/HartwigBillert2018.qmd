@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HartwigBillert2018,
-  author = {Hartwig, Katharina and Billert, Matthias Simon},
-  booktitle = {European Conference on Information Systems},
-  title = {Measuring Service Quality - a Systematic literature Review},
-  year = {2018},
-  url = {https://aisel.aisnet.org/ecis2018_rp/108}
+  author     = {Hartwig, Katharina and Billert, Matthias Simon},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Measuring Service Quality - a Systematic literature Review},
+  year       = {2018},
+  url        = {https://aisel.aisnet.org/ecis2018_rp/108}
 }
 ```

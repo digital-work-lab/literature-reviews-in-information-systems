@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{BenzariKhedhaouriaTorres2020,
-  author = {Benzari, Alexandre and Khedhaouria, Anis and Torrès, Olivier},
-  booktitle = {European Conference on Information Systems},
-  title = {The Rise of Technostress - A Literature Review from 1984 until 2018},
-  year = {2020},
-  url = {https://aisel.aisnet.org/ecis2020_rp/140}
+  author     = {Benzari, Alexandre and Khedhaouria, Anis and Torrès, Olivier},
+  booktitle  = {European Conference on Information Systems},
+  title      = {The Rise of Technostress - A Literature Review from 1984 until 2018},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/ecis2020_rp/140}
 }
 ```

@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Wu2013a,
-  author = {Wu, Jiming and Lu, Xinjian},
-  title = {Effects of Extrinsic and Intrinsic Motivators on Using Utilitarian, Hedonic, and Dual-Purposed Information Systems: A Meta-Analysis},
-  year = {2013},
-  journal = {Journal of the Association for Information Systems},
-  volume = {14},
-  number = {3},
-  pages = {153--191}
+  author     = {Wu, Jiming and Lu, Xinjian},
+  title      = {Effects of Extrinsic and Intrinsic Motivators on Using Utilitarian, Hedonic, and Dual-Purposed Information Systems: A Meta-Analysis},
+  year       = {2013},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {14},
+  number     = {3},
+  pages      = {153--191}
 }
 ```

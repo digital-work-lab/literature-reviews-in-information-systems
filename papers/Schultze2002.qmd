@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Schultze2002,
-  author = {Schultze, Ulrike and Leidner, Dorothy E.},
-  title = {Studying Knowledge Management in Information Systems Research: Discourses and Theoretical Assumptions},
-  year = {2002},
-  journal = {MIS Quarterly},
-  volume = {26},
-  number = {3},
-  pages = {213--242}
+  author     = {Schultze, Ulrike and Leidner, Dorothy E.},
+  title      = {Studying Knowledge Management in Information Systems Research: Discourses and Theoretical Assumptions},
+  year       = {2002},
+  journal    = {MIS Quarterly},
+  volume     = {26},
+  number     = {3},
+  pages      = {213--242}
 }
 ```

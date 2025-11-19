@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Tan2006,
-  author = {Tan, Chengxun and Sia, Siew Kien},
-  title = {Managing Flexibility in Outsourcing},
-  year = {2006},
-  journal = {Journal of the Association for Information Systems},
-  volume = {7},
-  number = {4},
-  pages = {179--206}
+  author     = {Tan, Chengxun and Sia, Siew Kien},
+  title      = {Managing Flexibility in Outsourcing},
+  year       = {2006},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {7},
+  number     = {4},
+  pages      = {179--206}
 }
 ```

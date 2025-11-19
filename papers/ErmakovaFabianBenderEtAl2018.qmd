@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{ErmakovaFabianBenderEtAl2018,
-  author = {Ermakova, Tatiana and Fabian, Benjamin and Bender, Benedict and Klimek, Kerstin},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Web Tracking - A Literature Review on the State of Research},
-  year = {2018},
-  url = {http://hdl.handle.net/10125/50485}
+  author     = {Ermakova, Tatiana and Fabian, Benjamin and Bender, Benedict and Klimek, Kerstin},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Web Tracking - A Literature Review on the State of Research},
+  year       = {2018},
+  url        = {http://hdl.handle.net/10125/50485}
 }
 ```

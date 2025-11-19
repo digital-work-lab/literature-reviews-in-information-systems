@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Leyh2011,
-  author = {Leyh, Christian},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Critical success factors of ERP system implementation projects - A literature review},
-  year = {2011},
-  url = {https://aisel.aisnet.org/amcis2011_submissions/94}
+  author     = {Leyh, Christian},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Critical success factors of ERP system implementation projects - A literature review},
+  year       = {2011},
+  url        = {https://aisel.aisnet.org/amcis2011_submissions/94}
 }
 ```

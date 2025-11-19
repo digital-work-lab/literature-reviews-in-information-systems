@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{KunstVatrapu2014,
-  author = {Kunst, Katrine and Vatrapu, Ravi},
-  booktitle = {European Conference on Information Systems},
-  title = {Towards a Theory of Socially Shared Consumption - literature Review, Taxonomy, and Research Agenda},
-  year = {2014},
-  url = {http://aisel.aisnet.org/ecis2014/proceedings/track21/6}
+  author     = {Kunst, Katrine and Vatrapu, Ravi},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Towards a Theory of Socially Shared Consumption - literature Review, Taxonomy, and Research Agenda},
+  year       = {2014},
+  url        = {http://aisel.aisnet.org/ecis2014/proceedings/track21/6}
 }
 ```

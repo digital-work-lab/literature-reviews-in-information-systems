@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Teeni2001,
-  author = {Te'eni, Dov},
-  title = {Review: A Cognitive-Affective Model of Organizational Communication for Designing IT},
-  year = {2001},
-  journal = {MIS Quarterly},
-  volume = {25},
-  number = {2},
-  pages = {251--312}
+  author     = {Te'eni, Dov},
+  title      = {Review: A Cognitive-Affective Model of Organizational Communication for Designing IT},
+  year       = {2001},
+  journal    = {MIS Quarterly},
+  volume     = {25},
+  number     = {2},
+  pages      = {251--312}
 }
 ```

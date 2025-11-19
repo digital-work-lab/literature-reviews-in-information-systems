@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Campbell2009,
-  author = {Campbell, Damon E. and Wells, John D. and Valacich, Joseph S.},
-  title = {Diagnosing and Managing Online Business-to-Consumer (B2C) Relationships: Toward an eCommerce B2C Relationship Stage Theory},
-  year = {2009},
-  journal = {AIS Transactions on Human-Computer Interaction},
-  volume = {1},
-  number = {4},
-  pages = {108--132}
+  author     = {Campbell, Damon E. and Wells, John D. and Valacich, Joseph S.},
+  title      = {Diagnosing and Managing Online Business-to-Consumer (B2C) Relationships: Toward an eCommerce B2C Relationship Stage Theory},
+  year       = {2009},
+  journal    = {AIS Transactions on Human-Computer Interaction},
+  volume     = {1},
+  number     = {4},
+  pages      = {108--132}
 }
 ```

@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Wiener2010,
-  author = {Wiener, Martin and Vogel, Bianca and Amberg, Michael},
-  title = {Information Systems Offshoring - A Literature Review and Analysis},
-  year = {2010},
-  journal = {Communications of the Association for Information Systems},
-  volume = {27},
-  number = {25},
-  pages = {455--492}
+  author     = {Wiener, Martin and Vogel, Bianca and Amberg, Michael},
+  title      = {Information Systems Offshoring - A Literature Review and Analysis},
+  year       = {2010},
+  journal    = {Communications of the Association for Information Systems},
+  volume     = {27},
+  number     = {25},
+  pages      = {455--492}
 }
 ```

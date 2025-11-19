@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MullerBlochKranz2015,
-  author = {Müller-Bloch, Christoph and Kranz, Johann},
-  booktitle = {International Conference on Information Systems},
-  title = {A Framework for Rigorously Identifying Research Gaps in Qualitative Literature Reviews},
-  year = {2015},
-  url = {http://aisel.aisnet.org/icis2015/proceedings/ResearchMethods/2}
+  author     = {Müller-Bloch, Christoph and Kranz, Johann},
+  booktitle  = {International Conference on Information Systems},
+  title      = {A Framework for Rigorously Identifying Research Gaps in Qualitative Literature Reviews},
+  year       = {2015},
+  url        = {http://aisel.aisnet.org/icis2015/proceedings/ResearchMethods/2}
 }
 ```

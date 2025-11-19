@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Hajikhani2017,
-  author = {Hajikhani, Arash},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Emergence and Dissemination of Ecosystem Concept in Innovation Studies - A Systematic Literature Review Study},
-  year = {2017},
-  url = {http://hdl.handle.net/10125/41796}
+  author     = {Hajikhani, Arash},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Emergence and Dissemination of Ecosystem Concept in Innovation Studies - A Systematic Literature Review Study},
+  year       = {2017},
+  url        = {http://hdl.handle.net/10125/41796}
 }
 ```

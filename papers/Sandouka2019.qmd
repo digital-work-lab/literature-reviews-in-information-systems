@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Sandouka2019,
-  author = {Sandouka, Kari},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Text Analysis of Crowdfuding - A Literature Review},
-  year = {2019},
-  url = {https://aisel.aisnet.org/amcis2019/social_computing/social_computing/6}
+  author     = {Sandouka, Kari},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Text Analysis of Crowdfuding - A Literature Review},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/amcis2019/social_computing/social_computing/6}
 }
 ```

@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{FischerFuchs2019,
-  author = {Fischer, Marcus and Fuchs, Kevin},
-  booktitle = {European Conference on Information Systems},
-  title = {Make the Best out of What You have - a literature Review on Process prioritization},
-  year = {2019},
-  url = {https://aisel.aisnet.org/ecis2019_rip/66}
+  author     = {Fischer, Marcus and Fuchs, Kevin},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Make the Best out of What You have - a literature Review on Process prioritization},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/ecis2019_rip/66}
 }
 ```

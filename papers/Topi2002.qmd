@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Topi2002,
-  author = {Topi, Heikki and Ramesh, V.},
-  title = {Human Factors Research on Data Modeling: A Review of Prior Research, an Extended Framework and Future Research Directions},
-  year = {2002},
-  journal = {Journal of Database Management},
-  volume = {13},
-  number = {2},
-  pages = {3--19}
+  author     = {Topi, Heikki and Ramesh, V.},
+  title      = {Human Factors Research on Data Modeling: A Review of Prior Research, an Extended Framework and Future Research Directions},
+  year       = {2002},
+  journal    = {Journal of Database Management},
+  volume     = {13},
+  number     = {2},
+  pages      = {3--19}
 }
 ```

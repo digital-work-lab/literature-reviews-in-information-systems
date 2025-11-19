@@ -20,10 +20,10 @@ Citation:
 
 ```bibtex
 @inproceedings{PorrasKnutasIkonenEtAl2019,
-  author = {Porras, Jari and Knutas, Antti and Ikonen, Jouni and Happonen, Ari and Khakurel, Jayden and Herala, Antti},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Code camps and hackathons in education - literature review and lessons learned},
-  year = {2019},
-  url = {http://hdl.handle.net/10125/60213}
+  author     = {Porras, Jari and Knutas, Antti and Ikonen, Jouni and Happonen, Ari and Khakurel, Jayden and Herala, Antti},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Code camps and hackathons in education - literature review and lessons learned},
+  year       = {2019},
+  url        = {http://hdl.handle.net/10125/60213}
 }
 ```

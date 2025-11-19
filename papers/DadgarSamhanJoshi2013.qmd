@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{DadgarSamhanJoshi2013,
-  author = {Dadgar, Majid and Samhan, Bahae and Joshi, K. D.},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Mobile Health Information Technology and Patient Care - A Literature Review and Analysis},
-  year = {2013},
-  url = {https://aisel.aisnet.org/amcis2013/HealthInformation/GeneralPresentations/1}
+  author     = {Dadgar, Majid and Samhan, Bahae and Joshi, K. D.},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Mobile Health Information Technology and Patient Care - A Literature Review and Analysis},
+  year       = {2013},
+  url        = {https://aisel.aisnet.org/amcis2013/HealthInformation/GeneralPresentations/1}
 }
 ```

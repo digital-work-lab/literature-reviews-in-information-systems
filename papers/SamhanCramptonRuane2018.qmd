@@ -17,13 +17,13 @@ Citation:
 
 ```bibtex
 @article{SamhanCramptonRuane2018,
-  doi = {10.17705/1CAIS.04341},
-  author = {Samhan, Bahae and Crampton, Tara and Ruane, Regina},
-  journal = {Communications of the Association for Information Systems},
-  title = {The Trajectory of IT in Healthcare at HICSS - A Literature Review, Analysis, and Future Directions},
-  year = {2018},
-  volume = {43},
-  pages = {792--845},
-  url = {https://aisel.aisnet.org/cais/vol43/iss1/41}
+  doi        = {10.17705/1CAIS.04341},
+  author     = {Samhan, Bahae and Crampton, Tara and Ruane, Regina},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {The Trajectory of IT in Healthcare at HICSS - A Literature Review, Analysis, and Future Directions},
+  year       = {2018},
+  volume     = {43},
+  pages      = {792--845},
+  url        = {https://aisel.aisnet.org/cais/vol43/iss1/41}
 }
 ```

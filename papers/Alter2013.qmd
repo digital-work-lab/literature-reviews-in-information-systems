@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Alter2013,
-  author = {Alter, Steven},
-  title = {Work System Theory: Overview of Core Concepts, Extensions, and Challenges for the Future},
-  year = {2013},
-  journal = {Journal of the Association for Information Systems},
-  volume = {14},
-  number = {2},
-  pages = {72--121}
+  author     = {Alter, Steven},
+  title      = {Work System Theory: Overview of Core Concepts, Extensions, and Challenges for the Future},
+  year       = {2013},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {14},
+  number     = {2},
+  pages      = {72--121}
 }
 ```

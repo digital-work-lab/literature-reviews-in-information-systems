@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Lumor2019,
-  author = {Lumor, Truth},
-  booktitle = {European Conference on Information Systems},
-  title = {Factors that Influence Information Technology Use during Post-Implementation - a literature Review},
-  year = {2019},
-  url = {https://aisel.aisnet.org/ecis2019_rp/128}
+  author     = {Lumor, Truth},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Factors that Influence Information Technology Use during Post-Implementation - a literature Review},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/ecis2019_rp/128}
 }
 ```

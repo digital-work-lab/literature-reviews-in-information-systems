@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{KroezevanZyl2015,
-  author = {Kroeze, Jan H. and van Zyl, Izak},
-  booktitle = {Americas Conference on Information Systems},
-  title = {The Theme of Hermeneutics in IS - The Need for a Structured Literature Review},
-  year = {2015},
-  url = {https://aisel.aisnet.org/amcis2015/ISPhil/GeneralPresentations/5}
+  author     = {Kroeze, Jan H. and van Zyl, Izak},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {The Theme of Hermeneutics in IS - The Need for a Structured Literature Review},
+  year       = {2015},
+  url        = {https://aisel.aisnet.org/amcis2015/ISPhil/GeneralPresentations/5}
 }
 ```

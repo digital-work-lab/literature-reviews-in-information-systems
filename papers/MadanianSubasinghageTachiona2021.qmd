@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MadanianSubasinghageTachiona2021,
-  author = {Madanian, Samaneh and Subasinghage, Maduka and Tachiona, Shingai Conrad},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Critical Success Factors of Agile ERP Development and Implementation Projects - A Systematic Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/pacis2021/211}
+  author     = {Madanian, Samaneh and Subasinghage, Maduka and Tachiona, Shingai Conrad},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Critical Success Factors of Agile ERP Development and Implementation Projects - A Systematic Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/211}
 }
 ```

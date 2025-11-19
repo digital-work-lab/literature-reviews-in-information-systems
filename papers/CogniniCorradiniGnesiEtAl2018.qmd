@@ -19,14 +19,14 @@ Citation:
 
 ```bibtex
 @article{CogniniCorradiniGnesiEtAl2018,
-  doi = {10.1007/S10796-016-9678-2},
-  author = {Cognini, Riccardo and Corradini, Flavio and Gnesi, Stefania and Polini, Andrea and Re, Barbara},
-  journal = {Information Systems Frontiers},
-  title = {Business process flexibility - a systematic literature review with a software systems perspective},
-  year = {2018},
-  volume = {20},
-  number = {2},
-  pages = {343--371},
-  url = {https://link.springer.com/article/10.1007/s10796-016-9678-2}
+  doi        = {10.1007/S10796-016-9678-2},
+  author     = {Cognini, Riccardo and Corradini, Flavio and Gnesi, Stefania and Polini, Andrea and Re, Barbara},
+  journal    = {Information Systems Frontiers},
+  title      = {Business process flexibility - a systematic literature review with a software systems perspective},
+  year       = {2018},
+  volume     = {20},
+  number     = {2},
+  pages      = {343--371},
+  url        = {https://link.springer.com/article/10.1007/s10796-016-9678-2}
 }
 ```

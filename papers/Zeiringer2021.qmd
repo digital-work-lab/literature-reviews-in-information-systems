@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Zeiringer2021,
-  author = {Zeiringer, Johannes},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Tackling Knowledge Risks in Data-centric Collaborations - A Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/pacis2021/37}
+  author     = {Zeiringer, Johannes},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Tackling Knowledge Risks in Data-centric Collaborations - A Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/37}
 }
 ```

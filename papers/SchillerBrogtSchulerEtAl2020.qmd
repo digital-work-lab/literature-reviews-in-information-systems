@@ -19,10 +19,10 @@ Citation:
 
 ```bibtex
 @inproceedings{SchillerBrogtSchulerEtAl2020,
-  author = {Schiller, Barbara and Brogt, Tobias and Schuler, J. Peter M. and Strobel, Gero and Eicker, Stefan},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Identifying Quality Factors for Self-Tracking Solutions - A Systematic Literature Review},
-  year = {2020},
-  url = {http://hdl.handle.net/10125/64194}
+  author     = {Schiller, Barbara and Brogt, Tobias and Schuler, J. Peter M. and Strobel, Gero and Eicker, Stefan},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Identifying Quality Factors for Self-Tracking Solutions - A Systematic Literature Review},
+  year       = {2020},
+  url        = {http://hdl.handle.net/10125/64194}
 }
 ```

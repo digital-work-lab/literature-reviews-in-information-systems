@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Irani2002,
-  author = {Irani, Zahir and Love, Peter E. D.},
-  title = {Developing a Frame of Reference for Ex-Ante IT/IS Investment Evaluation},
-  year = {2002},
-  journal = {European Journal of Information Systems},
-  volume = {11},
-  number = {1},
-  pages = {74--82}
+  author     = {Irani, Zahir and Love, Peter E. D.},
+  title      = {Developing a Frame of Reference for Ex-Ante IT/IS Investment Evaluation},
+  year       = {2002},
+  journal    = {European Journal of Information Systems},
+  volume     = {11},
+  number     = {1},
+  pages      = {74--82}
 }
 ```

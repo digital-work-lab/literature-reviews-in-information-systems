@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HaoBedeley2020,
-  author = {Hao, Hui and Bedeley, Rudolph},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Biases in Online Opinion Platforms - A Literature Review and Future Direction},
-  year = {2020},
-  url = {https://aisel.aisnet.org/amcis2020/meta_research_is/meta_research_is/5}
+  author     = {Hao, Hui and Bedeley, Rudolph},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Biases in Online Opinion Platforms - A Literature Review and Future Direction},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/amcis2020/meta_research_is/meta_research_is/5}
 }
 ```

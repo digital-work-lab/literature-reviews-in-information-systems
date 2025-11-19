@@ -15,11 +15,11 @@ Citation:
 
 ```bibtex
 @inproceedings{Walentowitz2012,
-  doi = {10.1109/HICSS.2012.3},
-  author = {Walentowitz, Katja},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Aligning Multiple Definitions of Alignment--A Literature Review},
-  year = {2012},
-  url = {https://ieeexplore.ieee.org/document/6149496}
+  doi        = {10.1109/HICSS.2012.3},
+  author     = {Walentowitz, Katja},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Aligning Multiple Definitions of Alignment--A Literature Review},
+  year       = {2012},
+  url        = {https://ieeexplore.ieee.org/document/6149496}
 }
 ```

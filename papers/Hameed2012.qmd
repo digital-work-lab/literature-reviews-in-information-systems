@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Hameed2012,
-  author = {Hameed, Mumtaz Abdul and Counsell, Steve and Swift, Stephen},
-  title = {A Meta-Analysis of Relationships between Organizational Characteristics and IT Innovation Adoption in Organizations},
-  year = {2012},
-  journal = {Information & Management},
-  volume = {49},
-  number = {5},
-  pages = {218--232}
+  author     = {Hameed, Mumtaz Abdul and Counsell, Steve and Swift, Stephen},
+  title      = {A Meta-Analysis of Relationships between Organizational Characteristics and IT Innovation Adoption in Organizations},
+  year       = {2012},
+  journal    = {Information & Management},
+  volume     = {49},
+  number     = {5},
+  pages      = {218--232}
 }
 ```

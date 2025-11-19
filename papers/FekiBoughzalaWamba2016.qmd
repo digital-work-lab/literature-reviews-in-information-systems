@@ -17,11 +17,11 @@ Citation:
 
 ```bibtex
 @inproceedings{FekiBoughzalaWamba2016,
-  doi = {10.1109/HICSS.2016.142},
-  author = {Feki, Mondher and Boughzala, Imed and Wamba, Samuel Fosso},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Big Data Analytics-Enabled Supply Chain Transformation - A Literature Review},
-  year = {2016},
-  url = {http://doi.ieeecomputersociety.org/10.1109/HICSS.2016.142}
+  doi        = {10.1109/HICSS.2016.142},
+  author     = {Feki, Mondher and Boughzala, Imed and Wamba, Samuel Fosso},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Big Data Analytics-Enabled Supply Chain Transformation - A Literature Review},
+  year       = {2016},
+  url        = {http://doi.ieeecomputersociety.org/10.1109/HICSS.2016.142}
 }
 ```

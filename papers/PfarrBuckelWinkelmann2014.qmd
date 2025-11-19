@@ -17,11 +17,11 @@ Citation:
 
 ```bibtex
 @inproceedings{PfarrBuckelWinkelmann2014,
-  doi = {10.1109/HICSS.2014.616},
-  author = {Pfarr, Florian and Buckel, Thomas and Winkelmann, Axel},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Cloud Computing Data Protection -- A Literature Review and Analysis},
-  year = {2014},
-  url = {https://ieeexplore.ieee.org/document/6759219}
+  doi        = {10.1109/HICSS.2014.616},
+  author     = {Pfarr, Florian and Buckel, Thomas and Winkelmann, Axel},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Cloud Computing Data Protection -- A Literature Review and Analysis},
+  year       = {2014},
+  url        = {https://ieeexplore.ieee.org/document/6759219}
 }
 ```

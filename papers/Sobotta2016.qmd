@@ -15,11 +15,11 @@ Citation:
 
 ```bibtex
 @inproceedings{Sobotta2016,
-  doi = {10.1109/HICSS.2016.111},
-  author = {Sobotta, Nikolai},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {A Systematic Literature Review on the Relation of Information Technology and Information Overload},
-  year = {2016},
-  url = {https://ieeexplore.ieee.org/document/7427288}
+  doi        = {10.1109/HICSS.2016.111},
+  author     = {Sobotta, Nikolai},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {A Systematic Literature Review on the Relation of Information Technology and Information Overload},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427288}
 }
 ```

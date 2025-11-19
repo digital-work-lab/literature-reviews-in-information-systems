@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Wang2015a,
-  author = {Wang, Yichuan},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Business Intelligence and Analytics Education - Hermeneutic Literature Review and Future Directions in IS Education},
-  year = {2015},
-  url = {https://aisel.aisnet.org/amcis2015/ISEdu/GeneralPresentations/30}
+  author     = {Wang, Yichuan},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Business Intelligence and Analytics Education - Hermeneutic Literature Review and Future Directions in IS Education},
+  year       = {2015},
+  url        = {https://aisel.aisnet.org/amcis2015/ISEdu/GeneralPresentations/30}
 }
 ```

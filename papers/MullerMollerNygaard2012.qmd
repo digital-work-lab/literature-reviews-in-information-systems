@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MullerMollerNygaard2012,
-  author = {Müller, Sune and Møller, Elisa and Nygaard, Thomas},
-  booktitle = {Americas Conference on Information Systems},
-  title = {IT-enabled Process Innovation - A Literature Review},
-  year = {2012},
-  url = {https://aisel.aisnet.org/amcis2012/proceedings/OrganizationalIssuesIS/4}
+  author     = {Müller, Sune and Møller, Elisa and Nygaard, Thomas},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {IT-enabled Process Innovation - A Literature Review},
+  year       = {2012},
+  url        = {https://aisel.aisnet.org/amcis2012/proceedings/OrganizationalIssuesIS/4}
 }
 ```

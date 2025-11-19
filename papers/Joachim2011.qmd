@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Joachim2011,
-  author = {Joachim, Nils},
-  booktitle = {Americas Conference on Information Systems},
-  title = {A Literature Review of Research on Service-Oriented Architectures (SOA) - Characteristics, Adoption Determinants, Governance Mechanisms, and Business Impact},
-  year = {2011},
-  url = {https://aisel.aisnet.org/amcis2011_submissions/339}
+  author     = {Joachim, Nils},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {A Literature Review of Research on Service-Oriented Architectures (SOA) - Characteristics, Adoption Determinants, Governance Mechanisms, and Business Impact},
+  year       = {2011},
+  url        = {https://aisel.aisnet.org/amcis2011_submissions/339}
 }
 ```

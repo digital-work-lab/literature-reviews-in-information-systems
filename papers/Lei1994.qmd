@@ -15,9 +15,9 @@ Citation:
 
 ```bibtex
 @inproceedings{Lei1994,
-  author = {Lei, Lei},
-  booktitle = {European Conference on Information Systems},
-  title = {Choosing appropriate approach for research on user participation - A literature review},
-  year = {1994}
+  author     = {Lei, Lei},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Choosing appropriate approach for research on user participation - A literature review},
+  year       = {1994}
 }
 ```

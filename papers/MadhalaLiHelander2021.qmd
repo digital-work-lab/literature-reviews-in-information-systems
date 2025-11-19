@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MadhalaLiHelander2021,
-  author = {Madhala, Prashanth and Li, Hongxiu and Helander, Nina},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Understanding the Antecedents and Consequences of Data Analytics Capabilities - A Literature Review in IS field},
-  year = {2021},
-  url = {https://aisel.aisnet.org/pacis2021/49}
+  author     = {Madhala, Prashanth and Li, Hongxiu and Helander, Nina},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Understanding the Antecedents and Consequences of Data Analytics Capabilities - A Literature Review in IS field},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/49}
 }
 ```

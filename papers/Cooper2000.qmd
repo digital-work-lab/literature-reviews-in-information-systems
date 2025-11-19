@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Cooper2000,
-  author = {Cooper, William W. and Muench, Michael L.},
-  title = {Virtual Organizations: Practice and the Literature},
-  year = {2000},
-  journal = {Journal of Organizational Computing and Electronic Commerce},
-  volume = {10},
-  number = {3},
-  pages = {189--208}
+  author     = {Cooper, William W. and Muench, Michael L.},
+  title      = {Virtual Organizations: Practice and the Literature},
+  year       = {2000},
+  journal    = {Journal of Organizational Computing and Electronic Commerce},
+  volume     = {10},
+  number     = {3},
+  pages      = {189--208}
 }
 ```

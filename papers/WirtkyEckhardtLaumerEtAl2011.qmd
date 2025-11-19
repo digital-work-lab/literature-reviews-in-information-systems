@@ -19,10 +19,10 @@ Citation:
 
 ```bibtex
 @inproceedings{WirtkyEckhardtLaumerEtAl2011,
-  author = {Wirtky, Thomas and Eckhardt, Andreas and Laumer, Sven and Wild, Udo and Weitzel, Tim},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Going beyond operational efficiency in HR using IT - A Literature Review of Human Resources Information Systems},
-  year = {2011},
-  url = {https://aisel.aisnet.org/amcis2011_submissions/289}
+  author     = {Wirtky, Thomas and Eckhardt, Andreas and Laumer, Sven and Wild, Udo and Weitzel, Tim},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Going beyond operational efficiency in HR using IT - A Literature Review of Human Resources Information Systems},
+  year       = {2011},
+  url        = {https://aisel.aisnet.org/amcis2011_submissions/289}
 }
 ```

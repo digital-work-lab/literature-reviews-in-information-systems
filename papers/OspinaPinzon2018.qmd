@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{OspinaPinzon2018,
-  author = {Ospina, Martha Liliana Correa and Pinzon, Beatriz Helena Diaz},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Theoretical Perspectives on Usage of e-Government Services - A Literature Review},
-  year = {2018},
-  url = {https://aisel.aisnet.org/amcis2018/eGovernment/Presentations/7}
+  author     = {Ospina, Martha Liliana Correa and Pinzon, Beatriz Helena Diaz},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Theoretical Perspectives on Usage of e-Government Services - A Literature Review},
+  year       = {2018},
+  url        = {https://aisel.aisnet.org/amcis2018/eGovernment/Presentations/7}
 }
 ```

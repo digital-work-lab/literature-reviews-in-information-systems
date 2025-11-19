@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{OnixFieltGable2017,
-  author = {Onix, Mohammad F. A. and Fielt, Erwin and Gable, Guy G.},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Complex Adaptive Systems Theory in Information Systems Research- A Systematic Literature Review},
-  year = {2017},
-  url = {https://aisel.aisnet.org/pacis2017/271}
+  author     = {Onix, Mohammad F. A. and Fielt, Erwin and Gable, Guy G.},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Complex Adaptive Systems Theory in Information Systems Research- A Systematic Literature Review},
+  year       = {2017},
+  url        = {https://aisel.aisnet.org/pacis2017/271}
 }
 ```

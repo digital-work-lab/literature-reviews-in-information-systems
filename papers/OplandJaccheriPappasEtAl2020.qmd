@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{OplandJaccheriPappasEtAl2020,
-  author = {Opland, Leif Erik and Jaccheri, Letizia and Pappas, Ilias O. and Engesmo, Jostein},
-  booktitle = {European Conference on Information Systems},
-  title = {Utilising the innovation potential - A systematic literature review on employee-driven digital innovation},
-  year = {2020},
-  url = {https://aisel.aisnet.org/ecis2020_rp/89}
+  author     = {Opland, Leif Erik and Jaccheri, Letizia and Pappas, Ilias O. and Engesmo, Jostein},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Utilising the innovation potential - A systematic literature review on employee-driven digital innovation},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/ecis2020_rp/89}
 }
 ```

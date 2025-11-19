@@ -19,10 +19,10 @@ Citation:
 
 ```bibtex
 @inproceedings{GodefroidZeugeOschinskyEtAl2021,
-  author = {Godefroid, Marie and Zeuge, Anna and Oschinsky, Frederike Marie and Plattfaut, Ralf and Niehaves, Björn},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Cognitive Biases in IS Research - A Framework Based on a Systematic Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/pacis2021/105}
+  author     = {Godefroid, Marie and Zeuge, Anna and Oschinsky, Frederike Marie and Plattfaut, Ralf and Niehaves, Björn},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Cognitive Biases in IS Research - A Framework Based on a Systematic Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/105}
 }
 ```

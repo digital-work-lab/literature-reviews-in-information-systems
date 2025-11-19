@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{TrenzBerger2013,
-  author = {Trenz, Manuel and Berger, Benedikt},
-  booktitle = {European Conference on Information Systems},
-  title = {Analyzing Online Customer Reviews - An Interdisciplinary Literature Review And Research Agenda},
-  year = {2013},
-  url = {http://aisel.aisnet.org/ecis2013_cr/83}
+  author     = {Trenz, Manuel and Berger, Benedikt},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Analyzing Online Customer Reviews - An Interdisciplinary Literature Review And Research Agenda},
+  year       = {2013},
+  url        = {http://aisel.aisnet.org/ecis2013_cr/83}
 }
 ```

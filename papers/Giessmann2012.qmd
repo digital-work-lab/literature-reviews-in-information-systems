@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Giessmann2012,
-  author = {Giessmann, Andrea and Stanoevska-Slabeva, Katarina},
-  title = {Business Models of Platform as a Service (PaaS) Providers: Current State and Future Directions},
-  year = {2012},
-  journal = {Journal of Information Technology Theory and Application},
-  volume = {13},
-  number = {4},
-  pages = {31--55}
+  author     = {Giessmann, Andrea and Stanoevska-Slabeva, Katarina},
+  title      = {Business Models of Platform as a Service (PaaS) Providers: Current State and Future Directions},
+  year       = {2012},
+  journal    = {Journal of Information Technology Theory and Application},
+  volume     = {13},
+  number     = {4},
+  pages      = {31--55}
 }
 ```

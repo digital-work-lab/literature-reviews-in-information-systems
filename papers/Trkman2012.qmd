@@ -16,12 +16,12 @@ Citation:
 
 ```bibtex
 @article{Trkman2012,
-  author = {Trkman, Peter and Desouza, Kevin C.},
-  title = {Knowledge Risks in Organizational Networks: An Exploratory Framework},
-  year = {2012},
-  journal = {The Journal of Strategic Information Systems},
-  volume = {21},
-  number = {1},
-  pages = {1--17}
+  author     = {Trkman, Peter and Desouza, Kevin C.},
+  title      = {Knowledge Risks in Organizational Networks: An Exploratory Framework},
+  year       = {2012},
+  journal    = {The Journal of Strategic Information Systems},
+  volume     = {21},
+  number     = {1},
+  pages      = {1--17}
 }
 ```

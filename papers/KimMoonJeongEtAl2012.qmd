@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{KimMoonJeongEtAl2012,
-  author = {Kim, Nam Jung and Moon, Junghoon and Jeong, Jaeseok and Huang, Minghao},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Social Exclusion Online - A Literature Review and suggestions for Future Research},
-  year = {2012},
-  url = {https://aisel.aisnet.org/amcis2012/proceedings/SocialIssues/8}
+  author     = {Kim, Nam Jung and Moon, Junghoon and Jeong, Jaeseok and Huang, Minghao},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Social Exclusion Online - A Literature Review and suggestions for Future Research},
+  year       = {2012},
+  url        = {https://aisel.aisnet.org/amcis2012/proceedings/SocialIssues/8}
 }
 ```

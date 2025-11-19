@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Elliot2011,
-  author = {Elliot, Steve},
-  title = {Transdisciplinary Perspectives on Environmental Sustainability: A Resource Base and Framework for IT-Enabled Business Transformation},
-  year = {2011},
-  journal = {MIS Quarterly},
-  volume = {35},
-  number = {1},
-  pages = {197--236}
+  author     = {Elliot, Steve},
+  title      = {Transdisciplinary Perspectives on Environmental Sustainability: A Resource Base and Framework for IT-Enabled Business Transformation},
+  year       = {2011},
+  journal    = {MIS Quarterly},
+  volume     = {35},
+  number     = {1},
+  pages      = {197--236}
 }
 ```

@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{GerberDerckxDoppnerEtAl2020,
-  author = {Gerber, Alina and Derckx, Patrick and Döppner, Daniel A. and Schoder, Detlef},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Conceptualization of the Human-Machine Symbiosis - A Literature Review},
-  year = {2020},
-  url = {http://hdl.handle.net/10125/63775}
+  author     = {Gerber, Alina and Derckx, Patrick and Döppner, Daniel A. and Schoder, Detlef},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Conceptualization of the Human-Machine Symbiosis - A Literature Review},
+  year       = {2020},
+  url        = {http://hdl.handle.net/10125/63775}
 }
 ```

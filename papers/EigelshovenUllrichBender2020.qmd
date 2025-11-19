@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{EigelshovenUllrichBender2020,
-  author = {Eigelshoven, Felix and Ullrich, André and Bender, Benedict},
-  booktitle = {European Conference on Information Systems},
-  title = {Public Blockchain - a Systematic literature Review on the Sustainability of consensus Algorithms},
-  year = {2020},
-  url = {https://aisel.aisnet.org/ecis2020_rp/202}
+  author     = {Eigelshoven, Felix and Ullrich, André and Bender, Benedict},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Public Blockchain - a Systematic literature Review on the Sustainability of consensus Algorithms},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/ecis2020_rp/202}
 }
 ```

@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Hess2014,
-  author = {Hess, Traci J. and McNab, Anna L. and Basoglu, K. Asli},
-  title = {Reliability Generalization of Perceived Ease of Use, Perceived Usefulness, and Behavioral Intentions},
-  year = {2014},
-  journal = {MIS Quarterly},
-  volume = {38},
-  number = {1},
-  pages = {1--28}
+  author     = {Hess, Traci J. and McNab, Anna L. and Basoglu, K. Asli},
+  title      = {Reliability Generalization of Perceived Ease of Use, Perceived Usefulness, and Behavioral Intentions},
+  year       = {2014},
+  journal    = {MIS Quarterly},
+  volume     = {38},
+  number     = {1},
+  pages      = {1--28}
 }
 ```

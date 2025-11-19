@@ -19,10 +19,10 @@ Citation:
 
 ```bibtex
 @inproceedings{ZimmermannHeinSchulzEtAl2021,
-  author = {Zimmermann, Sina and Hein, Andreas and Schulz, Thomas and Gewald, Heiko and Krcmar, Helmut},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Digital Nudging Toward Pro-Environmental Behavior - A Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/pacis2021/226}
+  author     = {Zimmermann, Sina and Hein, Andreas and Schulz, Thomas and Gewald, Heiko and Krcmar, Helmut},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Digital Nudging Toward Pro-Environmental Behavior - A Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/226}
 }
 ```

@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Siau2011,
-  author = {Siau, Keng and Nah, Fiona Fui-Hoon and Cao, Qing},
-  title = {A Meta-Analysis Comparing Relational and Semantic Models},
-  year = {2011},
-  journal = {Journal of Database Management},
-  volume = {22},
-  number = {4},
-  pages = {57--72}
+  author     = {Siau, Keng and Nah, Fiona Fui-Hoon and Cao, Qing},
+  title      = {A Meta-Analysis Comparing Relational and Semantic Models},
+  year       = {2011},
+  journal    = {Journal of Database Management},
+  volume     = {22},
+  number     = {4},
+  pages      = {57--72}
 }
 ```

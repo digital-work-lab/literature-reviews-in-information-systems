@@ -16,11 +16,11 @@ Citation:
 
 ```bibtex
 @inproceedings{DadgarJoshi2015,
-  doi = {10.1109/HICSS.2015.388},
-  author = {Dadgar, Majid and Joshi, K. D.},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {ICT-Enabled Self-Management of Chronic Diseases - Literature Review and Analysis Using Value-Sensitive Design},
-  year = {2015},
-  url = {https://ieeexplore.ieee.org/document/7070203}
+  doi        = {10.1109/HICSS.2015.388},
+  author     = {Dadgar, Majid and Joshi, K. D.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {ICT-Enabled Self-Management of Chronic Diseases - Literature Review and Analysis Using Value-Sensitive Design},
+  year       = {2015},
+  url        = {https://ieeexplore.ieee.org/document/7070203}
 }
 ```

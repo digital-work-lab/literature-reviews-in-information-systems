@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{BandaraMiskonFielt2011,
-  author = {Bandara, Wasana and Miskon, Suraya and Fielt, Erwin},
-  booktitle = {European Conference on Information Systems},
-  title = {A systematic, tool-supported method for conducting literature reviews in information systems},
-  year = {2011},
-  url = {http://aisel.aisnet.org/ecis2011/221}
+  author     = {Bandara, Wasana and Miskon, Suraya and Fielt, Erwin},
+  booktitle  = {European Conference on Information Systems},
+  title      = {A systematic, tool-supported method for conducting literature reviews in information systems},
+  year       = {2011},
+  url        = {http://aisel.aisnet.org/ecis2011/221}
 }
 ```

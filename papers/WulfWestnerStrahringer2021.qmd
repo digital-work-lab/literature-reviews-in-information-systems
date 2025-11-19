@@ -17,13 +17,13 @@ Citation:
 
 ```bibtex
 @article{WulfWestnerStrahringer2021,
-  doi = {10.17705/1CAIS.04843},
-  author = {Wulf, Frederik and Westner, Markus and Strahringer, Susanne},
-  journal = {Communications of the Association for Information Systems},
-  title = {Cloud Computing Adoption - A Literature Review on What Is New and What We Still Need to Address},
-  year = {2021},
-  volume = {48},
-  pages = {523--561},
-  url = {https://aisel.aisnet.org/cais/vol48/iss1/44}
+  doi        = {10.17705/1CAIS.04843},
+  author     = {Wulf, Frederik and Westner, Markus and Strahringer, Susanne},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Cloud Computing Adoption - A Literature Review on What Is New and What We Still Need to Address},
+  year       = {2021},
+  volume     = {48},
+  pages      = {523--561},
+  url        = {https://aisel.aisnet.org/cais/vol48/iss1/44}
 }
 ```

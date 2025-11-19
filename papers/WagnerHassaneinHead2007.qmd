@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{WagnerHassaneinHead2007,
-  author = {Wagner, Nicole L. and Hassanein, Khaled and Head, Milena M.},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Computer Interaction for Older Users - A Literature Review},
-  year = {2007},
-  url = {https://aisel.aisnet.org/amcis2007/264}
+  author     = {Wagner, Nicole L. and Hassanein, Khaled and Head, Milena M.},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Computer Interaction for Older Users - A Literature Review},
+  year       = {2007},
+  url        = {https://aisel.aisnet.org/amcis2007/264}
 }
 ```

@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HinsenJohnkUrbach2019,
-  author = {Hinsen, Silvana and Jöhnk, Jan and Urbach, Nils},
-  booktitle = {International Conference on Information Systems},
-  title = {Disentangling the Concept and Role of Continuous Change for IS Research - A Systematic Literature Review},
-  year = {2019},
-  url = {https://aisel.aisnet.org/icis2019/business_models/business_models/12}
+  author     = {Hinsen, Silvana and Jöhnk, Jan and Urbach, Nils},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Disentangling the Concept and Role of Continuous Change for IS Research - A Systematic Literature Review},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/icis2019/business_models/business_models/12}
 }
 ```

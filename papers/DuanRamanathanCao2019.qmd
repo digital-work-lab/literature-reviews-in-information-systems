@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{DuanRamanathanCao2019,
-  author = {Duan, Yanqing and Ramanathan, Ramakrishnan and Cao, Guangming},
-  booktitle = {Americas Conference on Information Systems},
-  title = {A Systematic Literature Review on the Applications of Big Data Analytics - Identifying Influential Factors and Impact},
-  year = {2019},
-  url = {https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/31}
+  author     = {Duan, Yanqing and Ramanathan, Ramakrishnan and Cao, Guangming},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {A Systematic Literature Review on the Applications of Big Data Analytics - Identifying Influential Factors and Impact},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/31}
 }
 ```

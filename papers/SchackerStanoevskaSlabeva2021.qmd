@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{SchackerStanoevskaSlabeva2021,
-  author = {Schacker, Maximilian and Stanoevska-Slabeva, Katarina},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Understanding the Impact of Sustainability and CSR Information in D2C Online Shops on Consumer Attitudes and Behavior - A Literature Review},
-  year = {2021},
-  url = {http://hdl.handle.net/10125/70725}
+  author     = {Schacker, Maximilian and Stanoevska-Slabeva, Katarina},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Understanding the Impact of Sustainability and CSR Information in D2C Online Shops on Consumer Attitudes and Behavior - A Literature Review},
+  year       = {2021},
+  url        = {http://hdl.handle.net/10125/70725}
 }
 ```

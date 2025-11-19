@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Merali2012,
-  author = {Merali, Yasmin and Papadopoulos, Thanos and Nadkarni, Tanvee},
-  title = {Information Systems Strategy: Past, Present, Future?},
-  year = {2012},
-  journal = {The Journal of Strategic Information Systems},
-  volume = {21},
-  number = {2},
-  pages = {125--153}
+  author     = {Merali, Yasmin and Papadopoulos, Thanos and Nadkarni, Tanvee},
+  title      = {Information Systems Strategy: Past, Present, Future?},
+  year       = {2012},
+  journal    = {The Journal of Strategic Information Systems},
+  volume     = {21},
+  number     = {2},
+  pages      = {125--153}
 }
 ```

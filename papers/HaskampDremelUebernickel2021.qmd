@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HaskampDremelUebernickel2021,
-  author = {Haskamp, Thomas and Dremel, Christian and Uebernickel, Falk},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Towards a Critical Realist Understanding of Digital Transformation - Results of a Structured Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/amcis2021/phil_socio_digital_innov_entren/phil_socio_digital_innov_entren/2}
+  author     = {Haskamp, Thomas and Dremel, Christian and Uebernickel, Falk},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Towards a Critical Realist Understanding of Digital Transformation - Results of a Structured Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/amcis2021/phil_socio_digital_innov_entren/phil_socio_digital_innov_entren/2}
 }
 ```

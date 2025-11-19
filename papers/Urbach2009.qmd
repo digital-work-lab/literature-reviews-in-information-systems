@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Urbach2009,
-  author = {Urbach, Nils and Smolnik, Stefan and Riempp, Gerold},
-  title = {The State of Research on Information Systems Success},
-  year = {2009},
-  journal = {Business & Information Systems Engineering},
-  volume = {1},
-  number = {4},
-  pages = {315--325}
+  author     = {Urbach, Nils and Smolnik, Stefan and Riempp, Gerold},
+  title      = {The State of Research on Information Systems Success},
+  year       = {2009},
+  journal    = {Business & Information Systems Engineering},
+  volume     = {1},
+  number     = {4},
+  pages      = {315--325}
 }
 ```

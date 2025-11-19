@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{RosenthalTernesStrecker2018,
-  author = {Rosenthal, Kristina and Ternes, Benjamin and Strecker, Stefan},
-  booktitle = {European Conference on Information Systems},
-  title = {Business Process Simulation - A Systematic Literature Review},
-  year = {2018},
-  url = {https://aisel.aisnet.org/ecis2018_rp/199}
+  author     = {Rosenthal, Kristina and Ternes, Benjamin and Strecker, Stefan},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Business Process Simulation - A Systematic Literature Review},
+  year       = {2018},
+  url        = {https://aisel.aisnet.org/ecis2018_rp/199}
 }
 ```

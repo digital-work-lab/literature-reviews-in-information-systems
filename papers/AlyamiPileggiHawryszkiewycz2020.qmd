@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{AlyamiPileggiHawryszkiewycz2020,
-  author = {Alyami, Abdulrahman and Pileggi, Salvatore F. and Hawryszkiewycz, Igor T.},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {The Impact of New Technologies on Learning - A Literature review on Mobile Collaborative Learning},
-  year = {2020},
-  url = {https://aisel.aisnet.org/pacis2020/213}
+  author     = {Alyami, Abdulrahman and Pileggi, Salvatore F. and Hawryszkiewycz, Igor T.},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {The Impact of New Technologies on Learning - A Literature review on Mobile Collaborative Learning},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/pacis2020/213}
 }
 ```

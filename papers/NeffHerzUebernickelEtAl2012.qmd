@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{NeffHerzUebernickelEtAl2012,
-  author = {Neff, Alexander A. and Herz, Thomas and Uebernickel, Falk and Brenner, Walter},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {The Influence Of Information Technology On Industrial Services In The Manufacturing Industry - A Literature Review And Future Research Directions},
-  year = {2012},
-  url = {https://aisel.aisnet.org/pacis2012/57}
+  author     = {Neff, Alexander A. and Herz, Thomas and Uebernickel, Falk and Brenner, Walter},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {The Influence Of Information Technology On Industrial Services In The Manufacturing Industry - A Literature Review And Future Research Directions},
+  year       = {2012},
+  url        = {https://aisel.aisnet.org/pacis2012/57}
 }
 ```

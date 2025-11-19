@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{LewandowskiDellingGrotherrEtAl2021,
-  author = {Lewandowski, Tom and Delling, Jasmin and Grotherr, Christian and Böhmann, Tilo},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {State-of-the-Art Analysis of Adopting AI-based Conversational Agents in Organizations - A Systematic Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/pacis2021/167}
+  author     = {Lewandowski, Tom and Delling, Jasmin and Grotherr, Christian and Böhmann, Tilo},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {State-of-the-Art Analysis of Adopting AI-based Conversational Agents in Organizations - A Systematic Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/167}
 }
 ```

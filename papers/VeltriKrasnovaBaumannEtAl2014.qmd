@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{VeltriKrasnovaBaumannEtAl2014,
-  author = {Veltri, Natasha F. and Krasnova, Hanna and Baumann, Annika and Kalayamthanam, Neena},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Gender Differences in Online Gaming - A Literature Review},
-  year = {2014},
-  url = {https://aisel.aisnet.org/amcis2014/SocioTechnicalIssues/GeneralPresentations/5}
+  author     = {Veltri, Natasha F. and Krasnova, Hanna and Baumann, Annika and Kalayamthanam, Neena},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Gender Differences in Online Gaming - A Literature Review},
+  year       = {2014},
+  url        = {https://aisel.aisnet.org/amcis2014/SocioTechnicalIssues/GeneralPresentations/5}
 }
 ```

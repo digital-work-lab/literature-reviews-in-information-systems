@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Rosenkranz2013b,
-  author = {Rosenkranz, Nadine and Eckhardt, Andreas and Kühne, Mirko and Rosenkranz, Christoph},
-  title = {Health Information on the Internet},
-  year = {2013},
-  journal = {Business & Information Systems Engineering},
-  volume = {5},
-  number = {4},
-  pages = {259--274}
+  author     = {Rosenkranz, Nadine and Eckhardt, Andreas and Kühne, Mirko and Rosenkranz, Christoph},
+  title      = {Health Information on the Internet},
+  year       = {2013},
+  journal    = {Business & Information Systems Engineering},
+  volume     = {5},
+  number     = {4},
+  pages      = {259--274}
 }
 ```

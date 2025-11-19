@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Evermann2008,
-  author = {Evermann, Joerg},
-  title = {Theories of Meaning in Schema Matching: A Review},
-  year = {2008},
-  journal = {Journal of Database Management},
-  volume = {19},
-  number = {3},
-  pages = {55--82}
+  author     = {Evermann, Joerg},
+  title      = {Theories of Meaning in Schema Matching: A Review},
+  year       = {2008},
+  journal    = {Journal of Database Management},
+  volume     = {19},
+  number     = {3},
+  pages      = {55--82}
 }
 ```

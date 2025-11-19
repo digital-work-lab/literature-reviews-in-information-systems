@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{AinVaiaDeLone2019,
-  author = {Ain, NoorUl and Vaia, Giovanni and DeLone, William H.},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Business Intelligence System Adoption, Utilization and Success - A Systematic Literature Review},
-  year = {2019},
-  url = {http://hdl.handle.net/10125/60024}
+  author     = {Ain, NoorUl and Vaia, Giovanni and DeLone, William H.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Business Intelligence System Adoption, Utilization and Success - A Systematic Literature Review},
+  year       = {2019},
+  url        = {http://hdl.handle.net/10125/60024}
 }
 ```

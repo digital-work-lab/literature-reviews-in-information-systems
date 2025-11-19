@@ -15,12 +15,12 @@ Citation:
 
 ```bibtex
 @article{Zwass2003,
-  author = {Zwass, Vladimir},
-  title = {Electronic Commerce and Organizational Innovation: Aspects and Opportunities},
-  year = {2003},
-  journal = {International Journal of Electronic Commerce},
-  volume = {7},
-  number = {3},
-  pages = {7--37}
+  author     = {Zwass, Vladimir},
+  title      = {Electronic Commerce and Organizational Innovation: Aspects and Opportunities},
+  year       = {2003},
+  journal    = {International Journal of Electronic Commerce},
+  volume     = {7},
+  number     = {3},
+  pages      = {7--37}
 }
 ```

@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{AgyeiOwusuMarfoQuansahEtAl2021,
-  author = {Agyei-Owusu, Benjamin and Marfo, John Serbe and Quansah, Emmanuel Kweku and Kumi, Caleb Amankwaa},
-  booktitle = {Americas Conference on Information Systems},
-  title = {The use of interorganizational information systems in digitalizing supply chains - a systematic literature review and research agenda for Africa},
-  year = {2021},
-  url = {https://aisel.aisnet.org/amcis2021/global_develop/global_develop/11}
+  author     = {Agyei-Owusu, Benjamin and Marfo, John Serbe and Quansah, Emmanuel Kweku and Kumi, Caleb Amankwaa},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {The use of interorganizational information systems in digitalizing supply chains - a systematic literature review and research agenda for Africa},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/amcis2021/global_develop/global_develop/11}
 }
 ```

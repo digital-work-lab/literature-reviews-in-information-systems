@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Wirth2018,
-  author = {Wirth, Jakob},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Dependent Variables in the Privacy-Related Field - A Descriptive Literature Review},
-  year = {2018},
-  url = {http://hdl.handle.net/10125/50351}
+  author     = {Wirth, Jakob},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Dependent Variables in the Privacy-Related Field - A Descriptive Literature Review},
+  year       = {2018},
+  url        = {http://hdl.handle.net/10125/50351}
 }
 ```

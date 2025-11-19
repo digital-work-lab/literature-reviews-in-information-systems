@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{BrockeSchmiedel2011,
-  author = {Brocke, Jan vom and Schmiedel, Theresa},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Towards A Conceptualisation Of BPM-Culture - Results From A Literature Review},
-  year = {2011},
-  url = {https://aisel.aisnet.org/pacis2011/203}
+  author     = {Brocke, Jan vom and Schmiedel, Theresa},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Towards A Conceptualisation Of BPM-Culture - Results From A Literature Review},
+  year       = {2011},
+  url        = {https://aisel.aisnet.org/pacis2011/203}
 }
 ```

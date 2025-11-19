@@ -16,11 +16,11 @@ Citation:
 
 ```bibtex
 @inproceedings{BuettnerBuettner2016,
-  doi = {10.1109/HICSS.2016.277},
-  author = {Buettner, Ricardo and Buettner, Katharina},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {A Systematic Literature Review of Twitter Research from a Socio-Political Revolution Perspective},
-  year = {2016},
-  url = {https://ieeexplore.ieee.org/document/7427460}
+  doi        = {10.1109/HICSS.2016.277},
+  author     = {Buettner, Ricardo and Buettner, Katharina},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {A Systematic Literature Review of Twitter Research from a Socio-Political Revolution Perspective},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427460}
 }
 ```

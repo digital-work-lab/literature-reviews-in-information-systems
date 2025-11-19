@@ -18,10 +18,10 @@ Citation:
 
 ```bibtex
 @inproceedings{TauchertBenderMesbahEtAl2020,
-  author = {Tauchert, Christoph and Bender, Marco and Mesbah, Neda and Buxmann, Peter},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Towards an Integrative Approach for Automated Literature Reviews Using Machine Learning},
-  year = {2020},
-  url = {http://hdl.handle.net/10125/63834}
+  author     = {Tauchert, Christoph and Bender, Marco and Mesbah, Neda and Buxmann, Peter},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Towards an Integrative Approach for Automated Literature Reviews Using Machine Learning},
+  year       = {2020},
+  url        = {http://hdl.handle.net/10125/63834}
 }
 ```

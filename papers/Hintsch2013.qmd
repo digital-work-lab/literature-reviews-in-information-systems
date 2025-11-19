@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Hintsch2013,
-  author = {Hintsch, Johannes},
-  booktitle = {Americas Conference on Information Systems},
-  title = {ERP for the IT Service Industry - A Structured Literature Review},
-  year = {2013},
-  url = {https://aisel.aisnet.org/amcis2013/EnterpriseSystems/GeneralPresentations/4}
+  author     = {Hintsch, Johannes},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {ERP for the IT Service Industry - A Structured Literature Review},
+  year       = {2013},
+  url        = {https://aisel.aisnet.org/amcis2013/EnterpriseSystems/GeneralPresentations/4}
 }
 ```

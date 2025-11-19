@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{FaberdeReuver2019,
-  author = {Faber, Roel and de Reuver, Mark},
-  booktitle = {European Conference on Information Systems},
-  title = {Consumer studies on Digital Platforms Adoption and continuance - a Structured literature Review},
-  year = {2019},
-  url = {https://aisel.aisnet.org/ecis2019_rp/121}
+  author     = {Faber, Roel and de Reuver, Mark},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Consumer studies on Digital Platforms Adoption and continuance - a Structured literature Review},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/ecis2019_rp/121}
 }
 ```

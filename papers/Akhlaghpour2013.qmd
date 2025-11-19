@@ -18,12 +18,12 @@ Citation:
 
 ```bibtex
 @article{Akhlaghpour2013,
-  author = {Akhlaghpour, Saeed and Wu, Jing and Lapointe, Liette and Pinsonneault, Alain},
-  title = {The Ongoing Quest For The IT Artifact: Looking Back, Moving Forward},
-  year = {2013},
-  journal = {Journal of Information Technology},
-  volume = {28},
-  number = {2},
-  pages = {150--166}
+  author     = {Akhlaghpour, Saeed and Wu, Jing and Lapointe, Liette and Pinsonneault, Alain},
+  title      = {The Ongoing Quest For The IT Artifact: Looking Back, Moving Forward},
+  year       = {2013},
+  journal    = {Journal of Information Technology},
+  volume     = {28},
+  number     = {2},
+  pages      = {150--166}
 }
 ```

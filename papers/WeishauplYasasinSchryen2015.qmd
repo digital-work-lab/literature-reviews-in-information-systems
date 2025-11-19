@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{WeishauplYasasinSchryen2015,
-  author = {Weishäupl, Eva and Yasasin, Emrah and Schryen, Guido},
-  booktitle = {International Conference on Information Systems},
-  title = {A Multi-Theoretical Literature Review on Information Security Investments using the Resource-Based View and the Organizational Learning Theory},
-  year = {2015},
-  url = {http://aisel.aisnet.org/icis2015/proceedings/SecurityIS/16}
+  author     = {Weishäupl, Eva and Yasasin, Emrah and Schryen, Guido},
+  booktitle  = {International Conference on Information Systems},
+  title      = {A Multi-Theoretical Literature Review on Information Security Investments using the Resource-Based View and the Organizational Learning Theory},
+  year       = {2015},
+  url        = {http://aisel.aisnet.org/icis2015/proceedings/SecurityIS/16}
 }
 ```

@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{ScharStanoevskaSlabeva2019,
-  author = {Schär, Armando and Stanoevska-Slabeva, Katarina},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Application of Digital Nudging in Customer Journeys - A Systematic Literature Review},
-  year = {2019},
-  url = {https://aisel.aisnet.org/amcis2019/meta_research_is/meta_research_is/13}
+  author     = {Schär, Armando and Stanoevska-Slabeva, Katarina},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Application of Digital Nudging in Customer Journeys - A Systematic Literature Review},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/amcis2019/meta_research_is/meta_research_is/13}
 }
 ```

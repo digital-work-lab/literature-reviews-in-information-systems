@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Inocencio2018,
-  author = {Inocencio, Fabricio},
-  booktitle = {International Conference on Information Systems},
-  title = {Using Gamification in Education - A Systematic Literature Review},
-  year = {2018},
-  url = {https://aisel.aisnet.org/icis2018/behavior/Presentations/3}
+  author     = {Inocencio, Fabricio},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Using Gamification in Education - A Systematic Literature Review},
+  year       = {2018},
+  url        = {https://aisel.aisnet.org/icis2018/behavior/Presentations/3}
 }
 ```

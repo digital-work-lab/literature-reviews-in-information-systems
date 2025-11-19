@@ -17,14 +17,14 @@ Citation:
 
 ```bibtex
 @article{WienerVogelAmberg2010,
-  doi = {10.17705/1CAIS.02725},
-  author = {Wiener, Martin and Vogel, Bianca and Amberg, Michael},
-  journal = {Communications of the Association for Information Systems},
-  title = {Information Systems Offshoring - A Literature Review and Analysis},
-  year = {2010},
-  volume = {27},
-  pages = {455--492},
-  url = {https://aisel.aisnet.org/cais/vol27/iss1/25},
-  cited_by = {7}
+  doi        = {10.17705/1CAIS.02725},
+  author     = {Wiener, Martin and Vogel, Bianca and Amberg, Michael},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Information Systems Offshoring - A Literature Review and Analysis},
+  year       = {2010},
+  volume     = {27},
+  pages      = {455--492},
+  url        = {https://aisel.aisnet.org/cais/vol27/iss1/25},
+  cited_by   = {7}
 }
 ```

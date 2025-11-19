@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{HalckenhaeusserFordererHeinzl2020,
-  author = {Halckenhaeusser, André and Förderer, Jens and Heinzl, Armin},
-  booktitle = {European Conference on Information Systems},
-  title = {Platform Governance Mechanisms - An Integrated Literature Review and Research Directions},
-  year = {2020},
-  url = {https://aisel.aisnet.org/ecis2020_rp/30}
+  author     = {Halckenhaeusser, André and Förderer, Jens and Heinzl, Armin},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Platform Governance Mechanisms - An Integrated Literature Review and Research Directions},
+  year       = {2020},
+  url        = {https://aisel.aisnet.org/ecis2020_rp/30}
 }
 ```

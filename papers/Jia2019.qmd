@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Jia2019,
-  author = {Jia, Shizhen},
-  booktitle = {Pacific Asia Conference on Information Systems},
-  title = {Literature Review of YouTube in Teaching Activities},
-  year = {2019},
-  url = {https://aisel.aisnet.org/pacis2019/228}
+  author     = {Jia, Shizhen},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Literature Review of YouTube in Teaching Activities},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/pacis2019/228}
 }
 ```

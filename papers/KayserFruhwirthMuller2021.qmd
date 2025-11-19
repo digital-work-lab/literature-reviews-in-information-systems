@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{KayserFruhwirthMuller2021,
-  author = {Kayser, Liza and Fruhwirth, Michael and Müller, Roland M.},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {Realizing Value with Data and Analytics - A Structured Literature Review on Classification Approaches of Data-Driven Innovations},
-  year = {2021},
-  url = {http://hdl.handle.net/10125/71310}
+  author     = {Kayser, Liza and Fruhwirth, Michael and Müller, Roland M.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Realizing Value with Data and Analytics - A Structured Literature Review on Classification Approaches of Data-Driven Innovations},
+  year       = {2021},
+  url        = {http://hdl.handle.net/10125/71310}
 }
 ```

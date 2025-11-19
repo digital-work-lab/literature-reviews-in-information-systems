@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{SharmanRaoUpadhyaya2004,
-  author = {Sharman, Raj and Rao, H. Raghav and Upadhyaya, Shambhu J.},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Metrics for Information Security - A literature review},
-  year = {2004},
-  url = {https://aisel.aisnet.org/amcis2004/181}
+  author     = {Sharman, Raj and Rao, H. Raghav and Upadhyaya, Shambhu J.},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Metrics for Information Security - A literature review},
+  year       = {2004},
+  url        = {https://aisel.aisnet.org/amcis2004/181}
 }
 ```

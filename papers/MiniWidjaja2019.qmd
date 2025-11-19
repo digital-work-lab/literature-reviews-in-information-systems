@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{MiniWidjaja2019,
-  author = {Mini, Tobias and Widjaja, Thomas},
-  booktitle = {International Conference on Information Systems},
-  title = {Tensions in Digital Platform Business Models - A Literature Review},
-  year = {2019},
-  url = {https://aisel.aisnet.org/icis2019/is_heart_of_innovation_ecosystems/innovation_ecosystems/6}
+  author     = {Mini, Tobias and Widjaja, Thomas},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Tensions in Digital Platform Business Models - A Literature Review},
+  year       = {2019},
+  url        = {https://aisel.aisnet.org/icis2019/is_heart_of_innovation_ecosystems/innovation_ecosystems/6}
 }
 ```

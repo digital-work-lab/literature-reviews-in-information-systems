@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Shin2000,
-  author = {Shin, Bongsik and Liu Sheng, Olivia R. and Higa, Kunihiko},
-  title = {Telework: Existing Research and Future Directions},
-  year = {2000},
-  journal = {Journal of Organizational Computing and Electronic Commerce},
-  volume = {10},
-  number = {2},
-  pages = {85--101}
+  author     = {Shin, Bongsik and Liu Sheng, Olivia R. and Higa, Kunihiko},
+  title      = {Telework: Existing Research and Future Directions},
+  year       = {2000},
+  journal    = {Journal of Organizational Computing and Electronic Commerce},
+  volume     = {10},
+  number     = {2},
+  pages      = {85--101}
 }
 ```

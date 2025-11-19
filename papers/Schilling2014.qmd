@@ -15,11 +15,11 @@ Citation:
 
 ```bibtex
 @inproceedings{Schilling2014,
-  doi = {10.1109/HICSS.2014.495},
-  author = {Schilling, Andreas},
-  booktitle = {Hawaii International Conference on System Sciences},
-  title = {What Do We Know about FLOSS Developers' Attraction, Retention, and Commitment? A Literature Review},
-  year = {2014},
-  url = {https://ieeexplore.ieee.org/document/6759097}
+  doi        = {10.1109/HICSS.2014.495},
+  author     = {Schilling, Andreas},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {What Do We Know about FLOSS Developers' Attraction, Retention, and Commitment? A Literature Review},
+  year       = {2014},
+  url        = {https://ieeexplore.ieee.org/document/6759097}
 }
 ```

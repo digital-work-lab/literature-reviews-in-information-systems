@@ -17,12 +17,12 @@ Citation:
 
 ```bibtex
 @article{Trinh-Phuong2012,
-  author = {Trinh-Phuong, Thao and Molla, Alemayehu and Peszynski, Konrad},
-  title = {Enterprise Systems and Organizational Agility: A Review of the Literature and Conceptual Framework},
-  year = {2012},
-  journal = {Communications of the Association for Information Systems},
-  volume = {31},
-  number = {8},
-  pages = {167--193}
+  author     = {Trinh-Phuong, Thao and Molla, Alemayehu and Peszynski, Konrad},
+  title      = {Enterprise Systems and Organizational Agility: A Review of the Literature and Conceptual Framework},
+  year       = {2012},
+  journal    = {Communications of the Association for Information Systems},
+  volume     = {31},
+  number     = {8},
+  pages      = {167--193}
 }
 ```

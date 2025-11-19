@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{RiedlLeimeisterKrcmar2009,
-  author = {Riedl, Christoph and Leimeister, Jan Marco and Krcmar, Helmut},
-  booktitle = {Americas Conference on Information Systems},
-  title = {New Service Development for Electronic Services - A Literature Review},
-  year = {2009},
-  url = {https://aisel.aisnet.org/amcis2009/606}
+  author     = {Riedl, Christoph and Leimeister, Jan Marco and Krcmar, Helmut},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {New Service Development for Electronic Services - A Literature Review},
+  year       = {2009},
+  url        = {https://aisel.aisnet.org/amcis2009/606}
 }
 ```

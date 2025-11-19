@@ -17,10 +17,10 @@ Citation:
 
 ```bibtex
 @inproceedings{EigelshovenUllrichParry2021,
-  author = {Eigelshoven, Felix and Ullrich, André and Parry, Douglas},
-  booktitle = {International Conference on Information Systems},
-  title = {Cryptocurrency Market Manipulation - A Systematic Literature Review},
-  year = {2021},
-  url = {https://aisel.aisnet.org/icis2021/fintech/fintech/1}
+  author     = {Eigelshoven, Felix and Ullrich, André and Parry, Douglas},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Cryptocurrency Market Manipulation - A Systematic Literature Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/icis2021/fintech/fintech/1}
 }
 ```

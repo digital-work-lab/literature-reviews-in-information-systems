@@ -15,10 +15,10 @@ Citation:
 
 ```bibtex
 @inproceedings{Merz2018,
-  author = {Merz, Alexander Benedikt},
-  booktitle = {European Conference on Information Systems},
-  title = {Mechanisms to Select Ideas in Crowdsourced Innovation Contests - A Systematic Literature Review and Research Agenda},
-  year = {2018},
-  url = {https://aisel.aisnet.org/ecis2018_rp/68}
+  author     = {Merz, Alexander Benedikt},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Mechanisms to Select Ideas in Crowdsourced Innovation Contests - A Systematic Literature Review and Research Agenda},
+  year       = {2018},
+  url        = {https://aisel.aisnet.org/ecis2018_rp/68}
 }
 ```

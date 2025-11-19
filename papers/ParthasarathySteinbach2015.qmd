@@ -16,10 +16,10 @@ Citation:
 
 ```bibtex
 @inproceedings{ParthasarathySteinbach2015,
-  author = {Parthasarathy, Rangarajan and Steinbach, Theresa A.},
-  booktitle = {Americas Conference on Information Systems},
-  title = {Health Informatics for Healthcare Quality Improvement - A Literature Review of Issues, Challenges and Findings},
-  year = {2015},
-  url = {https://aisel.aisnet.org/amcis2015/HealthIS/GeneralPresentations/1}
+  author     = {Parthasarathy, Rangarajan and Steinbach, Theresa A.},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Health Informatics for Healthcare Quality Improvement - A Literature Review of Issues, Challenges and Findings},
+  year       = {2015},
+  url        = {https://aisel.aisnet.org/amcis2015/HealthIS/GeneralPresentations/1}
 }
 ```
