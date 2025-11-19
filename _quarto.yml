@@ -27,13 +27,12 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
     toc: true
     toc-depth: 3
     code-fold: true
     smooth-scroll: true
-    body-width: 800px
+    grid:
+      body-width: 1100px
 
 execute:
   freeze: auto

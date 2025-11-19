@@ -1,5 +1,5 @@
 ---
-title: "Paper Statistics"
+title: "Statistics"
 format:
   html:
     toc: true
@@ -9,7 +9,6 @@ execute:
   warning: false
   message: false
 ---
-
 
 ```{r}
 #| label: setup
@@ -25,7 +24,7 @@ library(DT)
 df <- readr::read_csv("records.csv", show_col_types = FALSE)
 ```
 
-## Publication Count Over Time
+## Timeline
 
 ```{r}
 #| label: pubs_over_time
@@ -48,7 +47,7 @@ plot_ly(
   )
 ```
 
-## Journal Frequency Table
+## Journals
 
 ```{r}
 #| label: journal_freq
@@ -61,29 +60,6 @@ df %>%
     rownames = FALSE
   )
 ```
-
-## Journal Frequency Plot (Top 10 Journals)
-
-```{r}
-#| label: journal_freq_plot
-#| fig-cap: "Top Journals by Number of Publications"
-
-top_journals <- df %>%
-  dplyr::count(journal, sort = TRUE) %>%
-  dplyr::slice_max(n, n = 10)
-
-plot_ly(
-  data = top_journals,
-  x = ~n,
-  y = ~reorder(journal, n),
-  type = "bar",
-  orientation = "h"
-) %>%
-  layout(
-    xaxis = list(title = "Count"),
-    yaxis = list(title = "Journal")
-  )
-``` 
 
 ## Types of reviews
 
