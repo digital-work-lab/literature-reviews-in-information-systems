@@ -14,7 +14,7 @@ cited_by: 21
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Trinh-Phuong2012,
@@ -27,4 +27,22 @@ Citation:
   number     = {8},
   pages      = {167--193}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Trinh, Thao Phuong
+AU  - Molla, Alemayehu
+AU  - Peszynski, Konrad
+TI  - Enterprise Systems and Organizational Agility: A Review of the Literature and Conceptual Framework
+T2  - Communications of the Association for Information Systems
+PY  - 2012
+VL  - 31
+IS  - 8
+SP  - 167
+EP  - 193
+DO  - 10.17705/1CAIS.03108
+ER  - 
 ```

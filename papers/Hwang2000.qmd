@@ -14,7 +14,7 @@ cited_by: 23
 outlet: "Information Resources Management Journal"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Hwang2000,
@@ -28,4 +28,22 @@ Citation:
   pages      = {26--32},
   abstract   = {This study was conducted to create a knowledge base for MIS research. Building on two previous theoretical models, a systems success model relating six independent variables (external environment, organizational environment, user environment, IS operations environment, IS development environment, and information systems) to four success variables (use, satisfaction, individual impact, and organizational impact) was developed. This model was tested using data from 82 empirical studies in a meta-analysis. Results showed that all but one independent variable, external environment, had a significant relationship with success variables. In addition, each independent variable had varying strengths of relationships with different success variables. The findings yield important guidelines for the selection of variables in future research. The validated systems success model is general and theory based, and is useful in providing directions for future research.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Hwang, Mark I.
+AU  - Windsor, John C.
+AU  - Pryor, Alan
+TI  - Building a Knowledge Base for MIS Research
+T2  - Information Resources Management Journal
+PY  - 2000
+VL  - 13
+IS  - 2
+SP  - 26
+EP  - 32
+DO  - 10.4018/IRMJ.2000040103
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 1
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{wang2025labour,
@@ -26,4 +26,20 @@ Citation:
   number     = {2},
   pages      = {101903}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wang, Blair
+AU  - Prester, Julian
+TI  - A labour perspective on videoconferencing fatigue: Critical review and reframing
+T2  - The Journal of Strategic Information Systems
+PY  - 2025
+VL  - 34
+IS  - 2
+SP  - 101903
+DO  - 10.1016/J.JSIS.2025.101903
+ER  - 
 ```

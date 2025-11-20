@@ -15,7 +15,7 @@ cited_by: 218
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Ghosh2007a,
@@ -28,4 +28,23 @@ Citation:
   number     = {4},
   pages      = {2164--2185}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Ghosh, Debanjan
+AU  - Sharman, Raj
+AU  - Raghav Rao, H.
+AU  - Upadhyaya, Shambhu
+TI  - Self-healing systems — survey and synthesis
+T2  - Decision Support Systems
+PY  - 2007
+VL  - 42
+IS  - 4
+SP  - 2164
+EP  - 2185
+DO  - 10.1016/J.DSS.2006.06.011
+ER  - 
 ```

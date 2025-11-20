@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{DenzlerEndersAkello2021,
@@ -24,4 +24,18 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/amcis2021/art_intel_sem_tech_intelligent_systems/art_intel_sem_tech_intelligent_systems/4}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Denzler, Tim
+AU  - Enders, Martin Robert
+AU  - Akello, Patricia
+TI  - Towards a Semi-Automated Approach for Systematic Literature Reviews
+T2  - Americas Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/amcis2021/art_intel_sem_tech_intelligent_systems/art_intel_sem_tech_intelligent_systems/4
+ER  - 
 ```

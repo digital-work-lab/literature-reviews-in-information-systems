@@ -13,7 +13,7 @@ cited_by: 97
 outlet: "Journal of Management Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{QahriSaremiMontazemi2019,
@@ -29,4 +29,22 @@ Citation:
   pages      = {969--1001},
   url        = {https://www.tandfonline.com/doi/full/10.1080/07421222.2019.1628936}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Qahri-Saremi, Hamed
+AU  - Montazemi, Ali Reza
+TI  - Factors Affecting the Adoption of an Electronic Word of Mouth Message: A Meta-Analysis
+T2  - Journal of Management Information Systems
+PY  - 2019
+VL  - 36
+IS  - 3
+SP  - 969
+EP  - 1001
+DO  - 10.1080/07421222.2019.1628936
+UR  - https://www.tandfonline.com/doi/full/10.1080/07421222.2019.1628936
+ER  - 
 ```

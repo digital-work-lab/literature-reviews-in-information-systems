@@ -12,7 +12,7 @@ cited_by: 778
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Seuring2013,
@@ -25,4 +25,20 @@ Citation:
   number     = {4},
   pages      = {1513--1520}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Seuring, Stefan
+TI  - A review of modeling approaches for sustainable supply chain management
+T2  - Decision Support Systems
+PY  - 2013
+VL  - 54
+IS  - 4
+SP  - 1513
+EP  - 1520
+DO  - 10.1016/J.DSS.2012.05.053
+ER  - 
 ```

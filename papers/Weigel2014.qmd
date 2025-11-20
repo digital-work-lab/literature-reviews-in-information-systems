@@ -15,7 +15,7 @@ cited_by: 31
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Weigel2014,
@@ -28,4 +28,23 @@ Citation:
   number     = {1},
   pages      = {619--636}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Weigel, Fred K.
+AU  - Hazen, Benjamin T.
+AU  - Cegielski, Casey G.
+AU  - Hall, Dianne J.
+TI  - Diffusion of Innovations and the Theory of Planned Behavior in Information Systems Research: A Metaanalysis
+T2  - Communications of the Association for Information Systems
+PY  - 2014
+VL  - 34
+IS  - 1
+SP  - 619
+EP  - 636
+DO  - 10.17705/1CAIS.03431
+ER  - 
 ```

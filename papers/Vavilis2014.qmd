@@ -14,7 +14,7 @@ cited_by: 61
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Vavilis2014,
@@ -27,4 +27,22 @@ Citation:
   number     = {no issue},
   pages      = {147--154}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Vavilis, Sokratis
+AU  - Petković, Milan
+AU  - Zannone, Nicola
+TI  - A reference model for reputation systems
+T2  - Decision Support Systems
+PY  - 2014
+VL  - 61
+IS  - no issue
+SP  - 147
+EP  - 154
+DO  - 10.1016/J.DSS.2014.02.002
+ER  - 
 ```

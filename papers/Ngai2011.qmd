@@ -16,7 +16,7 @@ cited_by: 856
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Ngai2011,
@@ -29,4 +29,24 @@ Citation:
   number     = {3},
   pages      = {559--569}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Ngai, E.W.T.
+AU  - Hu, Yong
+AU  - Wong, Y.H.
+AU  - Chen, Yijun
+AU  - Sun, Xin
+TI  - The application of data mining techniques in financial fraud detection: A classification framework and an academic review of literature
+T2  - Decision Support Systems
+PY  - 2011
+VL  - 50
+IS  - 3
+SP  - 559
+EP  - 569
+DO  - 10.1016/J.DSS.2010.08.006
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{ZhaoYun2020,
@@ -23,4 +23,17 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/pacis2020/92}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Zhao, Wenjin
+AU  - Yun, Xu
+TI  - A Literature Review on Social Media Marketing - Social, Behavioral and Market-related Influences
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/pacis2020/92
+ER  - 
 ```

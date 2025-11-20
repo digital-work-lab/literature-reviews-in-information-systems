@@ -15,7 +15,7 @@ cited_by: 18
 outlet: "Journal of Information Technology"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{LacitySchuetzKuaiEtAl2025,
@@ -30,4 +30,23 @@ Citation:
   abstract   = {Trust is one of the most important constructs for understanding the adoption of information technologies (IT). In this paper, we review and analyze two literatures on the construct of human trust in IT artifacts and in the entities that source, operate, and govern IT. The first literature review focuses on defining of the construct of trust across a range of disciplines. Our analysis of this literature identified 13 assumptions about the nature of trust. The assumptions illustrate the complexities of human trust. The second literature review focused on 214 empirical studies of the construct of trust published in the AIS Senior Scholars’ Basket of Eight journals. We analyze this literature to identify IS scholar’s most common assessments of trust from qualitative studies and most common measures of trust from quantitative studies. As a cumulative body of knowledge, IS scholars have deeply examined the multidimensional aspect of trust by examining different types of trust, including affective trust, cognitive trust, institutional trust, instrumental trust, intrinsic trust, knowledge-based trust, relational trust, swift trust, disposition to trust, trusting beliefs, and more. IS scholars have also extensively examined the assumption that trust is dynamic, as evidenced by the many qualitative papers that examined trust as a process. Our review also finds that IS scholars have conducted extensive research examining trust in Web2 technologies, which are characterized by centralized applications and centralized governance. While the IS scholarly community has established a substantial tradition around the construct of trust, there is still interesting work to be done. With recent releases of open generative AI and with the rise of Web3 technologies like blockchains that purport to be “trustless,” the construct of trust in IT needs to be re-examined in these emerging contexts. We also encourage more research on trust in bi-directional relationships, on the limits of transitive trust, and on the construct of distrust.},
   fulltext   = {https://journals.sagepub.com/doi/pdf/10.1177/02683962231226397}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Lacity, Mary C
+AU  - Schuetz, Sebastian W
+AU  - Kuai, Le
+AU  - Steelman, Zachary R
+TI  - IT’s a matter of trust: Literature reviews and analyses of human trust in information technology
+T2  - Journal of Information Technology
+PY  - 2025
+VL  - 40
+IS  - 3
+SP  - 286
+EP  - 313
+DO  - 10.1177/02683962231226397
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 69
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Myers2014,
@@ -26,4 +26,21 @@ Citation:
   number     = {6},
   pages      = {801--809}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Myers, Michael D.
+AU  - Venable, John R.
+TI  - A set of ethical principles for design science research in information systems
+T2  - Information & Management
+PY  - 2014
+VL  - 51
+IS  - 6
+SP  - 801
+EP  - 809
+DO  - 10.1016/J.IM.2014.01.002
+ER  - 
 ```

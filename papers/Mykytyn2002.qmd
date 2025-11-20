@@ -16,7 +16,7 @@ cited_by: 19
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Mykytyn2002,
@@ -29,4 +29,24 @@ Citation:
   number     = {1},
   pages      = {59--82}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Mykytyn, Kathleen
+AU  - Mykytyn, Peter P.
+AU  - Bordoloi, Bijoy
+AU  - McKinney, Vicki
+AU  - Bandyopadhyay, Kakoli
+TI  - The role of software patents in sustaining IT-enabled competitive advantage: a call for research
+T2  - The Journal of Strategic Information Systems
+PY  - 2002
+VL  - 11
+IS  - 1
+SP  - 59
+EP  - 82
+DO  - 10.1016/S0963-8687(01)00057-9
+ER  - 
 ```

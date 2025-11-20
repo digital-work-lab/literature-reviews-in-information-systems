@@ -15,7 +15,7 @@ cited_by: 10
 outlet: "AIS Transactions on Human-Computer Interaction"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Santhanam2013,
@@ -28,4 +28,23 @@ Citation:
   number     = {3},
   pages      = {134--156}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Santhanam, Radhika
+AU  - Yi, Mun
+AU  - Sasidharan, Sharath
+AU  - Park, Sung-Hee
+TI  - Toward an Integrative Understanding of Information Technology Training Research across Information Systems and Human-Computer Interaction: A Comprehensive Review
+T2  - AIS Transactions on Human-Computer Interaction
+PY  - 2013
+VL  - 5
+IS  - 3
+SP  - 134
+EP  - 156
+DO  - 10.17705/1THCI.00056
+ER  - 
 ```

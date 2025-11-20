@@ -15,7 +15,7 @@ cited_by: 327
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Sidorova2008,
@@ -28,4 +28,22 @@ Citation:
   number     = {3},
   pages      = {467}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Sidorova
+AU  - Evangelopoulos
+AU  - Valacich
+AU  - Ramakrishnan
+TI  - Uncovering the Intellectual Core of the Information Systems Discipline
+T2  - MIS Quarterly
+PY  - 2008
+VL  - 32
+IS  - 3
+SP  - 467
+DO  - 10.2307/25148852
+ER  - 
 ```

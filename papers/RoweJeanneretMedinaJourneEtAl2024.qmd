@@ -16,7 +16,7 @@ cited_by: 10
 outlet: "Journal of Information Technology"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{RoweJeanneretMedinaJourneEtAl2024,
@@ -31,4 +31,24 @@ Citation:
   abstract   = {Autonomous driving systems (ADS) operate in an environment that is inherently complex. As these systems may execute a task without the permission of a human agent, they raise major safety and responsibility issues. To identify the relevant issues for information systems, we conducted a critical and scoping review of the literature from many disciplines. The innovative methodology we used combines bibliometrics techniques, grounded theory and a critical conceptual framework to analyse the structure and research themes of the field. Our findings show that there are certain ironies in the way in which responsibility for apparently safe autonomous systems is apportioned. These ironies are interconnected and reveal that there remains significant uncertainty and ambiguity regarding the distribution of responsibility between stakeholders. The ironies draw attention to the challenges of safety and responsibility with ADS and possibly other cyber-physical systems in our increasingly digital world. We make seven recommendations related to (1) value sensitive design and system theory approaches; (2) stakeholders’ interests and interactions; (3) task allocation; (4) deskilling; (5) controllability; (6) responsibility (moral and legal); (7) trust. We suggest five areas for future IS research on ADS. These areas are related to socio-technical systems, critical research, safety, responsibility and trust.},
   fulltext   = {https://journals.sagepub.com/doi/pdf/10.1177/02683962231207108}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Rowe, Frantz
+AU  - Jeanneret Medina, Maximiliano
+AU  - Benoit Journé
+AU  - Coëtard, Emmanuel
+AU  - Myers, Michael
+TI  - Understanding responsibility under uncertainty: A critical and scoping review of autonomous driving systems
+T2  - Journal of Information Technology
+PY  - 2024
+VL  - 39
+IS  - 3
+SP  - 587
+EP  - 615
+DO  - 10.1177/02683962231207108
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{ChangChouYang2010,
@@ -24,4 +24,18 @@ Citation:
   year       = {2010},
   url        = {https://aisel.aisnet.org/pacis2010/158}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Chang, Shu-Hsun
+AU  - Chou, Chien-Hsiang
+AU  - Yang, Jiann-Min
+TI  - The Literature Review of Technology Acceptance Model - A Study of the Bibliometric Distributions
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2010
+UR  - https://aisel.aisnet.org/pacis2010/158
+ER  - 
 ```

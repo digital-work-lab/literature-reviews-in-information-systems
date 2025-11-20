@@ -13,7 +13,7 @@ cited_by: 57
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{NevoKotlarsky2020b,
@@ -25,4 +25,19 @@ Citation:
   volume     = {29},
   number     = {4}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Nevo, Dorit
+AU  - Kotlarsky, Julia
+TI  - Crowdsourcing as a strategic IS sourcing phenomenon: Critical review and insights for future research
+T2  - The Journal of Strategic Information Systems
+PY  - 2020
+VL  - 29
+IS  - 4
+DO  - 10.1016/J.JSIS.2020.101593
+ER  - 
 ```

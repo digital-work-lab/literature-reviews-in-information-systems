@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{MulyanaRusuPerjons2021,
@@ -24,4 +24,18 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/19}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Mulyana, Rahmat
+AU  - Rusu, Lazar
+AU  - Perjons, Erik
+TI  - IT Governance Mechanisms Influence on Digital Transformation - A Systematic Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/19
+ER  - 
 ```

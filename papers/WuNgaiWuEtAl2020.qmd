@@ -15,7 +15,7 @@ cited_by: 256
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{WuNgaiWuEtAl2020,
@@ -28,4 +28,22 @@ Citation:
   pages      = {113280},
   url        = {https://www.sciencedirect.com/science/article/pii/S016792362030035X}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wu, Yuanyuan
+AU  - Ngai, Eric W. T.
+AU  - Wu, Pengkun
+AU  - Wu, Chong
+TI  - Fake online reviews: Literature review, synthesis, and directions for future research
+T2  - Decision Support Systems
+PY  - 2020
+VL  - 132
+SP  - 113280
+DO  - 10.1016/J.DSS.2020.113280
+UR  - https://www.sciencedirect.com/science/article/pii/S016792362030035X
+ER  - 
 ```

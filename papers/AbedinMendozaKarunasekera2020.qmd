@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{AbedinMendozaKarunasekera2020,
@@ -24,4 +24,18 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/icis2020/social_media/social_media/2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Abedin, Ehsan
+AU  - Mendoza, Antonette
+AU  - Karunasekera, Shanika
+TI  - Credible vs Fake - A Literature Review on Differentiating Online Reviews based on Credibility
+T2  - International Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/icis2020/social_media/social_media/2
+ER  - 
 ```

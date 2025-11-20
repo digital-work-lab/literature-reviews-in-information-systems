@@ -16,7 +16,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{GodefroidZeugeOschinskyEtAl2021,
@@ -26,4 +26,20 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/pacis2021/105}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Godefroid, Marie
+AU  - Zeuge, Anna
+AU  - Oschinsky, Frederike Marie
+AU  - Plattfaut, Ralf
+AU  - Niehaves, Björn
+TI  - Cognitive Biases in IS Research - A Framework Based on a Systematic Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/pacis2021/105
+ER  - 
 ```

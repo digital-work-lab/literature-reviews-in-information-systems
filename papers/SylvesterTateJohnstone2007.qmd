@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{SylvesterTateJohnstone2007,
@@ -24,4 +24,18 @@ Citation:
   year       = {2007},
   url        = {https://aisel.aisnet.org/pacis2007/113}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Sylvester, Allan
+AU  - Tate, Mary
+AU  - Johnstone, David
+TI  - Re-presenting the Literature Review - A Rich Picture of Service Quality Research in Information Systems
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2007
+UR  - https://aisel.aisnet.org/pacis2007/113
+ER  - 
 ```

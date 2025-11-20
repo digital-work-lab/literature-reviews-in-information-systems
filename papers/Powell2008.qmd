@@ -14,7 +14,7 @@ cited_by: 91
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Powell2008,
@@ -27,4 +27,22 @@ Citation:
   number     = {1},
   pages      = {128--138}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Powell, Stephen G.
+AU  - Baker, Kenneth R.
+AU  - Lawson, Barry
+TI  - A critical review of the literature on spreadsheet errors
+T2  - Decision Support Systems
+PY  - 2008
+VL  - 46
+IS  - 1
+SP  - 128
+EP  - 138
+DO  - 10.1016/J.DSS.2008.06.001
+ER  - 
 ```

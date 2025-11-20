@@ -14,7 +14,7 @@ cited_by: 80
 outlet: "Business & Information Systems Engineering"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Probst2013,
@@ -28,4 +28,22 @@ Citation:
   pages      = {179--193},
   fulltext   = {http://link.springer.com/content/pdf/10.1007/s12599-013-0263-7.pdf}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Probst, Florian
+AU  - Grosswiele, Laura
+AU  - Pfleger, Regina
+TI  - Who will lead and who will follow: Identifying Influential Users in Online Social Networks
+T2  - Business & Information Systems Engineering
+PY  - 2013
+VL  - 5
+IS  - 3
+SP  - 179
+EP  - 193
+DO  - 10.1007/S12599-013-0263-7
+ER  - 
 ```

@@ -17,7 +17,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{SchoemerLaumerWilbersEtAl2021,
@@ -27,4 +27,21 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/amcis2021/social_inclusion/social_inclusion/10}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Schoemer, Daniel
+AU  - Laumer, Sven
+AU  - Wilbers, Karl
+AU  - Wolbring, Tobias
+AU  - Weigert, Jonas
+AU  - Treischl, Edgar
+TI  - Data-driven Student Advisory and Potential Direct Discrimination - A Literature Review on Machine Learning for Predicting Students' Academic Success
+T2  - Americas Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/amcis2021/social_inclusion/social_inclusion/10
+ER  - 
 ```

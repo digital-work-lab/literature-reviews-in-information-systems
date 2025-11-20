@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Zeiringer2021,
@@ -22,4 +22,16 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/pacis2021/37}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Zeiringer, Johannes
+TI  - Tackling Knowledge Risks in Data-centric Collaborations - A Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/pacis2021/37
+ER  - 
 ```

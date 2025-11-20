@@ -14,7 +14,7 @@ cited_by: 36
 outlet: "Journal of Organizational and End User Computing"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Karsten2012,
@@ -28,4 +28,22 @@ Citation:
   pages      = {54--80},
   abstract   = {Computer self-efficacy (CSE) has been a popular and important construct in information systems research for more than two decades. Although CSE researchers have conducted extensive qualitative reviews, quantitative analyses are lacking for studies of the relationships between CSE and variables of interest. This study provides such a quantitative analysis. The authors meta-analyze 102 empirical CSE studies that reported 232 usable statistical relationships between CSE and seven correlates. Their main meta-analysis demonstrates that CSE is significantly correlated in the theoretically predicted direction with each of the seven correlates. They also quantitatively assess five study characteristics as potential moderators of the CSE-correlate relationships. The moderator analysis reveals complex patterns and indicates that more research is needed to investigate possible moderating effects.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Karsten, Rex
+AU  - Mitra, Atul
+AU  - Schmidt, Dennis
+TI  - Computer Self-Efficacy
+T2  - Journal of Organizational and End User Computing
+PY  - 2012
+VL  - 24
+IS  - 4
+SP  - 54
+EP  - 80
+DO  - 10.4018/JOEUC.2012100104
+ER  - 
 ```

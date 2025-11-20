@@ -15,7 +15,7 @@ cited_by: 11
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HuangRahimFosterEtAl2021,
@@ -26,4 +26,20 @@ Citation:
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71186}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Huang, Qian
+AU  - Rahim, Mahbubur
+AU  - Foster, Susan
+AU  - Anwar, Misita
+TI  - Critical Success Factors Affecting Implementation of Cloud ERP Systems: A Systematic Literature Review with Future Research Possibilities
+T2  - Hawaii International Conference on System Sciences
+PY  - 2021
+DO  - 10.24251/HICSS.2021.569
+UR  - http://hdl.handle.net/10125/71186
+ER  - 
 ```

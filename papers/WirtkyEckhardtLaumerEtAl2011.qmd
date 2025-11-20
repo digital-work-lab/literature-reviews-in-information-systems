@@ -16,7 +16,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{WirtkyEckhardtLaumerEtAl2011,
@@ -26,4 +26,20 @@ Citation:
   year       = {2011},
   url        = {https://aisel.aisnet.org/amcis2011_submissions/289}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Wirtky, Thomas
+AU  - Eckhardt, Andreas
+AU  - Laumer, Sven
+AU  - Wild, Udo
+AU  - Weitzel, Tim
+TI  - Going beyond operational efficiency in HR using IT - A Literature Review of Human Resources Information Systems
+T2  - Americas Conference on Information Systems
+PY  - 2011
+UR  - https://aisel.aisnet.org/amcis2011_submissions/289
+ER  - 
 ```

@@ -9,7 +9,7 @@ def yaml_escape(value: str) -> str:
     """Escape double quotes for safe inclusion in YAML."""
     if value is None:
         return ""
-    return str(value).replace('"', '\\"')
+    return str(value).replace('"', '\"')
 
 
 def record_to_bibtex(rec: dict) -> str:
@@ -21,10 +21,32 @@ def record_to_bibtex(rec: dict) -> str:
         raise ValueError("Record is missing a citation key (ID / citation_key / colrev_id).")
 
     field_lines = []
-    # max_field_len = max(len(field) for field in rec.keys())
     max_field_len = 10
     for field, value in rec.items():
-        if field in {"ENTRYTYPE", "ID", "citation_key", "colrev_id", "colrev_origin", "colrev_status", "colrev_masterdata_provenance", "colrev_data_provenance", "colrev.dblp.dblp_key", "curation_id", "language", "note", "topic", "lr_type_pare_et_al", "goal_rowe", "synthesis", "r_gaps", "theory_building", "aggregating_evidence", "r_agenda", "r_agenda_levels", "cited_by"}:
+        if field in {
+            "ENTRYTYPE",
+            "ID",
+            "citation_key",
+            "colrev_id",
+            "colrev_origin",
+            "colrev_status",
+            "colrev_masterdata_provenance",
+            "colrev_data_provenance",
+            "colrev.dblp.dblp_key",
+            "curation_id",
+            "language",
+            "note",
+            "topic",
+            "lr_type_pare_et_al",
+            "goal_rowe",
+            "synthesis",
+            "r_gaps",
+            "theory_building",
+            "aggregating_evidence",
+            "r_agenda",
+            "r_agenda_levels",
+            "cited_by",
+        }:
             continue
         if value is None or value == "":
             continue
@@ -39,12 +61,81 @@ def record_to_bibtex(rec: dict) -> str:
     return "\n".join(lines)
 
 
-def record_to_qmd_content(rec: dict) -> str:
+def record_to_ris(rec: dict) -> str:
+    """Convert a record dict to a single RIS entry."""
+    entrytype = str(rec.get("ENTRYTYPE", "article")).lower()
+    type_map = {
+        "article": "JOUR",
+        "inproceedings": "CONF",
+        "proceedings": "CONF",
+        "conference": "CONF",
+        "book": "BOOK",
+        "phdthesis": "THES",
+        "mastersthesis": "THES",
+        "techreport": "RPRT",
+    }
+    ris_type = type_map.get(entrytype, "GEN")
+
+    lines = [f"TY  - {ris_type}"]
+
+    # Authors
+    authors = str(rec.get("author", "")).strip()
+    if authors:
+        for a in authors.split(" and "):
+            a = a.strip()
+            if a:
+                lines.append(f"AU  - {a}")
+
+    # Title
+    if rec.get("title"):
+        lines.append(f"TI  - {rec['title']}")
+
+    # Journal / booktitle
+    outlet = rec.get("journal") or rec.get("booktitle")
+    if outlet:
+        lines.append(f"T2  - {outlet}")
+
+    # Year
+    year = str(rec.get("year", "")).strip()
+    if year:
+        lines.append(f"PY  - {year}")
+
+    # Volume / issue / pages
+    if rec.get("volume"):
+        lines.append(f"VL  - {rec['volume']}")
+    if rec.get("number"):
+        lines.append(f"IS  - {rec['number']}")
+    if rec.get("pages"):
+        # crude split "start--end"
+        pages = str(rec["pages"])
+        if "--" in pages:
+            sp, ep = pages.split("--", 1)
+            lines.append(f"SP  - {sp.strip()}")
+            lines.append(f"EP  - {ep.strip()}")
+        else:
+            lines.append(f"SP  - {pages.strip()}")
+
+    # DOI
+    if rec.get("doi"):
+        lines.append(f"DO  - {rec['doi']}")
+
+    # URL (if present)
+    if rec.get("url"):
+        lines.append(f"UR  - {rec['url']}")
+
+    # End of record
+    lines.append("ER  - ")
+    return "\n".join(lines)
+
+
+def record_to_qmd_content(rec: dict, key: str, bibtex: str, ris: str) -> str:
     """Create the .qmd file content for a single record."""
     title = yaml_escape(rec.get("title", ""))
     authors = yaml_escape(rec.get("author", ""))
-    author_list = authors.split(' and ')
-    author_str = '- ' + '\n- '.join(author_list)
+    author_list = [a for a in authors.split(" and ") if a]
+    author_str = ""
+    if author_list:
+        author_str = "- " + "\n- ".join(author_list)
 
     topic = ""
     year = str(rec.get("year", "")).strip()
@@ -62,18 +153,16 @@ def record_to_qmd_content(rec: dict) -> str:
     except (TypeError, ValueError):
         cited_by = 0
 
-    bibtex = record_to_bibtex(rec)
     outlet = rec.get("journal", rec.get("booktitle", ""))
 
     categories = []
-    # if "goal_rowe" in rec:
-    #     categories += [rec["goal_rowe"]]
     if "lr_type_pare_et_al" in rec:
         categories += [rec["lr_type_pare_et_al"]]
     if "cited_by" in rec and int(rec["cited_by"]) > 500:
         categories += ["highly-cited"]
 
-    qmd = f"""---
+    # Quarto YAML with code-copy enabled so code blocks have copy buttons
+    qmd = f'''---
 title: "{title}"
 author:
 {author_str}
@@ -87,12 +176,18 @@ cited_by: {cited_by}
 outlet: "{outlet}"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 {bibtex}
 ```
-"""
+
+RIS:
+
+```bibtex
+{ris}
+```
+'''
     return qmd
 
 
@@ -128,18 +223,25 @@ def main(bib_filename: str, output_dir: str = "papers") -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
 
     count = 0
+
     for key, rec in iter_records(records):
         rec = dict(rec)
         rec.setdefault("ID", key)
 
-        qmd_content = record_to_qmd_content(rec)
-        out_path = out_dir / f"{key}.qmd"
+        # Per-record BibTeX and RIS (only embedded into QMD, no separate files)
+        bibtex_entry = record_to_bibtex(rec)
+        ris_entry = record_to_ris(rec)
 
-        out_path.write_text(qmd_content, encoding="utf-8")
+        # .qmd with BibTeX block and RIS block (with copy buttons via code-copy)
+        qmd_content = record_to_qmd_content(rec, key=key, bibtex=bibtex_entry, ris=ris_entry)
+
+        qmd_path = out_dir / f"{key}.qmd"
+        qmd_path.write_text(qmd_content, encoding="utf-8")
+
         count += 1
-        print(f"Wrote {out_path}")
+        print(f"Wrote {qmd_path}")
 
-    print(f"Done. Wrote {count} .qmd files to {out_dir}")
+    print(f"Done. Wrote {count} records to {out_dir}")
 
 
 if __name__ == "__main__":

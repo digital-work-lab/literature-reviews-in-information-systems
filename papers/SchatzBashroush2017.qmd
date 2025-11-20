@@ -13,7 +13,7 @@ cited_by: 49
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{SchatzBashroush2017,
@@ -27,4 +27,22 @@ Citation:
   pages      = {1205--1228},
   url        = {https://link.springer.com/article/10.1007/s10796-016-9648-8}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Schatz, Daniel
+AU  - Bashroush, Rabih
+TI  - Economic valuation for information security investment: a systematic literature review
+T2  - Information Systems Frontiers
+PY  - 2017
+VL  - 19
+IS  - 5
+SP  - 1205
+EP  - 1228
+DO  - 10.1007/S10796-016-9648-8
+UR  - https://link.springer.com/article/10.1007/s10796-016-9648-8
+ER  - 
 ```

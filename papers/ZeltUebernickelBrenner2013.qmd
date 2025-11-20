@@ -14,7 +14,7 @@ cited_by: 4
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{ZeltUebernickelBrenner2013,
@@ -25,4 +25,19 @@ Citation:
   year       = {2013},
   url        = {https://ieeexplore.ieee.org/document/6479869}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Zelt, Saskia
+AU  - Uebernickel, Falk
+AU  - Brenner, Walter
+TI  - Managing Global IT Delivery Networks - A Literature Review from the Supplier's Perspective
+T2  - Hawaii International Conference on System Sciences
+PY  - 2013
+DO  - 10.1109/HICSS.2013.389
+UR  - https://ieeexplore.ieee.org/document/6479869
+ER  - 
 ```

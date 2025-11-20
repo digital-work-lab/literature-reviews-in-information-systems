@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{SeifferGnewuchMaedche2021,
@@ -24,4 +24,18 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/icis2021/is_future_work/is_future_work/5}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Seiffer, Anja
+AU  - Gnewuch, Ulrich
+AU  - Maedche, Alexander
+TI  - Understanding Employee Responses to Software Robots: A Systematic Literature Review
+T2  - International Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/icis2021/is_future_work/is_future_work/5
+ER  - 
 ```

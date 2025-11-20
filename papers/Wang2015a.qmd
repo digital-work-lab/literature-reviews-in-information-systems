@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Wang2015a,
@@ -22,4 +22,16 @@ Citation:
   year       = {2015},
   url        = {https://aisel.aisnet.org/amcis2015/ISEdu/GeneralPresentations/30}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Wang, Yichuan
+TI  - Business Intelligence and Analytics Education - Hermeneutic Literature Review and Future Directions in IS Education
+T2  - Americas Conference on Information Systems
+PY  - 2015
+UR  - https://aisel.aisnet.org/amcis2015/ISEdu/GeneralPresentations/30
+ER  - 
 ```

@@ -15,7 +15,7 @@ cited_by: 178
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Gerow2014,
@@ -30,4 +30,23 @@ Citation:
   abstract   = {Research examining the relationship between IT–business strategic alignment (hereafter referred to as alignment) and firm performance (hereafter referred to as performance) has produced apparently conflicting findings (i.e., an alignment paradox). To examine the alignment paradox, we conducted a meta-analysis that probed the interrelationships between alignment, performance, and context constructs. We found the alignment dimensions (intellectual, operational, and cross-domain) demonstrate unique relationships with the different performance types (financial performance, productivity, and customer benefit) and with many of the other constructs in alignment’s nomological network. All mean corrected correlations between dimensions of alignment and dependent variables were positive and most of the credibility interval values in these analyses were also positive. Overall, the evidence gathered from the extant literature suggests there is not much of an alignment paradox. This study contributes to the literature by clarifying the relationships between alignment and performance outcomes and offering insight into sources of inconsistencies in alignment research. By doing so, this paper lays a foundation for more consistent treatment of alignment in future IT research.},
   fulltext   = {https://misq.umn.edu/misq/article-pdf/38/4/1159/558/10_gerowgrover.pdf}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Gerow, Jennifer E.
+AU  - Grover, Varun
+AU  - Thatcher, Jason
+AU  - Roth, Philip L.
+TI  - Looking Toward the Future of IT–Business Strategic Alignment Through the Past: A Meta-Analysis1
+T2  - MIS Quarterly
+PY  - 2014
+VL  - 38
+IS  - 4
+SP  - 1159
+EP  - 1186
+DO  - 10.25300/MISQ/2014/38.4.10
+ER  - 
 ```

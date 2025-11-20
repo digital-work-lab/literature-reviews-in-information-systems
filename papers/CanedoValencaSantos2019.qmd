@@ -14,7 +14,7 @@ cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{CanedoValencaSantos2019,
@@ -25,4 +25,19 @@ Citation:
   year       = {2019},
   url        = {http://hdl.handle.net/10125/60133}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Dias Canedo, Edna
+AU  - Valença, Karine
+AU  - Santos, Giovanni Almeida
+TI  - An Analysis of Measurement and Metrics Tools: A Systematic Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2019
+DO  - 10.24251/HICSS.2019.836
+UR  - http://hdl.handle.net/10125/60133
+ER  - 
 ```

@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{RietscheFreiStoeckliEtAl2019,
@@ -25,4 +25,19 @@ Citation:
   year       = {2019},
   url        = {https://aisel.aisnet.org/ecis2019_rp/58}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Rietsche, Roman
+AU  - Frei, Daniel
+AU  - Stoeckli, Emanuel
+AU  - Söllner, Matthias
+TI  - Not All Reviews are Equal - a literature Review on Online Review Helpfulness
+T2  - European Conference on Information Systems
+PY  - 2019
+UR  - https://aisel.aisnet.org/ecis2019_rp/58
+ER  - 
 ```

@@ -15,7 +15,7 @@ cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{CoelhoPrzeybiloviczCunhaEtAl2016,
@@ -26,4 +26,20 @@ Citation:
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427519}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Coelho, Taiane Ritta
+AU  - Przeybilovicz, Erico
+AU  - Cunha, Maria Alexandra
+AU  - Echternacht, Tiago Henrique Souza
+TI  - Positioning Brazil in International eGov Research - A Proposal Based from Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.336
+UR  - https://ieeexplore.ieee.org/document/7427519
+ER  - 
 ```

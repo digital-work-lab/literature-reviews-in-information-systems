@@ -14,7 +14,7 @@ cited_by: 180
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{RanaDwivediWilliams2015,
@@ -29,4 +29,23 @@ Citation:
   url        = {https://link.springer.com/article/10.1007/s10796-013-9431-z},
   fulltext   = {http://link.springer.com/content/pdf/10.1007/s10796-013-9431-z.pdf}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Rana, Nripendra P.
+AU  - Dwivedi, Yogesh K.
+AU  - Williams, Michael D.
+TI  - A meta-analysis of existing research on citizen adoption of e-government
+T2  - Information Systems Frontiers
+PY  - 2015
+VL  - 17
+IS  - 3
+SP  - 547
+EP  - 563
+DO  - 10.1007/S10796-013-9431-Z
+UR  - https://link.springer.com/article/10.1007/s10796-013-9431-z
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{EigelshovenUllrichParry2021,
@@ -24,4 +24,18 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/icis2021/fintech/fintech/1}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Eigelshoven, Felix
+AU  - Ullrich, André
+AU  - Parry, Douglas
+TI  - Cryptocurrency Market Manipulation - A Systematic Literature Review
+T2  - International Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/icis2021/fintech/fintech/1
+ER  - 
 ```

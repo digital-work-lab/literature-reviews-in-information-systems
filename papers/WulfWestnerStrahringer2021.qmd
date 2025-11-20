@@ -14,7 +14,7 @@ cited_by: 10
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{WulfWestnerStrahringer2021,
@@ -27,4 +27,22 @@ Citation:
   pages      = {523--561},
   url        = {https://aisel.aisnet.org/cais/vol48/iss1/44}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wulf, Frederik
+AU  - Westner, Markus
+AU  - Strahringer, Susanne
+TI  - Cloud Computing Adoption - A Literature Review on What Is New and What We Still Need to Address
+T2  - Communications of the Association for Information Systems
+PY  - 2021
+VL  - 48
+SP  - 523
+EP  - 561
+DO  - 10.17705/1CAIS.04843
+UR  - https://aisel.aisnet.org/cais/vol48/iss1/44
+ER  - 
 ```

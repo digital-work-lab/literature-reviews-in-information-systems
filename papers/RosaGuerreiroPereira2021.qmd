@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{RosaGuerreiroPereira2021,
@@ -25,4 +25,19 @@ Citation:
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71349}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Rosa, Mariana
+AU  - Guerreiro, Sérgio
+AU  - Pereira, Rúben
+TI  - Designing an IT Risk Management Ontology grounded on Systematic Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2021
+DO  - 10.24251/HICSS.2021.729
+UR  - http://hdl.handle.net/10125/71349
+ER  - 
 ```

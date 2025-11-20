@@ -16,7 +16,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{BrendelTrangMarroneEtAl2020,
@@ -26,4 +26,20 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/amcis2020/meta_research_is/meta_research_is/2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Brendel, Alfred Benedikt
+AU  - Trang, Simon
+AU  - Marrone, Mauricio
+AU  - Lichtenberg, Sascha
+AU  - Kolbe, Lutz M.
+TI  - What to do for a Literature Review? - A Synthesis of Literature Review Practices
+T2  - Americas Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/amcis2020/meta_research_is/meta_research_is/2
+ER  - 
 ```

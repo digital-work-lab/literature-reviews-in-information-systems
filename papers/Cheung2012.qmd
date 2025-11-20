@@ -13,7 +13,7 @@ cited_by: 1099
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Cheung2012,
@@ -26,4 +26,21 @@ Citation:
   number     = {1},
   pages      = {461--470}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Cheung, Christy M.K.
+AU  - Thadani, Dimple R.
+TI  - The impact of electronic word-of-mouth communication: A literature analysis and integrative model
+T2  - Decision Support Systems
+PY  - 2012
+VL  - 54
+IS  - 1
+SP  - 461
+EP  - 470
+DO  - 10.1016/J.DSS.2012.06.008
+ER  - 
 ```

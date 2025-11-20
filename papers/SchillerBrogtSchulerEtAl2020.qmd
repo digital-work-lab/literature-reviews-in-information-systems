@@ -16,7 +16,7 @@ cited_by: 3
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{SchillerBrogtSchulerEtAl2020,
@@ -27,4 +27,21 @@ Citation:
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64194}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Schiller, Barbara
+AU  - Brogt, Tobias
+AU  - Schuler, J. Peter M.
+AU  - Strobel, Gero
+AU  - Eicker, Stefan
+TI  - Identifying Quality Factors for Self-Tracking Solutions: A Systematic Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2020
+DO  - 10.24251/HICSS.2020.452
+UR  - http://hdl.handle.net/10125/64194
+ER  - 
 ```

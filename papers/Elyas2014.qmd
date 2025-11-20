@@ -15,7 +15,7 @@ cited_by: 26
 outlet: "Journal of Computer Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Elyas2014,
@@ -28,4 +28,23 @@ Citation:
   number     = {3},
   pages      = {97--105}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Elyas, Mohamed
+AU  - Maynard, Sean B.
+AU  - Ahmad, Atif
+AU  - Lonie, Andrew
+TI  - Towards A Systemic Framework for Digital Forensic Readiness
+T2  - Journal of Computer Information Systems
+PY  - 2014
+VL  - 54
+IS  - 3
+SP  - 97
+EP  - 105
+DO  - 10.1080/08874417.2014.11645708
+ER  - 
 ```

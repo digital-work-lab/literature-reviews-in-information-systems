@@ -14,7 +14,7 @@ cited_by: 1938
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Melville2004,
@@ -27,4 +27,21 @@ Citation:
   number     = {2},
   pages      = {283}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Melville
+AU  - Kraemer
+AU  - Gurbaxani
+TI  - Review: Information Technology and Organizational Performance: An Integrative Model of IT Business Value
+T2  - MIS Quarterly
+PY  - 2004
+VL  - 28
+IS  - 2
+SP  - 283
+DO  - 10.2307/25148636
+ER  - 
 ```

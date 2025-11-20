@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{AlyamiPileggiHawryszkiewycz2020,
@@ -24,4 +24,18 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/pacis2020/213}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Alyami, Abdulrahman
+AU  - Pileggi, Salvatore F.
+AU  - Hawryszkiewycz, Igor T.
+TI  - The Impact of New Technologies on Learning - A Literature review on Mobile Collaborative Learning
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/pacis2020/213
+ER  - 
 ```

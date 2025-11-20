@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{DinterLorenz2012,
@@ -23,4 +23,17 @@ Citation:
   year       = {2012},
   url        = {http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/104}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Dinter, Barbara
+AU  - Lorenz, Anja
+TI  - Social Business Intelligence - a Literature Review and Research Agenda
+T2  - International Conference on Information Systems
+PY  - 2012
+UR  - http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/104
+ER  - 
 ```

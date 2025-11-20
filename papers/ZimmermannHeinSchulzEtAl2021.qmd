@@ -16,7 +16,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{ZimmermannHeinSchulzEtAl2021,
@@ -26,4 +26,20 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/pacis2021/226}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Zimmermann, Sina
+AU  - Hein, Andreas
+AU  - Schulz, Thomas
+AU  - Gewald, Heiko
+AU  - Krcmar, Helmut
+TI  - Digital Nudging Toward Pro-Environmental Behavior - A Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/pacis2021/226
+ER  - 
 ```

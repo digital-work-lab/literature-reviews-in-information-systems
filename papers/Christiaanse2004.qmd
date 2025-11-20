@@ -14,7 +14,7 @@ cited_by: 25
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Christiaanse2004,
@@ -27,4 +27,22 @@ Citation:
   number     = {2},
   pages      = {151--165}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Christiaanse, Ellen
+AU  - Van Diepen, Tonja
+AU  - Damsgaard, Jan
+TI  - Proprietary versus internet technologies and the adoption and impact of electronic marketplaces
+T2  - The Journal of Strategic Information Systems
+PY  - 2004
+VL  - 13
+IS  - 2
+SP  - 151
+EP  - 165
+DO  - 10.1016/J.JSIS.2004.02.004
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 80
 outlet: "Electronic Commerce Research and Applications"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Weber2011,
@@ -26,4 +26,21 @@ Citation:
   number     = {6},
   pages      = {683--701}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Weber, David M.
+AU  - Kauffman, Robert J.
+TI  - What drives global ICT adoption? Analysis and research directions
+T2  - Electronic Commerce Research and Applications
+PY  - 2011
+VL  - 10
+IS  - 6
+SP  - 683
+EP  - 701
+DO  - 10.1016/J.ELERAP.2011.01.001
+ER  - 
 ```

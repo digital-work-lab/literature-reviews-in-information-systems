@@ -13,7 +13,7 @@ cited_by: 53
 outlet: "Journal of Database Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Topi2002,
@@ -27,4 +27,21 @@ Citation:
   pages      = {3--19},
   abstract   = {This study reviews and synthesizes human factors research on conceptual data modeling. In addition to analyzing the variables used in earlier studies and summarizing the results of this stream of research, we propose a new framework to help with future efforts in this area. The study finds that prior research has focused on issues that are relevant when conceptual models are used for communication between systems analysts and developers (Analyst – Developer models) whereas the issues important for models that are used to facilitate communication between analysts and users (User – Analyst models) have received little attention and, hence, require a significantly stronger role in future research. In addition, we emphasize the importance of building a strong theoretical foundation and using it to guide future empirical work in this area.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Topi, Heikki
+AU  - Ramesh, V.
+TI  - Human Factors Research on Data Modeling
+T2  - Journal of Database Management
+PY  - 2002
+VL  - 13
+IS  - 2
+SP  - 3
+EP  - 19
+DO  - 10.4018/JDM.2002040101
+ER  - 
 ```

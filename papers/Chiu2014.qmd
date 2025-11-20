@@ -14,7 +14,7 @@ cited_by: 152
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Chiu2014,
@@ -27,4 +27,22 @@ Citation:
   number     = {no issue},
   pages      = {40--49}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Chiu, Chao-Min
+AU  - Liang, Ting-Peng
+AU  - Turban, Efraim
+TI  - What can crowdsourcing do for decision support?
+T2  - Decision Support Systems
+PY  - 2014
+VL  - 65
+IS  - no issue
+SP  - 40
+EP  - 49
+DO  - 10.1016/J.DSS.2014.05.010
+ER  - 
 ```

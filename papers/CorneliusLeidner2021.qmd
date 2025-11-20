@@ -13,7 +13,7 @@ cited_by: 7
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{CorneliusLeidner2021,
@@ -24,4 +24,18 @@ Citation:
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71394}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Cornelius, Samia
+AU  - Leidner, Dorothy
+TI  - Acceptance of Anthropomorphic Technology: A Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2021
+DO  - 10.24251/HICSS.2021.774
+UR  - http://hdl.handle.net/10125/71394
+ER  - 
 ```

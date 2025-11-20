@@ -12,7 +12,7 @@ cited_by: 1
 outlet: "Journal of Information Technology"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @misc{Cordella2009,
@@ -25,4 +25,20 @@ Citation:
   number     = {3},
   pages      = {386--400}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - GEN
+AU  - Cordella, Antonio
+TI  - Transaction Costs and Information Systems: Does IT Add Up?
+T2  - Journal of Information Technology
+PY  - 2009
+VL  - 21
+IS  - 3
+SP  - 386
+EP  - 400
+DO  - 10.1057/9780230250611_19
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 104
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Aksulu2010,
@@ -26,4 +26,21 @@ Citation:
   number     = {11},
   pages      = {576--656}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Aksulu, Altay
+AU  - Wade, Michael
+TI  - A Comprehensive Review and Synthesis of Open Source Research
+T2  - Journal of the Association for Information Systems
+PY  - 2010
+VL  - 11
+IS  - 11
+SP  - 576
+EP  - 656
+DO  - 10.17705/1JAIS.00245
+ER  - 
 ```

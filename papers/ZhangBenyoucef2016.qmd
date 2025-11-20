@@ -13,7 +13,7 @@ cited_by: 427
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{ZhangBenyoucef2016,
@@ -26,4 +26,21 @@ Citation:
   pages      = {95--108},
   url        = {https://www.sciencedirect.com/science/article/pii/S0167923616300458}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Zhang, Kem Z. K.
+AU  - Benyoucef, Morad
+TI  - Consumer behavior in social commerce: A literature review
+T2  - Decision Support Systems
+PY  - 2016
+VL  - 86
+SP  - 95
+EP  - 108
+DO  - 10.1016/J.DSS.2016.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0167923616300458
+ER  - 
 ```

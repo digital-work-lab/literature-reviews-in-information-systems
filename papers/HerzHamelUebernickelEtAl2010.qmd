@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HerzHamelUebernickelEtAl2010,
@@ -25,4 +25,19 @@ Citation:
   year       = {2010},
   url        = {https://aisel.aisnet.org/amcis2010/357}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Herz, Thomas
+AU  - Hamel, Florian
+AU  - Uebernickel, Falk
+AU  - Brenner, Walter
+TI  - Deriving a Research Agenda for the Management of Multisourcing Relationships Based on a Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2010
+UR  - https://aisel.aisnet.org/amcis2010/357
+ER  - 
 ```

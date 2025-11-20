@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{MadanianSubasinghageTachiona2021,
@@ -24,4 +24,18 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/pacis2021/211}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Madanian, Samaneh
+AU  - Subasinghage, Maduka
+AU  - Tachiona, Shingai Conrad
+TI  - Critical Success Factors of Agile ERP Development and Implementation Projects - A Systematic Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/pacis2021/211
+ER  - 
 ```

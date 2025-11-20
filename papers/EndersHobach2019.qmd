@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{EndersHobach2019,
@@ -23,4 +23,17 @@ Citation:
   year       = {2019},
   url        = {https://aisel.aisnet.org/amcis2019/org_transformation_is/org_transformation_is/20}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Enders, Martin Robert
+AU  - Hoßbach, Nadja
+TI  - Dimensions of Digital Twin Applications - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2019
+UR  - https://aisel.aisnet.org/amcis2019/org_transformation_is/org_transformation_is/20
+ER  - 
 ```

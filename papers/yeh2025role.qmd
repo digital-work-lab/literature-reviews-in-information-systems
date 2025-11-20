@@ -15,7 +15,7 @@ cited_by: 5
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{yeh2025role,
@@ -28,4 +28,22 @@ Citation:
   number     = {2},
   pages      = {101888}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Yeh, Yi-Ting
+AU  - Eden, Rebekah
+AU  - Fielt, Erwin
+AU  - Syed, Rehan
+TI  - The role of use for the business value of big data analytics
+T2  - The Journal of Strategic Information Systems
+PY  - 2025
+VL  - 34
+IS  - 2
+SP  - 101888
+DO  - 10.1016/J.JSIS.2025.101888
+ER  - 
 ```

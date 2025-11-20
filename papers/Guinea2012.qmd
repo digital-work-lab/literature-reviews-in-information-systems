@@ -14,7 +14,7 @@ cited_by: 144
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Guinea2012,
@@ -27,4 +27,22 @@ Citation:
   number     = {6},
   pages      = {301--308}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Ortiz de Guinea, Ana
+AU  - Webster, Jane
+AU  - Staples, D. Sandy
+TI  - A meta-analysis of the consequences of virtualness on team functioning
+T2  - Information & Management
+PY  - 2012
+VL  - 49
+IS  - 6
+SP  - 301
+EP  - 308
+DO  - 10.1016/J.IM.2012.08.003
+ER  - 
 ```

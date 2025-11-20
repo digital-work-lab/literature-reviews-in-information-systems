@@ -13,7 +13,7 @@ cited_by: 15
 outlet: "Electronic Markets"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Riemer2012,
@@ -27,4 +27,21 @@ Citation:
   pages      = {267--282},
   fulltext   = {http://link.springer.com/content/pdf/10.1007/s12525-012-0094-2.pdf}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Riemer, Kai
+AU  - Vehring, Nadine
+TI  - Virtual or vague? a literature review exposing conceptual differences in defining virtual organizations in IS research
+T2  - Electronic Markets
+PY  - 2012
+VL  - 22
+IS  - 4
+SP  - 267
+EP  - 282
+DO  - 10.1007/S12525-012-0094-2
+ER  - 
 ```

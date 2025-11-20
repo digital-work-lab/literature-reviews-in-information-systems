@@ -14,7 +14,7 @@ cited_by: 7
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{MakipaaNorrgardVartiainen2022,
@@ -29,4 +29,22 @@ Citation:
   pages      = {666--702},
   url        = {https://aisel.aisnet.org/cais/vol51/iss1/26}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Mäkipää, Juho-Pekka
+AU  - Norrgård, Johanna
+AU  - Vartiainen, Tero
+TI  - Factors Affecting the Accessibility of IT Artifacts: A Systematic Review
+T2  - Communications of the Association for Information Systems
+PY  - 2022
+VL  - 51
+SP  - 666
+EP  - 702
+DO  - 10.17705/1CAIS.05129
+UR  - https://aisel.aisnet.org/cais/vol51/iss1/26
+ER  - 
 ```

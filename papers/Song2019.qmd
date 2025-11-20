@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Song2019,
@@ -22,4 +22,16 @@ Citation:
   year       = {2019},
   url        = {https://aisel.aisnet.org/pacis2019/94}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Song, Yi
+TI  - Collaborative Dynamics of Electronic Information Sharing in Government - A Systematic Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2019
+UR  - https://aisel.aisnet.org/pacis2019/94
+ER  - 
 ```

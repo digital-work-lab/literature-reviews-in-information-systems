@@ -14,7 +14,7 @@ cited_by: 1036
 outlet: "European Journal of Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Petter2008,
@@ -27,4 +27,22 @@ Citation:
   number     = {3},
   pages      = {236--263}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Petter, Stacie
+AU  - DeLone, William
+AU  - McLean, Ephraim
+TI  - Measuring information systems success: models, dimensions, measures, and interrelationships
+T2  - European Journal of Information Systems
+PY  - 2008
+VL  - 17
+IS  - 3
+SP  - 236
+EP  - 263
+DO  - 10.1057/EJIS.2008.15
+ER  - 
 ```

@@ -15,7 +15,7 @@ cited_by: 523
 outlet: "Electronic Commerce Research and Applications"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Dahlberg2008,
@@ -28,4 +28,23 @@ Citation:
   number     = {2},
   pages      = {165--181}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Dahlberg, Tomi
+AU  - Mallat, Niina
+AU  - Ondrus, Jan
+AU  - Zmijewska, Agnieszka
+TI  - Past, present and future of mobile payments research: A literature review
+T2  - Electronic Commerce Research and Applications
+PY  - 2008
+VL  - 7
+IS  - 2
+SP  - 165
+EP  - 181
+DO  - 10.1016/J.ELERAP.2007.02.001
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 9
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Basten2014,
@@ -26,4 +26,21 @@ Citation:
   number     = {1},
   pages      = {51--86}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Basten, Dirk
+AU  - Sunyaev, Ali
+TI  - A Systematic Mapping of Factors Affecting Accuracy of Software Development Effort Estimation
+T2  - Communications of the Association for Information Systems
+PY  - 2014
+VL  - 34
+IS  - 1
+SP  - 51
+EP  - 86
+DO  - 10.17705/1CAIS.03404
+ER  - 
 ```

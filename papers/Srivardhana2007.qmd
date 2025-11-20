@@ -13,7 +13,7 @@ cited_by: 112
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Srivardhana2007,
@@ -26,4 +26,21 @@ Citation:
   number     = {1},
   pages      = {51--69}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Srivardhana, Thongchai
+AU  - Pawlowski, Suzanne D.
+TI  - ERP systems as an enabler of sustained business process innovation: A knowledge-based view
+T2  - The Journal of Strategic Information Systems
+PY  - 2007
+VL  - 16
+IS  - 1
+SP  - 51
+EP  - 69
+DO  - 10.1016/J.JSIS.2007.01.003
+ER  - 
 ```

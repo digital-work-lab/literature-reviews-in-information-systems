@@ -14,7 +14,7 @@ cited_by: 26
 outlet: "Journal of Global Information Technology Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Jacks2012,
@@ -27,4 +27,22 @@ Citation:
   number     = {4},
   pages      = {8--42}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Jacks, Tim
+AU  - Wallace, Steve
+AU  - Nemati, Hamid
+TI  - Impact of Culture on Knowledge Management: A Meta-Analysis and Framework
+T2  - Journal of Global Information Technology Management
+PY  - 2012
+VL  - 15
+IS  - 4
+SP  - 8
+EP  - 42
+DO  - 10.1080/1097198X.2012.10845622
+ER  - 
 ```

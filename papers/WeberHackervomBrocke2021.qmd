@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{WeberHackervomBrocke2021,
@@ -24,4 +24,18 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/icis2021/is_resilience/is_resilience/3}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Weber, Manuel
+AU  - Hacker, Janine
+AU  - vom Brocke, Jan
+TI  - Resilience in Information Systems Research - A Literature Review from a Socio-Technical and Temporal Perspective
+T2  - International Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/icis2021/is_resilience/is_resilience/3
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 5
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{StahmannRieger2021,
@@ -24,4 +24,18 @@ Citation:
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71316}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Stahmann, Philip
+AU  - Rieger, Bodo
+TI  - Requirements Identification for Real-Time Anomaly Detection in Industrie 4.0 Machine Groups: A Structured Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2021
+DO  - 10.24251/HICSS.2021.696
+UR  - http://hdl.handle.net/10125/71316
+ER  - 
 ```

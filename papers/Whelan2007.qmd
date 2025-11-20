@@ -12,7 +12,7 @@ cited_by: 37
 outlet: "Journal of Information Technology"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Whelan2007,
@@ -26,4 +26,20 @@ Citation:
   pages      = {5--12},
   abstract   = {The recently developed knowledge-based view of the firm argues that knowledge is the firm's most valuable resource. Within this field of study, informal social networks are rapidly gaining attention as mechanisms that facilitate knowledge flows. Electronic networks of practice (NoPs) are a special case of informal network where the sharing of practice-related knowledge occurs primarily through computer-based communication technologies. However, we know relatively little about the dynamics of knowledge exchange that occur in these electronic networks. This conceptual paper posits that there is a relationship between the structural properties of electronic NoPs and successful knowledge exchange. The theoretical positions of social network theory and the knowledge-based view of the firm are used to support this claim. A review of the extant literature reveals that a clear conceptual framework for NoPs is lacking. The objective of this research is to contribute to the development of such a framework by addressing a largely neglected area within the growing network of practice literature – namely, the relationship between electronic network communication structure and knowledge flows.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Whelan, Eoin
+TI  - Exploring Knowledge Exchange in Electronic Networks of Practice
+T2  - Journal of Information Technology
+PY  - 2007
+VL  - 22
+IS  - 1
+SP  - 5
+EP  - 12
+DO  - 10.1057/PALGRAVE.JIT.2000089
+ER  - 
 ```

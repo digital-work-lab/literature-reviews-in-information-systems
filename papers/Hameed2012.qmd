@@ -14,7 +14,7 @@ cited_by: 128
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Hameed2012,
@@ -27,4 +27,22 @@ Citation:
   number     = {5},
   pages      = {218--232}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Hameed, Mumtaz Abdul
+AU  - Counsell, Steve
+AU  - Swift, Stephen
+TI  - A meta-analysis of relationships between organizational characteristics and IT innovation adoption in organizations
+T2  - Information & Management
+PY  - 2012
+VL  - 49
+IS  - 5
+SP  - 218
+EP  - 232
+DO  - 10.1016/J.IM.2012.05.002
+ER  - 
 ```

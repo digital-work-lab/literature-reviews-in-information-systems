@@ -17,7 +17,7 @@ cited_by: 53
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{PorrasKnutasIkonenEtAl2019,
@@ -28,4 +28,22 @@ Citation:
   year       = {2019},
   url        = {http://hdl.handle.net/10125/60213}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Porras, Jari
+AU  - Knutas, Antti
+AU  - Ikonen, Jouni
+AU  - Happonen, Ari
+AU  - Khakurel, Jayden
+AU  - Herala, Antti
+TI  - Code camps and hackathons in education - literature review and lessons learned
+T2  - Hawaii International Conference on System Sciences
+PY  - 2019
+DO  - 10.24251/HICSS.2019.933
+UR  - http://hdl.handle.net/10125/60213
+ER  - 
 ```

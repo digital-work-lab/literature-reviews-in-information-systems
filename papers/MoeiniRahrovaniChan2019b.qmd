@@ -14,7 +14,7 @@ cited_by: 41
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{MoeiniRahrovaniChan2019b,
@@ -27,4 +27,22 @@ Citation:
   number     = {2},
   pages      = {196--217}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Moeini, Mohammad
+AU  - Rahrovani, Yasser
+AU  - Chan, Yolande E.
+TI  - A review of the practical relevance of IS strategy scholarly research
+T2  - The Journal of Strategic Information Systems
+PY  - 2019
+VL  - 28
+IS  - 2
+SP  - 196
+EP  - 217
+DO  - 10.1016/J.JSIS.2018.12.003
+ER  - 
 ```

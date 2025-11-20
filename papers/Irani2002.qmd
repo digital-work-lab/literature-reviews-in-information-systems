@@ -13,7 +13,7 @@ cited_by: 59
 outlet: "European Journal of Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Irani2002,
@@ -26,4 +26,21 @@ Citation:
   number     = {1},
   pages      = {74--82}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Irani, Z
+AU  - Love, P E D
+TI  - Developing a frame of reference for ex-ante IT/IS investment evaluation
+T2  - European Journal of Information Systems
+PY  - 2002
+VL  - 11
+IS  - 1
+SP  - 74
+EP  - 82
+DO  - 10.1057/PALGRAVE/EJIS/3000411
+ER  - 
 ```

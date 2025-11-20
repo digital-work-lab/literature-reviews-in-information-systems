@@ -13,7 +13,7 @@ cited_by: 66
 outlet: "Information Systems Research"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Williams2012,
@@ -27,4 +27,21 @@ Citation:
   pages      = {1--22},
   abstract   = {The single site implementation study is an invaluable tool for studying the large-scale enterprise solution. Together with constructivist frameworks and ethnographic approaches it has allowed the development of rich local pictures of the immediate and adaptive response by user organizations to the take-up of what are, today, often generic packaged systems. However, to view the packaged enterprise solution principally at the place where the user encounters it also has limitations. It produces somewhat partial understandings of these complex artifacts. In particular, it downplays important influences from other sites and time frames. This paper argues that if we are to understand the full implications of enterprise solutions for organizations then we should study their “biography.” This idea points to how the career of workplace technology is often played out over multiple time frames and settings. To understand its shaping therefore requires scholars to go beyond the study of technology at a single locale or moment and, rather, attempt to follow it through space and time. The paper develops two ideas to aid this kind of study. We discuss better spatial metaphors that might help us explore the hybrid and extended spaces in which packaged software systems develop and evolve. We also review improved temporal understandings that may capture the multiple contemporary and historical time frames at play. The paper concludes by discussing some possible research directions that a focus on the biography of a technology might allow.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Williams, Robin
+AU  - Pollock, Neil
+TI  - Research Commentary —Moving Beyond the Single Site Implementation Study: How (and Why) We Should Study the Biography of Packaged Enterprise Solutions
+T2  - Information Systems Research
+PY  - 2012
+VL  - 23
+IS  - 1
+SP  - 1
+EP  - 22
+DO  - 10.1287/ISRE.1110.0352
+ER  - 
 ```

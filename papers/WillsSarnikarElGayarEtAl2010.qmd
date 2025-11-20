@@ -15,7 +15,7 @@ cited_by: 5
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{WillsSarnikarElGayarEtAl2010,
@@ -28,4 +28,23 @@ Citation:
   pages      = {565--598},
   url        = {https://aisel.aisnet.org/cais/vol26/iss1/26}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wills, Matthew J.
+AU  - Sarnikar, Surendra
+AU  - El-Gayar, Omar F.
+AU  - Deokar, Amit V.
+TI  - Information Systems and Healthcare XXXIV - Clinical Knowledge Management Systems - Literature Review and Research Issues for Information Systems
+T2  - Communications of the Association for Information Systems
+PY  - 2010
+VL  - 26
+SP  - 565
+EP  - 598
+DO  - 10.17705/1CAIS.02626
+UR  - https://aisel.aisnet.org/cais/vol26/iss1/26
+ER  - 
 ```

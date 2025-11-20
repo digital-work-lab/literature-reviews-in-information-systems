@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Balci2014,
@@ -22,4 +22,16 @@ Citation:
   year       = {2014},
   url        = {https://aisel.aisnet.org/amcis2014/e-Business/GeneralPresentations/9}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Balci, Bilal
+TI  - The State of the Art on Process Virtualization - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2014
+UR  - https://aisel.aisnet.org/amcis2014/e-Business/GeneralPresentations/9
+ER  - 
 ```

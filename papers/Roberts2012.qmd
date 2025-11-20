@@ -15,7 +15,7 @@ cited_by: 370
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Roberts2012,
@@ -28,4 +28,22 @@ Citation:
   number     = {2},
   pages      = {625}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Roberts
+AU  - Galluch
+AU  - Dinger
+AU  - Grover
+TI  - Absorptive Capacity and Information Systems Research: Review, Synthesis, and Directions for Future Research
+T2  - MIS Quarterly
+PY  - 2012
+VL  - 36
+IS  - 2
+SP  - 625
+DO  - 10.2307/41703470
+ER  - 
 ```

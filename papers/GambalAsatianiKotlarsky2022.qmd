@@ -14,7 +14,7 @@ cited_by: 27
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{GambalAsatianiKotlarsky2022,
@@ -26,4 +26,20 @@ Citation:
   volume     = {31},
   number     = {2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Gambal, Marfri-Jay
+AU  - Asatiani, Aleksandre
+AU  - Kotlarsky, Julia
+TI  - Strategic innovation through outsourcing - A theoretical review
+T2  - The Journal of Strategic Information Systems
+PY  - 2022
+VL  - 31
+IS  - 2
+DO  - 10.1016/J.JSIS.2022.101718
+ER  - 
 ```

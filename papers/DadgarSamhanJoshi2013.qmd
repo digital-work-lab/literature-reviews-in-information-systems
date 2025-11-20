@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{DadgarSamhanJoshi2013,
@@ -24,4 +24,18 @@ Citation:
   year       = {2013},
   url        = {https://aisel.aisnet.org/amcis2013/HealthInformation/GeneralPresentations/1}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Dadgar, Majid
+AU  - Samhan, Bahae
+AU  - Joshi, K. D.
+TI  - Mobile Health Information Technology and Patient Care - A Literature Review and Analysis
+T2  - Americas Conference on Information Systems
+PY  - 2013
+UR  - https://aisel.aisnet.org/amcis2013/HealthInformation/GeneralPresentations/1
+ER  - 
 ```

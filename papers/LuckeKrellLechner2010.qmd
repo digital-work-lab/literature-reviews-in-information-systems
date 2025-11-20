@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LuckeKrellLechner2010,
@@ -24,4 +24,18 @@ Citation:
   year       = {2010},
   url        = {https://aisel.aisnet.org/amcis2010/305}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Lucke, Carsten
+AU  - Krell, Sascha
+AU  - Lechner, Ulrike
+TI  - Critical Issues in Enterprise Architecting - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2010
+UR  - https://aisel.aisnet.org/amcis2010/305
+ER  - 
 ```

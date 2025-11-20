@@ -13,7 +13,7 @@ cited_by: 16
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Muller2013,
@@ -26,4 +26,21 @@ Citation:
   number     = {7},
   pages      = {175--200}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Muller, Sune Dueholm
+AU  - Ulrich, Frank
+TI  - Creativity and Information Systems in a Hypercompetitive Environment: A Literature Review
+T2  - Communications of the Association for Information Systems
+PY  - 2013
+VL  - 32
+IS  - 7
+SP  - 175
+EP  - 200
+DO  - 10.17705/1CAIS.03207
+ER  - 
 ```

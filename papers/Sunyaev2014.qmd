@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "e-Service Journal"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Sunyaev2014,
@@ -24,4 +24,19 @@ Citation:
   number     = {2},
   pages      = {1--23}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Sunyaev, Ali
+TI  - Consumer Facing Health Care Systems
+T2  - e-Service Journal
+PY  - 2014
+VL  - 9
+IS  - 2
+SP  - 1
+EP  - 23
+ER  - 
 ```

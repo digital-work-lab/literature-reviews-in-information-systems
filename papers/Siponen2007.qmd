@@ -13,7 +13,7 @@ cited_by: 129
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Siponen2007,
@@ -27,4 +27,21 @@ Citation:
   pages      = {60--80},
   abstract   = {This paper identifies four security issues (access to Information Systems, secure communication, security management, development of secure Information Systems), and examines the extent to which these security issues have been addressed by existing research efforts. Research contributions in relation to these four security issues are analyzed from three viewpoints: a meta-model for information systems, the research approaches used, and the reference disciplines used. Our survey reveals that most information security research has focused on the technical context, and on issues of access to IS and secure communication. The corresponding security issues have been resolved by using mathematical approaches as a research approach. The reference disciplines most commonly reflected have been mathematics, including philosophical logic. Based on this analysis, we suggest new directions for studying information security from an information systems viewpoint, with respect to research methodology and research questions. Empirical studies in relation to the issues of security management and the development of secure IS, based on suitable reference theories (e.g., psychology, sociology, semiotics, and philosophy), are particularly necessary.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Siponen, Mikko T.
+AU  - Oinas-Kukkonen, Harri
+TI  - A review of information security issues and respective research contributions
+T2  - ACM SIGMIS Database: the DATABASE for Advances in Information Systems
+PY  - 2007
+VL  - 38
+IS  - 1
+SP  - 60
+EP  - 80
+DO  - 10.1145/1216218.1216224
+ER  - 
 ```

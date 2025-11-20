@@ -12,7 +12,7 @@ cited_by: 177
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Alter2013,
@@ -25,4 +25,20 @@ Citation:
   number     = {2},
   pages      = {72--121}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Alter, Steven
+TI  - Work System Theory: Overview of Core Concepts, Extensions, and Challenges for the Future
+T2  - Journal of the Association for Information Systems
+PY  - 2013
+VL  - 14
+IS  - 2
+SP  - 72
+EP  - 121
+DO  - 10.17705/1JAIS.00323
+ER  - 
 ```

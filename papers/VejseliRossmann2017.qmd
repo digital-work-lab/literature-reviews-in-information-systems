@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{VejseliRossmann2017,
@@ -23,4 +23,17 @@ Citation:
   year       = {2017},
   url        = {https://aisel.aisnet.org/pacis2017/41}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Vejseli, Sulejman
+AU  - Rossmann, Alexander
+TI  - The Impact of IT Governance on Firm Performance A Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2017
+UR  - https://aisel.aisnet.org/pacis2017/41
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 32
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{ChuLuoChen2019,
@@ -30,4 +30,23 @@ Citation:
   pages      = {403--417},
   url        = {https://www.sciencedirect.com/science/article/pii/S0378720618303422}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Chu, Xinmin
+AU  - Luo, Xin
+AU  - Chen, Yan
+TI  - A systematic review on cross-cultural information systems research - Evidence from the last decade
+T2  - Information & Management
+PY  - 2019
+VL  - 56
+IS  - 3
+SP  - 403
+EP  - 417
+DO  - 10.1016/J.IM.2018.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720618303422
+ER  - 
 ```

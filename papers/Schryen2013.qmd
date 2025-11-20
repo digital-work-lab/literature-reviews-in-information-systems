@@ -12,7 +12,7 @@ cited_by: 275
 outlet: "European Journal of Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Schryen2013,
@@ -25,4 +25,20 @@ Citation:
   number     = {2},
   pages      = {139--169}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Schryen, Guido
+TI  - Revisiting IS business value research: what we already know, what we still need to know, and how we can get there
+T2  - European Journal of Information Systems
+PY  - 2013
+VL  - 22
+IS  - 2
+SP  - 139
+EP  - 169
+DO  - 10.1057/EJIS.2012.45
+ER  - 
 ```

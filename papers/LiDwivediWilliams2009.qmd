@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LiDwivediWilliams2009,
@@ -24,4 +24,18 @@ Citation:
   year       = {2009},
   url        = {https://aisel.aisnet.org/amcis2009/241}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Li, Honglei
+AU  - Dwivedi, Yogesh Kumar
+AU  - Williams, Michael D.
+TI  - Exploring VC Reasearch - A Systematic Literature Review from 1985 to 2008
+T2  - Americas Conference on Information Systems
+PY  - 2009
+UR  - https://aisel.aisnet.org/amcis2009/241
+ER  - 
 ```

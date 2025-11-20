@@ -16,7 +16,7 @@ cited_by: 47
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Wang2008,
@@ -30,4 +30,24 @@ Citation:
   pages      = {555--571},
   fulltext   = {http://link.springer.com/content/pdf/10.1007/s10796-008-9115-2.pdf}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wang, Shan
+AU  - Zheng, Shi
+AU  - Xu, Lida
+AU  - Li, Dezheng
+AU  - Meng, Huan
+TI  - A literature review of electronic marketplace research: Themes, theories and an integrative framework
+T2  - Information Systems Frontiers
+PY  - 2008
+VL  - 10
+IS  - 5
+SP  - 555
+EP  - 571
+DO  - 10.1007/S10796-008-9115-2
+ER  - 
 ```

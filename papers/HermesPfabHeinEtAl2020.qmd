@@ -17,7 +17,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HermesPfabHeinEtAl2020,
@@ -27,4 +27,21 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/pacis2020/42}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Hermes, Sebastian
+AU  - Pfab, Simon
+AU  - Hein, Andreas
+AU  - Weking, Jörg
+AU  - Böhm, Markus
+AU  - Krcmar, Helmut
+TI  - Digital Platforms and Market Dominance - Insights from a Systematic Literature Review and Avenues for Future Research
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/pacis2020/42
+ER  - 
 ```

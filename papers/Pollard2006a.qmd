@@ -14,7 +14,7 @@ cited_by: 6
 outlet: "Journal of Information Technology Case and Application Research"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Pollard2006a,
@@ -27,4 +27,22 @@ Citation:
   number     = {2},
   pages      = {24--38}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Pollard, Carol
+AU  - Young, Judy
+AU  - Gregg, Paul
+TI  - Towards a Simplified Framework of CRM for Use in Public and Private Sectors
+T2  - Journal of Information Technology Case and Application Research
+PY  - 2006
+VL  - 8
+IS  - 2
+SP  - 24
+EP  - 38
+DO  - 10.1080/15228053.2006.10856087
+ER  - 
 ```

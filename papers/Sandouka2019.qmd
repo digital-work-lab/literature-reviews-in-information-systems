@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Sandouka2019,
@@ -22,4 +22,16 @@ Citation:
   year       = {2019},
   url        = {https://aisel.aisnet.org/amcis2019/social_computing/social_computing/6}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Sandouka, Kari
+TI  - Text Analysis of Crowdfuding - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2019
+UR  - https://aisel.aisnet.org/amcis2019/social_computing/social_computing/6
+ER  - 
 ```

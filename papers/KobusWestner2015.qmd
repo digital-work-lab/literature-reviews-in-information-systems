@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{KobusWestner2015,
@@ -23,4 +23,17 @@ Citation:
   year       = {2015},
   url        = {https://aisel.aisnet.org/pacis2015/172}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Kobus, Jörn
+AU  - Westner, Markus
+TI  - Lean Management of IT Organizations - A Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2015
+UR  - https://aisel.aisnet.org/pacis2015/172
+ER  - 
 ```

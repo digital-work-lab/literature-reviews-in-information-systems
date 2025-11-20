@@ -13,7 +13,7 @@ cited_by: 203
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Lee2006h,
@@ -26,4 +26,21 @@ Citation:
   number     = {8},
   pages      = {975--985}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Lee, Gwanhoo
+AU  - Xia, Weidong
+TI  - Organizational size and IT innovation adoption: A meta-analysis
+T2  - Information & Management
+PY  - 2006
+VL  - 43
+IS  - 8
+SP  - 975
+EP  - 985
+DO  - 10.1016/J.IM.2006.09.003
+ER  - 
 ```

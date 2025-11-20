@@ -12,7 +12,7 @@ cited_by: 139
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Ghobadi2015,
@@ -26,4 +26,21 @@ Citation:
   pages      = {82--97},
   url        = {https://www.sciencedirect.com/science/article/pii/S0378720614001323}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Ghobadi, Shahla
+TI  - What drives knowledge sharing in software development teams - A literature review and classification framework
+T2  - Information & Management
+PY  - 2015
+VL  - 52
+IS  - 1
+SP  - 82
+EP  - 97
+DO  - 10.1016/J.IM.2014.10.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720614001323
+ER  - 
 ```

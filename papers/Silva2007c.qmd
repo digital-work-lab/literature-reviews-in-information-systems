@@ -12,7 +12,7 @@ cited_by: 57
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Silva2007c,
@@ -25,4 +25,20 @@ Citation:
   number     = {4},
   pages      = {255--266}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Silva, Leiser
+TI  - Post-positivist Review of Technology Acceptance Model.
+T2  - Journal of the Association for Information Systems
+PY  - 2007
+VL  - 8
+IS  - 4
+SP  - 255
+EP  - 266
+DO  - 10.17705/1JAIS.00121
+ER  - 
 ```

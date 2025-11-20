@@ -12,7 +12,7 @@ cited_by: 5
 outlet: "Journal of Global Information Technology Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Carter2010,
@@ -25,4 +25,20 @@ Citation:
   number     = {4},
   pages      = {4--27}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Carter, Pamela E.
+TI  - IT Service Value Creation in a Global Environment
+T2  - Journal of Global Information Technology Management
+PY  - 2010
+VL  - 13
+IS  - 4
+SP  - 4
+EP  - 27
+DO  - 10.1080/1097198X.2010.10856524
+ER  - 
 ```

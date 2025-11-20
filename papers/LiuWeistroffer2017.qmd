@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LiuWeistroffer2017,
@@ -23,4 +23,17 @@ Citation:
   year       = {2017},
   url        = {https://aisel.aisnet.org/amcis2017/ITProjMgmt/Presentations/2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Liu, Dapeng
+AU  - Weistroffer, Heinz Roland
+TI  - Is System Quality Irrelevant to System Use? - A Literature Review of the Relationship Between System Quality and System Use
+T2  - Americas Conference on Information Systems
+PY  - 2017
+UR  - https://aisel.aisnet.org/amcis2017/ITProjMgmt/Presentations/2
+ER  - 
 ```

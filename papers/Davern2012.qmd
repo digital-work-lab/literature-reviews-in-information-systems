@@ -14,7 +14,7 @@ cited_by: 49
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Davern2012,
@@ -27,4 +27,22 @@ Citation:
   number     = {4},
   pages      = {273--314}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Davern, Michael
+AU  - Shaft, Teresa
+AU  - Te'eni, Dov
+TI  - Cognition Matters: Enduring Questions in Cognitive IS Research
+T2  - Journal of the Association for Information Systems
+PY  - 2012
+VL  - 13
+IS  - 4
+SP  - 273
+EP  - 314
+DO  - 10.17705/1JAIS.00290
+ER  - 
 ```

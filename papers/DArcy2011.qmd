@@ -13,7 +13,7 @@ cited_by: 262
 outlet: "European Journal of Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{DArcy2011,
@@ -26,4 +26,21 @@ Citation:
   number     = {6},
   pages      = {643--658}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - D'Arcy, John
+AU  - Herath, Tejaswini
+TI  - A review and analysis of deterrence theory in the IS security literature: making sense of the disparate findings
+T2  - European Journal of Information Systems
+PY  - 2011
+VL  - 20
+IS  - 6
+SP  - 643
+EP  - 658
+DO  - 10.1057/EJIS.2011.23
+ER  - 
 ```

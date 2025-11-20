@@ -12,7 +12,7 @@ cited_by: 3920
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Vial2019,
@@ -24,4 +24,18 @@ Citation:
   volume     = {28},
   number     = {2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Vial, Gregory
+TI  - Understanding digital transformation: A review and a research agenda
+T2  - The Journal of Strategic Information Systems
+PY  - 2019
+VL  - 28
+IS  - 2
+DO  - 10.1016/J.JSIS.2019.01.003
+ER  - 
 ```

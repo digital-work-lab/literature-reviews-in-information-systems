@@ -16,7 +16,7 @@ cited_by: 4
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{liu2025conceptualizing,
@@ -29,4 +29,23 @@ Citation:
   number     = {2},
   pages      = {101904}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Liu, Jiaying
+AU  - Schwarz, Andrew
+AU  - Risius, Marten
+AU  - Hirschheim, Rudy
+AU  - Van Scotter, James
+TI  - Conceptualizing Echo Chambers and Information Cocoons: A Literature Review and Synthesis of Current Knowledge and Future Directions
+T2  - The Journal of Strategic Information Systems
+PY  - 2025
+VL  - 34
+IS  - 2
+SP  - 101904
+DO  - 10.1016/J.JSIS.2025.101904
+ER  - 
 ```

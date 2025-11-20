@@ -12,7 +12,7 @@ cited_by: 5
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Sobotta2016,
@@ -23,4 +23,17 @@ Citation:
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427288}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Sobotta, Nikolai
+TI  - A Systematic Literature Review on the Relation of Information Technology and Information Overload
+T2  - Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.111
+UR  - https://ieeexplore.ieee.org/document/7427288
+ER  - 
 ```

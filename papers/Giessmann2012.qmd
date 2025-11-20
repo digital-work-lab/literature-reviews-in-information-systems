@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Journal of Information Technology Theory and Application"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Giessmann2012,
@@ -25,4 +25,20 @@ Citation:
   number     = {4},
   pages      = {31--55}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Giessmann, Andrea
+AU  - Stanoevska-Slabeva, Katarina
+TI  - Business Models of Platform as a Service (PaaS) Providers: Current State and Future Directions
+T2  - Journal of Information Technology Theory and Application
+PY  - 2012
+VL  - 13
+IS  - 4
+SP  - 31
+EP  - 55
+ER  - 
 ```

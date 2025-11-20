@@ -15,7 +15,7 @@ cited_by: 768
 outlet: "Information Systems Research"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Agarwal2010,
@@ -29,4 +29,23 @@ Citation:
   pages      = {796--809},
   abstract   = {As the United States expends extraordinary efforts toward the digitization of its health-care system, and as policy makers across the globe look to information technology (IT) as a means of making health-care systems safer, more affordable, and more accessible, a rare and remarkable opportunity has emerged for the information systems research community to leverage its in-depth knowledge to both advance theory and influence practice and policy. Although health IT (HIT) has tremendous potential to improve quality and reduce costs in healthcare, significant challenges need to be overcome to fully realize this potential. In this commentary, we survey the landscape of existing studies on HIT to provide an overview of the current status of HIT research. We then identify three major areas that warrant further research: (1) HIT design, implementation, and meaningful use; (2) measurement and quantification of HIT payoff and impact; and (3) extending the traditional realm of HIT. We discuss specific research questions in each domain and suggest appropriate methods to approach them. We encourage information systems scholars to become active participants in the global discourse on health-care transformation through IT.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Agarwal, Ritu
+AU  - Gao, Guodong (Gordon)
+AU  - DesRoches, Catherine
+AU  - Jha, Ashish K.
+TI  - Research Commentary —The Digital Transformation of Healthcare: Current Status and the Road Ahead
+T2  - Information Systems Research
+PY  - 2010
+VL  - 21
+IS  - 4
+SP  - 796
+EP  - 809
+DO  - 10.1287/ISRE.1100.0327
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 27
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{OckerMudambi2003,
@@ -24,4 +24,18 @@ Citation:
   year       = {2003},
   url        = {https://ieeexplore.ieee.org/document/1174390}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Ocker, Rosalie J.
+AU  - Mudambi, Susan M.
+TI  - Assessing the readiness of firms for CRM - a literature review and research model
+T2  - Hawaii International Conference on System Sciences
+PY  - 2003
+DO  - 10.1109/HICSS.2003.1174390
+UR  - https://ieeexplore.ieee.org/document/1174390
+ER  - 
 ```

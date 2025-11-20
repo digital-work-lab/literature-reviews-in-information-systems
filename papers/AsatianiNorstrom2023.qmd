@@ -13,7 +13,7 @@ cited_by: 19
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{AsatianiNorstrom2023,
@@ -26,4 +26,20 @@ Citation:
   number     = {3},
   pages      = {101789}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Asatiani, Aleksandre
+AU  - Norström, Livia
+TI  - Information systems for sustainable remote workplaces
+T2  - The Journal of Strategic Information Systems
+PY  - 2023
+VL  - 32
+IS  - 3
+SP  - 101789
+DO  - 10.1016/J.JSIS.2023.101789
+ER  - 
 ```

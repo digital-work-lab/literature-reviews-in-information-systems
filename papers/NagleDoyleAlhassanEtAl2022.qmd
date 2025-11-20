@@ -15,7 +15,7 @@ cited_by: 4
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{NagleDoyleAlhassanEtAl2022,
@@ -28,4 +28,23 @@ Citation:
   pages      = {358--395},
   url        = {https://aisel.aisnet.org/cgi/login.cgi?return_to=https%3A%2F%2Faisel.aisnet.org%2Fcgi%2Fcview.cgi%2Fcais%2Fvol50%2Fiss1%2F14&context=https://aisel.aisnet.org}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Nagle, Tadhg
+AU  - Doyle, Cathal
+AU  - Alhassan, Ibrahim Mohammed
+AU  - Sammon, David
+TI  - The Research Method we Need or Deserve? A Literature Review of the Design Science Research Landscape
+T2  - Communications of the Association for Information Systems
+PY  - 2022
+VL  - 50
+SP  - 358
+EP  - 395
+DO  - 10.17705/1CAIS.05015
+UR  - https://aisel.aisnet.org/cgi/login.cgi?return_to=https%3A%2F%2Faisel.aisnet.org%2Fcgi%2Fcview.cgi%2Fcais%2Fvol50%2Fiss1%2F14&context=https://aisel.aisnet.org
+ER  - 
 ```

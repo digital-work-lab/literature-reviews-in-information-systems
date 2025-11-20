@@ -17,7 +17,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HanzhuoMaHuangZhengEtAl2019,
@@ -27,4 +27,21 @@ Citation:
   year       = {2019},
   url        = {https://aisel.aisnet.org/pacis2019/135}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Hanzhuo Ma, Vivian
+AU  - Huang, Wei
+AU  - Zheng, Yujuan
+AU  - Wu, Xiaosong
+AU  - Klein, Gary S.
+AU  - Jiang, James J.
+TI  - Program management - A comprehensive literature review for future research directions
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2019
+UR  - https://aisel.aisnet.org/pacis2019/135
+ER  - 
 ```

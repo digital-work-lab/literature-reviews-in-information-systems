@@ -15,7 +15,7 @@ cited_by: 126
 outlet: "Information Systems Research"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{ChoiMelaBalseiroEtAl2020,
@@ -30,4 +30,24 @@ Citation:
   url        = {https://www.doi.org/10.1287/ISRE.2019.0902},
   abstract   = {Display advertising is a $50 billion industry in which advertisers’ (e.g., P&G, Geico) demand for impressions is matched to publishers’ (e.g., Facebook, Wall Street Journal) supply of them. An ideal match is one wherein the publisher’s ad impression is assigned to the advertiser with the highest value for it. Intermediaries (e.g., Google) facilitate this match between advertisers and publishers by managing data and providing optimization tools and algorithms for serving ads. Although these markets exhibit high allocative efficiency, we argue there is considerable scope for improvement.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Choi, Hana
+AU  - Mela, Carl F.
+AU  - Balseiro, Santiago R.
+AU  - Leary, Adam
+TI  - Online Display Advertising Markets - A Literature Review and Future Directions
+T2  - Information Systems Research
+PY  - 2020
+VL  - 31
+IS  - 2
+SP  - 556
+EP  - 575
+DO  - 10.1287/ISRE.2019.0902
+UR  - https://www.doi.org/10.1287/ISRE.2019.0902
+ER  - 
 ```

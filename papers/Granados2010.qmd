@@ -14,7 +14,7 @@ cited_by: 144
 outlet: "Information Systems Research"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Granados2010,
@@ -28,4 +28,22 @@ Citation:
   pages      = {207--226},
   abstract   = {The Internet has brought about significant changes in the availability of market information in many industries. E-commerce technologies provide sellers with opportunities to design electronic mercantile mechanisms that reveal, conceal, bias, and distort market information, depending on their goals and market position (e.g., suppliers versus intermediaries). In particular, in information-intensive industries where electronic markets play an important role, many firms are using advanced technologies to put innovative strategies into play that are based on the provision of differential information to their customers. We examine the role of information transparency in electronic markets. We contend that there is an opportunity to develop research on sellers' strategies regarding information disclosure to customers and competitors. For that purpose, we develop a set of concepts and a framework to guide future research. We then propose an interdisciplinary agenda for research on the emerging and increasingly important topic of transparency strategy, which we define as the set of policies and decisions that a firm makes to disclose, conceal, bias, or distort market information.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Granados, Nelson
+AU  - Gupta, Alok
+AU  - Kauffman, Robert J.
+TI  - Research Commentary—Information Transparency in Business-to-Consumer Markets: Concepts, Framework, and Research Agenda
+T2  - Information Systems Research
+PY  - 2010
+VL  - 21
+IS  - 2
+SP  - 207
+EP  - 226
+DO  - 10.1287/ISRE.1090.0249
+ER  - 
 ```

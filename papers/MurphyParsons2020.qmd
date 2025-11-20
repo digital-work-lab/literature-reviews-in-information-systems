@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{MurphyParsons2020,
@@ -23,4 +23,17 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/16}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Murphy, Ryan J. A.
+AU  - Parsons, Jeffrey
+TI  - What the Crowd Sources - A Protocol for a Contribution-Centred Systematic Literature Review of Data Crowdsourcing Research
+T2  - Americas Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/16
+ER  - 
 ```

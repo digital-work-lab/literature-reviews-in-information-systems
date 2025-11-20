@@ -23,7 +23,7 @@ cited_by: 33
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Suriadi2014,
@@ -36,4 +36,31 @@ Citation:
   number     = {1},
   pages      = {933--984}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Suriadi, Suriadi
+AU  - Weiß, Burkhard
+AU  - Winkelmann, Axel
+AU  - ter Hofstede, Arthur H.M.
+AU  - Adams, Michael
+AU  - Conforti, Raffaele
+AU  - Fidge, Colin
+AU  - La Rosa, Marcello
+AU  - Ouyang, Chun
+AU  - Pika, Anastasiia
+AU  - Rosemann, Michael
+AU  - Wynn, Moe
+TI  - Current Research in Risk-aware Business Process Management―Overview, Comparison, and Gap Analysis
+T2  - Communications of the Association for Information Systems
+PY  - 2014
+VL  - 34
+IS  - 1
+SP  - 933
+EP  - 984
+DO  - 10.17705/1CAIS.03452
+ER  - 
 ```

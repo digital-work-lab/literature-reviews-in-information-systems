@@ -15,7 +15,7 @@ cited_by: 50
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{MouCohenBhattacherjeeEtAl2022,
@@ -33,4 +33,24 @@ Citation:
   abstract   = {Information security is one of the important domains of information systems research today, with protection motivation theory (PMT) one of its most influential theoretical lenses. However, empirical findings based on PMT are often inconsistent and inconclusive. To reconcile these inconsistent findings, we conducted a meta-analysis to investigate the relationships among PMT constructs while also considering additional contextual constructs that are not specified in PMT. Ninety-two published studies were meta-analyzed and estimated using structural equation modeling. Our results provide support for three of the five predictors of security motivation intention, as postulated by PMT, mixed support for perceived vulnerability, and no support for response cost. We found that coping appraisal variables of response efficacy and self-efficacy have the largest average effects on security behavior. In addition, cultural attributes of collectivism and individualism moderated some of the pairwise correlations, PMT-theoretic relationships were generally stronger in personal contexts than in workplace contexts, and the intention-behavior relationship was strongest in workplace and compliance settings. Our results contribute to the information security literature by providing guidance for future PMT-related research and by demonstrating how meta-analysis and structural equation modeling can be combined to test theories in information systems research.},
   dblp_key   = {https://dblp.org/rec/journals/jais/MouCBK22}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Mou, Jian
+AU  - Cohen, Jason
+AU  - Bhattacherjee, Anol
+AU  - Kim, Jongki
+TI  - A Test of Protection Motivation Theory in the Information Security Literature: A Meta-Analytic Structural Equation Modeling Approach in Search Advertising
+T2  - Journal of the Association for Information Systems
+PY  - 2022
+VL  - 23
+IS  - 1
+SP  - 196
+EP  - 236
+DO  - 10.17705/1JAIS.00723
+UR  - https://aisel.aisnet.org/jais/vol23/iss1/6/
+ER  - 
 ```

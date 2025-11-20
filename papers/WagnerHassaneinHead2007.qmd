@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{WagnerHassaneinHead2007,
@@ -24,4 +24,18 @@ Citation:
   year       = {2007},
   url        = {https://aisel.aisnet.org/amcis2007/264}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Wagner, Nicole L.
+AU  - Hassanein, Khaled
+AU  - Head, Milena M.
+TI  - Computer Interaction for Older Users - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2007
+UR  - https://aisel.aisnet.org/amcis2007/264
+ER  - 
 ```

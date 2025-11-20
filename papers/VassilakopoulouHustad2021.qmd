@@ -13,7 +13,7 @@ cited_by: 283
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{VassilakopoulouHustad2021,
@@ -26,4 +26,20 @@ Citation:
   number     = {3},
   url        = {https://link.springer.com/article/10.1007/s10796-020-10096-3}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Vassilakopoulou, Polyxeni
+AU  - Hustad, Eli
+TI  - Bridging Digital Divides: a Literature Review and Research Agenda for Information Systems Research
+T2  - Information Systems Frontiers
+PY  - 2021
+VL  - 25
+IS  - 3
+DO  - 10.1007/S10796-020-10096-3
+UR  - https://link.springer.com/article/10.1007/s10796-020-10096-3
+ER  - 
 ```

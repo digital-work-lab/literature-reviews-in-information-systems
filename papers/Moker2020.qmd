@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Moker2020,
@@ -22,4 +22,16 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/amcis2020/is_leadership/is_leadership/5}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Moker, Anna
+TI  - What Do We Know about the Chief Digital Officer? A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/amcis2020/is_leadership/is_leadership/5
+ER  - 
 ```

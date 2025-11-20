@@ -13,7 +13,7 @@ cited_by: 3
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{daSilvaFernandez2016a,
@@ -24,4 +24,18 @@ Citation:
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427524/}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - da Silva, Abel Pires
+AU  - Fernández, Walter D.
+TI  - Sustainability of ICTD Projects and Its Influencing Factors - A Comprehensive Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.341
+UR  - https://ieeexplore.ieee.org/document/7427524/
+ER  - 
 ```

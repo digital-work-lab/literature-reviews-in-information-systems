@@ -14,7 +14,7 @@ cited_by: 18
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{yang2024harnessing,
@@ -27,4 +27,21 @@ Citation:
   number     = {4},
   pages      = {101864}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Yang, Jiaqi
+AU  - Amrollahi, Alireza
+AU  - Marrone, Mauricio
+TI  - Harnessing the potential of artificial intelligence: affordances, constraints, and strategic implications for professional services
+T2  - The Journal of Strategic Information Systems
+PY  - 2024
+VL  - 33
+IS  - 4
+SP  - 101864
+DO  - 10.1016/J.JSIS.2024.101864
+ER  - 
 ```

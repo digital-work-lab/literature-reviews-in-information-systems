@@ -16,7 +16,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{SimonofskiSnoeckVanderoseEtAl2017,
@@ -26,4 +26,20 @@ Citation:
   year       = {2017},
   url        = {https://aisel.aisnet.org/amcis2017/eGovernment/Presentations/3}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Simonofski, Anthony
+AU  - Snoeck, Monique
+AU  - Vanderose, Benoît
+AU  - Crompvoets, Joep
+AU  - Habra, Naji
+TI  - Reexamining E-participation - Systematic Literature Review on Citizen Participation in E-government Service Delivery
+T2  - Americas Conference on Information Systems
+PY  - 2017
+UR  - https://aisel.aisnet.org/amcis2017/eGovernment/Presentations/3
+ER  - 
 ```

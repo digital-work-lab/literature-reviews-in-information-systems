@@ -17,7 +17,7 @@ cited_by: 217
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Jasperson2002,
@@ -30,4 +30,24 @@ Citation:
   number     = {4},
   pages      = {397}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Jasperson, Jon (Sean)
+AU  - Carte, Traci A.
+AU  - Saunders, Carol S.
+AU  - Butler, Brian S.
+AU  - Croes, Henry J. P.
+AU  - Zheng, Weijun
+TI  - Review: Power and Information Technology Research: A Metatriangulation Review
+T2  - MIS Quarterly
+PY  - 2002
+VL  - 26
+IS  - 4
+SP  - 397
+DO  - 10.2307/4132315
+ER  - 
 ```

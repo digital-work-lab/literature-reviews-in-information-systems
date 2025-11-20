@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{RiedlLeimeisterKrcmar2009,
@@ -24,4 +24,18 @@ Citation:
   year       = {2009},
   url        = {https://aisel.aisnet.org/amcis2009/606}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Riedl, Christoph
+AU  - Leimeister, Jan Marco
+AU  - Krcmar, Helmut
+TI  - New Service Development for Electronic Services - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2009
+UR  - https://aisel.aisnet.org/amcis2009/606
+ER  - 
 ```

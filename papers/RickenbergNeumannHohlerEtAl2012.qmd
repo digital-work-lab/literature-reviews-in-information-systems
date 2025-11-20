@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{RickenbergNeumannHohlerEtAl2012,
@@ -25,4 +25,19 @@ Citation:
   year       = {2012},
   url        = {https://aisel.aisnet.org/amcis2012/proceedings/DataInfoQuality/10}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Rickenberg, Tim A.
+AU  - Neumann, Markus
+AU  - Hohler, Bernd
+AU  - Breitner, Michael H.
+TI  - Enterprise Content Management - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2012
+UR  - https://aisel.aisnet.org/amcis2012/proceedings/DataInfoQuality/10
+ER  - 
 ```

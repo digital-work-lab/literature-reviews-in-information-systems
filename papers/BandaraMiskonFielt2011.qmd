@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{BandaraMiskonFielt2011,
@@ -24,4 +24,18 @@ Citation:
   year       = {2011},
   url        = {http://aisel.aisnet.org/ecis2011/221}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Bandara, Wasana
+AU  - Miskon, Suraya
+AU  - Fielt, Erwin
+TI  - A systematic, tool-supported method for conducting literature reviews in information systems
+T2  - European Conference on Information Systems
+PY  - 2011
+UR  - http://aisel.aisnet.org/ecis2011/221
+ER  - 
 ```

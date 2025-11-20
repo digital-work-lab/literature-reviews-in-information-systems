@@ -12,7 +12,7 @@ cited_by: 304
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Elliot2011,
@@ -25,4 +25,19 @@ Citation:
   number     = {1},
   pages      = {197}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Elliot
+TI  - Transdisciplinary Perspectives on Environmental Sustainability: A Resource Base and Framework for IT-Enabled Business Transformation
+T2  - MIS Quarterly
+PY  - 2011
+VL  - 35
+IS  - 1
+SP  - 197
+DO  - 10.2307/23043495
+ER  - 
 ```

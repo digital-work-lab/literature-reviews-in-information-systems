@@ -13,7 +13,7 @@ cited_by: 29
 outlet: "Information Systems Journal"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Siponen2004,
@@ -27,4 +27,21 @@ Citation:
   pages      = {387--407},
   abstract   = {Abstract. Several approaches for and against the unauthorized copying of software have been proposed. These approaches can be divided into two categories: moral reasoning and solution. These categories of approaches to unauthorized copying of software are scrutinized in the light of Kohlberg's theory of Cognitive Moral Development. The results suggest that most approaches presenting solutions to unauthorized copying of software have focused attention on the lower levels of moral development, while approaches at the highest stage are few and far between. No single approach covers all the stages of moral development. The implications of this analysis for practice and research are discussed.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Siponen, Mikko
+AU  - Vartiainen, Tero
+TI  - Unauthorized copying of software and levels of moral development: a literature analysis and its implications for research and practice
+T2  - Information Systems Journal
+PY  - 2004
+VL  - 14
+IS  - 4
+SP  - 387
+EP  - 407
+DO  - 10.1111/J.1365-2575.2004.00179.X
+ER  - 
 ```

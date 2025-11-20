@@ -14,7 +14,7 @@ cited_by: 24
 outlet: "Journal of Information Technology"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Li2014f,
@@ -28,4 +28,22 @@ Citation:
   pages      = {208--222},
   abstract   = {Research on information technologies (IT) in China has gained increasing attention in the international information systems (IS) community. This study systematically reviews papers on IT in China published in the ‘Senior Scholars’ Basket of Journals’ from 2000 to 2013. We have two specific objectives: to identify key research issues and trends, and to propose future directions for research on IT in China. This paper categorizes the global distribution of authors and their research methods. Five research streams are identified, including human behaviors in IS adoption and use, IS management, e-Business, social media, digital collaborations and group support, and industry and societal issues in IS. While each stream is examined in detail, we specifically pay attention to the effect of the Chinese context in each paper and the approaches to contextualizing the research. On the basis of our findings from the literature review, we propose a focus on the Chinese context as guidance for future research.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Li, Liang
+AU  - Gao, Ping
+AU  - Mao, Ji-Ye
+TI  - Research on IT in China: A Call for Greater Contextualization
+T2  - Journal of Information Technology
+PY  - 2014
+VL  - 29
+IS  - 3
+SP  - 208
+EP  - 222
+DO  - 10.1057/JIT.2014.15
+ER  - 
 ```

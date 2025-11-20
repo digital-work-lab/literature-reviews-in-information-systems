@@ -12,7 +12,7 @@ cited_by: 3
 outlet: "European Journal of Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Marble2000,
@@ -25,4 +25,20 @@ Citation:
   number     = {3},
   pages      = {132--147}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Marble, R P
+TI  - Operationalising the implementation puzzle: an argument for eclecticism in research and in practice
+T2  - European Journal of Information Systems
+PY  - 2000
+VL  - 9
+IS  - 3
+SP  - 132
+EP  - 147
+DO  - 10.1057/PALGRAVE/EJIS/3000369
+ER  - 
 ```

@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "International Journal of Electronic Commerce"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Zwass2003,
@@ -24,4 +24,19 @@ Citation:
   number     = {3},
   pages      = {7--37}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Zwass, Vladimir
+TI  - Electronic Commerce and Organizational Innovation: Aspects and Opportunities
+T2  - International Journal of Electronic Commerce
+PY  - 2003
+VL  - 7
+IS  - 3
+SP  - 7
+EP  - 37
+ER  - 
 ```

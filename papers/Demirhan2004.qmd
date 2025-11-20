@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "Journal of Information Technology Theory and Application"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Demirhan2004,
@@ -24,4 +24,19 @@ Citation:
   number     = {4},
   pages      = {1--13}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Demirhan, Didem
+TI  - Factors Affecting Investment in IT: A Critical Review
+T2  - Journal of Information Technology Theory and Application
+PY  - 2004
+VL  - 6
+IS  - 4
+SP  - 1
+EP  - 13
+ER  - 
 ```

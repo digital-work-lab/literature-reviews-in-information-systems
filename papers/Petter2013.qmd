@@ -14,7 +14,7 @@ cited_by: 519
 outlet: "Journal of Management Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Petter2013,
@@ -27,4 +27,22 @@ Citation:
   number     = {4},
   pages      = {7--62}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Petter, Stacie
+AU  - DeLone, William
+AU  - McLean, Ephraim R.
+TI  - Information Systems Success: The Quest for the Independent Variables
+T2  - Journal of Management Information Systems
+PY  - 2013
+VL  - 29
+IS  - 4
+SP  - 7
+EP  - 62
+DO  - 10.2753/MIS0742-1222290401
+ER  - 
 ```

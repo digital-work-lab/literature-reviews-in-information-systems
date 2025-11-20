@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{SharmanRaoUpadhyaya2004,
@@ -24,4 +24,18 @@ Citation:
   year       = {2004},
   url        = {https://aisel.aisnet.org/amcis2004/181}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Sharman, Raj
+AU  - Rao, H. Raghav
+AU  - Upadhyaya, Shambhu J.
+TI  - Metrics for Information Security - A literature review
+T2  - Americas Conference on Information Systems
+PY  - 2004
+UR  - https://aisel.aisnet.org/amcis2004/181
+ER  - 
 ```

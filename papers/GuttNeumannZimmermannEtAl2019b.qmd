@@ -16,7 +16,7 @@ cited_by: 71
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{GuttNeumannZimmermannEtAl2019b,
@@ -29,4 +29,24 @@ Citation:
   number     = {2},
   pages      = {104--117}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Gutt, Dominik
+AU  - Neumann, Jürgen
+AU  - Zimmermann, Steffen
+AU  - Kundisch, Dennis
+AU  - Chen, Jianqing
+TI  - Design of review systems – A strategic instrument to shape online reviewing behavior and economic outcomes
+T2  - The Journal of Strategic Information Systems
+PY  - 2019
+VL  - 28
+IS  - 2
+SP  - 104
+EP  - 117
+DO  - 10.1016/J.JSIS.2019.01.004
+ER  - 
 ```

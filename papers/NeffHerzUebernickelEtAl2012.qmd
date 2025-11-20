@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{NeffHerzUebernickelEtAl2012,
@@ -25,4 +25,19 @@ Citation:
   year       = {2012},
   url        = {https://aisel.aisnet.org/pacis2012/57}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Neff, Alexander A.
+AU  - Herz, Thomas
+AU  - Uebernickel, Falk
+AU  - Brenner, Walter
+TI  - The Influence Of Information Technology On Industrial Services In The Manufacturing Industry - A Literature Review And Future Research Directions
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2012
+UR  - https://aisel.aisnet.org/pacis2012/57
+ER  - 
 ```

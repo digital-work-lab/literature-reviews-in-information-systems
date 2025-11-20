@@ -13,7 +13,7 @@ cited_by: 151
 outlet: "Information and Organization"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Fayard2014,
@@ -26,4 +26,21 @@ Citation:
   number     = {4},
   pages      = {236--249}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Fayard, Anne-Laure
+AU  - Weeks, John
+TI  - Affordances for practice
+T2  - Information and Organization
+PY  - 2014
+VL  - 24
+IS  - 4
+SP  - 236
+EP  - 249
+DO  - 10.1016/J.INFOANDORG.2014.10.001
+ER  - 
 ```

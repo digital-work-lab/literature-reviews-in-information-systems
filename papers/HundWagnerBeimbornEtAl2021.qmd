@@ -15,7 +15,7 @@ cited_by: 212
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{HundWagnerBeimbornEtAl2021,
@@ -27,4 +27,21 @@ Citation:
   volume     = {30},
   number     = {4}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Hund, Axel
+AU  - Wagner, Heinz-Theo
+AU  - Beimborn, Daniel
+AU  - Weitzel, Tim
+TI  - Digital innovation: Review and novel perspective
+T2  - The Journal of Strategic Information Systems
+PY  - 2021
+VL  - 30
+IS  - 4
+DO  - 10.1016/J.JSIS.2021.101695
+ER  - 
 ```

@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Karger2020,
@@ -22,4 +22,16 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/icis2020/blockchain_fintech/blockchain_fintech/6}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Karger, Erik
+TI  - Combining Blockchain and Artificial Intelligence - Literature Review and State of the Art
+T2  - International Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/icis2020/blockchain_fintech/blockchain_fintech/6
+ER  - 
 ```

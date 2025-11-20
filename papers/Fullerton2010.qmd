@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Journal of Information Technology Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Fullerton2010,
@@ -25,4 +25,20 @@ Citation:
   number     = {3},
   pages      = {51--59}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Fullerton, Tom
+AU  - Ness, Lawrence
+TI  - Information Technology Flexibility: A Synthesized Model from Existing Literature
+T2  - Journal of Information Technology Management
+PY  - 2010
+VL  - 21
+IS  - 3
+SP  - 51
+EP  - 59
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 5695
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Alavi2001,
@@ -26,4 +26,20 @@ Citation:
   number     = {1},
   pages      = {107}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Alavi, Maryam
+AU  - Leidner, Dorothy E.
+TI  - Review: Knowledge Management and Knowledge Management Systems: Conceptual Foundations and Research Issues
+T2  - MIS Quarterly
+PY  - 2001
+VL  - 25
+IS  - 1
+SP  - 107
+DO  - 10.2307/3250961
+ER  - 
 ```

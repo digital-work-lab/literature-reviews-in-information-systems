@@ -17,7 +17,7 @@ cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{SchaafLautenschlagerVouckoGlocknerEtAl2025a,
@@ -31,4 +31,25 @@ Citation:
   url        = {https://aisel.aisnet.org/cais/vol57/iss1/14},
   abstract   = {Central Bank Digital Currencies (CBDC) are a novel phenomenon gaining widespread attention from academics and practitioners in recent years. CBDCs combine new technology-enabled infrastructure and service innovation from the realm of FinTech and Decentralized Finance with the well-established and highly regulated area of central banking. While current practice and research primarily focus on designing specific CBDC systems or the governmental role, the role of companies and the private sector in the CBDC ecosystem still needs to be explored. Addressing this gap is particularly pertinent given the uncertainty surrounding which value propositions from traditional financial ecosystems and those from Fintech and blockchain-based financial ecosystems might be transferable to the realm of CBDCs. In this regard, the potential emergence of entirely novel value propositions companies could offer uniquely to CBDCs adds another layer of complexity. This paper aims to fill this gap by shedding light on private organizations’ value propositions in CBDC ecosystems. Through a multivocal literature review, we comprehensively gather both academic and practitioner insights. We aggregate value propositions directly stated in the current literature base and verify and complement these findings by mapping the needs of a CBDC ecosystem to value propositions companies might offer to fulfill these needs.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Schaaf, Vincent
+AU  - Lautenschlager, Jonathan
+AU  - Voucko-Glockner, Hannes
+AU  - Plank, Tobias
+AU  - Guggenberger, Tobias
+AU  - Urbach, Nils
+TI  - A Multivocal Literature Review on Capturing Value Propositions for Private Organizations in a CBDC Ecosystem
+T2  - Communications of the Association for Information Systems
+PY  - 2025
+VL  - 57
+SP  - 289
+EP  - 317
+DO  - 10.17705/1CAIS.05712
+UR  - https://aisel.aisnet.org/cais/vol57/iss1/14
+ER  - 
 ```

@@ -6,14 +6,14 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2003"
-doi: ""
+doi: "https://doi.org/10.1080/07421222.2003.11045748"
 journal:
   name: "Journal of Management Information Systems"
 cited_by: 0
 outlet: "Journal of Management Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{DeLone2003,
@@ -23,6 +23,24 @@ Citation:
   year       = {2003},
   volume     = {19},
   number     = {4},
-  pages      = {9--30}
+  pages      = {9--30},
+  doi        = {10.1080/07421222.2003.11045748}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - DeLone, William H.
+AU  - McLean, Ephraim R.
+TI  - The DeLone and McLean Model of Information Systems Success: A Ten-Year Update
+T2  - Journal of Management Information Systems
+PY  - 2003
+VL  - 19
+IS  - 4
+SP  - 9
+EP  - 30
+DO  - 10.1080/07421222.2003.11045748
+ER  - 
 ```

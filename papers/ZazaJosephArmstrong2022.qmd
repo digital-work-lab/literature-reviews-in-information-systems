@@ -14,7 +14,7 @@ cited_by: 12
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{ZazaJosephArmstrong2022,
@@ -31,4 +31,23 @@ Citation:
   url        = {https://misq.umn.edu/are-it-professionals-unique-a-second-order-meta-analytic-comparison-of-turnover-intentions-across-occupations.html},
   abstract   = {Information technology (IT) professionals are a strategic human resource for enabling competitive advantage through the application of data and technologies. Yet, it remains a challenge for organizations to retain top IT talent as the business context and the nature of work change. Retention strategies that have worked with other business professionals have faced limited success with IT talent, leading some scholars to ask whether the latter are unique in terms of culture, personality, and tools. This study seeks to address this question by (1) undertaking a meta-analysis of studies investigating the turnover intentions of IT professionals, and by (2) conducting a second-order meta-analysis to compare findings between IT and non-IT professionals. The meta-analytic findings identify new antecedents more recently examined in information systems (IS) research while confirming enduring relationships between antecedents and turnover intention. The second-order meta-analysis provides intriguing findings regarding the potential uniqueness of IT professionals. We provide an integrative discussion on the state of turnover intention research within the IS discipline, start a dialog on interdisciplinary comparisons, and offer a forward-looking agenda for future research. We conclude by calling on scholars to revitalize turnover intention research within the IS field by moving toward fresh theories, fresh constructs, and fresh approaches.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Zaza, Sam
+AU  - Joseph, Damien
+AU  - Armstrong, Deborah
+TI  - Are IT professionals unique? a second-order meta-analytic comparison of turnover intentions across occupations
+T2  - MIS Quarterly
+PY  - 2022
+VL  - 47
+IS  - 3
+SP  - 1213
+EP  - 1238
+DO  - 10.25300/MISQ/2022/16951
+UR  - https://misq.umn.edu/are-it-professionals-unique-a-second-order-meta-analytic-comparison-of-turnover-intentions-across-occupations.html
+ER  - 
 ```

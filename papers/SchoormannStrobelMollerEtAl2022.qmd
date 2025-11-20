@@ -16,7 +16,7 @@ cited_by: 43
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{SchoormannStrobelMollerEtAl2022,
@@ -30,4 +30,24 @@ Citation:
   url        = {https://aisel.aisnet.org/cais/vol52/iss1/8},
   dblp_key   = {https://dblp.org/rec/journals/cais/SchoormannSMPZ22}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Schoormann, Thorsten
+AU  - Strobel, Gero
+AU  - Möller, Frederik
+AU  - Petrik, Dimitri
+AU  - Zschech, Patrick
+TI  - Artificial Intelligence for Sustainability - A Systematic Review of Information Systems Literature
+T2  - Communications of the Association for Information Systems
+PY  - 2022
+VL  - 52
+SP  - 199
+EP  - 237
+DO  - 10.17705/1CAIS.05209
+UR  - https://aisel.aisnet.org/cais/vol52/iss1/8
+ER  - 
 ```

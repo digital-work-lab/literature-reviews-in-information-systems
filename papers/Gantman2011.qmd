@@ -12,7 +12,7 @@ cited_by: 24
 outlet: "Journal of Global Information Technology Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Gantman2011,
@@ -25,4 +25,20 @@ Citation:
   number     = {2},
   pages      = {48--83}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Gantman, Sonia
+TI  - IT Outsourcing in the Public Sector: A Literature Analysis
+T2  - Journal of Global Information Technology Management
+PY  - 2011
+VL  - 14
+IS  - 2
+SP  - 48
+EP  - 83
+DO  - 10.1080/1097198X.2011.10856537
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 106
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{YangTate2012,
@@ -26,4 +26,21 @@ Citation:
   pages      = {35--60},
   url        = {https://aisel.aisnet.org/cais/vol31/iss1/2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Yang, Haibo
+AU  - Tate, Mary
+TI  - A Descriptive Literature Review and Classification of Cloud Computing Research
+T2  - Communications of the Association for Information Systems
+PY  - 2012
+VL  - 31
+SP  - 35
+EP  - 60
+DO  - 10.17705/1CAIS.03102
+UR  - https://aisel.aisnet.org/cais/vol31/iss1/2
+ER  - 
 ```

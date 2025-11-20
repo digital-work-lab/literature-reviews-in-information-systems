@@ -16,7 +16,7 @@ cited_by: 112
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{ChatterjeeRanaKhoranaEtAl2021,
@@ -29,4 +29,22 @@ Citation:
   url        = {https://link.springer.com/article/10.1007/s10796-021-10181-1},
   abstract   = {Abstract This paper tests the meta-analysis based unified theory of acceptance and use of technology (meta-UTAUT) model to predict the behavioral intentions of organizational users and their use behavior to artificial intelligence (AI) integrated customer relationship management (CRM) systems. Data was collected from 315 organizational users in India. The hypotheses draw on the theoretical underpinnings which have been statistically validated. Results show that CRM quality and satisfaction significantly influences an organization’s employees attitudes and intentions to use AI integrated CRM systems. The compatibility of CRM systems has, however, a limited impact on employees attitudes. The findings, which are aligned with the extended UTAUT model, provide useful insights into organizations and decision-makers for designing AI integrated CRM systems.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Chatterjee, Sheshadri
+AU  - Rana, Nripendra P.
+AU  - Khorana, Sangeeta
+AU  - Mikalef, Patrick
+AU  - Sharma, Anuj
+TI  - Assessing Organizational Users’ Intentions and Behavior to AI Integrated CRM Systems: a Meta-UTAUT Approach
+T2  - Information Systems Frontiers
+PY  - 2021
+VL  - 25
+DO  - 10.1007/S10796-021-10181-1
+UR  - https://link.springer.com/article/10.1007/s10796-021-10181-1
+ER  - 
 ```

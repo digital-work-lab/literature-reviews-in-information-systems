@@ -14,7 +14,7 @@ cited_by: 87
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{TavakoliSchlagweinSchoder2017,
@@ -28,4 +28,23 @@ Citation:
   pages      = {163--184},
   url        = {https://www.sciencedirect.com/science/article/pii/S0963868717300240}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Tavakoli, Asin
+AU  - Schlagwein, Daniel
+AU  - Schoder, Detlef
+TI  - Open strategy - Literature review, re-analysis of cases and conceptualisation as a practice
+T2  - The Journal of Strategic Information Systems
+PY  - 2017
+VL  - 26
+IS  - 3
+SP  - 163
+EP  - 184
+DO  - 10.1016/J.JSIS.2017.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0963868717300240
+ER  - 
 ```

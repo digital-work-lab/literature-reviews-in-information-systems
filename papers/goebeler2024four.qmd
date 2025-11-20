@@ -14,7 +14,7 @@ cited_by: 4
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{goebeler2024four,
@@ -27,4 +27,21 @@ Citation:
   number     = {4},
   pages      = {101862}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Goebeler, Lucas
+AU  - Hukal, Philipp
+AU  - Xiao, Xiao
+TI  - Four roles of physicality in digital innovation: A theoretical review
+T2  - The Journal of Strategic Information Systems
+PY  - 2024
+VL  - 33
+IS  - 4
+SP  - 101862
+DO  - 10.1016/J.JSIS.2024.101862
+ER  - 
 ```

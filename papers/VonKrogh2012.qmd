@@ -12,7 +12,7 @@ cited_by: 279
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{VonKrogh2012,
@@ -25,4 +25,20 @@ Citation:
   number     = {2},
   pages      = {154--164}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - von Krogh, Georg
+TI  - How does social software change knowledge management? Toward a strategic research agenda
+T2  - The Journal of Strategic Information Systems
+PY  - 2012
+VL  - 21
+IS  - 2
+SP  - 154
+EP  - 164
+DO  - 10.1016/J.JSIS.2012.04.003
+ER  - 
 ```

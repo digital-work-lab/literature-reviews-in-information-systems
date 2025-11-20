@@ -13,7 +13,7 @@ cited_by: 354
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Riggins2005,
@@ -26,4 +26,21 @@ Citation:
   number     = {12},
   pages      = {298--337}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Riggins, Frederick
+AU  - Dewan, Sanjeev
+TI  - The Digital Divide: Current and Future Research Directions
+T2  - Journal of the Association for Information Systems
+PY  - 2005
+VL  - 6
+IS  - 12
+SP  - 298
+EP  - 337
+DO  - 10.17705/1JAIS.00074
+ER  - 
 ```

@@ -15,7 +15,7 @@ cited_by: 461
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Krogh2012,
@@ -28,4 +28,22 @@ Citation:
   number     = {2},
   pages      = {649}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - von Krogh
+AU  - Haefliger
+AU  - Spaeth
+AU  - Wallin
+TI  - Carrots and Rainbows: Motivation and Social Practice in Open Source Software Development
+T2  - MIS Quarterly
+PY  - 2012
+VL  - 36
+IS  - 2
+SP  - 649
+DO  - 10.2307/41703471
+ER  - 
 ```

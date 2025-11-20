@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{DeyMishra2025,
@@ -27,4 +27,21 @@ Citation:
   url        = {https://aisel.aisnet.org/cais/vol56/iss1/32},
   abstract   = {Megaprojects are complex and capital-intensive endeavors that result in societal transformation and value creation. Given the tremendous failure costs, the challenges and causes of megaprojects' performance issues draw attention from project management practitioners and the research community. Information systems research explores technology’s role in shaping and transforming business and society. However, technology’s role in addressing megaproject performance is still under-researched, as evidenced by a search in the leading information systems (IS) journals. Among the emerging technologies, blockchain’s applicability in addressing challenges in megaproject performance is relevant for critical infrastructure development projects. The blockchain can potentially deliver cures to address megaproject challenges and their causes by synthesizing and analyzing evidence from literature across multiple contexts. We undertake three systematic literature reviews across ninety-eight prominent project management, IS, and construction project journals to understand megaproject problems and blockchain’s role in addressing similar problems in supply chain and procurement in projects. We propose a conceptual framework that describes how autonomy, agency, and enactment may shape blockchain’s role as an intervention in megaprojects to help researchers, policy-makers, and practitioners build a blockchain platform for megaproject supply chains. We also provide a research agenda concerning blockchain in the megaproject supply chain using the TCCM framework.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Dey, Shantanu
+AU  - Mishra, Rajhans
+TI  - Blockchain in Megaproject Execution – A Systematic Literature Review and an Information Systems Research Agenda
+T2  - Communications of the Association for Information Systems
+PY  - 2025
+VL  - 56
+SP  - 851
+EP  - 885
+DO  - 10.17705/1CAIS.05632
+UR  - https://aisel.aisnet.org/cais/vol56/iss1/32
+ER  - 
 ```

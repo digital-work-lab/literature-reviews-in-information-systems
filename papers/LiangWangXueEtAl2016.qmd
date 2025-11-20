@@ -15,7 +15,7 @@ cited_by: 95
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{LiangWangXueEtAl2016,
@@ -29,4 +29,24 @@ Citation:
   pages      = {227--251},
   url        = {https://www.sciencedirect.com/science/article/pii/S037872061500110X}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Liang, Huigang
+AU  - Wang, Jian-Jun
+AU  - Xue, Yajiong
+AU  - Cui, Xiaocong
+TI  - IT outsourcing research from 1992 to 2013 - A literature review based on main path analysis
+T2  - Information & Management
+PY  - 2015
+VL  - 53
+IS  - 2
+SP  - 227
+EP  - 251
+DO  - 10.1016/J.IM.2015.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S037872061500110X
+ER  - 
 ```

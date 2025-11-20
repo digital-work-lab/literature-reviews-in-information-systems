@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{MadlbergerRoztocki2008,
@@ -23,4 +23,17 @@ Citation:
   year       = {2008},
   url        = {https://aisel.aisnet.org/amcis2008/200}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Madlberger, Maria
+AU  - Roztocki, Narcyz
+TI  - Cross-Organizational and Cross-Border IS/IT Collaboration - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2008
+UR  - https://aisel.aisnet.org/amcis2008/200
+ER  - 
 ```

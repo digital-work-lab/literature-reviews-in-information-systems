@@ -14,7 +14,7 @@ cited_by: 263
 outlet: "Information and Organization"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Jenkin2011,
@@ -27,4 +27,22 @@ Citation:
   number     = {1},
   pages      = {17--40}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Jenkin, Tracy A.
+AU  - Webster, Jane
+AU  - McShane, Lindsay
+TI  - An agenda for ‘Green’ information technology and systems research
+T2  - Information and Organization
+PY  - 2011
+VL  - 21
+IS  - 1
+SP  - 17
+EP  - 40
+DO  - 10.1016/J.INFOANDORG.2010.09.003
+ER  - 
 ```

@@ -15,7 +15,7 @@ cited_by: 190
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{CoombsHislopTanevaEtAl2020a,
@@ -27,4 +27,21 @@ Citation:
   volume     = {29},
   number     = {4}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Coombs, Crispin
+AU  - Hislop, Donald
+AU  - Taneva, Stanimira K.
+AU  - Barnard, Sarah
+TI  - The strategic impacts of Intelligent Automation for knowledge and service work: An interdisciplinary review
+T2  - The Journal of Strategic Information Systems
+PY  - 2020
+VL  - 29
+IS  - 4
+DO  - 10.1016/J.JSIS.2020.101600
+ER  - 
 ```

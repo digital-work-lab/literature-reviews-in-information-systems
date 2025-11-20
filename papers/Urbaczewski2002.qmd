@@ -14,7 +14,7 @@ cited_by: 13
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Urbaczewski2002,
@@ -27,4 +27,22 @@ Citation:
   number     = {4},
   pages      = {263--305}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Urbaczewski, Andrew
+AU  - Jessup, Leonard M.
+AU  - Wheeler, Bradley
+TI  - Electronic Commerce Research: A Taxonomy and Synthesis
+T2  - Journal of Organizational Computing and Electronic Commerce
+PY  - 2002
+VL  - 12
+IS  - 4
+SP  - 263
+EP  - 305
+DO  - 10.1207/S15327744JOCE1204_1
+ER  - 
 ```

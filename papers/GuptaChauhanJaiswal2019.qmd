@@ -14,7 +14,7 @@ cited_by: 81
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{GuptaChauhanJaiswal2019,
@@ -28,4 +28,23 @@ Citation:
   pages      = {661--685},
   url        = {https://link.springer.com/article/10.1007/s10796-019-09911-3}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Gupta, Parul
+AU  - Chauhan, Sumedha
+AU  - Jaiswal, M. P.
+TI  - Classification of Smart City Research - a Descriptive Literature Review and Future Research Agenda
+T2  - Information Systems Frontiers
+PY  - 2019
+VL  - 21
+IS  - 3
+SP  - 661
+EP  - 685
+DO  - 10.1007/S10796-019-09911-3
+UR  - https://link.springer.com/article/10.1007/s10796-019-09911-3
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{DamLeDinhMenvielle2020a,
@@ -24,4 +24,18 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/amcis2020/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/29}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Dam, Nguyen Anh Khoa
+AU  - Le Dinh, Thang
+AU  - Menvielle, William
+TI  - Customer Co-creation through the Lens of Service-dominant Logic - A literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/amcis2020/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/29
+ER  - 
 ```

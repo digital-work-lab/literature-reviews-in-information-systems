@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{RoztockiStrzelczyk2020,
@@ -23,4 +23,17 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/23}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Roztocki, Narcyz
+AU  - Strzelczyk, Wojciech
+TI  - Enterprise Systems in the Public Sector - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/23
+ER  - 
 ```

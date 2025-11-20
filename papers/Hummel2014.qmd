@@ -12,7 +12,7 @@ cited_by: 33
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Hummel2014,
@@ -23,4 +23,17 @@ Citation:
   year       = {2014},
   url        = {https://ieeexplore.ieee.org/document/6759181}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Hummel, Markus
+TI  - State-of-the-Art - A Systematic Literature Review on Agile Information Systems Development
+T2  - Hawaii International Conference on System Sciences
+PY  - 2014
+DO  - 10.1109/HICSS.2014.579
+UR  - https://ieeexplore.ieee.org/document/6759181
+ER  - 
 ```

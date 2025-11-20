@@ -13,7 +13,7 @@ cited_by: 1062
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Schepers2007,
@@ -26,4 +26,21 @@ Citation:
   number     = {1},
   pages      = {90--103}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Schepers, Jeroen
+AU  - Wetzels, Martin
+TI  - A meta-analysis of the technology acceptance model: Investigating subjective norm and moderation effects
+T2  - Information & Management
+PY  - 2007
+VL  - 44
+IS  - 1
+SP  - 90
+EP  - 103
+DO  - 10.1016/J.IM.2006.10.007
+ER  - 
 ```

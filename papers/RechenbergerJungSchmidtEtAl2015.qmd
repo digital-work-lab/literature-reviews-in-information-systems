@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{RechenbergerJungSchmidtEtAl2015,
@@ -25,4 +25,19 @@ Citation:
   year       = {2015},
   url        = {https://aisel.aisnet.org/pacis2015/250}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Rechenberger, Tristan
+AU  - Jung, Verena M. E.
+AU  - Schmidt, Nikolaus
+AU  - Rosenkranz, Christoph
+TI  - Utilizing the Crowd - A Literature Review on Factors influencing Crowdsourcing Initiative Success
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2015
+UR  - https://aisel.aisnet.org/pacis2015/250
+ER  - 
 ```

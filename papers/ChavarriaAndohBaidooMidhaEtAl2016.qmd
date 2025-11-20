@@ -15,7 +15,7 @@ cited_by: 6
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{ChavarriaAndohBaidooMidhaEtAl2016,
@@ -31,4 +31,23 @@ Citation:
   pages      = {624--669},
   url        = {https://aisel.aisnet.org/cais/vol38/iss1/31}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Chavarria, Juan A.
+AU  - Andoh-Baidoo, Francis Kofi
+AU  - Midha, Vishal
+AU  - Hughes, Jerald
+TI  - Software Piracy Research - A Cross-disciplinary Systematic Review
+T2  - Communications of the Association for Information Systems
+PY  - 2016
+VL  - 38
+SP  - 624
+EP  - 669
+DO  - 10.17705/1CAIS.03831
+UR  - https://aisel.aisnet.org/cais/vol38/iss1/31
+ER  - 
 ```

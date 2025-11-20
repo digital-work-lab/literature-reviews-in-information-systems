@@ -17,7 +17,7 @@ cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{MorisseHorlachKappenbergEtAl2014,
@@ -28,4 +28,22 @@ Citation:
   year       = {2014},
   url        = {https://ieeexplore.ieee.org/document/6759164}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Morisse, Marcel
+AU  - Horlach, Bettina
+AU  - Kappenberg, Wiebke
+AU  - Petrikina, Jurate
+AU  - Robel, Florian
+AU  - Steffens, Florian
+TI  - Trust in Network Organizations -- A Literature Review on Emergent and Evolving Behavior in Network Organizations
+T2  - Hawaii International Conference on System Sciences
+PY  - 2014
+DO  - 10.1109/HICSS.2014.561
+UR  - https://ieeexplore.ieee.org/document/6759164
+ER  - 
 ```

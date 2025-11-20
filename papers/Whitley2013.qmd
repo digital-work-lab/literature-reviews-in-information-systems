@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Journal of International Technology & Information Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Whitley2013,
@@ -26,4 +26,21 @@ Citation:
   number     = {3},
   pages      = {75--92}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Whitley, Edgar A.
+AU  - Willcocks, Leslie P.
+AU  - Venters, Will
+TI  - Privacy and Security in the Cloud: A Review of Guidance and Responses
+T2  - Journal of International Technology & Information Management
+PY  - 2013
+VL  - 22
+IS  - 3
+SP  - 75
+EP  - 92
+ER  - 
 ```

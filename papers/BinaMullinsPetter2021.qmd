@@ -14,7 +14,7 @@ cited_by: 6
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{BinaMullinsPetter2021,
@@ -25,4 +25,19 @@ Citation:
   year       = {2021},
   url        = {http://hdl.handle.net/10125/70773}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Bina, Saman
+AU  - Mullins, Jeffrey
+AU  - Petter, Stacie
+TI  - Examining Game-based Approaches in Human Resources Recruitment and Selection: A Literature Review and Research Agenda
+T2  - Hawaii International Conference on System Sciences
+PY  - 2021
+DO  - 10.24251/HICSS.2021.161
+UR  - http://hdl.handle.net/10125/70773
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{VogelGrotherr2020,
@@ -23,4 +23,17 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/1}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Vogel, Pascal
+AU  - Grotherr, Christian
+TI  - Collaborating with the Crowd for Software Requirements Engineering - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/1
+ER  - 
 ```

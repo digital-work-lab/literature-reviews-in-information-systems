@@ -14,7 +14,7 @@ cited_by: 3
 outlet: "Journal of Database Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Siau2011,
@@ -28,4 +28,22 @@ Citation:
   pages      = {57--72},
   abstract   = {Data modeling is the sine quo non of systems development and one of the most widely researched topics in the database literature. In the past three decades, semantic data modeling has emerged as an alternative to traditional relational modeling. The majority of the research in data modeling suggests that the use of semantic data models leads to better performance; however, the findings are not conclusive and are sometimes inconsistent. The discrepancies that exist in the data modeling literature and the relatively low statistical power in the studies make meta-analysis a viable choice in analyzing and integrating the findings of these studies.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Siau, Keng
+AU  - Nah, Fiona F.H.
+AU  - Cao, Qing
+TI  - A Meta-Analysis Comparing Relational and Semantic Models
+T2  - Journal of Database Management
+PY  - 2011
+VL  - 22
+IS  - 4
+SP  - 57
+EP  - 72
+DO  - 10.4018/JDM.2011100103
+ER  - 
 ```

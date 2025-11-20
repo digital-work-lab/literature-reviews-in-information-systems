@@ -14,7 +14,7 @@ cited_by: 150
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Turban2011,
@@ -27,4 +27,22 @@ Citation:
   number     = {3},
   pages      = {202--220}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Turban, Efraim
+AU  - Bolloju, Narasimha
+AU  - Liang, Ting-Peng
+TI  - Enterprise Social Networking: Opportunities, Adoption, and Risk Mitigation
+T2  - Journal of Organizational Computing and Electronic Commerce
+PY  - 2011
+VL  - 21
+IS  - 3
+SP  - 202
+EP  - 220
+DO  - 10.1080/10919392.2011.590109
+ER  - 
 ```

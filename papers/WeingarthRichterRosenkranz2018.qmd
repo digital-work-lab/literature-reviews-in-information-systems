@@ -1,5 +1,5 @@
 ---
-title: "Information Technology-Enabled Enterprise Agility and Environmental Turbulence \" A Configurational Literature Review"
+title: "Information Technology-Enabled Enterprise Agility and Environmental Turbulence: A Configurational Literature Review"
 author:
 - Weingarth, Janina
 - Richter, Janek
@@ -14,14 +14,28 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{WeingarthRichterRosenkranz2018,
   author     = {Weingarth, Janina and Richter, Janek and Rosenkranz, Christoph},
   booktitle  = {International Conference on Information Systems},
-  title      = {Information Technology-Enabled Enterprise Agility and Environmental Turbulence " A Configurational Literature Review},
+  title      = {Information Technology-Enabled Enterprise Agility and Environmental Turbulence: A Configurational Literature Review},
   year       = {2018},
   url        = {https://aisel.aisnet.org/icis2018/governance/Presentations/9}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Weingarth, Janina
+AU  - Richter, Janek
+AU  - Rosenkranz, Christoph
+TI  - Information Technology-Enabled Enterprise Agility and Environmental Turbulence: A Configurational Literature Review
+T2  - International Conference on Information Systems
+PY  - 2018
+UR  - https://aisel.aisnet.org/icis2018/governance/Presentations/9
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 366
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Piccoli2005,
@@ -26,4 +26,20 @@ Citation:
   number     = {4},
   pages      = {747}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Piccoli
+AU  - Ives
+TI  - Review: IT-Dependent Strategic Initiatives and Sustained Competitive Advantage: A Review and Synthesis of the Literature
+T2  - MIS Quarterly
+PY  - 2005
+VL  - 29
+IS  - 4
+SP  - 747
+DO  - 10.2307/25148708
+ER  - 
 ```

@@ -15,7 +15,7 @@ cited_by: 51
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{SchermannDongusYettonEtAl2016,
@@ -27,4 +27,21 @@ Citation:
   volume     = {25},
   number     = {1}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Schermann, Michael
+AU  - Dongus, Konrad
+AU  - Yetton, Philip
+AU  - Krcmar, Helmut
+TI  - The role of Transaction Cost Economics in Information Technology Outsourcing research: A meta-analysis of the choice of contract type
+T2  - The Journal of Strategic Information Systems
+PY  - 2016
+VL  - 25
+IS  - 1
+DO  - 10.1016/J.JSIS.2016.02.004
+ER  - 
 ```

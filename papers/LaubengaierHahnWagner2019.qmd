@@ -14,7 +14,7 @@ cited_by: 4
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LaubengaierHahnWagner2019,
@@ -25,4 +25,19 @@ Citation:
   year       = {2019},
   url        = {http://hdl.handle.net/10125/59986}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Laubengaier, Désirée
+AU  - Hahn, Gerd
+AU  - Wagner, Heinz-Theo
+TI  - Organizational Culture and Knowledge Exchange and Combination: A Systematic Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2019
+DO  - 10.24251/HICSS.2019.662
+UR  - http://hdl.handle.net/10125/59986
+ER  - 
 ```

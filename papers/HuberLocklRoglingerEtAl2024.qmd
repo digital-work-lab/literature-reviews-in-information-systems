@@ -15,7 +15,7 @@ cited_by: 2
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{HuberLocklRoglingerEtAl2024,
@@ -29,4 +29,23 @@ Citation:
   url        = {https://aisel.aisnet.org/cais/vol54/iss1/6},
   abstract   = {In recent years, the term 'smartness' has entered widespread use in research and daily life. It has emerged with various applications of the Internet of Things, such as smart homes and smart factories. However, rapid technological development and careless use of the term mean that, in information systems (IS) research, a common understanding of smartness has not yet been established. While it is recognized that smartness encompasses more than the use of impressive information technology applications, a unified conceptualization of how smartness is manifested in IS research is lacking. To this end, we conducted a structured literature review applying techniques from Grounded Theory. We found that smartness occurs through actions, in which smart things and individuals interact, process information, and make data-based decisions that are perceived as smart. Building on these findings, we propose the concept of a 'smart action' and derive a general definition of smartness. Our findings augment knowledge about how smartness is formed, offering a new perspective on smartness. The concept of a smart action unifies and increases understanding of 'smartness' in IS research. It supports further research by providing a concept for describing, analyzing, and designing smart actions, smart devices, and smart services.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Huber, Rocco Xaver Richard
+AU  - Lockl, Jannik
+AU  - Röglinger, Maximilian
+AU  - Weidlich, Robin
+TI  - The Concept of a Smart Action – Results from Analyzing Information Systems Literature
+T2  - Communications of the Association for Information Systems
+PY  - 2024
+VL  - 54
+SP  - 180
+EP  - 231
+DO  - 10.17705/1CAIS.05408
+UR  - https://aisel.aisnet.org/cais/vol54/iss1/6
+ER  - 
 ```

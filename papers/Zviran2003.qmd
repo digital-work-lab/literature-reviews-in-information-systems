@@ -13,7 +13,7 @@ cited_by: 31
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Zviran2003,
@@ -26,4 +26,21 @@ Citation:
   number     = {5},
   pages      = {81--103}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Zviran, Moshe
+AU  - Erlich, Zippy
+TI  - Measuring IS User Satisfaction: Review and Implications
+T2  - Communications of the Association for Information Systems
+PY  - 2003
+VL  - 12
+IS  - 5
+SP  - 81
+EP  - 103
+DO  - 10.17705/1CAIS.01205
+ER  - 
 ```

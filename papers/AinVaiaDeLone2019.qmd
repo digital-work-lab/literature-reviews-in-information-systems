@@ -14,7 +14,7 @@ cited_by: 19
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{AinVaiaDeLone2019,
@@ -25,4 +25,19 @@ Citation:
   year       = {2019},
   url        = {http://hdl.handle.net/10125/60024}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Ul-Ain, Noor
+AU  - Vaia, Giovanni
+AU  - DeLone, William
+TI  - Business Intelligence System Adoption, Utilization and Success - A Systematic Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2019
+DO  - 10.24251/HICSS.2019.710
+UR  - http://hdl.handle.net/10125/60024
+ER  - 
 ```

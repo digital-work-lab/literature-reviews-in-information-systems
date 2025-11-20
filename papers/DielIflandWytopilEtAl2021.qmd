@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{DielIflandWytopilEtAl2021,
@@ -25,4 +25,19 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/pacis2021/81}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Diel, Sören
+AU  - Ifland, Sebastian
+AU  - Wytopil, Frederic
+AU  - Buck, Christoph
+TI  - How Digital Technologies Transform Football - A Structured Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/pacis2021/81
+ER  - 
 ```

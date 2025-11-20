@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{WeishauplYasasinSchryen2015a,
@@ -24,4 +24,18 @@ Citation:
   year       = {2015},
   url        = {http://aisel.aisnet.org/ecis2015_cr/198}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Weishäupl, Eva
+AU  - Yasasin, Emrah
+AU  - Schryen, Guido
+TI  - IT Security Investments Through the Lens of the Resource-Based View - A new Theoretical Model and Literature Review
+T2  - European Conference on Information Systems
+PY  - 2015
+UR  - http://aisel.aisnet.org/ecis2015_cr/198
+ER  - 
 ```

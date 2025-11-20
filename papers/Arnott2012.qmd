@@ -13,7 +13,7 @@ cited_by: 43
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Arnott2012,
@@ -26,4 +26,21 @@ Citation:
   number     = {11},
   pages      = {923--949}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Arnott, David
+AU  - Pervan, Graham
+TI  - Design Science in Decision Support Systems Research: An Assessment using the Hevner, March, Park, and Ram Guidelines
+T2  - Journal of the Association for Information Systems
+PY  - 2012
+VL  - 13
+IS  - 11
+SP  - 923
+EP  - 949
+DO  - 10.17705/1JAIS.00315
+ER  - 
 ```

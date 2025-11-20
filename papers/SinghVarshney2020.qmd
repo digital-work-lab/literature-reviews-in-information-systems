@@ -13,7 +13,7 @@ cited_by: 21
 outlet: "European Journal of Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{SinghVarshney2020,
@@ -29,4 +29,22 @@ Citation:
   pages      = {84--108},
   url        = {https://www.tandfonline.com/doi/full/10.1080/0960085X.2019.1701956}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Singh, Neetu
+AU  - Varshney, Upkar
+TI  - IT-based reminders for medication adherence - systematic review, taxonomy, framework and research directions
+T2  - European Journal of Information Systems
+PY  - 2020
+VL  - 29
+IS  - 1
+SP  - 84
+EP  - 108
+DO  - 10.1080/0960085X.2019.1701956
+UR  - https://www.tandfonline.com/doi/full/10.1080/0960085X.2019.1701956
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{ChipidzaLeidner2017,
@@ -23,4 +23,17 @@ Citation:
   year       = {2017},
   url        = {https://aisel.aisnet.org/amcis2017/ICTs/Presentations/17}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Chipidza, Wallace
+AU  - Leidner, Dorothy E.
+TI  - ICT4D Research - Literature Review and Conflict Perspective
+T2  - Americas Conference on Information Systems
+PY  - 2017
+UR  - https://aisel.aisnet.org/amcis2017/ICTs/Presentations/17
+ER  - 
 ```

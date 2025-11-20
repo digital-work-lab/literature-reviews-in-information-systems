@@ -13,7 +13,7 @@ cited_by: 7
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{JetuRiedl2012,
@@ -25,4 +25,19 @@ Citation:
   volume     = {30},
   url        = {https://aisel.aisnet.org/cais/vol30/iss1/27}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Jetu, Fanta Tesgera
+AU  - Riedl, René
+TI  - Determinants of Information Systems and Information Technology Project Team Success - A Literature Review and a Conceptual Model
+T2  - Communications of the Association for Information Systems
+PY  - 2012
+VL  - 30
+DO  - 10.17705/1CAIS.03027
+UR  - https://aisel.aisnet.org/cais/vol30/iss1/27
+ER  - 
 ```

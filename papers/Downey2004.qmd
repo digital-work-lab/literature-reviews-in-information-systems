@@ -12,7 +12,7 @@ cited_by: 8
 outlet: "Journal of Organizational and End User Computing"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Downey2004,
@@ -26,4 +26,20 @@ Citation:
   pages      = {1--16},
   abstract   = {During the 1980s and into the early 1990s, end user computing (EUC) was reported to be among the key concerns facing managers and organizations. Is EUC still an important topic? This study examines academic research during this period. A research-focused framework is offered to provide a conceptual structure for examining the trends and issues in EUC. This framework is both parsimonious and allows a comprehensive classification of end user computing’s three major dimensions: end user, technology, and organization. The study examined every article from five leading IS journals (ISR, MISQ, JMIS, I&M, JEUC) for the 11 years 1990-2000. The results indicate that there has been no diminishing of EUC interest and studies during this time, either overall or in any journal or dimension. A discussion of emerging trends, important themes, and journal differences concludes this examination.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Downey, James P.
+TI  - Toward a Comprehensive Framework
+T2  - Journal of Organizational and End User Computing
+PY  - 2004
+VL  - 16
+IS  - 4
+SP  - 1
+EP  - 16
+DO  - 10.4018/JOEUC.2004100101
+ER  - 
 ```

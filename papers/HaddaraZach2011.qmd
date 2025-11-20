@@ -13,7 +13,7 @@ cited_by: 54
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HaddaraZach2011,
@@ -24,4 +24,18 @@ Citation:
   year       = {2011},
   url        = {https://ieeexplore.ieee.org/document/5718924}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Haddara, Moutaz
+AU  - Zach, Ondrej
+TI  - ERP Systems in SMEs - A Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2011
+DO  - 10.1109/HICSS.2011.191
+UR  - https://ieeexplore.ieee.org/document/5718924
+ER  - 
 ```

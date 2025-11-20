@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{SchlangenottoPoniatowskiKundisch2018,
@@ -24,4 +24,18 @@ Citation:
   year       = {2018},
   url        = {https://aisel.aisnet.org/amcis2018/MetaResearch/Presentations/2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Schlangenotto, Darius
+AU  - Poniatowski, Martin
+AU  - Kundisch, Dennis
+TI  - What Drives Paid Search Success? A Systematic Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2018
+UR  - https://aisel.aisnet.org/amcis2018/MetaResearch/Presentations/2
+ER  - 
 ```

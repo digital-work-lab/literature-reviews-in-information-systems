@@ -14,7 +14,7 @@ cited_by: 11
 outlet: "Journal of Global Information Technology Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Checchi2003,
@@ -27,4 +27,22 @@ Citation:
   number     = {4},
   pages      = {45--64}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Checchi, Ricardo M.
+AU  - Po-An Hsieh, J. J.
+AU  - Straub, Detmar W.
+TI  - Public IT Policies in Less Developed Countries: A Critical Assessment of the Literature and a Reference Framework
+T2  - Journal of Global Information Technology Management
+PY  - 2003
+VL  - 6
+IS  - 4
+SP  - 45
+EP  - 64
+DO  - 10.1080/1097198X.2003.10856360
+ER  - 
 ```

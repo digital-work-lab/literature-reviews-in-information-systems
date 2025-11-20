@@ -16,7 +16,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{WaltherPlankEymannEtAl2012,
@@ -26,4 +26,20 @@ Citation:
   year       = {2012},
   url        = {https://aisel.aisnet.org/amcis2012/proceedings/EnterpriseSystems/1}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Walther, Sebastian
+AU  - Plank, Andreas
+AU  - Eymann, Torsten
+AU  - Singh, Niraj
+AU  - Phadke, Gaurang
+TI  - Success Factors and Value Propositions of Software as a Service Providers - A Literature Review and Classification
+T2  - Americas Conference on Information Systems
+PY  - 2012
+UR  - https://aisel.aisnet.org/amcis2012/proceedings/EnterpriseSystems/1
+ER  - 
 ```

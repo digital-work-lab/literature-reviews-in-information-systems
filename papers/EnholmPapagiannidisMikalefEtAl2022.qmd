@@ -15,7 +15,7 @@ cited_by: 552
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{EnholmPapagiannidisMikalefEtAl2022,
@@ -30,4 +30,24 @@ Citation:
   url        = {https://link.springer.com/article/10.1007/s10796-021-10186-w},
   abstract   = {Abstract Artificial Intelligence (AI) are a wide-ranging set of technologies that promise several advantages for organizations in terms off added business value. Over the past few years, organizations are increasingly turning to AI in order to gain business value following a deluge of data and a strong increase in computational capacity. Nevertheless, organizations are still struggling to adopt and leverage AI in their operations. The lack of a coherent understanding of how AI technologies create business value, and what type of business value is expected, therefore necessitates a holistic understanding. This study provides a systematic literature review that attempts to explain how organizations can leverage AI technologies in their operations and elucidate the value-generating mechanisms. Our analysis synthesizes the current literature and highlights: (1) the key enablers and inhibitors of AI adoption and use; (2) the typologies of AI use in the organizational setting; and (3) the first- and second-order effects of AI. The paper concludes with an identification of the gaps in the literature and develops a research agenda that identifies areas that need to be addressed by future studies.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Enholm, Ida Merete
+AU  - Papagiannidis, Emmanouil
+AU  - Mikalef, Patrick
+AU  - Krogstie, John
+TI  - Artificial Intelligence and Business Value: a Literature Review
+T2  - Information Systems Frontiers
+PY  - 2022
+VL  - 24
+IS  - 5
+SP  - 1709
+EP  - 1734
+DO  - 10.1007/S10796-021-10186-W
+UR  - https://link.springer.com/article/10.1007/s10796-021-10186-w
+ER  - 
 ```

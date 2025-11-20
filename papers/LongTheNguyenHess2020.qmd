@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LongTheNguyenHess2020,
@@ -23,4 +23,17 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/amcis2020/meta_research_is/meta_research_is/3}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Nguyen, Long The
+AU  - Hess, Traci J.
+TI  - Motivation to Use IS - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/amcis2020/meta_research_is/meta_research_is/3
+ER  - 
 ```

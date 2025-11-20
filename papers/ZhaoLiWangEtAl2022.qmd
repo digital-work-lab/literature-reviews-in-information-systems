@@ -16,7 +16,7 @@ cited_by: 84
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{ZhaoLiWangEtAl2022,
@@ -30,4 +30,25 @@ Citation:
   pages      = {1667--1688},
   url        = {https://link.springer.com/article/10.1007/s10796-021-10170-4}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Zhao, Yang
+AU  - Li, Yixuan
+AU  - Wang, Ning
+AU  - Zhou, Ruoxin
+AU  - Luo, Xin
+TI  - A Meta-Analysis of Online Impulsive Buying and the Moderating Effect of Economic Development Level
+T2  - Information Systems Frontiers
+PY  - 2022
+VL  - 24
+IS  - 5
+SP  - 1667
+EP  - 1688
+DO  - 10.1007/S10796-021-10170-4
+UR  - https://link.springer.com/article/10.1007/s10796-021-10170-4
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 17
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Mantena2012,
@@ -27,4 +27,22 @@ Citation:
   number     = {2},
   pages      = {331--344}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Mantena, Ravi
+AU  - Tilson, Vera
+AU  - Zheng, Xiaobo
+TI  - Literature survey: Mathematical models in the analysis of durable goods with emphasis on information systems and operations management issues
+T2  - Decision Support Systems
+PY  - 2012
+VL  - 53
+IS  - 2
+SP  - 331
+EP  - 344
+DO  - 10.1016/J.DSS.2012.01.012
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 133
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Merali2012,
@@ -27,4 +27,22 @@ Citation:
   number     = {2},
   pages      = {125--153}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Merali, Yasmin
+AU  - Papadopoulos, Thanos
+AU  - Nadkarni, Tanvee
+TI  - Information systems strategy: Past, present, future?
+T2  - The Journal of Strategic Information Systems
+PY  - 2012
+VL  - 21
+IS  - 2
+SP  - 125
+EP  - 153
+DO  - 10.1016/J.JSIS.2012.04.002
+ER  - 
 ```

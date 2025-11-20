@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{AgyeiOwusuMarfoQuansahEtAl2021,
@@ -25,4 +25,19 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/amcis2021/global_develop/global_develop/11}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Agyei-Owusu, Benjamin
+AU  - Marfo, John Serbe
+AU  - Quansah, Emmanuel Kweku
+AU  - Kumi, Caleb Amankwaa
+TI  - The use of interorganizational information systems in digitalizing supply chains - a systematic literature review and research agenda for Africa
+T2  - Americas Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/amcis2021/global_develop/global_develop/11
+ER  - 
 ```

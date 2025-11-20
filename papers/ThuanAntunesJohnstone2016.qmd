@@ -14,7 +14,7 @@ cited_by: 80
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{ThuanAntunesJohnstone2016,
@@ -29,4 +29,23 @@ Citation:
   url        = {https://link.springer.com/article/10.1007/s10796-015-9578-x},
   fulltext   = {http://link.springer.com/content/pdf/10.1007/s10796-015-9578-x.pdf}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Thuan, Nguyen Hoang
+AU  - Antunes, Pedro
+AU  - Johnstone, David
+TI  - Factors influencing the decision to crowdsource: A systematic literature review
+T2  - Information Systems Frontiers
+PY  - 2016
+VL  - 18
+IS  - 1
+SP  - 47
+EP  - 68
+DO  - 10.1007/S10796-015-9578-X
+UR  - https://link.springer.com/article/10.1007/s10796-015-9578-x
+ER  - 
 ```

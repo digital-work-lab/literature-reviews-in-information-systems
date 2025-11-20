@@ -14,7 +14,7 @@ cited_by: 37
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{RajaeianCaterSteelLane2017,
@@ -27,4 +27,22 @@ Citation:
   pages      = {42--56},
   url        = {https://www.sciencedirect.com/science/article/pii/S0167923617301240}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Rajaeian, Mohammad Mehdi
+AU  - Cater-Steel, Aileen
+AU  - Lane, Michael
+TI  - A systematic literature review and critical assessment of model-driven decision support for IT outsourcing
+T2  - Decision Support Systems
+PY  - 2017
+VL  - 102
+SP  - 42
+EP  - 56
+DO  - 10.1016/J.DSS.2017.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0167923617301240
+ER  - 
 ```

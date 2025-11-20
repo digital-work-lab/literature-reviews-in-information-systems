@@ -12,7 +12,7 @@ cited_by: 53
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Stahl2012,
@@ -25,4 +25,20 @@ Citation:
   number     = {8},
   pages      = {636--656}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Stahl, Bernd
+TI  - Morality, Ethics, and Reflection: A Categorization of Normative IS Research
+T2  - Journal of the Association for Information Systems
+PY  - 2012
+VL  - 13
+IS  - 8
+SP  - 636
+EP  - 656
+DO  - 10.17705/1JAIS.00304
+ER  - 
 ```

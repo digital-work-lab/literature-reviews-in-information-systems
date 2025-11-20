@@ -13,7 +13,7 @@ cited_by: 1822
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{King2006b,
@@ -26,4 +26,21 @@ Citation:
   number     = {6},
   pages      = {740--755}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - King, William R.
+AU  - He, Jun
+TI  - A meta-analysis of the technology acceptance model
+T2  - Information & Management
+PY  - 2006
+VL  - 43
+IS  - 6
+SP  - 740
+EP  - 755
+DO  - 10.1016/J.IM.2006.05.003
+ER  - 
 ```

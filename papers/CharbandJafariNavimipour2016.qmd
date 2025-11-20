@@ -13,7 +13,7 @@ cited_by: 147
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{CharbandJafariNavimipour2016,
@@ -27,4 +27,22 @@ Citation:
   pages      = {1131--1151},
   url        = {https://link.springer.com/article/10.1007/s10796-016-9628-z}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Charband, Yeganeh
+AU  - Jafari Navimipour, Nima
+TI  - Online knowledge sharing mechanisms: a systematic review of the state of the art literature and recommendations for future research
+T2  - Information Systems Frontiers
+PY  - 2016
+VL  - 18
+IS  - 6
+SP  - 1131
+EP  - 1151
+DO  - 10.1007/S10796-016-9628-Z
+UR  - https://link.springer.com/article/10.1007/s10796-016-9628-z
+ER  - 
 ```

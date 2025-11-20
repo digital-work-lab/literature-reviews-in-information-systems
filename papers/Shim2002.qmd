@@ -17,7 +17,7 @@ cited_by: 839
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Shim2002,
@@ -30,4 +30,25 @@ Citation:
   number     = {2},
   pages      = {111--126}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Shim, J.P.
+AU  - Warkentin, Merrill
+AU  - Courtney, James F.
+AU  - Power, Daniel J.
+AU  - Sharda, Ramesh
+AU  - Carlsson, Christer
+TI  - Past, present, and future of decision support technology
+T2  - Decision Support Systems
+PY  - 2002
+VL  - 33
+IS  - 2
+SP  - 111
+EP  - 126
+DO  - 10.1016/S0167-9236(01)00139-7
+ER  - 
 ```

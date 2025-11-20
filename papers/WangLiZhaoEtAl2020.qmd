@@ -16,7 +16,7 @@ cited_by: 34
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{WangLiZhaoEtAl2020,
@@ -30,4 +30,25 @@ Citation:
   pages      = {1539--1559},
   url        = {https://link.springer.com/article/10.1007/s10796-020-10057-w}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wang, Yanxin
+AU  - Li, Jian
+AU  - Zhao, Xi
+AU  - Feng, Gengzhong
+AU  - Luo, Xin
+TI  - Using Mobile Phone Data for Emergency Management: a Systematic Literature Review
+T2  - Information Systems Frontiers
+PY  - 2020
+VL  - 22
+IS  - 6
+SP  - 1539
+EP  - 1559
+DO  - 10.1007/S10796-020-10057-W
+UR  - https://link.springer.com/article/10.1007/s10796-020-10057-w
+ER  - 
 ```

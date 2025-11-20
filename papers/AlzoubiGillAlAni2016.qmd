@@ -14,7 +14,7 @@ cited_by: 92
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{AlzoubiGillAlAni2016,
@@ -30,4 +30,23 @@ Citation:
   pages      = {22--37},
   url        = {https://www.sciencedirect.com/science/article/pii/S0378720615000877}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Alzoubi, Yehia Ibrahim
+AU  - Gill, Asif Qumer
+AU  - Al-Ani, Ahmed
+TI  - Empirical studies of geographically distributed agile development communication challenges - A systematic review
+T2  - Information & Management
+PY  - 2016
+VL  - 53
+IS  - 1
+SP  - 22
+EP  - 37
+DO  - 10.1016/J.IM.2015.08.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720615000877
+ER  - 
 ```

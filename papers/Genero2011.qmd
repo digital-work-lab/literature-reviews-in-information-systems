@@ -16,7 +16,7 @@ cited_by: 44
 outlet: "Journal of Database Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Genero2011,
@@ -30,4 +30,24 @@ Citation:
   pages      = {46--70},
   abstract   = {The quality of conceptual models directly affects the quality of the understanding of the application domain and the quality of the final software products that are ultimately based on them. This paper describes a systematic literature review (SLR) of peer-reviewed conference and journal articles published from 1997 through 2009 on the quality of conceptual models written in UML, undertaken to understand the state-of-the-art, and then identify any gaps in current research. Six digital libraries were searched, and 266 papers dealing specifically with the quality of UML models were identified and classified into five dimensions: type of model quality, type of evidence, type of research result, type of diagram, and research goal. The results indicate that most research focuses on semantic quality, with relatively little on semantic completeness; as such, this research examines new modeling methods vs. quality frameworks and metrics, as well as quality assurance vs. understanding quality issues. The results also indicate that more empirical research is needed to develop a theoretical understanding of conceptual model quality. The classification scheme developed in this paper can serve as a guide for both researchers and practitioners.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Genero, Marcela
+AU  - Fernández-Saez, Ana M.
+AU  - Nelson, H. James
+AU  - Poels, Geert
+AU  - Piattini, Mario
+TI  - Research Review
+T2  - Journal of Database Management
+PY  - 2011
+VL  - 22
+IS  - 3
+SP  - 46
+EP  - 70
+DO  - 10.4018/JDM.2011070103
+ER  - 
 ```

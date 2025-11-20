@@ -14,7 +14,7 @@ cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{KamplingKleselNiehaves2016,
@@ -25,4 +25,19 @@ Citation:
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427740}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Kampling, Henrik
+AU  - Klesel, Michael
+AU  - Niehaves, Björn
+TI  - On Experiments in Design Science Research and Theory Development - A Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.554
+UR  - https://ieeexplore.ieee.org/document/7427740
+ER  - 
 ```

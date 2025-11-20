@@ -16,7 +16,7 @@ cited_by: 13
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{PaulissenMilisBrengmanEtAl2007,
@@ -27,4 +27,21 @@ Citation:
   year       = {2007},
   url        = {https://ieeexplore.ieee.org/document/4076679}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Paulissen, Kristel
+AU  - Milis, Koen
+AU  - Brengman, Malaika
+AU  - Fjermestad, Jerry
+AU  - Romano Jr., Nicholas C.
+TI  - Voids in the Current CRM Literature - Academic Literature Review and Classification (2000-2005)
+T2  - Hawaii International Conference on System Sciences
+PY  - 2007
+DO  - 10.1109/HICSS.2007.609
+UR  - https://ieeexplore.ieee.org/document/4076679
+ER  - 
 ```

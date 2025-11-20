@@ -12,7 +12,7 @@ cited_by: 180
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Varshney2013,
@@ -25,4 +25,20 @@ Citation:
   number     = {no issue},
   pages      = {20--35}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Varshney, Upkar
+TI  - Mobile health: Four emerging themes of research
+T2  - Decision Support Systems
+PY  - 2014
+VL  - 66
+IS  - no issue
+SP  - 20
+EP  - 35
+DO  - 10.1016/J.DSS.2014.06.001
+ER  - 
 ```

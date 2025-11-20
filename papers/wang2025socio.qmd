@@ -14,7 +14,7 @@ cited_by: 1
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{wang2025socio,
@@ -27,4 +27,21 @@ Citation:
   number     = {2},
   pages      = {101901}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wang, Shaoxin
+AU  - Schlagwein, Daniel
+AU  - Seymour, Mike
+TI  - Socio-technical phenomena involving blockchain use: Literature review, conceptual framework, and research agenda
+T2  - The Journal of Strategic Information Systems
+PY  - 2025
+VL  - 34
+IS  - 2
+SP  - 101901
+DO  - 10.1016/J.JSIS.2025.101901
+ER  - 
 ```

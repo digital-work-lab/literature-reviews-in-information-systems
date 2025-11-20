@@ -14,7 +14,7 @@ cited_by: 698
 outlet: "Journal of Information Technology"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Jeyaraj2006,
@@ -28,4 +28,22 @@ Citation:
   pages      = {1--23},
   abstract   = {We present a review and analysis of the rich body of research on the adoption and diffusion of IT-based innovations by individuals and organizations. Our review analyzes 48 empirical studies on individual and 51 studies on organizational IT adoption published between 1992 and 2003. In total, the sample contains 135 independent variables, eight dependent variables, and 505 relationships between independent and dependent variables. Furthermore, our sample includes both quantitative and qualitative studies. We were able to include qualitative studies because of a unique coding scheme, which can easily be replicated in other reviews. We use this sample to assess predictors, linkages, and biases in individual and organizational IT adoption research. The best predictors of individual IT adoption include Perceived Usefulness, Top Management Support, Computer Experience, Behavioral Intention, and User Support. The best predictors of IT adoption by organizations were Top Management Support, External Pressure, Professionalism of the IS Unit, and External Information Sources. At the level of independent variables, Top Management Support stands as the main linkage between individual and organizational IT adoption. But at an aggregate level, two collections of independent variables were good predictors of both individual and organizational IT adoption. These were innovation characteristics and organizational characteristics. Thus, we can consistently say that generic characteristics of the innovation and characteristics of the organization are strong predictors of IT adoption by both individuals and organizations. Based on an assessment of the predictors, linkages, and known biases, we prescribe 10 areas for further exploration.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Jeyaraj, Anand
+AU  - Rottman, Joseph W
+AU  - Lacity, Mary C
+TI  - A Review of the Predictors, Linkages, and Biases in IT Innovation Adoption Research
+T2  - Journal of Information Technology
+PY  - 2006
+VL  - 21
+IS  - 1
+SP  - 1
+EP  - 23
+DO  - 10.1057/PALGRAVE.JIT.2000056
+ER  - 
 ```

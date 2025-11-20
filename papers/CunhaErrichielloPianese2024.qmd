@@ -14,7 +14,7 @@ cited_by: 8
 outlet: "Journal of Information Technology"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{CunhaErrichielloPianese2024,
@@ -28,4 +28,22 @@ Citation:
   number     = {1},
   pages      = {194--260}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Cunha, Joao
+AU  - Errichiello, Luisa
+AU  - Pianese, Tommasina
+TI  - The axis of accessibility and the duality of control of remote workers: A literature review
+T2  - Journal of Information Technology
+PY  - 2024
+VL  - 39
+IS  - 1
+SP  - 194
+EP  - 260
+DO  - 10.1177/02683962231208218
+ER  - 
 ```

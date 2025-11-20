@@ -14,7 +14,7 @@ cited_by: 38
 outlet: "Journal of Database Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Siau2010,
@@ -28,4 +28,22 @@ Citation:
   pages      = {80--101},
   abstract   = {Information systems development (ISD) is a complex process involving interconnected resources, stake holders, and outcomes. Understanding factors contributing to ISD success has attracted keen interest from both researchers and practitioners, and many research studies have been published in this area. However, most studies focus on one or two factors affecting ISD success. A holistic view of factors impacting ISD success is missing. This paper synthesizes past research on the topic and proposes a unified model on ISD success through a systematic and comprehensive literature review. The unified model highlights that ISD is a complex and interactive process involving individual, team, and organization factors, as well as ISD methodology. These factors impact the ISD process as well as its success.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Siau, Keng
+AU  - Long, Yoanna
+AU  - Ling, Min
+TI  - Toward a Unified Model of Information Systems Development Success
+T2  - Journal of Database Management
+PY  - 2010
+VL  - 21
+IS  - 1
+SP  - 80
+EP  - 101
+DO  - 10.4018/JDM.2010112304
+ER  - 
 ```

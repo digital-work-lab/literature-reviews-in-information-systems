@@ -15,7 +15,7 @@ cited_by: 15
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{CaoBasogluShengEtAl2015,
@@ -30,4 +30,21 @@ Citation:
   volume     = {36},
   url        = {https://aisel.aisnet.org/cais/vol36/iss1/37}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Cao, Jinwei
+AU  - Basoglu, K. Asli
+AU  - Sheng, Hong
+AU  - Lowry, Paul Benjamin
+TI  - A Systematic Review of Social Networks Research in Information Systems - Building a Foundation for Exciting Future Research
+T2  - Communications of the Association for Information Systems
+PY  - 2015
+VL  - 36
+DO  - 10.17705/1CAIS.03637
+UR  - https://aisel.aisnet.org/cais/vol36/iss1/37
+ER  - 
 ```

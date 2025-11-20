@@ -14,7 +14,7 @@ cited_by: 65
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{GiannakosMikalefPappas2022,
@@ -29,4 +29,23 @@ Citation:
   url        = {https://link.springer.com/article/10.1007/s10796-020-10097-2},
   abstract   = {Abstract E-learning systems are receiving ever increasing attention in academia, business and public administration. Major crises, like the pandemic, highlight the tremendous importance of the appropriate development of e-learning systems and its adoption and processes in organizations. Managers and employees who need efficient forms of training and learning flow within organizations do not have to gather in one place at the same time or to travel far away to attend courses. Contemporary affordances of e-learning systems allow users to perform different jobs or tasks for training courses according to their own scheduling, as well as to collaborate and share knowledge and experiences that result in rich learning flows within organizations. The purpose of this article is to provide a systematic review of empirical studies at the intersection of e-learning and organizational learning in order to summarize the current findings and guide future research. Forty-seven peer-reviewed articles were collected from a systematic literature search and analyzed based on a categorization of their main elements. This survey identifies five major directions of the research on the confluence of e-learning and organizational learning during the last decade. Future research should leverage big data produced from the platforms and investigate how the incorporation of advanced learning technologies (e.g., learning analytics, personalized learning) can help increase organizational value.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Giannakos, Michail N.
+AU  - Mikalef, Patrick
+AU  - Pappas, Ilias O.
+TI  - Systematic Literature Review of E-Learning Capabilities to Enhance Organizational Learning
+T2  - Information Systems Frontiers
+PY  - 2022
+VL  - 24
+IS  - 2
+SP  - 619
+EP  - 635
+DO  - 10.1007/S10796-020-10097-2
+UR  - https://link.springer.com/article/10.1007/s10796-020-10097-2
+ER  - 
 ```

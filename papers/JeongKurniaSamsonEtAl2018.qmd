@@ -15,7 +15,7 @@ cited_by: 3
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{JeongKurniaSamsonEtAl2018,
@@ -26,4 +26,20 @@ Citation:
   year       = {2018},
   url        = {http://hdl.handle.net/10125/49906}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Jeong, Jongkil
+AU  - Kurnia, Sherah
+AU  - Samson, Danny
+AU  - Cullen, Sara
+TI  - Psychological Contract in IT Outsourcing: A Systematic Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2018
+DO  - 10.24251/HICSS.2018.019
+UR  - http://hdl.handle.net/10125/49906
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{SchumannGomez2021,
@@ -23,4 +23,17 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/amcis2021/sig_acctinfosystem_asys/sig_acctinfosystem_asys/1}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Schumann, Gerrit
+AU  - Gómez, Jorge Marx
+TI  - Natural Language Processing in Internal Auditing - a Structured Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/amcis2021/sig_acctinfosystem_asys/sig_acctinfosystem_asys/1
+ER  - 
 ```

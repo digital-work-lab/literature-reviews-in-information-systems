@@ -14,7 +14,7 @@ cited_by: 11
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{MortonZorinaKudaravalli2023,
@@ -27,4 +27,21 @@ Citation:
   number     = {3},
   pages      = {101792}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Morton, Josh
+AU  - Zorina, Aljona
+AU  - Kudaravalli, Sri
+TI  - The strategic value of IT-enabled self-organised collectives during crises
+T2  - The Journal of Strategic Information Systems
+PY  - 2023
+VL  - 32
+IS  - 3
+SP  - 101792
+DO  - 10.1016/J.JSIS.2023.101792
+ER  - 
 ```

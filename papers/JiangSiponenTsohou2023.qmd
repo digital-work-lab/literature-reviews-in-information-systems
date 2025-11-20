@@ -14,7 +14,7 @@ cited_by: 21
 outlet: "European Journal of Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{JiangSiponenTsohou2023,
@@ -27,4 +27,20 @@ Citation:
   number     = {2},
   dblp_key   = {https://dblp.org/rec/journals/ejis/JiangST23}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Jiang, Hemin
+AU  - Siponen, Mikko T.
+AU  - Tsohou, Aggeliki
+TI  - Personal use of technology at work: a literature review and a theoretical model for understanding how it affects employee job performance
+T2  - European Journal of Information Systems
+PY  - 2023
+VL  - 32
+IS  - 2
+DO  - 10.1080/0960085X.2021.1963193
+ER  - 
 ```

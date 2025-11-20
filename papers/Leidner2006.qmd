@@ -13,7 +13,7 @@ cited_by: 919
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Leidner2006,
@@ -26,4 +26,20 @@ Citation:
   number     = {2},
   pages      = {357}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Leidner
+AU  - Kayworth
+TI  - Review: A Review of Culture in Information Systems Research: Toward a Theory of Information Technology Culture Conflict
+T2  - MIS Quarterly
+PY  - 2006
+VL  - 30
+IS  - 2
+SP  - 357
+DO  - 10.2307/25148735
+ER  - 
 ```

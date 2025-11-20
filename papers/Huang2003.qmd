@@ -14,7 +14,7 @@ cited_by: 5
 outlet: "Journal of Global Information Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Huang2003,
@@ -28,4 +28,22 @@ Citation:
   pages      = {72--89},
   abstract   = {This paper deals with the use of a group support system (GSS) to support virtual team-building. Literature review on Group Support Systems (GSS) indicates that most prior GSS research focuses on supporting face-to-face teamwork, and few studies were conducted in supporting virtual teamwork and team-building. When virtual teamwork becomes more common in modern organizations, how GSS can be used to enhance virtual team-building is becoming an important research issue. This paper proposes a conceptual team-building framework. By embedding this conceptual framework into a GSS, the GSS may have the potential to support virtual team-building. Based on the framework, a set of testable research propositions is formulated, and some suggestions for future GSS research are discussed.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Huang, Wayne
+AU  - Wei, Kwok-Kee
+AU  - Lim, John
+TI  - Using a GSS to Support Virtual Teambuilding
+T2  - Journal of Global Information Management
+PY  - 2003
+VL  - 11
+IS  - 1
+SP  - 72
+EP  - 89
+DO  - 10.4018/JGIM.2003010104
+ER  - 
 ```

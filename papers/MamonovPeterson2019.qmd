@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{MamonovPeterson2019,
@@ -24,4 +24,18 @@ Citation:
   year       = {2019},
   url        = {http://hdl.handle.net/10125/59982}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Mamonov, Stanislav
+AU  - Peterson, Richard
+TI  - IT Impact on Innovation at the Individual and Group Level – A Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2019
+DO  - 10.24251/HICSS.2019.656
+UR  - http://hdl.handle.net/10125/59982
+ER  - 
 ```

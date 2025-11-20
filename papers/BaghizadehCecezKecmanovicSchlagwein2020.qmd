@@ -14,7 +14,7 @@ cited_by: 37
 outlet: "Journal of Information Technology"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{BaghizadehCecezKecmanovicSchlagwein2020,
@@ -28,4 +28,20 @@ Citation:
   number     = {2},
   abstract   = {High failure rates of information systems development (ISD) projects continue to trouble organizations and information systems practices. Such a state of affairs has been of great concern for the information systems discipline for decades, motivating information systems researchers to focus on and extensively study ISD project failure. However, the increasing complexity and uncertainty of ISD projects and contemporary system development processes are challenging ISD project failure scholarship. In this article, we ask the questions: What are the contributions and weaknesses of the extant ISD project failure/success literature? What are potential avenues to move the ISD literature forward? To answer these questions, first, we present a literature review that assesses research contributions within the major perspectives on ISD failure (i.e. rationalist, process and narrative). While the extant research within all perspectives make significant contributions to knowledge, we find that researchers remain preoccupied with ‘project failure’ as an end state of an ISD project. They pay little attention to problematic situations arising during ISD projects before they become failed projects. Based on the review and critique of the literature, we then argue that there is a significant benefit in extending research focus from ISD project failure to ‘ISD project distress’, which we define as a harmful project condition involving dynamic and fluid constellation of critical problems that are difficult to identify, understand and resolve. While ISD project distress is an increasingly perilous and consequential phenomenon, little is known about its nature and potential responses. Drawing from the sensemaking literature, we propose a multilevel theoretical framework for understanding the nature and sources of ISD project distress that provides a foundation for exploring early detection and timely response. We demonstrate the theoretical and practical relevance of the concept of ISD project distress and propose a corresponding research agenda.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Baghizadeh, Zeinab
+AU  - Cecez-Kecmanovic, Dubravka
+AU  - Schlagwein, Daniel
+TI  - Review and critique of the information systems development project failure literature: An argument for exploring information systems development project distress
+T2  - Journal of Information Technology
+PY  - 2020
+VL  - 35
+IS  - 2
+DO  - 10.1177/0268396219832010
+ER  - 
 ```

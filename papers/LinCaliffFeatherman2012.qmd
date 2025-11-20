@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LinCaliffFeatherman2012,
@@ -24,4 +24,18 @@ Citation:
   year       = {2012},
   url        = {https://aisel.aisnet.org/amcis2012/proceedings/SocialIssues/20}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Lin, Xiaolin
+AU  - Califf, Christopher B.
+AU  - Featherman, Mauricio
+TI  - Gender Differences in IS - A literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2012
+UR  - https://aisel.aisnet.org/amcis2012/proceedings/SocialIssues/20
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 31
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Greenaway2005,
@@ -26,4 +26,21 @@ Citation:
   number     = {6},
   pages      = {171--198}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Chan, Yolande
+AU  - Greenaway, Kathleen
+TI  - Theoretical Explanations for Firms' Information Privacy Behaviors
+T2  - Journal of the Association for Information Systems
+PY  - 2005
+VL  - 6
+IS  - 6
+SP  - 171
+EP  - 198
+DO  - 10.17705/1JAIS.00068
+ER  - 
 ```

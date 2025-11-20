@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "e-Service Journal"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Riedl2011,
@@ -26,4 +26,21 @@ Citation:
   number     = {1},
   pages      = {2--22}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Riedl, Christoph
+AU  - Leimeister, Jan Marco
+AU  - Krcmar, Helmut
+TI  - Why E-Service Development is Different: A Literature Review
+T2  - e-Service Journal
+PY  - 2011
+VL  - 8
+IS  - 1
+SP  - 2
+EP  - 22
+ER  - 
 ```

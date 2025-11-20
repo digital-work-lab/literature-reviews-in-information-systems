@@ -15,7 +15,7 @@ cited_by: 3
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{HajBolouriConboyGregorEtAl2024,
@@ -31,4 +31,24 @@ Citation:
   url        = {https://aisel.aisnet.org/jais/vol25/iss2/3},
   abstract   = {The conceptualization of space is integral to many of the diverse forms of information systems—for example, the physical space represented in geographical information systems and the virtual space of simulated worlds. Yet despite its importance and centrality, the conceptualization of space in information systems is not as sophisticated or mature as in other fields. A lack of attention to the diversity of perspectives on space hampers ongoing research and the re-visioning of phenomena that could lead to new insights in information systems. The aim of this paper is to develop an encompassing framework that provides a comprehensive view of philosophical perspectives, spatial themes, and concepts of space that are relevant to information systems. As a result of an extensive literature review, an encompassing framework is presented that includes four prominent spatial themes: representing space, differentiating space, disclosing space, and intuitive space. Each theme is related to its key characteristics and features and underlying philosophical perspectives. The paper demonstrates how the new framework can facilitate IS scholars’ expansive analysis in scholarly work and assist editors and reviewers in evaluating papers concerning space in IS and shows how the re-visioning of phenomena can lead to transformational shifts in understanding IS phenomena.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Haj-Bolouri, Amir
+AU  - Conboy, Kieran
+AU  - Gregor, Shirley
+AU  - Conboy, Amir
+TI  - Research Perspectives: An Encompassing Framework for Conceptualizing Space in Information Systems: Philosophical Perspectives, Themes, and Concepts
+T2  - Journal of the Association for Information Systems
+PY  - 2024
+VL  - 25
+IS  - 2
+SP  - 407
+EP  - 441
+DO  - 10.17705/1JAIS.00830
+UR  - https://aisel.aisnet.org/jais/vol25/iss2/3
+ER  - 
 ```

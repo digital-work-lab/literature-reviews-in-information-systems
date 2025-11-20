@@ -13,7 +13,7 @@ cited_by: 9
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Wang2014h,
@@ -26,4 +26,21 @@ Citation:
   number     = {3},
   pages      = {111--146}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wang, Chingning
+AU  - Kaarst-Brown, Michelle
+TI  - The IT Compensation Challenge: Theorizing the Balance Among Multi-Level Internal and External Uncertainties
+T2  - Journal of the Association for Information Systems
+PY  - 2014
+VL  - 15
+IS  - 3
+SP  - 111
+EP  - 146
+DO  - 10.17705/1JAIS.00355
+ER  - 
 ```

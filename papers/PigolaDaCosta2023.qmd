@@ -13,7 +13,7 @@ cited_by: 6
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{PigolaDaCosta2023,
@@ -28,4 +28,21 @@ Citation:
   abstract   = {Advanced cybersecurity threats with automated capabilities are on the rise in industries such as finance, healthcare, technology, retail, telecoms, and transportation, as well as government. It is necessary to conduct analyses of cybersecurity-related resources and capabilities to build cybersecurity intelligence (CI). The purpose of this paper is to suggest a dynamic capability in a cybersecurity intelligence (DCCI) model based on existing literature that helped firms reduce risks of cyber violations and advance the development of systems and the life cycle of firms. Through a meta-synthesis, an abduction and induction approach through eight methodological steps analyzed in forty-seven case studies the presence of cybersecurity capabilities to build CI. Combining theoretical and practical information security maturity models as a foundation, we understand capabilities building to improve the predictability of cyber incidents. The results evidenced four second-order dimensions to build CI named doing, enabling, improving, and managing cybersecurity, and eight first-order outcomes to represent the DCCI model. This research makes an unprecedented contribution to international and national scenarios, as it will allow firms to innovate their resource management processes and abilities to enable better cybersecurity projects and reduce the impacts of potential cyberattacks with the probability of eradicating vulnerabilities.},
   dblp_key   = {https://dblp.org/rec/journals/cais/PigolaC23}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Pigola, Angélica
+AU  - Da Costa, Priscila Rezende
+TI  - Dynamic Capabilities in Cybersecurity Intelligence: A Meta-Synthesis to Enhance Protection Against Cyber Threats
+T2  - Communications of the Association for Information Systems
+PY  - 2023
+VL  - 53
+SP  - 1099
+EP  - 1135
+DO  - 10.17705/1CAIS.05347
+UR  - https://aisel.aisnet.org/cais/vol53/iss1/46
+ER  - 
 ```

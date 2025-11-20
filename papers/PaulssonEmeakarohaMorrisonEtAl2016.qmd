@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{PaulssonEmeakarohaMorrisonEtAl2016,
@@ -25,4 +25,19 @@ Citation:
   year       = {2016},
   url        = {https://aisel.aisnet.org/amcis2016/DigitalComm/Presentations/19}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Paulsson, Victoria
+AU  - Emeakaroha, Vincent C.
+AU  - Morrison, John P.
+AU  - Lynn, Theo
+TI  - Cloud Service Brokerage - A systematic literature review using a software development lifecycle
+T2  - Americas Conference on Information Systems
+PY  - 2016
+UR  - https://aisel.aisnet.org/amcis2016/DigitalComm/Presentations/19
+ER  - 
 ```

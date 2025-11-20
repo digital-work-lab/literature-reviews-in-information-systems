@@ -15,7 +15,7 @@ cited_by: 34
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Mathiassen2007,
@@ -28,4 +28,23 @@ Citation:
   number     = {11},
   pages      = {569--597}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Tuunanen, Tuure
+AU  - Rossi, Matti
+AU  - Saarinen, Timo
+AU  - Mathiassen, Lars
+TI  - A Contigency Model for Requirements Development
+T2  - Journal of the Association for Information Systems
+PY  - 2007
+VL  - 8
+IS  - 11
+SP  - 569
+EP  - 597
+DO  - 10.17705/1JAIS.00143
+ER  - 
 ```

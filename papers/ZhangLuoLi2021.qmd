@@ -14,7 +14,7 @@ cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{ZhangLuoLi2021,
@@ -25,4 +25,19 @@ Citation:
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71103}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Zhang, Chi
+AU  - Luo, Hao
+AU  - Li, Yi (Joy)
+TI  - Depression Detection Using Virtual Reality: A Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2021
+DO  - 10.24251/HICSS.2021.487
+UR  - http://hdl.handle.net/10125/71103
+ER  - 
 ```

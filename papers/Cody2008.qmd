@@ -15,7 +15,7 @@ cited_by: 37
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Cody2008,
@@ -28,4 +28,23 @@ Citation:
   number     = {4},
   pages      = {749--764}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Cody, Erin
+AU  - Sharman, Raj
+AU  - Rao, Raghav H.
+AU  - Upadhyaya, Shambhu
+TI  - Security in grid computing: A review and synthesis
+T2  - Decision Support Systems
+PY  - 2008
+VL  - 44
+IS  - 4
+SP  - 749
+EP  - 764
+DO  - 10.1016/J.DSS.2007.09.007
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 57
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{DhillonSmithDissanayaka2021b,
@@ -26,4 +26,20 @@ Citation:
   volume     = {30},
   number     = {4}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Dhillon, Gurpreet
+AU  - Smith, Kane
+AU  - Dissanayaka, Indika
+TI  - Information systems security research agenda: Exploring the gap between research and practice
+T2  - The Journal of Strategic Information Systems
+PY  - 2021
+VL  - 30
+IS  - 4
+DO  - 10.1016/J.JSIS.2021.101693
+ER  - 
 ```

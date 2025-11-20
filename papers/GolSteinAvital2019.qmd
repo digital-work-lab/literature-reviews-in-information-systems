@@ -14,7 +14,7 @@ cited_by: 83
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{GolSteinAvital2019,
@@ -26,4 +26,20 @@ Citation:
   volume     = {28},
   number     = {2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Gol, Elham Shafiei
+AU  - Stein, Mari-Klara
+AU  - Avital, Michel
+TI  - Crowdwork platform governance toward organizational value creation
+T2  - The Journal of Strategic Information Systems
+PY  - 2019
+VL  - 28
+IS  - 2
+DO  - 10.1016/J.JSIS.2019.01.001
+ER  - 
 ```

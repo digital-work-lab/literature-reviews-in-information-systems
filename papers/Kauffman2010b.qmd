@@ -13,7 +13,7 @@ cited_by: 9
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Kauffman2010b,
@@ -26,4 +26,21 @@ Citation:
   number     = {6},
   pages      = {303--338}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Kauffman, Robert
+AU  - Lee, Dongwon
+TI  - A Multi-Level Theory Approach to Understanding Price Rigidity in Internet Retailing
+T2  - Journal of the Association for Information Systems
+PY  - 2010
+VL  - 11
+IS  - 6
+SP  - 303
+EP  - 338
+DO  - 10.17705/1JAIS.00230
+ER  - 
 ```

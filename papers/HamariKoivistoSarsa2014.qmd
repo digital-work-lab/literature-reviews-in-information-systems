@@ -14,7 +14,7 @@ cited_by: 2761
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HamariKoivistoSarsa2014,
@@ -25,4 +25,19 @@ Citation:
   year       = {2014},
   url        = {https://ieeexplore.ieee.org/document/6758978}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Hamari, Juho
+AU  - Koivisto, Jonna
+AU  - Sarsa, Harri
+TI  - Does Gamification Work? -- A Literature Review of Empirical Studies on Gamification
+T2  - Hawaii International Conference on System Sciences
+PY  - 2014
+DO  - 10.1109/HICSS.2014.377
+UR  - https://ieeexplore.ieee.org/document/6758978
+ER  - 
 ```

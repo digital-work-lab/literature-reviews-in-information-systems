@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LiZhangLuo2021,
@@ -24,4 +24,18 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/amcis2021/sig_hci/sig_hci/22}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Li, Yi
+AU  - Zhang, Chi
+AU  - Luo, Hao Irene
+TI  - Using Mixed Reality in K-12 Education - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/amcis2021/sig_hci/sig_hci/22
+ER  - 
 ```

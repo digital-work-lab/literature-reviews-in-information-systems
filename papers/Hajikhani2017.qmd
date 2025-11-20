@@ -12,7 +12,7 @@ cited_by: 8
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Hajikhani2017,
@@ -23,4 +23,17 @@ Citation:
   year       = {2017},
   url        = {http://hdl.handle.net/10125/41796}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Hajikhani, Arash
+TI  - Emergence and Dissemination of Ecosystem Concept in Innovation Studies: A Systematic Literature Review Study
+T2  - Hawaii International Conference on System Sciences
+PY  - 2017
+DO  - 10.24251/HICSS.2017.634
+UR  - http://hdl.handle.net/10125/41796
+ER  - 
 ```

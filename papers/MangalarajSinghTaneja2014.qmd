@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{MangalarajSinghTaneja2014,
@@ -24,4 +24,18 @@ Citation:
   year       = {2014},
   url        = {https://aisel.aisnet.org/amcis2014/StrategicUse/GeneralPresentations/13}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Mangalaraj, George
+AU  - Singh, Anil
+AU  - Taneja, Aakash
+TI  - IT Governance Frameworks and COBIT - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2014
+UR  - https://aisel.aisnet.org/amcis2014/StrategicUse/GeneralPresentations/13
+ER  - 
 ```

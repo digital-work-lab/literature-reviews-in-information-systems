@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{ModiFeldman2018,
@@ -23,4 +23,17 @@ Citation:
   year       = {2018},
   url        = {https://aisel.aisnet.org/amcis2018/TREOsPDS/Presentations/47}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Modi, Shikha
+AU  - Feldman, Sue S.
+TI  - Value of Electronic Health Records since HITECH - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2018
+UR  - https://aisel.aisnet.org/amcis2018/TREOsPDS/Presentations/47
+ER  - 
 ```

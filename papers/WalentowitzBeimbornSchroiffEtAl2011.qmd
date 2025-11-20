@@ -15,7 +15,7 @@ cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{WalentowitzBeimbornSchroiffEtAl2011,
@@ -26,4 +26,20 @@ Citation:
   year       = {2011},
   url        = {https://ieeexplore.ieee.org/document/5718956}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Walentowitz, Katja
+AU  - Beimborn, Daniel
+AU  - Schroiff, Anna
+AU  - Weitzel, Tim
+TI  - The Social Network Structure of Alignment - A Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2011
+DO  - 10.1109/HICSS.2011.434
+UR  - https://ieeexplore.ieee.org/document/5718956
+ER  - 
 ```

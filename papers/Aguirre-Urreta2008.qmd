@@ -13,7 +13,7 @@ cited_by: 23
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Aguirre-Urreta2008,
@@ -27,4 +27,21 @@ Citation:
   pages      = {9--32},
   abstract   = {The empirical literature comparing entity relationship and object-oriented modeling techniques, while vibrant, has often yielded equivocal findings. This review employs Norman's (1986) Theory of Action to distinguish between model creation and comprehension studies, and applies and extends the theoretical framework proposed by Gemino and Wand (2004) to highlight and detail several issues that may need further exploration if consistent results in this stream are to be realized. Specifically, this paper explores why and how issues of ontological foundation, training, equivalence of conceptual models, and modeling practices may result in differences between alternative modeling techniques. A comprehensive picture of this literature is provided and a number of potential avenues for future research are proposed.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Aguirre-Urreta, Miguel I.
+AU  - Marakas, George M.
+TI  - Comparing conceptual modeling techniques
+T2  - ACM SIGMIS Database: the DATABASE for Advances in Information Systems
+PY  - 2008
+VL  - 39
+IS  - 2
+SP  - 9
+EP  - 32
+DO  - 10.1145/1364636.1364640
+ER  - 
 ```

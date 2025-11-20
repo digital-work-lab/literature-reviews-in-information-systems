@@ -18,7 +18,7 @@ cited_by: 63
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{OksJalowskiLechnerEtAl2022,
@@ -32,4 +32,25 @@ Citation:
   url        = {https://link.springer.com/article/10.1007/s10796-022-10252-x},
   abstract   = {Abstract Cyber-physical systems (CPS) offer great potential for the digital transformation of industrial value creation in the context of Industry 4.0. They unify and integrate several technological approaches, including big data analysis and artificial intelligence, enhancing real-time monitoring and control of manufacturing processes. An extensive knowledge base formed by various disciplines, including information systems, engineering, and computer science, already exists for CPS. However, this knowledge has not been holistically captured and structured to date. To address this research gap, this study conducts a large-scale literature review of 2365 papers representing the current state of the research and then develops a novel categorization on industrial CPS with 10 sections, 32 areas, and 246 fields. The categorization is presented in hierarchical graphical form and can also be utilized as a web tool. To conclude, a perspective on future research needs and potentials to enhance Industry 4.0 in both research and practice are offered.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Oks, Sascha Julian
+AU  - Jalowski, Max
+AU  - Lechner, Michael
+AU  - Mirschberger, Stefan
+AU  - Merklein, Marion
+AU  - Vogel-Heuser, Birgit
+AU  - Möslein, Kathrin M.
+TI  - Cyber-Physical Systems in the Context of Industry 4.0: A Review, Categorization and Outlook
+T2  - Information Systems Frontiers
+PY  - 2022
+VL  - 26
+IS  - 5
+DO  - 10.1007/S10796-022-10252-X
+UR  - https://link.springer.com/article/10.1007/s10796-022-10252-x
+ER  - 
 ```

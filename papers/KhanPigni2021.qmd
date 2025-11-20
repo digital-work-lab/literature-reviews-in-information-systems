@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{KhanPigni2021,
@@ -23,4 +23,17 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/12}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Khan, Raania N.
+AU  - Pigni, Federico
+TI  - Digital Twin - A literature review and research agenda in Information Systems
+T2  - Americas Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/12
+ER  - 
 ```

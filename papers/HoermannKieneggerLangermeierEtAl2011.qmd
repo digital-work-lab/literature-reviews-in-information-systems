@@ -16,7 +16,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HoermannKieneggerLangermeierEtAl2011,
@@ -26,4 +26,20 @@ Citation:
   year       = {2011},
   url        = {https://aisel.aisnet.org/amcis2011_submissions/241}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Hoermann, Stefan
+AU  - Kienegger, Harald
+AU  - Langermeier, Melanie
+AU  - Mayer, Manuel
+AU  - Krcmar, Helmut
+TI  - Comparing Risk and Success Factors in ERP Projects - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2011
+UR  - https://aisel.aisnet.org/amcis2011_submissions/241
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{CohenColemanAbrahams2015,
@@ -24,4 +24,18 @@ Citation:
   year       = {2015},
   url        = {http://aisel.aisnet.org/ecis2015_cr/33}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Cohen, Jason F.
+AU  - Coleman, Emma
+AU  - Abrahams, Lucienne
+TI  - Use and Impacts of E-health Within Community Health Facilities in Developing Countries - A Systematic Literature Review
+T2  - European Conference on Information Systems
+PY  - 2015
+UR  - http://aisel.aisnet.org/ecis2015_cr/33
+ER  - 
 ```

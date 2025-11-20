@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{KleinschmidtPetersLeimeister2016,
@@ -24,4 +24,18 @@ Citation:
   year       = {2016},
   url        = {http://aisel.aisnet.org/icis2016/Sustainability/Presentations/3}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Kleinschmidt, Stefan
+AU  - Peters, Christoph
+AU  - Leimeister, Jan Marco
+TI  - ICT-Enabled Service Innovation in Human-Centered Service Systems - A Systematic Literature Review
+T2  - International Conference on Information Systems
+PY  - 2016
+UR  - http://aisel.aisnet.org/icis2016/Sustainability/Presentations/3
+ER  - 
 ```

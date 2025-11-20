@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LindenSchmidt2016,
@@ -23,4 +23,17 @@ Citation:
   year       = {2016},
   url        = {https://aisel.aisnet.org/pacis2016/83}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Linden, Robert
+AU  - Schmidt, Nikolaus
+TI  - Innovation Wanted - a literature Review on Innovation Sourcing Engagements
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2016
+UR  - https://aisel.aisnet.org/pacis2016/83
+ER  - 
 ```

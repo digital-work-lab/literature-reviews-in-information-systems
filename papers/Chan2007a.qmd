@@ -13,7 +13,7 @@ cited_by: 595
 outlet: "Journal of Information Technology"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Chan2007a,
@@ -27,4 +27,21 @@ Citation:
   pages      = {297--315},
   abstract   = {We provide a review of the alignment literature in IT, addressing questions such as: What have we learned? What is disputed? Who are contributors to the debate? The article is intended to be useful to faculty and graduate students considering conducting research on alignment, instructors preparing lectures, and practitioners seeking to assess the ‘state-of-play’. It is both informational and provocative. Challenges to the value of alignment research, divergent views, and new perspectives on alignment are presented. It is hoped that the article will spark helpful conversation on the merits of continued investigation of IT alignment.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Chan, Yolande E
+AU  - Reich, Blaize Horner
+TI  - IT Alignment: What Have We Learned?
+T2  - Journal of Information Technology
+PY  - 2007
+VL  - 22
+IS  - 4
+SP  - 297
+EP  - 315
+DO  - 10.1057/PALGRAVE.JIT.2000109
+ER  - 
 ```

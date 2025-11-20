@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HaskampDremelMarxEtAl2021,
@@ -25,4 +25,19 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/icis2021/dig_innov/dig_innov/5}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Haskamp, Thomas
+AU  - Dremel, Christian
+AU  - Marx, Carolin
+AU  - Uebernickel, Falk
+TI  - Understanding Inertia in Digital Transformation: A Literature Review and Multilevel Research Framework
+T2  - International Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/icis2021/dig_innov/dig_innov/5
+ER  - 
 ```

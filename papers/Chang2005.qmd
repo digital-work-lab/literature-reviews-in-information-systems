@@ -14,7 +14,7 @@ cited_by: 262
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Chang2005,
@@ -27,4 +27,22 @@ Citation:
   number     = {4},
   pages      = {543--559}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - CHANG, M
+AU  - CHEUNG, W
+AU  - LAI, V
+TI  - Literature derived reference models for the adoption of online shopping
+T2  - Information & Management
+PY  - 2005
+VL  - 42
+IS  - 4
+SP  - 543
+EP  - 559
+DO  - 10.1016/S0378-7206(04)00051-5
+ER  - 
 ```

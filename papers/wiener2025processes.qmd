@@ -14,7 +14,7 @@ cited_by: 4
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{wiener2025processes,
@@ -27,4 +27,21 @@ Citation:
   number     = {2},
   pages      = {101900}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wiener, Martin
+AU  - Strahringer, Susanne
+AU  - Kotlarsky, Julia
+TI  - Where are the processes in IS research on digital transformation? A critical literature review and future research directions
+T2  - The Journal of Strategic Information Systems
+PY  - 2025
+VL  - 34
+IS  - 2
+SP  - 101900
+DO  - 10.1016/J.JSIS.2025.101900
+ER  - 
 ```

@@ -16,7 +16,7 @@ cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{MamunDavidMaiEtAl2018,
@@ -27,4 +27,21 @@ Citation:
   year       = {2018},
   url        = {http://hdl.handle.net/10125/49919}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Mamun, Md Rasel Al
+AU  - David, Alsius
+AU  - Mai, Bin
+AU  - Kim, Dan J.
+AU  - Parsons, Thomas D
+TI  - The First 10 Years of NeuroIS: A Systematic Literature Review of NeuroIS Publications (2007 - 2017)
+T2  - Hawaii International Conference on System Sciences
+PY  - 2018
+DO  - 10.24251/HICSS.2018.032
+UR  - http://hdl.handle.net/10125/49919
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 100
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Beard2004,
@@ -26,4 +26,21 @@ Citation:
   number     = {2},
   pages      = {129--150}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Beard, Jon W
+AU  - Sumner, Mary
+TI  - Seeking strategic advantage in the post-net era: viewing ERP systems from the resource-based perspective
+T2  - The Journal of Strategic Information Systems
+PY  - 2004
+VL  - 13
+IS  - 2
+SP  - 129
+EP  - 150
+DO  - 10.1016/J.JSIS.2004.02.003
+ER  - 
 ```

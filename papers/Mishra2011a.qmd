@@ -13,7 +13,7 @@ cited_by: 25
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Mishra2011a,
@@ -27,4 +27,21 @@ Citation:
   pages      = {23--37},
   abstract   = {This paper explores the different dimensions of e-government significant issues -- Challenges, Implementation, and Success Factors. The main objective is to highlight the current research and practice direction in these important areas of e-government. The results were limited to peer-reviewed conference papers and journal articles, published from 2001 up to and including early 2011. The analysis revealed that most research has been done in formulating challenges and barriers, implementation plan, evaluation/assessment and success factors of e-government while studies on knowledge management in e-government, readiness for e-government, e-Gov. process and security/privacy issues could get only limited attention. This indicates the need for future research (quantitative and qualitative) in these areas. Further it also reports a summary of the research in these e-government areas.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Mishra, Alok
+AU  - Mishra, Deepti
+TI  - E-government
+T2  - ACM SIGMIS Database: the DATABASE for Advances in Information Systems
+PY  - 2012
+VL  - 42
+IS  - 4
+SP  - 23
+EP  - 37
+DO  - 10.1145/2096140.2096143
+ER  - 
 ```

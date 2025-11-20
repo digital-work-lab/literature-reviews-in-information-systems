@@ -12,7 +12,7 @@ cited_by: 1
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Johnson2002,
@@ -25,4 +25,20 @@ Citation:
   number     = {4},
   pages      = {65--81}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Johnson, Richard A.
+TI  - Object-Oriented Systems Development: A Review of Empirical Research
+T2  - Communications of the Association for Information Systems
+PY  - 2002
+VL  - 8
+IS  - 4
+SP  - 65
+EP  - 81
+DO  - 10.17705/1CAIS.00804
+ER  - 
 ```

@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{ErmakovaHuengesErekEtAl2013,
@@ -25,4 +25,19 @@ Citation:
   year       = {2013},
   url        = {https://aisel.aisnet.org/amcis2013/HealthInformation/GeneralPresentations/17}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Ermakova, Tatiana
+AU  - Huenges, Jan
+AU  - Erek, Koray
+AU  - Zarnekow, Rüdiger
+TI  - Cloud Computing in Healthcare - a Literature Review on Current State of Research
+T2  - Americas Conference on Information Systems
+PY  - 2013
+UR  - https://aisel.aisnet.org/amcis2013/HealthInformation/GeneralPresentations/17
+ER  - 
 ```

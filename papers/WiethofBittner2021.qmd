@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{WiethofBittner2021,
@@ -23,4 +23,17 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/icis2021/ai_business/ai_business/11}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Wiethof, Christina
+AU  - Bittner, Eva A. C.
+TI  - Hybrid Intelligence - Combining the Human in the Loop with the Computer in the Loop: A Systematic Literature Review
+T2  - International Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/icis2021/ai_business/ai_business/11
+ER  - 
 ```

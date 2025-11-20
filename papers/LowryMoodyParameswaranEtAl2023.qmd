@@ -15,7 +15,7 @@ cited_by: 16
 outlet: "Journal of Management Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{LowryMoodyParameswaranEtAl2023,
@@ -28,4 +28,23 @@ Citation:
   number     = {4},
   pages      = {1099--1138}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Lowry, Paul Benjamin
+AU  - Moody, Gregory D.
+AU  - Parameswaran, Srikanth
+AU  - Brown, Nicholas James
+TI  - Examining the Differential Effectiveness of Fear Appeals in Information Security Management Using Two-Stage Meta-Analysis
+T2  - Journal of Management Information Systems
+PY  - 2023
+VL  - 40
+IS  - 4
+SP  - 1099
+EP  - 1138
+DO  - 10.1080/07421222.2023.2267318
+ER  - 
 ```

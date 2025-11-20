@@ -13,7 +13,7 @@ cited_by: 32
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HassanHamari2019,
@@ -24,4 +24,18 @@ Citation:
   year       = {2019},
   url        = {http://hdl.handle.net/10125/59744}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Hassan, Lobna
+AU  - Hamari, Juho
+TI  - Gamification of E-Participation: A Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2019
+DO  - 10.24251/HICSS.2019.372
+UR  - http://hdl.handle.net/10125/59744
+ER  - 
 ```

@@ -12,7 +12,7 @@ cited_by: 40
 outlet: "Information Resources Management Journal"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Brown2004,
@@ -26,4 +26,20 @@ Citation:
   pages      = {20--48},
   abstract   = {Strategic information systems planning (SISP) has been a perennial concern to information systems managers for the past two decades, and much research effort has been devoted to studying it. SISP has been theorised in terms of an input-process-output model, with well-defined components, and a set of hypotheses to be tested. Based on this theoretical framework, a literature review of research over the past decade is undertaken. The analysis reveals the extent to which the various components and hypotheses within this framework have been researched, as well as identifying additional hypotheses that are suggested from the literature.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Brown, Irwin T.J.
+TI  - Testing and Extending Theory in Strategic Information Systems Planning Through Literature Analysis
+T2  - Information Resources Management Journal
+PY  - 2004
+VL  - 17
+IS  - 4
+SP  - 20
+EP  - 48
+DO  - 10.4018/IRMJ.2004100102
+ER  - 
 ```

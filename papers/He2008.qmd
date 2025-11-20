@@ -13,7 +13,7 @@ cited_by: 160
 outlet: "Journal of Management Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{He2008,
@@ -26,4 +26,21 @@ Citation:
   number     = {1},
   pages      = {301--331}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - He, Jun
+AU  - King, William R.
+TI  - The Role of User Participation in Information Systems Development: Implications from a Meta-Analysis
+T2  - Journal of Management Information Systems
+PY  - 2008
+VL  - 25
+IS  - 1
+SP  - 301
+EP  - 331
+DO  - 10.2753/MIS0742-1222250111
+ER  - 
 ```

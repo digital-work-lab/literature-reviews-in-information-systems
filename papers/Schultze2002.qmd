@@ -13,7 +13,7 @@ cited_by: 340
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Schultze2002,
@@ -26,4 +26,20 @@ Citation:
   number     = {3},
   pages      = {213}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Schultze, Ulrike
+AU  - Leidner, Dorothy E.
+TI  - Studying Knowledge Management in Information Systems Research: Discourses and Theoretical Assumptions
+T2  - MIS Quarterly
+PY  - 2002
+VL  - 26
+IS  - 3
+SP  - 213
+DO  - 10.2307/4132331
+ER  - 
 ```

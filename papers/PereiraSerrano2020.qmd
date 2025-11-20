@@ -13,7 +13,7 @@ cited_by: 26
 outlet: "Journal of Information Technology"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{PereiraSerrano2020,
@@ -27,4 +27,19 @@ Citation:
   number     = {2},
   abstract   = {Maturity models can be seen as support tools for an organization. Their importance is increasing in the scientific community and IT (Information Technology) organizations are starting to implement them. The main objective of maturity models is to evaluate and improve the organization’s practices by creating an improvement roadmap. However, the utilization of the methodologies and methods by this community for the development of this kind of tools is not consensual. Several investigators have created guidelines for the development of maturity models, but the authors are not adopting them; they prefer to adopt their own methodologies. In this research, with the objective of reviewing the methodologies, methods, and guidelines used by the scientific community to develop IT maturity models, a Systematic Literature Review and a Critical analysis were made in order to realize a comparison between IT maturity models and Non-IT maturity models. In total, 109 articles of maturity models’ development were analyzed. A discussion of the articles’ results was realized.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Pereira, Rúben
+AU  - Serrano, João
+TI  - A review of methods used on IT maturity models development: A systematic literature review and a critical analysis
+T2  - Journal of Information Technology
+PY  - 2020
+VL  - 35
+IS  - 2
+DO  - 10.1177/0268396219886874
+ER  - 
 ```

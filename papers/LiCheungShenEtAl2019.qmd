@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LiCheungShenEtAl2019,
@@ -25,4 +25,19 @@ Citation:
   year       = {2019},
   url        = {https://aisel.aisnet.org/pacis2019/194}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Li, Yangjun
+AU  - Cheung, Christy M. K.
+AU  - Shen, Xiao-Liang
+AU  - Lee, Matthew K. O.
+TI  - Health Misinformation on Social Media - A Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2019
+UR  - https://aisel.aisnet.org/pacis2019/194
+ER  - 
 ```

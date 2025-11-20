@@ -14,7 +14,7 @@ cited_by: 10
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{RamadaniKurniaBreidbach2018,
@@ -25,4 +25,19 @@ Citation:
   year       = {2018},
   url        = {http://hdl.handle.net/10125/50192}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Ramadani, Luthfi
+AU  - Kurnia, Sherah
+AU  - Breidbach, Christoph F.
+TI  - In Search for Holistic ICT4D Research: A Systematic Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2018
+DO  - 10.24251/HICSS.2018.304
+UR  - http://hdl.handle.net/10125/50192
+ER  - 
 ```

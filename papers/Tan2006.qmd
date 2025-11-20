@@ -13,7 +13,7 @@ cited_by: 45
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Tan2006,
@@ -26,4 +26,21 @@ Citation:
   number     = {4},
   pages      = {179--206}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Tan, Chengxun
+AU  - Sia, Siew
+TI  - Managing Flexibility in Outsourcing
+T2  - Journal of the Association for Information Systems
+PY  - 2006
+VL  - 7
+IS  - 4
+SP  - 179
+EP  - 206
+DO  - 10.17705/1JAIS.00086
+ER  - 
 ```

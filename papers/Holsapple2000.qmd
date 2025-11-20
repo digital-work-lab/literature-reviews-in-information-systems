@@ -13,7 +13,7 @@ cited_by: 54
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Holsapple2000,
@@ -26,4 +26,21 @@ Citation:
   number     = {3},
   pages      = {149--170}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Holsapple, Clyde W.
+AU  - Singh, Meenu
+TI  - Electronic Commerce: From a Definitional Taxonomy Toward a Knowledge-Management View
+T2  - Journal of Organizational Computing and Electronic Commerce
+PY  - 2000
+VL  - 10
+IS  - 3
+SP  - 149
+EP  - 170
+DO  - 10.1207/S15327744JOCE1003_01
+ER  - 
 ```

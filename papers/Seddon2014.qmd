@@ -12,7 +12,7 @@ cited_by: 58
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Seddon2014,
@@ -25,4 +25,20 @@ Citation:
   number     = {4},
   pages      = {257--269}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Seddon, Peter B.
+TI  - Implications for strategic IS research of the resource-based theory of the firm: A reflection
+T2  - The Journal of Strategic Information Systems
+PY  - 2014
+VL  - 23
+IS  - 4
+SP  - 257
+EP  - 269
+DO  - 10.1016/J.JSIS.2014.11.001
+ER  - 
 ```

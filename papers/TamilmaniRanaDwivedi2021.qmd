@@ -14,7 +14,7 @@ cited_by: 192
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{TamilmaniRanaDwivedi2021,
@@ -29,4 +29,23 @@ Citation:
   url        = {https://link.springer.com/article/10.1007/s10796-020-10007-6},
   abstract   = {Abstract Despite being regarded as the most comprehensive theory in understanding individual technology adoption – UTAUT2 theory with growing number of citations and impetus beyond IS domain face strong criticism on usage of the model in its entirety. This study located UTAUT2 based empirical studies in the Scopus and Web of Science bibliographic database through citied reference search in order to evaluate appropriate usage of UTAUT2 constructs. The meta-analysis results spanning across 60 studies with more than 122,000 cumulative observations found BI➔UB as the strongest path with all significant values. PE➔BI emerged as the most utilized path with most significant values underscoring the emphasis placed by consumers on utilitarian value. Meanwhile, with most non-significant path values the future usage of EE➔BI path is been cautioned and questioned. Finally, trust, personal innovativeness, perceived risk, attitude, and self-efficacy were found as the five topmost UTAUT2 extensions.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Tamilmani, Kuttimani
+AU  - Rana, Nripendra P.
+AU  - Dwivedi, Yogesh K.
+TI  - Consumer Acceptance and Use of Information Technology: A Meta-Analytic Evaluation of UTAUT2
+T2  - Information Systems Frontiers
+PY  - 2021
+VL  - 23
+IS  - 4
+SP  - 987
+EP  - 1005
+DO  - 10.1007/S10796-020-10007-6
+UR  - https://link.springer.com/article/10.1007/s10796-020-10007-6
+ER  - 
 ```

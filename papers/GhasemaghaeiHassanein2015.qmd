@@ -13,7 +13,7 @@ cited_by: 87
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{GhasemaghaeiHassanein2015,
@@ -29,4 +29,22 @@ Citation:
   pages      = {965--981},
   url        = {https://www.sciencedirect.com/science/article/pii/S0378720615000695}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Ghasemaghaei, Maryam
+AU  - Hassanein, Khaled
+TI  - Online information quality and consumer satisfaction - The moderating roles of contextual factors - A meta-analysis
+T2  - Information & Management
+PY  - 2015
+VL  - 52
+IS  - 8
+SP  - 965
+EP  - 981
+DO  - 10.1016/J.IM.2015.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720615000695
+ER  - 
 ```

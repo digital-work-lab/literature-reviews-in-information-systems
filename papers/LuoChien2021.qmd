@@ -13,7 +13,7 @@ cited_by: 3
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LuoChien2021,
@@ -24,4 +24,18 @@ Citation:
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71131}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Luo, Margaret Meiling
+AU  - Chien, Chih-Chia
+TI  - Factors Affecting Negative E-WOM: A Literature Review and Merged Model
+T2  - Hawaii International Conference on System Sciences
+PY  - 2021
+DO  - 10.24251/HICSS.2021.514
+UR  - http://hdl.handle.net/10125/71131
+ER  - 
 ```

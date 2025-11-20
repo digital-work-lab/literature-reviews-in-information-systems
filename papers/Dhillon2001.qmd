@@ -13,7 +13,7 @@ cited_by: 320
 outlet: "Information Systems Journal"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Dhillon2001,
@@ -27,4 +27,21 @@ Citation:
   pages      = {127--153},
   abstract   = {Abstract. The purpose of this paper is to map the current territory of information systems and security research. It uses the Burrell and Morgan framework as an intellectual map to analyse the socio‐philosophical concerns in various information systems and security approaches. The paper's contributions are in its analysis of trends in information systems and security research, the former in stressing the socio‐organizational perspectives and the latter in criticizing the preponderance of technical solutions. The paper also sets an agenda for a future research emphasis.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Dhillon, Gurpreet
+AU  - Backhouse, James
+TI  - Current directions in IS security research: towards socio‐organizational perspectives
+T2  - Information Systems Journal
+PY  - 2001
+VL  - 11
+IS  - 2
+SP  - 127
+EP  - 153
+DO  - 10.1046/J.1365-2575.2001.00099.X
+ER  - 
 ```

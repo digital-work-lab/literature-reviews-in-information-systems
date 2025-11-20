@@ -13,7 +13,7 @@ cited_by: 9
 outlet: "Information Resources Management Journal"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Wang2007a,
@@ -27,4 +27,21 @@ Citation:
   pages      = {1--18},
   abstract   = {Escalation is a serious management problem, and sunk costs are believed to be a key factor in promoting escalation behavior. While many laboratory experiments have been conducted to examine the effect of sunk costs on escalation, there has been no effort to examine these studies as a group in order to determine the effect size associated with the so-called “sunk cost effect.” Using meta-analysis, we analyzed the results of 20 sunk cost experiments and found: (1) a large effect size associated with sunk costs, and (2) stronger effects in experiments involving information technology (IT) projects as opposed to non-IT projects. Implications of the results and future research directions are discussed.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wang, Jijie
+AU  - Keil, Mark
+TI  - A Meta-Analysis Comparing the Sunk Cost Effect for IT and Non-IT Projects
+T2  - Information Resources Management Journal
+PY  - 2007
+VL  - 20
+IS  - 3
+SP  - 1
+EP  - 18
+DO  - 10.4018/IRMJ.2007070101
+ER  - 
 ```

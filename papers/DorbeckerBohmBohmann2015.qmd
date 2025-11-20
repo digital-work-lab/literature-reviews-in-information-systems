@@ -14,7 +14,7 @@ cited_by: 8
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{DorbeckerBohmBohmann2015,
@@ -25,4 +25,19 @@ Citation:
   year       = {2015},
   url        = {https://ieeexplore.ieee.org/document/7069975/}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Dörbecker, Regine
+AU  - Böhm, Daniela
+AU  - Böhmann, Tilo
+TI  - Measuring Modularity and Related Effects for Services, Products, Networks, and Software -- A Comparative Literature Review and a Research Agenda for Service Modularity
+T2  - Hawaii International Conference on System Sciences
+PY  - 2015
+DO  - 10.1109/HICSS.2015.167
+UR  - https://ieeexplore.ieee.org/document/7069975/
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HaoBedeley2020,
@@ -23,4 +23,17 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/amcis2020/meta_research_is/meta_research_is/5}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Hao, Hui
+AU  - Bedeley, Rudolph
+TI  - Biases in Online Opinion Platforms - A Literature Review and Future Direction
+T2  - Americas Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/amcis2020/meta_research_is/meta_research_is/5
+ER  - 
 ```

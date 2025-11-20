@@ -15,7 +15,7 @@ cited_by: 6
 outlet: "Australasian Journal of Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Chatfield2014,
@@ -28,4 +28,23 @@ Citation:
   number     = {3},
   pages      = {257--269}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Chatfield, Akemi Takeoka
+AU  - Shlemoon, Vivian Najem
+AU  - Redublado, Wilbur
+AU  - Darbyshire, Gary
+TI  - Creating Value through Virtual Teams: A Current Literature Review
+T2  - Australasian Journal of Information Systems
+PY  - 2014
+VL  - 18
+IS  - 3
+SP  - 257
+EP  - 269
+DO  - 10.3127/AJIS.V18I3.1104
+ER  - 
 ```

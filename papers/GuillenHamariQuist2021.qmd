@@ -14,7 +14,7 @@ cited_by: 20
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{GuillenHamariQuist2021,
@@ -25,4 +25,19 @@ Citation:
   year       = {2021},
   url        = {http://hdl.handle.net/10125/70775}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Guillen, Georgina
+AU  - Hamari, Juho
+AU  - Quist, Jaco
+TI  - Gamification of Sustainable Consumption: a systematic literature review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2021
+DO  - 10.24251/HICSS.2021.163
+UR  - http://hdl.handle.net/10125/70775
+ER  - 
 ```

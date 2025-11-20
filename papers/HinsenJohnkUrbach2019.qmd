@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HinsenJohnkUrbach2019,
@@ -24,4 +24,18 @@ Citation:
   year       = {2019},
   url        = {https://aisel.aisnet.org/icis2019/business_models/business_models/12}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Hinsen, Silvana
+AU  - Jöhnk, Jan
+AU  - Urbach, Nils
+TI  - Disentangling the Concept and Role of Continuous Change for IS Research - A Systematic Literature Review
+T2  - International Conference on Information Systems
+PY  - 2019
+UR  - https://aisel.aisnet.org/icis2019/business_models/business_models/12
+ER  - 
 ```

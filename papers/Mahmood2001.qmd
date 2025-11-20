@@ -14,7 +14,7 @@ cited_by: 88
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Mahmood2001,
@@ -27,4 +27,22 @@ Citation:
   number     = {2},
   pages      = {107--130}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Mahmood, Mo Adam
+AU  - Hall, Laura
+AU  - Swanberg, Daniel Leonard
+TI  - Factors Affecting Information Technology Usage: A Meta-Analysis of the Empirical Literature
+T2  - Journal of Organizational Computing and Electronic Commerce
+PY  - 2001
+VL  - 11
+IS  - 2
+SP  - 107
+EP  - 130
+DO  - 10.1207/S15327744JOCE1102_02
+ER  - 
 ```

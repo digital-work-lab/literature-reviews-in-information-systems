@@ -17,7 +17,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LiDingChengEtAl2016,
@@ -27,4 +27,21 @@ Citation:
   year       = {2016},
   url        = {https://aisel.aisnet.org/amcis2016/AsiaPac/Presentations/8}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Li, Jingwei
+AU  - Ding, Wei
+AU  - Cheng, Hsing
+AU  - Chen, Ping
+AU  - Di, Dehai
+AU  - Huang, Wei
+TI  - A Comprehensive Literature Review on Big Data in Healthcare
+T2  - Americas Conference on Information Systems
+PY  - 2016
+UR  - https://aisel.aisnet.org/amcis2016/AsiaPac/Presentations/8
+ER  - 
 ```

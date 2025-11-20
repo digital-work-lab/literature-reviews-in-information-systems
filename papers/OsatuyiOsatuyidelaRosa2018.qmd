@@ -14,7 +14,7 @@ cited_by: 32
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{OsatuyiOsatuyidelaRosa2018,
@@ -29,4 +29,20 @@ Citation:
   volume     = {42},
   url        = {https://aisel.aisnet.org/cais/vol42/iss1/5}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Osatuyi, Babajide
+AU  - Osatuyi, Temidayo
+AU  - de la Rosa, Ramiro
+TI  - Systematic Review of Gamification Research in IS Education - A Multi-method Approach
+T2  - Communications of the Association for Information Systems
+PY  - 2018
+VL  - 42
+DO  - 10.17705/1CAIS.04205
+UR  - https://aisel.aisnet.org/cais/vol42/iss1/5
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{SahuSrivastava2011,
@@ -23,4 +23,17 @@ Citation:
   year       = {2011},
   url        = {https://aisel.aisnet.org/amcis2011_submissions/399}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Sahu, Ganesh P.
+AU  - Srivastava, Rajeev
+TI  - A Literature Review and Classification of Green Computing Research
+T2  - Americas Conference on Information Systems
+PY  - 2011
+UR  - https://aisel.aisnet.org/amcis2011_submissions/399
+ER  - 
 ```

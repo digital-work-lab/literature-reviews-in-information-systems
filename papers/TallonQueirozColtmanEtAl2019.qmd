@@ -15,7 +15,7 @@ cited_by: 290
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{TallonQueirozColtmanEtAl2019,
@@ -27,4 +27,21 @@ Citation:
   volume     = {28},
   number     = {2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Tallon, Paul P.
+AU  - Queiroz, Magno
+AU  - Coltman, Timothy R.
+AU  - Sharma, Rajeev
+TI  - Information technology and the search for organizational agility: A systematic review with future research possibilities
+T2  - The Journal of Strategic Information Systems
+PY  - 2019
+VL  - 28
+IS  - 2
+DO  - 10.1016/J.JSIS.2018.12.002
+ER  - 
 ```

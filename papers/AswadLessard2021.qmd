@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{AswadLessard2021,
@@ -23,4 +23,17 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/amcis2021/healthcare_it/sig_health/13}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Aswad, Oday
+AU  - Lessard, Lysanne
+TI  - Service Design Methods' Ability to Personalize Telehealth - A Systematic Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/amcis2021/healthcare_it/sig_health/13
+ER  - 
 ```

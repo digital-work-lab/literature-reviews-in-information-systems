@@ -14,7 +14,7 @@ cited_by: 120
 outlet: "Journal of Information Technology"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{WienerSaundersMarabelli2020,
@@ -28,4 +28,20 @@ Citation:
   number     = {1},
   abstract   = {The emergence of “big data” offers organizations unprecedented opportunities to gain and maintain competitive advantage. Trying to exploit the strategic business potential embedded in big data, many organizations have started to renovate their business models or develop new ones, giving rise to the phenomenon of big-data business models. Although big-data business model research is still in its infancy, a significant number of studies on the topic have been published since 2014. We thus suggest it is time to perform a critical review and assessment of the literature at the intersection of business models and big data (analytics), thereby responding to recent calls for further research on and sustained analysis of big-data business models. In particular, our review uses three major criteria (big-data business model types, dimensions, and deployment) to assess the state of the big-data business model literature and identify shortcomings in this literature. On this basis, we derive and discuss five central research perspectives (supply chain, stakeholder, ethics, national, and process), providing guidance for future research and theory development in the area. These perspectives also have practical implications on how to address the current big-data business model deployment gap.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wiener, Martin
+AU  - Saunders, Carol
+AU  - Marabelli, Marco
+TI  - Big-data business models: A critical literature review and multiperspective research framework
+T2  - Journal of Information Technology
+PY  - 2020
+VL  - 35
+IS  - 1
+DO  - 10.1177/0268396219896811
+ER  - 
 ```

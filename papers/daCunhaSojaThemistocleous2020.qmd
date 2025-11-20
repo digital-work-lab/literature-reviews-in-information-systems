@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{daCunhaSojaThemistocleous2020,
@@ -24,4 +24,18 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/10}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - da Cunha, Paulo Rupino
+AU  - Soja, Piotr
+AU  - Themistocleous, Marinos
+TI  - Blockchain for Development - Preliminary Insights from a Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/10
+ER  - 
 ```

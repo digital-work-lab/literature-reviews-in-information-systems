@@ -14,7 +14,7 @@ cited_by: 126
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{ChanCheungLee2021,
@@ -27,4 +27,21 @@ Citation:
   number     = {2},
   url        = {https://www.sciencedirect.com/science/article/pii/S0378720620303499}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Chan, Tommy K. H.
+AU  - Cheung, Christy M. K.
+AU  - Lee, Zach W. Y.
+TI  - Cyberbullying on social networking sites - A literature review and future research directions
+T2  - Information & Management
+PY  - 2021
+VL  - 58
+IS  - 2
+DO  - 10.1016/J.IM.2020.103411
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720620303499
+ER  - 
 ```

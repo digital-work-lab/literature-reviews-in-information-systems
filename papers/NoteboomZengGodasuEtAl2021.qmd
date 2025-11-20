@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{NoteboomZengGodasuEtAl2021,
@@ -25,4 +25,19 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/31}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Noteboom, Cherie Bakker
+AU  - Zeng, David
+AU  - Godasu, Rajesh
+AU  - Sutrave, Kruttika
+TI  - Applications of Deep Learning Augmented Systems for Covid-19 Predictions- A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/31
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 347
 outlet: "Information Systems Research"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Kohli2003,
@@ -27,4 +27,21 @@ Citation:
   pages      = {127--145},
   abstract   = {Payoffs from information technology (IT) continue to generate interest and debate both among academicians and practitioners. The extant literature cites inadequate sample size, lack of process orientation, and analysis methods among the reasons some studies have shown mixed results in establishing a relationship between IT investment and firm performance. In this paper we examine the structural variables that affect IT payoff through a meta analysis of 66 firm-level empirical studies between 1990 and 2000. Employing logistic regression and discriminant analyses, we present statistical evidence of the characteristics that discriminate between IT payoff studies that observed a positive effect and those that did not. In addition, we conduct ordinary least squares (OLS) regression on a continuous measure of IT payoff to examine the influence of structural variables on the result of IT payoff studies. The results indicate that the sample size, data source (firm-level or secondary), and industry in which the study is conducted influence the likelihood of the study finding greater improvements on firm performance. The choice of the dependent variable(s) also appears to influence the outcome (although we did not find support for process-oriented measurement), the type of statistical analysis conducted, and whether the study adopted a cross-sectional or longitudinal design. Finally, we present implications of the findings and recommendations for future research.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Kohli, Rajiv
+AU  - Devaraj, Sarv
+TI  - Measuring Information Technology Payoff: A Meta-Analysis of Structural Variables in Firm-Level Empirical Research
+T2  - Information Systems Research
+PY  - 2003
+VL  - 14
+IS  - 2
+SP  - 127
+EP  - 145
+DO  - 10.1287/ISRE.14.2.127.16019
+ER  - 
 ```

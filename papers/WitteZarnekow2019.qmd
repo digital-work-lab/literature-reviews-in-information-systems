@@ -13,7 +13,7 @@ cited_by: 5
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{WitteZarnekow2019,
@@ -24,4 +24,18 @@ Citation:
   year       = {2019},
   url        = {http://hdl.handle.net/10125/59821}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Witte, Anne-Katrin
+AU  - Zarnekow, Rüdiger
+TI  - Transforming Personal Healthcare through Technology - A Systematic Literature Review of Wearable Sensors for Medical Application
+T2  - Hawaii International Conference on System Sciences
+PY  - 2019
+DO  - 10.24251/HICSS.2019.466
+UR  - http://hdl.handle.net/10125/59821
+ER  - 
 ```

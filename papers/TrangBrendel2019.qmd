@@ -13,7 +13,7 @@ cited_by: 70
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{TrangBrendel2019,
@@ -27,4 +27,22 @@ Citation:
   pages      = {1265--1284},
   url        = {https://link.springer.com/article/10.1007/s10796-019-09956-4}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Trang, Simon
+AU  - Brendel, Benedikt
+TI  - A Meta-Analysis of Deterrence Theory in Information Security Policy Compliance Research
+T2  - Information Systems Frontiers
+PY  - 2019
+VL  - 21
+IS  - 6
+SP  - 1265
+EP  - 1284
+DO  - 10.1007/S10796-019-09956-4
+UR  - https://link.springer.com/article/10.1007/s10796-019-09956-4
+ER  - 
 ```

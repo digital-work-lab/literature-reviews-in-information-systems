@@ -15,7 +15,7 @@ cited_by: 134
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{BlutChongTsignaEtAl2022,
@@ -33,4 +33,24 @@ Citation:
   abstract   = {There are both formal and informal cries that UTAUT and, by association, the stream of research on technology adoption has reached its limit, with little or no opportunities for new knowledge creation. Such a conclusion is ironic because the theory has not been sufficiently and suitably replicated. It is possible that misspecifications in the various replications, applications, and extensions have led to the incorrect conclusion that UTAUT is more robust than it really is, leaving limited opportunities for future work. Although work on UTAUT has included important variables, predictors, and moderators, absent a faithful use of the original specification, it is impossible to assess the true nature of the effects of the original and additional variables. The present meta-analysis uses 25,619 effect sizes reported by 737,112 users in 1,935 independent samples to address this issue. Consequently, we develop a clear current state-of-the-art and revised UTAUT that extends the original theory with new endogenous mechanisms from different, other theories (i.e., technology compatibility, user education, personal innovativeness, and costs of technology) and new moderating mechanisms to examine the generalizability of UTAUT in different contexts (e.g., technology type and national culture). Based on this revised UTAUT, we present a research agenda that can guide future research on the topic of technology adoption in general and UTAUT in particular.},
   dblp_key   = {https://dblp.org/rec/journals/jais/BlutCTV22}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Blut, Markus
+AU  - Chong, Alain Yee Loong
+AU  - Tsigna, Zayyad
+AU  - Venkatesh, Viswanath
+TI  - Meta-Analysis of the Unified Theory of Acceptance and Use of Technology (UTAUT): Challenging its Validity and Charting a Research Agenda in the Red Ocean
+T2  - Journal of the Association for Information Systems
+PY  - 2022
+VL  - 23
+IS  - 1
+SP  - 13
+EP  - 95
+DO  - 10.17705/1JAIS.00719
+UR  - https://aisel.aisnet.org/jais/vol23/iss1/10/
+ER  - 
 ```

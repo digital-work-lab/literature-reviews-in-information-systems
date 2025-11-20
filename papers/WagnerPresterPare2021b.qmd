@@ -14,7 +14,7 @@ cited_by: 38
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{WagnerPresterPare2021b,
@@ -27,4 +27,21 @@ Citation:
   number     = {4},
   pages      = {101694}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wagner, Gerit
+AU  - Prester, Julian
+AU  - Paré, Guy
+TI  - Exploring the boundaries and processes of digital platforms for knowledge work: A review of information systems research
+T2  - The Journal of Strategic Information Systems
+PY  - 2021
+VL  - 30
+IS  - 4
+SP  - 101694
+DO  - 10.1016/J.JSIS.2021.101694
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 135
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Wu2013a,
@@ -26,4 +26,21 @@ Citation:
   number     = {3},
   pages      = {153--191}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wu, Jiming
+AU  - Lu, Xinjian
+TI  - Effects of Extrinsic and Intrinsic Motivators on Using Utilitarian, Hedonic, and Dual-Purposed Information Systems: A Meta-Analysis
+T2  - Journal of the Association for Information Systems
+PY  - 2013
+VL  - 14
+IS  - 3
+SP  - 153
+EP  - 191
+DO  - 10.17705/1JAIS.00325
+ER  - 
 ```

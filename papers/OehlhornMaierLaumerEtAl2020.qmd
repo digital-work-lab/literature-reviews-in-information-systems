@@ -15,7 +15,7 @@ cited_by: 42
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{OehlhornMaierLaumerEtAl2020,
@@ -29,4 +29,23 @@ Citation:
   pages      = {101641},
   url        = {https://www.sciencedirect.com/science/article/pii/S0963868720300494}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Oehlhorn, Caroline Ernestine
+AU  - Maier, Christian
+AU  - Laumer, Sven
+AU  - Weitzel, Tim
+TI  - Human resource management and its impact on strategic business-IT alignment - A literature review and avenues for future research
+T2  - The Journal of Strategic Information Systems
+PY  - 2020
+VL  - 29
+IS  - 4
+SP  - 101641
+DO  - 10.1016/J.JSIS.2020.101641
+UR  - https://www.sciencedirect.com/science/article/pii/S0963868720300494
+ER  - 
 ```

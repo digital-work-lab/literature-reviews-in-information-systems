@@ -14,7 +14,7 @@ cited_by: 40
 outlet: "Information Systems Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Ben-Zion2014,
@@ -27,4 +27,22 @@ Citation:
   number     = {4},
   pages      = {296--312}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Ben-Zion, Ronnie
+AU  - Pliskin, Nava
+AU  - Fink, Lior
+TI  - Critical Success Factors for Adoption of Electronic Health Record Systems: Literature Review and Prescriptive Analysis
+T2  - Information Systems Management
+PY  - 2014
+VL  - 31
+IS  - 4
+SP  - 296
+EP  - 312
+DO  - 10.1080/10580530.2014.958024
+ER  - 
 ```

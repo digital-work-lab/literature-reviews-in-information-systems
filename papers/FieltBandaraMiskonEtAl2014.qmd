@@ -15,7 +15,7 @@ cited_by: 9
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{FieltBandaraMiskonEtAl2014,
@@ -27,4 +27,21 @@ Citation:
   volume     = {34},
   url        = {https://aisel.aisnet.org/cais/vol34/iss1/54}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Fielt, Erwin
+AU  - Bandara, Wasana
+AU  - Miskon, Suraya
+AU  - Gable, Guy
+TI  - Exploring Shared Services from an IS Perspective: A Literature Review and Research Agenda
+T2  - Communications of the Association for Information Systems
+PY  - 2014
+VL  - 34
+DO  - 10.17705/1CAIS.03454
+UR  - https://aisel.aisnet.org/cais/vol34/iss1/54
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 120
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Robey2008,
@@ -27,4 +27,22 @@ Citation:
   number     = {9},
   pages      = {497--518}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Robey, Daniel
+AU  - Im, Ghiyoung
+AU  - Wareham, Jonathan
+TI  - Theoretical Foundations of Empirical Research on Interorganizational Systems: Assessing Past Contributions and Guiding Future Directions
+T2  - Journal of the Association for Information Systems
+PY  - 2008
+VL  - 9
+IS  - 9
+SP  - 497
+EP  - 518
+DO  - 10.17705/1JAIS.00171
+ER  - 
 ```

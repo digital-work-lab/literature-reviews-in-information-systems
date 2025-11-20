@@ -97,7 +97,36 @@ plot_ly(
   )
 ```
 
-## Top cited
+## Authors
+
+```{r}
+#| label: most_productive_authors
+#| fig-cap: "Most productive authors (by number of publications in the dataset)"
+
+df_authors <- df %>%
+  dplyr::filter(!is.na(author), author != "") %>%
+  tidyr::separate_rows(author, sep = " and ") %>%  # split "A and B" into separate rows
+  dplyr::mutate(author = stringr::str_trim(author)) %>%
+  dplyr::count(author, sort = TRUE) %>%
+  dplyr::slice_head(n = 20) %>%
+  dplyr::mutate(author = stats::reorder(author, n))
+
+plot_ly(
+  data = df_authors,
+  x = ~n,
+  y = ~author,
+  type = "bar",
+  orientation = "h"
+) %>%
+  layout(
+    xaxis = list(title = "Number of Publications"),
+    yaxis = list(title = "Author"),
+    margin = list(l = 200)  # more room for author names
+  )
+
+```
+
+## Top cited (data: crossref)
 
 ```{r}
 #| label: top_cited

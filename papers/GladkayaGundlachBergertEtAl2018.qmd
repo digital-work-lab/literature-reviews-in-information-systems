@@ -16,7 +16,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{GladkayaGundlachBergertEtAl2018,
@@ -26,4 +26,20 @@ Citation:
   year       = {2018},
   url        = {https://aisel.aisnet.org/amcis2018/AdoptionDiff/Presentations/16}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Gladkaya, Margarita
+AU  - Gundlach, Jana
+AU  - Bergert, Cora
+AU  - Baumann, Annika
+AU  - Krasnova, Hanna
+TI  - We Need to Talk! Antecedents and Consequences of Children's Smartphone Use - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2018
+UR  - https://aisel.aisnet.org/amcis2018/AdoptionDiff/Presentations/16
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 88
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{SchlacklLinkHoehle2022,
@@ -26,4 +26,20 @@ Citation:
   volume     = {59},
   number     = {4}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Schlackl, Frederic
+AU  - Link, Nico
+AU  - Hoehle, Hartmut
+TI  - Antecedents and consequences of data breaches: A systematic review
+T2  - Information & Management
+PY  - 2022
+VL  - 59
+IS  - 4
+DO  - 10.1016/J.IM.2022.103638
+ER  - 
 ```

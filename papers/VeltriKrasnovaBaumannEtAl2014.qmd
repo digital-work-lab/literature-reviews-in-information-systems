@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{VeltriKrasnovaBaumannEtAl2014,
@@ -25,4 +25,19 @@ Citation:
   year       = {2014},
   url        = {https://aisel.aisnet.org/amcis2014/SocioTechnicalIssues/GeneralPresentations/5}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Veltri, Natasha F.
+AU  - Krasnova, Hanna
+AU  - Baumann, Annika
+AU  - Kalayamthanam, Neena
+TI  - Gender Differences in Online Gaming - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2014
+UR  - https://aisel.aisnet.org/amcis2014/SocioTechnicalIssues/GeneralPresentations/5
+ER  - 
 ```

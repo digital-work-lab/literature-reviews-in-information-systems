@@ -16,7 +16,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HoritaDegrossideAssisEtAl2013,
@@ -26,4 +26,20 @@ Citation:
   year       = {2013},
   url        = {https://aisel.aisnet.org/amcis2013/eGovernment/GeneralPresentations/4}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Horita, Flávio Eduardo Aoki
+AU  - Degrossi, Lívia Castro
+AU  - de Assis, Luiz Fernando Ferreira Gomes
+AU  - Zipf, Alexander
+AU  - de Albuquerque, João Porto
+TI  - The use of Volunteered Geographic Information (VGI) and Crowdsourcing in Disaster Management - a Systematic Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2013
+UR  - https://aisel.aisnet.org/amcis2013/eGovernment/GeneralPresentations/4
+ER  - 
 ```

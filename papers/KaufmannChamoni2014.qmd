@@ -13,7 +13,7 @@ cited_by: 6
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{KaufmannChamoni2014,
@@ -24,4 +24,18 @@ Citation:
   year       = {2014},
   url        = {https://ieeexplore.ieee.org/document/6759067}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Kaufmann, Jens
+AU  - Chamoni, Peter
+TI  - Structuring Collaborative Business Intelligence - A Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2014
+DO  - 10.1109/HICSS.2014.465
+UR  - https://ieeexplore.ieee.org/document/6759067
+ER  - 
 ```

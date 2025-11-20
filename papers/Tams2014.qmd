@@ -14,7 +14,7 @@ cited_by: 79
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Tams2014,
@@ -27,4 +27,22 @@ Citation:
   number     = {4},
   pages      = {284--304}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Tams, Stefan
+AU  - Grover, Varun
+AU  - Thatcher, Jason
+TI  - Modern information technology in an old workforce: Toward a strategic research agenda
+T2  - The Journal of Strategic Information Systems
+PY  - 2014
+VL  - 23
+IS  - 4
+SP  - 284
+EP  - 304
+DO  - 10.1016/J.JSIS.2014.10.001
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{JoyeeDeChattopadhyay2025,
@@ -27,4 +27,21 @@ Citation:
   url        = {https://aisel.aisnet.org/cais/vol56/iss1/13},
   abstract   = {While personalized advertising may increase customers' desire to engage with a firm, privacy concerns over how firms process data for personalization may reduce their engagement and lead to ad avoidance. As marketers increasingly benefit from personalized advertising, the domain of privacy in personalized advertising (PPA) is gaining attention from researchers in both Marketing and Information Systems areas. In this study, we conduct a comprehensive review of extant literature, combining bibliometric analysis and systematic literature review to explore the current state, primary themes, and future prospects of the PPA literature. Our research indicates that PPA research is in its early stages of development. While existing literature has predominantly examined privacy, personalization, trust, advertising, social media, and e-commerce, there has been a growing emphasis on targeted advertising and artificial intelligence in more recent studies. PPA is grounded in theoretical frameworks from privacy like Privacy Calculus Theory and from marketing such as the Persuasion Knowledge Model. Given that customer privacy concerns and trust in a firm can influence ad outcomes negatively, it is essential for researchers to explore scenarios where personalization might prove ineffective. In addition, examining firm strategies regarding personalized ads to mitigate negative ad outcomes is crucial.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Joyee De, Sourya
+AU  - Chattopadhyay, Manojit
+TI  - Privacy in Personalized Advertising: A Comprehensive Review and Future Agenda
+T2  - Communications of the Association for Information Systems
+PY  - 2025
+VL  - 56
+SP  - 305
+EP  - 342
+DO  - 10.17705/1CAIS.05613
+UR  - https://aisel.aisnet.org/cais/vol56/iss1/13
+ER  - 
 ```

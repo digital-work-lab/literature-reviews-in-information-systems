@@ -15,7 +15,7 @@ cited_by: 95
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{LeeCMScheepersLuiEtAl2023,
@@ -28,4 +28,22 @@ Citation:
   number     = {5},
   pages      = {103816}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Lee, Maggie C.M.
+AU  - Scheepers, Helana
+AU  - Lui, Ariel K.H.
+AU  - Ngai, Eric W.T.
+TI  - The implementation of artificial intelligence in organizations: A systematic literature review
+T2  - Information & Management
+PY  - 2023
+VL  - 60
+IS  - 5
+SP  - 103816
+DO  - 10.1016/J.IM.2023.103816
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{BrockeSchmiedel2011,
@@ -23,4 +23,17 @@ Citation:
   year       = {2011},
   url        = {https://aisel.aisnet.org/pacis2011/203}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Brocke, Jan vom
+AU  - Schmiedel, Theresa
+TI  - Towards A Conceptualisation Of BPM-Culture - Results From A Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2011
+UR  - https://aisel.aisnet.org/pacis2011/203
+ER  - 
 ```

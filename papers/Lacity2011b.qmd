@@ -14,7 +14,7 @@ cited_by: 98
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Lacity2011b,
@@ -27,4 +27,22 @@ Citation:
   number     = {2},
   pages      = {139--157}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Lacity, Mary C.
+AU  - Willcocks, Leslie P.
+AU  - Khan, Shaji
+TI  - Beyond Transaction Cost Economics: Towards an endogenous theory of Information Technology Outsourcing
+T2  - The Journal of Strategic Information Systems
+PY  - 2011
+VL  - 20
+IS  - 2
+SP  - 139
+EP  - 157
+DO  - 10.1016/J.JSIS.2011.04.002
+ER  - 
 ```

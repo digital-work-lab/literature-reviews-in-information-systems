@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Amrollahi2014,
@@ -27,4 +27,22 @@ Citation:
   number     = {1},
   pages      = {1439--1467}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Amrollahi, Alireza
+AU  - Ghapanchi, Amir Hossein
+AU  - Talaei-Khoei, Amir
+TI  - Three Decades of Research on Strategic Information System Plan Development
+T2  - Communications of the Association for Information Systems
+PY  - 2014
+VL  - 34
+IS  - 1
+SP  - 1439
+EP  - 1467
+DO  - 10.17705/1CAIS.03484
+ER  - 
 ```

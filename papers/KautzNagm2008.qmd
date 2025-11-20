@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{KautzNagm2008,
@@ -23,4 +23,17 @@ Citation:
   year       = {2008},
   url        = {https://aisel.aisnet.org/pacis2008/66}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Kautz, Karl
+AU  - Nagm, Fouad
+TI  - The Advancement of is Evaluation - a literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2008
+UR  - https://aisel.aisnet.org/pacis2008/66
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{ReinfelderWeishaupl2016,
@@ -23,4 +23,17 @@ Citation:
   year       = {2016},
   url        = {https://aisel.aisnet.org/pacis2016/59}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Reinfelder, Lena
+AU  - Weishäupl, Eva
+TI  - A literature Review on Smartphone Security in Organizations using a New Theoretical Model - the Dynamic Security Success Model
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2016
+UR  - https://aisel.aisnet.org/pacis2016/59
+ER  - 
 ```

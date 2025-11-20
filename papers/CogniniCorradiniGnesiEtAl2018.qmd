@@ -16,7 +16,7 @@ cited_by: 42
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{CogniniCorradiniGnesiEtAl2018,
@@ -30,4 +30,25 @@ Citation:
   pages      = {343--371},
   url        = {https://link.springer.com/article/10.1007/s10796-016-9678-2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Cognini, Riccardo
+AU  - Corradini, Flavio
+AU  - Gnesi, Stefania
+AU  - Polini, Andrea
+AU  - Re, Barbara
+TI  - Business process flexibility - a systematic literature review with a software systems perspective
+T2  - Information Systems Frontiers
+PY  - 2018
+VL  - 20
+IS  - 2
+SP  - 343
+EP  - 371
+DO  - 10.1007/S10796-016-9678-2
+UR  - https://link.springer.com/article/10.1007/s10796-016-9678-2
+ER  - 
 ```

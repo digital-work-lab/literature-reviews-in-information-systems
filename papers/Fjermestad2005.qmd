@@ -13,7 +13,7 @@ cited_by: 40
 outlet: "Journal of Information Technology Case and Application Research"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Fjermestad2005,
@@ -26,4 +26,21 @@ Citation:
   number     = {3},
   pages      = {42--60}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Fjermestad, Jerry
+AU  - Saitta, Jo Ann
+TI  - A Strategic Management Framework for IT Outsourcing: A Review of the Literature and the Development of a Success Factors Model
+T2  - Journal of Information Technology Case and Application Research
+PY  - 2005
+VL  - 7
+IS  - 3
+SP  - 42
+EP  - 60
+DO  - 10.1080/15228053.2005.10856070
+ER  - 
 ```

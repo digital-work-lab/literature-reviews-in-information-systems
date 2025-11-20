@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{InuwaKahOnoniwu2019,
@@ -24,4 +24,18 @@ Citation:
   year       = {2019},
   url        = {https://aisel.aisnet.org/pacis2019/15}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Inuwa, Ibrahim
+AU  - Kah, Muhammadou M. O.
+AU  - Ononiwu, Chidi G.
+TI  - Understanding How the Traditional and Information Technology Anti-Corruption Strategies intertwine to Curb Public Sector Corruption - A Systematic Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2019
+UR  - https://aisel.aisnet.org/pacis2019/15
+ER  - 
 ```

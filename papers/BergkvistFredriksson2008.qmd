@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{BergkvistFredriksson2008,
@@ -23,4 +23,17 @@ Citation:
   year       = {2008},
   url        = {http://aisel.aisnet.org/ecis2008/129}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Bergkvist, Linda
+AU  - Fredriksson, Odd
+TI  - Outsourcing Terms - A Literature Review from an ISD Perspective
+T2  - European Conference on Information Systems
+PY  - 2008
+UR  - http://aisel.aisnet.org/ecis2008/129
+ER  - 
 ```

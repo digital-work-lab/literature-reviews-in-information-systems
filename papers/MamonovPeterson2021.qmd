@@ -13,7 +13,7 @@ cited_by: 28
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{MamonovPeterson2021,
@@ -27,4 +27,21 @@ Citation:
   pages      = {101696},
   url        = {https://www.sciencedirect.com/science/article/pii/S0963868721000433}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Mamonov, Stanislav
+AU  - Peterson, Richard
+TI  - The role of IT in organizational innovation - A systematic literature review
+T2  - The Journal of Strategic Information Systems
+PY  - 2021
+VL  - 30
+IS  - 4
+SP  - 101696
+DO  - 10.1016/J.JSIS.2021.101696
+UR  - https://www.sciencedirect.com/science/article/pii/S0963868721000433
+ER  - 
 ```

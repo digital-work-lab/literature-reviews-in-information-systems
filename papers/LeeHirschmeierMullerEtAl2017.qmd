@@ -15,7 +15,7 @@ cited_by: 8
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LeeHirschmeierMullerEtAl2017,
@@ -26,4 +26,20 @@ Citation:
   year       = {2017},
   url        = {http://hdl.handle.net/10125/41182}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Lee, No-San
+AU  - Hirschmeier, Stefan
+AU  - Müller, Sven
+AU  - Luz, Lars Jürgen
+TI  - Enablers in Crisis Information Management: A Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2017
+DO  - 10.24251/HICSS.2017.033
+UR  - http://hdl.handle.net/10125/41182
+ER  - 
 ```

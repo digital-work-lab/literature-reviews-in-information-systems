@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Gorbacheva2013,
@@ -22,4 +22,16 @@ Citation:
   year       = {2013},
   url        = {https://aisel.aisnet.org/amcis2013/SocialTechnicalIssues/GeneralPresentations/9}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Gorbacheva, Elena
+TI  - Evolution of the Gender Research Agenda in the Senior Scholars Basket of Journals. A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2013
+UR  - https://aisel.aisnet.org/amcis2013/SocialTechnicalIssues/GeneralPresentations/9
+ER  - 
 ```

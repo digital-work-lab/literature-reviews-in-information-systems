@@ -14,7 +14,7 @@ cited_by: 75
 outlet: "Business & Information Systems Engineering"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Hummel2013,
@@ -28,4 +28,22 @@ Citation:
   pages      = {343--355},
   fulltext   = {http://link.springer.com/content/pdf/10.1007/s12599-013-0282-4.pdf}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Hummel, Markus
+AU  - Rosenkranz, Christoph
+AU  - Holten, Roland
+TI  - The Role of Communication in Agile Systems Development
+T2  - Business & Information Systems Engineering
+PY  - 2013
+VL  - 5
+IS  - 5
+SP  - 343
+EP  - 355
+DO  - 10.1007/S12599-013-0282-4
+ER  - 
 ```

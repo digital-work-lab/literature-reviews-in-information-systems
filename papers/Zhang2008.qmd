@@ -13,7 +13,7 @@ cited_by: 26
 outlet: "Journal of Global Information Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Zhang2008,
@@ -27,4 +27,21 @@ Citation:
   pages      = {61--84},
   abstract   = {Globalization has led to the increasing use of organizational teams comprising individuals with diverse cultural backgrounds. Existing research suggests that collaborative software may benefit multicultural teams. However, most prior studies are limited by their focus on U.S. and Western cultures. We explore this issue by comprehensively examining the literature on cultural effects on collaborative software use. This article makes several contributions by providing common nomenclatures and theoretical perspectives that are essential to promoting scientific progress in this area. It focuses mainly on empirical collaborative software studies in which culture is a key conceptual construct. We discuss underlying cultural theories, research methodologies, and findings of major collaborative software studies on the impact of culture. This article provides insights into various issues surrounding this line of research and highlights future research opportunities.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Zhang, Dongsong
+AU  - Lowry, Paul Benjamin
+TI  - Issues, Limitations, and Opportunities in Cross-Cultural Research on Collaborative Software in Information Systems
+T2  - Journal of Global Information Management
+PY  - 2008
+VL  - 16
+IS  - 1
+SP  - 61
+EP  - 84
+DO  - 10.4018/JGIM.2008010103
+ER  - 
 ```

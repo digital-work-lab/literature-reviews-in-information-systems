@@ -14,7 +14,7 @@ cited_by: 6
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{HouyFettkeLoos2015,
@@ -26,4 +26,20 @@ Citation:
   volume     = {37},
   url        = {https://aisel.aisnet.org/cais/vol37/iss1/10}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Houy, Constantin
+AU  - Fettke, Peter
+AU  - Loos, Peter
+TI  - Stylized Facts as an Instrument for Literature Review and Cumulative Information Systems Research
+T2  - Communications of the Association for Information Systems
+PY  - 2015
+VL  - 37
+DO  - 10.17705/1CAIS.03710
+UR  - https://aisel.aisnet.org/cais/vol37/iss1/10
+ER  - 
 ```

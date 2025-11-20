@@ -15,7 +15,7 @@ cited_by: 300
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{PourhabibiOngKamEtAl2020,
@@ -28,4 +28,22 @@ Citation:
   pages      = {113303},
   url        = {https://www.sciencedirect.com/science/article/pii/S0167923620300580}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Pourhabibi, Tahereh
+AU  - Ong, Kok-Leong
+AU  - Kam, Booi
+AU  - Boo, Yee Ling
+TI  - Fraud detection: A systematic literature review of graph-based anomaly detection approaches
+T2  - Decision Support Systems
+PY  - 2020
+VL  - 133
+SP  - 113303
+DO  - 10.1016/J.DSS.2020.113303
+UR  - https://www.sciencedirect.com/science/article/pii/S0167923620300580
+ER  - 
 ```

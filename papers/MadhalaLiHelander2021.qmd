@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{MadhalaLiHelander2021,
@@ -24,4 +24,18 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/pacis2021/49}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Madhala, Prashanth
+AU  - Li, Hongxiu
+AU  - Helander, Nina
+TI  - Understanding the Antecedents and Consequences of Data Analytics Capabilities - A Literature Review in IS field
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/pacis2021/49
+ER  - 
 ```

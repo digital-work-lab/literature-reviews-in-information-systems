@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{AbramovaWagnerKrasnovaEtAl2017,
@@ -25,4 +25,19 @@ Citation:
   year       = {2017},
   url        = {https://aisel.aisnet.org/amcis2017/AdoptionIT/Presentations/30}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Abramova, Olga
+AU  - Wagner, Amina
+AU  - Krasnova, Hanna
+AU  - Buxmann, Peter
+TI  - Understanding Self-Disclosure on Social Networking Sites - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2017
+UR  - https://aisel.aisnet.org/amcis2017/AdoptionIT/Presentations/30
+ER  - 
 ```

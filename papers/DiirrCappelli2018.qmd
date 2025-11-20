@@ -13,7 +13,7 @@ cited_by: 4
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{DiirrCappelli2018,
@@ -24,4 +24,18 @@ Citation:
   year       = {2018},
   url        = {http://hdl.handle.net/10125/49907}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Diirr, Bruna
+AU  - Cappelli, Claudia
+TI  - A Systematic Literature Review to Understand Cross-organizational Relationship Management and Collaboration
+T2  - Hawaii International Conference on System Sciences
+PY  - 2018
+DO  - 10.24251/HICSS.2018.020
+UR  - http://hdl.handle.net/10125/49907
+ER  - 
 ```

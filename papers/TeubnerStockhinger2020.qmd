@@ -13,7 +13,7 @@ cited_by: 78
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{TeubnerStockhinger2020,
@@ -27,4 +27,21 @@ Citation:
   pages      = {101642},
   url        = {https://www.sciencedirect.com/science/article/pii/S0963868720300500}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Teubner, Rolf Alexander
+AU  - Stockhinger, Jan
+TI  - Literature review - Understanding information systems strategy in the digital age
+T2  - The Journal of Strategic Information Systems
+PY  - 2020
+VL  - 29
+IS  - 4
+SP  - 101642
+DO  - 10.1016/J.JSIS.2020.101642
+UR  - https://www.sciencedirect.com/science/article/pii/S0963868720300500
+ER  - 
 ```

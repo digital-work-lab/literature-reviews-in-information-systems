@@ -15,7 +15,7 @@ cited_by: 640
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{GuntherMehriziHuysmanEtAl2017,
@@ -29,4 +29,24 @@ Citation:
   pages      = {191--209},
   url        = {https://www.sciencedirect.com/science/article/pii/S0963868717302615}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Günther, Wendy Arianne
+AU  - Rezazade Mehrizi, Mohammad H.
+AU  - Huysman, Marleen
+AU  - Feldberg, Frans
+TI  - Debating big data - A literature review on realizing value from big data
+T2  - The Journal of Strategic Information Systems
+PY  - 2017
+VL  - 26
+IS  - 3
+SP  - 191
+EP  - 209
+DO  - 10.1016/J.JSIS.2017.07.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0963868717302615
+ER  - 
 ```

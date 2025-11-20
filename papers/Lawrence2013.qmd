@@ -12,7 +12,7 @@ cited_by: 5
 outlet: "Journal of Global Information Technology Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Lawrence2013,
@@ -25,4 +25,20 @@ Citation:
   number     = {3},
   pages      = {31--52}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Lawrence, Carl
+TI  - A Holistic Narrative of Culture's Mediation of Information Systems Innovation: A Qualitative Meta-Synthesis
+T2  - Journal of Global Information Technology Management
+PY  - 2013
+VL  - 16
+IS  - 3
+SP  - 31
+EP  - 52
+DO  - 10.1080/1097198X.2013.10845641
+ER  - 
 ```

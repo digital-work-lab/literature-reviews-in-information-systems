@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{PrinzRentropHuber2021,
@@ -24,4 +24,18 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Prinz, Niculin
+AU  - Rentrop, Christopher
+AU  - Huber, Melanie
+TI  - Low-Code Development Platforms - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/2
+ER  - 
 ```

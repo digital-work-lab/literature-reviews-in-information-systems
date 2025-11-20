@@ -13,7 +13,7 @@ cited_by: 368
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Zhao2014a,
@@ -27,4 +27,21 @@ Citation:
   pages      = {417--434},
   fulltext   = {http://link.springer.com/content/pdf/10.1007/s10796-012-9350-4.pdf}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Zhao, Yuxiang
+AU  - Zhu, Qinghua
+TI  - Evaluation on crowdsourcing research: Current status and future direction
+T2  - Information Systems Frontiers
+PY  - 2014
+VL  - 16
+IS  - 3
+SP  - 417
+EP  - 434
+DO  - 10.1007/S10796-012-9350-4
+ER  - 
 ```

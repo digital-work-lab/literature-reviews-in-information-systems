@@ -14,7 +14,7 @@ cited_by: 80
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{MuhammadDeyWeerakkody2018,
@@ -28,4 +28,23 @@ Citation:
   pages      = {559--576},
   url        = {https://link.springer.com/article/10.1007/s10796-017-9802-y}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Muhammad, Syed Sardar
+AU  - Dey, Bidit Lal
+AU  - Weerakkody, Vishanth
+TI  - Analysis of Factors that Influence Customers’ Willingness to Leave Big Data Digital Footprints on Social Media: A Systematic Review of Literature
+T2  - Information Systems Frontiers
+PY  - 2018
+VL  - 20
+IS  - 3
+SP  - 559
+EP  - 576
+DO  - 10.1007/S10796-017-9802-Y
+UR  - https://link.springer.com/article/10.1007/s10796-017-9802-y
+ER  - 
 ```

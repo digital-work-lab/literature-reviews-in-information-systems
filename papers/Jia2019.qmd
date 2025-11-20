@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Jia2019,
@@ -22,4 +22,16 @@ Citation:
   year       = {2019},
   url        = {https://aisel.aisnet.org/pacis2019/228}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Jia, Shizhen
+TI  - Literature Review of YouTube in Teaching Activities
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2019
+UR  - https://aisel.aisnet.org/pacis2019/228
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 9
 outlet: "Information Systems Frontiers"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{SimonaTaupoAntunes2023,
@@ -28,4 +28,23 @@ Citation:
   pages      = {291--302},
   url        = {https://link.springer.com/article/10.1007/s10796-020-10099-0}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Simona, Tenanoia
+AU  - Taupo, Tauisi
+AU  - Antunes, Pedro
+TI  - A Scoping Review on Agency Collaboration in Emergency Management Based on the 3C Model
+T2  - Information Systems Frontiers
+PY  - 2023
+VL  - 25
+IS  - 1
+SP  - 291
+EP  - 302
+DO  - 10.1007/S10796-020-10099-0
+UR  - https://link.springer.com/article/10.1007/s10796-020-10099-0
+ER  - 
 ```

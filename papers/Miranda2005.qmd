@@ -13,7 +13,7 @@ cited_by: 80
 outlet: "Journal of Information Technology"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Miranda2005,
@@ -27,4 +27,21 @@ Citation:
   pages      = {152--169},
   abstract   = {Research on the governance of IS outsourcing has recognized two moments of governance: the formal outsourcing contract (promissory contract) and post-contractual relationship management (psychological contract). While this research has been prescriptive of contract terms that lead to successful outsourcing, there is need for clarity on what specific governance options are available at each moment of governance and how governance choices at one moment affect those at another, and consequently affect outsourcing outcomes. This paper draws on theoretical and empirical work in the areas of governance and contracts to develop a model of IS outsourcing governance, delineating specific moments of governance (MoG). It describes how the IS outsourcing context circumscribes market, hierarchy, and network governance options that are available at the promissory contract and psychological contract moments. Processes and structures that constitute governance choices at each moment of governance are identified. This analysis of outcomes recognizes an inherent tension in interorganizational relationships: firms’ desire for value capture or efficiency vs their desire for value creation or innovation. We explore how choices in formulating the promissory contract affect the psychological contract, and how psychological contract choices impact value capture and creation. The paper concludes by exploring the implications of the MoG model for practitioners and suggesting areas in which further conceptualization and empirical work may be beneficial.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Miranda, Shaila M
+AU  - Kavan, C Bruce
+TI  - Moments of Governance in is Outsourcing: Conceptualizing Effects of Contracts on Value Capture and Creation
+T2  - Journal of Information Technology
+PY  - 2005
+VL  - 20
+IS  - 3
+SP  - 152
+EP  - 169
+DO  - 10.1057/PALGRAVE.JIT.2000045
+ER  - 
 ```

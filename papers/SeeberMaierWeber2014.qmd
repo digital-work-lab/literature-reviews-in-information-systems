@@ -14,7 +14,7 @@ cited_by: 4
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{SeeberMaierWeber2014,
@@ -25,4 +25,19 @@ Citation:
   year       = {2014},
   url        = {https://ieeexplore.ieee.org/document/6758662}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Seeber, Isabella
+AU  - Maier, Ronald
+AU  - Weber, Barbara
+TI  - Opening the Black Box of Team Processes and Emergent States - A Literature Review and Agenda for Research on Team Facilitation
+T2  - Hawaii International Conference on System Sciences
+PY  - 2014
+DO  - 10.1109/HICSS.2014.66
+UR  - https://ieeexplore.ieee.org/document/6758662
+ER  - 
 ```

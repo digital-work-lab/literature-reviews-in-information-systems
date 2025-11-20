@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LevkovskyiBetzwieserLofflerEtAl2020,
@@ -25,4 +25,19 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/amcis2020/org_transformation_is/org_transformation_is/25}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Levkovskyi, Borys
+AU  - Betzwieser, Benedikt
+AU  - Löffler, Alexander
+AU  - Wittges, Holger
+TI  - Why Do Organizations Change? A Literature Review on Drivers and Measures of Success for Digital Transformation
+T2  - Americas Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/amcis2020/org_transformation_is/org_transformation_is/25
+ER  - 
 ```

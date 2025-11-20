@@ -5,14 +5,14 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2001"
-doi: ""
+doi: "https://doi.org/10.2307/3250931"
 journal:
   name: "MIS Quarterly"
 cited_by: 0
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Teeni2001,
@@ -22,6 +22,23 @@ Citation:
   year       = {2001},
   volume     = {25},
   number     = {2},
-  pages      = {251--312}
+  pages      = {251--312},
+  doi        = {10.2307/3250931}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Te'eni, Dov
+TI  - Review: A Cognitive-Affective Model of Organizational Communication for Designing IT
+T2  - MIS Quarterly
+PY  - 2001
+VL  - 25
+IS  - 2
+SP  - 251
+EP  - 312
+DO  - 10.2307/3250931
+ER  - 
 ```

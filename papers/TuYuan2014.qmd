@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{TuYuan2014,
@@ -23,4 +23,17 @@ Citation:
   year       = {2014},
   url        = {https://aisel.aisnet.org/amcis2014/ISSecurity/GeneralPresentations/2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Tu, Zhiling
+AU  - Yuan, Yufei
+TI  - Critical Success Factors Analysis on Effective Information Security Management - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2014
+UR  - https://aisel.aisnet.org/amcis2014/ISSecurity/GeneralPresentations/2
+ER  - 
 ```

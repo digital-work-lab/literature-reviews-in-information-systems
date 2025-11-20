@@ -13,7 +13,7 @@ cited_by: 71
 outlet: "ACM Transactions on Management Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Ullah2013,
@@ -27,4 +27,21 @@ Citation:
   pages      = {1--30},
   abstract   = {Business organizations have become heavily dependent on information technology (IT) services. The process of alignment is defined as the mutual synchronization of business goals and IT services. However, achieving mature alignment between business and IT is difficult due to the rapid changes in the business and IT environments. This article provides a systematic review of studies on the alignment of business and IT. The research articles reviewed are based on topics of alignment, the definition of alignment, history, alignment challenges, phases of alignment, alignment measurement approaches, the importance of alignment in business industries, how software engineering helps in better alignment, and the role of the business environment in aligning business with IT. It aims to present a thorough understanding of business-IT alignment and to provide a list of future research directions regarding alignment. To perform the systematic review, we used the guidelines developed by Kitchenham for reviewing the available research papers relevant to our topic.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Ullah, Azmat
+AU  - Lai, Richard
+TI  - A Systematic Review of Business and Information Technology Alignment
+T2  - ACM Transactions on Management Information Systems
+PY  - 2013
+VL  - 4
+IS  - 1
+SP  - 1
+EP  - 30
+DO  - 10.1145/2445560.2445564
+ER  - 
 ```

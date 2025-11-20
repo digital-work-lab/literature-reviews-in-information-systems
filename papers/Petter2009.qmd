@@ -13,7 +13,7 @@ cited_by: 419
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Petter2009,
@@ -26,4 +26,21 @@ Citation:
   number     = {3},
   pages      = {159--166}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Petter, Stacie
+AU  - McLean, Ephraim R.
+TI  - A meta-analytic assessment of the DeLone and McLean IS success model: An examination of IS success at the individual level
+T2  - Information & Management
+PY  - 2009
+VL  - 46
+IS  - 3
+SP  - 159
+EP  - 166
+DO  - 10.1016/J.IM.2008.12.006
+ER  - 
 ```

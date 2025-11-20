@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{MarquesGraeml2017,
@@ -23,4 +23,17 @@ Citation:
   year       = {2017},
   url        = {https://aisel.aisnet.org/amcis2017/SocialTechincal/Presentations/8}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Marques, Valmir Luiz
+AU  - Graeml, Alexandre Reis
+TI  - Collective Intelligence and the Mapping of Accessible Ways in the City - a Systematic Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2017
+UR  - https://aisel.aisnet.org/amcis2017/SocialTechincal/Presentations/8
+ER  - 
 ```

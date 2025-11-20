@@ -7,14 +7,14 @@ author:
 topic: ""
 categories: ['theoretical-review']
 date: "2008"
-doi: ""
+doi: "https://doi.org/10.17705/1JAIS.00160"
 journal:
   name: "Journal of the Association for Information Systems"
 cited_by: 0
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Briggs2008,
@@ -24,6 +24,25 @@ Citation:
   year       = {2008},
   volume     = {9},
   number     = {5},
-  pages      = {267--293}
+  pages      = {267--293},
+  doi        = {10.17705/1JAIS.00160}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Briggs, Robert O.
+AU  - Reinig, Bruce A.
+AU  - de Vreede, Gert-Jan
+TI  - The Yield Shift Theory of Satisfaction and Its Application to the IS/IT Domain
+T2  - Journal of the Association for Information Systems
+PY  - 2008
+VL  - 9
+IS  - 5
+SP  - 267
+EP  - 293
+DO  - 10.17705/1JAIS.00160
+ER  - 
 ```

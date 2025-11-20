@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "Journal of Information Systems Education"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Chisholm2014,
@@ -24,4 +24,19 @@ Citation:
   number     = {1},
   pages      = {77--87}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Chisholm, June F.
+TI  - Review of the Status of Cyberbullying and Cyberbullying Prevention
+T2  - Journal of Information Systems Education
+PY  - 2014
+VL  - 25
+IS  - 1
+SP  - 77
+EP  - 87
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 1
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{haffner2025directions,
@@ -27,4 +27,21 @@ Citation:
   number     = {2},
   pages      = {101905}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Haffner, Lily
+AU  - Oshri, Ilan
+AU  - Kotlarsky, Julia
+TI  - Directions for future IS research on sports digitalisation: A stakeholder perspective
+T2  - The Journal of Strategic Information Systems
+PY  - 2025
+VL  - 34
+IS  - 2
+SP  - 101905
+DO  - 10.1016/J.JSIS.2025.101905
+ER  - 
 ```

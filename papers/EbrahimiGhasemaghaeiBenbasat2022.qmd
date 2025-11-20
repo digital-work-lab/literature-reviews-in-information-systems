@@ -14,7 +14,7 @@ cited_by: 21
 outlet: "Journal of Management Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{EbrahimiGhasemaghaeiBenbasat2022,
@@ -30,4 +30,23 @@ Citation:
   pages      = {733--764},
   url        = {https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096549}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Ebrahimi, Sepideh
+AU  - Ghasemaghaei, Maryam
+AU  - Benbasat, Izak
+TI  - The Impact of Trust and Recommendation Quality on Adopting Interactive and Non-Interactive Recommendation Agents: A Meta-Analysis
+T2  - Journal of Management Information Systems
+PY  - 2022
+VL  - 39
+IS  - 3
+SP  - 733
+EP  - 764
+DO  - 10.1080/07421222.2022.2096549
+UR  - https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096549
+ER  - 
 ```

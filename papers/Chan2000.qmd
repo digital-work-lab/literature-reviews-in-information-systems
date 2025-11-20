@@ -12,7 +12,7 @@ cited_by: 163
 outlet: "Journal of Management Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Chan2000,
@@ -25,4 +25,20 @@ Citation:
   number     = {4},
   pages      = {225--261}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Chan, Yolande E.
+TI  - IT Value: The Great Divide Between Qualitative and Quantitative and Individual and Organizational Measures
+T2  - Journal of Management Information Systems
+PY  - 2000
+VL  - 16
+IS  - 4
+SP  - 225
+EP  - 261
+DO  - 10.1080/07421222.2000.11518272
+ER  - 
 ```

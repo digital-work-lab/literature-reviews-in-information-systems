@@ -15,7 +15,7 @@ cited_by: 4
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{xu2024time,
@@ -28,4 +28,22 @@ Citation:
   number     = {4},
   pages      = {101863}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Xu, Daisy
+AU  - Indulska, Marta
+AU  - Someh, Ida Asadi
+AU  - Shanks, Graeme
+TI  - Time to reassess data value: The many faces of data in organizations
+T2  - The Journal of Strategic Information Systems
+PY  - 2024
+VL  - 33
+IS  - 4
+SP  - 101863
+DO  - 10.1016/J.JSIS.2024.101863
+ER  - 
 ```

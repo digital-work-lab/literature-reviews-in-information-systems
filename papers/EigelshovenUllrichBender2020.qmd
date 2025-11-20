@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{EigelshovenUllrichBender2020,
@@ -24,4 +24,18 @@ Citation:
   year       = {2020},
   url        = {https://aisel.aisnet.org/ecis2020_rp/202}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Eigelshoven, Felix
+AU  - Ullrich, André
+AU  - Bender, Benedict
+TI  - Public Blockchain - a Systematic literature Review on the Sustainability of consensus Algorithms
+T2  - European Conference on Information Systems
+PY  - 2020
+UR  - https://aisel.aisnet.org/ecis2020_rp/202
+ER  - 
 ```

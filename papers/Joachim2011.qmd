@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Joachim2011,
@@ -22,4 +22,16 @@ Citation:
   year       = {2011},
   url        = {https://aisel.aisnet.org/amcis2011_submissions/339}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Joachim, Nils
+TI  - A Literature Review of Research on Service-Oriented Architectures (SOA) - Characteristics, Adoption Determinants, Governance Mechanisms, and Business Impact
+T2  - Americas Conference on Information Systems
+PY  - 2011
+UR  - https://aisel.aisnet.org/amcis2011_submissions/339
+ER  - 
 ```

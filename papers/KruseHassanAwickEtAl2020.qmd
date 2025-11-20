@@ -15,7 +15,7 @@ cited_by: 6
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{KruseHassanAwickEtAl2020,
@@ -26,4 +26,20 @@ Citation:
   year       = {2020},
   url        = {http://hdl.handle.net/10125/63871}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Kruse, Felix
+AU  - Hassan, Ahmad Pajam
+AU  - Awick, Jan-Philipp
+AU  - Marx Gómez, Jorge
+TI  - A Qualitative Literature Review on Linkage Techniques for Data Integration
+T2  - Hawaii International Conference on System Sciences
+PY  - 2020
+DO  - 10.24251/HICSS.2020.132
+UR  - http://hdl.handle.net/10125/63871
+ER  - 
 ```

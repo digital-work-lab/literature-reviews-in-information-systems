@@ -14,7 +14,7 @@ cited_by: 233
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Aloini2007,
@@ -27,4 +27,22 @@ Citation:
   number     = {6},
   pages      = {547--567}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Aloini, Davide
+AU  - Dulmin, Riccardo
+AU  - Mininno, Valeria
+TI  - Risk management in ERP project introduction: Review of the literature
+T2  - Information & Management
+PY  - 2007
+VL  - 44
+IS  - 6
+SP  - 547
+EP  - 567
+DO  - 10.1016/J.IM.2007.05.004
+ER  - 
 ```

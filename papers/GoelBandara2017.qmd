@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{GoelBandara2017,
@@ -23,4 +23,17 @@ Citation:
   year       = {2017},
   url        = {https://aisel.aisnet.org/pacis2017/170}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Goel, Kanika
+AU  - Bandara, Wasana
+TI  - Measuring the Success of the Business Correspondence (BC) model - A Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2017
+UR  - https://aisel.aisnet.org/pacis2017/170
+ER  - 
 ```

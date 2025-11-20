@@ -16,7 +16,7 @@ cited_by: 33
 outlet: "European Journal of Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Pare2008,
@@ -29,4 +29,24 @@ Citation:
   number     = {4},
   pages      = {403--416}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Paré, Guy
+AU  - Bourdeau, Simon
+AU  - Marsan, Josianne
+AU  - Nach, Hamid
+AU  - Shuraida, Shadi
+TI  - Re-examining the causal structure of information technology impact research
+T2  - European Journal of Information Systems
+PY  - 2008
+VL  - 17
+IS  - 4
+SP  - 403
+EP  - 416
+DO  - 10.1057/EJIS.2008.34
+ER  - 
 ```

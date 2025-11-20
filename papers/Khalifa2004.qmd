@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Journal of Information Technology Theory and Application"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Khalifa2004,
@@ -25,4 +25,20 @@ Citation:
   number     = {4},
   pages      = {37--49}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Khalifa, Mohamed
+AU  - Liu, Vanessa
+TI  - The State of Research on Information Systems Satisfaction
+T2  - Journal of Information Technology Theory and Application
+PY  - 2004
+VL  - 5
+IS  - 4
+SP  - 37
+EP  - 49
+ER  - 
 ```

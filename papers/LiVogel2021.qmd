@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LiVogel2021,
@@ -23,4 +23,17 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/pacis2021/164}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Li, Junhui
+AU  - Vogel, Doug
+TI  - Digital Health Education for Self-Management - A Systematic Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/pacis2021/164
+ER  - 
 ```

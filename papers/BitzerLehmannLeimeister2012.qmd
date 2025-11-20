@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{BitzerLehmannLeimeister2012,
@@ -24,4 +24,18 @@ Citation:
   year       = {2012},
   url        = {https://aisel.aisnet.org/amcis2012/proceedings/ISEducation/30}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Bitzer, Philipp
+AU  - Lehmann, Katja
+AU  - Leimeister, Jan Marco
+TI  - A Literature Review on Indicators for the Measurement of Technology Mediated Learning Productivity - 2000 to 2011
+T2  - Americas Conference on Information Systems
+PY  - 2012
+UR  - https://aisel.aisnet.org/amcis2012/proceedings/ISEducation/30
+ER  - 
 ```

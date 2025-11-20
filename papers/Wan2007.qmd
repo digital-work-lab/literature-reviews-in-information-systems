@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Journal of Information Systems Education"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Wan2007,
@@ -26,4 +26,21 @@ Citation:
   number     = {2},
   pages      = {183--192}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wan, Zeyin
+AU  - Fang, Yulin
+AU  - Neufeld, Derrick J.
+TI  - The Role of Information Technology in Technology-Mediated Learning: A Review of the Past for the Future
+T2  - Journal of Information Systems Education
+PY  - 2007
+VL  - 18
+IS  - 2
+SP  - 183
+EP  - 192
+ER  - 
 ```

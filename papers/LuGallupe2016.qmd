@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{LuGallupe2016,
@@ -23,4 +23,17 @@ Citation:
   year       = {2016},
   url        = {https://aisel.aisnet.org/pacis2016/329}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Lu, Yuan
+AU  - Gallupe, R. Brent
+TI  - Post-Adoption of Social Network sites - a literature Review and a Process Framework
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2016
+UR  - https://aisel.aisnet.org/pacis2016/329
+ER  - 
 ```

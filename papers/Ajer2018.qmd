@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Ajer2018,
@@ -22,4 +22,16 @@ Citation:
   year       = {2018},
   url        = {https://aisel.aisnet.org/pacis2018/280}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Ajer, Anne Kristin
+TI  - Enterprise Architecture in Healthcare and Underlying Institutional Logics - a Systematic Literature Review of IS Research
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2018
+UR  - https://aisel.aisnet.org/pacis2018/280
+ER  - 
 ```

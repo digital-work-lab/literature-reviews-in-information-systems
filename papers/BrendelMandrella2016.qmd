@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{BrendelMandrella2016,
@@ -23,4 +23,17 @@ Citation:
   year       = {2016},
   url        = {https://aisel.aisnet.org/amcis2016/GreenIS/Presentations/7}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Brendel, Alfred Benedikt
+AU  - Mandrella, Markus
+TI  - Information Systems in the Context of Sustainable Mobility Services - A Literature Review and Directions for Future Research
+T2  - Americas Conference on Information Systems
+PY  - 2016
+UR  - https://aisel.aisnet.org/amcis2016/GreenIS/Presentations/7
+ER  - 
 ```

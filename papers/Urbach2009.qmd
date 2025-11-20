@@ -14,7 +14,7 @@ cited_by: 97
 outlet: "Business & Information Systems Engineering"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Urbach2009,
@@ -28,4 +28,22 @@ Citation:
   pages      = {315--325},
   fulltext   = {http://link.springer.com/content/pdf/10.1007/s12599-009-0059-y.pdf}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Urbach, Nils
+AU  - Smolnik, Stefan
+AU  - Riempp, Gerold
+TI  - The State of Research on Information Systems Success
+T2  - Business & Information Systems Engineering
+PY  - 2009
+VL  - 1
+IS  - 4
+SP  - 315
+EP  - 325
+DO  - 10.1007/S12599-009-0059-Y
+ER  - 
 ```

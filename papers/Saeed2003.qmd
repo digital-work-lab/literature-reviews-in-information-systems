@@ -14,7 +14,7 @@ cited_by: 92
 outlet: "Journal of Organizational and End User Computing"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Saeed2003,
@@ -28,4 +28,22 @@ Citation:
   pages      = {1--26},
   abstract   = {The recent failure of a large number of e-tail companies epitomizes the challenges of operating through virtual channels and underscores the need to better understand key drivers of online consumer behavior. The objective of this study is to provide a comprehensive review of the extant information systems (IS) literature related to online consumer behavior and integrate the literature in order to enhance our knowledge of consumer behavior in electronic markets and provide clear directions for future research. This paper introduces a framework that integrates research findings across studies to develop a coherent and comprehensive picture of the online consumer behavior research conducted in the IS field. The integrative framework proposes system quality, information quality, service quality, and vendor and channel characteristics as key factors that impact online consumer behavior, achieving their effects by altering the perceptions of usefulness, ease of use, trust, and shopping enjoyment.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Saeed, Khawaja A.
+AU  - Hwang, Yujong
+AU  - Yi, Mun Y.
+TI  - Toward an Integrative Framework for Online Consumer Behavior Research
+T2  - Journal of Organizational and End User Computing
+PY  - 2003
+VL  - 15
+IS  - 4
+SP  - 1
+EP  - 26
+DO  - 10.4018/JOEUC.2003100101
+ER  - 
 ```

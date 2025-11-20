@@ -13,7 +13,7 @@ cited_by: 683
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Xiao2007,
@@ -26,4 +26,20 @@ Citation:
   number     = {1},
   pages      = {137}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Xiao
+AU  - Benbasat
+TI  - E-Commerce Product Recommendation Agents: Use, Characteristics, and Impact
+T2  - MIS Quarterly
+PY  - 2007
+VL  - 31
+IS  - 1
+SP  - 137
+DO  - 10.2307/25148784
+ER  - 
 ```

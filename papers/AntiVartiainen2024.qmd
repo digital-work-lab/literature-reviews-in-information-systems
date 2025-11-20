@@ -13,7 +13,7 @@ cited_by: 2
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{AntiVartiainen2024,
@@ -27,4 +27,21 @@ Citation:
   url        = {https://aisel.aisnet.org/cais/vol55/iss1/4},
   abstract   = {Insider deviant behavior (IDB) in information security (IS) poses significant threats to public and private organizations. To enhance our understanding of IDB, we conducted a systematic review of existing literature, analyzing theories from the fields of criminology (e.g., Deterrence Theory), sociology (e.g., Social Control Theory), and psychology (e.g., Neutralization Techniques) utilized in IS research on IDB. We identified 46 theories from these disciplines, which we categorized into four main groups: psychological and behavioral, organizational, sociocultural, and decision-making. Additionally, we classified their constructs into eight key factors. Further, ten IDBs frequently studied in IS were identified. Our analysis identified relationships among these theories emphasizing shared concepts that improve our comprehension of IDB. These relationships and their implications for theory and practice are discussed offering insights into the multifaceted nature of insider deviance and the diverse theoretical lenses through which they can be examined. This review not only consolidates existing knowledge but also lays the groundwork for future research in effectively addressing insider deviant behavior.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Anti, Emmanuel
+AU  - Vartiainen, Tero
+TI  - Explanations of Insider Deviant Behavior in Information Security: A Systematic Literature Review
+T2  - Communications of the Association for Information Systems
+PY  - 2024
+VL  - 55
+SP  - 1
+EP  - 36
+DO  - 10.17705/1CAIS.05501
+UR  - https://aisel.aisnet.org/cais/vol55/iss1/4
+ER  - 
 ```

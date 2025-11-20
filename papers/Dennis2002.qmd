@@ -13,7 +13,7 @@ cited_by: 122
 outlet: "Journal of Management Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Dennis2002,
@@ -26,4 +26,21 @@ Citation:
   number     = {3},
   pages      = {235--257}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Dennis, Alan R.
+AU  - Wixom, Barbara H.
+TI  - Investigating the Moderators of the Group Support Systems Use with Meta-Analysis
+T2  - Journal of Management Information Systems
+PY  - 2002
+VL  - 18
+IS  - 3
+SP  - 235
+EP  - 257
+DO  - 10.1080/07421222.2002.11045696
+ER  - 
 ```

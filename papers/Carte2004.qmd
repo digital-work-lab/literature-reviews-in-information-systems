@@ -13,7 +13,7 @@ cited_by: 65
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Carte2004,
@@ -26,4 +26,21 @@ Citation:
   number     = {11},
   pages      = {448--471}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Carte, Traci
+AU  - Chidambaram, Laku
+TI  - A Capabilities-Based Theory of Technology Deployment in Diverse Teams: Leapfrogging the Pitfalls of Diversity and Leveraging Its Potential with Collaborative Technology
+T2  - Journal of the Association for Information Systems
+PY  - 2004
+VL  - 5
+IS  - 11
+SP  - 448
+EP  - 471
+DO  - 10.17705/1JAIS.00060
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{RennerLaumerWeitzel2014,
@@ -24,4 +24,18 @@ Citation:
   year       = {2014},
   url        = {https://aisel.aisnet.org/amcis2014/ISEducation/GeneralPresentations/15}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Renner, Diana
+AU  - Laumer, Sven
+AU  - Weitzel, Tim
+TI  - Effectiveness and Efficiency of Blended Learning - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2014
+UR  - https://aisel.aisnet.org/amcis2014/ISEducation/GeneralPresentations/15
+ER  - 
 ```

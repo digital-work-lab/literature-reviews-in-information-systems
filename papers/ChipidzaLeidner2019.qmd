@@ -13,7 +13,7 @@ cited_by: 83
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{ChipidzaLeidner2019,
@@ -25,4 +25,19 @@ Citation:
   volume     = {28},
   number     = {2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Chipidza, Wallace
+AU  - Leidner, Dorothy E.
+TI  - A review of the ICT-enabled development literature: Towards a power parity theory of ICT4D
+T2  - The Journal of Strategic Information Systems
+PY  - 2019
+VL  - 28
+IS  - 2
+DO  - 10.1016/J.JSIS.2019.01.002
+ER  - 
 ```

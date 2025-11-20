@@ -13,7 +13,7 @@ cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HoislSobernig2016,
@@ -24,4 +24,18 @@ Citation:
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427807}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Hoisl, Bernhard
+AU  - Sobernig, Stefan
+TI  - Open-Source Development Tools for Domain-Specific Modeling - Results from a Systematic Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.620
+UR  - https://ieeexplore.ieee.org/document/7427807
+ER  - 
 ```

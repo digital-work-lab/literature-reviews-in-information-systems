@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{KroezevanZyl2015,
@@ -23,4 +23,17 @@ Citation:
   year       = {2015},
   url        = {https://aisel.aisnet.org/amcis2015/ISPhil/GeneralPresentations/5}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Kroeze, Jan H.
+AU  - van Zyl, Izak
+TI  - The Theme of Hermeneutics in IS - The Need for a Structured Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2015
+UR  - https://aisel.aisnet.org/amcis2015/ISPhil/GeneralPresentations/5
+ER  - 
 ```

@@ -15,7 +15,7 @@ cited_by: 50
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{AbramovaBaumannKrasnovaEtAl2016,
@@ -26,4 +26,20 @@ Citation:
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427665}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Abramova, Olga
+AU  - Baumann, Annika
+AU  - Krasnova, Hanna
+AU  - Buxmann, Peter
+TI  - Gender Differences in Online Dating - What Do We Know So Far? A Systematic Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.481
+UR  - https://ieeexplore.ieee.org/document/7427665
+ER  - 
 ```

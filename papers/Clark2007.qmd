@@ -14,7 +14,7 @@ cited_by: 173
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Clark2007,
@@ -27,4 +27,21 @@ Citation:
   number     = {3},
   pages      = {579}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Clark
+AU  - Jones
+AU  - Armstrong
+TI  - The Dynamic Structure of Management Support Systems: Theory Development, Research Focus, and Direction
+T2  - MIS Quarterly
+PY  - 2007
+VL  - 31
+IS  - 3
+SP  - 579
+DO  - 10.2307/25148808
+ER  - 
 ```

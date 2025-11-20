@@ -14,7 +14,7 @@ cited_by: 59
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{ChongBlutZheng2022,
@@ -26,4 +26,20 @@ Citation:
   volume     = {59},
   number     = {3}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Chong, Alain Yee Loong
+AU  - Blut, Markus
+AU  - Zheng, Shuning
+TI  - Factors influencing the acceptance of healthcare information technologies: A meta-analysis
+T2  - Information & Management
+PY  - 2022
+VL  - 59
+IS  - 3
+DO  - 10.1016/J.IM.2022.103604
+ER  - 
 ```

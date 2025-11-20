@@ -13,7 +13,7 @@ cited_by: 482
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Kohli2008,
@@ -26,4 +26,21 @@ Citation:
   number     = {1},
   pages      = {23--39}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Kohli, Rajiv
+AU  - Grover, Varun
+TI  - Business Value of IT: An Essay on Expanding Research Directions to Keep up with the Times
+T2  - Journal of the Association for Information Systems
+PY  - 2008
+VL  - 9
+IS  - 1
+SP  - 23
+EP  - 39
+DO  - 10.17705/1JAIS.00147
+ER  - 
 ```

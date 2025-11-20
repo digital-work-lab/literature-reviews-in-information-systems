@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{DuanRamanathanCao2019,
@@ -24,4 +24,18 @@ Citation:
   year       = {2019},
   url        = {https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/31}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Duan, Yanqing
+AU  - Ramanathan, Ramakrishnan
+AU  - Cao, Guangming
+TI  - A Systematic Literature Review on the Applications of Big Data Analytics - Identifying Influential Factors and Impact
+T2  - Americas Conference on Information Systems
+PY  - 2019
+UR  - https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/31
+ER  - 
 ```

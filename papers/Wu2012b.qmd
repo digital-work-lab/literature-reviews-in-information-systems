@@ -13,7 +13,7 @@ cited_by: 136
 outlet: "European Journal of Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Wu2012b,
@@ -26,4 +26,21 @@ Citation:
   number     = {6},
   pages      = {680--698}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wu, Jiming
+AU  - Du, Hongwei
+TI  - Toward a better understanding of behavioral intention and system usage constructs
+T2  - European Journal of Information Systems
+PY  - 2012
+VL  - 21
+IS  - 6
+SP  - 680
+EP  - 698
+DO  - 10.1057/EJIS.2012.15
+ER  - 
 ```

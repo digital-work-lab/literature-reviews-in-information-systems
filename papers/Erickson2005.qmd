@@ -14,7 +14,7 @@ cited_by: 181
 outlet: "Journal of Database Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Erickson2005,
@@ -28,4 +28,22 @@ Citation:
   pages      = {88--100},
   abstract   = {While there are many claims for the successful use of extreme programming (XP) and agile modeling (AM), and the proponents can often be vocal in the extreme regarding their supposed benefits, research evidence supporting proponents‘ claims is somewhat lacking. Currently, the only research appearing to investigate the phenomena consists of two prominent streams. A small number of case studies and experience reports that generally promote the success of XP in various development environments, and a well-established stream of research into pair programming has generated results that in part support the idea of XP. Research into AM appears to be even more sparse than that for XP. Case studies, comparative analyses, and experience reports comprise the majority of the research in the area, while very few empirical research efforts have been conducted. This article reviews the state of research in XP and AM, and recommends areas that could benefit from further study. Since nearly all empirical XP research relates to pair programming, a closer look into the unstudied XP core practices would be beneficial, although interaction between related core practice areas could confound such efforts. It might also be possible to group related core XP concepts and study the groups individually. Finally, there are those who claim that XP and AM, or even agility in general, are really nothing more than a repackaging of old concepts. This claim needs to be investigated.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Erickson, John
+AU  - Lyytinen, Kalle
+AU  - Siau, Keng
+TI  - Agile Modeling, Agile Software Development, and Extreme Programming
+T2  - Journal of Database Management
+PY  - 2005
+VL  - 16
+IS  - 4
+SP  - 88
+EP  - 100
+DO  - 10.4018/JDM.2005100105
+ER  - 
 ```

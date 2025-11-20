@@ -16,7 +16,7 @@ cited_by: 88
 outlet: "European Journal of Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{NastjukTrangGrummeckBraamtEtAl2023,
@@ -30,4 +30,25 @@ Citation:
   pages      = {361--382},
   url        = {https://www.tandfonline.com/doi/full/10.1080/0960085X.2022.2154712}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Nastjuk, Ilja
+AU  - Trang, Simon
+AU  - Grummeck-Braamt, Julius-Viktor
+AU  - Adam, Marc T. P.
+AU  - Tarafdar, Monideepa
+TI  - Integrating and Synthesising Technostress Research: A Meta-Analysis on Technostress Creators, Outcomes, and IS Usage Contexts
+T2  - European Journal of Information Systems
+PY  - 2023
+VL  - 33
+IS  - 3
+SP  - 361
+EP  - 382
+DO  - 10.1080/0960085X.2022.2154712
+UR  - https://www.tandfonline.com/doi/full/10.1080/0960085X.2022.2154712
+ER  - 
 ```

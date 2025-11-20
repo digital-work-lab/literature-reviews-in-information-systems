@@ -13,7 +13,7 @@ cited_by: 15
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{BuettnerBuettner2016,
@@ -24,4 +24,18 @@ Citation:
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427460}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Buettner, Ricardo
+AU  - Buettner, Katharina
+TI  - A Systematic Literature Review of Twitter Research from a Socio-Political Revolution Perspective
+T2  - Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.277
+UR  - https://ieeexplore.ieee.org/document/7427460
+ER  - 
 ```

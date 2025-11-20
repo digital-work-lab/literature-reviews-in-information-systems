@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{AbouzahraGuenterTan2015a,
@@ -24,4 +24,18 @@ Citation:
   year       = {2015},
   url        = {http://aisel.aisnet.org/icis2015/proceedings/IShealth/12}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Abouzahra, Mohamed
+AU  - Guenter, Dale
+AU  - Tan, Joseph
+TI  - Integrating Information Systems and Healthcare Research to Understand Physicians' use of Health Information Systems - a Literature Review
+T2  - International Conference on Information Systems
+PY  - 2015
+UR  - http://aisel.aisnet.org/icis2015/proceedings/IShealth/12
+ER  - 
 ```

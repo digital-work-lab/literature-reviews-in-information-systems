@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Journal of Information Technology Theory and Application"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Gwebu2007,
@@ -26,4 +26,21 @@ Citation:
   number     = {1},
   pages      = {43--63}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Gwebu, Kholekile L.
+AU  - Wang, Jing
+AU  - Troutt, Marvin D.
+TI  - A Conceptual Framework for Understanding Trust Building and Maintenance in Virtual Organizations
+T2  - Journal of Information Technology Theory and Application
+PY  - 2007
+VL  - 9
+IS  - 1
+SP  - 43
+EP  - 63
+ER  - 
 ```

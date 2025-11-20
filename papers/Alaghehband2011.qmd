@@ -15,7 +15,7 @@ cited_by: 99
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Alaghehband2011,
@@ -28,4 +28,23 @@ Citation:
   number     = {2},
   pages      = {125--138}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Alaghehband, Forough Karimi
+AU  - Rivard, Suzanne
+AU  - Wu, Shikui
+AU  - Goyette, Sylvain
+TI  - An assessment of the use of Transaction Cost Theory in information technology outsourcing
+T2  - The Journal of Strategic Information Systems
+PY  - 2011
+VL  - 20
+IS  - 2
+SP  - 125
+EP  - 138
+DO  - 10.1016/J.JSIS.2011.04.003
+ER  - 
 ```

@@ -12,7 +12,7 @@ cited_by: 0
 outlet: "Journal of Information Systems Education"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Figl2010,
@@ -24,4 +24,19 @@ Citation:
   number     = {1},
   pages      = {323--337}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Figl, Kathrin
+TI  - A Systematic Review of Developing Team Competencies in Information Systems Education
+T2  - Journal of Information Systems Education
+PY  - 2010
+VL  - 21
+IS  - 1
+SP  - 323
+EP  - 337
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 14
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{MandrellaTrangKolbe2020,
@@ -30,4 +30,23 @@ Citation:
   pages      = {388--427},
   url        = {https://aisel.aisnet.org/jais/vol21/iss2/4}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Mandrella, Markus
+AU  - Trang, Simon
+AU  - Kolbe, Lutz M.
+TI  - Synthesizing and Integrating Research on IT-Based Value Cocreation - A Meta-Analysis
+T2  - Journal of the Association for Information Systems
+PY  - 2020
+VL  - 21
+IS  - 2
+SP  - 388
+EP  - 427
+DO  - 10.17705/1JAIS.00606
+UR  - https://aisel.aisnet.org/jais/vol21/iss2/4
+ER  - 
 ```

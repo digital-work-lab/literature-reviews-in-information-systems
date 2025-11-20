@@ -13,7 +13,7 @@ cited_by: 23
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{DiniSbo2016,
@@ -24,4 +24,18 @@ Citation:
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427522/}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Dini, Alfatika Aunuriella
+AU  - Sæbø, Øystein
+TI  - The Current State of Social Media Research for eParticipation in Developing Countries - A Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.339
+UR  - https://ieeexplore.ieee.org/document/7427522/
+ER  - 
 ```

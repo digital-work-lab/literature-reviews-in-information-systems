@@ -14,7 +14,7 @@ cited_by: 12
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{AasiRusuHan2014,
@@ -25,4 +25,19 @@ Citation:
   year       = {2014},
   url        = {https://ieeexplore.ieee.org/document/6759148}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Aasi, Parisa
+AU  - Rusu, Lazar
+AU  - Han, Shengnan
+TI  - The Influence of Culture on IT Governance - A Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2014
+DO  - 10.1109/HICSS.2014.546
+UR  - https://ieeexplore.ieee.org/document/6759148
+ER  - 
 ```

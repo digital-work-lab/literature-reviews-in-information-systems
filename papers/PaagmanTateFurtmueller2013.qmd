@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{PaagmanTateFurtmueller2013,
@@ -24,4 +24,18 @@ Citation:
   year       = {2013},
   url        = {http://aisel.aisnet.org/ecis2013_cr/100}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Paagman, Arnaud
+AU  - Tate, Mary
+AU  - Furtmueller, Elfi
+TI  - An Integrative Literature Review And Empirical Validation Of Motives For Introducing Shared Services In Government Organizations
+T2  - European Conference on Information Systems
+PY  - 2013
+UR  - http://aisel.aisnet.org/ecis2013_cr/100
+ER  - 
 ```

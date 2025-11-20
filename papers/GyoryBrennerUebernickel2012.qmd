@@ -14,7 +14,7 @@ cited_by: 5
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{GyoryBrennerUebernickel2012,
@@ -25,4 +25,19 @@ Citation:
   year       = {2012},
   url        = {https://ieeexplore.ieee.org/document/6149502}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Györy, Andreas
+AU  - Brenner, Walter
+AU  - Uebernickel, Falk
+TI  - Finding the Right Balanced Scorecard for Business-Driven IT Management - A Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2012
+DO  - 10.1109/HICSS.2012.280
+UR  - https://ieeexplore.ieee.org/document/6149502
+ER  - 
 ```

@@ -15,7 +15,7 @@ cited_by: 198
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{AinVaiaDeLoneEtAl2019,
@@ -28,4 +28,22 @@ Citation:
   pages      = {113113},
   url        = {https://www.sciencedirect.com/science/article/pii/S0167923619301423}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Ain, NoorUl
+AU  - Vaia, Giovanni
+AU  - DeLone, William H.
+AU  - Waheed, Mehwish
+TI  - Two decades of research on business intelligence system adoption, utilization and success – A systematic literature review
+T2  - Decision Support Systems
+PY  - 2019
+VL  - 125
+SP  - 113113
+DO  - 10.1016/J.DSS.2019.113113
+UR  - https://www.sciencedirect.com/science/article/pii/S0167923619301423
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 11
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Cooper2000,
@@ -26,4 +26,21 @@ Citation:
   number     = {3},
   pages      = {189--208}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Cooper, William W.
+AU  - Muench, Michael L.
+TI  - Virtual Organizations: Practice and the Literature
+T2  - Journal of Organizational Computing and Electronic Commerce
+PY  - 2000
+VL  - 10
+IS  - 3
+SP  - 189
+EP  - 208
+DO  - 10.1207/S15327744JOCE1003_03
+ER  - 
 ```

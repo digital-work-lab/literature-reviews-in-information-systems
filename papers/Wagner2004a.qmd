@@ -12,7 +12,7 @@ cited_by: 23
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Wagner2004a,
@@ -25,4 +25,20 @@ Citation:
   number     = {2},
   pages      = {105--128}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wagner, Christian
+TI  - Enterprise strategy management systems: current and next generation
+T2  - The Journal of Strategic Information Systems
+PY  - 2004
+VL  - 13
+IS  - 2
+SP  - 105
+EP  - 128
+DO  - 10.1016/J.JSIS.2004.02.005
+ER  - 
 ```

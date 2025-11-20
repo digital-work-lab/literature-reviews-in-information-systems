@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{TrenzBerger2013,
@@ -23,4 +23,17 @@ Citation:
   year       = {2013},
   url        = {http://aisel.aisnet.org/ecis2013_cr/83}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Trenz, Manuel
+AU  - Berger, Benedikt
+TI  - Analyzing Online Customer Reviews - An Interdisciplinary Literature Review And Research Agenda
+T2  - European Conference on Information Systems
+PY  - 2013
+UR  - http://aisel.aisnet.org/ecis2013_cr/83
+ER  - 
 ```

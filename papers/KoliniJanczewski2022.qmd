@@ -13,7 +13,7 @@ cited_by: 4
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{KoliniJanczewski2022,
@@ -28,4 +28,21 @@ Citation:
   pages      = {86--121},
   url        = {https://aisel.aisnet.org/cais/vol50/iss1/2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Kolini, Farzan
+AU  - Janczewski, Lech
+TI  - Exploring Incentives and Challenges for Cybersecurity Intelligence Sharing (CIS) across Organizations: A Systematic Review
+T2  - Communications of the Association for Information Systems
+PY  - 2022
+VL  - 50
+SP  - 86
+EP  - 121
+DO  - 10.17705/1CAIS.05004
+UR  - https://aisel.aisnet.org/cais/vol50/iss1/2
+ER  - 
 ```

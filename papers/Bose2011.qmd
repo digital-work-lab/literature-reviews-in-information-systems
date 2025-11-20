@@ -13,7 +13,7 @@ cited_by: 242
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Bose2011,
@@ -26,4 +26,21 @@ Citation:
   number     = {1},
   pages      = {38--54}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Bose, Ranjit
+AU  - Luo, Xin
+TI  - Integrative framework for assessing firms’ potential to undertake Green IT initiatives via virtualization – A theoretical perspective
+T2  - The Journal of Strategic Information Systems
+PY  - 2011
+VL  - 20
+IS  - 1
+SP  - 38
+EP  - 54
+DO  - 10.1016/J.JSIS.2011.01.003
+ER  - 
 ```

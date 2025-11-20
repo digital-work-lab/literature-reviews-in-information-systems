@@ -16,7 +16,7 @@ cited_by: 14
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{PalviaDaneshvarKakhkiGhoshalEtAl2015,
@@ -30,4 +30,21 @@ Citation:
   year       = {2015},
   volume     = {37}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Palvia, Prashant
+AU  - Daneshvar Kakhki, Mohammad
+AU  - Ghoshal, Torupallab
+AU  - Uppala, Vishal
+AU  - Wang, Weian
+TI  - Methodological and Topic Trends in Information Systems Research: A Meta-Analysis of IS Journals
+T2  - Communications of the Association for Information Systems
+PY  - 2015
+VL  - 37
+DO  - 10.17705/1CAIS.03730
+ER  - 
 ```

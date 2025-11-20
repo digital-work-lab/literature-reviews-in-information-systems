@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Journal of Computer Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Wu2010a,
@@ -25,4 +25,20 @@ Citation:
   number     = {2},
   pages      = {14--23}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wu, Liang-Chuan
+AU  - Wu, Liang-Hong
+TI  - Service Engineering : An Interdisciplinary Framework
+T2  - Journal of Computer Information Systems
+PY  - 2010
+VL  - 51
+IS  - 2
+SP  - 14
+EP  - 23
+ER  - 
 ```

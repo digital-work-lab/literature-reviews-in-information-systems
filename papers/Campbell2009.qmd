@@ -14,7 +14,7 @@ cited_by: 9
 outlet: "AIS Transactions on Human-Computer Interaction"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Campbell2009,
@@ -27,4 +27,22 @@ Citation:
   number     = {4},
   pages      = {108--132}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Campbell, Damon
+AU  - Wells, John
+AU  - Valacich, Joseph
+TI  - Diagnosing and Managing Online Business-to-Consumer (B2C) Relationships: Toward an eCommerce B2C Relationship Stage Theory
+T2  - AIS Transactions on Human-Computer Interaction
+PY  - 2009
+VL  - 1
+IS  - 4
+SP  - 108
+EP  - 132
+DO  - 10.17705/1THCI.00008
+ER  - 
 ```

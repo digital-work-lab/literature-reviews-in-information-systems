@@ -13,7 +13,7 @@ cited_by: 53
 outlet: "Journal of Global Information Technology Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Gurung2006,
@@ -26,4 +26,21 @@ Citation:
   number     = {1},
   pages      = {24--43}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Gurung, Anil
+AU  - Prater, Edmund
+TI  - A Research Framework for the Impact of Cultural Differences on IT Outsourcing
+T2  - Journal of Global Information Technology Management
+PY  - 2006
+VL  - 9
+IS  - 1
+SP  - 24
+EP  - 43
+DO  - 10.1080/1097198X.2006.10856413
+ER  - 
 ```

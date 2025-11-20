@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{WeistrofferRoztockiSoja2015,
@@ -24,4 +24,18 @@ Citation:
   year       = {2015},
   url        = {https://aisel.aisnet.org/amcis2015/General/GeneralPresentations/6}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Weistroffer, Heinz Roland
+AU  - Roztocki, Narcyz
+AU  - Soja, Piotr
+TI  - Enterprise Systems in Transition Economies - An Initial Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2015
+UR  - https://aisel.aisnet.org/amcis2015/General/GeneralPresentations/6
+ER  - 
 ```

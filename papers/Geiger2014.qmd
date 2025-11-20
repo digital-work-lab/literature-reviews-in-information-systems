@@ -13,7 +13,7 @@ cited_by: 169
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Geiger2014,
@@ -26,4 +26,21 @@ Citation:
   number     = {no issue},
   pages      = {3--16}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Geiger, David
+AU  - Schader, Martin
+TI  - Personalized task recommendation in crowdsourcing information systems — Current state of the art
+T2  - Decision Support Systems
+PY  - 2014
+VL  - 65
+IS  - no issue
+SP  - 3
+EP  - 16
+DO  - 10.1016/J.DSS.2014.05.007
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{SpohrerGholamiHeinzl2012,
@@ -24,4 +24,18 @@ Citation:
   year       = {2012},
   url        = {http://aisel.aisnet.org/ecis2012/223}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Spohrer, Kai
+AU  - Gholami, Behnaz
+AU  - Heinzl, Armin
+TI  - Team Learning in Information Systems Development - a literature Review
+T2  - European Conference on Information Systems
+PY  - 2012
+UR  - http://aisel.aisnet.org/ecis2012/223
+ER  - 
 ```

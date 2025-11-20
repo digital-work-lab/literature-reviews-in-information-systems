@@ -12,7 +12,7 @@ cited_by: 79
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Leidner2010,
@@ -25,4 +25,20 @@ Citation:
   number     = {2},
   pages      = {69--77}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Leidner, Dorothy E.
+TI  - Globalization, culture, and information: Towards global knowledge transparency
+T2  - The Journal of Strategic Information Systems
+PY  - 2010
+VL  - 19
+IS  - 2
+SP  - 69
+EP  - 77
+DO  - 10.1016/J.JSIS.2010.02.006
+ER  - 
 ```

@@ -12,7 +12,7 @@ cited_by: 11
 outlet: "Information Technology & People"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Tams2013,
@@ -26,4 +26,20 @@ Citation:
   pages      = {383--400},
   abstract   = {<jats:title content-type="abstract-heading">Purpose – The purpose of this paper is to propose both short-term and long-term recommendations, with the potential to help cultural information systems (IS) research overcome the definitional and epistemological problems that cause it to remain largely immature. <jats:title content-type="abstract-heading">Design/methodology/approach – The paper uses an extensive literature review to identify the major definitional and epistemological problems inherent in cultural IS research and to propose ways to overcome these problems. <jats:title content-type="abstract-heading">Findings – The paper finds that cultural research in the area of IT and people needs to employ more consistent definitions of the culture construct and that such research could benefit from a diversification of the epistemological approaches employed. <jats:title content-type="abstract-heading">Originality/value – The present paper finds that a more contemporary definition of culture is needed alongside a greater emphasis of the interpretivist approach to move cultural IS research toward maturity. The paper also suggests that anthropology constitutes a promising reference discipline for cultural IS research. In line with recent research in IS and anthropology, future IS research may consider defining culture consistently as shared values among the members of a collective rather than as a nation state since the former definition accounts for the fact that nation states are no longer culturally homogeneous.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Tams, Stefan
+TI  - Moving cultural information systems research toward maturity
+T2  - Information Technology & People
+PY  - 2013
+VL  - 26
+IS  - 4
+SP  - 383
+EP  - 400
+DO  - 10.1108/ITP-11-2012-0138
+ER  - 
 ```

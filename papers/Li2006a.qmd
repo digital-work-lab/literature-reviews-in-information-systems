@@ -13,7 +13,7 @@ cited_by: 17
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Li2006a,
@@ -26,4 +26,21 @@ Citation:
   number     = {9},
   pages      = {593--617}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Li, Yuan
+AU  - Kettinger, William
+TI  - An Evolutionary Information-Processing Theory of Knowledge Creation
+T2  - Journal of the Association for Information Systems
+PY  - 2006
+VL  - 7
+IS  - 9
+SP  - 593
+EP  - 617
+DO  - 10.17705/1JAIS.00101
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 7
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{SamhanCramptonRuane2018,
@@ -27,4 +27,22 @@ Citation:
   pages      = {792--845},
   url        = {https://aisel.aisnet.org/cais/vol43/iss1/41}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Samhan, Bahae
+AU  - Crampton, Tara
+AU  - Ruane, Regina
+TI  - The Trajectory of IT in Healthcare at HICSS - A Literature Review, Analysis, and Future Directions
+T2  - Communications of the Association for Information Systems
+PY  - 2018
+VL  - 43
+SP  - 792
+EP  - 845
+DO  - 10.17705/1CAIS.04341
+UR  - https://aisel.aisnet.org/cais/vol43/iss1/41
+ER  - 
 ```

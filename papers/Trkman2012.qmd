@@ -13,7 +13,7 @@ cited_by: 113
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Trkman2012,
@@ -26,4 +26,21 @@ Citation:
   number     = {1},
   pages      = {1--17}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Trkman, Peter
+AU  - Desouza, Kevin C.
+TI  - Knowledge risks in organizational networks: An exploratory framework
+T2  - The Journal of Strategic Information Systems
+PY  - 2012
+VL  - 21
+IS  - 1
+SP  - 1
+EP  - 17
+DO  - 10.1016/J.JSIS.2011.11.001
+ER  - 
 ```

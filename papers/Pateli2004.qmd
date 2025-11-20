@@ -13,7 +13,7 @@ cited_by: 201
 outlet: "European Journal of Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Pateli2004,
@@ -26,4 +26,21 @@ Citation:
   number     = {4},
   pages      = {302--314}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Pateli, Adamantia G
+AU  - Giaglis, George M
+TI  - A research framework for analysing eBusiness models
+T2  - European Journal of Information Systems
+PY  - 2004
+VL  - 13
+IS  - 4
+SP  - 302
+EP  - 314
+DO  - 10.1057/PALGRAVE.EJIS.3000513
+ER  - 
 ```

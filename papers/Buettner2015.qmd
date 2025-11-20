@@ -12,7 +12,7 @@ cited_by: 50
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{Buettner2015,
@@ -23,4 +23,17 @@ Citation:
   year       = {2015},
   url        = {https://ieeexplore.ieee.org/document/7070369}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Buettner, Ricardo
+TI  - A Systematic Literature Review of Crowdsourcing Research from a Human Resource Management Perspective
+T2  - Hawaii International Conference on System Sciences
+PY  - 2015
+DO  - 10.1109/HICSS.2015.549
+UR  - https://ieeexplore.ieee.org/document/7070369
+ER  - 
 ```

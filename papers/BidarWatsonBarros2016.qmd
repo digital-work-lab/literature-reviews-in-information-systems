@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{BidarWatsonBarros2016,
@@ -24,4 +24,18 @@ Citation:
   year       = {2016},
   url        = {https://aisel.aisnet.org/pacis2016/327}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Bidar, Reihaneh
+AU  - Watson, Jason
+AU  - Barros, Alistair
+TI  - Literature Review to determine Environmental and Cognitive Factors underlying User Value Cocreation behaviour
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2016
+UR  - https://aisel.aisnet.org/pacis2016/327
+ER  - 
 ```

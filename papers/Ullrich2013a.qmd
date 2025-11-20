@@ -12,7 +12,7 @@ cited_by: 30
 outlet: "Business & Information Systems Engineering"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Ullrich2013a,
@@ -26,4 +26,20 @@ Citation:
   pages      = {331--341},
   fulltext   = {http://link.springer.com/content/pdf/10.1007/s12599-013-0286-0.pdf}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Ullrich, Christian
+TI  - Valuation of IT Investments Using Real Options Theory
+T2  - Business & Information Systems Engineering
+PY  - 2013
+VL  - 5
+IS  - 5
+SP  - 331
+EP  - 341
+DO  - 10.1007/S12599-013-0286-0
+ER  - 
 ```

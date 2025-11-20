@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{ZhangHassandoustJohnston2025a,
@@ -28,4 +28,22 @@ Citation:
   url        = {https://aisel.aisnet.org/cais/vol57/iss1/15},
   abstract   = {Privacy concerns related to surveillance technologies are a primary deterrent for consumers hesitant to share their health data with service providers in smart health monitoring systems (SHMSs). These concerns can impede the adoption and operational success of SHMSs, leading to dissatisfaction among both consumers and service providers. Despite the significance of privacy, existing literature on SHMSs tends to offer a somewhat fragmented exploration of this concept due to the complex nature of surveillance and the involvement of multiple stakeholders. To address this gap, this study develops a contextual framework based on a systematic review of 49 peer-reviewed articles, offering valuable insights for scholars seeking to understand the multifaceted privacy concerns in SHMS contexts. The findings emphasize the importance of integrating theoretical perspectives that better capture the intricate dynamics of smart health environments, helping healthcare providers and policymakers identify and address potential privacy issues when developing and implementing surveillance systems for personal health information. Additionally, the study highlights existing knowledge gaps and proposes six research avenues to achieve a deeper understanding of privacy in SHMSs.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Zhang, Jingjing
+AU  - Hassandoust, Farkhondeh
+AU  - Johnston, Allen C.
+TI  - Privacy in Smart Health Monitoring: A Systematic Review and Research Directions
+T2  - Communications of the Association for Information Systems
+PY  - 2025
+VL  - 57
+SP  - 318
+EP  - 364
+DO  - 10.17705/1CAIS.05713
+UR  - https://aisel.aisnet.org/cais/vol57/iss1/15
+ER  - 
 ```

@@ -13,7 +13,7 @@ cited_by: 177
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Wu2009a,
@@ -26,4 +26,20 @@ Citation:
   number     = {2},
   pages      = {419}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wu
+AU  - Lederer
+TI  - A Meta-Analysis of the Role of Environment-Based Voluntariness in Information Technology Acceptance
+T2  - MIS Quarterly
+PY  - 2009
+VL  - 33
+IS  - 2
+SP  - 419
+DO  - 10.2307/20650298
+ER  - 
 ```

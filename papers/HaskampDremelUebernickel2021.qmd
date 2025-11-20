@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{HaskampDremelUebernickel2021,
@@ -24,4 +24,18 @@ Citation:
   year       = {2021},
   url        = {https://aisel.aisnet.org/amcis2021/phil_socio_digital_innov_entren/phil_socio_digital_innov_entren/2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Haskamp, Thomas
+AU  - Dremel, Christian
+AU  - Uebernickel, Falk
+TI  - Towards a Critical Realist Understanding of Digital Transformation - Results of a Structured Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/amcis2021/phil_socio_digital_innov_entren/phil_socio_digital_innov_entren/2
+ER  - 
 ```

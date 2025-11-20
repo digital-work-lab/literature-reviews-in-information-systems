@@ -12,7 +12,7 @@ cited_by: 387
 outlet: "Journal of Information Technology"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Avgerou2008,
@@ -26,4 +26,20 @@ Citation:
   pages      = {133--146},
   abstract   = {In this paper I review the Information Systems (IS) research on how developing countries have attempted to benefit from information and communication technologies (ICTs). First I identify three discourses on IS implementation and associated organizational and social change that coexist in information systems in developing countries (ISDC) research, namely as a process of technology and knowledge transfer and adaptation to local social conditions; as a process of socially embedded action; and as a process of transformative techno-organizational intervention associated with global politics and economics. I then point out the distinctive research agenda that has been formed in ISDC studies, both in the more familiar IS themes - failure, outsourcing, and strategic value of ICT - and also in studies of themes relevant specifically to the context of developing countries, such as the development of community ICT and information resources. Finally, I call the reader's attention to the potentially significant theoretical contributions of ISDC research for understanding IS innovation in relation to social context and in relation to socio-economic development theories and policies.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Avgerou, Chrisanthi
+TI  - Information Systems in Developing Countries: A Critical Research Review
+T2  - Journal of Information Technology
+PY  - 2008
+VL  - 23
+IS  - 3
+SP  - 133
+EP  - 146
+DO  - 10.1057/PALGRAVE.JIT.2000136
+ER  - 
 ```

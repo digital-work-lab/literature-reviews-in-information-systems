@@ -13,7 +13,7 @@ cited_by: 138
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Chan2009,
@@ -26,4 +26,21 @@ Citation:
   number     = {4},
   pages      = {803--814}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Chan, Frank K.Y.
+AU  - Thong, James Y.L.
+TI  - Acceptance of agile methodologies: A critical review and conceptual framework
+T2  - Decision Support Systems
+PY  - 2009
+VL  - 46
+IS  - 4
+SP  - 803
+EP  - 814
+DO  - 10.1016/J.DSS.2008.11.009
+ER  - 
 ```

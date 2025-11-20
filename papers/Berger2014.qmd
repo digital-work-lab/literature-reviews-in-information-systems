@@ -15,7 +15,7 @@ cited_by: 25
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Berger2014,
@@ -28,4 +28,23 @@ Citation:
   number     = {1},
   pages      = {145--172}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Berger, Katharina
+AU  - Klier, Julia
+AU  - Klier, Mathias
+AU  - Probst, Florian
+TI  - A Review of Information Systems Research on Online Social Networks
+T2  - Communications of the Association for Information Systems
+PY  - 2014
+VL  - 35
+IS  - 1
+SP  - 145
+EP  - 172
+DO  - 10.17705/1CAIS.03508
+ER  - 
 ```

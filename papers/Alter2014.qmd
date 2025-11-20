@@ -12,7 +12,7 @@ cited_by: 118
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Alter2014,
@@ -25,4 +25,20 @@ Citation:
   number     = {1},
   pages      = {1041--1066}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Alter, Steven
+TI  - Theory of Workarounds
+T2  - Communications of the Association for Information Systems
+PY  - 2014
+VL  - 34
+IS  - 1
+SP  - 1041
+EP  - 1066
+DO  - 10.17705/1CAIS.03455
+ER  - 
 ```

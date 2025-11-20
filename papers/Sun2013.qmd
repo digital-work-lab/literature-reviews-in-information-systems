@@ -14,7 +14,7 @@ cited_by: 20
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Sun2013,
@@ -27,4 +27,22 @@ Citation:
   number     = {2},
   pages      = {49--71}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Sun, Yonggiang
+AU  - Lim, Kai
+AU  - Peng, Jerry
+TI  - Solving the Distinctiveness – Blindness Debate: A Unified Model for Understanding Banner Processing
+T2  - Journal of the Association for Information Systems
+PY  - 2013
+VL  - 14
+IS  - 2
+SP  - 49
+EP  - 71
+DO  - 10.17705/1JAIS.00324
+ER  - 
 ```

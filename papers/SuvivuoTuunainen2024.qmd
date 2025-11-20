@@ -13,7 +13,7 @@ cited_by: 1
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{SuvivuoTuunainen2024,
@@ -27,4 +27,21 @@ Citation:
   url        = {https://aisel.aisnet.org/cais/vol55/iss1/6},
   abstract   = {The digitalization of our daily lives has considerably increased the amount of digital (trace) data on people’s behaviors that are available to researchers. However, qualitative methods that require manually perusing each document struggle with the width and breadth of such data. Although quantitative and qualitative big data share many challenges, we identified the practical challenges encountered by researchers, specifically with qualitative big data, and how these challenges were addressed. We reviewed 169 studies that used qualitative big data and identified three main categories of intertwined challenges: locating relevant data, addressing noise in the data, and preserving data richness. We found that the greater the amount of data and the richer they are, the greater the variety of types and sources of noise. While the volume of the data necessitates the use of algorithms, doing so entails the treatment of data in ways that decrease the richness of qualitative data. Furthermore, simultaneously ensuring high richness and veracity might be difficult because the algorithms are probabilistic, thus compelling researchers to balance the desired levels of volume, variety, and veracity. Although the identified solutions cannot completely solve this tripartite balancing, they can still be used to alleviate different aspects of such a challenge.}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Suvivuo, Sampsa
+AU  - Tuunainen, Virpi K.
+TI  - Challenges and Solutions in Qualitative Big Data Research: A Methodological Literature Review
+T2  - Communications of the Association for Information Systems
+PY  - 2024
+VL  - 55
+SP  - 37
+EP  - 76
+DO  - 10.17705/1CAIS.05502
+UR  - https://aisel.aisnet.org/cais/vol55/iss1/6
+ER  - 
 ```

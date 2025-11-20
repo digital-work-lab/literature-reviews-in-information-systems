@@ -14,7 +14,7 @@ cited_by: 76
 outlet: "Decision Support Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Standing2010,
@@ -27,4 +27,22 @@ Citation:
   number     = {1},
   pages      = {41--51}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Standing, Susan
+AU  - Standing, Craig
+AU  - Love, Peter E. D
+TI  - A review of research on e-marketplaces 1997–2008
+T2  - Decision Support Systems
+PY  - 2010
+VL  - 49
+IS  - 1
+SP  - 41
+EP  - 51
+DO  - 10.1016/J.DSS.2009.12.008
+ER  - 
 ```

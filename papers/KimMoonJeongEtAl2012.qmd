@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{KimMoonJeongEtAl2012,
@@ -25,4 +25,19 @@ Citation:
   year       = {2012},
   url        = {https://aisel.aisnet.org/amcis2012/proceedings/SocialIssues/8}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Kim, Nam Jung
+AU  - Moon, Junghoon
+AU  - Jeong, Jaeseok
+AU  - Huang, Minghao
+TI  - Social Exclusion Online - A Literature Review and suggestions for Future Research
+T2  - Americas Conference on Information Systems
+PY  - 2012
+UR  - https://aisel.aisnet.org/amcis2012/proceedings/SocialIssues/8
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 252
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{CramDArcyProudfoot2019,
@@ -30,4 +30,23 @@ Citation:
   pages      = {525--554},
   url        = {https://misq.org/seeing-the-forest-and-the-trees-a-meta-analysis-of-the-antecedents-to-information-security-policy-compliance.html}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Cram, W. Alec
+AU  - D'Arcy, John
+AU  - Proudfoot, Jeffrey G.
+TI  - Seeing the Forest and the Trees - A Meta-Analysis of the Antecedents to Information Security Policy Compliance
+T2  - MIS Quarterly
+PY  - 2019
+VL  - 43
+IS  - 2
+SP  - 525
+EP  - 554
+DO  - 10.25300/MISQ/2019/15117
+UR  - https://misq.org/seeing-the-forest-and-the-trees-a-meta-analysis-of-the-antecedents-to-information-security-policy-compliance.html
+ER  - 
 ```

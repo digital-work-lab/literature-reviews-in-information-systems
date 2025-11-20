@@ -13,7 +13,7 @@ cited_by: 1516
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Wade2004,
@@ -26,4 +26,20 @@ Citation:
   number     = {1},
   pages      = {107}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Wade
+AU  - Hulland
+TI  - Review: The Resource-Based View and Information Systems Research: Review, Extension, and Suggestions for Future Research
+T2  - MIS Quarterly
+PY  - 2004
+VL  - 28
+IS  - 1
+SP  - 107
+DO  - 10.2307/25148626
+ER  - 
 ```

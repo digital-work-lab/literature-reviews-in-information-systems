@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{AkkayaWolfKrcmar2010,
@@ -24,4 +24,18 @@ Citation:
   year       = {2010},
   url        = {https://aisel.aisnet.org/amcis2010/297}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Akkaya, Cigdem
+AU  - Wolf, Petra
+AU  - Krcmar, Helmut
+TI  - The Role of Trust in E-Government Adoption - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2010
+UR  - https://aisel.aisnet.org/amcis2010/297
+ER  - 
 ```

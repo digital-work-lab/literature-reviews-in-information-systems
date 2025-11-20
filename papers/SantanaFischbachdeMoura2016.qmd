@@ -14,7 +14,7 @@ cited_by: 15
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{SantanaFischbachdeMoura2016,
@@ -25,4 +25,19 @@ Citation:
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427753/}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Santana, Alixandre
+AU  - Fischbach, Kai
+AU  - de Moura, Hermano P.
+TI  - Enterprise Architecture Analysis and Network Thinking - A Literature Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.567
+UR  - https://ieeexplore.ieee.org/document/7427753/
+ER  - 
 ```

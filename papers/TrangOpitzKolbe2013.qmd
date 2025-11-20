@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{TrangOpitzKolbe2013,
@@ -24,4 +24,18 @@ Citation:
   year       = {2013},
   url        = {https://aisel.aisnet.org/amcis2013/GlobalIssues/GeneralPresentations/2}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Trang, Simon Thanh-Nam
+AU  - Opitz, Nicky
+AU  - Kolbe, Lutz M.
+TI  - IT Governance in a Network Context - Literature Review and Agenda for Research
+T2  - Americas Conference on Information Systems
+PY  - 2013
+UR  - https://aisel.aisnet.org/amcis2013/GlobalIssues/GeneralPresentations/2
+ER  - 
 ```

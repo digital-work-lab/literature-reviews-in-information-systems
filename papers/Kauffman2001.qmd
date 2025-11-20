@@ -13,7 +13,7 @@ cited_by: 210
 outlet: "International Journal of Electronic Commerce"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Kauffman2001,
@@ -26,4 +26,21 @@ Citation:
   number     = {4},
   pages      = {5--116}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Kauffman, Robert J.
+AU  - Walden, Eric A.
+TI  - Economics and Electronic Commerce: Survey and Directions for Research
+T2  - International Journal of Electronic Commerce
+PY  - 2001
+VL  - 5
+IS  - 4
+SP  - 5
+EP  - 116
+DO  - 10.1080/10864415.2001.11044222
+ER  - 
 ```

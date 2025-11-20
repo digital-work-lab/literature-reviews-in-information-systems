@@ -13,7 +13,7 @@ cited_by: 109
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Kappos2008,
@@ -26,4 +26,20 @@ Citation:
   number     = {3},
   pages      = {601}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Kappos, Antonio
+AU  - Rivard, Suzanne
+TI  - A Three-Perspective Model of Culture, Information Systems, and Their Development and Use
+T2  - MIS Quarterly
+PY  - 2008
+VL  - 32
+IS  - 3
+SP  - 601
+DO  - 10.2307/25148858
+ER  - 
 ```

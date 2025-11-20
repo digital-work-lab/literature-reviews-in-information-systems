@@ -14,7 +14,7 @@ cited_by: 1
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Bergvall-Kareborn2014,
@@ -27,4 +27,22 @@ Citation:
   number     = {1},
   pages      = {1319--1332}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Bergvall-Kåreborn, Birgitta
+AU  - Howcroft, Debra
+AU  - Ståhlbröst, Anna
+TI  - Disregarding History: Contemporary IS Contexts and Participatory Design
+T2  - Communications of the Association for Information Systems
+PY  - 2014
+VL  - 34
+IS  - 1
+SP  - 1319
+EP  - 1332
+DO  - 10.17705/1CAIS.03468
+ER  - 
 ```

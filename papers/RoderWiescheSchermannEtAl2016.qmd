@@ -15,7 +15,7 @@ cited_by: 12
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{RoderWiescheSchermannEtAl2016,
@@ -26,4 +26,20 @@ Citation:
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427827}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Röder, Nina
+AU  - Wiesche, Manuel
+AU  - Schermann, Michael
+AU  - Krcmar, Helmut
+TI  - Toward an Ontology of Workarounds - A Literature Review on Existing Concepts
+T2  - Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.640
+UR  - https://ieeexplore.ieee.org/document/7427827
+ER  - 
 ```

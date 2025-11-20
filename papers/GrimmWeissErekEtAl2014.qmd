@@ -15,7 +15,7 @@ cited_by: 4
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{GrimmWeissErekEtAl2014,
@@ -26,4 +26,20 @@ Citation:
   year       = {2014},
   url        = {https://ieeexplore.ieee.org/document/6758712/}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Grimm, Daniel
+AU  - Weiss, Daniel
+AU  - Erek, Koray
+AU  - Zarnekow, Rüdiger
+TI  - Product Carbon Footprint and Life Cycle Assessment of ICT -- Literature Review and State of the Art
+T2  - Hawaii International Conference on System Sciences
+PY  - 2014
+DO  - 10.1109/HICSS.2014.116
+UR  - https://ieeexplore.ieee.org/document/6758712/
+ER  - 
 ```

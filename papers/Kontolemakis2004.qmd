@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Journal of Information Technology Theory and Application"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Kontolemakis2004,
@@ -26,4 +26,21 @@ Citation:
   number     = {1},
   pages      = {43--60}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Kontolemakis, George
+AU  - Kanellis, Panagiotis
+AU  - Martakos, Drakoulis
+TI  - Software Agents for Electronic Marketplaces: Current and Future Research Directions
+T2  - Journal of Information Technology Theory and Application
+PY  - 2004
+VL  - 6
+IS  - 1
+SP  - 43
+EP  - 60
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 407
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Shankar2002,
@@ -27,4 +27,22 @@ Citation:
   number     = {3-4},
   pages      = {325--344}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Shankar, Venkatesh
+AU  - Urban, Glen L.
+AU  - Sultan, Fareena
+TI  - Online trust: a stakeholder perspective, concepts, implications, and future directions
+T2  - The Journal of Strategic Information Systems
+PY  - 2002
+VL  - 11
+IS  - 3-4
+SP  - 325
+EP  - 344
+DO  - 10.1016/S0963-8687(02)00022-7
+ER  - 
 ```

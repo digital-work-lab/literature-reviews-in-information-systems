@@ -14,7 +14,7 @@ cited_by: 1328
 outlet: "MIS Quarterly"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Smith2011,
@@ -27,4 +27,21 @@ Citation:
   number     = {4},
   pages      = {989}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Smith
+AU  - Dinev
+AU  - Xu
+TI  - Information Privacy Research: An Interdisciplinary Review
+T2  - MIS Quarterly
+PY  - 2011
+VL  - 35
+IS  - 4
+SP  - 989
+DO  - 10.2307/41409970
+ER  - 
 ```

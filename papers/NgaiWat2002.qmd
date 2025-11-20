@@ -13,7 +13,7 @@ cited_by: 279
 outlet: "Information & Management"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{NgaiWat2002,
@@ -27,4 +27,22 @@ Citation:
   pages      = {415--429},
   url        = {https://www.sciencedirect.com/science/article/pii/S0378720601001070}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Ngai, Eric W. T.
+AU  - Wat, F. K. T.
+TI  - A literature review and classification of electronic commerce research
+T2  - Information & Management
+PY  - 2002
+VL  - 39
+IS  - 5
+SP  - 415
+EP  - 429
+DO  - 10.1016/S0378-7206(01)00107-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720601001070
+ER  - 
 ```

@@ -12,7 +12,7 @@ cited_by: 3
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Hwang2014,
@@ -25,4 +25,20 @@ Citation:
   number     = {1},
   pages      = {19--37}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Hwang, Mark I.
+TI  - Disentangling the Effect of Top Management Support and Training on Systems Implementation Success: A Meta-Analysis
+T2  - Communications of the Association for Information Systems
+PY  - 2014
+VL  - 35
+IS  - 1
+SP  - 19
+EP  - 37
+DO  - 10.17705/1CAIS.03502
+ER  - 
 ```

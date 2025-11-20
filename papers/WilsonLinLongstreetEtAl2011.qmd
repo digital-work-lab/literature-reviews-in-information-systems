@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @inproceedings{WilsonLinLongstreetEtAl2011,
@@ -25,4 +25,19 @@ Citation:
   year       = {2011},
   url        = {https://aisel.aisnet.org/amcis2011_submissions/368}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - CONF
+AU  - Wilson, David W.
+AU  - Lin, Xiaolin
+AU  - Longstreet, Phil
+AU  - Sarker, Saonee
+TI  - Web 2.0 - A Definition, Literature Review, and Directions for Future Research
+T2  - Americas Conference on Information Systems
+PY  - 2011
+UR  - https://aisel.aisnet.org/amcis2011_submissions/368
+ER  - 
 ```

@@ -14,7 +14,7 @@ cited_by: 11
 outlet: "Business & Information Systems Engineering"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Graening2011a,
@@ -28,4 +28,22 @@ Citation:
   pages      = {231--239},
   fulltext   = {http://link.springer.com/content/pdf/10.1007/s12599-011-0169-1.pdf}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Gräning, André
+AU  - Felden, Carsten
+AU  - Piechocki, Maciej
+TI  - Status Quo and Potential of XBRL for Business and Information Systems Engineering
+T2  - Business & Information Systems Engineering
+PY  - 2011
+VL  - 3
+IS  - 4
+SP  - 231
+EP  - 239
+DO  - 10.1007/S12599-011-0169-1
+ER  - 
 ```

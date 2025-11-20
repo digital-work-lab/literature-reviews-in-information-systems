@@ -15,7 +15,7 @@ cited_by: 69
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
 
-Citation:
+Citation (BibTeX):
 
 ```bibtex
 @article{Shin2000,
@@ -28,4 +28,23 @@ Citation:
   number     = {2},
   pages      = {85--101}
 }
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Shin, Bongsik
+AU  - El Sawy, Omar A.
+AU  - Sheng, Olivia R. Liu
+AU  - Higa, Kunihiko
+TI  - Telework: Existing Research and Future Directions
+T2  - Journal of Organizational Computing and Electronic Commerce
+PY  - 2000
+VL  - 10
+IS  - 2
+SP  - 85
+EP  - 101
+DO  - 10.1207/S15327744JOCE1002_2
+ER  - 
 ```
