@@ -10,14 +10,16 @@
 <atom:link href="http://0.0.0.0:4200/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Sat, 01 Jan 2022 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jan 2025 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Security, Privacy and Risks Within Smart Cities: Literature Review and Development of a Smart City Interaction Framework</title>
-  <dc:creator>Ismagilova, Elvira</dc:creator>
-  <dc:creator>Hughes, Laurie</dc:creator>
-  <dc:creator>Rana, Nripendra P.</dc:creator>
-  <dc:creator>Dwivedi, Yogesh K.</dc:creator>
-  <link>http://0.0.0.0:4200/papers/IsmagilovaHughesRanaEtAl2022.html</link>
+  <title>A Multivocal Literature Review on Capturing Value Propositions for Private Organizations in a CBDC Ecosystem</title>
+  <dc:creator>Schaaf, Vincent</dc:creator>
+  <dc:creator>Lautenschlager, Jonathan</dc:creator>
+  <dc:creator>Voucko-Glockner, Hannes</dc:creator>
+  <dc:creator>Plank, Tobias</dc:creator>
+  <dc:creator>Guggenberger, Tobias</dc:creator>
+  <dc:creator>Urbach, Nils</dc:creator>
+  <link>http://0.0.0.0:4200/papers/SchaafLautenschlagerVouckoGlocknerEtAl2025a.html</link>
   <description><![CDATA[ 
 
 
@@ -28,263 +30,103 @@
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
-font-style: inherit;">IsmagilovaHughesRanaEtAl2022</span>,</span>
+font-style: inherit;">SchaafLautenschlagerVouckoGlocknerEtAl2025a</span>,</span>
 <span id="cb1-2">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">doi</span>        = {10.1007/S10796-020-10044-1},</span>
+font-style: inherit;">doi</span>        = {10.17705/1CAIS.05712},</span>
 <span id="cb1-3">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">author</span>     = {Ismagilova, Elvira and Hughes, Laurie and Rana, Nripendra P. and Dwivedi, Yogesh K.},</span>
-<span id="cb1-4">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">journal</span>    = {Information Systems Frontiers},</span>
-<span id="cb1-5">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>      = {Security, Privacy and Risks Within Smart Cities: Literature Review and Development of a Smart City Interaction Framework},</span>
-<span id="cb1-6">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>       = {2022},</span>
-<span id="cb1-7">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">volume</span>     = {24},</span>
-<span id="cb1-8">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">number</span>     = {2},</span>
-<span id="cb1-9">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>      = {393--414},</span>
-<span id="cb1-10">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">url</span>        = {https://link.springer.com/article/10.1007/s10796-020-10044-1},</span>
-<span id="cb1-11">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">abstract</span>   = {Abstract The complex and interdependent nature of smart cities raises significant political, technical, and socioeconomic challenges for designers, integrators and organisations involved in administrating these new entities. An increasing number of studies focus on the security, privacy and risks within smart cities, highlighting the threats relating to information security and challenges for smart city infrastructure in the management and processing of personal data. This study analyses many of these challenges, offers a valuable synthesis of the relevant key literature, and develops a smart city interaction framework. The study is organised around a number of key themes within smart cities research: privacy and security of mobile devices and services; smart city infrastructure, power systems, healthcare, frameworks, algorithms and protocols to improve security and privacy, operational threats for smart cities, use and adoption of smart services by citizens, use of blockchain and use of social media. This comprehensive review provides a useful perspective on many of the key issues and offers key direction for future studies. The findings of this study can provide an informative research framework and reference point for academics and practitioners.}</span>
-<span id="cb1-12">}</span></code></pre></div></div>
-
-
-
- ]]></description>
-  <guid>http://0.0.0.0:4200/papers/IsmagilovaHughesRanaEtAl2022.html</guid>
-  <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Artificial Intelligence and Business Value: a Literature Review</title>
-  <dc:creator>Enholm, Ida Merete</dc:creator>
-  <dc:creator>Papagiannidis, Emmanouil</dc:creator>
-  <dc:creator>Mikalef, Patrick</dc:creator>
-  <dc:creator>Krogstie, John</dc:creator>
-  <link>http://0.0.0.0:4200/papers/EnholmPapagiannidisMikalefEtAl2022.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Citation:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">EnholmPapagiannidisMikalefEtAl2022</span>,</span>
-<span id="cb1-2">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">doi</span>        = {10.1007/S10796-021-10186-W},</span>
-<span id="cb1-3">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>     = {Enholm, Ida Merete and Papagiannidis, Emmanouil and Mikalef, Patrick and Krogstie, John},</span>
-<span id="cb1-4">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">journal</span>    = {Information Systems Frontiers},</span>
-<span id="cb1-5">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>      = {Artificial Intelligence and Business Value: a Literature Review},</span>
-<span id="cb1-6">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>       = {2022},</span>
-<span id="cb1-7">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">volume</span>     = {24},</span>
-<span id="cb1-8">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">number</span>     = {5},</span>
-<span id="cb1-9">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>      = {1709--1734},</span>
-<span id="cb1-10">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">url</span>        = {https://link.springer.com/article/10.1007/s10796-021-10186-w},</span>
-<span id="cb1-11">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">abstract</span>   = {Abstract Artificial Intelligence (AI) are a wide-ranging set of technologies that promise several advantages for organizations in terms off added business value. Over the past few years, organizations are increasingly turning to AI in order to gain business value following a deluge of data and a strong increase in computational capacity. Nevertheless, organizations are still struggling to adopt and leverage AI in their operations. The lack of a coherent understanding of how AI technologies create business value, and what type of business value is expected, therefore necessitates a holistic understanding. This study provides a systematic literature review that attempts to explain how organizations can leverage AI technologies in their operations and elucidate the value-generating mechanisms. Our analysis synthesizes the current literature and highlights: (1) the key enablers and inhibitors of AI adoption and use; (2) the typologies of AI use in the organizational setting; and (3) the first- and second-order effects of AI. The paper concludes with an identification of the gaps in the literature and develops a research agenda that identifies areas that need to be addressed by future studies.}</span>
-<span id="cb1-12">}</span></code></pre></div></div>
-
-
-
- ]]></description>
-  <category>highly-cited</category>
-  <guid>http://0.0.0.0:4200/papers/EnholmPapagiannidisMikalefEtAl2022.html</guid>
-  <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The Research Method we Need or Deserve? A Literature Review of the Design Science Research Landscape</title>
-  <dc:creator>Nagle, Tadhg</dc:creator>
-  <dc:creator>Doyle, Cathal</dc:creator>
-  <dc:creator>Alhassan, Ibrahim Mohammed</dc:creator>
-  <dc:creator>Sammon, David</dc:creator>
-  <link>http://0.0.0.0:4200/papers/NagleDoyleAlhassanEtAl2022.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Citation:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">NagleDoyleAlhassanEtAl2022</span>,</span>
-<span id="cb1-2">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">doi</span>        = {10.17705/1CAIS.05015},</span>
-<span id="cb1-3">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>     = {Nagle, Tadhg and Doyle, Cathal and Alhassan, Ibrahim Mohammed and Sammon, David},</span>
+font-style: inherit;">author</span>     = {Schaaf, Vincent and Lautenschlager, Jonathan and Voucko-Glockner, Hannes and Plank, Tobias and Guggenberger, Tobias and Urbach, Nils},</span>
 <span id="cb1-4">  <span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">journal</span>    = {Communications of the Association for Information Systems},</span>
 <span id="cb1-5">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">title</span>      = {The Research Method we Need or Deserve? A Literature Review of the Design Science Research Landscape},</span>
+font-style: inherit;">title</span>      = {A Multivocal Literature Review on Capturing Value Propositions for Private Organizations in a CBDC Ecosystem},</span>
 <span id="cb1-6">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">year</span>       = {2022},</span>
+font-style: inherit;">year</span>       = {2025},</span>
 <span id="cb1-7">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">volume</span>     = {50},</span>
+font-style: inherit;">volume</span>     = {57},</span>
 <span id="cb1-8">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">pages</span>      = {358--395},</span>
+font-style: inherit;">pages</span>      = {289--317},</span>
 <span id="cb1-9">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">url</span>        = {https://aisel.aisnet.org/cgi/login.cgi?return_to=https%3A%2F%2Faisel.aisnet.org%2Fcgi%2Fcview.cgi%2Fcais%2Fvol50%2Fiss1%2F14&amp;context=https://aisel.aisnet.org}</span>
-<span id="cb1-10">}</span></code></pre></div></div>
-
-
-
- ]]></description>
-  <guid>http://0.0.0.0:4200/papers/NagleDoyleAlhassanEtAl2022.html</guid>
-  <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Artificial Intelligence in Business: A Literature Review and Research Agenda</title>
-  <dc:creator>Nguyen, Quynh N</dc:creator>
-  <dc:creator>Sidorova, Anna</dc:creator>
-  <dc:creator>Brint, G.</dc:creator>
-  <dc:creator>Torres, Russell</dc:creator>
-  <link>http://0.0.0.0:4200/papers/NguyenSidorovaBrintEtAl2022.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Citation:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">NguyenSidorovaBrintEtAl2022</span>,</span>
-<span id="cb1-2">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">doi</span>        = {10.17705/1CAIS.05007},</span>
-<span id="cb1-3">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>     = {Nguyen, Quynh N and Sidorova, Anna and Brint, G. and Torres, Russell},</span>
-<span id="cb1-4">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">journal</span>    = {Communications of the Association for Information Systems},</span>
-<span id="cb1-5">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>      = {Artificial Intelligence in Business: A Literature Review and Research Agenda},</span>
-<span id="cb1-6">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>       = {2022},</span>
-<span id="cb1-7">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">volume</span>     = {50},</span>
-<span id="cb1-8">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>      = {175--207},</span>
-<span id="cb1-9">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">url</span>        = {https://aisel.aisnet.org/cais/vol50/iss1/7}</span>
-<span id="cb1-10">}</span></code></pre></div></div>
-
-
-
- ]]></description>
-  <guid>http://0.0.0.0:4200/papers/NguyenSidorovaBrintEtAl2022.html</guid>
-  <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Systematic Literature Review of E-Learning Capabilities to Enhance Organizational Learning</title>
-  <dc:creator>Giannakos, Michail N.</dc:creator>
-  <dc:creator>Mikalef, Patrick</dc:creator>
-  <dc:creator>Pappas, Ilias O.</dc:creator>
-  <link>http://0.0.0.0:4200/papers/GiannakosMikalefPappas2022.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Citation:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">GiannakosMikalefPappas2022</span>,</span>
-<span id="cb1-2">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">doi</span>        = {10.1007/S10796-020-10097-2},</span>
-<span id="cb1-3">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>     = {Giannakos, Michail N. and Mikalef, Patrick and Pappas, Ilias O.},</span>
-<span id="cb1-4">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">journal</span>    = {Information Systems Frontiers},</span>
-<span id="cb1-5">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>      = {Systematic Literature Review of E-Learning Capabilities to Enhance Organizational Learning},</span>
-<span id="cb1-6">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>       = {2022},</span>
-<span id="cb1-7">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">volume</span>     = {24},</span>
-<span id="cb1-8">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">number</span>     = {2},</span>
-<span id="cb1-9">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>      = {619--635},</span>
+font-style: inherit;">url</span>        = {https://aisel.aisnet.org/cais/vol57/iss1/14},</span>
 <span id="cb1-10">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">url</span>        = {https://link.springer.com/article/10.1007/s10796-020-10097-2},</span>
+font-style: inherit;">abstract</span>   = {Central Bank Digital Currencies (CBDC) are a novel phenomenon gaining widespread attention from academics and practitioners in recent years. CBDCs combine new technology-enabled infrastructure and service innovation from the realm of FinTech and Decentralized Finance with the well-established and highly regulated area of central banking. While current practice and research primarily focus on designing specific CBDC systems or the governmental role, the role of companies and the private sector in the CBDC ecosystem still needs to be explored. Addressing this gap is particularly pertinent given the uncertainty surrounding which value propositions from traditional financial ecosystems and those from Fintech and blockchain-based financial ecosystems might be transferable to the realm of CBDCs. In this regard, the potential emergence of entirely novel value propositions companies could offer uniquely to CBDCs adds another layer of complexity. This paper aims to fill this gap by shedding light on private organizations’ value propositions in CBDC ecosystems. Through a multivocal literature review, we comprehensively gather both academic and practitioner insights. We aggregate value propositions directly stated in the current literature base and verify and complement these findings by mapping the needs of a CBDC ecosystem to value propositions companies might offer to fulfill these needs.}</span>
+<span id="cb1-11">}</span></code></pre></div></div>
+
+
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/SchaafLautenschlagerVouckoGlocknerEtAl2025a.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>IT’s a matter of trust: Literature reviews and analyses of human trust in information technology</title>
+  <dc:creator>Lacity, Mary C</dc:creator>
+  <dc:creator>Schuetz, Sebastian W</dc:creator>
+  <dc:creator>Kuai, Le</dc:creator>
+  <dc:creator>Steelman, Zachary R</dc:creator>
+  <link>http://0.0.0.0:4200/papers/LacitySchuetzKuaiEtAl2025.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">LacitySchuetzKuaiEtAl2025</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>        = {10.1177/02683962231226397},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>     = {Lacity, Mary C and Schuetz, Sebastian W and Kuai, Le and Steelman, Zachary R},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span>    = {Journal of Information Technology},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>      = {IT’s a matter of trust: Literature reviews and analyses of human trust in information technology},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>       = {2025},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span>     = {40},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">number</span>     = {3},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>      = {286--313},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">abstract</span>   = {Trust is one of the most important constructs for understanding the adoption of information technologies (IT). In this paper, we review and analyze two literatures on the construct of human trust in IT artifacts and in the entities that source, operate, and govern IT. The first literature review focuses on defining of the construct of trust across a range of disciplines. Our analysis of this literature identified 13 assumptions about the nature of trust. The assumptions illustrate the complexities of human trust. The second literature review focused on 214 empirical studies of the construct of trust published in the AIS Senior Scholars’ Basket of Eight journals. We analyze this literature to identify IS scholar’s most common assessments of trust from qualitative studies and most common measures of trust from quantitative studies. As a cumulative body of knowledge, IS scholars have deeply examined the multidimensional aspect of trust by examining different types of trust, including affective trust, cognitive trust, institutional trust, instrumental trust, intrinsic trust, knowledge-based trust, relational trust, swift trust, disposition to trust, trusting beliefs, and more. IS scholars have also extensively examined the assumption that trust is dynamic, as evidenced by the many qualitative papers that examined trust as a process. Our review also finds that IS scholars have conducted extensive research examining trust in Web2 technologies, which are characterized by centralized applications and centralized governance. While the IS scholarly community has established a substantial tradition around the construct of trust, there is still interesting work to be done. With recent releases of open generative AI and with the rise of Web3 technologies like blockchains that purport to be “trustless,” the construct of trust in IT needs to be re-examined in these emerging contexts. We also encourage more research on trust in bi-directional relationships, on the limits of transitive trust, and on the construct of distrust.},</span>
 <span id="cb1-11">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">abstract</span>   = {Abstract E-learning systems are receiving ever increasing attention in academia, business and public administration. Major crises, like the pandemic, highlight the tremendous importance of the appropriate development of e-learning systems and its adoption and processes in organizations. Managers and employees who need efficient forms of training and learning flow within organizations do not have to gather in one place at the same time or to travel far away to attend courses. Contemporary affordances of e-learning systems allow users to perform different jobs or tasks for training courses according to their own scheduling, as well as to collaborate and share knowledge and experiences that result in rich learning flows within organizations. The purpose of this article is to provide a systematic review of empirical studies at the intersection of e-learning and organizational learning in order to summarize the current findings and guide future research. Forty-seven peer-reviewed articles were collected from a systematic literature search and analyzed based on a categorization of their main elements. This survey identifies five major directions of the research on the confluence of e-learning and organizational learning during the last decade. Future research should leverage big data produced from the platforms and investigate how the incorporation of advanced learning technologies (e.g., learning analytics, personalized learning) can help increase organizational value.}</span>
+font-style: inherit;">fulltext</span>   = {https://journals.sagepub.com/doi/pdf/10.1177/02683962231226397}</span>
 <span id="cb1-12">}</span></code></pre></div></div>
 
 
 
  ]]></description>
-  <guid>http://0.0.0.0:4200/papers/GiannakosMikalefPappas2022.html</guid>
-  <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+  <guid>http://0.0.0.0:4200/papers/LacitySchuetzKuaiEtAl2025.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Understanding the Antecedents and Consequences of Data Analytics Capabilities - A Literature Review in IS field</title>
-  <dc:creator>Madhala, Prashanth</dc:creator>
-  <dc:creator>Li, Hongxiu</dc:creator>
-  <dc:creator>Helander, Nina</dc:creator>
-  <link>http://0.0.0.0:4200/papers/MadhalaLiHelander2021.html</link>
+  <title>Privacy in Personalized Advertising: A Comprehensive Review and Future Agenda</title>
+  <dc:creator>Joyee De, Sourya</dc:creator>
+  <dc:creator>Chattopadhyay, Manojit</dc:creator>
+  <link>http://0.0.0.0:4200/papers/JoyeeDeChattopadhyay2025.html</link>
   <description><![CDATA[ 
 
 
@@ -293,37 +135,50 @@ font-style: inherit;">abstract</span>   = {Abstract E-learning systems are recei
 <p>Citation:</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
-font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
-font-style: inherit;">MadhalaLiHelander2021</span>,</span>
+font-style: inherit;">JoyeeDeChattopadhyay2025</span>,</span>
 <span id="cb1-2">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">author</span>     = {Madhala, Prashanth and Li, Hongxiu and Helander, Nina},</span>
+font-style: inherit;">doi</span>        = {10.17705/1CAIS.05613},</span>
 <span id="cb1-3">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">booktitle</span>  = {Pacific Asia Conference on Information Systems},</span>
+font-style: inherit;">author</span>     = {Joyee De, Sourya and Chattopadhyay, Manojit},</span>
 <span id="cb1-4">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">title</span>      = {Understanding the Antecedents and Consequences of Data Analytics Capabilities - A Literature Review in IS field},</span>
+font-style: inherit;">journal</span>    = {Communications of the Association for Information Systems},</span>
 <span id="cb1-5">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">year</span>       = {2021},</span>
+font-style: inherit;">title</span>      = {Privacy in Personalized Advertising: A Comprehensive Review and Future Agenda},</span>
 <span id="cb1-6">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">url</span>        = {https://aisel.aisnet.org/pacis2021/49}</span>
-<span id="cb1-7">}</span></code></pre></div></div>
+font-style: inherit;">year</span>       = {2025},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span>     = {56},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>      = {305--342},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span>        = {https://aisel.aisnet.org/cais/vol56/iss1/13},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">abstract</span>   = {While personalized advertising may increase customers' desire to engage with a firm, privacy concerns over how firms process data for personalization may reduce their engagement and lead to ad avoidance. As marketers increasingly benefit from personalized advertising, the domain of privacy in personalized advertising (PPA) is gaining attention from researchers in both Marketing and Information Systems areas. In this study, we conduct a comprehensive review of extant literature, combining bibliometric analysis and systematic literature review to explore the current state, primary themes, and future prospects of the PPA literature. Our research indicates that PPA research is in its early stages of development. While existing literature has predominantly examined privacy, personalization, trust, advertising, social media, and e-commerce, there has been a growing emphasis on targeted advertising and artificial intelligence in more recent studies. PPA is grounded in theoretical frameworks from privacy like Privacy Calculus Theory and from marketing such as the Persuasion Knowledge Model. Given that customer privacy concerns and trust in a firm can influence ad outcomes negatively, it is essential for researchers to explore scenarios where personalization might prove ineffective. In addition, examining firm strategies regarding personalized ads to mitigate negative ad outcomes is crucial.}</span>
+<span id="cb1-11">}</span></code></pre></div></div>
 
 
 
  ]]></description>
-  <guid>http://0.0.0.0:4200/papers/MadhalaLiHelander2021.html</guid>
-  <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+  <guid>http://0.0.0.0:4200/papers/JoyeeDeChattopadhyay2025.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Service Design Methods’ Ability to Personalize Telehealth - A Systematic Literature Review</title>
-  <dc:creator>Aswad, Oday</dc:creator>
-  <dc:creator>Lessard, Lysanne</dc:creator>
-  <link>http://0.0.0.0:4200/papers/AswadLessard2021.html</link>
+  <title>Privacy in Smart Health Monitoring: A Systematic Review and Research Directions</title>
+  <dc:creator>Zhang, Jingjing</dc:creator>
+  <dc:creator>Hassandoust, Farkhondeh</dc:creator>
+  <dc:creator>Johnston, Allen C.</dc:creator>
+  <link>http://0.0.0.0:4200/papers/ZhangHassandoustJohnston2025a.html</link>
   <description><![CDATA[ 
 
 
@@ -332,38 +187,49 @@ font-style: inherit;">url</span>        = {https://aisel.aisnet.org/pacis2021/49
 <p>Citation:</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
-font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
-font-style: inherit;">AswadLessard2021</span>,</span>
+font-style: inherit;">ZhangHassandoustJohnston2025a</span>,</span>
 <span id="cb1-2">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">author</span>     = {Aswad, Oday and Lessard, Lysanne},</span>
+font-style: inherit;">doi</span>        = {10.17705/1CAIS.05713},</span>
 <span id="cb1-3">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">booktitle</span>  = {Americas Conference on Information Systems},</span>
+font-style: inherit;">author</span>     = {Zhang, Jingjing and Hassandoust, Farkhondeh and Johnston, Allen C.},</span>
 <span id="cb1-4">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">title</span>      = {Service Design Methods' Ability to Personalize Telehealth - A Systematic Literature Review},</span>
+font-style: inherit;">journal</span>    = {Communications of the Association for Information Systems},</span>
 <span id="cb1-5">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">year</span>       = {2021},</span>
+font-style: inherit;">title</span>      = {Privacy in Smart Health Monitoring: A Systematic Review and Research Directions},</span>
 <span id="cb1-6">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">url</span>        = {https://aisel.aisnet.org/amcis2021/healthcare_it/sig_health/13}</span>
-<span id="cb1-7">}</span></code></pre></div></div>
+font-style: inherit;">year</span>       = {2025},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span>     = {57},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>      = {318--364},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span>        = {https://aisel.aisnet.org/cais/vol57/iss1/15},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">abstract</span>   = {Privacy concerns related to surveillance technologies are a primary deterrent for consumers hesitant to share their health data with service providers in smart health monitoring systems (SHMSs). These concerns can impede the adoption and operational success of SHMSs, leading to dissatisfaction among both consumers and service providers. Despite the significance of privacy, existing literature on SHMSs tends to offer a somewhat fragmented exploration of this concept due to the complex nature of surveillance and the involvement of multiple stakeholders. To address this gap, this study develops a contextual framework based on a systematic review of 49 peer-reviewed articles, offering valuable insights for scholars seeking to understand the multifaceted privacy concerns in SHMS contexts. The findings emphasize the importance of integrating theoretical perspectives that better capture the intricate dynamics of smart health environments, helping healthcare providers and policymakers identify and address potential privacy issues when developing and implementing surveillance systems for personal health information. Additionally, the study highlights existing knowledge gaps and proposes six research avenues to achieve a deeper understanding of privacy in SHMSs.}</span>
+<span id="cb1-11">}</span></code></pre></div></div>
 
 
 
  ]]></description>
-  <guid>http://0.0.0.0:4200/papers/AswadLessard2021.html</guid>
-  <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+  <guid>http://0.0.0.0:4200/papers/ZhangHassandoustJohnston2025a.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Cryptocurrency Market Manipulation - A Systematic Literature Review</title>
-  <dc:creator>Eigelshoven, Felix</dc:creator>
-  <dc:creator>Ullrich, André</dc:creator>
-  <dc:creator>Parry, Douglas</dc:creator>
-  <link>http://0.0.0.0:4200/papers/EigelshovenUllrichParry2021.html</link>
+  <title>Blockchain in Megaproject Execution – A Systematic Literature Review and an Information Systems Research Agenda</title>
+  <dc:creator>Dey, Shantanu</dc:creator>
+  <dc:creator>Mishra, Rajhans</dc:creator>
+  <link>http://0.0.0.0:4200/papers/DeyMishra2025.html</link>
   <description><![CDATA[ 
 
 
@@ -372,38 +238,51 @@ font-style: inherit;">url</span>        = {https://aisel.aisnet.org/amcis2021/he
 <p>Citation:</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
-font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
-font-style: inherit;">EigelshovenUllrichParry2021</span>,</span>
+font-style: inherit;">DeyMishra2025</span>,</span>
 <span id="cb1-2">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">author</span>     = {Eigelshoven, Felix and Ullrich, André and Parry, Douglas},</span>
+font-style: inherit;">doi</span>        = {10.17705/1CAIS.05632},</span>
 <span id="cb1-3">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">booktitle</span>  = {International Conference on Information Systems},</span>
+font-style: inherit;">author</span>     = {Dey, Shantanu and Mishra, Rajhans},</span>
 <span id="cb1-4">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">title</span>      = {Cryptocurrency Market Manipulation - A Systematic Literature Review},</span>
+font-style: inherit;">journal</span>    = {Communications of the Association for Information Systems},</span>
 <span id="cb1-5">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">year</span>       = {2021},</span>
+font-style: inherit;">title</span>      = {Blockchain in Megaproject Execution – A Systematic Literature Review and an Information Systems Research Agenda},</span>
 <span id="cb1-6">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">url</span>        = {https://aisel.aisnet.org/icis2021/fintech/fintech/1}</span>
-<span id="cb1-7">}</span></code></pre></div></div>
+font-style: inherit;">year</span>       = {2025},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span>     = {56},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>      = {851--885},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span>        = {https://aisel.aisnet.org/cais/vol56/iss1/32},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">abstract</span>   = {Megaprojects are complex and capital-intensive endeavors that result in societal transformation and value creation. Given the tremendous failure costs, the challenges and causes of megaprojects' performance issues draw attention from project management practitioners and the research community. Information systems research explores technology’s role in shaping and transforming business and society. However, technology’s role in addressing megaproject performance is still under-researched, as evidenced by a search in the leading information systems (IS) journals. Among the emerging technologies, blockchain’s applicability in addressing challenges in megaproject performance is relevant for critical infrastructure development projects. The blockchain can potentially deliver cures to address megaproject challenges and their causes by synthesizing and analyzing evidence from literature across multiple contexts. We undertake three systematic literature reviews across ninety-eight prominent project management, IS, and construction project journals to understand megaproject problems and blockchain’s role in addressing similar problems in supply chain and procurement in projects. We propose a conceptual framework that describes how autonomy, agency, and enactment may shape blockchain’s role as an intervention in megaprojects to help researchers, policy-makers, and practitioners build a blockchain platform for megaproject supply chains. We also provide a research agenda concerning blockchain in the megaproject supply chain using the TCCM framework.}</span>
+<span id="cb1-11">}</span></code></pre></div></div>
 
 
 
  ]]></description>
-  <guid>http://0.0.0.0:4200/papers/EigelshovenUllrichParry2021.html</guid>
-  <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+  <guid>http://0.0.0.0:4200/papers/DeyMishra2025.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Resilience in Information Systems Research - A Literature Review from a Socio-Technical and Temporal Perspective</title>
-  <dc:creator>Weber, Manuel</dc:creator>
-  <dc:creator>Hacker, Janine</dc:creator>
-  <dc:creator>vom Brocke, Jan</dc:creator>
-  <link>http://0.0.0.0:4200/papers/WeberHackervomBrocke2021.html</link>
+  <title>A qualitative systematic review of trust in technology</title>
+  <dc:creator>Schuetz, Sebastian</dc:creator>
+  <dc:creator>Kuai, Le</dc:creator>
+  <dc:creator>Lacity, Mary C.</dc:creator>
+  <dc:creator>Steelman, Zach</dc:creator>
+  <link>http://0.0.0.0:4200/papers/SchuetzKuaiLacityEtAl2025.html</link>
   <description><![CDATA[ 
 
 
@@ -412,38 +291,53 @@ font-style: inherit;">url</span>        = {https://aisel.aisnet.org/icis2021/fin
 <p>Citation:</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
-font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
-font-style: inherit;">WeberHackervomBrocke2021</span>,</span>
+font-style: inherit;">SchuetzKuaiLacityEtAl2025</span>,</span>
 <span id="cb1-2">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">author</span>     = {Weber, Manuel and Hacker, Janine and vom Brocke, Jan},</span>
+font-style: inherit;">doi</span>        = {10.1177/02683962241254392},</span>
 <span id="cb1-3">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">booktitle</span>  = {International Conference on Information Systems},</span>
+font-style: inherit;">author</span>     = {Schuetz, Sebastian and Kuai, Le and Lacity, Mary C. and Steelman, Zach},</span>
 <span id="cb1-4">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">title</span>      = {Resilience in Information Systems Research - A Literature Review from a Socio-Technical and Temporal Perspective},</span>
+font-style: inherit;">journal</span>    = {Journal of Information Technology},</span>
 <span id="cb1-5">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">year</span>       = {2021},</span>
+font-style: inherit;">title</span>      = {A qualitative systematic review of trust in technology},</span>
 <span id="cb1-6">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">url</span>        = {https://aisel.aisnet.org/icis2021/is_resilience/is_resilience/3}</span>
-<span id="cb1-7">}</span></code></pre></div></div>
+font-style: inherit;">year</span>       = {2025},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span>     = {40},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">number</span>     = {1},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>      = {55--76},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">abstract</span>   = {Although many information systems (IS) scholars have researched the antecedents and consequences of trust in technology, the sheer amount of work published, authors’ use of inconsistent construct terms, and variations in conceptualization and measurement make it difficult to compare and aggregate findings across studies. To provide scholars with an overview of the literature, we performed a systematic qualitative review of the IS literature. The goal of our review was to identify the antecedents and consequences of trust in technology that have received frequent empirical support, as well as those for which the evidence is not yet conclusive. To that end, we curated a glossary of unique construct terms and summarized the results of 241 relationships tested in 62 empirical research articles (both quantitative and qualitative) from the AIS “Basket of Eight” journals. From these, we identified 62 unique relationships: 22 are well-supported, 6 are supported by suggestive evidence, and 34 have received little support. These relationships summarize what is well-known and less well-known within the literature. By taking stock, we prepare a path for future research on the phenomenon of trust in the context of emerging technologies (e.g., artificial intelligence and blockchain). We conclude the paper with opportunities and directions for future research.},</span>
+<span id="cb1-11">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">fulltext</span>   = {https://journals.sagepub.com/doi/pdf/10.1177/02683962241254392}</span>
+<span id="cb1-12">}</span></code></pre></div></div>
 
 
 
  ]]></description>
-  <guid>http://0.0.0.0:4200/papers/WeberHackervomBrocke2021.html</guid>
-  <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+  <guid>http://0.0.0.0:4200/papers/SchuetzKuaiLacityEtAl2025.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Towards a Semi-Automated Approach for Systematic Literature Reviews</title>
-  <dc:creator>Denzler, Tim</dc:creator>
-  <dc:creator>Enders, Martin Robert</dc:creator>
-  <dc:creator>Akello, Patricia</dc:creator>
-  <link>http://0.0.0.0:4200/papers/DenzlerEndersAkello2021.html</link>
+  <title>What Is Augmented? A Metanarrative Review of AI-Based Augmentation Augmentation</title>
+  <dc:creator>Baer, Inès</dc:creator>
+  <dc:creator>Waardenburg, Lauren</dc:creator>
+  <dc:creator>Huysman, Marleen</dc:creator>
+  <link>http://0.0.0.0:4200/papers/BaerWaardenburgHuysman2025.html</link>
   <description><![CDATA[ 
 
 
@@ -452,31 +346,213 @@ font-style: inherit;">url</span>        = {https://aisel.aisnet.org/icis2021/is_
 <p>Citation:</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
-font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
-font-style: inherit;">DenzlerEndersAkello2021</span>,</span>
+font-style: inherit;">BaerWaardenburgHuysman2025</span>,</span>
 <span id="cb1-2">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">author</span>     = {Denzler, Tim and Enders, Martin Robert and Akello, Patricia},</span>
+font-style: inherit;">file</span>       = {data/pdfs/26_3/What Is Augmented_ A Metanarrative Review of AI-Based Augmentatio.pdf},</span>
 <span id="cb1-3">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">booktitle</span>  = {Americas Conference on Information Systems},</span>
+font-style: inherit;">doi</span>        = {10.17705/1JAIS.00921},</span>
 <span id="cb1-4">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">title</span>      = {Towards a Semi-Automated Approach for Systematic Literature Reviews},</span>
+font-style: inherit;">author</span>     = {Baer, Inès and Waardenburg, Lauren and Huysman, Marleen},</span>
 <span id="cb1-5">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">year</span>       = {2021},</span>
+font-style: inherit;">journal</span>    = {Journal of the Association for Information Systems},</span>
 <span id="cb1-6">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">url</span>        = {https://aisel.aisnet.org/amcis2021/art_intel_sem_tech_intelligent_systems/art_intel_sem_tech_intelligent_systems/4}</span>
-<span id="cb1-7">}</span></code></pre></div></div>
+font-style: inherit;">title</span>      = {What Is Augmented? A Metanarrative Review of AI-Based Augmentation Augmentation},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>       = {2025},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span>     = {26},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">number</span>     = {3},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>      = {760--798},</span>
+<span id="cb1-11">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span>        = {https://aisel.aisnet.org/jais/vol26/iss3/5},</span>
+<span id="cb1-12">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">abstract</span>   = {The widespread implementation of artificial intelligence (AI) in organizations has given rise to an increasing focus on augmentation in the academic and public discourse. While the verb “to augment,” defined as a process to make something greater or more numerous, is often used in IS research, it lacks a discussion of what the targets of such a process could be. In other words: What is augmented? Our paper builds on the literature of five research disciplines in which augmentation is a particularly prevalent topic—i.e., computer science, information systems, economics, management, and philosophy. Accordingly, we identified four metanarratives that represent four distinct targets of AI-based augmentation—the body, cognition, work, and performance—that build on unique human-AI configurations and bring to the fore specific augmentation tensions. Using these insights, we formulate avenues for further IS research on AI-based augmentation.}</span>
+<span id="cb1-13">}</span></code></pre></div></div>
 
 
 
  ]]></description>
-  <guid>http://0.0.0.0:4200/papers/DenzlerEndersAkello2021.html</guid>
-  <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+  <guid>http://0.0.0.0:4200/papers/BaerWaardenburgHuysman2025.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The axis of accessibility and the duality of control of remote workers: A literature review</title>
+  <dc:creator>Cunha, Joao</dc:creator>
+  <dc:creator>Errichiello, Luisa</dc:creator>
+  <dc:creator>Pianese, Tommasina</dc:creator>
+  <link>http://0.0.0.0:4200/papers/CunhaErrichielloPianese2024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">CunhaErrichielloPianese2024</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">file</span>       = {data/pdfs/39_1/cunha-et-al-2023-the-axis-of-accessibility-and-the-duality-of-control-of-remote-workers-a-literature-review.pdf},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>        = {10.1177/02683962231208218},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>     = {Cunha, Joao and Errichiello, Luisa and Pianese, Tommasina},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span>    = {Journal of Information Technology},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>      = {The axis of accessibility and the duality of control of remote workers: A literature review},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>       = {2024},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span>     = {39},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">number</span>     = {1},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>      = {194--260}</span>
+<span id="cb1-11">}</span></code></pre></div></div>
+
+
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/CunhaErrichielloPianese2024.html</guid>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The Concept of a Smart Action – Results from Analyzing Information Systems Literature</title>
+  <dc:creator>Huber, Rocco Xaver Richard</dc:creator>
+  <dc:creator>Lockl, Jannik</dc:creator>
+  <dc:creator>Röglinger, Maximilian</dc:creator>
+  <dc:creator>Weidlich, Robin</dc:creator>
+  <link>http://0.0.0.0:4200/papers/HuberLocklRoglingerEtAl2024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">HuberLocklRoglingerEtAl2024</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>        = {10.17705/1CAIS.05408},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>     = {Huber, Rocco Xaver Richard and Lockl, Jannik and Röglinger, Maximilian and Weidlich, Robin},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span>    = {Communications of the Association for Information Systems},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>      = {The Concept of a Smart Action – Results from Analyzing Information Systems Literature},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>       = {2024},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span>     = {54},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>      = {180--231},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span>        = {https://aisel.aisnet.org/cais/vol54/iss1/6},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">abstract</span>   = {In recent years, the term 'smartness' has entered widespread use in research and daily life. It has emerged with various applications of the Internet of Things, such as smart homes and smart factories. However, rapid technological development and careless use of the term mean that, in information systems (IS) research, a common understanding of smartness has not yet been established. While it is recognized that smartness encompasses more than the use of impressive information technology applications, a unified conceptualization of how smartness is manifested in IS research is lacking. To this end, we conducted a structured literature review applying techniques from Grounded Theory. We found that smartness occurs through actions, in which smart things and individuals interact, process information, and make data-based decisions that are perceived as smart. Building on these findings, we propose the concept of a 'smart action' and derive a general definition of smartness. Our findings augment knowledge about how smartness is formed, offering a new perspective on smartness. The concept of a smart action unifies and increases understanding of 'smartness' in IS research. It supports further research by providing a concept for describing, analyzing, and designing smart actions, smart devices, and smart services.}</span>
+<span id="cb1-11">}</span></code></pre></div></div>
+
+
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/HuberLocklRoglingerEtAl2024.html</guid>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Research Perspectives: An Encompassing Framework for Conceptualizing Space in Information Systems: Philosophical Perspectives, Themes, and Concepts</title>
+  <dc:creator>Haj-Bolouri, Amir</dc:creator>
+  <dc:creator>Conboy, Kieran</dc:creator>
+  <dc:creator>Gregor, Shirley</dc:creator>
+  <dc:creator>Conboy, Amir</dc:creator>
+  <link>http://0.0.0.0:4200/papers/HajBolouriConboyGregorEtAl2024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Citation:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">HajBolouriConboyGregorEtAl2024</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">file</span>       = {data/pdfs/25_2/Research Perspectives_ An Encompassing Framework for Conceptualiz.pdf},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>        = {10.17705/1JAIS.00830},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>     = {Haj-Bolouri, Amir and Conboy, Kieran and Gregor, Shirley and Conboy, Amir},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span>    = {Journal of the Association for Information Systems},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>      = {Research Perspectives: An Encompassing Framework for Conceptualizing Space in Information Systems: Philosophical Perspectives, Themes, and Concepts},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>       = {2024},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span>     = {25},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">number</span>     = {2},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>      = {407--441},</span>
+<span id="cb1-11">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span>        = {https://aisel.aisnet.org/jais/vol25/iss2/3},</span>
+<span id="cb1-12">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">abstract</span>   = {The conceptualization of space is integral to many of the diverse forms of information systems—for example, the physical space represented in geographical information systems and the virtual space of simulated worlds. Yet despite its importance and centrality, the conceptualization of space in information systems is not as sophisticated or mature as in other fields. A lack of attention to the diversity of perspectives on space hampers ongoing research and the re-visioning of phenomena that could lead to new insights in information systems. The aim of this paper is to develop an encompassing framework that provides a comprehensive view of philosophical perspectives, spatial themes, and concepts of space that are relevant to information systems. As a result of an extensive literature review, an encompassing framework is presented that includes four prominent spatial themes: representing space, differentiating space, disclosing space, and intuitive space. Each theme is related to its key characteristics and features and underlying philosophical perspectives. The paper demonstrates how the new framework can facilitate IS scholars’ expansive analysis in scholarly work and assist editors and reviewers in evaluating papers concerning space in IS and shows how the re-visioning of phenomena can lead to transformational shifts in understanding IS phenomena.}</span>
+<span id="cb1-13">}</span></code></pre></div></div>
+
+
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/HajBolouriConboyGregorEtAl2024.html</guid>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
