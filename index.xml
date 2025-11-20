@@ -21,7 +21,7 @@
 
 
 
-<p>Citation:</p>
+<p>Citation (BibTeX):</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -52,6 +52,40 @@ font-style: inherit;">number</span>     = {2},</span>
 background-color: null;
 font-style: inherit;">pages</span>      = {101903}</span>
 <span id="cb1-10">}</span></code></pre></div></div>
+<p>RIS:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - JOUR</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Wang, Blair</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Prester, Julian</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - A labour perspective on videoconferencing fatigue: Critical review and reframing</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - The Journal of Strategic Information Systems</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">VL  - 34</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">IS  - 2</span></span>
+<span id="cb2-9"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">SP  - 101903</span></span>
+<span id="cb2-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">DO  - 10.1016/J.JSIS.2025.101903</span></span>
+<span id="cb2-11"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
@@ -70,7 +104,7 @@ font-style: inherit;">pages</span>      = {101903}</span>
 
 
 
-<p>Citation:</p>
+<p>Citation (BibTeX):</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -101,6 +135,43 @@ font-style: inherit;">number</span>     = {2},</span>
 background-color: null;
 font-style: inherit;">pages</span>      = {101905}</span>
 <span id="cb1-10">}</span></code></pre></div></div>
+<p>RIS:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - JOUR</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Haffner, Lily</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Oshri, Ilan</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Kotlarsky, Julia</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - Directions for future IS research on sports digitalisation: A stakeholder perspective</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - The Journal of Strategic Information Systems</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">VL  - 34</span></span>
+<span id="cb2-9"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">IS  - 2</span></span>
+<span id="cb2-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">SP  - 101905</span></span>
+<span id="cb2-11"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">DO  - 10.1016/J.JSIS.2025.101905</span></span>
+<span id="cb2-12"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
@@ -120,7 +191,7 @@ font-style: inherit;">pages</span>      = {101905}</span>
 
 
 
-<p>Citation:</p>
+<p>Citation (BibTeX):</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -151,6 +222,46 @@ font-style: inherit;">number</span>     = {2},</span>
 background-color: null;
 font-style: inherit;">pages</span>      = {101888}</span>
 <span id="cb1-10">}</span></code></pre></div></div>
+<p>RIS:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - JOUR</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Yeh, Yi-Ting</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Eden, Rebekah</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Fielt, Erwin</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Syed, Rehan</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - The role of use for the business value of big data analytics</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - The Journal of Strategic Information Systems</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-9"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">VL  - 34</span></span>
+<span id="cb2-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">IS  - 2</span></span>
+<span id="cb2-11"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">SP  - 101888</span></span>
+<span id="cb2-12"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">DO  - 10.1016/J.JSIS.2025.101888</span></span>
+<span id="cb2-13"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
@@ -172,7 +283,7 @@ font-style: inherit;">pages</span>      = {101888}</span>
 
 
 
-<p>Citation:</p>
+<p>Citation (BibTeX):</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -206,6 +317,55 @@ font-style: inherit;">url</span>        = {https://aisel.aisnet.org/cais/vol57/i
 background-color: null;
 font-style: inherit;">abstract</span>   = {Central Bank Digital Currencies (CBDC) are a novel phenomenon gaining widespread attention from academics and practitioners in recent years. CBDCs combine new technology-enabled infrastructure and service innovation from the realm of FinTech and Decentralized Finance with the well-established and highly regulated area of central banking. While current practice and research primarily focus on designing specific CBDC systems or the governmental role, the role of companies and the private sector in the CBDC ecosystem still needs to be explored. Addressing this gap is particularly pertinent given the uncertainty surrounding which value propositions from traditional financial ecosystems and those from Fintech and blockchain-based financial ecosystems might be transferable to the realm of CBDCs. In this regard, the potential emergence of entirely novel value propositions companies could offer uniquely to CBDCs adds another layer of complexity. This paper aims to fill this gap by shedding light on private organizations’ value propositions in CBDC ecosystems. Through a multivocal literature review, we comprehensively gather both academic and practitioner insights. We aggregate value propositions directly stated in the current literature base and verify and complement these findings by mapping the needs of a CBDC ecosystem to value propositions companies might offer to fulfill these needs.}</span>
 <span id="cb1-11">}</span></code></pre></div></div>
+<p>RIS:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - JOUR</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Schaaf, Vincent</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Lautenschlager, Jonathan</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Voucko-Glockner, Hannes</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Plank, Tobias</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Guggenberger, Tobias</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Urbach, Nils</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - A Multivocal Literature Review on Capturing Value Propositions for Private Organizations in a CBDC Ecosystem</span></span>
+<span id="cb2-9"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - Communications of the Association for Information Systems</span></span>
+<span id="cb2-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-11"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">VL  - 57</span></span>
+<span id="cb2-12"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">SP  - 289</span></span>
+<span id="cb2-13"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">EP  - 317</span></span>
+<span id="cb2-14"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">DO  - 10.17705/1CAIS.05712</span></span>
+<span id="cb2-15"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">UR  - https://aisel.aisnet.org/cais/vol57/iss1/14</span></span>
+<span id="cb2-16"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
@@ -224,7 +384,7 @@ font-style: inherit;">abstract</span>   = {Central Bank Digital Currencies (CBDC
 
 
 
-<p>Citation:</p>
+<p>Citation (BibTeX):</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -255,6 +415,43 @@ font-style: inherit;">number</span>     = {2},</span>
 background-color: null;
 font-style: inherit;">pages</span>      = {101900}</span>
 <span id="cb1-10">}</span></code></pre></div></div>
+<p>RIS:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - JOUR</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Wiener, Martin</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Strahringer, Susanne</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Kotlarsky, Julia</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - Where are the processes in IS research on digital transformation? A critical literature review and future research directions</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - The Journal of Strategic Information Systems</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">VL  - 34</span></span>
+<span id="cb2-9"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">IS  - 2</span></span>
+<span id="cb2-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">SP  - 101900</span></span>
+<span id="cb2-11"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">DO  - 10.1016/J.JSIS.2025.101900</span></span>
+<span id="cb2-12"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
@@ -274,7 +471,7 @@ font-style: inherit;">pages</span>      = {101900}</span>
 
 
 
-<p>Citation:</p>
+<p>Citation (BibTeX):</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -311,6 +508,49 @@ font-style: inherit;">abstract</span>   = {Trust is one of the most important co
 background-color: null;
 font-style: inherit;">fulltext</span>   = {https://journals.sagepub.com/doi/pdf/10.1177/02683962231226397}</span>
 <span id="cb1-12">}</span></code></pre></div></div>
+<p>RIS:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - JOUR</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Lacity, Mary C</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Schuetz, Sebastian W</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Kuai, Le</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Steelman, Zachary R</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - IT’s a matter of trust: Literature reviews and analyses of human trust in information technology</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - Journal of Information Technology</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-9"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">VL  - 40</span></span>
+<span id="cb2-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">IS  - 3</span></span>
+<span id="cb2-11"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">SP  - 286</span></span>
+<span id="cb2-12"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">EP  - 313</span></span>
+<span id="cb2-13"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">DO  - 10.1177/02683962231226397</span></span>
+<span id="cb2-14"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
@@ -332,7 +572,7 @@ font-style: inherit;">fulltext</span>   = {https://journals.sagepub.com/doi/pdf/
 
 
 
-<p>Citation:</p>
+<p>Citation (BibTeX):</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -363,6 +603,52 @@ font-style: inherit;">number</span>     = {2},</span>
 background-color: null;
 font-style: inherit;">pages</span>      = {101908}</span>
 <span id="cb1-10">}</span></code></pre></div></div>
+<p>RIS:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - JOUR</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Tuczek, Matthias</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Degirmenci, Kenan</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Song, Yuanyuan</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Desouza, Kevin C</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Breitner, Michael H</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Watson, Richard T</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - Strategic implications of cognitive computing in IS: addressing AI fragmentation through knowledge similarity transformation</span></span>
+<span id="cb2-9"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - The Journal of Strategic Information Systems</span></span>
+<span id="cb2-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-11"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">VL  - 34</span></span>
+<span id="cb2-12"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">IS  - 2</span></span>
+<span id="cb2-13"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">SP  - 101908</span></span>
+<span id="cb2-14"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">DO  - 10.1016/J.JSIS.2025.101908</span></span>
+<span id="cb2-15"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
@@ -381,7 +667,7 @@ font-style: inherit;">pages</span>      = {101908}</span>
 
 
 
-<p>Citation:</p>
+<p>Citation (BibTeX):</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -412,6 +698,43 @@ font-style: inherit;">number</span>     = {2},</span>
 background-color: null;
 font-style: inherit;">pages</span>      = {101885}</span>
 <span id="cb1-10">}</span></code></pre></div></div>
+<p>RIS:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - JOUR</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Papagiannidis, Emmanouil</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Mikalef, Patrick</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Conboy, Kieran</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - Responsible artificial intelligence governance: A review and research framework</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - The Journal of Strategic Information Systems</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">VL  - 34</span></span>
+<span id="cb2-9"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">IS  - 2</span></span>
+<span id="cb2-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">SP  - 101885</span></span>
+<span id="cb2-11"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">DO  - 10.1016/J.JSIS.2024.101885</span></span>
+<span id="cb2-12"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
@@ -429,7 +752,7 @@ font-style: inherit;">pages</span>      = {101885}</span>
 
 
 
-<p>Citation:</p>
+<p>Citation (BibTeX):</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -463,6 +786,43 @@ font-style: inherit;">url</span>        = {https://aisel.aisnet.org/cais/vol56/i
 background-color: null;
 font-style: inherit;">abstract</span>   = {While personalized advertising may increase customers' desire to engage with a firm, privacy concerns over how firms process data for personalization may reduce their engagement and lead to ad avoidance. As marketers increasingly benefit from personalized advertising, the domain of privacy in personalized advertising (PPA) is gaining attention from researchers in both Marketing and Information Systems areas. In this study, we conduct a comprehensive review of extant literature, combining bibliometric analysis and systematic literature review to explore the current state, primary themes, and future prospects of the PPA literature. Our research indicates that PPA research is in its early stages of development. While existing literature has predominantly examined privacy, personalization, trust, advertising, social media, and e-commerce, there has been a growing emphasis on targeted advertising and artificial intelligence in more recent studies. PPA is grounded in theoretical frameworks from privacy like Privacy Calculus Theory and from marketing such as the Persuasion Knowledge Model. Given that customer privacy concerns and trust in a firm can influence ad outcomes negatively, it is essential for researchers to explore scenarios where personalization might prove ineffective. In addition, examining firm strategies regarding personalized ads to mitigate negative ad outcomes is crucial.}</span>
 <span id="cb1-11">}</span></code></pre></div></div>
+<p>RIS:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - JOUR</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Joyee De, Sourya</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Chattopadhyay, Manojit</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - Privacy in Personalized Advertising: A Comprehensive Review and Future Agenda</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - Communications of the Association for Information Systems</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">VL  - 56</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">SP  - 305</span></span>
+<span id="cb2-9"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">EP  - 342</span></span>
+<span id="cb2-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">DO  - 10.17705/1CAIS.05613</span></span>
+<span id="cb2-11"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">UR  - https://aisel.aisnet.org/cais/vol56/iss1/13</span></span>
+<span id="cb2-12"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
@@ -483,7 +843,7 @@ font-style: inherit;">abstract</span>   = {While personalized advertising may in
 
 
 
-<p>Citation:</p>
+<p>Citation (BibTeX):</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -514,6 +874,49 @@ font-style: inherit;">number</span>     = {2},</span>
 background-color: null;
 font-style: inherit;">pages</span>      = {101904}</span>
 <span id="cb1-10">}</span></code></pre></div></div>
+<p>RIS:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - JOUR</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Liu, Jiaying</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Schwarz, Andrew</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Risius, Marten</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Hirschheim, Rudy</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Van Scotter, James</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - Conceptualizing Echo Chambers and Information Cocoons: A Literature Review and Synthesis of Current Knowledge and Future Directions</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - The Journal of Strategic Information Systems</span></span>
+<span id="cb2-9"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">VL  - 34</span></span>
+<span id="cb2-11"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">IS  - 2</span></span>
+<span id="cb2-12"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">SP  - 101904</span></span>
+<span id="cb2-13"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">DO  - 10.1016/J.JSIS.2025.101904</span></span>
+<span id="cb2-14"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
