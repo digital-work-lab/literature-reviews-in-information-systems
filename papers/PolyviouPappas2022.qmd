@@ -1,0 +1,30 @@
+---
+title: "Chasing Metaverses: Reflecting on Existing Literature to Understand the Business Value of Metaverses"
+author:
+- Polyviou, Ariana
+- Pappas, Ilias O.
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1007/S10796-022-10364-4"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 35
+outlet: "Information Systems Frontiers"
+---
+
+Citation:
+
+```bibtex
+@article{PolyviouPappas2022,
+  doi        = {10.1007/S10796-022-10364-4},
+  author     = {Polyviou, Ariana and Pappas, Ilias O.},
+  journal    = {Information Systems Frontiers},
+  title      = {Chasing Metaverses: Reflecting on Existing Literature to Understand the Business Value of Metaverses},
+  year       = {2022},
+  volume     = {25},
+  number     = {6},
+  url        = {https://link.springer.com/article/10.1007/s10796-022-10364-4},
+  abstract   = {Abstract Metaverses refer to immersive virtual worlds in which people, places, and things of the physical world are represented by their digital representations. The wide adoption of metaverses is expected to widely disrupt the way we interact in the virtual world by elevating our online interactive experiences and bringing a plethora of implications for businesses. Following a structured literature review of related research published in the last decade, we shed light on our current understanding of metaverses and reflect on the potentially transformative value of metaverses for businesses in the near future. We draw on an established research framework to organize the insights of existing literature across different levels of analysis and activities’ purpose. Through this analysis, we reveal eight propositions on the changes brought by the use of metaverses and identify a number of open questions which could serve as future research avenues.}
+}
+```

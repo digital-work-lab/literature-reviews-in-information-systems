@@ -1,0 +1,32 @@
+---
+title: "Social Media Adoption, Usage And Impact In Business-To-Business (B2B) Context: A State-Of-The-Art Literature Review"
+author:
+- Dwivedi, Yogesh K.
+- Ismagilova, Elvira
+- Rana, Nripendra P.
+- Raman, Ramakrishnan
+topic: ""
+categories: []
+date: "2021"
+doi: "https://doi.org/10.1007/S10796-021-10106-Y"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 131
+outlet: "Information Systems Frontiers"
+---
+
+Citation:
+
+```bibtex
+@article{DwivediIsmagilovaRanaEtAl2021,
+  doi        = {10.1007/S10796-021-10106-Y},
+  author     = {Dwivedi, Yogesh K. and Ismagilova, Elvira and Rana, Nripendra P. and Raman, Ramakrishnan},
+  journal    = {Information Systems Frontiers},
+  title      = {Social Media Adoption, Usage And Impact In Business-To-Business (B2B) Context: A State-Of-The-Art Literature Review},
+  year       = {2021},
+  volume     = {25},
+  number     = {3},
+  url        = {https://link.springer.com/article/10.1007/s10796-021-10106-y},
+  abstract   = {Abstract Social media plays an important part in the digital transformation of businesses. This research provides a comprehensive analysis of the use of social media by business-to-business (B2B) companies. The current study focuses on the number of aspects of social media such as the effect of social media, social media tools, social media use, adoption of social media use and its barriers, social media strategies, and measuring the effectiveness of use of social media. This research provides a valuable synthesis of the relevant literature on social media in B2B context by analysing, performing weight analysis and discussing the key findings from existing research on social media. The findings of this study can be used as an informative framework on social media for both, academic and practitioners.}
+}
+```

@@ -10,6 +10,7 @@ doi: "https://doi.org/10.1016/J.INFOANDORG.2014.10.001"
 journal:
   name: "Information and Organization"
 cited_by: 151
+outlet: "Information and Organization"
 ---
 
 Citation:

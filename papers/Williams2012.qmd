@@ -10,6 +10,7 @@ doi: "https://doi.org/10.1287/ISRE.1110.0352"
 journal:
   name: "Information Systems Research"
 cited_by: 66
+outlet: "Information Systems Research"
 ---
 
 Citation:

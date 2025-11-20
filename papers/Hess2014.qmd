@@ -11,6 +11,7 @@ doi: "https://doi.org/10.25300/MISQ/2014/38.1.01"
 journal:
   name: "MIS Quarterly"
 cited_by: 159
+outlet: "MIS Quarterly"
 ---
 
 Citation:

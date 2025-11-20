@@ -10,6 +10,7 @@ doi: "https://doi.org/10.1016/J.IM.2006.09.003"
 journal:
   name: "Information & Management"
 cited_by: 203
+outlet: "Information & Management"
 ---
 
 Citation:

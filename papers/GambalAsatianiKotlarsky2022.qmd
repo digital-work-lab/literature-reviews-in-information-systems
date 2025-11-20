@@ -1,0 +1,29 @@
+---
+title: "Strategic innovation through outsourcing - A theoretical review"
+author:
+- Gambal, Marfri-Jay
+- Asatiani, Aleksandre
+- Kotlarsky, Julia
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1016/J.JSIS.2022.101718"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 27
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{GambalAsatianiKotlarsky2022,
+  doi        = {10.1016/J.JSIS.2022.101718},
+  author     = {Gambal, Marfri-Jay and Asatiani, Aleksandre and Kotlarsky, Julia},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Strategic innovation through outsourcing - A theoretical review},
+  year       = {2022},
+  volume     = {31},
+  number     = {2}
+}
+```

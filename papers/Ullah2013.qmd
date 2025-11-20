@@ -10,6 +10,7 @@ doi: "https://doi.org/10.1145/2445560.2445564"
 journal:
   name: "ACM Transactions on Management Information Systems"
 cited_by: 71
+outlet: "ACM Transactions on Management Information Systems"
 ---
 
 Citation:

@@ -10,6 +10,7 @@ doi: ""
 journal:
   name: "Journal of Organizational and End User Computing"
 cited_by: 0
+outlet: "Journal of Organizational and End User Computing"
 ---
 
 Citation:

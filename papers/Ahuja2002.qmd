@@ -9,6 +9,7 @@ doi: "https://doi.org/10.1057/PALGRAVE.EJIS.3000417"
 journal:
   name: "European Journal of Information Systems"
 cited_by: 258
+outlet: "European Journal of Information Systems"
 ---
 
 Citation:

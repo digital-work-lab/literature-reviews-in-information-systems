@@ -1,0 +1,33 @@
+---
+title: "Integrating and Synthesising Technostress Research: A Meta-Analysis on Technostress Creators, Outcomes, and IS Usage Contexts"
+author:
+- Nastjuk, Ilja
+- Trang, Simon
+- Grummeck-Braamt, Julius-Viktor
+- Adam, Marc T. P.
+- Tarafdar, Monideepa
+topic: ""
+categories: ['meta-analysis']
+date: "2023"
+doi: "https://doi.org/10.1080/0960085X.2022.2154712"
+journal:
+  name: "European Journal of Information Systems"
+cited_by: 88
+outlet: "European Journal of Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{NastjukTrangGrummeckBraamtEtAl2023,
+  doi        = {10.1080/0960085X.2022.2154712},
+  author     = {Nastjuk, Ilja and Trang, Simon and Grummeck-Braamt, Julius-Viktor and Adam, Marc T. P. and Tarafdar, Monideepa},
+  journal    = {European Journal of Information Systems},
+  title      = {Integrating and Synthesising Technostress Research: A Meta-Analysis on Technostress Creators, Outcomes, and IS Usage Contexts},
+  year       = {2023},
+  volume     = {33},
+  number     = {3},
+  pages      = {361--382},
+  url        = {https://www.tandfonline.com/doi/full/10.1080/0960085X.2022.2154712}
+}
+```

@@ -9,8 +9,9 @@ categories: []
 date: "2011"
 doi: "https://doi.org/10.1109/HICSS.2011.227"
 journal:
-  name: "Hawaii International Conference on System Sciences"
+  name: ""
 cited_by: 7
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:

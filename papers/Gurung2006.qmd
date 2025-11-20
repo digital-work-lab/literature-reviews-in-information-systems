@@ -10,6 +10,7 @@ doi: "https://doi.org/10.1080/1097198X.2006.10856413"
 journal:
   name: "Journal of Global Information Technology Management"
 cited_by: 53
+outlet: "Journal of Global Information Technology Management"
 ---
 
 Citation:

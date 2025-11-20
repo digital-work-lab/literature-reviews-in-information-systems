@@ -9,6 +9,7 @@ doi: ""
 journal:
   name: "e-Service Journal"
 cited_by: 0
+outlet: "e-Service Journal"
 ---
 
 Citation:

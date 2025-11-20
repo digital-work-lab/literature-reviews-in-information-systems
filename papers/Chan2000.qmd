@@ -9,6 +9,7 @@ doi: "https://doi.org/10.1080/07421222.2000.11518272"
 journal:
   name: "Journal of Management Information Systems"
 cited_by: 163
+outlet: "Journal of Management Information Systems"
 ---
 
 Citation:

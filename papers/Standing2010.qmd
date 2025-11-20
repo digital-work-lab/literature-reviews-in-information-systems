@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1016/J.DSS.2009.12.008"
 journal:
   name: "Decision Support Systems"
 cited_by: 76
+outlet: "Decision Support Systems"
 ---
 
 Citation:

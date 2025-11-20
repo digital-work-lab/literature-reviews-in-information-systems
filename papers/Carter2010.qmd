@@ -9,6 +9,7 @@ doi: "https://doi.org/10.1080/1097198X.2010.10856524"
 journal:
   name: "Journal of Global Information Technology Management"
 cited_by: 5
+outlet: "Journal of Global Information Technology Management"
 ---
 
 Citation:

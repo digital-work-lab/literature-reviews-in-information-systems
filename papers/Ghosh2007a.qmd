@@ -12,6 +12,7 @@ doi: "https://doi.org/10.1016/J.DSS.2006.06.011"
 journal:
   name: "Decision Support Systems"
 cited_by: 218
+outlet: "Decision Support Systems"
 ---
 
 Citation:

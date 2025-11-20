@@ -9,6 +9,7 @@ doi: "https://doi.org/10.4018/JOEUC.2004100101"
 journal:
   name: "Journal of Organizational and End User Computing"
 cited_by: 8
+outlet: "Journal of Organizational and End User Computing"
 ---
 
 Citation:

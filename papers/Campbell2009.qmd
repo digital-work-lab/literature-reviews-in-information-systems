@@ -11,6 +11,7 @@ doi: "https://doi.org/10.17705/1THCI.00008"
 journal:
   name: "AIS Transactions on Human-Computer Interaction"
 cited_by: 9
+outlet: "AIS Transactions on Human-Computer Interaction"
 ---
 
 Citation:

@@ -10,6 +10,7 @@ doi: "https://doi.org/10.1016/J.JSIS.2020.101642"
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 78
+outlet: "The Journal of Strategic Information Systems"
 ---
 
 Citation:

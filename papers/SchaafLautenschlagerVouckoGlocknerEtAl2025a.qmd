@@ -1,0 +1,34 @@
+---
+title: "A Multivocal Literature Review on Capturing Value Propositions for Private Organizations in a CBDC Ecosystem"
+author:
+- Schaaf, Vincent
+- Lautenschlager, Jonathan
+- Voucko-Glockner, Hannes
+- Plank, Tobias
+- Guggenberger, Tobias
+- Urbach, Nils
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.17705/1CAIS.05712"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{SchaafLautenschlagerVouckoGlocknerEtAl2025a,
+  doi        = {10.17705/1CAIS.05712},
+  author     = {Schaaf, Vincent and Lautenschlager, Jonathan and Voucko-Glockner, Hannes and Plank, Tobias and Guggenberger, Tobias and Urbach, Nils},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {A Multivocal Literature Review on Capturing Value Propositions for Private Organizations in a CBDC Ecosystem},
+  year       = {2025},
+  volume     = {57},
+  pages      = {289--317},
+  url        = {https://aisel.aisnet.org/cais/vol57/iss1/14},
+  abstract   = {Central Bank Digital Currencies (CBDC) are a novel phenomenon gaining widespread attention from academics and practitioners in recent years. CBDCs combine new technology-enabled infrastructure and service innovation from the realm of FinTech and Decentralized Finance with the well-established and highly regulated area of central banking. While current practice and research primarily focus on designing specific CBDC systems or the governmental role, the role of companies and the private sector in the CBDC ecosystem still needs to be explored. Addressing this gap is particularly pertinent given the uncertainty surrounding which value propositions from traditional financial ecosystems and those from Fintech and blockchain-based financial ecosystems might be transferable to the realm of CBDCs. In this regard, the potential emergence of entirely novel value propositions companies could offer uniquely to CBDCs adds another layer of complexity. This paper aims to fill this gap by shedding light on private organizations’ value propositions in CBDC ecosystems. Through a multivocal literature review, we comprehensively gather both academic and practitioner insights. We aggregate value propositions directly stated in the current literature base and verify and complement these findings by mapping the needs of a CBDC ecosystem to value propositions companies might offer to fulfill these needs.}
+}
+```

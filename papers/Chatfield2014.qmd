@@ -12,6 +12,7 @@ doi: "https://doi.org/10.3127/AJIS.V18I3.1104"
 journal:
   name: "Australasian Journal of Information Systems"
 cited_by: 6
+outlet: "Australasian Journal of Information Systems"
 ---
 
 Citation:

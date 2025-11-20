@@ -1,0 +1,35 @@
+---
+title: "Assessing the Connections among Top Management Support, IT Assimilation, and the Business Value of IT: A Meta-Analysis"
+author:
+- Roberts, Nicholas
+- Jeyaraj, Anand
+- Pullin, Jennifer E
+- Management
+topic: ""
+categories: ['meta-analysis']
+date: "2022"
+doi: "https://doi.org/10.17705/1JAIS.00772"
+journal:
+  name: "Journal of the Association for Information Systems"
+cited_by: 6
+outlet: "Journal of the Association for Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{RobertsJeyarajPullinEtAl2023,
+  file       = {data/pdfs/24_1/Assessing the Connections among Top Management Support IT Assimi.pdf},
+  doi        = {10.17705/1JAIS.00772},
+  author     = {Roberts, Nicholas and Jeyaraj, Anand and Pullin, Jennifer E and Management},
+  journal    = {Journal of the Association for Information Systems},
+  title      = {Assessing the Connections among Top Management Support, IT Assimilation, and the Business Value of IT: A Meta-Analysis},
+  year       = {2022},
+  volume     = {24},
+  number     = {1},
+  pages      = {107--135},
+  url        = {https://aisel.aisnet.org/jais/vol24/iss1/6},
+  abstract   = {Scholars and practitioners have long tried to understand the antecedents and consequences of information technology (IT) assimilation. Studies suggest that top management support is an important driver of IT assimilation; however, this broad takeaway provides little substantive guidance to researchers and practitioners. We also have a limited understanding of whether and when IT assimilation creates business value. We take stock of this literature with a meta-analysis. We found that top management support is positively related to IT assimilation, and assimilation is in turn positively related to the business value of IT. We also found that explicit support does not have any special effect on IT assimilation (compared to implicit support) and may not be related to business value at all. However, our results indicate that IT assimilation has a stronger effect on business value at the process level (versus firm level) and for enterprise IT innovations (versus function IT innovations). Finally, we found that support-assimilation and assimilation-value relationships are stronger in high (versus low) power distance cultures. Our collective findings can facilitate future research and help practitioners navigate IT assimilation initiatives.},
+  dblp_key   = {https://dblp.org/rec/journals/jais/RobertsJP22}
+}
+```

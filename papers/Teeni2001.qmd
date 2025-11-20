@@ -9,6 +9,7 @@ doi: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 0
+outlet: "MIS Quarterly"
 ---
 
 Citation:

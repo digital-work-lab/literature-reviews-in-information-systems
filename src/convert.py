@@ -55,7 +55,7 @@ def record_to_qmd_content(rec: dict) -> str:
     else:
         doi = doi_raw
 
-    journal = yaml_escape(rec.get("journal", rec.get("booktitle", "")))
+    journal = yaml_escape(rec.get("journal", ""))
 
     try:
         cited_by = int(rec.get("cited_by", 0))
@@ -63,6 +63,7 @@ def record_to_qmd_content(rec: dict) -> str:
         cited_by = 0
 
     bibtex = record_to_bibtex(rec)
+    outlet = rec.get("journal", rec.get("booktitle", ""))
 
     categories = []
     # if "goal_rowe" in rec:
@@ -83,6 +84,7 @@ doi: "{yaml_escape(doi)}"
 journal:
   name: "{journal}"
 cited_by: {cited_by}
+outlet: "{outlet}"
 ---
 
 Citation:

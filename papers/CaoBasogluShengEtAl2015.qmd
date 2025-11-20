@@ -1,0 +1,33 @@
+---
+title: "A Systematic Review of Social Networks Research in Information Systems - Building a Foundation for Exciting Future Research"
+author:
+- Cao, Jinwei
+- Basoglu, K. Asli
+- Sheng, Hong
+- Lowry, Paul Benjamin
+topic: ""
+categories: []
+date: "2015"
+doi: "https://doi.org/10.17705/1CAIS.03637"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 15
+outlet: "Communications of the Association for Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{CaoBasogluShengEtAl2015,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffffffffffff000001ff1ffffc7fdffffeff3fffffff000001ff000000ff000001ff000fffff0001ffff000fffff001fffff00001fff0001bfff0007ffffffffffffffffffffffffffff00ffffff0001ffff03e203ff000003ff007fffffffffffff000001ff0ffffffffffffffffffffff},
+  screening_criteria = {NA},
+  file       = {data/pdfs/36/CaoBasogluShengEtAl2015.pdf},
+  doi        = {10.17705/1CAIS.03637},
+  author     = {Cao, Jinwei and Basoglu, K. Asli and Sheng, Hong and Lowry, Paul Benjamin},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {A Systematic Review of Social Networks Research in Information Systems - Building a Foundation for Exciting Future Research},
+  year       = {2015},
+  volume     = {36},
+  url        = {https://aisel.aisnet.org/cais/vol36/iss1/37}
+}
+```

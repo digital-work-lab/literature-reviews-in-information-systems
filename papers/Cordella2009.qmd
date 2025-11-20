@@ -9,6 +9,7 @@ doi: "https://doi.org/10.1057/9780230250611_19"
 journal:
   name: "Journal of Information Technology"
 cited_by: 1
+outlet: "Journal of Information Technology"
 ---
 
 Citation:

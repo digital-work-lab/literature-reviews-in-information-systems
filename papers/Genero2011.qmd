@@ -13,6 +13,7 @@ doi: "https://doi.org/10.4018/JDM.2011070103"
 journal:
   name: "Journal of Database Management"
 cited_by: 44
+outlet: "Journal of Database Management"
 ---
 
 Citation:

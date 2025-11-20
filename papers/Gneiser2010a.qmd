@@ -5,10 +5,11 @@ author:
 topic: ""
 categories: ['narrative-review']
 date: "2010"
-doi: ""
+doi: "https://doi.org/10.1007/S12599-010-0095-7"
 journal:
   name: "Business & Information Systems Engineering"
 cited_by: 0
+outlet: "Business & Information Systems Engineering"
 ---
 
 Citation:
@@ -21,6 +22,7 @@ Citation:
   year       = {2010},
   volume     = {2},
   number     = {2},
-  pages      = {95--103}
+  pages      = {95--103},
+  doi        = {10.1007/S12599-010-0095-7}
 }
 ```

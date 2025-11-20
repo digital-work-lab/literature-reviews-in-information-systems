@@ -12,6 +12,7 @@ doi: "https://doi.org/10.1007/S10796-020-10044-1"
 journal:
   name: "Information Systems Frontiers"
 cited_by: 274
+outlet: "Information Systems Frontiers"
 ---
 
 Citation:

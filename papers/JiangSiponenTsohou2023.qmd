@@ -1,0 +1,30 @@
+---
+title: "Personal use of technology at work: a literature review and a theoretical model for understanding how it affects employee job performance"
+author:
+- Jiang, Hemin
+- Siponen, Mikko T.
+- Tsohou, Aggeliki
+topic: ""
+categories: []
+date: "2023"
+doi: "https://doi.org/10.1080/0960085X.2021.1963193"
+journal:
+  name: "European Journal of Information Systems"
+cited_by: 21
+outlet: "European Journal of Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{JiangSiponenTsohou2023,
+  doi        = {10.1080/0960085X.2021.1963193},
+  author     = {Jiang, Hemin and Siponen, Mikko T. and Tsohou, Aggeliki},
+  journal    = {European Journal of Information Systems},
+  title      = {Personal use of technology at work: a literature review and a theoretical model for understanding how it affects employee job performance},
+  year       = {2023},
+  volume     = {32},
+  number     = {2},
+  dblp_key   = {https://dblp.org/rec/journals/ejis/JiangST23}
+}
+```

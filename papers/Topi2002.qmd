@@ -10,6 +10,7 @@ doi: "https://doi.org/10.4018/JDM.2002040101"
 journal:
   name: "Journal of Database Management"
 cited_by: 53
+outlet: "Journal of Database Management"
 ---
 
 Citation:

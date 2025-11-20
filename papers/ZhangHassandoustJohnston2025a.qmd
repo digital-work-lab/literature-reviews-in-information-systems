@@ -1,0 +1,31 @@
+---
+title: "Privacy in Smart Health Monitoring: A Systematic Review and Research Directions"
+author:
+- Zhang, Jingjing
+- Hassandoust, Farkhondeh
+- Johnston, Allen C.
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.17705/1CAIS.05713"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{ZhangHassandoustJohnston2025a,
+  doi        = {10.17705/1CAIS.05713},
+  author     = {Zhang, Jingjing and Hassandoust, Farkhondeh and Johnston, Allen C.},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Privacy in Smart Health Monitoring: A Systematic Review and Research Directions},
+  year       = {2025},
+  volume     = {57},
+  pages      = {318--364},
+  url        = {https://aisel.aisnet.org/cais/vol57/iss1/15},
+  abstract   = {Privacy concerns related to surveillance technologies are a primary deterrent for consumers hesitant to share their health data with service providers in smart health monitoring systems (SHMSs). These concerns can impede the adoption and operational success of SHMSs, leading to dissatisfaction among both consumers and service providers. Despite the significance of privacy, existing literature on SHMSs tends to offer a somewhat fragmented exploration of this concept due to the complex nature of surveillance and the involvement of multiple stakeholders. To address this gap, this study develops a contextual framework based on a systematic review of 49 peer-reviewed articles, offering valuable insights for scholars seeking to understand the multifaceted privacy concerns in SHMS contexts. The findings emphasize the importance of integrating theoretical perspectives that better capture the intricate dynamics of smart health environments, helping healthcare providers and policymakers identify and address potential privacy issues when developing and implementing surveillance systems for personal health information. Additionally, the study highlights existing knowledge gaps and proposes six research avenues to achieve a deeper understanding of privacy in SHMSs.}
+}
+```

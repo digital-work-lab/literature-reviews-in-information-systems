@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1016/S0963-8687(02)00022-7"
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 407
+outlet: "The Journal of Strategic Information Systems"
 ---
 
 Citation:

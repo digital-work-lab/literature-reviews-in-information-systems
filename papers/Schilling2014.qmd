@@ -7,8 +7,9 @@ categories: []
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.495"
 journal:
-  name: "Hawaii International Conference on System Sciences"
+  name: ""
 cited_by: 10
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:

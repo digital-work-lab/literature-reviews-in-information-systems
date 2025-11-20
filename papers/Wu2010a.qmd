@@ -10,6 +10,7 @@ doi: ""
 journal:
   name: "Journal of Computer Information Systems"
 cited_by: 0
+outlet: "Journal of Computer Information Systems"
 ---
 
 Citation:

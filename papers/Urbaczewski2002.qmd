@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1207/S15327744JOCE1204_1"
 journal:
   name: "Journal of Organizational Computing and Electronic Commerce"
 cited_by: 13
+outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
 
 Citation:

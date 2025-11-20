@@ -1,0 +1,32 @@
+---
+title: "Factors Affecting the Accessibility of IT Artifacts: A Systematic Review"
+author:
+- Mäkipää, Juho-Pekka
+- Norrgård, Johanna
+- Vartiainen, Tero
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.17705/1CAIS.05129"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 7
+outlet: "Communications of the Association for Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{MakipaaNorrgardVartiainen2022,
+  colrev_pdf_id = {cpid2:fffffffffc003ffffc00003ffc60003ff008090fffffffffe000001ff00ffffffff00ffffff00ffffe0910fffc07c03ffffe7ffff000000fe0000007e0000007e0000007e0000007e000007ff00000fff000000ff03ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffb9f7effffffffff},
+  file       = {data/pdfs/51/MakipaaNorrgardVartiainen2022.pdf},
+  doi        = {10.17705/1CAIS.05129},
+  author     = {Mäkipää, Juho-Pekka and Norrgård, Johanna and Vartiainen, Tero},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Factors Affecting the Accessibility of IT Artifacts: A Systematic Review},
+  year       = {2022},
+  volume     = {51},
+  pages      = {666--702},
+  url        = {https://aisel.aisnet.org/cais/vol51/iss1/26}
+}
+```

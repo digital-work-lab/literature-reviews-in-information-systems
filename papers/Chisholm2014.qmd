@@ -9,6 +9,7 @@ doi: ""
 journal:
   name: "Journal of Information Systems Education"
 cited_by: 0
+outlet: "Journal of Information Systems Education"
 ---
 
 Citation:

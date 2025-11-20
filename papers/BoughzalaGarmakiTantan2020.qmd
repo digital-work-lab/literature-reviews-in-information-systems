@@ -9,8 +9,9 @@ categories: []
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.040"
 journal:
-  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+  name: ""
 cited_by: 15
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
 ---
 
 Citation:

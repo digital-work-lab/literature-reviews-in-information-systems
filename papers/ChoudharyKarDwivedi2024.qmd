@@ -1,0 +1,32 @@
+---
+title: "How does Federated Learning Impact Decision-Making in Firms: A Systematic Literature Review"
+author:
+- Choudhary, Shweta Kumari
+- Kar, Arpan Kumar
+- Dwivedi, Yogesh K.
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.17705/1CAIS.05419"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 6
+outlet: "Communications of the Association for Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{ChoudharyKarDwivedi2024,
+  doi        = {10.17705/1CAIS.05419},
+  author     = {Choudhary, Shweta Kumari and Kar, Arpan Kumar and Dwivedi, Yogesh K.},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {How does Federated Learning Impact Decision-Making in Firms: A Systematic Literature Review},
+  year       = {2024},
+  volume     = {54},
+  pages      = {519--546},
+  url        = {https://aisel.aisnet.org/cais/vol54/iss1/22},
+  abstract   = {Federated Learning (FL) is a transformative, distributive computational approach that revolutionizes decision-making capabilities through decentralized data computation. Despite notable operational advantages stemming from FL implementation, the optimal selection of methods from the existing literature and the design of resource-efficient and model trained solutions continue to evolve. This research presents a comprehensive systematic literature review, offering insights into the current state of FL advancements. Our study amalgamates various pivotal components influencing FL performance and elucidates their associations, fostering sustainable competitiveness. To evaluate the progress in this domain, we adopt the Theory-Context-Characteristics-Methodology (TCCM) framework, which systematically assesses the theories, contextual factors, characteristics, and methodologies employed in FL research. We identify distinct methods which have been combined with the FL algorithm by the organization and its host, or in collaboration to reach goals and support efficient decision-making. We complement the findings of our literature review by providing a synthesis of theories about FL for informed decision-making while taking into consideration the distinctive capabilities and affordances it offers.},
+  dblp_key   = {https://dblp.org/rec/journals/cais/ChoudharyKD24}
+}
+```

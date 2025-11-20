@@ -10,6 +10,7 @@ doi: "https://doi.org/10.1111/J.1365-2575.2004.00179.X"
 journal:
   name: "Information Systems Journal"
 cited_by: 29
+outlet: "Information Systems Journal"
 ---
 
 Citation:

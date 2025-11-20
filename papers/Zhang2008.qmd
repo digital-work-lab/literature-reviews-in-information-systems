@@ -10,6 +10,7 @@ doi: "https://doi.org/10.4018/JGIM.2008010103"
 journal:
   name: "Journal of Global Information Management"
 cited_by: 26
+outlet: "Journal of Global Information Management"
 ---
 
 Citation:

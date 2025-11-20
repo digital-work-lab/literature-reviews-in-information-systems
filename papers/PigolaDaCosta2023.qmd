@@ -1,0 +1,31 @@
+---
+title: "Dynamic Capabilities in Cybersecurity Intelligence: A Meta-Synthesis to Enhance Protection Against Cyber Threats"
+author:
+- Pigola, Angélica
+- Da Costa, Priscila Rezende
+topic: ""
+categories: []
+date: "2023"
+doi: "https://doi.org/10.17705/1CAIS.05347"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 6
+outlet: "Communications of the Association for Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{PigolaDaCosta2023,
+  doi        = {10.17705/1CAIS.05347},
+  author     = {Pigola, Angélica and Da Costa, Priscila Rezende},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Dynamic Capabilities in Cybersecurity Intelligence: A Meta-Synthesis to Enhance Protection Against Cyber Threats},
+  year       = {2023},
+  volume     = {53},
+  pages      = {1099--1135},
+  url        = {https://aisel.aisnet.org/cais/vol53/iss1/46},
+  abstract   = {Advanced cybersecurity threats with automated capabilities are on the rise in industries such as finance, healthcare, technology, retail, telecoms, and transportation, as well as government. It is necessary to conduct analyses of cybersecurity-related resources and capabilities to build cybersecurity intelligence (CI). The purpose of this paper is to suggest a dynamic capability in a cybersecurity intelligence (DCCI) model based on existing literature that helped firms reduce risks of cyber violations and advance the development of systems and the life cycle of firms. Through a meta-synthesis, an abduction and induction approach through eight methodological steps analyzed in forty-seven case studies the presence of cybersecurity capabilities to build CI. Combining theoretical and practical information security maturity models as a foundation, we understand capabilities building to improve the predictability of cyber incidents. The results evidenced four second-order dimensions to build CI named doing, enabling, improving, and managing cybersecurity, and eight first-order outcomes to represent the DCCI model. This research makes an unprecedented contribution to international and national scenarios, as it will allow firms to innovate their resource management processes and abilities to enable better cybersecurity projects and reduce the impacts of potential cyberattacks with the probability of eradicating vulnerabilities.},
+  dblp_key   = {https://dblp.org/rec/journals/cais/PigolaC23}
+}
+```

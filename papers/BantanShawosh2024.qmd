@@ -1,0 +1,31 @@
+---
+title: "Chief Privacy Officer: A Systematic Literature Review and Future Research Directions"
+author:
+- Bantan, May
+- Shawosh, Mazen
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.17705/1CAIS.05429"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{BantanShawosh2024,
+  doi        = {10.17705/1CAIS.05429},
+  author     = {Bantan, May and Shawosh, Mazen},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Chief Privacy Officer: A Systematic Literature Review and Future Research Directions},
+  year       = {2024},
+  volume     = {54},
+  pages      = {792--814},
+  url        = {https://aisel.aisnet.org/cais/vol54/iss1/13},
+  abstract   = {As the digital landscape continues to evolve, the role of Chief Privacy Officers (CPOs) has emerged as an important component in improving organizations' information privacy management and practices. Hence, a synthesis of CPO extant studies is critical for both academics and practitioners to understand the CPO's tasks and responsibilities and how such a role leads to positive privacy-related organizational outcomes. This paper addresses a gap in the organizational information privacy literature by presenting a comprehensive and systematic literature review of the CPO role from 2000 to 2020. With the increasing recognition of CPOs' pivotal roles in enhancing information privacy practices across diverse sectors, this review aims to synthesize recent articles, identify research themes, pinpoint knowledge gaps, and propose avenues for future research. The study's contribution lies in providing a comprehensive literature review at the intersection of two main IS research streams: information privacy and IS leadership. We find limited research on information privacy that examines the CPO's role within relevant journals and conferences. The central theme that emerges from the literature is about identifying the CPO managerial roles, responsibilities, and background. We conclude by calling for more empirical research for a better understanding of the role and its impact.},
+  dblp_key   = {https://dblp.org/rec/journals/cais/BantanS24}
+}
+```

@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1016/J.IM.2020.103411"
 journal:
   name: "Information & Management"
 cited_by: 126
+outlet: "Information & Management"
 ---
 
 Citation:

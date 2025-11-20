@@ -9,6 +9,7 @@ doi: "https://doi.org/10.4018/IRMJ.2004100102"
 journal:
   name: "Information Resources Management Journal"
 cited_by: 40
+outlet: "Information Resources Management Journal"
 ---
 
 Citation:

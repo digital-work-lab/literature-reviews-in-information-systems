@@ -11,6 +11,7 @@ doi: "https://doi.org/10.4018/JOEUC.2003100101"
 journal:
   name: "Journal of Organizational and End User Computing"
 cited_by: 92
+outlet: "Journal of Organizational and End User Computing"
 ---
 
 Citation:

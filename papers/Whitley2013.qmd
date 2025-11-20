@@ -11,6 +11,7 @@ doi: ""
 journal:
   name: "Journal of International Technology & Information Management"
 cited_by: 0
+outlet: "Journal of International Technology & Information Management"
 ---
 
 Citation:

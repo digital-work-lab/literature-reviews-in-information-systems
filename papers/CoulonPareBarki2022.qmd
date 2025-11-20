@@ -1,0 +1,32 @@
+---
+title: "Unexpected Events in IT Projects: A Conceptual Review and Research Agenda"
+author:
+- Coulon, Thibaut
+- Paré, Guy
+- Barki, Henri
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.17705/1CAIS.05242"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 3
+outlet: "Communications of the Association for Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{CoulonPareBarki2022,
+  doi        = {10.17705/1CAIS.05242},
+  author     = {Coulon, Thibaut and Paré, Guy and Barki, Henri},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Unexpected Events in IT Projects: A Conceptual Review and Research Agenda},
+  year       = {2022},
+  volume     = {52},
+  pages      = {877--909},
+  url        = {https://aisel.aisnet.org/cais/vol52/iss1/41},
+  abstract   = {When unexpected events occur, IT project teams need to react appropriately in order to limit the potentially negative, and sometimes disastrous consequences of such events. Yet, while past research has identified unexpected events as being an important aspect to consider when managing projects, the existing literature does not provide a clear conceptualization of this concept which limits the development of new theories and thus the ability to guide practitioners. Based on a literature review and to advance our understanding of unexpected events in IT projects and their effective management, and facilitate future theoretical developments on IT project management, the present paper develops a conceptualization that clearly distinguishes this concept from other closely related ones, as well as proposing a research framework that links it to IT project team responses and their consequences. A detailed research agenda, integrating current advances in different fields, is developed to highlight future research avenues.},
+  dblp_key   = {https://dblp.org/rec/journals/cais/CoulonPB22}
+}
+```

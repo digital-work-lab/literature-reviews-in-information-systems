@@ -12,6 +12,7 @@ doi: "https://doi.org/10.1057/JIT.2013.20"
 journal:
   name: "Journal of Information Technology"
 cited_by: 60
+outlet: "Journal of Information Technology"
 ---
 
 Citation:

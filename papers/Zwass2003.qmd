@@ -9,6 +9,7 @@ doi: ""
 journal:
   name: "International Journal of Electronic Commerce"
 cited_by: 0
+outlet: "International Journal of Electronic Commerce"
 ---
 
 Citation:

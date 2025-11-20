@@ -10,8 +10,9 @@ categories: []
 date: "2017"
 doi: "https://doi.org/10.24251/HICSS.2017.571"
 journal:
-  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+  name: ""
 cited_by: 7
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
 ---
 
 Citation:

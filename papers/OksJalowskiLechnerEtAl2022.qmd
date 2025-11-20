@@ -1,0 +1,35 @@
+---
+title: "Cyber-Physical Systems in the Context of Industry 4.0: A Review, Categorization and Outlook"
+author:
+- Oks, Sascha Julian
+- Jalowski, Max
+- Lechner, Michael
+- Mirschberger, Stefan
+- Merklein, Marion
+- Vogel-Heuser, Birgit
+- Möslein, Kathrin M.
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1007/S10796-022-10252-X"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 63
+outlet: "Information Systems Frontiers"
+---
+
+Citation:
+
+```bibtex
+@article{OksJalowskiLechnerEtAl2022,
+  doi        = {10.1007/S10796-022-10252-X},
+  author     = {Oks, Sascha Julian and Jalowski, Max and Lechner, Michael and Mirschberger, Stefan and Merklein, Marion and Vogel-Heuser, Birgit and Möslein, Kathrin M.},
+  journal    = {Information Systems Frontiers},
+  title      = {Cyber-Physical Systems in the Context of Industry 4.0: A Review, Categorization and Outlook},
+  year       = {2022},
+  volume     = {26},
+  number     = {5},
+  url        = {https://link.springer.com/article/10.1007/s10796-022-10252-x},
+  abstract   = {Abstract Cyber-physical systems (CPS) offer great potential for the digital transformation of industrial value creation in the context of Industry 4.0. They unify and integrate several technological approaches, including big data analysis and artificial intelligence, enhancing real-time monitoring and control of manufacturing processes. An extensive knowledge base formed by various disciplines, including information systems, engineering, and computer science, already exists for CPS. However, this knowledge has not been holistically captured and structured to date. To address this research gap, this study conducts a large-scale literature review of 2365 papers representing the current state of the research and then develops a novel categorization on industrial CPS with 10 sections, 32 areas, and 246 fields. The categorization is presented in hierarchical graphical form and can also be utilized as a web tool. To conclude, a perspective on future research needs and potentials to enhance Industry 4.0 in both research and practice are offered.}
+}
+```

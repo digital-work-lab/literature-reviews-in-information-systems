@@ -7,8 +7,9 @@ categories: []
 date: "2015"
 doi: ""
 journal:
-  name: "Americas Conference on Information Systems"
+  name: ""
 cited_by: 0
+outlet: "Americas Conference on Information Systems"
 ---
 
 Citation:

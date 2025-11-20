@@ -1,0 +1,33 @@
+---
+title: "A systematic review on cross-cultural information systems research - Evidence from the last decade"
+author:
+- Chu, Xinmin
+- Luo, Xin
+- Chen, Yan
+topic: ""
+categories: []
+date: "2019"
+doi: "https://doi.org/10.1016/J.IM.2018.08.001"
+journal:
+  name: "Information & Management"
+cited_by: 32
+outlet: "Information & Management"
+---
+
+Citation:
+
+```bibtex
+@article{ChuLuoChen2019,
+  colrev_pdf_id = {cpid2:ffffffffffffffffc6d00f43c4000023c4000033c0000003ffffffffc00fffe7c427ffffc01fffffffffffffffefffffcfe00003c7e00003ffffffffeffffe6fe0010003c0010003c0010003c0008103c0018003c0010003c0018003c0010003c0010003c0000003ffb5bddfefffffffe1ffffffc01fffffffffffffffffffff},
+  file       = {data/pdfs/56_3/ChuLuoChen2019.pdf},
+  doi        = {10.1016/J.IM.2018.08.001},
+  author     = {Chu, Xinmin and Luo, Xin and Chen, Yan},
+  journal    = {Information & Management},
+  title      = {A systematic review on cross-cultural information systems research - Evidence from the last decade},
+  year       = {2019},
+  volume     = {56},
+  number     = {3},
+  pages      = {403--417},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0378720618303422}
+}
+```

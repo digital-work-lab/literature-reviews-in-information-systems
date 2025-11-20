@@ -1,0 +1,30 @@
+---
+title: "A Meta-Analysis of Deterrence Theory in Information Security Policy Compliance Research"
+author:
+- Trang, Simon
+- Brendel, Benedikt
+topic: ""
+categories: ['meta-analysis']
+date: "2019"
+doi: "https://doi.org/10.1007/S10796-019-09956-4"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 70
+outlet: "Information Systems Frontiers"
+---
+
+Citation:
+
+```bibtex
+@article{TrangBrendel2019,
+  doi        = {10.1007/S10796-019-09956-4},
+  author     = {Trang, Simon and Brendel, Benedikt},
+  journal    = {Information Systems Frontiers},
+  title      = {A Meta-Analysis of Deterrence Theory in Information Security Policy Compliance Research},
+  year       = {2019},
+  volume     = {21},
+  number     = {6},
+  pages      = {1265--1284},
+  url        = {https://link.springer.com/article/10.1007/s10796-019-09956-4}
+}
+```

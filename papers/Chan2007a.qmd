@@ -10,6 +10,7 @@ doi: "https://doi.org/10.1057/PALGRAVE.JIT.2000109"
 journal:
   name: "Journal of Information Technology"
 cited_by: 595
+outlet: "Journal of Information Technology"
 ---
 
 Citation:

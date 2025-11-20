@@ -12,6 +12,7 @@ doi: "https://doi.org/10.1080/08874417.2014.11645708"
 journal:
   name: "Journal of Computer Information Systems"
 cited_by: 26
+outlet: "Journal of Computer Information Systems"
 ---
 
 Citation:

@@ -10,6 +10,7 @@ doi: "https://doi.org/10.1080/15228053.2005.10856070"
 journal:
   name: "Journal of Information Technology Case and Application Research"
 cited_by: 40
+outlet: "Journal of Information Technology Case and Application Research"
 ---
 
 Citation:

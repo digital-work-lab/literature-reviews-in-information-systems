@@ -50,13 +50,28 @@ plot_ly(
 ## Journals
 
 ```{r}
-#| label: journal_freq
-#| tbl-cap: "Frequency of journals"
+#| label: outlet_freq
+#| tbl-cap: "Frequency of publication outlets (journal or, if empty, booktitle)"
 
 df %>%
-  dplyr::count(journal, sort = TRUE) %>%
+  dplyr::mutate(
+    outlet = dplyr::coalesce(
+      dplyr::na_if(journal, ""),
+      dplyr::na_if(booktitle, "")
+    )
+  ) %>%
+  dplyr::count(outlet, sort = TRUE) %>%
   DT::datatable(
-    options = list(pageLength = 10),
+    extensions = "Buttons",
+    options = list(
+      pageLength = 10,
+      dom = "Bfrtip",
+      buttons = list(
+        list(extend = "copy", text = "Copy"),
+        list(extend = "csv",  text = "Download CSV", filename = "outlet_frequencies"),
+        list(extend = "excel", text = "Download Excel", filename = "outlet_frequencies")
+      )
+    ),
     rownames = FALSE
   )
 ```

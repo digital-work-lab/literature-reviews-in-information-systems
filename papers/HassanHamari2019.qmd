@@ -8,8 +8,9 @@ categories: []
 date: "2019"
 doi: "https://doi.org/10.24251/HICSS.2019.372"
 journal:
-  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+  name: ""
 cited_by: 32
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
 ---
 
 Citation:

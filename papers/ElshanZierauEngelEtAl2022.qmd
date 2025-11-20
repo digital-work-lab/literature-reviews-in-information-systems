@@ -1,0 +1,34 @@
+---
+title: "Understanding the Design Elements Affecting User Acceptance of Intelligent Agents: Past, Present and Future"
+author:
+- Elshan, Edona
+- Zierau, Naim
+- Engel, Christian
+- Janson, Andreas
+- Leimeister, Jan Marco
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1007/S10796-021-10230-9"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 47
+outlet: "Information Systems Frontiers"
+---
+
+Citation:
+
+```bibtex
+@article{ElshanZierauEngelEtAl2022,
+  doi        = {10.1007/S10796-021-10230-9},
+  author     = {Elshan, Edona and Zierau, Naim and Engel, Christian and Janson, Andreas and Leimeister, Jan Marco},
+  journal    = {Information Systems Frontiers},
+  title      = {Understanding the Design Elements Affecting User Acceptance of Intelligent Agents: Past, Present and Future},
+  year       = {2022},
+  volume     = {24},
+  number     = {3},
+  pages      = {699--730},
+  url        = {https://link.springer.com/article/10.1007/s10796-021-10230-9},
+  abstract   = {Abstract Intelligent agents (IAs) are permeating both business and society. However, interacting with IAs poses challenges moving beyond technological limitations towards the human-computer interface. Thus, the knowledgebase related to interaction with IAs has grown exponentially but remains segregated and impedes the advancement of the field. Therefore, we conduct a systematic literature review to integrate empirical knowledge on user interaction with IAs. This is the first paper to examine 107 Information Systems and Human-Computer Interaction papers and identified 389 relationships between design elements and user acceptance of IAs. Along the independent and dependent variables of these relationships, we span a research space model encompassing empirical research on designing for IA user acceptance. Further we contribute to theory, by presenting a research agenda along the dimensions of the research space, which shall be useful to both researchers and practitioners. This complements the past and present knowledge on designing for IA user acceptance with potential pathways into the future of IAs.}
+}
+```

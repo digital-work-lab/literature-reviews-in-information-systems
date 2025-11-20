@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1007/S12599-011-0151-Y"
 journal:
   name: "Business & Information Systems Engineering"
 cited_by: 57
+outlet: "Business & Information Systems Engineering"
 ---
 
 Citation:

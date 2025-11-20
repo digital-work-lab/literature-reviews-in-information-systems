@@ -10,6 +10,7 @@ doi: "https://doi.org/10.1016/J.ELERAP.2011.01.001"
 journal:
   name: "Electronic Commerce Research and Applications"
 cited_by: 80
+outlet: "Electronic Commerce Research and Applications"
 ---
 
 Citation:

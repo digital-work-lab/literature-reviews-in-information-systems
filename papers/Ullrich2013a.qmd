@@ -9,6 +9,7 @@ doi: "https://doi.org/10.1007/S12599-013-0286-0"
 journal:
   name: "Business & Information Systems Engineering"
 cited_by: 30
+outlet: "Business & Information Systems Engineering"
 ---
 
 Citation:

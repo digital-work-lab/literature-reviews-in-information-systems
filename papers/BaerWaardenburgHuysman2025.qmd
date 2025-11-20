@@ -1,0 +1,33 @@
+---
+title: "What Is Augmented? A Metanarrative Review of AI-Based Augmentation Augmentation"
+author:
+- Baer, Inès
+- Waardenburg, Lauren
+- Huysman, Marleen
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.17705/1JAIS.00921"
+journal:
+  name: "Journal of the Association for Information Systems"
+cited_by: 0
+outlet: "Journal of the Association for Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{BaerWaardenburgHuysman2025,
+  file       = {data/pdfs/26_3/What Is Augmented_ A Metanarrative Review of AI-Based Augmentatio.pdf},
+  doi        = {10.17705/1JAIS.00921},
+  author     = {Baer, Inès and Waardenburg, Lauren and Huysman, Marleen},
+  journal    = {Journal of the Association for Information Systems},
+  title      = {What Is Augmented? A Metanarrative Review of AI-Based Augmentation Augmentation},
+  year       = {2025},
+  volume     = {26},
+  number     = {3},
+  pages      = {760--798},
+  url        = {https://aisel.aisnet.org/jais/vol26/iss3/5},
+  abstract   = {The widespread implementation of artificial intelligence (AI) in organizations has given rise to an increasing focus on augmentation in the academic and public discourse. While the verb “to augment,” defined as a process to make something greater or more numerous, is often used in IS research, it lacks a discussion of what the targets of such a process could be. In other words: What is augmented? Our paper builds on the literature of five research disciplines in which augmentation is a particularly prevalent topic—i.e., computer science, information systems, economics, management, and philosophy. Accordingly, we identified four metanarratives that represent four distinct targets of AI-based augmentation—the body, cognition, work, and performance—that build on unique human-AI configurations and bring to the fore specific augmentation tensions. Using these insights, we formulate avenues for further IS research on AI-based augmentation.}
+}
+```

@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1080/15228053.2006.10856087"
 journal:
   name: "Journal of Information Technology Case and Application Research"
 cited_by: 6
+outlet: "Journal of Information Technology Case and Application Research"
 ---
 
 Citation:

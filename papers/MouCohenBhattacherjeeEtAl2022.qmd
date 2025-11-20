@@ -1,0 +1,36 @@
+---
+title: "A Test of Protection Motivation Theory in the Information Security Literature: A Meta-Analytic Structural Equation Modeling Approach in Search Advertising"
+author:
+- Mou, Jian
+- Cohen, Jason
+- Bhattacherjee, Anol
+- Kim, Jongki
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.17705/1JAIS.00723"
+journal:
+  name: "Journal of the Association for Information Systems"
+cited_by: 50
+outlet: "Journal of the Association for Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{MouCohenBhattacherjeeEtAl2022,
+  colrev_pdf_id = {cpid2:fffffffffdfffffff87ffc0ff8400007fdc0000ffffffffffffffffff000000ff100000fffffffffff8011ffff8001ffffc003fffffefffff800001ff800003ffc00001ffc00003ffc00003ffc00003ffc00001ffc0001fff800003ff000094ff87f902ff079800ff001800ff001800ff001800fffff914fffffffffffffffff},
+  file       = {data/pdfs/23_1/MouCohenBhattacherjeeEtAl2022.pdf},
+  doi        = {10.17705/1JAIS.00723},
+  author     = {Mou, Jian and Cohen, Jason and Bhattacherjee, Anol and Kim, Jongki},
+  journal    = {Journal of the Association for Information Systems},
+  title      = {A Test of Protection Motivation Theory in the Information Security Literature: A Meta-Analytic Structural Equation Modeling Approach in Search Advertising},
+  year       = {2022},
+  volume     = {23},
+  number     = {1},
+  pages      = {196--236},
+  url        = {https://aisel.aisnet.org/jais/vol23/iss1/6/},
+  abstract   = {Information security is one of the important domains of information systems research today, with protection motivation theory (PMT) one of its most influential theoretical lenses. However, empirical findings based on PMT are often inconsistent and inconclusive. To reconcile these inconsistent findings, we conducted a meta-analysis to investigate the relationships among PMT constructs while also considering additional contextual constructs that are not specified in PMT. Ninety-two published studies were meta-analyzed and estimated using structural equation modeling. Our results provide support for three of the five predictors of security motivation intention, as postulated by PMT, mixed support for perceived vulnerability, and no support for response cost. We found that coping appraisal variables of response efficacy and self-efficacy have the largest average effects on security behavior. In addition, cultural attributes of collectivism and individualism moderated some of the pairwise correlations, PMT-theoretic relationships were generally stronger in personal contexts than in workplace contexts, and the intention-behavior relationship was strongest in workplace and compliance settings. Our results contribute to the information security literature by providing guidance for future PMT-related research and by demonstrating how meta-analysis and structural equation modeling can be combined to test theories in information systems research.},
+  dblp_key   = {https://dblp.org/rec/journals/jais/MouCBK22}
+}
+```

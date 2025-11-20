@@ -1,0 +1,32 @@
+---
+title: "Explaining Digital Piracy - A Meta-Analysis"
+author:
+- Eisend, Martin
+topic: ""
+categories: ['meta-analysis']
+date: "2019"
+doi: "https://doi.org/10.1287/ISRE.2018.0821"
+journal:
+  name: "Information Systems Research"
+cited_by: 48
+outlet: "Information Systems Research"
+---
+
+Citation:
+
+```bibtex
+@article{Eisend2019,
+  colrev_pdf_id = {cpid2:ffffffffe3ffe007e1fff807ffffffffc0000fffc3ffffffc001ffffc1c00007c0400007e0c00007edc00007ffc00007ffc00003ffc00007ffc001ffe800000fe3ff1007c1b58007e0018007c0018007c0018007c0018007e0018007e0018007e0018007e0018007c0018007e0018017e0018007e0018007ffffffffffffffff},
+  file       = {data/pdfs/30_2/Eisend2019.pdf},
+  doi        = {10.1287/ISRE.2018.0821},
+  author     = {Eisend, Martin},
+  journal    = {Information Systems Research},
+  title      = {Explaining Digital Piracy - A Meta-Analysis},
+  year       = {2019},
+  volume     = {30},
+  number     = {2},
+  pages      = {636--664},
+  url        = {https://www.doi.org/10.1287/ISRE.2018.0821},
+  abstract   = {Why do users engage in digital piracy? The theoretical explanations are particularistic and the empirical findings are fragmented and divergent. Managers and academics have thus had little guidance on how to explain and combat digital piracy. To help fill this gap, the present paper provides a meta-analysis that synthesizes past research and identifies the key drivers of users’ engagement in digital piracy. The findings identify new measures and revise existing strategies to confront the global threat of digital piracy. Effective anti-piracy measures focus on breaking habits, reducing users’ control, suppressing justifications, and changing attitudes. Breaking habits requires technical control strategies such as impeding access to pirate sites, and should be accompanied by legislative demands. Impairing the attractiveness of pirate websites while providing high quality content on legitimate channels weakens illegal users’ perceived control. Enhanced features and functionality of legal products and websites that are easy accessible strengthens legal users’ perceived control. While many existing anti-piracy campaigns foster positive appeals (e.g., supporting the industry), describing the risks and loss of control seem more promising. As for targeting, psychographics provide a better portrait of pirating users than demographics—they appreciate sharing, are innovative, less risk averse, less susceptible to influence, and of lower integrity. Finally, making more legal copies available to users is discouraged.}
+}
+```

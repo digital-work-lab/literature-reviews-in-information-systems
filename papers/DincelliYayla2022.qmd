@@ -1,0 +1,28 @@
+---
+title: "Immersive virtual reality in the age of the Metaverse: A hybrid-narrative review based on the technology affordance perspective"
+author:
+- Dincelli, Ersin
+- Yayla, Alper
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1016/J.JSIS.2022.101717"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 368
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{DincelliYayla2022,
+  doi        = {10.1016/J.JSIS.2022.101717},
+  author     = {Dincelli, Ersin and Yayla, Alper},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Immersive virtual reality in the age of the Metaverse: A hybrid-narrative review based on the technology affordance perspective},
+  year       = {2022},
+  volume     = {31},
+  number     = {2}
+}
+```

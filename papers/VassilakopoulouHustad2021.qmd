@@ -1,0 +1,29 @@
+---
+title: "Bridging Digital Divides: a Literature Review and Research Agenda for Information Systems Research"
+author:
+- Vassilakopoulou, Polyxeni
+- Hustad, Eli
+topic: ""
+categories: []
+date: "2021"
+doi: "https://doi.org/10.1007/S10796-020-10096-3"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 283
+outlet: "Information Systems Frontiers"
+---
+
+Citation:
+
+```bibtex
+@article{VassilakopoulouHustad2021,
+  doi        = {10.1007/S10796-020-10096-3},
+  author     = {Vassilakopoulou, Polyxeni and Hustad, Eli},
+  journal    = {Information Systems Frontiers},
+  title      = {Bridging Digital Divides: a Literature Review and Research Agenda for Information Systems Research},
+  year       = {2021},
+  volume     = {25},
+  number     = {3},
+  url        = {https://link.springer.com/article/10.1007/s10796-020-10096-3}
+}
+```

@@ -1,0 +1,31 @@
+---
+title: "Identifying the patterns: Towards a systematic approach to digital platform regulation"
+author:
+- Gleiss, Alexander
+- Degen, Konrad
+- Pousttchi, Key
+topic: ""
+categories: []
+date: "2023"
+doi: "https://doi.org/10.1177/02683962221146803"
+journal:
+  name: "Journal of Information Technology"
+cited_by: 23
+outlet: "Journal of Information Technology"
+---
+
+Citation:
+
+```bibtex
+@article{GleissDegenPousttchi2023,
+  doi        = {10.1177/02683962221146803},
+  author     = {Gleiss, Alexander and Degen, Konrad and Pousttchi, Key},
+  journal    = {Journal of Information Technology},
+  title      = {Identifying the patterns: Towards a systematic approach to digital platform regulation},
+  year       = {2023},
+  volume     = {38},
+  number     = {2},
+  abstract   = {Digital platforms have proven to be efficient matchmakers in our networked economy and society. However, their tremendous potential is a double-edged sword, and concerns about their malpractices and negative impact have risen remarkably. In the light of practical relevance, research on digital platform regulation (DPR) did not contribute very much. Especially information systems (IS) which, as a discipline, seems predestined to explain the problems at the confluence of technology–economy–society, has barely grazed the issue of DPR. Particularly, a contribution is missing that at least explores the problems with digital platforms systematically and comprehensively. In response to this aim, we pursue a two-step approach: First, we apply qualitative meta-analysis of 211 cases as well as a number of regulation papers and actual regulation endeavors to identify and conceptualize the problem scope and potential regulatory approaches for platform problems. Second, we condense our findings into a conceptual model. Our findings show that digital platforms exploit both platform- and monopoly-related problems to assert themselves in different markets. Through their impactful platform governance, they even have become serious challengers to the regulator in controlling market access, key conditions, and resources. At this, they rely on the efficient use of data and digital technologies to effectively orchestrate platform agents and their transactions. The outcome of the paper is a set of two structured instruments that fill a void in interdisciplinary research and provide support to DPR practitioners for a systematic approach to regulation.},
+  fulltext   = {http://journals.sagepub.com/doi/pdf/10.1177/02683962221146803}
+}
+```

@@ -10,8 +10,9 @@ categories: []
 date: "2010"
 doi: "https://doi.org/10.1109/HICSS.2010.265"
 journal:
-  name: "Hawaii International Conference on System Sciences"
+  name: ""
 cited_by: 1
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:

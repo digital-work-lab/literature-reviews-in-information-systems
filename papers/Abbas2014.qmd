@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1108/ITP-12-2012-0156"
 journal:
   name: "Information Technology & People"
 cited_by: 42
+outlet: "Information Technology & People"
 ---
 
 Citation:

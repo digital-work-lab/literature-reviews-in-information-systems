@@ -9,6 +9,7 @@ doi: "https://doi.org/10.1108/ITP-11-2012-0138"
 journal:
   name: "Information Technology & People"
 cited_by: 11
+outlet: "Information Technology & People"
 ---
 
 Citation:

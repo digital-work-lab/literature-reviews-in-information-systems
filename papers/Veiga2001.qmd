@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1080/02683960121858"
 journal:
   name: "Journal of Information Technology"
 cited_by: 10
+outlet: "Journal of Information Technology"
 ---
 
 Citation:

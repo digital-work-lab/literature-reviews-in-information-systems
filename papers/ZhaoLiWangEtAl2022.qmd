@@ -1,0 +1,33 @@
+---
+title: "A Meta-Analysis of Online Impulsive Buying and the Moderating Effect of Economic Development Level"
+author:
+- Zhao, Yang
+- Li, Yixuan
+- Wang, Ning
+- Zhou, Ruoxin
+- Luo, Xin
+topic: ""
+categories: ['meta-analysis']
+date: "2022"
+doi: "https://doi.org/10.1007/S10796-021-10170-4"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 84
+outlet: "Information Systems Frontiers"
+---
+
+Citation:
+
+```bibtex
+@article{ZhaoLiWangEtAl2022,
+  doi        = {10.1007/S10796-021-10170-4},
+  author     = {Zhao, Yang and Li, Yixuan and Wang, Ning and Zhou, Ruoxin and Luo, Xin},
+  journal    = {Information Systems Frontiers},
+  title      = {A Meta-Analysis of Online Impulsive Buying and the Moderating Effect of Economic Development Level},
+  year       = {2022},
+  volume     = {24},
+  number     = {5},
+  pages      = {1667--1688},
+  url        = {https://link.springer.com/article/10.1007/s10796-021-10170-4}
+}
+```

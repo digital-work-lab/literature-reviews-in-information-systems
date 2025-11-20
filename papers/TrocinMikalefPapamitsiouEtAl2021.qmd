@@ -1,0 +1,32 @@
+---
+title: "Responsible AI for Digital Health: a Synthesis and a Research Agenda"
+author:
+- Trocin, Cristina
+- Mikalef, Patrick
+- Papamitsiou, Zacharoula
+- Conboy, Kieran
+topic: ""
+categories: []
+date: "2021"
+doi: "https://doi.org/10.1007/S10796-021-10146-4"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 121
+outlet: "Information Systems Frontiers"
+---
+
+Citation:
+
+```bibtex
+@article{TrocinMikalefPapamitsiouEtAl2021,
+  doi        = {10.1007/S10796-021-10146-4},
+  author     = {Trocin, Cristina and Mikalef, Patrick and Papamitsiou, Zacharoula and Conboy, Kieran},
+  journal    = {Information Systems Frontiers},
+  title      = {Responsible AI for Digital Health: a Synthesis and a Research Agenda},
+  year       = {2021},
+  volume     = {25},
+  number     = {6},
+  url        = {https://link.springer.com/article/10.1007/s10796-021-10146-4},
+  abstract   = {Abstract Responsible AI is concerned with the design, implementation and use of ethical, transparent, and accountable AI technology in order to reduce biases, promote fairness, equality, and to help facilitate interpretability and explainability of outcomes, which are particularly pertinent in a healthcare context. However, the extant literature on health AI reveals significant issues regarding each of the areas of responsible AI, posing moral and ethical consequences. This is particularly concerning in a health context where lives are at stake and where there are significant sensitivities that are not as pertinent in other domains outside of health. This calls for a comprehensive analysis of health AI using responsible AI concepts as a structural lens. A systematic literature review supported our data collection and sampling procedure, the corresponding analysis, and extraction of research themes helped us provide an evidence-based foundation. We contribute with a systematic description and explanation of the intellectual structure of Responsible AI in digital health and develop an agenda for future research.}
+}
+```

@@ -9,6 +9,7 @@ doi: "https://doi.org/10.4018/JDM.2008070104"
 journal:
   name: "Journal of Database Management"
 cited_by: 12
+outlet: "Journal of Database Management"
 ---
 
 Citation:

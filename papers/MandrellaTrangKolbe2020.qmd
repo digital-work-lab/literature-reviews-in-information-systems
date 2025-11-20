@@ -1,0 +1,33 @@
+---
+title: "Synthesizing and Integrating Research on IT-Based Value Cocreation - A Meta-Analysis"
+author:
+- Mandrella, Markus
+- Trang, Simon
+- Kolbe, Lutz M.
+topic: ""
+categories: ['meta-analysis']
+date: "2020"
+doi: "https://doi.org/10.17705/1JAIS.00606"
+journal:
+  name: "Journal of the Association for Information Systems"
+cited_by: 14
+outlet: "Journal of the Association for Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{MandrellaTrangKolbe2020,
+  colrev_pdf_id = {cpid2:fffffffffdfffffff87ffc0ff8400007fdc00007fffffffffffffffffe0000fffe00007fffffffffffc003ffffc001fffffe7ffff800003ffc00003ffc00003ffc00003ff800003ffc00003ffc00003ffc00003ffc00003ffceffffff8d0003ff1846fcff8ff8b2ff011800ff001800ff001800ff0019a7fffffffffffffffff},
+  file       = {data/pdfs/21_2/MandrellaTrangKolbe2020.pdf},
+  doi        = {10.17705/1JAIS.00606},
+  author     = {Mandrella, Markus and Trang, Simon and Kolbe, Lutz M.},
+  journal    = {Journal of the Association for Information Systems},
+  title      = {Synthesizing and Integrating Research on IT-Based Value Cocreation - A Meta-Analysis},
+  year       = {2020},
+  volume     = {21},
+  number     = {2},
+  pages      = {388--427},
+  url        = {https://aisel.aisnet.org/jais/vol21/iss2/4}
+}
+```

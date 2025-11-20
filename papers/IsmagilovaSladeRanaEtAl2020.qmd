@@ -1,0 +1,33 @@
+---
+title: "The Effect of Electronic Word of Mouth Communications on Intention to Buy: A Meta-Analysis"
+author:
+- Ismagilova, Elvira
+- Slade, Emma L.
+- Rana, Nripendra P.
+- Dwivedi, Yogesh K.
+topic: ""
+categories: ['meta-analysis']
+date: "2020"
+doi: "https://doi.org/10.1007/S10796-019-09924-Y"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 220
+outlet: "Information Systems Frontiers"
+---
+
+Citation:
+
+```bibtex
+@article{IsmagilovaSladeRanaEtAl2020,
+  doi        = {10.1007/S10796-019-09924-Y},
+  author     = {Ismagilova, Elvira and Slade, Emma L. and Rana, Nripendra P. and Dwivedi, Yogesh K.},
+  journal    = {Information Systems Frontiers},
+  title      = {The Effect of Electronic Word of Mouth Communications on Intention to Buy: A Meta-Analysis},
+  year       = {2020},
+  volume     = {22},
+  number     = {5},
+  pages      = {1203--1226},
+  url        = {https://link.springer.com/article/10.1007/s10796-019-09924-y},
+  abstract   = {Abstract The aim of this research is to synthesise findings from previous studies by employing weight and meta-analysis to reconcile conflicting evidence and draw a “big picture” of eWOM factors influencing consumers’ intention to buy. By using the findings from 69 studies, this research identified best (e.g. argument quality, valence, eWOM usefulness, trust in message), promising (e.g. eWOM credibility, emotional trust, attitude towards website) and least effective (e.g. volume, existing eWOM, source credibility) predictors of intention to buy in eWOM research. Additionally, the effect size of each predictor was calculated by performing meta-analysis. For academics, understanding what influences consumers’ intention to buy will help set the agenda for future research directions; for practitioners, it will provide benefit in terms of practical guidance based on detailed analysis of specific factors influencing consumers’ intention to buy, which could enhance their marketing activities.}
+}
+```

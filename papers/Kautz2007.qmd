@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1111/J.1365-2575.2007.00222.X"
 journal:
   name: "Information Systems Journal"
 cited_by: 60
+outlet: "Information Systems Journal"
 ---
 
 Citation:

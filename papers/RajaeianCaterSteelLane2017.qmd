@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1016/J.DSS.2017.07.002"
 journal:
   name: "Decision Support Systems"
 cited_by: 37
+outlet: "Decision Support Systems"
 ---
 
 Citation:

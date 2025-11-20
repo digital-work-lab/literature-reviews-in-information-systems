@@ -8,8 +8,9 @@ categories: []
 date: "2020"
 doi: ""
 journal:
-  name: "European Conference on Information Systems"
+  name: ""
 cited_by: 0
+outlet: "European Conference on Information Systems"
 ---
 
 Citation:

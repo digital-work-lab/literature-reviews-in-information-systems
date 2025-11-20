@@ -12,6 +12,7 @@ doi: "https://doi.org/10.2307/41703470"
 journal:
   name: "MIS Quarterly"
 cited_by: 370
+outlet: "MIS Quarterly"
 ---
 
 Citation:

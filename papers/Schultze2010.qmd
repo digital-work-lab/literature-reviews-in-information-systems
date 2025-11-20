@@ -9,6 +9,7 @@ doi: "https://doi.org/10.1057/JIT.2010.25"
 journal:
   name: "Journal of Information Technology"
 cited_by: 96
+outlet: "Journal of Information Technology"
 ---
 
 Citation:

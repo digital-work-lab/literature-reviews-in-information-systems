@@ -9,6 +9,7 @@ doi: "https://doi.org/10.1016/J.JSIS.2014.11.001"
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 58
+outlet: "The Journal of Strategic Information Systems"
 ---
 
 Citation:

@@ -10,6 +10,7 @@ doi: "https://doi.org/10.25300/MISQ/2013/37.1.10"
 journal:
   name: "MIS Quarterly"
 cited_by: 119
+outlet: "MIS Quarterly"
 ---
 
 Citation:

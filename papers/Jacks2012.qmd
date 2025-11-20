@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1080/1097198X.2012.10845622"
 journal:
   name: "Journal of Global Information Technology Management"
 cited_by: 26
+outlet: "Journal of Global Information Technology Management"
 ---
 
 Citation:

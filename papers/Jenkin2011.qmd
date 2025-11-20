@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1016/J.INFOANDORG.2010.09.003"
 journal:
   name: "Information and Organization"
 cited_by: 263
+outlet: "Information and Organization"
 ---
 
 Citation:

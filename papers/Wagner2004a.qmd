@@ -9,6 +9,7 @@ doi: "https://doi.org/10.1016/J.JSIS.2004.02.005"
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 23
+outlet: "The Journal of Strategic Information Systems"
 ---
 
 Citation:

@@ -9,8 +9,9 @@ categories: []
 date: "2016"
 doi: ""
 journal:
-  name: "International Conference on Information Systems"
+  name: ""
 cited_by: 0
+outlet: "International Conference on Information Systems"
 ---
 
 Citation:

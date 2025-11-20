@@ -10,6 +10,7 @@ doi: "https://doi.org/10.17705/1CAIS.01205"
 journal:
   name: "Communications of the Association for Information Systems"
 cited_by: 31
+outlet: "Communications of the Association for Information Systems"
 ---
 
 Citation:

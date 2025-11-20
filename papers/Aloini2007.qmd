@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1016/J.IM.2007.05.004"
 journal:
   name: "Information & Management"
 cited_by: 233
+outlet: "Information & Management"
 ---
 
 Citation:

@@ -12,6 +12,7 @@ doi: "https://doi.org/10.17705/1CAIS.03508"
 journal:
   name: "Communications of the Association for Information Systems"
 cited_by: 25
+outlet: "Communications of the Association for Information Systems"
 ---
 
 Citation:

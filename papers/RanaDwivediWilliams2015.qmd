@@ -1,0 +1,32 @@
+---
+title: "A meta-analysis of existing research on citizen adoption of e-government"
+author:
+- Rana, Nripendra P.
+- Dwivedi, Yogesh K.
+- Williams, Michael D.
+topic: ""
+categories: []
+date: "2015"
+doi: "https://doi.org/10.1007/S10796-013-9431-Z"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 180
+outlet: "Information Systems Frontiers"
+---
+
+Citation:
+
+```bibtex
+@article{RanaDwivediWilliams2015,
+  doi        = {10.1007/S10796-013-9431-Z},
+  author     = {Rana, Nripendra P. and Dwivedi, Yogesh K. and Williams, Michael D.},
+  journal    = {Information Systems Frontiers},
+  title      = {A meta-analysis of existing research on citizen adoption of e-government},
+  year       = {2015},
+  volume     = {17},
+  number     = {3},
+  pages      = {547--563},
+  url        = {https://link.springer.com/article/10.1007/s10796-013-9431-z},
+  fulltext   = {http://link.springer.com/content/pdf/10.1007/s10796-013-9431-z.pdf}
+}
+```

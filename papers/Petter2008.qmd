@@ -11,6 +11,7 @@ doi: "https://doi.org/10.1057/EJIS.2008.15"
 journal:
   name: "European Journal of Information Systems"
 cited_by: 1036
+outlet: "European Journal of Information Systems"
 ---
 
 Citation:

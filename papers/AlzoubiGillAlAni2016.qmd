@@ -1,0 +1,33 @@
+---
+title: "Empirical studies of geographically distributed agile development communication challenges - A systematic review"
+author:
+- Alzoubi, Yehia Ibrahim
+- Gill, Asif Qumer
+- Al-Ani, Ahmed
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1016/J.IM.2015.08.003"
+journal:
+  name: "Information & Management"
+cited_by: 92
+outlet: "Information & Management"
+---
+
+Citation:
+
+```bibtex
+@article{AlzoubiGillAlAni2016,
+  colrev_pdf_id = {cpid2:ffffffffffffffffc7f00fc3c4000043c4000043c0000003ffffffefc0000fefc084ffffc007ffffffffffffcfe3a137c1e00003dfe00003cbe1fe07c3ffffffffffffffffffffffc2290007c0010003c0010003c0010003c0010003c0010013c0018003c0010003ffff0003efff0003c0770003dfffffffffffffffffffffff},
+  file       = {data/pdfs/53_1/AlzoubiGillAlAni2016.pdf},
+  doi        = {10.1016/J.IM.2015.08.003},
+  author     = {Alzoubi, Yehia Ibrahim and Gill, Asif Qumer and Al-Ani, Ahmed},
+  journal    = {Information & Management},
+  title      = {Empirical studies of geographically distributed agile development communication challenges - A systematic review},
+  year       = {2016},
+  volume     = {53},
+  number     = {1},
+  pages      = {22--37},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0378720615000877}
+}
+```

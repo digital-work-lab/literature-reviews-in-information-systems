@@ -12,8 +12,9 @@ categories: []
 date: "2019"
 doi: ""
 journal:
-  name: "Pacific Asia Conference on Information Systems"
+  name: ""
 cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
 ---
 
 Citation:

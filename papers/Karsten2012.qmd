@@ -11,6 +11,7 @@ doi: "https://doi.org/10.4018/JOEUC.2012100104"
 journal:
   name: "Journal of Organizational and End User Computing"
 cited_by: 36
+outlet: "Journal of Organizational and End User Computing"
 ---
 
 Citation:

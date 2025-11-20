@@ -1,0 +1,29 @@
+---
+title: "What translates big data into business value? A meta-analysis of the impacts of business analytics on firm performance"
+author:
+- Oesterreich, Thuy Duong
+- Anton, Eduard
+- Teuteberg, Frank
+topic: ""
+categories: ['meta-analysis']
+date: "2022"
+doi: "https://doi.org/10.1016/J.IM.2022.103685"
+journal:
+  name: "Information & Management"
+cited_by: 56
+outlet: "Information & Management"
+---
+
+Citation:
+
+```bibtex
+@article{OesterreichAntonTeuteberg2022,
+  doi        = {10.1016/J.IM.2022.103685},
+  author     = {Oesterreich, Thuy Duong and Anton, Eduard and Teuteberg, Frank},
+  journal    = {Information & Management},
+  title      = {What translates big data into business value? A meta-analysis of the impacts of business analytics on firm performance},
+  year       = {2022},
+  volume     = {59},
+  number     = {6}
+}
+```

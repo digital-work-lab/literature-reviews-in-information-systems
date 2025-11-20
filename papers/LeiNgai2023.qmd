@@ -1,0 +1,29 @@
+---
+title: "Blockchain from the information systems perspective: Literature review, synthesis, and directions for future research"
+author:
+- Lei, Chun Fong
+- Ngai, Eric W.T.
+topic: ""
+categories: []
+date: "2023"
+doi: "https://doi.org/10.1016/J.IM.2023.103856"
+journal:
+  name: "Information & Management"
+cited_by: 19
+outlet: "Information & Management"
+---
+
+Citation:
+
+```bibtex
+@article{LeiNgai2023,
+  doi        = {10.1016/J.IM.2023.103856},
+  author     = {Lei, Chun Fong and Ngai, Eric W.T.},
+  journal    = {Information & Management},
+  title      = {Blockchain from the information systems perspective: Literature review, synthesis, and directions for future research},
+  year       = {2023},
+  volume     = {60},
+  number     = {7},
+  pages      = {103856}
+}
+```

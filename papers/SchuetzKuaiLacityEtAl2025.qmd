@@ -1,0 +1,33 @@
+---
+title: "A qualitative systematic review of trust in technology"
+author:
+- Schuetz, Sebastian
+- Kuai, Le
+- Lacity, Mary C.
+- Steelman, Zach
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.1177/02683962241254392"
+journal:
+  name: "Journal of Information Technology"
+cited_by: 9
+outlet: "Journal of Information Technology"
+---
+
+Citation:
+
+```bibtex
+@article{SchuetzKuaiLacityEtAl2025,
+  doi        = {10.1177/02683962241254392},
+  author     = {Schuetz, Sebastian and Kuai, Le and Lacity, Mary C. and Steelman, Zach},
+  journal    = {Journal of Information Technology},
+  title      = {A qualitative systematic review of trust in technology},
+  year       = {2025},
+  volume     = {40},
+  number     = {1},
+  pages      = {55--76},
+  abstract   = {Although many information systems (IS) scholars have researched the antecedents and consequences of trust in technology, the sheer amount of work published, authors’ use of inconsistent construct terms, and variations in conceptualization and measurement make it difficult to compare and aggregate findings across studies. To provide scholars with an overview of the literature, we performed a systematic qualitative review of the IS literature. The goal of our review was to identify the antecedents and consequences of trust in technology that have received frequent empirical support, as well as those for which the evidence is not yet conclusive. To that end, we curated a glossary of unique construct terms and summarized the results of 241 relationships tested in 62 empirical research articles (both quantitative and qualitative) from the AIS “Basket of Eight” journals. From these, we identified 62 unique relationships: 22 are well-supported, 6 are supported by suggestive evidence, and 34 have received little support. These relationships summarize what is well-known and less well-known within the literature. By taking stock, we prepare a path for future research on the phenomenon of trust in the context of emerging technologies (e.g., artificial intelligence and blockchain). We conclude the paper with opportunities and directions for future research.},
+  fulltext   = {https://journals.sagepub.com/doi/pdf/10.1177/02683962241254392}
+}
+```

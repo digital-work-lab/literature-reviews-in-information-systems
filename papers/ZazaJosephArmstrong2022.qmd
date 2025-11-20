@@ -1,0 +1,34 @@
+---
+title: "Are IT professionals unique? a second-order meta-analytic comparison of turnover intentions across occupations"
+author:
+- Zaza, Sam
+- Joseph, Damien
+- Armstrong, Deborah
+topic: ""
+categories: ['meta-analysis']
+date: "2022"
+doi: "https://doi.org/10.25300/MISQ/2022/16951"
+journal:
+  name: "MIS Quarterly"
+cited_by: 12
+outlet: "MIS Quarterly"
+---
+
+Citation:
+
+```bibtex
+@article{ZazaJosephArmstrong2022,
+  colrev_pdf_id = {cpid2:fffffffffc7fffffe007ffffe0020003e0f20007fffffffff000000fe0000007ffc007fffffe7fffffc003ffff8003ffffd00fffff0000fff9fffebff800001ff800001ff800001ff800001ff800001ff800003ff8101fffff97ffffe0008007e0498007e0018007e0018007ffffffffe13ff5ffffffffffffffffffffffffff},
+  file       = {data/pdfs/47_3/ZazaJosephArmstrong2022.pdf},
+  doi        = {10.25300/MISQ/2022/16951},
+  author     = {Zaza, Sam and Joseph, Damien and Armstrong, Deborah},
+  journal    = {MIS Quarterly},
+  title      = {Are IT professionals unique? a second-order meta-analytic comparison of turnover intentions across occupations},
+  year       = {2022},
+  volume     = {47},
+  number     = {3},
+  pages      = {1213--1238},
+  url        = {https://misq.umn.edu/are-it-professionals-unique-a-second-order-meta-analytic-comparison-of-turnover-intentions-across-occupations.html},
+  abstract   = {Information technology (IT) professionals are a strategic human resource for enabling competitive advantage through the application of data and technologies. Yet, it remains a challenge for organizations to retain top IT talent as the business context and the nature of work change. Retention strategies that have worked with other business professionals have faced limited success with IT talent, leading some scholars to ask whether the latter are unique in terms of culture, personality, and tools. This study seeks to address this question by (1) undertaking a meta-analysis of studies investigating the turnover intentions of IT professionals, and by (2) conducting a second-order meta-analysis to compare findings between IT and non-IT professionals. The meta-analytic findings identify new antecedents more recently examined in information systems (IS) research while confirming enduring relationships between antecedents and turnover intention. The second-order meta-analysis provides intriguing findings regarding the potential uniqueness of IT professionals. We provide an integrative discussion on the state of turnover intention research within the IS discipline, start a dialog on interdisciplinary comparisons, and offer a forward-looking agenda for future research. We conclude by calling on scholars to revitalize turnover intention research within the IS field by moving toward fresh theories, fresh constructs, and fresh approaches.}
+}
+```

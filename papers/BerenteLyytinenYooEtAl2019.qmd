@@ -1,0 +1,34 @@
+---
+title: "Institutional Logics and Pluralistic Responses to Enterprise System Implementation - A Qualitative Meta-Analysis"
+author:
+- Berente, Nicholas
+- Lyytinen, Kalle
+- Yoo, Youngjin
+- Maurer, Chris
+topic: ""
+categories: []
+date: "2019"
+doi: "https://doi.org/10.25300/MISQ/2019/14214"
+journal:
+  name: "MIS Quarterly"
+cited_by: 52
+outlet: "MIS Quarterly"
+---
+
+Citation:
+
+```bibtex
+@article{BerenteLyytinenYooEtAl2019,
+  colrev_pdf_id = {cpid2:fffffffffcffffffc007ffffc0020003e0d20007fffffffff000000ffc00003fff8001fffffc3fffffe007fffffc3fffffc003ffffec1fffffec07ffffe00fffffc083fff800001ff800001ff800001ff800001ff800001ff800001ff800001ff800221ff840fffff801ffffffffffffffffffffffffffffffffffffffffffff},
+  file       = {data/pdfs/43_3/BerenteLyytinenYooEtAl2019.pdf},
+  doi        = {10.25300/MISQ/2019/14214},
+  author     = {Berente, Nicholas and Lyytinen, Kalle and Yoo, Youngjin and Maurer, Chris},
+  journal    = {MIS Quarterly},
+  title      = {Institutional Logics and Pluralistic Responses to Enterprise System Implementation - A Qualitative Meta-Analysis},
+  year       = {2019},
+  volume     = {43},
+  number     = {3},
+  pages      = {873--902},
+  url        = {https://misq.org/institutional-logics-and-pluralistic-responses-to-enterprise-system-implementation-a-qualitative-meta-analysis.html}
+}
+```

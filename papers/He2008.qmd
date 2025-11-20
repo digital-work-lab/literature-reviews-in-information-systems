@@ -10,6 +10,7 @@ doi: "https://doi.org/10.2753/MIS0742-1222250111"
 journal:
   name: "Journal of Management Information Systems"
 cited_by: 160
+outlet: "Journal of Management Information Systems"
 ---
 
 Citation:

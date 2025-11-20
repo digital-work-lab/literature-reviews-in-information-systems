@@ -8,8 +8,9 @@ categories: []
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.809"
 journal:
-  name: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+  name: ""
 cited_by: 2
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
 ---
 
 Citation:
