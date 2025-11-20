@@ -1,0 +1,31 @@
+---
+title: "Time to reassess data value: The many faces of data in organizations"
+author:
+- Xu, Daisy
+- Indulska, Marta
+- Someh, Ida Asadi
+- Shanks, Graeme
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.1016/J.JSIS.2024.101863"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 4
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{xu2024time,
+  doi        = {10.1016/J.JSIS.2024.101863},
+  author     = {Xu, Daisy and Indulska, Marta and Someh, Ida Asadi and Shanks, Graeme},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Time to reassess data value: The many faces of data in organizations},
+  year       = {2024},
+  volume     = {33},
+  number     = {4},
+  pages      = {101863}
+}
+```

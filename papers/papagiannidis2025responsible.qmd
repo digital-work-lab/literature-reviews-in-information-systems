@@ -1,0 +1,30 @@
+---
+title: "Responsible artificial intelligence governance: A review and research framework"
+author:
+- Papagiannidis, Emmanouil
+- Mikalef, Patrick
+- Conboy, Kieran
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.1016/J.JSIS.2024.101885"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 75
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{papagiannidis2025responsible,
+  doi        = {10.1016/J.JSIS.2024.101885},
+  author     = {Papagiannidis, Emmanouil and Mikalef, Patrick and Conboy, Kieran},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Responsible artificial intelligence governance: A review and research framework},
+  year       = {2025},
+  volume     = {34},
+  number     = {2},
+  pages      = {101885}
+}
+```

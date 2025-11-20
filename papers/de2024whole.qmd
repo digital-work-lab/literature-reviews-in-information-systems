@@ -1,0 +1,30 @@
+---
+title: "The whole of cyber defense: Syncing practice and theory"
+author:
+- De Nobrega, Kristel M
+- Rutkowski, Anne-F
+- Saunders, Carol
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.1016/J.JSIS.2024.101861"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 4
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{de2024whole,
+  doi        = {10.1016/J.JSIS.2024.101861},
+  author     = {De Nobrega, Kristel M and Rutkowski, Anne-F and Saunders, Carol},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {The whole of cyber defense: Syncing practice and theory},
+  year       = {2024},
+  volume     = {33},
+  number     = {4},
+  pages      = {101861}
+}
+```

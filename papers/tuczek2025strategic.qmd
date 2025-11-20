@@ -1,0 +1,33 @@
+---
+title: "Strategic implications of cognitive computing in IS: addressing AI fragmentation through knowledge similarity transformation"
+author:
+- Tuczek, Matthias
+- Degirmenci, Kenan
+- Song, Yuanyuan
+- Desouza, Kevin C
+- Breitner, Michael H
+- Watson, Richard T
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.1016/J.JSIS.2025.101908"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 1
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{tuczek2025strategic,
+  doi        = {10.1016/J.JSIS.2025.101908},
+  author     = {Tuczek, Matthias and Degirmenci, Kenan and Song, Yuanyuan and Desouza, Kevin C and Breitner, Michael H and Watson, Richard T},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Strategic implications of cognitive computing in IS: addressing AI fragmentation through knowledge similarity transformation},
+  year       = {2025},
+  volume     = {34},
+  number     = {2},
+  pages      = {101908}
+}
+```

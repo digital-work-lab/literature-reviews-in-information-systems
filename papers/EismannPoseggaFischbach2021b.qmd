@@ -1,0 +1,29 @@
+---
+title: "Opening organizational learning in crisis management: On the affordances of social media"
+author:
+- Eismann, Kathrin
+- Posegga, Oliver
+- Fischbach, Kai
+topic: ""
+categories: []
+date: "2021"
+doi: "https://doi.org/10.1016/J.JSIS.2021.101692"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 29
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{EismannPoseggaFischbach2021b,
+  doi        = {10.1016/J.JSIS.2021.101692},
+  author     = {Eismann, Kathrin and Posegga, Oliver and Fischbach, Kai},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Opening organizational learning in crisis management: On the affordances of social media},
+  year       = {2021},
+  volume     = {30},
+  number     = {4}
+}
+```

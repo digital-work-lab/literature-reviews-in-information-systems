@@ -8,7 +8,7 @@ date: "2010"
 doi: "https://doi.org/10.1007/S12599-010-0095-7"
 journal:
   name: "Business & Information Systems Engineering"
-cited_by: 0
+cited_by: 17
 outlet: "Business & Information Systems Engineering"
 ---
 
@@ -16,13 +16,13 @@ Citation:
 
 ```bibtex
 @article{Gneiser2010a,
+  doi        = {10.1007/S12599-010-0095-7},
   author     = {Gneiser, Martin S.},
   journal    = {Business & Information Systems Engineering},
   title      = {Value-based CRM},
   year       = {2010},
   volume     = {2},
   number     = {2},
-  pages      = {95--103},
-  doi        = {10.1007/S12599-010-0095-7}
+  pages      = {95--103}
 }
 ```

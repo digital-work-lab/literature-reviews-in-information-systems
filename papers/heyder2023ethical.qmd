@@ -1,0 +1,30 @@
+---
+title: "Ethical management of human-AI interaction: Theory development review"
+author:
+- Heyder, Teresa
+- Passlack, Nina
+- Posegga, Oliver
+topic: ""
+categories: []
+date: "2023"
+doi: "https://doi.org/10.1016/J.JSIS.2023.101772"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 64
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{heyder2023ethical,
+  doi        = {10.1016/J.JSIS.2023.101772},
+  author     = {Heyder, Teresa and Passlack, Nina and Posegga, Oliver},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Ethical management of human-AI interaction: Theory development review},
+  year       = {2023},
+  volume     = {32},
+  number     = {3},
+  pages      = {101772}
+}
+```

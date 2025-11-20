@@ -1,0 +1,30 @@
+---
+title: "Directions for future IS research on sports digitalisation: A stakeholder perspective"
+author:
+- Haffner, Lily
+- Oshri, Ilan
+- Kotlarsky, Julia
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.1016/J.JSIS.2025.101905"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 1
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{haffner2025directions,
+  doi        = {10.1016/J.JSIS.2025.101905},
+  author     = {Haffner, Lily and Oshri, Ilan and Kotlarsky, Julia},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Directions for future IS research on sports digitalisation: A stakeholder perspective},
+  year       = {2025},
+  volume     = {34},
+  number     = {2},
+  pages      = {101905}
+}
+```

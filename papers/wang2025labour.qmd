@@ -1,0 +1,29 @@
+---
+title: "A labour perspective on videoconferencing fatigue: Critical review and reframing"
+author:
+- Wang, Blair
+- Prester, Julian
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.1016/J.JSIS.2025.101903"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 1
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{wang2025labour,
+  doi        = {10.1016/J.JSIS.2025.101903},
+  author     = {Wang, Blair and Prester, Julian},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {A labour perspective on videoconferencing fatigue: Critical review and reframing},
+  year       = {2025},
+  volume     = {34},
+  number     = {2},
+  pages      = {101903}
+}
+```

@@ -1,0 +1,31 @@
+---
+title: "The role of use for the business value of big data analytics"
+author:
+- Yeh, Yi-Ting
+- Eden, Rebekah
+- Fielt, Erwin
+- Syed, Rehan
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.1016/J.JSIS.2025.101888"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 5
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{yeh2025role,
+  doi        = {10.1016/J.JSIS.2025.101888},
+  author     = {Yeh, Yi-Ting and Eden, Rebekah and Fielt, Erwin and Syed, Rehan},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {The role of use for the business value of big data analytics},
+  year       = {2025},
+  volume     = {34},
+  number     = {2},
+  pages      = {101888}
+}
+```

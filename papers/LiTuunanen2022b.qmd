@@ -1,0 +1,28 @@
+---
+title: "Information Technology–Supported value Co-Creation and Co-Destruction via social interaction and resource integration in service systems"
+author:
+- Li, Mengcheng
+- Tuunanen, Tuure
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1016/J.JSIS.2022.101719"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 43
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{LiTuunanen2022b,
+  doi        = {10.1016/J.JSIS.2022.101719},
+  author     = {Li, Mengcheng and Tuunanen, Tuure},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Information Technology–Supported value Co-Creation and Co-Destruction via social interaction and resource integration in service systems},
+  year       = {2022},
+  volume     = {31},
+  number     = {2}
+}
+```

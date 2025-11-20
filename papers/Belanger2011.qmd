@@ -1,5 +1,5 @@
 ---
-title: "Privacy in the Digital Age: a Review of Information Privacy Research in Information Systems1"
+title: "Privacy in the Digital Age: a Review of Information Privacy Research in Information Systems"
 author:
 - Bélanger, France
 - Crossler, Robert E.
@@ -20,7 +20,7 @@ Citation:
   doi        = {10.2307/41409971},
   author     = {Bélanger, France and Crossler, Robert E.},
   journal    = {MIS Quarterly},
-  title      = {Privacy in the Digital Age: a Review of Information Privacy Research in Information Systems1},
+  title      = {Privacy in the Digital Age: a Review of Information Privacy Research in Information Systems},
   year       = {2011},
   volume     = {35},
   number     = {4},

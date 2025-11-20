@@ -1,0 +1,30 @@
+---
+title: "Digital innovation: Review and novel perspective"
+author:
+- Hund, Axel
+- Wagner, Heinz-Theo
+- Beimborn, Daniel
+- Weitzel, Tim
+topic: ""
+categories: []
+date: "2021"
+doi: "https://doi.org/10.1016/J.JSIS.2021.101695"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 212
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{HundWagnerBeimbornEtAl2021,
+  doi        = {10.1016/J.JSIS.2021.101695},
+  author     = {Hund, Axel and Wagner, Heinz-Theo and Beimborn, Daniel and Weitzel, Tim},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Digital innovation: Review and novel perspective},
+  year       = {2021},
+  volume     = {30},
+  number     = {4}
+}
+```

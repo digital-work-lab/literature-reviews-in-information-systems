@@ -1,0 +1,30 @@
+---
+title: "Process-level value creation from business analytics: A theoretical literature review of value creation paths and changes induced by machine learning"
+author:
+- Kunz, Pascal C
+- Spohrer, Kai
+- Heinzl, Armin
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.1016/J.JSIS.2025.101902"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 1
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{kunz2025process,
+  doi        = {10.1016/J.JSIS.2025.101902},
+  author     = {Kunz, Pascal C and Spohrer, Kai and Heinzl, Armin},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Process-level value creation from business analytics: A theoretical literature review of value creation paths and changes induced by machine learning},
+  year       = {2025},
+  volume     = {34},
+  number     = {2},
+  pages      = {101902}
+}
+```

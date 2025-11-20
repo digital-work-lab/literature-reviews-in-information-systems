@@ -1,0 +1,30 @@
+---
+title: "The strategic impacts of Intelligent Automation for knowledge and service work: An interdisciplinary review"
+author:
+- Coombs, Crispin
+- Hislop, Donald
+- Taneva, Stanimira K.
+- Barnard, Sarah
+topic: ""
+categories: []
+date: "2020"
+doi: "https://doi.org/10.1016/J.JSIS.2020.101600"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 190
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{CoombsHislopTanevaEtAl2020a,
+  doi        = {10.1016/J.JSIS.2020.101600},
+  author     = {Coombs, Crispin and Hislop, Donald and Taneva, Stanimira K. and Barnard, Sarah},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {The strategic impacts of Intelligent Automation for knowledge and service work: An interdisciplinary review},
+  year       = {2020},
+  volume     = {29},
+  number     = {4}
+}
+```

@@ -1,0 +1,29 @@
+---
+title: "Information systems security research agenda: Exploring the gap between research and practice"
+author:
+- Dhillon, Gurpreet
+- Smith, Kane
+- Dissanayaka, Indika
+topic: ""
+categories: []
+date: "2021"
+doi: "https://doi.org/10.1016/J.JSIS.2021.101693"
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 57
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation:
+
+```bibtex
+@article{DhillonSmithDissanayaka2021b,
+  doi        = {10.1016/J.JSIS.2021.101693},
+  author     = {Dhillon, Gurpreet and Smith, Kane and Dissanayaka, Indika},
+  journal    = {The Journal of Strategic Information Systems},
+  title      = {Information systems security research agenda: Exploring the gap between research and practice},
+  year       = {2021},
+  volume     = {30},
+  number     = {4}
+}
+```
