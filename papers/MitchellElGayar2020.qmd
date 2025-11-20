@@ -10,7 +10,7 @@ doi: "https://doi.org/10.24251/HICSS.2020.517"
 journal:
   name: ""
 cited_by: 11
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -19,7 +19,7 @@ Citation:
 @inproceedings{MitchellElGayar2020,
   doi        = {10.24251/HICSS.2020.517},
   author     = {Mitchell, Damion and El-Gayar, Omar},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Effect of Privacy Policies on Information Sharing Behavior on Social Networks: A Systematic Literature Review},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64259}

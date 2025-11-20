@@ -9,7 +9,7 @@ doi: "https://doi.org/10.24251/HICSS.2017.328"
 journal:
   name: ""
 cited_by: 4
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -18,7 +18,7 @@ Citation:
 @inproceedings{Hausvik2017,
   doi        = {10.24251/HICSS.2017.328},
   author     = {Hausvik, Geir Inge},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Role of Information Quality in Healthcare Organizations: A Multi-Disciplinary Literature Review},
   year       = {2017},
   url        = {http://hdl.handle.net/10125/41484}

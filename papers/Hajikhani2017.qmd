@@ -9,7 +9,7 @@ doi: "https://doi.org/10.24251/HICSS.2017.634"
 journal:
   name: ""
 cited_by: 8
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -18,7 +18,7 @@ Citation:
 @inproceedings{Hajikhani2017,
   doi        = {10.24251/HICSS.2017.634},
   author     = {Hajikhani, Arash},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Emergence and Dissemination of Ecosystem Concept in Innovation Studies: A Systematic Literature Review Study},
   year       = {2017},
   url        = {http://hdl.handle.net/10125/41796}

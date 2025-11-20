@@ -10,7 +10,7 @@ doi: "https://doi.org/10.24251/HICSS.2021.514"
 journal:
   name: ""
 cited_by: 3
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -19,7 +19,7 @@ Citation:
 @inproceedings{LuoChien2021,
   doi        = {10.24251/HICSS.2021.514},
   author     = {Luo, Margaret Meiling and Chien, Chih-Chia},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Factors Affecting Negative E-WOM: A Literature Review and Merged Model},
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71131}

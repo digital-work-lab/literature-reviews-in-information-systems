@@ -12,7 +12,7 @@ doi: "https://doi.org/10.24251/HICSS.2018.474"
 journal:
   name: ""
 cited_by: 23
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -21,7 +21,7 @@ Citation:
 @inproceedings{WagnerWesselsBuxmannEtAl2018,
   doi        = {10.24251/HICSS.2018.474},
   author     = {Wagner, Amina and Wessels, Nora and Buxmann, Peter and Krasnova, Hanna},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Putting a Price Tag on Personal Information - A Literature Review},
   year       = {2018},
   url        = {http://hdl.handle.net/10125/50362}

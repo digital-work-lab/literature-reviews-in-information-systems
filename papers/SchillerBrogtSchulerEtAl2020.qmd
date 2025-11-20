@@ -13,7 +13,7 @@ doi: "https://doi.org/10.24251/HICSS.2020.452"
 journal:
   name: ""
 cited_by: 3
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -22,7 +22,7 @@ Citation:
 @inproceedings{SchillerBrogtSchulerEtAl2020,
   doi        = {10.24251/HICSS.2020.452},
   author     = {Schiller, Barbara and Brogt, Tobias and Schuler, J. Peter M. and Strobel, Gero and Eicker, Stefan},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Identifying Quality Factors for Self-Tracking Solutions: A Systematic Literature Review},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64194}

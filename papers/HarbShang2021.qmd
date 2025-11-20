@@ -10,7 +10,7 @@ doi: "https://doi.org/10.24251/HICSS.2021.610"
 journal:
   name: ""
 cited_by: 1
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -19,7 +19,7 @@ Citation:
 @inproceedings{HarbShang2021,
   doi        = {10.24251/HICSS.2021.610},
   author     = {Harb, Yousra and Shang, Yanyan},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Linking Information Technology and Entrepreneurship: A Literature Review},
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71228}

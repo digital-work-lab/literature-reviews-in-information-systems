@@ -1,8 +1,8 @@
 ---
 title: "A Three-Perspective Model of Culture, Information Systems, and Their Development and Use"
 author:
-- Kappos
-- Rivard
+- Kappos, Antonio
+- Rivard, Suzanne
 topic: ""
 categories: ['theoretical-review']
 date: "2008"
@@ -18,7 +18,7 @@ Citation:
 ```bibtex
 @article{Kappos2008,
   doi        = {10.2307/25148858},
-  author     = {Kappos and Rivard},
+  author     = {Kappos, Antonio and Rivard, Suzanne},
   journal    = {MIS Quarterly},
   title      = {A Three-Perspective Model of Culture, Information Systems, and Their Development and Use},
   year       = {2008},

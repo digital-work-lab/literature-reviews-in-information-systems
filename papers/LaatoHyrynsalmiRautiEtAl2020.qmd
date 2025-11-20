@@ -12,7 +12,7 @@ doi: "https://doi.org/10.24251/HICSS.2020.417"
 journal:
   name: ""
 cited_by: 10
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -21,7 +21,7 @@ Citation:
 @inproceedings{LaatoHyrynsalmiRautiEtAl2020,
   doi        = {10.24251/HICSS.2020.417},
   author     = {Laato, Samuli and Hyrynsalmi, Sonja and Rauti, Sampsa and Sutinen, Erkki},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Effects Playing Pokémon GO has on Physical Activity -A Systematic Literature Review},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64159}

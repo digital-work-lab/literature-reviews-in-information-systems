@@ -12,7 +12,7 @@ doi: "https://doi.org/10.24251/HICSS.2021.813"
 journal:
   name: ""
 cited_by: 18
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -21,7 +21,7 @@ Citation:
 @inproceedings{NoteboomOforiSutraveEtAl2021,
   doi        = {10.24251/HICSS.2021.813},
   author     = {Noteboom, Cherie and Ofori, Martinson and Sutrave, Kruttika and El-Gayar, Omar},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Agile Project Management: A Systematic Literature Review of Adoption Drivers and Critical Success Factors},
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71434}

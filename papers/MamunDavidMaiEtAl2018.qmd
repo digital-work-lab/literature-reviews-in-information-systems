@@ -13,7 +13,7 @@ doi: "https://doi.org/10.24251/HICSS.2018.032"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -22,7 +22,7 @@ Citation:
 @inproceedings{MamunDavidMaiEtAl2018,
   doi        = {10.24251/HICSS.2018.032},
   author     = {Mamun, Md Rasel Al and David, Alsius and Mai, Bin and Kim, Dan J. and Parsons, Thomas D},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The First 10 Years of NeuroIS: A Systematic Literature Review of NeuroIS Publications (2007 - 2017)},
   year       = {2018},
   url        = {http://hdl.handle.net/10125/49919}

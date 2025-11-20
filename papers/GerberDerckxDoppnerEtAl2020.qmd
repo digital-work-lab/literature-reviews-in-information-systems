@@ -12,7 +12,7 @@ doi: "https://doi.org/10.24251/HICSS.2020.036"
 journal:
   name: ""
 cited_by: 23
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -21,7 +21,7 @@ Citation:
 @inproceedings{GerberDerckxDoppnerEtAl2020,
   doi        = {10.24251/HICSS.2020.036},
   author     = {Gerber, Alina and Derckx, Patrick and Döppner, Daniel A. and Schoder, Detlef},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Conceptualization of the Human-Machine Symbiosis – A Literature Review},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/63775}

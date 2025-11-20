@@ -1,7 +1,7 @@
 ---
 title: "Digital transformation in disaster management: A literature review"
 author:
-- Fischer-Pre{\ss}ler, Diana
+- Fischer-Preßler, Diana
 - Bonaretti, Dario
 - Bunker, Deborah
 topic: ""
@@ -19,7 +19,7 @@ Citation:
 ```bibtex
 @article{fischer2024digital,
   doi        = {10.1016/J.JSIS.2024.101865},
-  author     = {Fischer-Pre{\ss}ler, Diana and Bonaretti, Dario and Bunker, Deborah},
+  author     = {Fischer-Preßler, Diana and Bonaretti, Dario and Bunker, Deborah},
   journal    = {The Journal of Strategic Information Systems},
   title      = {Digital transformation in disaster management: A literature review},
   year       = {2024},

@@ -10,7 +10,7 @@ doi: "https://doi.org/10.24251/HICSS.2018.020"
 journal:
   name: ""
 cited_by: 4
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -19,7 +19,7 @@ Citation:
 @inproceedings{DiirrCappelli2018,
   doi        = {10.24251/HICSS.2018.020},
   author     = {Diirr, Bruna and Cappelli, Claudia},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {A Systematic Literature Review to Understand Cross-organizational Relationship Management and Collaboration},
   year       = {2018},
   url        = {http://hdl.handle.net/10125/49907}

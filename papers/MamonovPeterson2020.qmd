@@ -10,7 +10,7 @@ doi: "https://doi.org/10.24251/HICSS.2020.580"
 journal:
   name: ""
 cited_by: 1
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -19,7 +19,7 @@ Citation:
 @inproceedings{MamonovPeterson2020,
   doi        = {10.24251/HICSS.2020.580},
   author     = {Mamonov, Stanislav and Peterson, Richard},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Role of IT in Innovation at the Organizational Level – A Literature Review},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64322}

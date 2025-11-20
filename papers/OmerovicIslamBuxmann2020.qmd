@@ -11,7 +11,7 @@ doi: "https://doi.org/10.24251/HICSS.2020.559"
 journal:
   name: ""
 cited_by: 3
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -20,7 +20,7 @@ Citation:
 @inproceedings{OmerovicIslamBuxmann2020,
   doi        = {10.24251/HICSS.2020.559},
   author     = {Omerovic, Mirheta and Islam, Nihal and Buxmann, Peter},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Unlashing the Next Wave of Business Models in the Internet of Things Era: New Directions for a Research Agenda based on a Systematic Literature Review},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64301}

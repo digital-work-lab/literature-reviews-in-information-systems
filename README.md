@@ -19,3 +19,5 @@ JSIS
 - [x] [2021](https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/vol/30/issue/4)
 - [x] [2020](https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/vol/29/issue/4)
 - [x] [2019](https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/vol/28/issue/2)
+# References
+

@@ -11,7 +11,7 @@ doi: "https://doi.org/10.24251/HICSS.2021.488"
 journal:
   name: ""
 cited_by: 4
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 Citation:
@@ -20,7 +20,7 @@ Citation:
 @inproceedings{LiLuoZhang2021,
   doi        = {10.24251/HICSS.2021.488},
   author     = {Li, Yi (Joy) and Luo, Hao and Zhang, Chi},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Empathy Games for Depression Using Virtual Reality: A Literature Review and A Study Design},
   year       = {2021},
   url        = {http://hdl.handle.net/10125/71104}
