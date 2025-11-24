@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{HartwigBillert2018,
@@ -26,7 +26,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -38,5 +38,6 @@ PY  - 2018
 UR  - https://aisel.aisnet.org/ecis2018_rp/108
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <https://aisel.aisnet.org/ecis2018_rp/108>

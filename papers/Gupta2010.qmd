@@ -15,7 +15,7 @@ cited_by: 48
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Gupta2010,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ EP  - 39
 DO  - 10.1145/1899639.1899641
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1145/1899639.1899641>

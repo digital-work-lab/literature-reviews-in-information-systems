@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{Harborth2017,
@@ -25,7 +25,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -36,5 +36,6 @@ PY  - 2017
 UR  - https://aisel.aisnet.org/amcis2017/AdvancesIS/Presentations/16
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <https://aisel.aisnet.org/amcis2017/AdvancesIS/Presentations/16>

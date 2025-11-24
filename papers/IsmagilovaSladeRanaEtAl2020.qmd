@@ -16,7 +16,7 @@ cited_by: 220
 outlet: "Information Systems Frontiers"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{IsmagilovaSladeRanaEtAl2020,
@@ -33,7 +33,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -52,6 +52,7 @@ DO  - 10.1007/S10796-019-09924-Y
 UR  - https://link.springer.com/article/10.1007/s10796-019-09924-y
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1007/S10796-019-09924-Y>
 - URL: <https://link.springer.com/article/10.1007/s10796-019-09924-y>

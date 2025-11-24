@@ -14,7 +14,7 @@ cited_by: 683
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Xiao2007,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -44,5 +44,6 @@ SP  - 137
 DO  - 10.2307/25148784
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.2307/25148784>

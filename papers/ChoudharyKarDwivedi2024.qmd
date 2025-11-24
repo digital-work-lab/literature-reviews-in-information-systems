@@ -15,7 +15,7 @@ cited_by: 6
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{ChoudharyKarDwivedi2024,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -49,6 +49,7 @@ DO  - 10.17705/1CAIS.05419
 UR  - https://aisel.aisnet.org/cais/vol54/iss1/22
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1CAIS.05419>
 - URL: <https://aisel.aisnet.org/cais/vol54/iss1/22>

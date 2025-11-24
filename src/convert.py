@@ -173,7 +173,7 @@ def record_to_qmd_content(rec: dict, key: str, bibtex: str, ris: str) -> str:
     # Build optional links section for the markdown body
     links_section = ""
     if doi or url:
-        lines = ["", "Links:"]
+        lines = ["", "## Links", ""]
         if doi:
             lines.append(f"- DOI: <{doi}>")
         if url:
@@ -196,13 +196,13 @@ cited_by: {cited_by}
 outlet: "{outlet}"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 {bibtex}
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 {ris}

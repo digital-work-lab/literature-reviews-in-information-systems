@@ -17,7 +17,7 @@ cited_by: 856
 outlet: "Decision Support Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Ngai2011,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -51,5 +51,6 @@ EP  - 569
 DO  - 10.1016/J.DSS.2010.08.006
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.DSS.2010.08.006>

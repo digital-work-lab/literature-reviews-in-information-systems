@@ -15,7 +15,7 @@ cited_by: 97
 outlet: "Business & Information Systems Engineering"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Urbach2009,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ EP  - 325
 DO  - 10.1007/S12599-009-0059-Y
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1007/S12599-009-0059-Y>

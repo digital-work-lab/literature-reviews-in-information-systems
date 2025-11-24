@@ -13,7 +13,7 @@ cited_by: 23
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Wagner2004a,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -43,5 +43,6 @@ EP  - 128
 DO  - 10.1016/J.JSIS.2004.02.005
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.JSIS.2004.02.005>

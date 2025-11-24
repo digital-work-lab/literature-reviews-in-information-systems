@@ -16,7 +16,7 @@ cited_by: 16
 outlet: "Business & Information Systems Engineering"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Rosenkranz2013b,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -50,5 +50,6 @@ EP  - 274
 DO  - 10.1007/S12599-013-0274-4
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1007/S12599-013-0274-4>

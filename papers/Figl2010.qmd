@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "Journal of Information Systems Education"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Figl2010,
@@ -27,7 +27,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR

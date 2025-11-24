@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "Journal of International Technology & Information Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Whitley2013,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR

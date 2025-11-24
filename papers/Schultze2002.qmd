@@ -14,7 +14,7 @@ cited_by: 340
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Schultze2002,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -44,5 +44,6 @@ SP  - 213
 DO  - 10.2307/4132331
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.2307/4132331>

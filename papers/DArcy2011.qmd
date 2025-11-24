@@ -14,7 +14,7 @@ cited_by: 262
 outlet: "European Journal of Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{DArcy2011,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,5 +45,6 @@ EP  - 658
 DO  - 10.1057/EJIS.2011.23
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1057/EJIS.2011.23>

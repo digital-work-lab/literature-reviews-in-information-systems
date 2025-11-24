@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{KhanPigni2021,
@@ -26,7 +26,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -38,5 +38,6 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/12
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/12>

@@ -15,7 +15,7 @@ cited_by: 10
 outlet: "Journal of Information Technology"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Veiga2001,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -47,5 +47,6 @@ EP  - 158
 DO  - 10.1080/02683960121858
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1080/02683960121858>

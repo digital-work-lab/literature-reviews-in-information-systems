@@ -15,7 +15,7 @@ cited_by: 1938
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Melville2004,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ SP  - 283
 DO  - 10.2307/25148636
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.2307/25148636>

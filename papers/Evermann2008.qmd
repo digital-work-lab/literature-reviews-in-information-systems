@@ -13,7 +13,7 @@ cited_by: 12
 outlet: "Journal of Database Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Evermann2008,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -44,5 +44,6 @@ EP  - 82
 DO  - 10.4018/JDM.2008070104
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.4018/JDM.2008070104>

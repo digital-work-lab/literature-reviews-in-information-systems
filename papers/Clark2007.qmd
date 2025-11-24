@@ -15,7 +15,7 @@ cited_by: 173
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Clark2007,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ SP  - 579
 DO  - 10.2307/25148808
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.2307/25148808>

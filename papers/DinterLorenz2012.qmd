@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{DinterLorenz2012,
@@ -26,7 +26,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -38,5 +38,6 @@ PY  - 2012
 UR  - http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/104
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/104>

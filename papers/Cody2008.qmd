@@ -16,7 +16,7 @@ cited_by: 37
 outlet: "Decision Support Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Cody2008,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -49,5 +49,6 @@ EP  - 764
 DO  - 10.1016/J.DSS.2007.09.007
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.DSS.2007.09.007>

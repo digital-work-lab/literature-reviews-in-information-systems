@@ -15,7 +15,7 @@ cited_by: 3
 outlet: "Journal of Database Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Siau2011,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ EP  - 72
 DO  - 10.4018/JDM.2011100103
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.4018/JDM.2011100103>

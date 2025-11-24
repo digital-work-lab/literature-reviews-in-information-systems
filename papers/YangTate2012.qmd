@@ -14,7 +14,7 @@ cited_by: 106
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{YangTate2012,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,6 +45,7 @@ DO  - 10.17705/1CAIS.03102
 UR  - https://aisel.aisnet.org/cais/vol31/iss1/2
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1CAIS.03102>
 - URL: <https://aisel.aisnet.org/cais/vol31/iss1/2>

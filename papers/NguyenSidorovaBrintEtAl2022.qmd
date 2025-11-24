@@ -16,7 +16,7 @@ cited_by: 17
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{NguyenSidorovaBrintEtAl2022,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -49,6 +49,7 @@ DO  - 10.17705/1CAIS.05007
 UR  - https://aisel.aisnet.org/cais/vol50/iss1/7
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1CAIS.05007>
 - URL: <https://aisel.aisnet.org/cais/vol50/iss1/7>

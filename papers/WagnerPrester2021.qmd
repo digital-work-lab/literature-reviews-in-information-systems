@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{WagnerPrester2021,
@@ -27,7 +27,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -39,5 +39,6 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/ecis2021_rp/49
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <https://aisel.aisnet.org/ecis2021_rp/49>

@@ -15,7 +15,7 @@ cited_by: 1036
 outlet: "European Journal of Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Petter2008,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -47,5 +47,6 @@ EP  - 263
 DO  - 10.1057/EJIS.2008.15
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1057/EJIS.2008.15>

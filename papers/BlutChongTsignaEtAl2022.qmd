@@ -16,7 +16,7 @@ cited_by: 134
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{BlutChongTsignaEtAl2022,
@@ -36,7 +36,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -55,6 +55,7 @@ DO  - 10.17705/1JAIS.00719
 UR  - https://aisel.aisnet.org/jais/vol23/iss1/10/
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1JAIS.00719>
 - URL: <https://aisel.aisnet.org/jais/vol23/iss1/10/>

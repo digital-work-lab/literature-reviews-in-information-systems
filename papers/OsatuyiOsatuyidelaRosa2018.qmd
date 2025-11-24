@@ -15,7 +15,7 @@ cited_by: 32
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{OsatuyiOsatuyidelaRosa2018,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -47,6 +47,7 @@ DO  - 10.17705/1CAIS.04205
 UR  - https://aisel.aisnet.org/cais/vol42/iss1/5
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1CAIS.04205>
 - URL: <https://aisel.aisnet.org/cais/vol42/iss1/5>

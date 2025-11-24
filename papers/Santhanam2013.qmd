@@ -16,7 +16,7 @@ cited_by: 10
 outlet: "AIS Transactions on Human-Computer Interaction"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Santhanam2013,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -49,5 +49,6 @@ EP  - 156
 DO  - 10.17705/1THCI.00056
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1THCI.00056>

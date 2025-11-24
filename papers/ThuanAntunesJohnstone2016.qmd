@@ -15,7 +15,7 @@ cited_by: 80
 outlet: "Information Systems Frontiers"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{ThuanAntunesJohnstone2016,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -50,6 +50,7 @@ DO  - 10.1007/S10796-015-9578-X
 UR  - https://link.springer.com/article/10.1007/s10796-015-9578-x
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1007/S10796-015-9578-X>
 - URL: <https://link.springer.com/article/10.1007/s10796-015-9578-x>

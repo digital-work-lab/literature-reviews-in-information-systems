@@ -17,7 +17,7 @@ cited_by: 4
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{liu2025conceptualizing,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -50,5 +50,6 @@ SP  - 101904
 DO  - 10.1016/J.JSIS.2025.101904
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.JSIS.2025.101904>

@@ -15,7 +15,7 @@ cited_by: 57
 outlet: "Business & Information Systems Engineering"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Richter2011a,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ EP  - 101
 DO  - 10.1007/S12599-011-0151-Y
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1007/S12599-011-0151-Y>

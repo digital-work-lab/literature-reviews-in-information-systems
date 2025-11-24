@@ -14,7 +14,7 @@ cited_by: 136
 outlet: "European Journal of Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Wu2012b,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,5 +45,6 @@ EP  - 698
 DO  - 10.1057/EJIS.2012.15
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1057/EJIS.2012.15>

@@ -13,7 +13,7 @@ cited_by: 96
 outlet: "Journal of Information Technology"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Schultze2010,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -43,5 +43,6 @@ EP  - 449
 DO  - 10.1057/JIT.2010.25
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1057/JIT.2010.25>

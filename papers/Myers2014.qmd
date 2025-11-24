@@ -14,7 +14,7 @@ cited_by: 69
 outlet: "Information & Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Myers2014,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,5 +45,6 @@ EP  - 809
 DO  - 10.1016/J.IM.2014.01.002
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.IM.2014.01.002>

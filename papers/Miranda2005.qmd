@@ -14,7 +14,7 @@ cited_by: 80
 outlet: "Journal of Information Technology"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Miranda2005,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ EP  - 169
 DO  - 10.1057/PALGRAVE.JIT.2000045
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1057/PALGRAVE.JIT.2000045>

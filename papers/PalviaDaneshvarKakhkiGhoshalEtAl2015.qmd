@@ -17,7 +17,7 @@ cited_by: 14
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{PalviaDaneshvarKakhkiGhoshalEtAl2015,
@@ -33,7 +33,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -49,5 +49,6 @@ VL  - 37
 DO  - 10.17705/1CAIS.03730
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1CAIS.03730>

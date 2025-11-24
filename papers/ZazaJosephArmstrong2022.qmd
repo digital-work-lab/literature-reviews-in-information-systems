@@ -15,7 +15,7 @@ cited_by: 12
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{ZazaJosephArmstrong2022,
@@ -34,7 +34,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -52,6 +52,7 @@ DO  - 10.25300/MISQ/2022/16951
 UR  - https://misq.umn.edu/are-it-professionals-unique-a-second-order-meta-analytic-comparison-of-turnover-intentions-across-occupations.html
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.25300/MISQ/2022/16951>
 - URL: <https://misq.umn.edu/are-it-professionals-unique-a-second-order-meta-analytic-comparison-of-turnover-intentions-across-occupations.html>

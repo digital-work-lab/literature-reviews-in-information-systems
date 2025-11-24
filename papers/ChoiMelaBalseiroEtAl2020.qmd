@@ -16,7 +16,7 @@ cited_by: 126
 outlet: "Information Systems Research"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{ChoiMelaBalseiroEtAl2020,
@@ -33,7 +33,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -52,6 +52,7 @@ DO  - 10.1287/ISRE.2019.0902
 UR  - https://www.doi.org/10.1287/ISRE.2019.0902
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1287/ISRE.2019.0902>
 - URL: <https://www.doi.org/10.1287/ISRE.2019.0902>

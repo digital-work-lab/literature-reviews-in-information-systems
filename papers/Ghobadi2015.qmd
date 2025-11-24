@@ -13,7 +13,7 @@ cited_by: 139
 outlet: "Information & Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Ghobadi2015,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,6 +45,7 @@ DO  - 10.1016/J.IM.2014.10.008
 UR  - https://www.sciencedirect.com/science/article/pii/S0378720614001323
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.IM.2014.10.008>
 - URL: <https://www.sciencedirect.com/science/article/pii/S0378720614001323>

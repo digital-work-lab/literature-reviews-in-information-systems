@@ -14,7 +14,7 @@ cited_by: 5
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{StahmannRieger2021,
@@ -27,7 +27,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -40,6 +40,7 @@ DO  - 10.24251/HICSS.2021.696
 UR  - http://hdl.handle.net/10125/71316
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.24251/HICSS.2021.696>
 - URL: <http://hdl.handle.net/10125/71316>

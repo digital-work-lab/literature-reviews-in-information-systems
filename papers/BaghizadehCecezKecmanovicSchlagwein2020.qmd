@@ -15,7 +15,7 @@ cited_by: 37
 outlet: "Journal of Information Technology"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{BaghizadehCecezKecmanovicSchlagwein2020,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ IS  - 2
 DO  - 10.1177/0268396219832010
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1177/0268396219832010>

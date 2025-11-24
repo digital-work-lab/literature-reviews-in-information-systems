@@ -14,7 +14,7 @@ cited_by: 1516
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Wade2004,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -44,5 +44,6 @@ SP  - 107
 DO  - 10.2307/25148626
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.2307/25148626>

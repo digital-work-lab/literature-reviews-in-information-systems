@@ -16,7 +16,7 @@ cited_by: 699
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Dibbern2004,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -50,5 +50,6 @@ EP  - 102
 DO  - 10.1145/1035233.1035236
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1145/1035233.1035236>

@@ -15,7 +15,7 @@ cited_by: 159
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Hess2014,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -49,5 +49,6 @@ EP  - 28
 DO  - 10.25300/MISQ/2014/38.1.01
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.25300/MISQ/2014/38.1.01>

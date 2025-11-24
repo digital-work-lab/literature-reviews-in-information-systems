@@ -14,7 +14,7 @@ cited_by: 97
 outlet: "Journal of Management Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{QahriSaremiMontazemi2019,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -49,6 +49,7 @@ DO  - 10.1080/07421222.2019.1628936
 UR  - https://www.tandfonline.com/doi/full/10.1080/07421222.2019.1628936
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1080/07421222.2019.1628936>
 - URL: <https://www.tandfonline.com/doi/full/10.1080/07421222.2019.1628936>

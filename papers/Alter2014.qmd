@@ -13,7 +13,7 @@ cited_by: 118
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Alter2014,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -43,5 +43,6 @@ EP  - 1066
 DO  - 10.17705/1CAIS.03455
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1CAIS.03455>

@@ -16,7 +16,7 @@ cited_by: 190
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{CoombsHislopTanevaEtAl2020a,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ IS  - 4
 DO  - 10.1016/J.JSIS.2020.101600
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.JSIS.2020.101600>

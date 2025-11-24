@@ -14,7 +14,7 @@ cited_by: 354
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Riggins2005,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,5 +45,6 @@ EP  - 337
 DO  - 10.17705/1JAIS.00074
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1JAIS.00074>

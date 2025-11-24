@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{Zou2015,
@@ -25,7 +25,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -36,5 +36,6 @@ PY  - 2015
 UR  - http://aisel.aisnet.org/icis2015/proceedings/HumanBehaviorIS/11
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <http://aisel.aisnet.org/icis2015/proceedings/HumanBehaviorIS/11>

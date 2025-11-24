@@ -14,7 +14,7 @@ cited_by: 203
 outlet: "Information & Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Lee2006h,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,5 +45,6 @@ EP  - 985
 DO  - 10.1016/J.IM.2006.09.003
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.IM.2006.09.003>

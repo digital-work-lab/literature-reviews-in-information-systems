@@ -14,7 +14,7 @@ cited_by: 28
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{MamonovPeterson2021,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,6 +46,7 @@ DO  - 10.1016/J.JSIS.2021.101696
 UR  - https://www.sciencedirect.com/science/article/pii/S0963868721000433
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.JSIS.2021.101696>
 - URL: <https://www.sciencedirect.com/science/article/pii/S0963868721000433>

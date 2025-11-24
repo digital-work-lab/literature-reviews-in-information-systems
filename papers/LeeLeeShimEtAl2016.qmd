@@ -16,7 +16,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{LeeLeeShimEtAl2016,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -42,5 +42,6 @@ PY  - 2016
 UR  - https://aisel.aisnet.org/pacis2016/81
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <https://aisel.aisnet.org/pacis2016/81>

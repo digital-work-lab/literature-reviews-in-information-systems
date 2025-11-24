@@ -16,7 +16,7 @@ cited_by: 6
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{RobertsJeyarajPullinEtAl2023,
@@ -35,7 +35,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -54,6 +54,7 @@ DO  - 10.17705/1JAIS.00772
 UR  - https://aisel.aisnet.org/jais/vol24/iss1/6
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1JAIS.00772>
 - URL: <https://aisel.aisnet.org/jais/vol24/iss1/6>

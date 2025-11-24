@@ -17,7 +17,7 @@ cited_by: 13
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{PaulissenMilisBrengmanEtAl2007,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -46,6 +46,7 @@ DO  - 10.1109/HICSS.2007.609
 UR  - https://ieeexplore.ieee.org/document/4076679
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1109/HICSS.2007.609>
 - URL: <https://ieeexplore.ieee.org/document/4076679>

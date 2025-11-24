@@ -14,7 +14,7 @@ cited_by: 283
 outlet: "Information Systems Frontiers"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{VassilakopoulouHustad2021,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -44,6 +44,7 @@ DO  - 10.1007/S10796-020-10096-3
 UR  - https://link.springer.com/article/10.1007/s10796-020-10096-3
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1007/S10796-020-10096-3>
 - URL: <https://link.springer.com/article/10.1007/s10796-020-10096-3>

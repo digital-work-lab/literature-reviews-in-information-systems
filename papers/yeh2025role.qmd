@@ -16,7 +16,7 @@ cited_by: 5
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{yeh2025role,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ SP  - 101888
 DO  - 10.1016/J.JSIS.2025.101888
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.JSIS.2025.101888>

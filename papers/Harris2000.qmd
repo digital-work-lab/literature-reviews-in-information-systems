@@ -13,7 +13,7 @@ cited_by: 4
 outlet: "Journal of Organizational and End User Computing"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Harris2000,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -44,5 +44,6 @@ EP  - 34
 DO  - 10.4018/JOEUC.2000010103
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.4018/JOEUC.2000010103>

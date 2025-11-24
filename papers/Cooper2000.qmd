@@ -14,7 +14,7 @@ cited_by: 11
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Cooper2000,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,5 +45,6 @@ EP  - 208
 DO  - 10.1207/S15327744JOCE1003_03
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1207/S15327744JOCE1003_03>

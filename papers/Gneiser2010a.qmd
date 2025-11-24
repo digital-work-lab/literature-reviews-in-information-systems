@@ -13,7 +13,7 @@ cited_by: 17
 outlet: "Business & Information Systems Engineering"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Gneiser2010a,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -43,5 +43,6 @@ EP  - 103
 DO  - 10.1007/S12599-010-0095-7
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1007/S12599-010-0095-7>

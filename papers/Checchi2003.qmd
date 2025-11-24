@@ -15,7 +15,7 @@ cited_by: 11
 outlet: "Journal of Global Information Technology Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Checchi2003,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -47,5 +47,6 @@ EP  - 64
 DO  - 10.1080/1097198X.2003.10856360
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1080/1097198X.2003.10856360>

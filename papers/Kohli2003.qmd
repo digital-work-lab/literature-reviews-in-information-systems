@@ -14,7 +14,7 @@ cited_by: 347
 outlet: "Information Systems Research"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Kohli2003,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ EP  - 145
 DO  - 10.1287/ISRE.14.2.127.16019
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1287/ISRE.14.2.127.16019>

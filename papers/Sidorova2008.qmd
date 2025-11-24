@@ -16,7 +16,7 @@ cited_by: 327
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Sidorova2008,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ SP  - 467
 DO  - 10.2307/25148852
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.2307/25148852>

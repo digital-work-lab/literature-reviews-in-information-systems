@@ -13,7 +13,7 @@ cited_by: 47
 outlet: "Journal of Information Technology"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Hendriks2001,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,5 +45,6 @@ EP  - 72
 DO  - 10.1080/02683960110054799
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1080/02683960110054799>

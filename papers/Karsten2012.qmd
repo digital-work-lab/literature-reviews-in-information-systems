@@ -15,7 +15,7 @@ cited_by: 36
 outlet: "Journal of Organizational and End User Computing"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Karsten2012,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ EP  - 80
 DO  - 10.4018/JOEUC.2012100104
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.4018/JOEUC.2012100104>

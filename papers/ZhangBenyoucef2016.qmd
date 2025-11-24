@@ -14,7 +14,7 @@ cited_by: 427
 outlet: "Decision Support Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{ZhangBenyoucef2016,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,6 +45,7 @@ DO  - 10.1016/J.DSS.2016.04.001
 UR  - https://www.sciencedirect.com/science/article/pii/S0167923616300458
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.DSS.2016.04.001>
 - URL: <https://www.sciencedirect.com/science/article/pii/S0167923616300458>

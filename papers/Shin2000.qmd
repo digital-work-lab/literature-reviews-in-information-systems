@@ -16,7 +16,7 @@ cited_by: 69
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Shin2000,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -49,5 +49,6 @@ EP  - 101
 DO  - 10.1207/S15327744JOCE1002_2
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1207/S15327744JOCE1002_2>

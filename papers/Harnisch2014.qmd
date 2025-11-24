@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{Harnisch2014,
@@ -25,7 +25,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -36,5 +36,6 @@ PY  - 2014
 UR  - http://aisel.aisnet.org/ecis2014/proceedings/track15/5
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <http://aisel.aisnet.org/ecis2014/proceedings/track15/5>

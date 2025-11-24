@@ -13,7 +13,7 @@ cited_by: 228
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Zhang2013f,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,5 +45,6 @@ EP  - 274
 DO  - 10.25300/MISQ/2013/37.1.11
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.25300/MISQ/2013/37.1.11>

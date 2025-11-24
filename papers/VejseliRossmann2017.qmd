@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{VejseliRossmann2017,
@@ -26,7 +26,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -38,5 +38,6 @@ PY  - 2017
 UR  - https://aisel.aisnet.org/pacis2017/41
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <https://aisel.aisnet.org/pacis2017/41>

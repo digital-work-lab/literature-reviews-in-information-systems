@@ -16,7 +16,7 @@ cited_by: 52
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{BerenteLyytinenYooEtAl2019,
@@ -34,7 +34,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -53,6 +53,7 @@ DO  - 10.25300/MISQ/2019/14214
 UR  - https://misq.org/institutional-logics-and-pluralistic-responses-to-enterprise-system-implementation-a-qualitative-meta-analysis.html
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.25300/MISQ/2019/14214>
 - URL: <https://misq.org/institutional-logics-and-pluralistic-responses-to-enterprise-system-implementation-a-qualitative-meta-analysis.html>

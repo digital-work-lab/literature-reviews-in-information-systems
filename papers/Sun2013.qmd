@@ -15,7 +15,7 @@ cited_by: 20
 outlet: "Journal of the Association for Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Sun2013,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -47,5 +47,6 @@ EP  - 71
 DO  - 10.17705/1JAIS.00324
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1JAIS.00324>

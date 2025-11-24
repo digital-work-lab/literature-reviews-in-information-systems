@@ -15,7 +15,7 @@ cited_by: 252
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{CramDArcyProudfoot2019,
@@ -33,7 +33,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -51,6 +51,7 @@ DO  - 10.25300/MISQ/2019/15117
 UR  - https://misq.org/seeing-the-forest-and-the-trees-a-meta-analysis-of-the-antecedents-to-information-security-policy-compliance.html
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.25300/MISQ/2019/15117>
 - URL: <https://misq.org/seeing-the-forest-and-the-trees-a-meta-analysis-of-the-antecedents-to-information-security-policy-compliance.html>

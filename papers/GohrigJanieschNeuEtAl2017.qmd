@@ -17,7 +17,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{GohrigJanieschNeuEtAl2017,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -44,5 +44,6 @@ PY  - 2017
 UR  - http://aisel.aisnet.org/ecis2017_rip/12
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <http://aisel.aisnet.org/ecis2017_rip/12>

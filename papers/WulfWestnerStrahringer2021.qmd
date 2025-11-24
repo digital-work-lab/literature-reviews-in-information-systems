@@ -15,7 +15,7 @@ cited_by: 10
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{WulfWestnerStrahringer2021,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -47,6 +47,7 @@ DO  - 10.17705/1CAIS.04843
 UR  - https://aisel.aisnet.org/cais/vol48/iss1/44
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1CAIS.04843>
 - URL: <https://aisel.aisnet.org/cais/vol48/iss1/44>

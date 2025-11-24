@@ -16,7 +16,7 @@ cited_by: 218
 outlet: "Decision Support Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Ghosh2007a,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -49,5 +49,6 @@ EP  - 2185
 DO  - 10.1016/J.DSS.2006.06.011
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.DSS.2006.06.011>

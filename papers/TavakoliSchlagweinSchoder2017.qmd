@@ -15,7 +15,7 @@ cited_by: 87
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{TavakoliSchlagweinSchoder2017,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -49,6 +49,7 @@ DO  - 10.1016/J.JSIS.2017.01.003
 UR  - https://www.sciencedirect.com/science/article/pii/S0963868717300240
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.JSIS.2017.01.003>
 - URL: <https://www.sciencedirect.com/science/article/pii/S0963868717300240>

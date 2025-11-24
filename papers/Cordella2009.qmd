@@ -13,7 +13,7 @@ cited_by: 1
 outlet: "Journal of Information Technology"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @misc{Cordella2009,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - GEN
@@ -43,5 +43,6 @@ EP  - 400
 DO  - 10.1057/9780230250611_19
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1057/9780230250611_19>

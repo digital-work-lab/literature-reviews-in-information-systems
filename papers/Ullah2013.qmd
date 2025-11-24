@@ -14,7 +14,7 @@ cited_by: 71
 outlet: "ACM Transactions on Management Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Ullah2013,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ EP  - 30
 DO  - 10.1145/2445560.2445564
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1145/2445560.2445564>

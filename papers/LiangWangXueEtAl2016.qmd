@@ -16,7 +16,7 @@ cited_by: 95
 outlet: "Information & Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{LiangWangXueEtAl2016,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -51,6 +51,7 @@ DO  - 10.1016/J.IM.2015.10.001
 UR  - https://www.sciencedirect.com/science/article/pii/S037872061500110X
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.IM.2015.10.001>
 - URL: <https://www.sciencedirect.com/science/article/pii/S037872061500110X>

@@ -14,7 +14,7 @@ cited_by: 320
 outlet: "Information Systems Journal"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Dhillon2001,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ EP  - 153
 DO  - 10.1046/J.1365-2575.2001.00099.X
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1046/J.1365-2575.2001.00099.X>

@@ -16,7 +16,7 @@ cited_by: 768
 outlet: "Information Systems Research"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Agarwal2010,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -50,5 +50,6 @@ EP  - 809
 DO  - 10.1287/ISRE.1100.0327
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1287/ISRE.1100.0327>

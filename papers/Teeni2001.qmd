@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Teeni2001,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -43,5 +43,6 @@ EP  - 312
 DO  - 10.2307/3250931
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.2307/3250931>

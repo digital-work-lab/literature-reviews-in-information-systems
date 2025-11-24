@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{ModiFeldman2018,
@@ -26,7 +26,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -38,5 +38,6 @@ PY  - 2018
 UR  - https://aisel.aisnet.org/amcis2018/TREOsPDS/Presentations/47
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <https://aisel.aisnet.org/amcis2018/TREOsPDS/Presentations/47>

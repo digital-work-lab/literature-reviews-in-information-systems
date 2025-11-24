@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{WiethofBittner2021,
@@ -26,7 +26,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -38,5 +38,6 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/icis2021/ai_business/ai_business/11
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <https://aisel.aisnet.org/icis2021/ai_business/ai_business/11>

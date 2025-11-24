@@ -16,7 +16,7 @@ cited_by: 178
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Gerow2014,
@@ -33,7 +33,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -51,5 +51,6 @@ EP  - 1186
 DO  - 10.25300/MISQ/2014/38.4.10
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.25300/MISQ/2014/38.4.10>

@@ -16,7 +16,7 @@ cited_by: 60
 outlet: "Journal of Information Technology"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Xiao2013,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -50,5 +50,6 @@ EP  - 278
 DO  - 10.1057/JIT.2013.20
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1057/JIT.2013.20>

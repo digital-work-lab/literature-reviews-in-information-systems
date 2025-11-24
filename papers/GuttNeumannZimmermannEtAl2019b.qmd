@@ -17,7 +17,7 @@ cited_by: 71
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{GuttNeumannZimmermannEtAl2019b,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -51,5 +51,6 @@ EP  - 117
 DO  - 10.1016/J.JSIS.2019.01.004
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.JSIS.2019.01.004>

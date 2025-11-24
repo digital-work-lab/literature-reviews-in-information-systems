@@ -14,7 +14,7 @@ cited_by: 25
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Mishra2011a,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ EP  - 37
 DO  - 10.1145/2096140.2096143
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1145/2096140.2096143>

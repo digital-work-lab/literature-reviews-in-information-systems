@@ -15,7 +15,7 @@ cited_by: 748
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Powell2004,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ EP  - 36
 DO  - 10.1145/968464.968467
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1145/968464.968467>

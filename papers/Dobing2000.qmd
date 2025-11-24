@@ -14,7 +14,7 @@ cited_by: 26
 outlet: "Journal of Database Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Dobing2000,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ EP  - 36
 DO  - 10.4018/JDM.2000100103
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.4018/JDM.2000100103>

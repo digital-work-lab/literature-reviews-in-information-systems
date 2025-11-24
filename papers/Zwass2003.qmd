@@ -13,7 +13,7 @@ cited_by: 0
 outlet: "International Journal of Electronic Commerce"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Zwass2003,
@@ -27,7 +27,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR

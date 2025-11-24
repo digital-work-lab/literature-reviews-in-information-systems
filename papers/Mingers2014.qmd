@@ -14,7 +14,7 @@ cited_by: 52
 outlet: "Information and Organization"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Mingers2014,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,5 +45,6 @@ EP  - 70
 DO  - 10.1016/J.INFOANDORG.2014.01.002
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.INFOANDORG.2014.01.002>

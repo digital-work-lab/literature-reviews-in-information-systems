@@ -14,7 +14,7 @@ cited_by: 32
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{HassanHamari2019,
@@ -27,7 +27,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -40,6 +40,7 @@ DO  - 10.24251/HICSS.2019.372
 UR  - http://hdl.handle.net/10125/59744
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.24251/HICSS.2019.372>
 - URL: <http://hdl.handle.net/10125/59744>

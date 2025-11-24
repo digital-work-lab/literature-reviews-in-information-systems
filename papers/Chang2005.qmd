@@ -15,7 +15,7 @@ cited_by: 262
 outlet: "Information & Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Chang2005,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -47,5 +47,6 @@ EP  - 559
 DO  - 10.1016/S0378-7206(04)00051-5
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/S0378-7206(04)00051-5>

@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{HinsenJohnkUrbach2019,
@@ -27,7 +27,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -40,5 +40,6 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/icis2019/business_models/business_models/12
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <https://aisel.aisnet.org/icis2019/business_models/business_models/12>

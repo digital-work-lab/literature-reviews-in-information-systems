@@ -16,7 +16,7 @@ cited_by: 7
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{ThakurtaMullerAhlemannEtAl2017,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -44,6 +44,7 @@ DO  - 10.24251/HICSS.2017.571
 UR  - http://hdl.handle.net/10125/41733
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.24251/HICSS.2017.571>
 - URL: <http://hdl.handle.net/10125/41733>

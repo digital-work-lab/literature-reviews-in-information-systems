@@ -17,7 +17,7 @@ cited_by: 88
 outlet: "European Journal of Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{NastjukTrangGrummeckBraamtEtAl2023,
@@ -33,7 +33,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -53,6 +53,7 @@ DO  - 10.1080/0960085X.2022.2154712
 UR  - https://www.tandfonline.com/doi/full/10.1080/0960085X.2022.2154712
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1080/0960085X.2022.2154712>
 - URL: <https://www.tandfonline.com/doi/full/10.1080/0960085X.2022.2154712>

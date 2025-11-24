@@ -14,7 +14,7 @@ cited_by: 53
 outlet: "Journal of Database Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Topi2002,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ EP  - 19
 DO  - 10.4018/JDM.2002040101
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.4018/JDM.2002040101>

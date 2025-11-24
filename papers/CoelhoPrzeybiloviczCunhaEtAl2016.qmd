@@ -16,7 +16,7 @@ cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{CoelhoPrzeybiloviczCunhaEtAl2016,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -44,6 +44,7 @@ DO  - 10.1109/HICSS.2016.336
 UR  - https://ieeexplore.ieee.org/document/7427519
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1109/HICSS.2016.336>
 - URL: <https://ieeexplore.ieee.org/document/7427519>

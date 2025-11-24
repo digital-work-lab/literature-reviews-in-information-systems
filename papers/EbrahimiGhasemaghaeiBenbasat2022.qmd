@@ -15,7 +15,7 @@ cited_by: 21
 outlet: "Journal of Management Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{EbrahimiGhasemaghaeiBenbasat2022,
@@ -33,7 +33,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -51,6 +51,7 @@ DO  - 10.1080/07421222.2022.2096549
 UR  - https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096549
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1080/07421222.2022.2096549>
 - URL: <https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096549>

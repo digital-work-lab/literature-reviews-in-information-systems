@@ -15,7 +15,7 @@ cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{FischerPoseggaFischbach2016,
@@ -27,7 +27,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -40,5 +40,6 @@ PY  - 2016
 UR  - http://aisel.aisnet.org/ecis2016_rp/168
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <http://aisel.aisnet.org/ecis2016_rp/168>

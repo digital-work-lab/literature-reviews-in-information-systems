@@ -17,7 +17,7 @@ cited_by: 28
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{WarmelinkKoivistoMayerEtAl2018,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -46,6 +46,7 @@ DO  - 10.24251/HICSS.2018.139
 UR  - http://aisel.aisnet.org/hicss-51/da/gamification/2
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.24251/HICSS.2018.139>
 - URL: <http://aisel.aisnet.org/hicss-51/da/gamification/2>

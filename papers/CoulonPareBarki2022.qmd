@@ -15,7 +15,7 @@ cited_by: 3
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{CoulonPareBarki2022,
@@ -32,7 +32,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -49,6 +49,7 @@ DO  - 10.17705/1CAIS.05242
 UR  - https://aisel.aisnet.org/cais/vol52/iss1/41
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1CAIS.05242>
 - URL: <https://aisel.aisnet.org/cais/vol52/iss1/41>

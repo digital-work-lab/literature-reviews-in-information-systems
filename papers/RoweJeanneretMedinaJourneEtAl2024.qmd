@@ -17,7 +17,7 @@ cited_by: 10
 outlet: "Journal of Information Technology"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{RoweJeanneretMedinaJourneEtAl2024,
@@ -34,7 +34,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -53,5 +53,6 @@ EP  - 615
 DO  - 10.1177/02683962231207108
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1177/02683962231207108>

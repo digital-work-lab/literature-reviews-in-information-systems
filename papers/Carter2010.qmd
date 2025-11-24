@@ -13,7 +13,7 @@ cited_by: 5
 outlet: "Journal of Global Information Technology Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Carter2010,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -43,5 +43,6 @@ EP  - 27
 DO  - 10.1080/1097198X.2010.10856524
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1080/1097198X.2010.10856524>

@@ -15,7 +15,7 @@ cited_by: 190
 outlet: "Information Systems Research"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Ba2001,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ EP  - 239
 DO  - 10.1287/ISRE.12.3.225.9712
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1287/ISRE.12.3.225.9712>

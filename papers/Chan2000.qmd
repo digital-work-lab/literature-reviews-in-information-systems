@@ -13,7 +13,7 @@ cited_by: 163
 outlet: "Journal of Management Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Chan2000,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -43,5 +43,6 @@ EP  - 261
 DO  - 10.1080/07421222.2000.11518272
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1080/07421222.2000.11518272>

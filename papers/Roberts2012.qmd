@@ -16,7 +16,7 @@ cited_by: 370
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Roberts2012,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ SP  - 625
 DO  - 10.2307/41703470
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.2307/41703470>

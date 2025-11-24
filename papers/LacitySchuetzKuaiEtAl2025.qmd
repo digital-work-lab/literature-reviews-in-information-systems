@@ -16,7 +16,7 @@ cited_by: 18
 outlet: "Journal of Information Technology"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{LacitySchuetzKuaiEtAl2025,
@@ -33,7 +33,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -51,5 +51,6 @@ EP  - 313
 DO  - 10.1177/02683962231226397
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1177/02683962231226397>

@@ -14,7 +14,7 @@ cited_by: 27
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{OckerMudambi2003,
@@ -27,7 +27,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -40,6 +40,7 @@ DO  - 10.1109/HICSS.2003.1174390
 UR  - https://ieeexplore.ieee.org/document/1174390
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1109/HICSS.2003.1174390>
 - URL: <https://ieeexplore.ieee.org/document/1174390>

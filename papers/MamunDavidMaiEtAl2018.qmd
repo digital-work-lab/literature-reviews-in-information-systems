@@ -17,7 +17,7 @@ cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{MamunDavidMaiEtAl2018,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -46,6 +46,7 @@ DO  - 10.24251/HICSS.2018.032
 UR  - http://hdl.handle.net/10125/49919
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.24251/HICSS.2018.032>
 - URL: <http://hdl.handle.net/10125/49919>

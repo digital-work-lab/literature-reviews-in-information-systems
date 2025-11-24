@@ -14,7 +14,7 @@ cited_by: 129
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Siponen2007,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ EP  - 80
 DO  - 10.1145/1216218.1216224
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1145/1216218.1216224>

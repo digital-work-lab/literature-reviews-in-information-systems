@@ -14,7 +14,7 @@ cited_by: 70
 outlet: "Information Systems Frontiers"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{TrangBrendel2019,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -47,6 +47,7 @@ DO  - 10.1007/S10796-019-09956-4
 UR  - https://link.springer.com/article/10.1007/s10796-019-09956-4
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1007/S10796-019-09956-4>
 - URL: <https://link.springer.com/article/10.1007/s10796-019-09956-4>

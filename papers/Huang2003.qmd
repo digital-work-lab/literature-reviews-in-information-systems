@@ -15,7 +15,7 @@ cited_by: 5
 outlet: "Journal of Global Information Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Huang2003,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ EP  - 89
 DO  - 10.4018/JGIM.2003010104
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.4018/JGIM.2003010104>

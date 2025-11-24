@@ -16,7 +16,7 @@ cited_by: 274
 outlet: "Information Systems Frontiers"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{IsmagilovaHughesRanaEtAl2022,
@@ -33,7 +33,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -52,6 +52,7 @@ DO  - 10.1007/S10796-020-10044-1
 UR  - https://link.springer.com/article/10.1007/s10796-020-10044-1
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1007/S10796-020-10044-1>
 - URL: <https://link.springer.com/article/10.1007/s10796-020-10044-1>

@@ -13,7 +13,7 @@ cited_by: 3
 outlet: "European Journal of Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Marble2000,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -43,5 +43,6 @@ EP  - 147
 DO  - 10.1057/PALGRAVE/EJIS/3000369
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1057/PALGRAVE/EJIS/3000369>

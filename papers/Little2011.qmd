@@ -13,7 +13,7 @@ cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{Little2011,
@@ -26,7 +26,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -38,6 +38,7 @@ DO  - 10.1109/HICSS.2011.278
 UR  - https://ieeexplore.ieee.org/document/5718987
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1109/HICSS.2011.278>
 - URL: <https://ieeexplore.ieee.org/document/5718987>

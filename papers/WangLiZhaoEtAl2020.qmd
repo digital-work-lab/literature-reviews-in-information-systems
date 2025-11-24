@@ -17,7 +17,7 @@ cited_by: 34
 outlet: "Information Systems Frontiers"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{WangLiZhaoEtAl2020,
@@ -33,7 +33,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -53,6 +53,7 @@ DO  - 10.1007/S10796-020-10057-W
 UR  - https://link.springer.com/article/10.1007/s10796-020-10057-w
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1007/S10796-020-10057-W>
 - URL: <https://link.springer.com/article/10.1007/s10796-020-10057-w>

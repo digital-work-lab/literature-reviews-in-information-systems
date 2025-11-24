@@ -14,7 +14,7 @@ cited_by: 59
 outlet: "European Journal of Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Irani2002,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,5 +45,6 @@ EP  - 82
 DO  - 10.1057/PALGRAVE/EJIS/3000411
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1057/PALGRAVE/EJIS/3000411>

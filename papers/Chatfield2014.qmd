@@ -16,7 +16,7 @@ cited_by: 6
 outlet: "Australasian Journal of Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Chatfield2014,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -49,5 +49,6 @@ EP  - 269
 DO  - 10.3127/AJIS.V18I3.1104
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.3127/AJIS.V18I3.1104>

@@ -15,7 +15,7 @@ cited_by: 407
 outlet: "The Journal of Strategic Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Shankar2002,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -47,5 +47,6 @@ EP  - 344
 DO  - 10.1016/S0963-8687(02)00022-7
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/S0963-8687(02)00022-7>

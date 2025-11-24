@@ -15,7 +15,7 @@ cited_by: 42
 outlet: "Information Technology & People"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Abbas2014,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ EP  - 20
 DO  - 10.1108/ITP-12-2012-0156
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1108/ITP-12-2012-0156>

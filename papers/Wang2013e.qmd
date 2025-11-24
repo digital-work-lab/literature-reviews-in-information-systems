@@ -15,7 +15,7 @@ cited_by: 139
 outlet: "Business & Information Systems Engineering"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Wang2013e,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ EP  - 419
 DO  - 10.1007/S12599-013-0296-Y
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1007/S12599-013-0296-Y>

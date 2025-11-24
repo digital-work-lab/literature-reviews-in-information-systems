@@ -15,7 +15,7 @@ cited_by: 4
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{SeeberMaierWeber2014,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -42,6 +42,7 @@ DO  - 10.1109/HICSS.2014.66
 UR  - https://ieeexplore.ieee.org/document/6758662
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1109/HICSS.2014.66>
 - URL: <https://ieeexplore.ieee.org/document/6758662>

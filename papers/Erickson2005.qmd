@@ -15,7 +15,7 @@ cited_by: 181
 outlet: "Journal of Database Management"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Erickson2005,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ EP  - 100
 DO  - 10.4018/JDM.2005100105
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.4018/JDM.2005100105>

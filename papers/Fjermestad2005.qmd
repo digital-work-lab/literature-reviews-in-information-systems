@@ -14,7 +14,7 @@ cited_by: 40
 outlet: "Journal of Information Technology Case and Application Research"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Fjermestad2005,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,5 +45,6 @@ EP  - 60
 DO  - 10.1080/15228053.2005.10856070
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1080/15228053.2005.10856070>

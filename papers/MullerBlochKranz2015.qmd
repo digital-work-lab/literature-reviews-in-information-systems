@@ -14,7 +14,7 @@ cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{MullerBlochKranz2015,
@@ -26,7 +26,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -38,5 +38,6 @@ PY  - 2015
 UR  - http://aisel.aisnet.org/icis2015/proceedings/ResearchMethods/2
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <http://aisel.aisnet.org/icis2015/proceedings/ResearchMethods/2>

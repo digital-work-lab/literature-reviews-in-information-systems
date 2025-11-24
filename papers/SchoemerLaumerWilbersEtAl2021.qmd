@@ -18,7 +18,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{SchoemerLaumerWilbersEtAl2021,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -46,5 +46,6 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/amcis2021/social_inclusion/social_inclusion/10
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <https://aisel.aisnet.org/amcis2021/social_inclusion/social_inclusion/10>

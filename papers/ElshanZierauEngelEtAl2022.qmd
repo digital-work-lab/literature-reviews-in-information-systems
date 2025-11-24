@@ -17,7 +17,7 @@ cited_by: 47
 outlet: "Information Systems Frontiers"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{ElshanZierauEngelEtAl2022,
@@ -34,7 +34,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -54,6 +54,7 @@ DO  - 10.1007/S10796-021-10230-9
 UR  - https://link.springer.com/article/10.1007/s10796-021-10230-9
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1007/S10796-021-10230-9>
 - URL: <https://link.springer.com/article/10.1007/s10796-021-10230-9>

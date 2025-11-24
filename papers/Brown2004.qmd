@@ -13,7 +13,7 @@ cited_by: 40
 outlet: "Information Resources Management Journal"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Brown2004,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -44,5 +44,6 @@ EP  - 48
 DO  - 10.4018/IRMJ.2004100102
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.4018/IRMJ.2004100102>

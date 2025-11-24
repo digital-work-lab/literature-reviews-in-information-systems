@@ -14,7 +14,7 @@ cited_by: 160
 outlet: "Journal of Management Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{He2008,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,5 +45,6 @@ EP  - 331
 DO  - 10.2753/MIS0742-1222250111
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.2753/MIS0742-1222250111>

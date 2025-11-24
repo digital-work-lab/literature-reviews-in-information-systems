@@ -15,7 +15,7 @@ cited_by: 1328
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Smith2011,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ SP  - 989
 DO  - 10.2307/41409970
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.2307/41409970>

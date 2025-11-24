@@ -16,7 +16,7 @@ cited_by: 26
 outlet: "Journal of Computer Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Elyas2014,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -49,5 +49,6 @@ EP  - 105
 DO  - 10.1080/08874417.2014.11645708
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1080/08874417.2014.11645708>

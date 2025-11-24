@@ -18,7 +18,7 @@ cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{SchaafLautenschlagerVouckoGlocknerEtAl2025a,
@@ -34,7 +34,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -54,6 +54,7 @@ DO  - 10.17705/1CAIS.05712
 UR  - https://aisel.aisnet.org/cais/vol57/iss1/14
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.17705/1CAIS.05712>
 - URL: <https://aisel.aisnet.org/cais/vol57/iss1/14>

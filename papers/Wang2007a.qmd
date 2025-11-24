@@ -14,7 +14,7 @@ cited_by: 9
 outlet: "Information Resources Management Journal"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Wang2007a,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ EP  - 18
 DO  - 10.4018/IRMJ.2007070101
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.4018/IRMJ.2007070101>

@@ -15,7 +15,7 @@ cited_by: 23
 outlet: "Information Resources Management Journal"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Hwang2000,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ EP  - 32
 DO  - 10.4018/IRMJ.2000040103
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.4018/IRMJ.2000040103>

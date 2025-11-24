@@ -14,7 +14,7 @@ cited_by: 151
 outlet: "Information and Organization"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Fayard2014,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -45,5 +45,6 @@ EP  - 249
 DO  - 10.1016/J.INFOANDORG.2014.10.001
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.INFOANDORG.2014.10.001>

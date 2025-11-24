@@ -14,7 +14,7 @@ cited_by: 7
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{LinSuh2021,
@@ -27,7 +27,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -40,6 +40,7 @@ DO  - 10.24251/HICSS.2021.011
 UR  - http://hdl.handle.net/10125/70622
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.24251/HICSS.2021.011>
 - URL: <http://hdl.handle.net/10125/70622>

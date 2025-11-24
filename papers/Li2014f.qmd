@@ -15,7 +15,7 @@ cited_by: 24
 outlet: "Journal of Information Technology"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Li2014f,
@@ -31,7 +31,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -48,5 +48,6 @@ EP  - 222
 DO  - 10.1057/JIT.2014.15
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1057/JIT.2014.15>

@@ -13,7 +13,7 @@ cited_by: 11
 outlet: "Information Technology & People"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Tams2013,
@@ -29,7 +29,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -44,5 +44,6 @@ EP  - 400
 DO  - 10.1108/ITP-11-2012-0138
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1108/ITP-11-2012-0138>

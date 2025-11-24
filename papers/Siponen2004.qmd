@@ -14,7 +14,7 @@ cited_by: 29
 outlet: "Information Systems Journal"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Siponen2004,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -46,5 +46,6 @@ EP  - 407
 DO  - 10.1111/J.1365-2575.2004.00179.X
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1111/J.1365-2575.2004.00179.X>

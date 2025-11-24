@@ -15,7 +15,7 @@ cited_by: 23
 outlet: "Hawaii International Conference on System Sciences"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{DameriNegreRosenthalSabroux2016,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -42,6 +42,7 @@ DO  - 10.1109/HICSS.2016.372
 UR  - https://ieeexplore.ieee.org/document/7427555
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1109/HICSS.2016.372>
 - URL: <https://ieeexplore.ieee.org/document/7427555>

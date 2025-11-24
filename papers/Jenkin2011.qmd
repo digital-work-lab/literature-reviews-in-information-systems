@@ -15,7 +15,7 @@ cited_by: 263
 outlet: "Information and Organization"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Jenkin2011,
@@ -30,7 +30,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -47,5 +47,6 @@ EP  - 40
 DO  - 10.1016/J.INFOANDORG.2010.09.003
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1016/J.INFOANDORG.2010.09.003>

@@ -16,7 +16,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{VeltriKrasnovaBaumannEtAl2014,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -42,5 +42,6 @@ PY  - 2014
 UR  - https://aisel.aisnet.org/amcis2014/SocioTechnicalIssues/GeneralPresentations/5
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <https://aisel.aisnet.org/amcis2014/SocioTechnicalIssues/GeneralPresentations/5>

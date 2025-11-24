@@ -16,7 +16,7 @@ cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @inproceedings{RickenbergNeumannHohlerEtAl2012,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - CONF
@@ -42,5 +42,6 @@ PY  - 2012
 UR  - https://aisel.aisnet.org/amcis2012/proceedings/DataInfoQuality/10
 ER  - 
 ```
-Links:
+## Links
+
 - URL: <https://aisel.aisnet.org/amcis2012/proceedings/DataInfoQuality/10>

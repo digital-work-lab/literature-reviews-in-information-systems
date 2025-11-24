@@ -13,7 +13,7 @@ cited_by: 304
 outlet: "MIS Quarterly"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Elliot2011,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -42,5 +42,6 @@ SP  - 197
 DO  - 10.2307/23043495
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.2307/23043495>

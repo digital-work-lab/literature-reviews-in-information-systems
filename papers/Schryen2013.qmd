@@ -13,7 +13,7 @@ cited_by: 275
 outlet: "European Journal of Information Systems"
 ---
 
-Citation (BibTeX):
+## Citation: BibTeX
 
 ```bibtex
 @article{Schryen2013,
@@ -28,7 +28,7 @@ Citation (BibTeX):
 }
 ```
 
-RIS:
+## Citation: RIS
 
 ```bibtex
 TY  - JOUR
@@ -43,5 +43,6 @@ EP  - 169
 DO  - 10.1057/EJIS.2012.45
 ER  - 
 ```
-Links:
+## Links
+
 - DOI: <https://doi.org/10.1057/EJIS.2012.45>
