@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2015"
 doi: ""
+url: "http://aisel.aisnet.org/ecis2015_cr/198"
 journal:
   name: ""
 cited_by: 0
@@ -39,3 +40,5 @@ PY  - 2015
 UR  - http://aisel.aisnet.org/ecis2015_cr/198
 ER  - 
 ```
+Links:
+- URL: <http://aisel.aisnet.org/ecis2015_cr/198>

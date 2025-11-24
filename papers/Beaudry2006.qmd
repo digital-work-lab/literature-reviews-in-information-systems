@@ -7,6 +7,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2006"
 doi: "https://doi.org/10.17705/1CAIS.01721"
+url: ""
 journal:
   name: "Communications of the Association for Information Systems"
 cited_by: 1
@@ -44,3 +45,5 @@ EP  - 503
 DO  - 10.17705/1CAIS.01721
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1CAIS.01721>

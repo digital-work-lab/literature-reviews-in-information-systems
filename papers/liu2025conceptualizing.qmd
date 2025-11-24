@@ -10,6 +10,7 @@ topic: ""
 categories: []
 date: "2025"
 doi: "https://doi.org/10.1016/J.JSIS.2025.101904"
+url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 4
@@ -49,3 +50,5 @@ SP  - 101904
 DO  - 10.1016/J.JSIS.2025.101904
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2025.101904>

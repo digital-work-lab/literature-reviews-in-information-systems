@@ -8,6 +8,7 @@ topic: ""
 categories: ['descriptive-review']
 date: "2014"
 doi: "https://doi.org/10.17705/1CAIS.03484"
+url: ""
 journal:
   name: "Communications of the Association for Information Systems"
 cited_by: 0
@@ -46,3 +47,5 @@ EP  - 1467
 DO  - 10.17705/1CAIS.03484
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1CAIS.03484>

@@ -11,6 +11,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2002"
 doi: "https://doi.org/10.2307/4132315"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 217
@@ -51,3 +52,5 @@ SP  - 397
 DO  - 10.2307/4132315
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2307/4132315>

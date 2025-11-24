@@ -9,6 +9,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2013"
 doi: "https://doi.org/10.1057/JIT.2013.20"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 60
@@ -49,3 +50,5 @@ EP  - 278
 DO  - 10.1057/JIT.2013.20
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/JIT.2013.20>

@@ -9,6 +9,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2012"
 doi: "https://doi.org/10.2307/41703471"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 461
@@ -47,3 +48,5 @@ SP  - 649
 DO  - 10.2307/41703471
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2307/41703471>

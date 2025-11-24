@@ -9,6 +9,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2023"
 doi: "https://doi.org/10.1080/07421222.2023.2267318"
+url: ""
 journal:
   name: "Journal of Management Information Systems"
 cited_by: 16
@@ -48,3 +49,5 @@ EP  - 1138
 DO  - 10.1080/07421222.2023.2267318
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/07421222.2023.2267318>

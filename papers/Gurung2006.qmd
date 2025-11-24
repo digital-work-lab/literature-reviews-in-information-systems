@@ -7,6 +7,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2006"
 doi: "https://doi.org/10.1080/1097198X.2006.10856413"
+url: ""
 journal:
   name: "Journal of Global Information Technology Management"
 cited_by: 53
@@ -44,3 +45,5 @@ EP  - 43
 DO  - 10.1080/1097198X.2006.10856413
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/1097198X.2006.10856413>

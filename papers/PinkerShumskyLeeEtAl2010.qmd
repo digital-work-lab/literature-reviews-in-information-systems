@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2010"
 doi: "https://doi.org/10.1109/HICSS.2010.265"
+url: "https://ieeexplore.ieee.org/document/5428607"
 journal:
   name: ""
 cited_by: 1
@@ -43,3 +44,6 @@ DO  - 10.1109/HICSS.2010.265
 UR  - https://ieeexplore.ieee.org/document/5428607
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1109/HICSS.2010.265>
+- URL: <https://ieeexplore.ieee.org/document/5428607>

@@ -6,6 +6,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2004"
 doi: "https://doi.org/10.4018/IRMJ.2004100102"
+url: ""
 journal:
   name: "Information Resources Management Journal"
 cited_by: 40
@@ -43,3 +44,5 @@ EP  - 48
 DO  - 10.4018/IRMJ.2004100102
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.4018/IRMJ.2004100102>

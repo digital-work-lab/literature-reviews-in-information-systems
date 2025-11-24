@@ -140,11 +140,16 @@ def record_to_qmd_content(rec: dict, key: str, bibtex: str, ris: str) -> str:
     topic = ""
     year = str(rec.get("year", "")).strip()
 
+    # DOI (normalize to URL-style if needed)
     doi_raw = str(rec.get("doi", "")).strip()
     if doi_raw and not doi_raw.startswith("http"):
         doi = f"https://doi.org/{doi_raw}"
     else:
         doi = doi_raw
+
+    # URL (publisher / landing page)
+    url_raw = str(rec.get("url", "")).strip()
+    url = url_raw
 
     journal = yaml_escape(rec.get("journal", ""))
 
@@ -157,9 +162,23 @@ def record_to_qmd_content(rec: dict, key: str, bibtex: str, ris: str) -> str:
 
     categories = []
     if "lr_type_pare_et_al" in rec:
-        categories += [rec["lr_type_pare_et_al"]]
-    if "cited_by" in rec and int(rec["cited_by"]) > 500:
-        categories += ["highly-cited"]
+        categories.append(rec["lr_type_pare_et_al"])
+    if "cited_by" in rec:
+        try:
+            if int(rec["cited_by"]) > 500:
+                categories.append("highly-cited")
+        except (TypeError, ValueError):
+            pass
+
+    # Build optional links section for the markdown body
+    links_section = ""
+    if doi or url:
+        lines = ["", "Links:"]
+        if doi:
+            lines.append(f"- DOI: <{doi}>")
+        if url:
+            lines.append(f"- URL: <{url}>")
+        links_section = "\n".join(lines) + "\n"
 
     # Quarto YAML with code-copy enabled so code blocks have copy buttons
     qmd = f'''---
@@ -170,6 +189,7 @@ topic: "{yaml_escape(topic)}"
 categories: {categories}
 date: "{year}"
 doi: "{yaml_escape(doi)}"
+url: "{yaml_escape(url)}"
 journal:
   name: "{journal}"
 cited_by: {cited_by}
@@ -186,8 +206,7 @@ RIS:
 
 ```bibtex
 {ris}
-```
-'''
+```{links_section}'''
     return qmd
 
 
@@ -232,11 +251,12 @@ def main(bib_filename: str, output_dir: str = "papers") -> None:
         bibtex_entry = record_to_bibtex(rec)
         ris_entry = record_to_ris(rec)
 
-        # .qmd with BibTeX block and RIS block (with copy buttons via code-copy)
+        # .qmd with BibTeX block, RIS block, and DOI/URL links
         qmd_content = record_to_qmd_content(rec, key=key, bibtex=bibtex_entry, ris=ris_entry)
 
         qmd_path = out_dir / f"{key}.qmd"
         qmd_path.write_text(qmd_content, encoding="utf-8")
+
 
         count += 1
         print(f"Wrote {qmd_path}")

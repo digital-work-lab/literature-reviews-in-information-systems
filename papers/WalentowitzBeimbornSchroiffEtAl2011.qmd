@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2011"
 doi: "https://doi.org/10.1109/HICSS.2011.434"
+url: "https://ieeexplore.ieee.org/document/5718956"
 journal:
   name: ""
 cited_by: 1
@@ -43,3 +44,6 @@ DO  - 10.1109/HICSS.2011.434
 UR  - https://ieeexplore.ieee.org/document/5718956
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1109/HICSS.2011.434>
+- URL: <https://ieeexplore.ieee.org/document/5718956>

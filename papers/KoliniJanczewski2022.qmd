@@ -7,6 +7,7 @@ topic: ""
 categories: []
 date: "2022"
 doi: "https://doi.org/10.17705/1CAIS.05004"
+url: "https://aisel.aisnet.org/cais/vol50/iss1/2"
 journal:
   name: "Communications of the Association for Information Systems"
 cited_by: 4
@@ -46,3 +47,6 @@ DO  - 10.17705/1CAIS.05004
 UR  - https://aisel.aisnet.org/cais/vol50/iss1/2
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1CAIS.05004>
+- URL: <https://aisel.aisnet.org/cais/vol50/iss1/2>

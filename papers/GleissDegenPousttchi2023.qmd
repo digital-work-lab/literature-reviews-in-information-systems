@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2023"
 doi: "https://doi.org/10.1177/02683962221146803"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 23
@@ -45,3 +46,5 @@ IS  - 2
 DO  - 10.1177/02683962221146803
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1177/02683962221146803>

@@ -7,6 +7,7 @@ topic: ""
 categories: []
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.011"
+url: "http://hdl.handle.net/10125/70622"
 journal:
   name: ""
 cited_by: 7
@@ -39,3 +40,6 @@ DO  - 10.24251/HICSS.2021.011
 UR  - http://hdl.handle.net/10125/70622
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.24251/HICSS.2021.011>
+- URL: <http://hdl.handle.net/10125/70622>

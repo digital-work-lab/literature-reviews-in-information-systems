@@ -7,6 +7,7 @@ topic: ""
 categories: []
 date: "2020"
 doi: "https://doi.org/10.1080/0960085X.2019.1701956"
+url: "https://www.tandfonline.com/doi/full/10.1080/0960085X.2019.1701956"
 journal:
   name: "European Journal of Information Systems"
 cited_by: 21
@@ -48,3 +49,6 @@ DO  - 10.1080/0960085X.2019.1701956
 UR  - https://www.tandfonline.com/doi/full/10.1080/0960085X.2019.1701956
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/0960085X.2019.1701956>
+- URL: <https://www.tandfonline.com/doi/full/10.1080/0960085X.2019.1701956>

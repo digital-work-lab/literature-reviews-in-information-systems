@@ -9,6 +9,7 @@ topic: ""
 categories: ['qualitative-systematic-review']
 date: "2011"
 doi: "https://doi.org/10.1016/J.JSIS.2011.04.003"
+url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 99
@@ -48,3 +49,5 @@ EP  - 138
 DO  - 10.1016/J.JSIS.2011.04.003
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2011.04.003>

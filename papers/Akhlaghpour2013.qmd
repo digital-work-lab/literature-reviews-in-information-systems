@@ -9,6 +9,7 @@ topic: ""
 categories: ['descriptive-review']
 date: "2013"
 doi: "https://doi.org/10.1057/JIT.2013.10"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 44
@@ -49,3 +50,5 @@ EP  - 166
 DO  - 10.1057/JIT.2013.10
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/JIT.2013.10>

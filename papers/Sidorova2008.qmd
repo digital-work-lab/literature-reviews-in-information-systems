@@ -9,6 +9,7 @@ topic: ""
 categories: ['descriptive-review']
 date: "2008"
 doi: "https://doi.org/10.2307/25148852"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 327
@@ -47,3 +48,5 @@ SP  - 467
 DO  - 10.2307/25148852
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2307/25148852>

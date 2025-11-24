@@ -7,6 +7,7 @@ topic: ""
 categories: ['critical-review']
 date: "2008"
 doi: "https://doi.org/10.4018/JGIM.2008010103"
+url: ""
 journal:
   name: "Journal of Global Information Management"
 cited_by: 26
@@ -45,3 +46,5 @@ EP  - 84
 DO  - 10.4018/JGIM.2008010103
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.4018/JGIM.2008010103>

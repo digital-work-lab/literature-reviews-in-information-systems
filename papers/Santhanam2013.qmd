@@ -9,6 +9,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2013"
 doi: "https://doi.org/10.17705/1THCI.00056"
+url: ""
 journal:
   name: "AIS Transactions on Human-Computer Interaction"
 cited_by: 10
@@ -48,3 +49,5 @@ EP  - 156
 DO  - 10.17705/1THCI.00056
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1THCI.00056>

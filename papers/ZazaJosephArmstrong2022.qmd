@@ -8,6 +8,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2022"
 doi: "https://doi.org/10.25300/MISQ/2022/16951"
+url: "https://misq.umn.edu/are-it-professionals-unique-a-second-order-meta-analytic-comparison-of-turnover-intentions-across-occupations.html"
 journal:
   name: "MIS Quarterly"
 cited_by: 12
@@ -51,3 +52,6 @@ DO  - 10.25300/MISQ/2022/16951
 UR  - https://misq.umn.edu/are-it-professionals-unique-a-second-order-meta-analytic-comparison-of-turnover-intentions-across-occupations.html
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.25300/MISQ/2022/16951>
+- URL: <https://misq.umn.edu/are-it-professionals-unique-a-second-order-meta-analytic-comparison-of-turnover-intentions-across-occupations.html>

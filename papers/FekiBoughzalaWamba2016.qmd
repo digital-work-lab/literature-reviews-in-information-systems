@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2016"
 doi: "https://doi.org/10.1109/HICSS.2016.142"
+url: "http://doi.ieeecomputersociety.org/10.1109/HICSS.2016.142"
 journal:
   name: ""
 cited_by: 0
@@ -41,3 +42,6 @@ DO  - 10.1109/HICSS.2016.142
 UR  - http://doi.ieeecomputersociety.org/10.1109/HICSS.2016.142
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1109/HICSS.2016.142>
+- URL: <http://doi.ieeecomputersociety.org/10.1109/HICSS.2016.142>

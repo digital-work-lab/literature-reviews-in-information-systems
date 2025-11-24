@@ -10,6 +10,7 @@ topic: ""
 categories: []
 date: "2021"
 doi: "https://doi.org/10.1007/S10796-021-10181-1"
+url: "https://link.springer.com/article/10.1007/s10796-021-10181-1"
 journal:
   name: "Information Systems Frontiers"
 cited_by: 112
@@ -48,3 +49,6 @@ DO  - 10.1007/S10796-021-10181-1
 UR  - https://link.springer.com/article/10.1007/s10796-021-10181-1
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1007/S10796-021-10181-1>
+- URL: <https://link.springer.com/article/10.1007/s10796-021-10181-1>

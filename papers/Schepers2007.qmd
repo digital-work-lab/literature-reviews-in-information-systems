@@ -7,6 +7,7 @@ topic: ""
 categories: ['meta-analysis', 'highly-cited']
 date: "2007"
 doi: "https://doi.org/10.1016/J.IM.2006.10.007"
+url: ""
 journal:
   name: "Information & Management"
 cited_by: 1062
@@ -44,3 +45,5 @@ EP  - 103
 DO  - 10.1016/J.IM.2006.10.007
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.IM.2006.10.007>

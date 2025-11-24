@@ -7,6 +7,7 @@ topic: ""
 categories: []
 date: "2003"
 doi: "https://doi.org/10.1109/HICSS.2003.1174390"
+url: "https://ieeexplore.ieee.org/document/1174390"
 journal:
   name: ""
 cited_by: 27
@@ -39,3 +40,6 @@ DO  - 10.1109/HICSS.2003.1174390
 UR  - https://ieeexplore.ieee.org/document/1174390
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1109/HICSS.2003.1174390>
+- URL: <https://ieeexplore.ieee.org/document/1174390>

@@ -9,6 +9,7 @@ topic: ""
 categories: ['scoping-review', 'highly-cited']
 date: "2010"
 doi: "https://doi.org/10.1287/ISRE.1100.0327"
+url: ""
 journal:
   name: "Information Systems Research"
 cited_by: 768
@@ -49,3 +50,5 @@ EP  - 809
 DO  - 10.1287/ISRE.1100.0327
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1287/ISRE.1100.0327>

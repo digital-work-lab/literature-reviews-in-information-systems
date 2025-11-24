@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2021"
 doi: ""
+url: "https://aisel.aisnet.org/amcis2021/phil_socio_digital_innov_entren/phil_socio_digital_innov_entren/2"
 journal:
   name: ""
 cited_by: 0
@@ -39,3 +40,5 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/amcis2021/phil_socio_digital_innov_entren/phil_socio_digital_innov_entren/2
 ER  - 
 ```
+Links:
+- URL: <https://aisel.aisnet.org/amcis2021/phil_socio_digital_innov_entren/phil_socio_digital_innov_entren/2>

@@ -6,6 +6,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2014"
 doi: "https://doi.org/10.17705/1CAIS.03455"
+url: ""
 journal:
   name: "Communications of the Association for Information Systems"
 cited_by: 118
@@ -42,3 +43,5 @@ EP  - 1066
 DO  - 10.17705/1CAIS.03455
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1CAIS.03455>

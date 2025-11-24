@@ -7,6 +7,7 @@ topic: ""
 categories: []
 date: "2018"
 doi: ""
+url: "https://aisel.aisnet.org/amcis2018/eGovernment/Presentations/7"
 journal:
   name: ""
 cited_by: 0
@@ -37,3 +38,5 @@ PY  - 2018
 UR  - https://aisel.aisnet.org/amcis2018/eGovernment/Presentations/7
 ER  - 
 ```
+Links:
+- URL: <https://aisel.aisnet.org/amcis2018/eGovernment/Presentations/7>

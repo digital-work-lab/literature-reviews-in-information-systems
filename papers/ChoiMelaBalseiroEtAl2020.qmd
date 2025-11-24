@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2020"
 doi: "https://doi.org/10.1287/ISRE.2019.0902"
+url: "https://www.doi.org/10.1287/ISRE.2019.0902"
 journal:
   name: "Information Systems Research"
 cited_by: 126
@@ -51,3 +52,6 @@ DO  - 10.1287/ISRE.2019.0902
 UR  - https://www.doi.org/10.1287/ISRE.2019.0902
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1287/ISRE.2019.0902>
+- URL: <https://www.doi.org/10.1287/ISRE.2019.0902>

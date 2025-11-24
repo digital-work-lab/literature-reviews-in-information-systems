@@ -7,6 +7,7 @@ topic: ""
 categories: ['critical-review']
 date: "2008"
 doi: "https://doi.org/10.1145/1364636.1364640"
+url: ""
 journal:
   name: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 cited_by: 23
@@ -45,3 +46,5 @@ EP  - 32
 DO  - 10.1145/1364636.1364640
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1145/1364636.1364640>

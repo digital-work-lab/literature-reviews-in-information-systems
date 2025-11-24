@@ -8,6 +8,7 @@ topic: ""
 categories: ['scoping-review', 'highly-cited']
 date: "2004"
 doi: "https://doi.org/10.1145/968464.968467"
+url: ""
 journal:
   name: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 cited_by: 748
@@ -47,3 +48,5 @@ EP  - 36
 DO  - 10.1145/968464.968467
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1145/968464.968467>

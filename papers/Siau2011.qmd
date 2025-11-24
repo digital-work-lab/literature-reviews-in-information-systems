@@ -8,6 +8,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2011"
 doi: "https://doi.org/10.4018/JDM.2011100103"
+url: ""
 journal:
   name: "Journal of Database Management"
 cited_by: 3
@@ -47,3 +48,5 @@ EP  - 72
 DO  - 10.4018/JDM.2011100103
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.4018/JDM.2011100103>

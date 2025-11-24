@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2007"
 doi: "https://doi.org/10.1109/HICSS.2007.209"
+url: "https://ieeexplore.ieee.org/document/4076874"
 journal:
   name: ""
 cited_by: 5
@@ -43,3 +44,6 @@ DO  - 10.1109/HICSS.2007.209
 UR  - https://ieeexplore.ieee.org/document/4076874
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1109/HICSS.2007.209>
+- URL: <https://ieeexplore.ieee.org/document/4076874>

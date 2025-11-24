@@ -8,6 +8,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2012"
 doi: "https://doi.org/10.4018/JOEUC.2012100104"
+url: ""
 journal:
   name: "Journal of Organizational and End User Computing"
 cited_by: 36
@@ -47,3 +48,5 @@ EP  - 80
 DO  - 10.4018/JOEUC.2012100104
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.4018/JOEUC.2012100104>

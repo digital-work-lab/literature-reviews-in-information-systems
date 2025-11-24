@@ -7,6 +7,7 @@ topic: ""
 categories: []
 date: "2024"
 doi: "https://doi.org/10.17705/1CAIS.05502"
+url: "https://aisel.aisnet.org/cais/vol55/iss1/6"
 journal:
   name: "Communications of the Association for Information Systems"
 cited_by: 1
@@ -45,3 +46,6 @@ DO  - 10.17705/1CAIS.05502
 UR  - https://aisel.aisnet.org/cais/vol55/iss1/6
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1CAIS.05502>
+- URL: <https://aisel.aisnet.org/cais/vol55/iss1/6>

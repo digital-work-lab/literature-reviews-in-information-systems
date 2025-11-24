@@ -8,6 +8,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2012"
 doi: "https://doi.org/10.17705/1JAIS.00290"
+url: ""
 journal:
   name: "Journal of the Association for Information Systems"
 cited_by: 49
@@ -46,3 +47,5 @@ EP  - 314
 DO  - 10.17705/1JAIS.00290
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1JAIS.00290>

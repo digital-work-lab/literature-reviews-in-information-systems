@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2021"
 doi: "https://doi.org/10.1016/J.JSIS.2021.101693"
+url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 57
@@ -43,3 +44,5 @@ IS  - 4
 DO  - 10.1016/J.JSIS.2021.101693
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2021.101693>

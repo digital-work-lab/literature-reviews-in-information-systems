@@ -9,6 +9,7 @@ topic: ""
 categories: ['highly-cited']
 date: "2017"
 doi: "https://doi.org/10.1016/J.JSIS.2017.07.003"
+url: "https://www.sciencedirect.com/science/article/pii/S0963868717302615"
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 640
@@ -50,3 +51,6 @@ DO  - 10.1016/J.JSIS.2017.07.003
 UR  - https://www.sciencedirect.com/science/article/pii/S0963868717302615
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2017.07.003>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0963868717302615>

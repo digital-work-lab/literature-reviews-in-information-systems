@@ -8,6 +8,7 @@ topic: ""
 categories: ['descriptive-review']
 date: "2009"
 doi: "https://doi.org/10.1007/S12599-009-0059-Y"
+url: ""
 journal:
   name: "Business & Information Systems Engineering"
 cited_by: 97
@@ -47,3 +48,5 @@ EP  - 325
 DO  - 10.1007/S12599-009-0059-Y
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1007/S12599-009-0059-Y>

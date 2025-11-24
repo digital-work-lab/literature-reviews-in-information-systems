@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2004"
 doi: "https://doi.org/10.1016/J.JSIS.2004.02.004"
+url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 25
@@ -46,3 +47,5 @@ EP  - 165
 DO  - 10.1016/J.JSIS.2004.02.004
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2004.02.004>

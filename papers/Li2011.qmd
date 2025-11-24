@@ -6,6 +6,7 @@ topic: ""
 categories: []
 date: "2011"
 doi: "https://doi.org/10.17705/1CAIS.02828"
+url: "https://aisel.aisnet.org/cais/vol28/iss1/28"
 journal:
   name: "Communications of the Association for Information Systems"
 cited_by: 79
@@ -39,3 +40,6 @@ DO  - 10.17705/1CAIS.02828
 UR  - https://aisel.aisnet.org/cais/vol28/iss1/28
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1CAIS.02828>
+- URL: <https://aisel.aisnet.org/cais/vol28/iss1/28>

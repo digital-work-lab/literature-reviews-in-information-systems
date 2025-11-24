@@ -7,6 +7,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2002"
 doi: "https://doi.org/10.2307/4132331"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 340
@@ -43,3 +44,5 @@ SP  - 213
 DO  - 10.2307/4132331
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2307/4132331>

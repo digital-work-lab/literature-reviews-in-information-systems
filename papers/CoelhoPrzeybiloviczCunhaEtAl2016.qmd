@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2016"
 doi: "https://doi.org/10.1109/HICSS.2016.336"
+url: "https://ieeexplore.ieee.org/document/7427519"
 journal:
   name: ""
 cited_by: 2
@@ -43,3 +44,6 @@ DO  - 10.1109/HICSS.2016.336
 UR  - https://ieeexplore.ieee.org/document/7427519
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1109/HICSS.2016.336>
+- URL: <https://ieeexplore.ieee.org/document/7427519>

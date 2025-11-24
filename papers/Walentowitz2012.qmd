@@ -6,6 +6,7 @@ topic: ""
 categories: []
 date: "2012"
 doi: "https://doi.org/10.1109/HICSS.2012.3"
+url: "https://ieeexplore.ieee.org/document/6149496"
 journal:
   name: ""
 cited_by: 0
@@ -37,3 +38,6 @@ DO  - 10.1109/HICSS.2012.3
 UR  - https://ieeexplore.ieee.org/document/6149496
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1109/HICSS.2012.3>
+- URL: <https://ieeexplore.ieee.org/document/6149496>

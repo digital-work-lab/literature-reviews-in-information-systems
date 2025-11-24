@@ -1,0 +1,52 @@
+---
+title: "The business model portfolio as a strategic tool for value creation and business performance"
+author:
+- Westerveld, Peter
+- Fielt, Erwin
+- Desouza, Kevin C
+- Gable, Guy G
+topic: ""
+categories: []
+date: "2023"
+doi: "https://doi.org/10.1016/J.JSIS.2023.101758"
+url: ""
+journal:
+  name: "The Journal of Strategic Information Systems"
+cited_by: 0
+outlet: "The Journal of Strategic Information Systems"
+---
+
+Citation (BibTeX):
+
+```bibtex
+@article{westerveld2023business,
+  title      = {The business model portfolio as a strategic tool for value creation and business performance},
+  author     = {Westerveld, Peter and Fielt, Erwin and Desouza, Kevin C and Gable, Guy G},
+  journal    = {The Journal of Strategic Information Systems},
+  volume     = {32},
+  number     = {1},
+  pages      = {101758},
+  year       = {2023},
+  doi        = {10.1016/J.JSIS.2023.101758}
+}
+```
+
+RIS:
+
+```bibtex
+TY  - JOUR
+AU  - Westerveld, Peter
+AU  - Fielt, Erwin
+AU  - Desouza, Kevin C
+AU  - Gable, Guy G
+TI  - The business model portfolio as a strategic tool for value creation and business performance
+T2  - The Journal of Strategic Information Systems
+PY  - 2023
+VL  - 32
+IS  - 1
+SP  - 101758
+DO  - 10.1016/J.JSIS.2023.101758
+ER  - 
+```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2023.101758>

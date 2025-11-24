@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2012"
 doi: ""
+url: "https://aisel.aisnet.org/amcis2012/proceedings/ISEducation/30"
 journal:
   name: ""
 cited_by: 0
@@ -39,3 +40,5 @@ PY  - 2012
 UR  - https://aisel.aisnet.org/amcis2012/proceedings/ISEducation/30
 ER  - 
 ```
+Links:
+- URL: <https://aisel.aisnet.org/amcis2012/proceedings/ISEducation/30>

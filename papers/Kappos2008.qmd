@@ -7,6 +7,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2008"
 doi: "https://doi.org/10.2307/25148858"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 109
@@ -43,3 +44,5 @@ SP  - 601
 DO  - 10.2307/25148858
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2307/25148858>

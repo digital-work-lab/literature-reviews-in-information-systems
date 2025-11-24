@@ -8,6 +8,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2020"
 doi: "https://doi.org/10.17705/1JAIS.00606"
+url: "https://aisel.aisnet.org/jais/vol21/iss2/4"
 journal:
   name: "Journal of the Association for Information Systems"
 cited_by: 14
@@ -50,3 +51,6 @@ DO  - 10.17705/1JAIS.00606
 UR  - https://aisel.aisnet.org/jais/vol21/iss2/4
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1JAIS.00606>
+- URL: <https://aisel.aisnet.org/jais/vol21/iss2/4>

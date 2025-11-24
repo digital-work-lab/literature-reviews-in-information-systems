@@ -8,6 +8,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2014"
 doi: "https://doi.org/10.1016/J.DSS.2014.05.010"
+url: ""
 journal:
   name: "Decision Support Systems"
 cited_by: 152
@@ -46,3 +47,5 @@ EP  - 49
 DO  - 10.1016/J.DSS.2014.05.010
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.DSS.2014.05.010>

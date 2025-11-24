@@ -7,6 +7,7 @@ topic: ""
 categories: []
 date: "2009"
 doi: ""
+url: "http://aisel.aisnet.org/ecis2009/451"
 journal:
   name: ""
 cited_by: 0
@@ -37,3 +38,5 @@ PY  - 2009
 UR  - http://aisel.aisnet.org/ecis2009/451
 ER  - 
 ```
+Links:
+- URL: <http://aisel.aisnet.org/ecis2009/451>

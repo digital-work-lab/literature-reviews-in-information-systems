@@ -7,6 +7,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2005"
 doi: "https://doi.org/10.1080/15228053.2005.10856070"
+url: ""
 journal:
   name: "Journal of Information Technology Case and Application Research"
 cited_by: 40
@@ -44,3 +45,5 @@ EP  - 60
 DO  - 10.1080/15228053.2005.10856070
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/15228053.2005.10856070>

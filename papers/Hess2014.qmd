@@ -8,6 +8,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2014"
 doi: "https://doi.org/10.25300/MISQ/2014/38.1.01"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 159
@@ -48,3 +49,5 @@ EP  - 28
 DO  - 10.25300/MISQ/2014/38.1.01
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.25300/MISQ/2014/38.1.01>

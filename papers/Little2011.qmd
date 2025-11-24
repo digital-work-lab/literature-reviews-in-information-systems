@@ -6,6 +6,7 @@ topic: ""
 categories: []
 date: "2011"
 doi: "https://doi.org/10.1109/HICSS.2011.278"
+url: "https://ieeexplore.ieee.org/document/5718987"
 journal:
   name: ""
 cited_by: 1
@@ -37,3 +38,6 @@ DO  - 10.1109/HICSS.2011.278
 UR  - https://ieeexplore.ieee.org/document/5718987
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1109/HICSS.2011.278>
+- URL: <https://ieeexplore.ieee.org/document/5718987>

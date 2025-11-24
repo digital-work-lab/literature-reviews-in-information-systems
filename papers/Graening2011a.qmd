@@ -8,6 +8,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2011"
 doi: "https://doi.org/10.1007/S12599-011-0169-1"
+url: ""
 journal:
   name: "Business & Information Systems Engineering"
 cited_by: 11
@@ -47,3 +48,5 @@ EP  - 239
 DO  - 10.1007/S12599-011-0169-1
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1007/S12599-011-0169-1>

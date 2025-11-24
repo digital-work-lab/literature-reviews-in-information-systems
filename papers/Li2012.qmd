@@ -6,6 +6,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2012"
 doi: "https://doi.org/10.1016/J.DSS.2012.06.010"
+url: ""
 journal:
   name: "Decision Support Systems"
 cited_by: 269
@@ -42,3 +43,5 @@ EP  - 481
 DO  - 10.1016/J.DSS.2012.06.010
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.DSS.2012.06.010>

@@ -7,6 +7,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2010"
 doi: ""
+url: ""
 journal:
   name: "Journal of Computer Information Systems"
 cited_by: 0

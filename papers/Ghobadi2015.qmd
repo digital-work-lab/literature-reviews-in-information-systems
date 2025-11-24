@@ -6,6 +6,7 @@ topic: ""
 categories: []
 date: "2015"
 doi: "https://doi.org/10.1016/J.IM.2014.10.008"
+url: "https://www.sciencedirect.com/science/article/pii/S0378720614001323"
 journal:
   name: "Information & Management"
 cited_by: 139
@@ -44,3 +45,6 @@ DO  - 10.1016/J.IM.2014.10.008
 UR  - https://www.sciencedirect.com/science/article/pii/S0378720614001323
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.IM.2014.10.008>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0378720614001323>

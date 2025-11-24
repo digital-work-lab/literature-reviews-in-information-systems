@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2025"
 doi: "https://doi.org/10.1177/02683962241254392"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 9
@@ -50,3 +51,5 @@ EP  - 76
 DO  - 10.1177/02683962241254392
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1177/02683962241254392>

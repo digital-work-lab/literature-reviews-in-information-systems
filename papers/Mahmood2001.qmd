@@ -8,6 +8,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2001"
 doi: "https://doi.org/10.1207/S15327744JOCE1102_02"
+url: ""
 journal:
   name: "Journal of Organizational Computing and Electronic Commerce"
 cited_by: 88
@@ -46,3 +47,5 @@ EP  - 130
 DO  - 10.1207/S15327744JOCE1102_02
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1207/S15327744JOCE1102_02>

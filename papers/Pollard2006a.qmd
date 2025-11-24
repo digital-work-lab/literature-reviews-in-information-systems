@@ -8,6 +8,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2006"
 doi: "https://doi.org/10.1080/15228053.2006.10856087"
+url: ""
 journal:
   name: "Journal of Information Technology Case and Application Research"
 cited_by: 6
@@ -46,3 +47,5 @@ EP  - 38
 DO  - 10.1080/15228053.2006.10856087
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/15228053.2006.10856087>

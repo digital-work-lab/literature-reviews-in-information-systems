@@ -6,6 +6,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2013"
 doi: "https://doi.org/10.25300/MISQ/2013/37.1.11"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 228
@@ -44,3 +45,5 @@ EP  - 274
 DO  - 10.25300/MISQ/2013/37.1.11
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.25300/MISQ/2013/37.1.11>

@@ -7,6 +7,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2003"
 doi: "https://doi.org/10.1080/07421222.2003.11045748"
+url: ""
 journal:
   name: "Journal of Management Information Systems"
 cited_by: 0
@@ -44,3 +45,5 @@ EP  - 30
 DO  - 10.1080/07421222.2003.11045748
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/07421222.2003.11045748>

@@ -9,6 +9,7 @@ topic: ""
 categories: ['critical-review']
 date: "2012"
 doi: "https://doi.org/10.2307/41703470"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 370
@@ -47,3 +48,5 @@ SP  - 625
 DO  - 10.2307/41703470
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2307/41703470>

@@ -7,6 +7,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2015"
 doi: "https://doi.org/10.1016/J.IM.2015.07.001"
+url: "https://www.sciencedirect.com/science/article/pii/S0378720615000695"
 journal:
   name: "Information & Management"
 cited_by: 87
@@ -48,3 +49,6 @@ DO  - 10.1016/J.IM.2015.07.001
 UR  - https://www.sciencedirect.com/science/article/pii/S0378720615000695
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.IM.2015.07.001>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0378720615000695>

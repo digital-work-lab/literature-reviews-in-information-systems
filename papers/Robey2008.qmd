@@ -8,6 +8,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2008"
 doi: "https://doi.org/10.17705/1JAIS.00171"
+url: ""
 journal:
   name: "Journal of the Association for Information Systems"
 cited_by: 120
@@ -46,3 +47,5 @@ EP  - 518
 DO  - 10.17705/1JAIS.00171
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1JAIS.00171>

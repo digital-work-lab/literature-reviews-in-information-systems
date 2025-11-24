@@ -7,6 +7,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2008"
 doi: "https://doi.org/10.17705/1JAIS.00147"
+url: ""
 journal:
   name: "Journal of the Association for Information Systems"
 cited_by: 482
@@ -44,3 +45,5 @@ EP  - 39
 DO  - 10.17705/1JAIS.00147
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1JAIS.00147>

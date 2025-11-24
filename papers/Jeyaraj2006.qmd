@@ -8,6 +8,7 @@ topic: ""
 categories: ['qualitative-systematic-review', 'highly-cited']
 date: "2006"
 doi: "https://doi.org/10.1057/PALGRAVE.JIT.2000056"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 698
@@ -47,3 +48,5 @@ EP  - 23
 DO  - 10.1057/PALGRAVE.JIT.2000056
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/PALGRAVE.JIT.2000056>

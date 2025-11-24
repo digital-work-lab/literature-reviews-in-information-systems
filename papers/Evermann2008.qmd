@@ -6,6 +6,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2008"
 doi: "https://doi.org/10.4018/JDM.2008070104"
+url: ""
 journal:
   name: "Journal of Database Management"
 cited_by: 12
@@ -43,3 +44,5 @@ EP  - 82
 DO  - 10.4018/JDM.2008070104
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.4018/JDM.2008070104>

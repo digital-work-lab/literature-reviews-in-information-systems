@@ -7,6 +7,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2008"
 doi: "https://doi.org/10.2753/MIS0742-1222250111"
+url: ""
 journal:
   name: "Journal of Management Information Systems"
 cited_by: 160
@@ -44,3 +45,5 @@ EP  - 331
 DO  - 10.2753/MIS0742-1222250111
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2753/MIS0742-1222250111>

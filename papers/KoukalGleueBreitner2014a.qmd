@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2014"
 doi: ""
+url: "http://aisel.aisnet.org/ecis2014/proceedings/track19/1"
 journal:
   name: ""
 cited_by: 0
@@ -39,3 +40,5 @@ PY  - 2014
 UR  - http://aisel.aisnet.org/ecis2014/proceedings/track19/1
 ER  - 
 ```
+Links:
+- URL: <http://aisel.aisnet.org/ecis2014/proceedings/track19/1>

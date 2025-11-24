@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2013"
 doi: ""
+url: "http://aisel.aisnet.org/ecis2013_cr/126"
 journal:
   name: ""
 cited_by: 0
@@ -39,3 +40,5 @@ PY  - 2013
 UR  - http://aisel.aisnet.org/ecis2013_cr/126
 ER  - 
 ```
+Links:
+- URL: <http://aisel.aisnet.org/ecis2013_cr/126>

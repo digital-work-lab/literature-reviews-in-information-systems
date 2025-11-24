@@ -7,6 +7,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2007"
 doi: "https://doi.org/10.1016/J.JSIS.2007.01.003"
+url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 112
@@ -44,3 +45,5 @@ EP  - 69
 DO  - 10.1016/J.JSIS.2007.01.003
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2007.01.003>

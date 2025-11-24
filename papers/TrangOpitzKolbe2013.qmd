@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2013"
 doi: ""
+url: "https://aisel.aisnet.org/amcis2013/GlobalIssues/GeneralPresentations/2"
 journal:
   name: ""
 cited_by: 0
@@ -39,3 +40,5 @@ PY  - 2013
 UR  - https://aisel.aisnet.org/amcis2013/GlobalIssues/GeneralPresentations/2
 ER  - 
 ```
+Links:
+- URL: <https://aisel.aisnet.org/amcis2013/GlobalIssues/GeneralPresentations/2>

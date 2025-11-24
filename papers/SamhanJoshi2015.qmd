@@ -7,6 +7,7 @@ topic: ""
 categories: []
 date: "2015"
 doi: "https://doi.org/10.1109/HICSS.2015.362"
+url: "https://ieeexplore.ieee.org/document/7070177"
 journal:
   name: ""
 cited_by: 12
@@ -39,3 +40,6 @@ DO  - 10.1109/HICSS.2015.362
 UR  - https://ieeexplore.ieee.org/document/7070177
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1109/HICSS.2015.362>
+- URL: <https://ieeexplore.ieee.org/document/7070177>

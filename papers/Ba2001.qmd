@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2001"
 doi: "https://doi.org/10.1287/ISRE.12.3.225.9712"
+url: ""
 journal:
   name: "Information Systems Research"
 cited_by: 190
@@ -47,3 +48,5 @@ EP  - 239
 DO  - 10.1287/ISRE.12.3.225.9712
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1287/ISRE.12.3.225.9712>

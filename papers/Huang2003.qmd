@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2003"
 doi: "https://doi.org/10.4018/JGIM.2003010104"
+url: ""
 journal:
   name: "Journal of Global Information Management"
 cited_by: 5
@@ -47,3 +48,5 @@ EP  - 89
 DO  - 10.4018/JGIM.2003010104
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.4018/JGIM.2003010104>

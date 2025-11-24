@@ -11,6 +11,7 @@ topic: ""
 categories: []
 date: "2019"
 doi: "https://doi.org/10.24251/HICSS.2019.933"
+url: "http://hdl.handle.net/10125/60213"
 journal:
   name: ""
 cited_by: 53
@@ -47,3 +48,6 @@ DO  - 10.24251/HICSS.2019.933
 UR  - http://hdl.handle.net/10125/60213
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.24251/HICSS.2019.933>
+- URL: <http://hdl.handle.net/10125/60213>

@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.062"
+url: "http://hdl.handle.net/10125/63801"
 journal:
   name: ""
 cited_by: 1
@@ -43,3 +44,6 @@ DO  - 10.24251/HICSS.2020.062
 UR  - http://hdl.handle.net/10125/63801
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.24251/HICSS.2020.062>
+- URL: <http://hdl.handle.net/10125/63801>

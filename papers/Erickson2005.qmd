@@ -8,6 +8,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2005"
 doi: "https://doi.org/10.4018/JDM.2005100105"
+url: ""
 journal:
   name: "Journal of Database Management"
 cited_by: 181
@@ -47,3 +48,5 @@ EP  - 100
 DO  - 10.4018/JDM.2005100105
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.4018/JDM.2005100105>

@@ -7,6 +7,7 @@ topic: ""
 categories: ['critical-review']
 date: "2008"
 doi: "https://doi.org/10.2307/25148831"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 389
@@ -43,3 +44,5 @@ SP  - 127
 DO  - 10.2307/25148831
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2307/25148831>

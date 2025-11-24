@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2024"
 doi: "https://doi.org/10.17705/1JAIS.00830"
+url: "https://aisel.aisnet.org/jais/vol25/iss2/3"
 journal:
   name: "Journal of the Association for Information Systems"
 cited_by: 3
@@ -52,3 +53,6 @@ DO  - 10.17705/1JAIS.00830
 UR  - https://aisel.aisnet.org/jais/vol25/iss2/3
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1JAIS.00830>
+- URL: <https://aisel.aisnet.org/jais/vol25/iss2/3>

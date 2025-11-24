@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review', 'highly-cited']
 date: "2013"
 doi: "https://doi.org/10.2753/MIS0742-1222290401"
+url: ""
 journal:
   name: "Journal of Management Information Systems"
 cited_by: 519
@@ -46,3 +47,5 @@ EP  - 62
 DO  - 10.2753/MIS0742-1222290401
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2753/MIS0742-1222290401>

@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2022"
 doi: "https://doi.org/10.1016/J.IM.2022.103638"
+url: ""
 journal:
   name: "Information & Management"
 cited_by: 88
@@ -43,3 +44,5 @@ IS  - 4
 DO  - 10.1016/J.IM.2022.103638
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.IM.2022.103638>

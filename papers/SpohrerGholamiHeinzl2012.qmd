@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2012"
 doi: ""
+url: "http://aisel.aisnet.org/ecis2012/223"
 journal:
   name: ""
 cited_by: 0
@@ -39,3 +40,5 @@ PY  - 2012
 UR  - http://aisel.aisnet.org/ecis2012/223
 ER  - 
 ```
+Links:
+- URL: <http://aisel.aisnet.org/ecis2012/223>

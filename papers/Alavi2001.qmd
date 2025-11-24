@@ -7,6 +7,7 @@ topic: ""
 categories: ['narrative-review', 'highly-cited']
 date: "2001"
 doi: "https://doi.org/10.2307/3250961"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 5695
@@ -43,3 +44,5 @@ SP  - 107
 DO  - 10.2307/3250961
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2307/3250961>

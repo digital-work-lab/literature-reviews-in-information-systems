@@ -7,6 +7,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2003"
 doi: "https://doi.org/10.17705/1CAIS.01205"
+url: ""
 journal:
   name: "Communications of the Association for Information Systems"
 cited_by: 31
@@ -44,3 +45,5 @@ EP  - 103
 DO  - 10.17705/1CAIS.01205
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1CAIS.01205>

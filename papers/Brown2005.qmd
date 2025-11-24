@@ -7,6 +7,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2005"
 doi: "https://doi.org/10.17705/1CAIS.01538"
+url: ""
 journal:
   name: "Communications of the Association for Information Systems"
 cited_by: 145
@@ -44,3 +45,5 @@ EP  - 712
 DO  - 10.17705/1CAIS.01538
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1CAIS.01538>

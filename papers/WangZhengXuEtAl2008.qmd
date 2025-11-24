@@ -10,6 +10,7 @@ topic: ""
 categories: []
 date: "2008"
 doi: "https://doi.org/10.1007/S10796-008-9115-2"
+url: "https://link.springer.com/article/10.1007/s10796-008-9115-2"
 journal:
   name: "Information Systems Frontiers"
 cited_by: 47
@@ -52,3 +53,6 @@ DO  - 10.1007/S10796-008-9115-2
 UR  - https://link.springer.com/article/10.1007/s10796-008-9115-2
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1007/S10796-008-9115-2>
+- URL: <https://link.springer.com/article/10.1007/s10796-008-9115-2>

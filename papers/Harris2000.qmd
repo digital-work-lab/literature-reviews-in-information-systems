@@ -6,6 +6,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2000"
 doi: "https://doi.org/10.4018/JOEUC.2000010103"
+url: ""
 journal:
   name: "Journal of Organizational and End User Computing"
 cited_by: 4
@@ -43,3 +44,5 @@ EP  - 34
 DO  - 10.4018/JOEUC.2000010103
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.4018/JOEUC.2000010103>

@@ -7,6 +7,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2014"
 doi: "https://doi.org/10.1007/S10796-012-9350-4"
+url: ""
 journal:
   name: "Information Systems Frontiers"
 cited_by: 368
@@ -45,3 +46,5 @@ EP  - 434
 DO  - 10.1007/S10796-012-9350-4
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1007/S10796-012-9350-4>

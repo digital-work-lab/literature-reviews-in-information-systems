@@ -10,6 +10,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2024"
 doi: "https://doi.org/10.1177/02683962231207108"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 10
@@ -52,3 +53,5 @@ EP  - 615
 DO  - 10.1177/02683962231207108
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1177/02683962231207108>

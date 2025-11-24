@@ -8,6 +8,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2014"
 doi: "https://doi.org/10.1016/J.JSIS.2014.10.001"
+url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 79
@@ -46,3 +47,5 @@ EP  - 304
 DO  - 10.1016/J.JSIS.2014.10.001
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2014.10.001>

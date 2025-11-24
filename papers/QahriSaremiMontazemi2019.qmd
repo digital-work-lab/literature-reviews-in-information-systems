@@ -7,6 +7,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2019"
 doi: "https://doi.org/10.1080/07421222.2019.1628936"
+url: "https://www.tandfonline.com/doi/full/10.1080/07421222.2019.1628936"
 journal:
   name: "Journal of Management Information Systems"
 cited_by: 97
@@ -48,3 +49,6 @@ DO  - 10.1080/07421222.2019.1628936
 UR  - https://www.tandfonline.com/doi/full/10.1080/07421222.2019.1628936
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/07421222.2019.1628936>
+- URL: <https://www.tandfonline.com/doi/full/10.1080/07421222.2019.1628936>

@@ -6,6 +6,7 @@ topic: ""
 categories: []
 date: "2004"
 doi: ""
+url: "https://aisel.aisnet.org/amcis2004/324"
 journal:
   name: ""
 cited_by: 0
@@ -35,3 +36,5 @@ PY  - 2004
 UR  - https://aisel.aisnet.org/amcis2004/324
 ER  - 
 ```
+Links:
+- URL: <https://aisel.aisnet.org/amcis2004/324>

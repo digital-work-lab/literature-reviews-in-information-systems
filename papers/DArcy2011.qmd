@@ -7,6 +7,7 @@ topic: ""
 categories: ['critical-review']
 date: "2011"
 doi: "https://doi.org/10.1057/EJIS.2011.23"
+url: ""
 journal:
   name: "European Journal of Information Systems"
 cited_by: 262
@@ -44,3 +45,5 @@ EP  - 658
 DO  - 10.1057/EJIS.2011.23
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/EJIS.2011.23>

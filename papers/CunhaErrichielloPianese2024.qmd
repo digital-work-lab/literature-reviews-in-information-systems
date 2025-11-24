@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2024"
 doi: "https://doi.org/10.1177/02683962231208218"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 8
@@ -47,3 +48,5 @@ EP  - 260
 DO  - 10.1177/02683962231208218
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1177/02683962231208218>

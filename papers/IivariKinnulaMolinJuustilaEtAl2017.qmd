@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2017"
 doi: ""
+url: "https://aisel.aisnet.org/ecis2017_rp/123"
 journal:
   name: ""
 cited_by: 0
@@ -41,3 +42,5 @@ PY  - 2017
 UR  - https://aisel.aisnet.org/ecis2017_rp/123
 ER  - 
 ```
+Links:
+- URL: <https://aisel.aisnet.org/ecis2017_rp/123>

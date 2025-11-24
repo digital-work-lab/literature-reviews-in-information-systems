@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2010"
 doi: "https://doi.org/10.4018/JDM.2010112304"
+url: ""
 journal:
   name: "Journal of Database Management"
 cited_by: 38
@@ -47,3 +48,5 @@ EP  - 101
 DO  - 10.4018/JDM.2010112304
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.4018/JDM.2010112304>

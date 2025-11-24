@@ -7,6 +7,7 @@ topic: ""
 categories: ['critical-review', 'highly-cited']
 date: "2011"
 doi: "https://doi.org/10.2307/41409971"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 842
@@ -46,3 +47,5 @@ EP  - A36
 DO  - 10.2307/41409971
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2307/41409971>

@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2001"
 doi: "https://doi.org/10.1080/02683960121858"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 10
@@ -46,3 +47,5 @@ EP  - 158
 DO  - 10.1080/02683960121858
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/02683960121858>

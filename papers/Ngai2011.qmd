@@ -10,6 +10,7 @@ topic: ""
 categories: ['descriptive-review', 'highly-cited']
 date: "2011"
 doi: "https://doi.org/10.1016/J.DSS.2010.08.006"
+url: ""
 journal:
   name: "Decision Support Systems"
 cited_by: 856
@@ -50,3 +51,5 @@ EP  - 569
 DO  - 10.1016/J.DSS.2010.08.006
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.DSS.2010.08.006>

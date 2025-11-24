@@ -6,6 +6,7 @@ topic: ""
 categories: []
 date: "2011"
 doi: ""
+url: "http://aisel.aisnet.org/ecis2011/41"
 journal:
   name: ""
 cited_by: 0
@@ -35,3 +36,5 @@ PY  - 2011
 UR  - http://aisel.aisnet.org/ecis2011/41
 ER  - 
 ```
+Links:
+- URL: <http://aisel.aisnet.org/ecis2011/41>

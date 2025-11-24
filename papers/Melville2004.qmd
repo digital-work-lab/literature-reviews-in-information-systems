@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review', 'highly-cited']
 date: "2004"
 doi: "https://doi.org/10.2307/25148636"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 1938
@@ -45,3 +46,5 @@ SP  - 283
 DO  - 10.2307/25148636
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2307/25148636>

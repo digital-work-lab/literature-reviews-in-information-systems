@@ -10,6 +10,7 @@ topic: ""
 categories: ['descriptive-review']
 date: "2008"
 doi: "https://doi.org/10.1057/EJIS.2008.34"
+url: ""
 journal:
   name: "European Journal of Information Systems"
 cited_by: 33
@@ -50,3 +51,5 @@ EP  - 416
 DO  - 10.1057/EJIS.2008.34
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/EJIS.2008.34>

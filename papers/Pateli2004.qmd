@@ -7,6 +7,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2004"
 doi: "https://doi.org/10.1057/PALGRAVE.EJIS.3000513"
+url: ""
 journal:
   name: "European Journal of Information Systems"
 cited_by: 201
@@ -44,3 +45,5 @@ EP  - 314
 DO  - 10.1057/PALGRAVE.EJIS.3000513
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/PALGRAVE.EJIS.3000513>

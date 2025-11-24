@@ -7,6 +7,7 @@ topic: ""
 categories: ['critical-review']
 date: "2014"
 doi: "https://doi.org/10.1016/J.IM.2014.01.002"
+url: ""
 journal:
   name: "Information & Management"
 cited_by: 69
@@ -44,3 +45,5 @@ EP  - 809
 DO  - 10.1016/J.IM.2014.01.002
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.IM.2014.01.002>

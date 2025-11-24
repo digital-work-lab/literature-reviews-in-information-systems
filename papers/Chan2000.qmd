@@ -6,6 +6,7 @@ topic: ""
 categories: ['descriptive-review']
 date: "2000"
 doi: "https://doi.org/10.1080/07421222.2000.11518272"
+url: ""
 journal:
   name: "Journal of Management Information Systems"
 cited_by: 163
@@ -42,3 +43,5 @@ EP  - 261
 DO  - 10.1080/07421222.2000.11518272
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/07421222.2000.11518272>

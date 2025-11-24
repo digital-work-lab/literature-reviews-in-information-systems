@@ -7,6 +7,7 @@ topic: ""
 categories: []
 date: "2020"
 doi: "https://doi.org/10.1016/J.JSIS.2020.101642"
+url: "https://www.sciencedirect.com/science/article/pii/S0963868720300500"
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 78
@@ -45,3 +46,6 @@ DO  - 10.1016/J.JSIS.2020.101642
 UR  - https://www.sciencedirect.com/science/article/pii/S0963868720300500
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2020.101642>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0963868720300500>

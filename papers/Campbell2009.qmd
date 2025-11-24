@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2009"
 doi: "https://doi.org/10.17705/1THCI.00008"
+url: ""
 journal:
   name: "AIS Transactions on Human-Computer Interaction"
 cited_by: 9
@@ -46,3 +47,5 @@ EP  - 132
 DO  - 10.17705/1THCI.00008
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1THCI.00008>

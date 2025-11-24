@@ -7,6 +7,7 @@ topic: ""
 categories: ['narrative-review', 'highly-cited']
 date: "2007"
 doi: "https://doi.org/10.1057/PALGRAVE.JIT.2000109"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 595
@@ -45,3 +46,5 @@ EP  - 315
 DO  - 10.1057/PALGRAVE.JIT.2000109
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/PALGRAVE.JIT.2000109>

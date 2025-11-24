@@ -6,6 +6,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2013"
 doi: "https://doi.org/10.1080/1097198X.2013.10845641"
+url: ""
 journal:
   name: "Journal of Global Information Technology Management"
 cited_by: 5
@@ -42,3 +43,5 @@ EP  - 52
 DO  - 10.1080/1097198X.2013.10845641
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/1097198X.2013.10845641>

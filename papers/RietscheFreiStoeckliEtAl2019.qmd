@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2019"
 doi: ""
+url: "https://aisel.aisnet.org/ecis2019_rp/58"
 journal:
   name: ""
 cited_by: 0
@@ -41,3 +42,5 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/ecis2019_rp/58
 ER  - 
 ```
+Links:
+- URL: <https://aisel.aisnet.org/ecis2019_rp/58>

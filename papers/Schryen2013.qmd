@@ -6,6 +6,7 @@ topic: ""
 categories: ['critical-review']
 date: "2013"
 doi: "https://doi.org/10.1057/EJIS.2012.45"
+url: ""
 journal:
   name: "European Journal of Information Systems"
 cited_by: 275
@@ -42,3 +43,5 @@ EP  - 169
 DO  - 10.1057/EJIS.2012.45
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/EJIS.2012.45>

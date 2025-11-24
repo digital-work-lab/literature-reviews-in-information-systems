@@ -9,6 +9,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2014"
 doi: "https://doi.org/10.1080/08874417.2014.11645708"
+url: ""
 journal:
   name: "Journal of Computer Information Systems"
 cited_by: 26
@@ -48,3 +49,5 @@ EP  - 105
 DO  - 10.1080/08874417.2014.11645708
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/08874417.2014.11645708>

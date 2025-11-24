@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2019"
 doi: "https://doi.org/10.1007/S10796-019-09911-3"
+url: "https://link.springer.com/article/10.1007/s10796-019-09911-3"
 journal:
   name: "Information Systems Frontiers"
 cited_by: 81
@@ -48,3 +49,6 @@ DO  - 10.1007/S10796-019-09911-3
 UR  - https://link.springer.com/article/10.1007/s10796-019-09911-3
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1007/S10796-019-09911-3>
+- URL: <https://link.springer.com/article/10.1007/s10796-019-09911-3>

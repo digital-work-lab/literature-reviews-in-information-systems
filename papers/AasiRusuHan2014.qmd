@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.546"
+url: "https://ieeexplore.ieee.org/document/6759148"
 journal:
   name: ""
 cited_by: 12
@@ -41,3 +42,6 @@ DO  - 10.1109/HICSS.2014.546
 UR  - https://ieeexplore.ieee.org/document/6759148
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1109/HICSS.2014.546>
+- URL: <https://ieeexplore.ieee.org/document/6759148>

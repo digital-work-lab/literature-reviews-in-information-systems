@@ -8,6 +8,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2012"
 doi: "https://doi.org/10.1080/1097198X.2012.10845622"
+url: ""
 journal:
   name: "Journal of Global Information Technology Management"
 cited_by: 26
@@ -46,3 +47,5 @@ EP  - 42
 DO  - 10.1080/1097198X.2012.10845622
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/1097198X.2012.10845622>

@@ -8,6 +8,7 @@ topic: ""
 categories: ['critical-review']
 date: "2003"
 doi: "https://doi.org/10.1080/1097198X.2003.10856360"
+url: ""
 journal:
   name: "Journal of Global Information Technology Management"
 cited_by: 11
@@ -46,3 +47,5 @@ EP  - 64
 DO  - 10.1080/1097198X.2003.10856360
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/1097198X.2003.10856360>

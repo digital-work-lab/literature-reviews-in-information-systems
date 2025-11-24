@@ -7,6 +7,7 @@ topic: ""
 categories: []
 date: "2011"
 doi: ""
+url: "https://aisel.aisnet.org/pacis2011/203"
 journal:
   name: ""
 cited_by: 0
@@ -37,3 +38,5 @@ PY  - 2011
 UR  - https://aisel.aisnet.org/pacis2011/203
 ER  - 
 ```
+Links:
+- URL: <https://aisel.aisnet.org/pacis2011/203>

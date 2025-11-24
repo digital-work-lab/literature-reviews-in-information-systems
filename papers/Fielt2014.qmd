@@ -9,6 +9,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2014"
 doi: "https://doi.org/10.17705/1CAIS.03454"
+url: ""
 journal:
   name: "Communications of the Association for Information Systems"
 cited_by: 9
@@ -48,3 +49,5 @@ EP  - 1040
 DO  - 10.17705/1CAIS.03454
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1CAIS.03454>

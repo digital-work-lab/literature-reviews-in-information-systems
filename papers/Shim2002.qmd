@@ -11,6 +11,7 @@ topic: ""
 categories: ['narrative-review', 'highly-cited']
 date: "2002"
 doi: "https://doi.org/10.1016/S0167-9236(01)00139-7"
+url: ""
 journal:
   name: "Decision Support Systems"
 cited_by: 839
@@ -52,3 +53,5 @@ EP  - 126
 DO  - 10.1016/S0167-9236(01)00139-7
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/S0167-9236(01)00139-7>

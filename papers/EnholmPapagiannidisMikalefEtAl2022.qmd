@@ -9,6 +9,7 @@ topic: ""
 categories: ['highly-cited']
 date: "2022"
 doi: "https://doi.org/10.1007/S10796-021-10186-W"
+url: "https://link.springer.com/article/10.1007/s10796-021-10186-w"
 journal:
   name: "Information Systems Frontiers"
 cited_by: 552
@@ -51,3 +52,6 @@ DO  - 10.1007/S10796-021-10186-W
 UR  - https://link.springer.com/article/10.1007/s10796-021-10186-w
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1007/S10796-021-10186-W>
+- URL: <https://link.springer.com/article/10.1007/s10796-021-10186-w>

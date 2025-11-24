@@ -6,6 +6,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2000"
 doi: "https://doi.org/10.1057/PALGRAVE/EJIS/3000369"
+url: ""
 journal:
   name: "European Journal of Information Systems"
 cited_by: 3
@@ -42,3 +43,5 @@ EP  - 147
 DO  - 10.1057/PALGRAVE/EJIS/3000369
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/PALGRAVE/EJIS/3000369>

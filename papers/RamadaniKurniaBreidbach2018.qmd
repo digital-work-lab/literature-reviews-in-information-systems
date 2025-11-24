@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2018"
 doi: "https://doi.org/10.24251/HICSS.2018.304"
+url: "http://hdl.handle.net/10125/50192"
 journal:
   name: ""
 cited_by: 10
@@ -41,3 +42,6 @@ DO  - 10.24251/HICSS.2018.304
 UR  - http://hdl.handle.net/10125/50192
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.24251/HICSS.2018.304>
+- URL: <http://hdl.handle.net/10125/50192>

@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2019"
 doi: ""
+url: "https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/31"
 journal:
   name: ""
 cited_by: 0
@@ -39,3 +40,5 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/31
 ER  - 
 ```
+Links:
+- URL: <https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/31>

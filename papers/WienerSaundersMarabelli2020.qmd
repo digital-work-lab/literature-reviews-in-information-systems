@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2020"
 doi: "https://doi.org/10.1177/0268396219896811"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 120
@@ -45,3 +46,5 @@ IS  - 1
 DO  - 10.1177/0268396219896811
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1177/0268396219896811>

@@ -10,6 +10,7 @@ topic: ""
 categories: []
 date: "2018"
 doi: "https://doi.org/10.24251/HICSS.2018.139"
+url: "http://aisel.aisnet.org/hicss-51/da/gamification/2"
 journal:
   name: ""
 cited_by: 28
@@ -45,3 +46,6 @@ DO  - 10.24251/HICSS.2018.139
 UR  - http://aisel.aisnet.org/hicss-51/da/gamification/2
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.24251/HICSS.2018.139>
+- URL: <http://aisel.aisnet.org/hicss-51/da/gamification/2>

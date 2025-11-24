@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2023"
 doi: "https://doi.org/10.1080/0960085X.2021.1963193"
+url: ""
 journal:
   name: "European Journal of Information Systems"
 cited_by: 21
@@ -44,3 +45,5 @@ IS  - 2
 DO  - 10.1080/0960085X.2021.1963193
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/0960085X.2021.1963193>

@@ -6,6 +6,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2003"
 doi: ""
+url: ""
 journal:
   name: "International Journal of Electronic Commerce"
 cited_by: 0

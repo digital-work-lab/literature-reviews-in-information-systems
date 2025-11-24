@@ -9,6 +9,7 @@ topic: ""
 categories: ['theoretical-review', 'highly-cited']
 date: "2004"
 doi: "https://doi.org/10.1145/1035233.1035236"
+url: ""
 journal:
   name: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 cited_by: 699
@@ -49,3 +50,5 @@ EP  - 102
 DO  - 10.1145/1035233.1035236
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1145/1035233.1035236>

@@ -7,6 +7,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2002"
 doi: "https://doi.org/10.4018/JDM.2002040101"
+url: ""
 journal:
   name: "Journal of Database Management"
 cited_by: 53
@@ -45,3 +46,5 @@ EP  - 19
 DO  - 10.4018/JDM.2002040101
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.4018/JDM.2002040101>

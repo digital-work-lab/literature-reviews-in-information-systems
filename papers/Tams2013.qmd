@@ -6,6 +6,7 @@ topic: ""
 categories: ['critical-review']
 date: "2013"
 doi: "https://doi.org/10.1108/ITP-11-2012-0138"
+url: ""
 journal:
   name: "Information Technology & People"
 cited_by: 11
@@ -43,3 +44,5 @@ EP  - 400
 DO  - 10.1108/ITP-11-2012-0138
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1108/ITP-11-2012-0138>

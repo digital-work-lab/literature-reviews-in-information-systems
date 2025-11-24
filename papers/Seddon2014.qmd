@@ -6,6 +6,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2014"
 doi: "https://doi.org/10.1016/J.JSIS.2014.11.001"
+url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 58
@@ -42,3 +43,5 @@ EP  - 269
 DO  - 10.1016/J.JSIS.2014.11.001
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2014.11.001>

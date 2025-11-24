@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2023"
 doi: "https://doi.org/10.1016/J.IM.2023.103816"
+url: ""
 journal:
   name: "Information & Management"
 cited_by: 95
@@ -47,3 +48,5 @@ SP  - 103816
 DO  - 10.1016/J.IM.2023.103816
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.IM.2023.103816>

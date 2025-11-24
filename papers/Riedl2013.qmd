@@ -6,6 +6,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2012"
 doi: "https://doi.org/10.1145/2436239.2436242"
+url: ""
 journal:
   name: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 cited_by: 203
@@ -43,3 +44,5 @@ EP  - 55
 DO  - 10.1145/2436239.2436242
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1145/2436239.2436242>

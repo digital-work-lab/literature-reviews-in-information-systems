@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2019"
 doi: "https://doi.org/10.1016/J.JSIS.2019.01.001"
+url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 83
@@ -43,3 +44,5 @@ IS  - 2
 DO  - 10.1016/J.JSIS.2019.01.001
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2019.01.001>

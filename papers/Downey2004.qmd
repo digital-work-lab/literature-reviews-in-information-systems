@@ -6,6 +6,7 @@ topic: ""
 categories: ['descriptive-review']
 date: "2004"
 doi: "https://doi.org/10.4018/JOEUC.2004100101"
+url: ""
 journal:
   name: "Journal of Organizational and End User Computing"
 cited_by: 8
@@ -43,3 +44,5 @@ EP  - 16
 DO  - 10.4018/JOEUC.2004100101
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.4018/JOEUC.2004100101>

@@ -6,6 +6,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2011"
 doi: "https://doi.org/10.2307/23043495"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 304
@@ -41,3 +42,5 @@ SP  - 197
 DO  - 10.2307/23043495
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2307/23043495>

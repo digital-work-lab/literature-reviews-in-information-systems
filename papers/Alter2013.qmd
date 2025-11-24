@@ -6,6 +6,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2013"
 doi: "https://doi.org/10.17705/1JAIS.00323"
+url: ""
 journal:
   name: "Journal of the Association for Information Systems"
 cited_by: 177
@@ -42,3 +43,5 @@ EP  - 121
 DO  - 10.17705/1JAIS.00323
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1JAIS.00323>

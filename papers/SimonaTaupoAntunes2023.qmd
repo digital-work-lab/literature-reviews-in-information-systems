@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2023"
 doi: "https://doi.org/10.1007/S10796-020-10099-0"
+url: "https://link.springer.com/article/10.1007/s10796-020-10099-0"
 journal:
   name: "Information Systems Frontiers"
 cited_by: 9
@@ -48,3 +49,6 @@ DO  - 10.1007/S10796-020-10099-0
 UR  - https://link.springer.com/article/10.1007/s10796-020-10099-0
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1007/S10796-020-10099-0>
+- URL: <https://link.springer.com/article/10.1007/s10796-020-10099-0>

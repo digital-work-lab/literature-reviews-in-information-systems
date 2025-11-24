@@ -8,6 +8,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2002"
 doi: "https://doi.org/10.1207/S15327744JOCE1204_1"
+url: ""
 journal:
   name: "Journal of Organizational Computing and Electronic Commerce"
 cited_by: 13
@@ -46,3 +47,5 @@ EP  - 305
 DO  - 10.1207/S15327744JOCE1204_1
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1207/S15327744JOCE1204_1>

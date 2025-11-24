@@ -9,6 +9,7 @@ topic: ""
 categories: ['descriptive-review']
 date: "2013"
 doi: "https://doi.org/10.1007/S12599-013-0274-4"
+url: ""
 journal:
   name: "Business & Information Systems Engineering"
 cited_by: 16
@@ -49,3 +50,5 @@ EP  - 274
 DO  - 10.1007/S12599-013-0274-4
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1007/S12599-013-0274-4>

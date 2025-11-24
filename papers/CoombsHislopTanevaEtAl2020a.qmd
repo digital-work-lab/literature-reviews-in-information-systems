@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2020"
 doi: "https://doi.org/10.1016/J.JSIS.2020.101600"
+url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 190
@@ -45,3 +46,5 @@ IS  - 4
 DO  - 10.1016/J.JSIS.2020.101600
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2020.101600>

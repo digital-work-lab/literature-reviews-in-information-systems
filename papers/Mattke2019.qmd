@@ -6,6 +6,7 @@ topic: ""
 categories: []
 date: "2019"
 doi: ""
+url: "https://aisel.aisnet.org/amcis2019/adoption_diffusion_IT/adoption_diffusion_IT/9"
 journal:
   name: ""
 cited_by: 0
@@ -35,3 +36,5 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/amcis2019/adoption_diffusion_IT/adoption_diffusion_IT/9
 ER  - 
 ```
+Links:
+- URL: <https://aisel.aisnet.org/amcis2019/adoption_diffusion_IT/adoption_diffusion_IT/9>

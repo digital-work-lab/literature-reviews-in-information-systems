@@ -7,6 +7,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2006"
 doi: "https://doi.org/10.17705/1JAIS.00101"
+url: ""
 journal:
   name: "Journal of the Association for Information Systems"
 cited_by: 17
@@ -44,3 +45,5 @@ EP  - 617
 DO  - 10.17705/1JAIS.00101
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1JAIS.00101>

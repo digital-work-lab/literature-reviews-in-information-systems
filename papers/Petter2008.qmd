@@ -8,6 +8,7 @@ topic: ""
 categories: ['qualitative-systematic-review', 'highly-cited']
 date: "2008"
 doi: "https://doi.org/10.1057/EJIS.2008.15"
+url: ""
 journal:
   name: "European Journal of Information Systems"
 cited_by: 1036
@@ -46,3 +47,5 @@ EP  - 263
 DO  - 10.1057/EJIS.2008.15
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/EJIS.2008.15>

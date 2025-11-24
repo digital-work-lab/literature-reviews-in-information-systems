@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2019"
 doi: "https://doi.org/10.1016/J.DSS.2019.113113"
+url: "https://www.sciencedirect.com/science/article/pii/S0167923619301423"
 journal:
   name: "Decision Support Systems"
 cited_by: 198
@@ -47,3 +48,6 @@ DO  - 10.1016/J.DSS.2019.113113
 UR  - https://www.sciencedirect.com/science/article/pii/S0167923619301423
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.DSS.2019.113113>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0167923619301423>

@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2011"
 doi: "https://doi.org/10.1080/10919392.2011.590109"
+url: ""
 journal:
   name: "Journal of Organizational Computing and Electronic Commerce"
 cited_by: 150
@@ -46,3 +47,5 @@ EP  - 220
 DO  - 10.1080/10919392.2011.590109
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/10919392.2011.590109>

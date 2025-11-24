@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2022"
 doi: "https://doi.org/10.1016/J.JSIS.2022.101720"
+url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 28
@@ -43,3 +44,5 @@ IS  - 2
 DO  - 10.1016/J.JSIS.2022.101720
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2022.101720>

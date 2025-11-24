@@ -8,6 +8,7 @@ topic: ""
 categories: ['descriptive-review']
 date: "2014"
 doi: "https://doi.org/10.1057/JIT.2014.15"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 24
@@ -47,3 +48,5 @@ EP  - 222
 DO  - 10.1057/JIT.2014.15
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/JIT.2014.15>

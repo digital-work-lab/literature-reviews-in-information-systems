@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2010"
 doi: ""
+url: "https://aisel.aisnet.org/amcis2010/297"
 journal:
   name: ""
 cited_by: 0
@@ -39,3 +40,5 @@ PY  - 2010
 UR  - https://aisel.aisnet.org/amcis2010/297
 ER  - 
 ```
+Links:
+- URL: <https://aisel.aisnet.org/amcis2010/297>

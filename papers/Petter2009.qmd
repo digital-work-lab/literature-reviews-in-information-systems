@@ -7,6 +7,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2009"
 doi: "https://doi.org/10.1016/J.IM.2008.12.006"
+url: ""
 journal:
   name: "Information & Management"
 cited_by: 419
@@ -44,3 +45,5 @@ EP  - 166
 DO  - 10.1016/J.IM.2008.12.006
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.IM.2008.12.006>

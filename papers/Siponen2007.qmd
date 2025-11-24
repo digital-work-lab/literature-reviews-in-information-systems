@@ -7,6 +7,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2007"
 doi: "https://doi.org/10.1145/1216218.1216224"
+url: ""
 journal:
   name: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 cited_by: 129
@@ -45,3 +46,5 @@ EP  - 80
 DO  - 10.1145/1216218.1216224
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1145/1216218.1216224>

@@ -8,6 +8,7 @@ topic: ""
 categories: ['scoping-review', 'highly-cited']
 date: "2011"
 doi: "https://doi.org/10.2307/41409970"
+url: ""
 journal:
   name: "MIS Quarterly"
 cited_by: 1328
@@ -45,3 +46,5 @@ SP  - 989
 DO  - 10.2307/41409970
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.2307/41409970>

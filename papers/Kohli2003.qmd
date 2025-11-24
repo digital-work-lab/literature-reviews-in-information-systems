@@ -7,6 +7,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2003"
 doi: "https://doi.org/10.1287/ISRE.14.2.127.16019"
+url: ""
 journal:
   name: "Information Systems Research"
 cited_by: 347
@@ -45,3 +46,5 @@ EP  - 145
 DO  - 10.1287/ISRE.14.2.127.16019
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1287/ISRE.14.2.127.16019>

@@ -108,7 +108,7 @@ df_authors <- df %>%
   tidyr::separate_rows(author, sep = " and ") %>%  # split "A and B" into separate rows
   dplyr::mutate(author = stringr::str_trim(author)) %>%
   dplyr::count(author, sort = TRUE) %>%
-  dplyr::slice_head(n = 20) %>%
+  dplyr::slice_head(n = 50) %>%
   dplyr::mutate(author = stats::reorder(author, n))
 
 plot_ly(

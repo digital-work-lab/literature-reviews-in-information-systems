@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2016"
 doi: "https://doi.org/10.1007/S10796-015-9578-X"
+url: "https://link.springer.com/article/10.1007/s10796-015-9578-x"
 journal:
   name: "Information Systems Frontiers"
 cited_by: 80
@@ -49,3 +50,6 @@ DO  - 10.1007/S10796-015-9578-X
 UR  - https://link.springer.com/article/10.1007/s10796-015-9578-x
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1007/S10796-015-9578-X>
+- URL: <https://link.springer.com/article/10.1007/s10796-015-9578-x>

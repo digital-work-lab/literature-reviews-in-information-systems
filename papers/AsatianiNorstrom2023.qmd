@@ -7,6 +7,7 @@ topic: ""
 categories: []
 date: "2023"
 doi: "https://doi.org/10.1016/J.JSIS.2023.101789"
+url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 19
@@ -43,3 +44,5 @@ SP  - 101789
 DO  - 10.1016/J.JSIS.2023.101789
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.JSIS.2023.101789>

@@ -8,6 +8,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2010"
 doi: "https://doi.org/10.1287/ISRE.1090.0249"
+url: ""
 journal:
   name: "Information Systems Research"
 cited_by: 144
@@ -47,3 +48,5 @@ EP  - 226
 DO  - 10.1287/ISRE.1090.0249
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1287/ISRE.1090.0249>

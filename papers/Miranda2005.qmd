@@ -7,6 +7,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2005"
 doi: "https://doi.org/10.1057/PALGRAVE.JIT.2000045"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 80
@@ -45,3 +46,5 @@ EP  - 169
 DO  - 10.1057/PALGRAVE.JIT.2000045
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/PALGRAVE.JIT.2000045>

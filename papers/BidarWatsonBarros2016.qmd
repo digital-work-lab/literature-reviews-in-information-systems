@@ -8,6 +8,7 @@ topic: ""
 categories: []
 date: "2016"
 doi: ""
+url: "https://aisel.aisnet.org/pacis2016/327"
 journal:
   name: ""
 cited_by: 0
@@ -39,3 +40,5 @@ PY  - 2016
 UR  - https://aisel.aisnet.org/pacis2016/327
 ER  - 
 ```
+Links:
+- URL: <https://aisel.aisnet.org/pacis2016/327>

@@ -8,6 +8,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2000"
 doi: "https://doi.org/10.4018/IRMJ.2000040103"
+url: ""
 journal:
   name: "Information Resources Management Journal"
 cited_by: 23
@@ -47,3 +48,5 @@ EP  - 32
 DO  - 10.4018/IRMJ.2000040103
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.4018/IRMJ.2000040103>

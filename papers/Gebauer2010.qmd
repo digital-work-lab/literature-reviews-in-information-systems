@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2010"
 doi: "https://doi.org/10.1057/JIT.2010.10"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 118
@@ -47,3 +48,5 @@ EP  - 272
 DO  - 10.1057/JIT.2010.10
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/JIT.2010.10>

@@ -8,6 +8,7 @@ topic: ""
 categories: ['highly-cited']
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.377"
+url: "https://ieeexplore.ieee.org/document/6758978"
 journal:
   name: ""
 cited_by: 2761
@@ -41,3 +42,6 @@ DO  - 10.1109/HICSS.2014.377
 UR  - https://ieeexplore.ieee.org/document/6758978
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1109/HICSS.2014.377>
+- URL: <https://ieeexplore.ieee.org/document/6758978>

@@ -9,6 +9,7 @@ topic: ""
 categories: []
 date: "2016"
 doi: "https://doi.org/10.17705/1CAIS.03802"
+url: "https://aisel.aisnet.org/cais/vol38/iss1/2"
 journal:
   name: "Communications of the Association for Information Systems"
 cited_by: 24
@@ -48,3 +49,6 @@ DO  - 10.17705/1CAIS.03802
 UR  - https://aisel.aisnet.org/cais/vol38/iss1/2
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.17705/1CAIS.03802>
+- URL: <https://aisel.aisnet.org/cais/vol38/iss1/2>

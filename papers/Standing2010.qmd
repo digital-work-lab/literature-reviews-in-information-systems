@@ -8,6 +8,7 @@ topic: ""
 categories: ['descriptive-review']
 date: "2010"
 doi: "https://doi.org/10.1016/J.DSS.2009.12.008"
+url: ""
 journal:
   name: "Decision Support Systems"
 cited_by: 76
@@ -46,3 +47,5 @@ EP  - 51
 DO  - 10.1016/J.DSS.2009.12.008
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.DSS.2009.12.008>

@@ -9,6 +9,7 @@ topic: ""
 categories: ['scoping-review']
 date: "2008"
 doi: "https://doi.org/10.1016/J.DSS.2007.09.007"
+url: ""
 journal:
   name: "Decision Support Systems"
 cited_by: 37
@@ -48,3 +49,5 @@ EP  - 764
 DO  - 10.1016/J.DSS.2007.09.007
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.DSS.2007.09.007>

@@ -9,6 +9,7 @@ topic: ""
 categories: ['descriptive-review', 'highly-cited']
 date: "2008"
 doi: "https://doi.org/10.1016/J.ELERAP.2007.02.001"
+url: ""
 journal:
   name: "Electronic Commerce Research and Applications"
 cited_by: 523
@@ -48,3 +49,5 @@ EP  - 181
 DO  - 10.1016/J.ELERAP.2007.02.001
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.ELERAP.2007.02.001>

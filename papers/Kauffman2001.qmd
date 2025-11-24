@@ -7,6 +7,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2001"
 doi: "https://doi.org/10.1080/10864415.2001.11044222"
+url: ""
 journal:
   name: "International Journal of Electronic Commerce"
 cited_by: 210
@@ -44,3 +45,5 @@ EP  - 116
 DO  - 10.1080/10864415.2001.11044222
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/10864415.2001.11044222>

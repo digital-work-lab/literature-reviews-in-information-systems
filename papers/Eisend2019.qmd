@@ -6,6 +6,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2019"
 doi: "https://doi.org/10.1287/ISRE.2018.0821"
+url: "https://www.doi.org/10.1287/ISRE.2018.0821"
 journal:
   name: "Information Systems Research"
 cited_by: 48
@@ -47,3 +48,6 @@ DO  - 10.1287/ISRE.2018.0821
 UR  - https://www.doi.org/10.1287/ISRE.2018.0821
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1287/ISRE.2018.0821>
+- URL: <https://www.doi.org/10.1287/ISRE.2018.0821>

@@ -8,6 +8,7 @@ topic: ""
 categories: ['qualitative-systematic-review']
 date: "2005"
 doi: "https://doi.org/10.1016/S0378-7206(04)00051-5"
+url: ""
 journal:
   name: "Information & Management"
 cited_by: 262
@@ -46,3 +47,5 @@ EP  - 559
 DO  - 10.1016/S0378-7206(04)00051-5
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/S0378-7206(04)00051-5>

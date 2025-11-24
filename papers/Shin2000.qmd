@@ -9,6 +9,7 @@ topic: ""
 categories: ['narrative-review']
 date: "2000"
 doi: "https://doi.org/10.1207/S15327744JOCE1002_2"
+url: ""
 journal:
   name: "Journal of Organizational Computing and Electronic Commerce"
 cited_by: 69
@@ -48,3 +49,5 @@ EP  - 101
 DO  - 10.1207/S15327744JOCE1002_2
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1207/S15327744JOCE1002_2>

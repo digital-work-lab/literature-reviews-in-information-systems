@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2002"
 doi: "https://doi.org/10.1016/S0963-8687(02)00022-7"
+url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
 cited_by: 407
@@ -46,3 +47,5 @@ EP  - 344
 DO  - 10.1016/S0963-8687(02)00022-7
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/S0963-8687(02)00022-7>

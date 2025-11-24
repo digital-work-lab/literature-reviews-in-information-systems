@@ -6,6 +6,7 @@ topic: ""
 categories: ['critical-review']
 date: "2008"
 doi: "https://doi.org/10.1057/PALGRAVE.JIT.2000136"
+url: ""
 journal:
   name: "Journal of Information Technology"
 cited_by: 387
@@ -43,3 +44,5 @@ EP  - 146
 DO  - 10.1057/PALGRAVE.JIT.2000136
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1057/PALGRAVE.JIT.2000136>

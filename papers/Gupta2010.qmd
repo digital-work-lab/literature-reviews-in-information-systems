@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2010"
 doi: "https://doi.org/10.1145/1899639.1899641"
+url: ""
 journal:
   name: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 cited_by: 48
@@ -47,3 +48,5 @@ EP  - 39
 DO  - 10.1145/1899639.1899641
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1145/1899639.1899641>

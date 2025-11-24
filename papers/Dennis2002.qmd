@@ -7,6 +7,7 @@ topic: ""
 categories: ['meta-analysis']
 date: "2002"
 doi: "https://doi.org/10.1080/07421222.2002.11045696"
+url: ""
 journal:
   name: "Journal of Management Information Systems"
 cited_by: 122
@@ -44,3 +45,5 @@ EP  - 257
 DO  - 10.1080/07421222.2002.11045696
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1080/07421222.2002.11045696>

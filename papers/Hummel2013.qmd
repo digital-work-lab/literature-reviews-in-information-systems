@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2013"
 doi: "https://doi.org/10.1007/S12599-013-0282-4"
+url: ""
 journal:
   name: "Business & Information Systems Engineering"
 cited_by: 75
@@ -47,3 +48,5 @@ EP  - 355
 DO  - 10.1007/S12599-013-0282-4
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1007/S12599-013-0282-4>

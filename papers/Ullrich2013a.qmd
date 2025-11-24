@@ -6,6 +6,7 @@ topic: ""
 categories: ['critical-review']
 date: "2013"
 doi: "https://doi.org/10.1007/S12599-013-0286-0"
+url: ""
 journal:
   name: "Business & Information Systems Engineering"
 cited_by: 30
@@ -43,3 +44,5 @@ EP  - 341
 DO  - 10.1007/S12599-013-0286-0
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1007/S12599-013-0286-0>

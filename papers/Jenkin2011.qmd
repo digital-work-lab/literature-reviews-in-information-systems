@@ -8,6 +8,7 @@ topic: ""
 categories: ['theoretical-review']
 date: "2011"
 doi: "https://doi.org/10.1016/J.INFOANDORG.2010.09.003"
+url: ""
 journal:
   name: "Information and Organization"
 cited_by: 263
@@ -46,3 +47,5 @@ EP  - 40
 DO  - 10.1016/J.INFOANDORG.2010.09.003
 ER  - 
 ```
+Links:
+- DOI: <https://doi.org/10.1016/J.INFOANDORG.2010.09.003>
