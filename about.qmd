@@ -3,3 +3,5 @@ title: "About"
 ---
 
 People and license.
+
+TODO: add a how-to-cite! + license
