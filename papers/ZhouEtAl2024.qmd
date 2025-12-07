@@ -1,0 +1,52 @@
+---
+title: "Smart cities for people with disabilities: A systematic literature review and future research directions"
+author:
+- Zhou, Shujun
+- Loiacono, Eleanor T.
+- Kordzadeh, Nima
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.1080/0960085X.2023.2297974"
+url: ""
+journal:
+  name: "European Journal of Information Systems"
+cited_by: 0
+outlet: "European Journal of Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{ZhouEtAl2024,
+  title      = {Smart cities for people with disabilities: A systematic literature review and future research directions},
+  author     = {Zhou, Shujun and Loiacono, Eleanor T. and Kordzadeh, Nima},
+  journal    = {European Journal of Information Systems},
+  volume     = {33},
+  number     = {6},
+  pages      = {845--862},
+  year       = {2024},
+  doi        = {10.1080/0960085X.2023.2297974}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Zhou, Shujun
+AU  - Loiacono, Eleanor T.
+AU  - Kordzadeh, Nima
+TI  - Smart cities for people with disabilities: A systematic literature review and future research directions
+T2  - European Journal of Information Systems
+PY  - 2024
+VL  - 33
+IS  - 6
+SP  - 845
+EP  - 862
+DO  - 10.1080/0960085X.2023.2297974
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1080/0960085X.2023.2297974>

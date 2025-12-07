@@ -1,0 +1,54 @@
+---
+title: "On the design of and interaction with conversational agents: An organizing and assessing review of human-computer interaction research"
+author:
+- Diederich, Sebastian
+- Brendel, Anna-Bianca
+- Morana, Stefan
+- Kolbe, Lutz
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.17705/1JAIS.00724"
+url: ""
+journal:
+  name: "Journal of the Association for Information Systems"
+cited_by: 0
+outlet: "Journal of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{DiederichEtAl2022,
+  title      = {On the design of and interaction with conversational agents: An organizing and assessing review of human-computer interaction research},
+  author     = {Diederich, Sebastian and Brendel, Anna-Bianca and Morana, Stefan and Kolbe, Lutz},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {23},
+  number     = {1},
+  pages      = {96--138},
+  year       = {2022},
+  doi        = {10.17705/1JAIS.00724}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Diederich, Sebastian
+AU  - Brendel, Anna-Bianca
+AU  - Morana, Stefan
+AU  - Kolbe, Lutz
+TI  - On the design of and interaction with conversational agents: An organizing and assessing review of human-computer interaction research
+T2  - Journal of the Association for Information Systems
+PY  - 2022
+VL  - 23
+IS  - 1
+SP  - 96
+EP  - 138
+DO  - 10.17705/1JAIS.00724
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1JAIS.00724>
