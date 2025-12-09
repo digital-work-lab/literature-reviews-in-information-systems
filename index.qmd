@@ -4,8 +4,8 @@ format: html
 ---
 
 ---
-title: "Database"
 listing:
+  title: Database
   contents: papers
   type: table
   fields: ["author", "title", "outlet", "date"]

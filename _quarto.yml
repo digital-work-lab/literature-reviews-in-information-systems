@@ -1,8 +1,6 @@
 project:
   type: website
 
-
-
 website:
   # announcement: 
   #   icon: info-circle
@@ -14,7 +12,7 @@ website:
   site-url: http://0.0.0.0:4200/
   title: "Literature Reviews in Information Systems"
   navbar:
-    left:
+    right:
       - text: "Database"
         href: index.qmd
       - text: "Statistics"
@@ -24,6 +22,10 @@ website:
 
       - icon: github
         href: https://github.com/digital-work-lab/literature-reviews-in-information-systems
+
+  sidebar:
+    logo: assets/logo.png
+
 
 format:
   html:
