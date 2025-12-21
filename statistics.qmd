@@ -21,7 +21,7 @@ library(DT)
 
 # Load your dataset
 # Replace with your actual file
-df <- readr::read_csv("records.csv", show_col_types = FALSE)
+df <- readr::read_csv("data/records.csv", show_col_types = FALSE)
 ```
 
 ## Timeline
