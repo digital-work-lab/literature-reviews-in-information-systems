@@ -185,6 +185,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#community-contribution" id="toc-community-contribution" class="nav-link" data-scroll-target="#community-contribution">Community contribution</a></li>
   <li><a href="#harvest" id="toc-harvest" class="nav-link" data-scroll-target="#harvest">Harvest</a></li>
   <li><a href="#screen" id="toc-screen" class="nav-link" data-scroll-target="#screen">Screen</a></li>
+  <li><a href="#polish" id="toc-polish" class="nav-link" data-scroll-target="#polish">Polish</a></li>
   <li><a href="#update-database" id="toc-update-database" class="nav-link" data-scroll-target="#update-database">Update database</a></li>
   </ul></li>
   <li><a href="#people" id="toc-people" class="nav-link" data-scroll-target="#people">People</a></li>
@@ -269,6 +270,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="harvest" class="level3">
 <h3 class="anchored" data-anchor-id="harvest">Harvest</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> src/harvest.py</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="screen" class="level3">
 <h3 class="anchored" data-anchor-id="screen">Screen</h3>
@@ -277,13 +279,18 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>colrev_status = rev_excluded is used for non-literature-reviews (adding a note)</li>
 </ul>
 <p>with script; guidelines for documenting decisions</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># screen with</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="ex">colrev-cli-prescreen</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># screen with</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="ex">colrev-cli-prescreen</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="polish" class="level3">
+<h3 class="anchored" data-anchor-id="polish">Polish</h3>
+<p>Manually or via convenience script:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> src/multi-edit.py</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="update-database" class="level3">
 <h3 class="anchored" data-anchor-id="update-database">Update database</h3>
 <p>To update the pages and statistics, run</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">make</span> update</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">make</span> update</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 </section>
 <section id="people" class="level2">

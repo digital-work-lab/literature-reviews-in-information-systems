@@ -11246,7 +11246,7 @@
     "href": "about.html#procedure",
     "title": "About",
     "section": "Procedure",
-    "text": "Procedure\nThe data/records.bib serves as the main database.\n\nCommunity contribution\nDescribe Github process\n\n\nHarvest\n\n\nScreen\n\ncolrev_status = rev_synthesized is used for literature-reviews\ncolrev_status = rev_excluded is used for non-literature-reviews (adding a note)\n\nwith script; guidelines for documenting decisions\n# screen with\ncolrev-cli-prescreen\n\n\nUpdate database\nTo update the pages and statistics, run\nmake update"
+    "text": "Procedure\nThe data/records.bib serves as the main database.\n\nCommunity contribution\nDescribe Github process\n\n\nHarvest\npython src/harvest.py\n\n\nScreen\n\ncolrev_status = rev_synthesized is used for literature-reviews\ncolrev_status = rev_excluded is used for non-literature-reviews (adding a note)\n\nwith script; guidelines for documenting decisions\n# screen with\ncolrev-cli-prescreen\n\n\nPolish\nManually or via convenience script:\npython src/multi-edit.py\n\n\nUpdate database\nTo update the pages and statistics, run\nmake update"
   },
   {
     "objectID": "about.html#people",
