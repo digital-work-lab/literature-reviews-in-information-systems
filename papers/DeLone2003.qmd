@@ -18,14 +18,14 @@ outlet: "Journal of Management Information Systems"
 
 ```bibtex
 @article{DeLone2003,
+  doi        = {10.1080/07421222.2003.11045748},
   author     = {DeLone, William H. and McLean, Ephraim R.},
   journal    = {Journal of Management Information Systems},
   title      = {The DeLone and McLean Model of Information Systems Success: A Ten-Year Update},
   year       = {2003},
   volume     = {19},
   number     = {4},
-  pages      = {9--30},
-  doi        = {10.1080/07421222.2003.11045748}
+  pages      = {9--30}
 }
 ```
 

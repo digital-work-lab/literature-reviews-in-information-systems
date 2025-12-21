@@ -3,6 +3,7 @@ from pathlib import Path
 import sys
 
 import colrev.loader.load_utils as load_utils
+from colrev.constants import RecordState
 
 
 def yaml_escape(value: str) -> str:
@@ -245,6 +246,9 @@ def main(bib_filename: str, output_dir: str = "papers") -> None:
 
     for key, rec in iter_records(records):
         rec = dict(rec)
+        if rec["colrev_status"] != RecordState.rev_synthesized:
+            continue
+
         rec.setdefault("ID", key)
 
         # Per-record BibTeX and RIS (only embedded into QMD, no separate files)

@@ -19,9 +19,9 @@ outlet: "International Conference on Information Systems"
 
 ```bibtex
 @inproceedings{BraunEtAl2023,
-  title      = {The new dream team? A review of human-AI Collaboration research from a human teamwork perspective},
   author     = {Braun, Michael and Greve, Michael and Gnewuch, Ulrich},
   booktitle  = {International Conference on Information Systems},
+  title      = {The new dream team? A review of human-AI Collaboration research from a human teamwork perspective},
   year       = {2023},
   pages      = {7},
   url        = {https://aisel.aisnet.org/icis2023}

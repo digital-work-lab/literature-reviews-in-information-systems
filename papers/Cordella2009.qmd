@@ -16,7 +16,7 @@ outlet: "Journal of Information Technology"
 ## Citation: BibTeX
 
 ```bibtex
-@misc{Cordella2009,
+@article{Cordella2009,
   doi        = {10.1057/9780230250611_19},
   author     = {Cordella, Antonio},
   journal    = {Journal of Information Technology},
@@ -31,7 +31,7 @@ outlet: "Journal of Information Technology"
 ## Citation: RIS
 
 ```bibtex
-TY  - GEN
+TY  - JOUR
 AU  - Cordella, Antonio
 TI  - Transaction Costs and Information Systems: Does IT Add Up?
 T2  - Journal of Information Technology

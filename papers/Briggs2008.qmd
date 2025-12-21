@@ -19,14 +19,14 @@ outlet: "Journal of the Association for Information Systems"
 
 ```bibtex
 @article{Briggs2008,
+  doi        = {10.17705/1JAIS.00160},
   author     = {Briggs, Robert O. and Reinig, Bruce A. and de Vreede, Gert-Jan},
   journal    = {Journal of the Association for Information Systems},
   title      = {The Yield Shift Theory of Satisfaction and Its Application to the IS/IT Domain},
   year       = {2008},
   volume     = {9},
   number     = {5},
-  pages      = {267--293},
-  doi        = {10.17705/1JAIS.00160}
+  pages      = {267--293}
 }
 ```
 

@@ -20,14 +20,14 @@ outlet: "Journal of the Association for Information Systems"
 
 ```bibtex
 @article{DiederichEtAl2022,
-  title      = {On the design of and interaction with conversational agents: An organizing and assessing review of human-computer interaction research},
+  doi        = {10.17705/1JAIS.00724},
   author     = {Diederich, Sebastian and Brendel, Anna-Bianca and Morana, Stefan and Kolbe, Lutz},
   journal    = {Journal of the Association for Information Systems},
+  title      = {On the design of and interaction with conversational agents: An organizing and assessing review of human-computer interaction research},
+  year       = {2022},
   volume     = {23},
   number     = {1},
-  pages      = {96--138},
-  year       = {2022},
-  doi        = {10.17705/1JAIS.00724}
+  pages      = {96--138}
 }
 ```
 

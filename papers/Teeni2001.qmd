@@ -17,14 +17,14 @@ outlet: "MIS Quarterly"
 
 ```bibtex
 @article{Teeni2001,
+  doi        = {10.2307/3250931},
   author     = {Te'eni, Dov},
   journal    = {MIS Quarterly},
   title      = {Review: A Cognitive-Affective Model of Organizational Communication for Designing IT},
   year       = {2001},
   volume     = {25},
   number     = {2},
-  pages      = {251--312},
-  doi        = {10.2307/3250931}
+  pages      = {251--312}
 }
 ```
 

@@ -20,14 +20,14 @@ outlet: "The Journal of Strategic Information Systems"
 
 ```bibtex
 @article{westerveld2023business,
-  title      = {The business model portfolio as a strategic tool for value creation and business performance},
+  doi        = {10.1016/J.JSIS.2023.101758},
   author     = {Westerveld, Peter and Fielt, Erwin and Desouza, Kevin C and Gable, Guy G},
   journal    = {The Journal of Strategic Information Systems},
+  title      = {The business model portfolio as a strategic tool for value creation and business performance},
+  year       = {2023},
   volume     = {32},
   number     = {1},
-  pages      = {101758},
-  year       = {2023},
-  doi        = {10.1016/J.JSIS.2023.101758}
+  pages      = {101758}
 }
 ```
 

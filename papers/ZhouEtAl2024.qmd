@@ -19,14 +19,14 @@ outlet: "European Journal of Information Systems"
 
 ```bibtex
 @article{ZhouEtAl2024,
-  title      = {Smart cities for people with disabilities: A systematic literature review and future research directions},
+  doi        = {10.1080/0960085X.2023.2297974},
   author     = {Zhou, Shujun and Loiacono, Eleanor T. and Kordzadeh, Nima},
   journal    = {European Journal of Information Systems},
+  title      = {Smart cities for people with disabilities: A systematic literature review and future research directions},
+  year       = {2024},
   volume     = {33},
   number     = {6},
-  pages      = {845--862},
-  year       = {2024},
-  doi        = {10.1080/0960085X.2023.2297974}
+  pages      = {845--862}
 }
 ```
 
