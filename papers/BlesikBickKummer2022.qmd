@@ -1,0 +1,56 @@
+---
+title: "A Conceptualisation of Crowd Knowledge"
+author:
+- Blesik, Till
+- Bick, Markus
+- Kummer, Tyge-F.
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1007/S10796-021-10176-Y"
+url: "https://link.springer.com/article/10.1007/s10796-021-10176-y"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 0
+outlet: "Information Systems Frontiers"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{BlesikBickKummer2022,
+  doi        = {10.1007/S10796-021-10176-Y},
+  author     = {Blesik, Till and Bick, Markus and Kummer, Tyge-F.},
+  journal    = {Information Systems Frontiers},
+  title      = {A Conceptualisation of Crowd Knowledge},
+  year       = {2022},
+  volume     = {24},
+  number     = {5},
+  pages      = {1647--1665},
+  url        = {https://link.springer.com/article/10.1007/s10796-021-10176-y},
+  abstract   = {Abstract Propelled by digitalisation, crowd knowledge (CK) has gained popularity alongside a plurality of related crowd-based concepts (crowdsourcing, wisdom of crowds and collective intelligence), resulting in an inconsistent understanding of the terms and their application. Based on a structured literature review, we conceptualise CK and develop a formal definition, which is then evaluated using knowledge artefacts on different crowd-related platforms and differentiation criteria in relation to participants, context, purpose and process. The paper posits that CK is conceptually different from related concepts, due to its dynamic nature and its instantiation in the form of a CK knowledge artefact which requires a specific context and a unique knowledge-creation process. Furthermore, we discuss how the concept of CK and its associated artefact relates to established knowledge management concepts such as knowledge assets and the flow of CK in the epistemological differentiation of knowledge into tacit and explicit elements. The article contributes to the formal conceptualisation of crowd-based concepts and therefore improves understanding of existing implementations and supports the prudent design of future systems.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Blesik, Till
+AU  - Bick, Markus
+AU  - Kummer, Tyge-F.
+TI  - A Conceptualisation of Crowd Knowledge
+T2  - Information Systems Frontiers
+PY  - 2022
+VL  - 24
+IS  - 5
+SP  - 1647
+EP  - 1665
+DO  - 10.1007/S10796-021-10176-Y
+UR  - https://link.springer.com/article/10.1007/s10796-021-10176-y
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1007/S10796-021-10176-Y>
+- URL: <https://link.springer.com/article/10.1007/s10796-021-10176-y>

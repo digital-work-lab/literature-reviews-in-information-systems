@@ -1,0 +1,54 @@
+---
+title: "Digital Transformation of Non-profit Organizations: A Research Agenda"
+author:
+- Cipriano, Michele
+- Za, Stefano
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.17705/1CAIS.05643"
+url: "https://aisel.aisnet.org/cais/vol56/iss1/44"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{CiprianoZa2025,
+  doi        = {10.17705/1CAIS.05643},
+  author     = {Cipriano, Michele and Za, Stefano},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Digital Transformation of Non-profit Organizations: A Research Agenda},
+  year       = {2025},
+  volume     = {56},
+  number     = {UNKNOWN},
+  pages      = {1118--1190},
+  url        = {https://aisel.aisnet.org/cais/vol56/iss1/44},
+  abstract   = {In a post-pandemic society, increasing attention is given to non-profit-driven digital transformation (DT) processes. Socio-economic and geo-political implications, in addition to contemporary settings of information technology use, challenge the achievement of non-profit aims. Among others, interest in further investigation concerns DT-enabled change management and implementation regarding non-profit organizations (NPOs). Previous research started exploring the impact of DT processes on NPOs’ work. However, the characteristics of their DT processes remain unclear because of the diversity of social mission scopes. This paper contributes by examining the state of the art of the DT debate focused on NPOs. We propose a mixed-methods meta-synthesis for classifying and clustering the pertinent literature. We adopt a qualitative approach to identify a set of mutually exclusive dimensions summarizing the discourse and providing a taxonomy of the analyzed articles. Then, based on a quantitative approach, we investigate the relationships emerging from such classification and recognize clusters of articles sharing common characteristics. Beyond the results of the literature analysis, the main contribution of this work is a research agenda identifying issues and future directions. This study outlines three overarching directions in which NPOs foster specific DT initiatives: how, who, and what (to change) operating within a digitalized society.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Cipriano, Michele
+AU  - Za, Stefano
+TI  - Digital Transformation of Non-profit Organizations: A Research Agenda
+T2  - Communications of the Association for Information Systems
+PY  - 2025
+VL  - 56
+IS  - UNKNOWN
+SP  - 1118
+EP  - 1190
+DO  - 10.17705/1CAIS.05643
+UR  - https://aisel.aisnet.org/cais/vol56/iss1/44
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.05643>
+- URL: <https://aisel.aisnet.org/cais/vol56/iss1/44>

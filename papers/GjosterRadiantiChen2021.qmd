@@ -1,0 +1,56 @@
+---
+title: "Universal Design of ICT for Emergency Management from Stakeholders’ Perspective"
+author:
+- Gjøsæter, Terje
+- Radianti, Jaziar
+- Chen, Weiqin
+topic: ""
+categories: []
+date: "2021"
+doi: "https://doi.org/10.1007/S10796-020-10084-7"
+url: "https://link.springer.com/article/10.1007/s10796-020-10084-7"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 0
+outlet: "Information Systems Frontiers"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{GjosterRadiantiChen2021,
+  doi        = {10.1007/S10796-020-10084-7},
+  author     = {Gjøsæter, Terje and Radianti, Jaziar and Chen, Weiqin},
+  journal    = {Information Systems Frontiers},
+  title      = {Universal Design of ICT for Emergency Management from Stakeholders’ Perspective},
+  year       = {2021},
+  volume     = {23},
+  number     = {5},
+  pages      = {1213--1225},
+  url        = {https://link.springer.com/article/10.1007/s10796-020-10084-7},
+  abstract   = {Abstract While Universal Design principles have been adopted in many areas to ensure that products and services are usable for the broadest possible diversity of users, there is still an open area when it comes to the emergency management domain. This article aims at providing a systematic overview of the current state of the emerging research field of Universal Design of Information and Communication Technology (ICT) for Emergency Management, and to highlight high-impact research opportunities to ensure that the increasing introduction of ICT in Emergency Management can contribute to removing barriers instead of adding more barriers, in particular for the elderly and people with disabilities. A systematic review on relevant literature on Universal Design, ICT and Emergency Management between 2008 and 2020 was employed using predefined frameworks, to answer the following questions: (1) Who are the target audiences (stakeholders) in research on Universal Design of ICT in Emergency Management in the different categories of Emergency Management ICT tools, and to what degree is Human-Centred Design and Universal Design taken into account? (2) What are the most important challenges and gaps in research on Universal Design of ICT in Emergency Management? We identify a set of gaps in the literature, indicating that there are some challenges where Universal Design is still limitedly addressed in technology development. We also derive promising future research topics based on areas that are missing in the literature.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Gjøsæter, Terje
+AU  - Radianti, Jaziar
+AU  - Chen, Weiqin
+TI  - Universal Design of ICT for Emergency Management from Stakeholders’ Perspective
+T2  - Information Systems Frontiers
+PY  - 2021
+VL  - 23
+IS  - 5
+SP  - 1213
+EP  - 1225
+DO  - 10.1007/S10796-020-10084-7
+UR  - https://link.springer.com/article/10.1007/s10796-020-10084-7
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1007/S10796-020-10084-7>
+- URL: <https://link.springer.com/article/10.1007/s10796-020-10084-7>

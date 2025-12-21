@@ -1,0 +1,55 @@
+---
+title: "User Engagement and Beyond: A Conceptual Framework for Engagement in Information Systems Research"
+author:
+- Benz, Carina
+- Riefle, Lara
+- Satzger, Gerhard
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.17705/1CAIS.05412"
+url: "https://aisel.aisnet.org/cais/vol54/iss1/15"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{BenzRiefleSatzger2024,
+  doi        = {10.17705/1CAIS.05412},
+  author     = {Benz, Carina and Riefle, Lara and Satzger, Gerhard},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {User Engagement and Beyond: A Conceptual Framework for Engagement in Information Systems Research},
+  year       = {2024},
+  volume     = {54},
+  pages      = {331--359},
+  url        = {https://aisel.aisnet.org/cais/vol54/iss1/15},
+  abstract   = {Humans are considered “engaged” once they invest personal resources such as energy, time, or attention beyond a required level. This engagement state occurs when feeling connected to another actor or an object. In information systems (IS) research, engagement is recognized in the concept of ‘user engagement’, which has for many years successfully been employed to understand interaction patterns and user reactions. However, as IS artifacts evolve, we observe contemporary phenomena that are no longer covered by the existing concept: For one, IS have developed from passive resources (such as websites) to human-like actors (such as conversational, nowadays often large language model (LLM)-based, agents) so that a pure ‘user engagement’ perspective does not capture new affordances for engagement with active counterparts. Secondly, IS increasingly act as intermediaries into other engagement objects (e.g., organizations) that are the ultimate target of engagement. Thus, IS research may benefit from a broader perspective on engagement. Our work systematically draws on a structured literature review across adjacent academic disciplines and an in-depth qualitative analysis to develop a more comprehensive conceptual framework for engagement. With this framework, we contribute a refined and broadened conceptual base for engagement and discuss how it can inform future IS research.},
+  dblp_key   = {https://dblp.org/rec/journals/cais/BenzRS24}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Benz, Carina
+AU  - Riefle, Lara
+AU  - Satzger, Gerhard
+TI  - User Engagement and Beyond: A Conceptual Framework for Engagement in Information Systems Research
+T2  - Communications of the Association for Information Systems
+PY  - 2024
+VL  - 54
+SP  - 331
+EP  - 359
+DO  - 10.17705/1CAIS.05412
+UR  - https://aisel.aisnet.org/cais/vol54/iss1/15
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.05412>
+- URL: <https://aisel.aisnet.org/cais/vol54/iss1/15>

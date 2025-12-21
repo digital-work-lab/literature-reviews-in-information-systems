@@ -1,0 +1,54 @@
+---
+title: "Revisiting the Information Hierarchy in the AI Era: Implications of Misinformation, Ignorance, and Imprudence"
+author:
+- Baker, Ali
+- Chakraborty, Debarun
+- McAdams, Arthur C.
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.17705/1CAIS.05705"
+url: "https://aisel.aisnet.org/cais/vol57/iss1/5"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{BakerChakrabortyMcAdams2025,
+  doi        = {10.17705/1CAIS.05705},
+  author     = {Baker, Ali and Chakraborty, Debarun and McAdams, Arthur C.},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Revisiting the Information Hierarchy in the AI Era: Implications of Misinformation, Ignorance, and Imprudence},
+  year       = {2025},
+  volume     = {57},
+  pages      = {102--132},
+  url        = {https://aisel.aisnet.org/cais/vol57/iss1/5},
+  abstract   = {This paper reexamines the information hierarchy, which has garnered significant recognition in the information systems field. Ackoff (1989) expressed concerns related to irrelevant information in his seminal work, but those concerns are not presented in the data, information, knowledge, and wisdom (DIKW) pyramid depicted by Debons et al. (1989), which is frequently cited in papers and textbooks. Moreover, although the DIKW pyramid outlines the path from data to wisdom, the emergence of technologies like big data and artificial intelligence (AI) has intensified research on misinformation, disinformation, and ignorance, which are overlooked in the DIKW pyramid. Furthermore, studies on sub-components of the hierarchy are in siloed pieces of literature. In this study, we conduct a multidisciplinary theoretical review, present a theory elaboration, and introduce a conditional probability framework for the information hierarchy. We employ a construct specification approach and a meta-synthesis to present a refined framework that more precisely represents the information hierarchy than the traditional DIKW pyramid and incorporates the implications of big data and AI. This novel theory elaboration study improves construct validity, scope, and understanding of the information hierarchy and its relevance in contemporary contexts.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Baker, Ali
+AU  - Chakraborty, Debarun
+AU  - McAdams, Arthur C.
+TI  - Revisiting the Information Hierarchy in the AI Era: Implications of Misinformation, Ignorance, and Imprudence
+T2  - Communications of the Association for Information Systems
+PY  - 2025
+VL  - 57
+SP  - 102
+EP  - 132
+DO  - 10.17705/1CAIS.05705
+UR  - https://aisel.aisnet.org/cais/vol57/iss1/5
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.05705>
+- URL: <https://aisel.aisnet.org/cais/vol57/iss1/5>
