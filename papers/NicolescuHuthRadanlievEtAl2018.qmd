@@ -1,0 +1,60 @@
+---
+title: "Mapping the values of IoT"
+author:
+- Nicolescu, Razvan
+- Huth, Michael
+- Radanliev, Petar
+- De Roure, David
+topic: ""
+categories: []
+date: "2018"
+doi: "https://doi.org/10.1057/S41265-018-0054-1"
+url: "https://www.doi.org/10.1057/S41265-"
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+outlet: "Journal of Information Technology"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{NicolescuHuthRadanlievEtAl2018,
+  colrev_pdf_id = {cpid2:87ffffffffe003ffffffffe3c0211fffc0001fffc00003ffc2afffffc20ffbffc0feffffc0ffffffffffffffc21a2dffc00001ffc00001ffc00001ffc00001ffc00001ffc0001bffc017ffffefefffffc7ffffffc0010003c0000003c0018003c0008003c0018003c0098003c0010003c0010003c0010003ffffffffffffffff},
+  file       = {data/pdfs/33_4/NicolescuHuthRadanlievEtAl2018.pdf},
+  doi        = {10.1057/S41265-018-0054-1},
+  author     = {Nicolescu, Razvan and Huth, Michael and Radanliev, Petar and De Roure, David},
+  journal    = {Journal of Information Technology},
+  title      = {Mapping the values of IoT},
+  year       = {2018},
+  volume     = {33},
+  number     = {4},
+  pages      = {345--360},
+  url        = {https://www.doi.org/10.1057/S41265-},
+  abstract   = {We investigate the emerging meanings of “value” associated with the Internet of Things. Given the current political economy, we argue that the multiple meanings of “value” cannot be reduced to a single domain or discipline, but rather they are invariably articulated at the juxtaposition of three domains: social, economic, and technical. We analyse each of these domains and present domain challenges and cross-domain implications – drawing from an interdisciplinary literature review and gap analysis across sources from academia, business, and governments. We propose a functional model that aggregates these findings into a value-driven logic of the emerging global political economy enabled by digital technology in general and IoT in particular. These conceptual contributions highlight the critical need for an interdisciplinary understanding of the meaning of “value”, so that IoT services and products will create and sustain such concurrent meanings during their entire lifecycle, from design to consumption and retirement or recycling.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Nicolescu, Razvan
+AU  - Huth, Michael
+AU  - Radanliev, Petar
+AU  - De Roure, David
+TI  - Mapping the values of IoT
+T2  - Journal of Information Technology
+PY  - 2018
+VL  - 33
+IS  - 4
+SP  - 345
+EP  - 360
+DO  - 10.1057/S41265-018-0054-1
+UR  - https://www.doi.org/10.1057/S41265-
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1057/S41265-018-0054-1>
+- URL: <https://www.doi.org/10.1057/S41265->

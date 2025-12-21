@@ -1,0 +1,58 @@
+---
+title: "Watch Out, You are Live! Toward Understanding the Impact of AI on Privacy of Employees"
+author:
+- Kaur, Ashneet
+- Maheshwari, Sudhanshu
+- Bose, Indranil
+- Singh, Simarjeet
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.17705/1CAIS.05523"
+url: "https://aisel.aisnet.org/cais/vol55/iss1/24"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{KaurMaheshwariBoseEtAl2024,
+  doi        = {10.17705/1CAIS.05523},
+  author     = {Kaur, Ashneet and Maheshwari, Sudhanshu and Bose, Indranil and Singh, Simarjeet},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Watch Out, You are Live! Toward Understanding the Impact of AI on Privacy of Employees},
+  year       = {2024},
+  volume     = {55},
+  number     = {UNKNOWN},
+  pages      = {603--626},
+  url        = {https://aisel.aisnet.org/cais/vol55/iss1/24},
+  abstract   = {The rapid integration of Artificial Intelligence (AI) across diverse sectors, particularly in the workplace, has yielded efficiency gains and enhanced decision-making capabilities. However, the pervasive adoption of AI has raised significant concerns regarding the privacy of employees. This systematic literature review seeks to comprehensively explore the implications of AI on employee privacy. The study addresses three key dimensions: (1) evaluating the extent to which AI technologies compromise or safeguard employee privacy; (2) elucidating the costs and benefits of AI adoption in organizations to strike a balance with employee privacy considerations; and (3) discussing the varying impact of advancing AI algorithms in the workplace on employee privacy. Drawing upon the privacy calculus framework, the paper underscores the trade-offs organizations make in managing employees' privacy in the context of AI integration. The discussion is grounded in an analysis of advancing AI algorithms and their dynamic influence on the delicate balance between organizational efficiency and the protection of employee privacy. By addressing the complexities inherent in this intersection, the research serves as a valuable resource for guiding further inquiry into the evolving relationship between advancing AI technologies and preserving employee privacy.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Kaur, Ashneet
+AU  - Maheshwari, Sudhanshu
+AU  - Bose, Indranil
+AU  - Singh, Simarjeet
+TI  - Watch Out, You are Live! Toward Understanding the Impact of AI on Privacy of Employees
+T2  - Communications of the Association for Information Systems
+PY  - 2024
+VL  - 55
+IS  - UNKNOWN
+SP  - 603
+EP  - 626
+DO  - 10.17705/1CAIS.05523
+UR  - https://aisel.aisnet.org/cais/vol55/iss1/24
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.05523>
+- URL: <https://aisel.aisnet.org/cais/vol55/iss1/24>

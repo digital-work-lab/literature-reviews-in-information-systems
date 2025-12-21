@@ -1,0 +1,54 @@
+---
+title: "From Entity to Relation? Agency in the Era of Artificial Intelligence"
+author:
+- Kuss, Pauline M.
+- Meske, Christian
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.17705/1CAIS.05626"
+url: "https://aisel.aisnet.org/cais/vol56/iss1/29"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{KussMeske2025,
+  doi        = {10.17705/1CAIS.05626},
+  author     = {Kuss, Pauline M. and Meske, Christian},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {From Entity to Relation? Agency in the Era of Artificial Intelligence},
+  year       = {2025},
+  volume     = {56},
+  number     = {UNKNOWN},
+  pages      = {633--674},
+  url        = {https://aisel.aisnet.org/cais/vol56/iss1/29},
+  abstract   = {Recent advancements in AI, marked by enhanced algorithmic capabilities and reduced human oversight, challenge the conventional entity-centric ontology prevalent in Information Systems (IS) research. In this context, a relational perspective grounded in sociomateriality has gained prominence. This perspective views agency as emerging from the interactions among humans and technological systems. Despite its existence within the IS community, the relational paradigm remains underrepresented in discussions of AI agency due to its ontological complexities. Recognizing that it offers potential solutions to conceptual challenges faced by alternative perspectives, the article aims to enhance the accessibility and applicability of the relational perspective for AI research. We provide a structured overview and comparative analysis of agency concepts in IS research, derived from a systematic literature review of 295 journal articles from IS and adjacent disciplines. Besides relational agency, the review identifies two other main conceptualizations of agency: inherent agency and behavioral agency. To explain their differences, we contrast the relational perspective with the alternative frameworks, detailing their respective strength and limitations. Finally, we communicate open questions and research directions to promote the practical application of a relational perspective in studying AI technologies.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Kuss, Pauline M.
+AU  - Meske, Christian
+TI  - From Entity to Relation? Agency in the Era of Artificial Intelligence
+T2  - Communications of the Association for Information Systems
+PY  - 2025
+VL  - 56
+IS  - UNKNOWN
+SP  - 633
+EP  - 674
+DO  - 10.17705/1CAIS.05626
+UR  - https://aisel.aisnet.org/cais/vol56/iss1/29
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.05626>
+- URL: <https://aisel.aisnet.org/cais/vol56/iss1/29>

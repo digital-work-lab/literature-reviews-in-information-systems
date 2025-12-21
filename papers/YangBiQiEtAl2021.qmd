@@ -1,0 +1,59 @@
+---
+title: "Multimodal Wearable Intelligence for Dementia Care in Healthcare 4.0: a Survey"
+author:
+- Yang, Po
+- Bi, Gaoshan
+- Qi, Jun
+- Wang, Xulong
+- Yang, Yun
+- Xu, Lida
+topic: ""
+categories: []
+date: "2021"
+doi: "https://doi.org/10.1007/S10796-021-10163-3"
+url: "https://link.springer.com/article/10.1007/s10796-021-10163-3"
+journal:
+  name: "Information Systems Frontiers"
+cited_by: 0
+outlet: "Information Systems Frontiers"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{YangBiQiEtAl2021,
+  doi        = {10.1007/S10796-021-10163-3},
+  author     = {Yang, Po and Bi, Gaoshan and Qi, Jun and Wang, Xulong and Yang, Yun and Xu, Lida},
+  journal    = {Information Systems Frontiers},
+  title      = {Multimodal Wearable Intelligence for Dementia Care in Healthcare 4.0: a Survey},
+  year       = {2021},
+  volume     = {UNKNOWN},
+  number     = {UNKNOWN},
+  url        = {https://link.springer.com/article/10.1007/s10796-021-10163-3},
+  abstract   = {Abstract As a new revolution of Ubiquitous Computing and Internet of Things, multimodal wearable intelligence technique is rapidly becoming a new research topic in both academic and industrial fields. Owning to the rapid spread of wearable and mobile devices, this technique is evolving healthcare from traditional hub-based systems to more personalised healthcare systems. This trend is well-aligned with recent “Healthcare 4.0” which is a continuous process of transforming the entire healthcare value chain to be preventive, precise, predictive and personalised, with significant benefits to elder care. But empowering the utility of multimodal wearable intelligence technique for elderly care like people with dementia is significantly challenging considering many issues, such as shortage of cost-effective wearable sensors, heterogeneity of wearable devices connected, high demand for interoperability, etc. Focusing on these challenges, this paper gives a systematic review of advanced multimodal wearable intelligence technologies for dementia care in Healthcare 4.0. One framework is proposed for reviewing the current research of wearable intelligence, and key enabling technologies, major applications, and successful case studies in dementia care, and finally points out future research trends and challenges in Healthcare 4.0.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Yang, Po
+AU  - Bi, Gaoshan
+AU  - Qi, Jun
+AU  - Wang, Xulong
+AU  - Yang, Yun
+AU  - Xu, Lida
+TI  - Multimodal Wearable Intelligence for Dementia Care in Healthcare 4.0: a Survey
+T2  - Information Systems Frontiers
+PY  - 2021
+VL  - UNKNOWN
+IS  - UNKNOWN
+DO  - 10.1007/S10796-021-10163-3
+UR  - https://link.springer.com/article/10.1007/s10796-021-10163-3
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1007/S10796-021-10163-3>
+- URL: <https://link.springer.com/article/10.1007/s10796-021-10163-3>

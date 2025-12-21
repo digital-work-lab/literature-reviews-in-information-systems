@@ -1,0 +1,58 @@
+---
+title: "Beyond Routine Activity Theory: Towards a Novel Phishing Victimization Theory"
+author:
+- Plachkinova, Miloslava
+- Vo, Ace
+- Batra, Gunjan
+- Zafar, Humayun
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.17705/1CAIS.05716"
+url: "https://aisel.aisnet.org/cais/vol57/iss1/22"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{PlachkinovaVoBatraEtAl2025,
+  doi        = {10.17705/1CAIS.05716},
+  author     = {Plachkinova, Miloslava and Vo, Ace and Batra, Gunjan and Zafar, Humayun},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Beyond Routine Activity Theory: Towards a Novel Phishing Victimization Theory},
+  year       = {2025},
+  volume     = {57},
+  number     = {UNKNOWN},
+  pages      = {418--444},
+  url        = {https://aisel.aisnet.org/cais/vol57/iss1/22},
+  abstract   = {Routine Activity Theory (RAT) is frequently employed to explain phishing incidents due to its unique emphasis on the victim's perspective. We conducted a systematic review of 135 studies examining RAT's application to phishing. Our findings indicate that although RAT is widely prevalent in the literature, it often neglects critical aspects such as detailed victim profiles and underlying factors influencing susceptibility to phishing attacks. To address this gap, we developed a new cybercriminological theory that specifically aims to explain phishing victimization. The proposed Experience-Consequence Theory of Phishing Susceptibility focuses on the understanding of the consequences of clicking on suspicious links and the victims’ prior experiences with phishing. These elements can help security professionals identify better strategies for reducing phishing victimization by tailoring security education, training, and awareness (SETA) programs to meet the specific needs of their employees. Furthermore, this theory has managerial implications because it offers organizations a more comprehensive and robust approach to reducing the risk of social engineering and improving the overall security posture.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Plachkinova, Miloslava
+AU  - Vo, Ace
+AU  - Batra, Gunjan
+AU  - Zafar, Humayun
+TI  - Beyond Routine Activity Theory: Towards a Novel Phishing Victimization Theory
+T2  - Communications of the Association for Information Systems
+PY  - 2025
+VL  - 57
+IS  - UNKNOWN
+SP  - 418
+EP  - 444
+DO  - 10.17705/1CAIS.05716
+UR  - https://aisel.aisnet.org/cais/vol57/iss1/22
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.05716>
+- URL: <https://aisel.aisnet.org/cais/vol57/iss1/22>

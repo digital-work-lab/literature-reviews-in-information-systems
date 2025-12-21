@@ -1,0 +1,54 @@
+---
+title: "Understanding the Ethics of Generative AI: Established and New Ethical Principles"
+author:
+- Laine, Joakim
+- Minkkinen, Matti
+- Mäntymäki, Matti
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.17705/1CAIS.05601"
+url: "https://aisel.aisnet.org/cais/vol56/iss1/7"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{LaineMinkkinenMantymaki2025,
+  doi        = {10.17705/1CAIS.05601},
+  author     = {Laine, Joakim and Minkkinen, Matti and Mäntymäki, Matti},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Understanding the Ethics of Generative AI: Established and New Ethical Principles},
+  year       = {2025},
+  volume     = {56},
+  pages      = {1--25},
+  url        = {https://aisel.aisnet.org/cais/vol56/iss1/7},
+  abstract   = {This scoping review develops a conceptual synthesis of the ethics principles of generative artificial intelligence (GenAI) and large language models (LLMs). In regard to the emerging literature on GenAI, we explore 1) how established AI ethics principles are presented and 2) what new ethical principles have surfaced. The results indicate that established ethical principles continue to be relevant for GenAI systems but their salience and interpretation may shift, and that there is a need to recognize new principles in these systems. We identify six GenAI ethics principles: 1) respect for intellectual property, 2) truthfulness, 3) robustness, 4) recognition of malicious uses, 5) sociocultural responsibility, and 6) human-centric design. Addressing the challenge of satisfying multiple principles simultaneously, we suggest three meta-principles: categorizing and ranking principles to distinguish fundamental from supporting ones, mapping contradictions between principle pairs to understand their nature, and implementing continuous monitoring of fundamental principles due to the evolving nature of GenAI systems and their applications. To conclude, we suggest increased research emphasis on complementary ethics approaches to principlism, ethical tensions between different ethical viewpoints, end-user perspectives on the explainability and understanding of GenAI, and the salience of ethics principles to various GenAI stakeholders.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Laine, Joakim
+AU  - Minkkinen, Matti
+AU  - Mäntymäki, Matti
+TI  - Understanding the Ethics of Generative AI: Established and New Ethical Principles
+T2  - Communications of the Association for Information Systems
+PY  - 2025
+VL  - 56
+SP  - 1
+EP  - 25
+DO  - 10.17705/1CAIS.05601
+UR  - https://aisel.aisnet.org/cais/vol56/iss1/7
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.05601>
+- URL: <https://aisel.aisnet.org/cais/vol56/iss1/7>
