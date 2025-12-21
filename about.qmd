@@ -46,6 +46,10 @@ Describe Github process
 
 ### Harvest
 
+```sh
+python src/harvest.py
+```
+
 ### Screen
 
 - colrev_status = rev_synthesized is used for literature-reviews
@@ -56,6 +60,14 @@ with script; guidelines for documenting decisions
 ```sh
 # screen with
 colrev-cli-prescreen
+```
+
+### Polish
+
+Manually or via convenience script:
+
+```sh
+python src/multi-edit.py
 ```
 
 ### Update database
