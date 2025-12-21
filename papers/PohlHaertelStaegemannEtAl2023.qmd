@@ -1,0 +1,50 @@
+---
+title: "Data Valuation Methods - A Literature Review"
+author:
+- Pohl, Matthias
+- Haertel, Christian
+- Staegemann, Daniel
+- Turowski, Klaus
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2023/asys/sig_asys/1"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{PohlHaertelStaegemannEtAl2023,
+  colrev_pdf_id = {cpid2:fffffffffffffdffffffffffff8003ffffc007fffffffffff000000ff000000ffffffffffffffffff1fffffff000000ff000000ff000000ff000001ff3fffffff07ffffff0fffffff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff002a1eff6b7ffffffffffffffffffffffffffff},
+  file       = {data/pdfs/2023/PohlHaertelStaegemannEtAl2023.pdf},
+  author     = {Pohl, Matthias and Haertel, Christian and Staegemann, Daniel and Turowski, Klaus},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Data Valuation Methods - A Literature Review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/amcis2023/asys/sig_asys/1},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/PohlHST23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Pohl, Matthias
+AU  - Haertel, Christian
+AU  - Staegemann, Daniel
+AU  - Turowski, Klaus
+TI  - Data Valuation Methods - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/amcis2023/asys/sig_asys/1
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2023/asys/sig_asys/1>

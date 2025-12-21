@@ -1,0 +1,46 @@
+---
+title: "Culture In Information Systems Research - A Systematic Literature Review"
+author:
+- Xue, Yuan
+- Dasgupta, Subhasish
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/4"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{XueDasgupta2022,
+  colrev_pdf_id = {cpid2:ffffffffffffffdffffffffff0000027ff0000ffff0000ffffffffffffffffffff8ff00ffc01f00ffffffffff3fffffff1f6ffaff000000ff000114ff3fffffff000023ff0fffffff000000ff000000ff000000ff014106ff000000ff000000ff000000ff000000ff000000ff000000ff7e7ffefffffffffffffffffffffffff},
+  file       = {data/pdfs/2022/XueDasgupta2022.pdf},
+  author     = {Xue, Yuan and Dasgupta, Subhasish},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Culture In Information Systems Research - A Systematic Literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/4},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/XueD22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Xue, Yuan
+AU  - Dasgupta, Subhasish
+TI  - Culture In Information Systems Research - A Systematic Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/4
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/4>

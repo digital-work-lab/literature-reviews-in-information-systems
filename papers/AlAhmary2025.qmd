@@ -1,0 +1,37 @@
+---
+title: "Integrating to Mitigate BI Adoption Barriers in SMEs: A Systematic Literature Review"
+author:
+- Al Ahmary, Hatim
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AlAhmary2025,
+  file       = {data/pdfs/2025/AlAhmary2025.pdf},
+  author     = {Al Ahmary, Hatim},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Integrating to Mitigate BI Adoption Barriers in SMEs: A Systematic Literature Review},
+  year       = {2025}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Al Ahmary, Hatim
+TI  - Integrating to Mitigate BI Adoption Barriers in SMEs: A Systematic Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2025
+ER  - 
+```

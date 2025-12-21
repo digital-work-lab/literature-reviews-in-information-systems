@@ -1,0 +1,50 @@
+---
+title: "A Review and Meta-analysis of Mobile Government Adoption"
+author:
+- Chen, Ting
+- Sun, Ting
+- Duan, Yaoqing
+- Ahmad, Farhan
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2023/sig_adit/sig_adit/22"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ChenSunDuanEtAl2023,
+  colrev_pdf_id = {cpid2:ffffffffffffff6ffffffffff000000ffffc1ffffff00fffff1ff9fffc03801ffc07c03ff001e07ff803fffffe0ff6fff001c03ff001c03ffc07e07ff3fffffff1fffffff000000ff000000ff000000ff40ffffff3fffffff00007fffffffffff0fffffff000000ff000000ff000000ff000000ffffffffffffc58bfffffffff},
+  file       = {data/pdfs/2023/ChenSunDuanEtAl2023.pdf},
+  author     = {Chen, Ting and Sun, Ting and Duan, Yaoqing and Ahmad, Farhan},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {A Review and Meta-analysis of Mobile Government Adoption},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/amcis2023/sig_adit/sig_adit/22},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/ChenSDA23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Chen, Ting
+AU  - Sun, Ting
+AU  - Duan, Yaoqing
+AU  - Ahmad, Farhan
+TI  - A Review and Meta-analysis of Mobile Government Adoption
+T2  - Americas Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/amcis2023/sig_adit/sig_adit/22
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2023/sig_adit/sig_adit/22>

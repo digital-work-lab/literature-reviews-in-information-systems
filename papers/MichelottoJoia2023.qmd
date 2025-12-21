@@ -1,0 +1,46 @@
+---
+title: "Digital Transformation Readiness: A Literature Review and a Proposed Framework"
+author:
+- Michelotto, Flavia
+- Joia, Luiz Antonio
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2023/sig_osra/sig_osra/1"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MichelottoJoia2023,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffc00003ffe00007ffff81ffffffffffffc07e07ff801801ffffffffff1fffffff000000ff000000ff000000ff000525ff1fffffff001bffff0fffffff000000ff000000ff000000ff000007ff000000ff000000ff000000ff005dffff000000ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2023/MichelottoJoia2023.pdf},
+  author     = {Michelotto, Flavia and Joia, Luiz Antonio},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Digital Transformation Readiness: A Literature Review and a Proposed Framework},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/amcis2023/sig_osra/sig_osra/1},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/MichelottoJ23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Michelotto, Flavia
+AU  - Joia, Luiz Antonio
+TI  - Digital Transformation Readiness: A Literature Review and a Proposed Framework
+T2  - Americas Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/amcis2023/sig_osra/sig_osra/1
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2023/sig_osra/sig_osra/1>

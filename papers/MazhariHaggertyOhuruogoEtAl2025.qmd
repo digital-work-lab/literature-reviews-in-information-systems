@@ -1,0 +1,46 @@
+---
+title: "From Silos to Synergy: A Comprehensive Scoping Review of IT and Business Partnership"
+author:
+- Mazhari, Amin
+- Haggerty, Nicole
+- Ohuruogo, Adaku
+- Osinde, Lameck M
+- Kirakalaprathapan, Apery
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MazhariHaggertyOhuruogoEtAl2025,
+  colrev_pdf_id = {cpid2:fffffffff7fffffffffffffff800001ffc00007ffff00fffffe6e7fff803801ff001801fffffffffff900bfffff81ffffc07c01ff001801ffe0f000ff1fffffff000000ff000000ff000000ff000000ff1fddffff3fffffff07ffffff07ffffff000000ff000000ff001210ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2025/MazhariHaggertyOhuruogoEtAl2025.pdf},
+  author     = {Mazhari, Amin and Haggerty, Nicole and Ohuruogo, Adaku and Osinde, Lameck M and Kirakalaprathapan, Apery},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {From Silos to Synergy: A Comprehensive Scoping Review of IT and Business Partnership},
+  year       = {2025}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Mazhari, Amin
+AU  - Haggerty, Nicole
+AU  - Ohuruogo, Adaku
+AU  - Osinde, Lameck M
+AU  - Kirakalaprathapan, Apery
+TI  - From Silos to Synergy: A Comprehensive Scoping Review of IT and Business Partnership
+T2  - Americas Conference on Information Systems
+PY  - 2025
+ER  - 
+```

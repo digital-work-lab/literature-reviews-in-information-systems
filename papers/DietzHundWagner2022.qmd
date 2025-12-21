@@ -1,0 +1,48 @@
+---
+title: "The Role of Digital Technology in Sustainability: A Literature Review"
+author:
+- Dietz, Alyssa
+- Hund, Axel
+- Wagner, Heinz-Theo
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2022/sig_green/sig_green/11"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{DietzHundWagner2022,
+  colrev_pdf_id = {cpid2:ffffffffffffffeffffffffffe00007ffc00007ffffdfffff803f007fe00083fffe003fffffffffff1fffffff000000ff000000ff000000ff000017ff3fffffff009344ff0fffffff04e450ff000000ff000000ff000000ff000000ff000000ff001fffff000000ff000000ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2022/DietzHundWagner2022.pdf},
+  author     = {Dietz, Alyssa and Hund, Axel and Wagner, Heinz-Theo},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {The Role of Digital Technology in Sustainability: A Literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/amcis2022/sig_green/sig_green/11},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/DietzHW22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Dietz, Alyssa
+AU  - Hund, Axel
+AU  - Wagner, Heinz-Theo
+TI  - The Role of Digital Technology in Sustainability: A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/amcis2022/sig_green/sig_green/11
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2022/sig_green/sig_green/11>

@@ -1,0 +1,58 @@
+---
+title: "Bridging Healthcare Barriers with mHealth: A Systematic Review of Tuberculosis Applications and their Limitations"
+author:
+- Zajac, Kimsey
+- Aslan, Aycan
+- Greve, Maike
+- Kolbe, Lutz M.
+- Theron, Grant
+- Niesler, Thomas
+- Klopper, Marisa
+- Cobelens, Frank
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2023/sig_globdev/sig_globdev/7"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ZajacAslanGreveEtAl2023,
+  colrev_pdf_id = {cpid2:ffffffffffffffffffffffffe000000fe000000ff0fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff400007ff4000007ffffff8fffffffffffffffff},
+  file       = {data/pdfs/2023/ZajacAslanGreveEtAl2023.pdf},
+  author     = {Zajac, Kimsey and Aslan, Aycan and Greve, Maike and Kolbe, Lutz M. and Theron, Grant and Niesler, Thomas and Klopper, Marisa and Cobelens, Frank},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Bridging Healthcare Barriers with mHealth: A Systematic Review of Tuberculosis Applications and their Limitations},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/amcis2023/sig_globdev/sig_globdev/7},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/ZajacAGKTNKC23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Zajac, Kimsey
+AU  - Aslan, Aycan
+AU  - Greve, Maike
+AU  - Kolbe, Lutz M.
+AU  - Theron, Grant
+AU  - Niesler, Thomas
+AU  - Klopper, Marisa
+AU  - Cobelens, Frank
+TI  - Bridging Healthcare Barriers with mHealth: A Systematic Review of Tuberculosis Applications and their Limitations
+T2  - Americas Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/amcis2023/sig_globdev/sig_globdev/7
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2023/sig_globdev/sig_globdev/7>

@@ -1,0 +1,46 @@
+---
+title: "AI for Sustainability in Organisations: A Literature Review"
+author:
+- Schober, Lisa-Maria
+- Mattke, Jens
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2022/sig_green/sig_green/15"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SchoberMattke2022,
+  colrev_pdf_id = {cpid2:fffffffffffffffffc00003fffc003fffffc1ffffe03f83ffc00e00ffffffffff1fffffff000000ff000000ff000000ff000000ff10027fff1fffffff3fffffff0fffffff000000ff000000ff000000ff00003fff000000ff000001ff000000ff000000ff000feeff000000ff000000ff64cffffffffffffffffffffffffffff},
+  file       = {data/pdfs/2022/SchoberMattke2022.pdf},
+  author     = {Schober, Lisa-Maria and Mattke, Jens},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {AI for Sustainability in Organisations: A Literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/amcis2022/sig_green/sig_green/15},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/SchoberM22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Schober, Lisa-Maria
+AU  - Mattke, Jens
+TI  - AI for Sustainability in Organisations: A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/amcis2022/sig_green/sig_green/15
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2022/sig_green/sig_green/15>

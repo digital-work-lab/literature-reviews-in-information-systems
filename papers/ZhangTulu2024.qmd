@@ -1,0 +1,40 @@
+---
+title: "Unraveling User Engagement with Technology: An Umbrella Review"
+author:
+- Zhang, Lidan
+- Tulu, Bengisu
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ZhangTulu2024,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffe00007ffe00007fffffffffff0ff07ffe03c03ffffffffff1fffffff000000ff000000ff000000ff000000ff1fffffff0fffffff0fffffff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000003fffffffffffffffffffffffff},
+  file       = {data/pdfs/2024/ZhangTulu2024.pdf},
+  author     = {Zhang, Lidan and Tulu, Bengisu},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Unraveling User Engagement with Technology: An Umbrella Review},
+  year       = {2024}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Zhang, Lidan
+AU  - Tulu, Bengisu
+TI  - Unraveling User Engagement with Technology: An Umbrella Review
+T2  - Americas Conference on Information Systems
+PY  - 2024
+ER  - 
+```

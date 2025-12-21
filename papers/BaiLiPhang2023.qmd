@@ -1,0 +1,48 @@
+---
+title: "Text-image Relationships in Social Media Communication: A Literature Review"
+author:
+- Bai, Shiqi
+- Li, Boying
+- Phang, Chee Wei David
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2023/vcc/vcc/7"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BaiLiPhang2023,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff800001ffc00003fffcff3fffb0bf09ff803c83fffc003ffffc003fff1fffffff00d504ff000000ff000000ff1fffffff3fffffff0fffffff0fffffff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff00000eff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2023/BaiLiPhang2023.pdf},
+  author     = {Bai, Shiqi and Li, Boying and Phang, Chee Wei David},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Text-image Relationships in Social Media Communication: A Literature Review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/amcis2023/vcc/vcc/7},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/BaiLP23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Bai, Shiqi
+AU  - Li, Boying
+AU  - Phang, Chee Wei David
+TI  - Text-image Relationships in Social Media Communication: A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/amcis2023/vcc/vcc/7
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2023/vcc/vcc/7>

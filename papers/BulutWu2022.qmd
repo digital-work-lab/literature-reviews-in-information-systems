@@ -1,0 +1,46 @@
+---
+title: "IoT adoption in agriculture: a systematic review"
+author:
+- Bulut, Cevdet
+- Wu, Philip
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2022/sig_adit/sig_adit/14"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BulutWu2022,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff800001ffffc3ffffffd3fffff07f83ff800c007f1fffffff14407aff000000ff000000ff000000ff000000ff3fffffff0c611fff0fffffff000000ff000000ff000000ff000000ff000000ff000fffff000000ff000000ff000000ff000000ff000000ffddfed6fffffffffffffffffffffffff},
+  file       = {data/pdfs/2022/BulutWu2022.pdf},
+  author     = {Bulut, Cevdet and Wu, Philip},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {IoT adoption in agriculture: a systematic review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/amcis2022/sig_adit/sig_adit/14},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/BulutW22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Bulut, Cevdet
+AU  - Wu, Philip
+TI  - IoT adoption in agriculture: a systematic review
+T2  - Americas Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/amcis2022/sig_adit/sig_adit/14
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2022/sig_adit/sig_adit/14>

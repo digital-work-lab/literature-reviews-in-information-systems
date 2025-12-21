@@ -1,0 +1,44 @@
+---
+title: "Security Risk Assessment for the Internet of Medical Things -a Structured Literature Review"
+author:
+- Gumina, Sharon
+- Gerdes Jr., John
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2024/security/security/12"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GuminaGerdesJr2024,
+  file       = {data/pdfs/2024/GuminaGerdesJr2024.pdf},
+  author     = {Gumina, Sharon and Gerdes Jr., John},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Security Risk Assessment for the Internet of Medical Things -a Structured Literature Review},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/amcis2024/security/security/12}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Gumina, Sharon
+AU  - Gerdes Jr., John
+TI  - Security Risk Assessment for the Internet of Medical Things -a Structured Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/amcis2024/security/security/12
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2024/security/security/12>

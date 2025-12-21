@@ -1,0 +1,42 @@
+---
+title: "User Experiences in Fitness Technology: Uncovering Value Creation through a Systematic Literature Review"
+author:
+- Soltani, Sanaz
+- Tuunanen, Tuure
+- Hönigsberg, Sarah
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SoltaniTuunanenHonigsberg2024,
+  colrev_pdf_id = {cpid2:ffffffffffffffeffffffffff800001ffc00003fff0000fffff0cffffffffffff803801ffe0fe07ffff01fffffe007fff1fffffff000000ff000000ff000000ff000000ff000000ff3fffffff14d10fff0fffffff000000ff000000ff000000ff000000ff000000ff000000ff000000ff280004fffffffffffffffffffffffff},
+  file       = {data/pdfs/2024/SoltaniTuunanenHonigsberg2024.pdf},
+  author     = {Soltani, Sanaz and Tuunanen, Tuure and Hönigsberg, Sarah},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {User Experiences in Fitness Technology: Uncovering Value Creation through a Systematic Literature Review},
+  year       = {2024}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Soltani, Sanaz
+AU  - Tuunanen, Tuure
+AU  - Hönigsberg, Sarah
+TI  - User Experiences in Fitness Technology: Uncovering Value Creation through a Systematic Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2024
+ER  - 
+```

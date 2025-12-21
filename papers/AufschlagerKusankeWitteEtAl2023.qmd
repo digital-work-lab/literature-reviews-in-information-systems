@@ -1,0 +1,52 @@
+---
+title: "Women Mentoring Programs to Reduce the Gender Gap in IT Professions A Literature Review and Critical Reflection"
+author:
+- Aufschläger, Lisa Theresia
+- Kusanke, Kristina
+- Witte, Anne-Katrin
+- Kendziorra, Jennifer
+- Winkler, Till J.
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2023/soc_inclusion/social_inclusion/3"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AufschlagerKusankeWitteEtAl2023,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff000000ff000000fff0000fffff7fffff803e07ff803001ffe07e07ffc07c03ff101a01ffff81fffffe00ffff1fffffff000040ff000000ff000000ff000000ff000000ff3fffffff041fffff0fffffff000000ff000000ff000000ff000000ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2023/AufschlagerKusankeWitteEtAl2023.pdf},
+  author     = {Aufschläger, Lisa Theresia and Kusanke, Kristina and Witte, Anne-Katrin and Kendziorra, Jennifer and Winkler, Till J.},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Women Mentoring Programs to Reduce the Gender Gap in IT Professions A Literature Review and Critical Reflection},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/amcis2023/soc_inclusion/social_inclusion/3},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/AufschlagerKWKW23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Aufschläger, Lisa Theresia
+AU  - Kusanke, Kristina
+AU  - Witte, Anne-Katrin
+AU  - Kendziorra, Jennifer
+AU  - Winkler, Till J.
+TI  - Women Mentoring Programs to Reduce the Gender Gap in IT Professions A Literature Review and Critical Reflection
+T2  - Americas Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/amcis2023/soc_inclusion/social_inclusion/3
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2023/soc_inclusion/social_inclusion/3>

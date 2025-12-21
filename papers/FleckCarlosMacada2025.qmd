@@ -1,0 +1,42 @@
+---
+title: "Leadership in Management Information Systems: A Systematic Review"
+author:
+- Fleck, Mariana Motta
+- Carlos, Antonio
+- Maçada, Gastaud
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{FleckCarlosMacada2025,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff800001fff0000fffff0effffc87b41ff000000ffe07e07ff3fffffff012104ff000000ff000000ff000000ff000000ff1fffffff3ffbffff0fffffff07afa8ff000000ff000000ff000000ff00ef5fff000000ff000000ff000258ff000000ff000000fffffffffffffffffffffffffffffffff},
+  file       = {data/pdfs/2025/FleckCarlosMacada2025.pdf},
+  author     = {Fleck, Mariana Motta and Carlos, Antonio and Maçada, Gastaud},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Leadership in Management Information Systems: A Systematic Review},
+  year       = {2025}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Fleck, Mariana Motta
+AU  - Carlos, Antonio
+AU  - Maçada, Gastaud
+TI  - Leadership in Management Information Systems: A Systematic Review
+T2  - Americas Conference on Information Systems
+PY  - 2025
+ER  - 
+```

@@ -1,0 +1,40 @@
+---
+title: "Dimensions of Artificial Intelligence Maturity Models in Supply Chain Management: A Systematic Literature Review"
+author:
+- Becklines, Lordt
+- El-Gayar, Omar
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BecklinesElGayar2025,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffc00003ffc00007ffc00003ffffc3ffffffbcffffe0ff07ffc07e03ffffffffff1fffffff000000ff000000ff000000ff000000ff000012ff1fffffff0529a3ff0fffffff000000ff000000ff000000ff000000ff000000ff000000ff00016fff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2025/BecklinesElGayar2025.pdf},
+  author     = {Becklines, Lordt and El-Gayar, Omar},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Dimensions of Artificial Intelligence Maturity Models in Supply Chain Management: A Systematic Literature Review},
+  year       = {2025}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Becklines, Lordt
+AU  - El-Gayar, Omar
+TI  - Dimensions of Artificial Intelligence Maturity Models in Supply Chain Management: A Systematic Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2025
+ER  - 
+```

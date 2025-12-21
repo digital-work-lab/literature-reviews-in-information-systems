@@ -1,0 +1,50 @@
+---
+title: "A Meta-Analysis of Funder's intention on Crowdfunding Platforms"
+author:
+- Goyal, Sandeep
+- Chauhan, Sumedha
+- Gupta, Parul
+- Motiwalla, Luvai F.
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2023/sig_sourcing/sig_sourcing/2"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GoyalChauhanGuptaEtAl2023,
+  colrev_pdf_id = {cpid2:ffffffffffffff4ffffffffff800001ffff00ffffff0effffe0fe07ffc03800ffc03c03fff0fe07ff001801ff801800ffe07c03ffffffffff1fffffff000000ff000000ff000000ff000000ff000000ff1fffffff1fffffff0fffffff030e50ff000000ff000000ff000000ff000000fffffffffffffffffffffffffffffffff},
+  file       = {data/pdfs/2023/GoyalChauhanGuptaEtAl2023.pdf},
+  author     = {Goyal, Sandeep and Chauhan, Sumedha and Gupta, Parul and Motiwalla, Luvai F.},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {A Meta-Analysis of Funder's intention on Crowdfunding Platforms},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/amcis2023/sig_sourcing/sig_sourcing/2},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/GoyalCGM23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Goyal, Sandeep
+AU  - Chauhan, Sumedha
+AU  - Gupta, Parul
+AU  - Motiwalla, Luvai F.
+TI  - A Meta-Analysis of Funder's intention on Crowdfunding Platforms
+T2  - Americas Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/amcis2023/sig_sourcing/sig_sourcing/2
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2023/sig_sourcing/sig_sourcing/2>

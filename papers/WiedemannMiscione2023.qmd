@@ -1,0 +1,46 @@
+---
+title: "Enabling Innovation in Digital Hospital Ecosystems - A Literature Review"
+author:
+- Wiedemann, Anna
+- Miscione, Gianluca
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2023/sig_health/sig_health/25"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{WiedemannMiscione2023,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff800001ffe00007ffff8fffffe0fe07ff001c03fff7f801ff3fffffff0004a4ff0000007f0000007f0000007f0000007f3fffffff1fffffff0fffffff0fffffff0000007f0000007f0000007f03ffd7ff0000007f0000007f000000ff00003eff0000007f0000007ffffffffffffffffffffffff},
+  file       = {data/pdfs/2023/WiedemannMiscione2023.pdf},
+  author     = {Wiedemann, Anna and Miscione, Gianluca},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Enabling Innovation in Digital Hospital Ecosystems - A Literature Review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/amcis2023/sig_health/sig_health/25},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/WiedemannM23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Wiedemann, Anna
+AU  - Miscione, Gianluca
+TI  - Enabling Innovation in Digital Hospital Ecosystems - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/amcis2023/sig_health/sig_health/25
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2023/sig_health/sig_health/25>

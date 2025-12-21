@@ -1,0 +1,49 @@
+---
+title: "Impact of Big Data Analytics on Business Performance: A systematic Literature Review"
+author:
+- Ataei, Pouya
+- Regula, Sri
+- Haertel, Christian
+- Staegemann, Daniel
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2024/stratcompis/stratcompis/3"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AtaeiRegulaHaertelEtAl2024,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff800001ffc00003ffffc3ffffff3effffe0ff0fff801801ffe07e07ff803c03ffc07c03ffffffffff1fffffff000000ff000000ff000000ff000000ff000000ff1fffffff1bf6ffff0fffffff000000ff000000ff000000ff000000ff000000ff00fff7ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2024/AtaeiRegulaHaertelEtAl2024.pdf},
+  author     = {Ataei, Pouya and Regula, Sri and Haertel, Christian and Staegemann, Daniel},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Impact of Big Data Analytics on Business Performance: A systematic Literature Review},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/amcis2024/stratcompis/stratcompis/3}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ataei, Pouya
+AU  - Regula, Sri
+AU  - Haertel, Christian
+AU  - Staegemann, Daniel
+TI  - Impact of Big Data Analytics on Business Performance: A systematic Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/amcis2024/stratcompis/stratcompis/3
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2024/stratcompis/stratcompis/3>

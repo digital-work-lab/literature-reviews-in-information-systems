@@ -1,0 +1,43 @@
+---
+title: "Competencies for Digital Innovations - A Literature Review and Opportunities for Future Research"
+author:
+- Bohrer, Mathias
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2024/sig_dite/sig_dite/9"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{Bohrer2024,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff800001ff800001fffe007fffffffffffff83fffffe007fffffffffff1fffffff000000ff000000ff000000ff000000ff1fffffff3fffffff0fffffff07ffffff000000ff000000ff000000ff000000ff000000ff000000ff06ffffff000000ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2024/Bohrer2024.pdf},
+  author     = {Bohrer, Mathias},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Competencies for Digital Innovations - A Literature Review and Opportunities for Future Research},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/amcis2024/sig_dite/sig_dite/9}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Bohrer, Mathias
+TI  - Competencies for Digital Innovations - A Literature Review and Opportunities for Future Research
+T2  - Americas Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/amcis2024/sig_dite/sig_dite/9
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2024/sig_dite/sig_dite/9>

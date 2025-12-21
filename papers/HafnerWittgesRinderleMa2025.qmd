@@ -1,0 +1,42 @@
+---
+title: "GenAI in Business Process Management: A Systematic Review of the Current State"
+author:
+- Hafner, Alina
+- Wittges, Holger
+- Rinderle-Ma, Stefanie
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HafnerWittgesRinderleMa2025,
+  colrev_pdf_id = {cpid2:fffffffffffffdcffffffffff800001ff800001ffff85ffffe0ff0fff803801ffeffe97ffff00fffffe007fffffffffff1fffffff000000ff000000ff000000ff1fffffff006001ff0fffffff000000ff000000ff000ffeff000000ff000000ff000000ff000403ff000000ff000000ff01ffffffffffffffffdffffffffffff},
+  file       = {data/pdfs/2025/HafnerWittgesRinderleMa2025.pdf},
+  author     = {Hafner, Alina and Wittges, Holger and Rinderle-Ma, Stefanie},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {GenAI in Business Process Management: A Systematic Review of the Current State},
+  year       = {2025}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hafner, Alina
+AU  - Wittges, Holger
+AU  - Rinderle-Ma, Stefanie
+TI  - GenAI in Business Process Management: A Systematic Review of the Current State
+T2  - Americas Conference on Information Systems
+PY  - 2025
+ER  - 
+```

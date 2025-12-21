@@ -1,0 +1,46 @@
+---
+title: "Cryptocurrency Payment Method for Retailers: A Systematic Review"
+author:
+- Dyosi, Neliswa Florence
+- Tanner, Maureen
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2023/sig_scuidt/sig_scuidt/3"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{DyosiTanner2023,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffc00003ffe0000fffff2ffffff0ff07ffc03e03ffefffffff3fffffff000000ff000000ff000000ff000000ff000000ff1fffffff3fffffff0fffffff05dfe2ff000000ff000000ff00003fff000000ff000000ff000000ff000000ff000010ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2023/DyosiTanner2023.pdf},
+  author     = {Dyosi, Neliswa Florence and Tanner, Maureen},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Cryptocurrency Payment Method for Retailers: A Systematic Review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/amcis2023/sig_scuidt/sig_scuidt/3},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/DyosiT23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Dyosi, Neliswa Florence
+AU  - Tanner, Maureen
+TI  - Cryptocurrency Payment Method for Retailers: A Systematic Review
+T2  - Americas Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/amcis2023/sig_scuidt/sig_scuidt/3
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2023/sig_scuidt/sig_scuidt/3>

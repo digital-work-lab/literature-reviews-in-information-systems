@@ -1,0 +1,38 @@
+---
+title: "Algorithmic Accountability of Low-Code/No-Code Artificial Intelligence: A Literature Review"
+author:
+- Somer, Paul
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{Somer2025,
+  colrev_pdf_id = {cpid2:ffffffffffffbfffffffffffff0000fff800001fffe007fffffffffffffc7fffffc007ffffe00ffffffffffff1fffffff000000ff000000ff000000ff000000ff000000ff1fffffff1fffffff0fffffff07bff4ff000000ff000000ff000000ff0000ffff000000ff000000ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2025/Somer2025.pdf},
+  author     = {Somer, Paul},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Algorithmic Accountability of Low-Code/No-Code Artificial Intelligence: A Literature Review},
+  year       = {2025}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Somer, Paul
+TI  - Algorithmic Accountability of Low-Code/No-Code Artificial Intelligence: A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2025
+ER  - 
+```

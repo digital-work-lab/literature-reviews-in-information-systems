@@ -1,0 +1,44 @@
+---
+title: "Project Manager Technical Competencies Contributing to Project Success: A Literature Review"
+author:
+- Martin, Ronald
+- Williams, Jason A
+- Cuellar, Michael
+- Tabatabaei, Manouchehr
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MartinWilliamsCuellarEtAl2025,
+  colrev_pdf_id = {cpid2:fffffffff126bffffffffffffffffffff800001ff000000ffffc3ffffff80ffffe0fe07ffc07c03ffe0fc03ff803801ffdbba9dff1fffffff000000ff000000ff000000ff000000ff000000ff1fffffff1fffffff0fffffff000000ff000000ff000000ff000000ff000000fffffffffffc0c23fffffffffffffffffffffffff},
+  file       = {data/pdfs/2025/MartinWilliamsCuellarEtAl2025.pdf},
+  author     = {Martin, Ronald and Williams, Jason A and Cuellar, Michael and Tabatabaei, Manouchehr},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Project Manager Technical Competencies Contributing to Project Success: A Literature Review},
+  year       = {2025}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Martin, Ronald
+AU  - Williams, Jason A
+AU  - Cuellar, Michael
+AU  - Tabatabaei, Manouchehr
+TI  - Project Manager Technical Competencies Contributing to Project Success: A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2025
+ER  - 
+```

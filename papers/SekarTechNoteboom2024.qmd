@@ -1,0 +1,42 @@
+---
+title: "Exploring the Impact of Blockchain Integration on Inventory Accuracy and Supply Chain Efficiency -A Literature Review"
+author:
+- Sekar, Aravindh
+- Tech, Deb
+- Noteboom, Cherie
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SekarTechNoteboom2024,
+  colrev_pdf_id = {cpid2:ffffffffffffffcffffffffffc00003ff800001ffc00103ffffc3fffffffc3fffffffffffc07e03ff801e07ffff81ffffff00ffff7f6effff1fffffff000000ff000000ff000000ff0fffffff3fffffff0fffffff0fffffff000000ff000000ff000000ff000000ff00003fff000000ff000000ffffa2f3fffffffffffffffff},
+  file       = {data/pdfs/2024/SekarTechNoteboom2024.pdf},
+  author     = {Sekar, Aravindh and Tech, Deb and Noteboom, Cherie},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Exploring the Impact of Blockchain Integration on Inventory Accuracy and Supply Chain Efficiency -A Literature Review},
+  year       = {2024}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Sekar, Aravindh
+AU  - Tech, Deb
+AU  - Noteboom, Cherie
+TI  - Exploring the Impact of Blockchain Integration on Inventory Accuracy and Supply Chain Efficiency -A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2024
+ER  - 
+```

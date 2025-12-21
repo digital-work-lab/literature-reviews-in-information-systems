@@ -1,0 +1,42 @@
+---
+title: "Measuring User Engagement in Digital Health Interventions: A Narrative Review"
+author:
+- Zhang, Lidan
+- Jewer, Jennifer
+- Tulu, Bengisu
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ZhangJewerTulu2025,
+  colrev_pdf_id = {cpid2:fffffffff77ffffffffffffff800001ff800001ffff00fffff5ff2fff803000ffe0fe07ffff83fffffe00ffffffffffff1fffffff000000ff000000ff000000ff000000ff000000ff000448ff3fffffff00047fff0fffffff000000ff000000ff000000ff000000ff000000ff000000fffffffffffffffffffffffffffffffff},
+  file       = {data/pdfs/2025/ZhangJewerTulu2025.pdf},
+  author     = {Zhang, Lidan and Jewer, Jennifer and Tulu, Bengisu},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Measuring User Engagement in Digital Health Interventions: A Narrative Review},
+  year       = {2025}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Zhang, Lidan
+AU  - Jewer, Jennifer
+AU  - Tulu, Bengisu
+TI  - Measuring User Engagement in Digital Health Interventions: A Narrative Review
+T2  - Americas Conference on Information Systems
+PY  - 2025
+ER  - 
+```

@@ -1,0 +1,40 @@
+---
+title: "An Analysis of Executive Managers Acceptance of Cyber Security Risk Management -A Systematic Review"
+author:
+- Becklines, Lordt
+- El-Gayar, Omar
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BecklinesElGayar2025a,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffe00007ffc00007ffc00003ffff9fffffe0ff07ffc07e03ffffffffff3fffffff000000ff000000ff000000ff000000ff000000ff050dffff1fffffff0fffffff0fffffff000000ff000000ff00000fff000000ff000000ff000000ff000000ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2025/BecklinesElGayar2025a.pdf},
+  author     = {Becklines, Lordt and El-Gayar, Omar},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {An Analysis of Executive Managers Acceptance of Cyber Security Risk Management -A Systematic Review},
+  year       = {2025}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Becklines, Lordt
+AU  - El-Gayar, Omar
+TI  - An Analysis of Executive Managers Acceptance of Cyber Security Risk Management -A Systematic Review
+T2  - Americas Conference on Information Systems
+PY  - 2025
+ER  - 
+```

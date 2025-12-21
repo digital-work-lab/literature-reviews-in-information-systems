@@ -1,0 +1,50 @@
+---
+title: "Gamification and Marketing Management: A Literature Review and Future Agenda"
+author:
+- Yang, Xinyi
+- Xi, Nannan
+- Tang, Hairui
+- Hamari, Juho
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2023/meta_res/meta_res/1"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{YangXiTangEtAl2023,
+  colrev_pdf_id = {cpid2:ffffffffffffdffffffffffff000000ffc00003ffffaeffffe07f07ffe07f07fff0ff07ffe07e07ff3fffffff0a93deff000000ff000000ff000000ff000000ff3fffffff1d75ffff0fffffff000000ff000000ff000000ff000000ff00000fff000000ff000000ff000000ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2023/YangXiTangEtAl2023.pdf},
+  author     = {Yang, Xinyi and Xi, Nannan and Tang, Hairui and Hamari, Juho},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Gamification and Marketing Management: A Literature Review and Future Agenda},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/amcis2023/meta_res/meta_res/1},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/YangXTH23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Yang, Xinyi
+AU  - Xi, Nannan
+AU  - Tang, Hairui
+AU  - Hamari, Juho
+TI  - Gamification and Marketing Management: A Literature Review and Future Agenda
+T2  - Americas Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/amcis2023/meta_res/meta_res/1
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2023/meta_res/meta_res/1>

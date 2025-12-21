@@ -1,0 +1,45 @@
+---
+title: "The Intersections of Traceability and Sustainability in Supply Chain Management Systems: A Preliminary Literature Review"
+author:
+- Colombage, Anuradha U.
+- Sedera, Darshana D.
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2024/ent_system/ent_system/5"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ColombageSedera2024,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffc00003ff000000ff040001ffffffffffc07e07ff807c03ff803c03ff3fffffff1fffffff000000ff000000ff000000ff000000ff1fffffff1fffffff0fffffff0fffffff000000ff000000ff000000ff000000ff000000ff000000ff000000ff3ffffeff7ffffffffffffffffffffffffffffff},
+  file       = {data/pdfs/2024/ColombageSedera2024.pdf},
+  author     = {Colombage, Anuradha U. and Sedera, Darshana D.},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {The Intersections of Traceability and Sustainability in Supply Chain Management Systems: A Preliminary Literature Review},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/amcis2024/ent_system/ent_system/5}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Colombage, Anuradha U.
+AU  - Sedera, Darshana D.
+TI  - The Intersections of Traceability and Sustainability in Supply Chain Management Systems: A Preliminary Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/amcis2024/ent_system/ent_system/5
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2024/ent_system/ent_system/5>

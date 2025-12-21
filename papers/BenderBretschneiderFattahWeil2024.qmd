@@ -1,0 +1,47 @@
+---
+title: "Advances in Demand Forecasting: A Systematic Review of Methods, The Role of AI, and Data Strategies in Manufacturing"
+author:
+- Bender, Benedict
+- Bretschneider, Sina
+- Fattah-Weil, Jasmin
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2024/stratcompis/stratcompis/7"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BenderBretschneiderFattahWeil2024,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffc00003ff000000ff800001ffffffffffe0fe07ffc07c03ffff9bffffff01fffffc003fffffffffff1fffffff000000ff000000ff000000ff000000ff000036ff3fffffff004008ff0fffffff001020ff000000ff000000ff000000ff000000ff000000ff0004eefffffffffffffffffffffffff},
+  file       = {data/pdfs/2024/BenderBretschneiderFattahWeil2024.pdf},
+  author     = {Bender, Benedict and Bretschneider, Sina and Fattah-Weil, Jasmin},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Advances in Demand Forecasting: A Systematic Review of Methods, The Role of AI, and Data Strategies in Manufacturing},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/amcis2024/stratcompis/stratcompis/7}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Bender, Benedict
+AU  - Bretschneider, Sina
+AU  - Fattah-Weil, Jasmin
+TI  - Advances in Demand Forecasting: A Systematic Review of Methods, The Role of AI, and Data Strategies in Manufacturing
+T2  - Americas Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/amcis2024/stratcompis/stratcompis/7
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2024/stratcompis/stratcompis/7>

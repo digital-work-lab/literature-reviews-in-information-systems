@@ -1,0 +1,45 @@
+---
+title: "AI Capability and Supply Chain Performance: A Systematic Literature Review"
+author:
+- Becklines, Lordt
+- El-Gayar, Omar F.
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2024/ent_system/ent_system/1"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BecklinesElGayar2024,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff000000fff0000fffffbefffff0ff0fffc03e03fffffeffff3fffffff041da2ff000000ff000000ff000000ff000000ff3fffffff1fffffff0fffffff0fffffff000000ff000000ff000000ff000001ff000000ff000000ff000000ff000000ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2024/BecklinesElGayar2024.pdf},
+  author     = {Becklines, Lordt and El-Gayar, Omar F.},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {AI Capability and Supply Chain Performance: A Systematic Literature Review},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/amcis2024/ent_system/ent_system/1}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Becklines, Lordt
+AU  - El-Gayar, Omar F.
+TI  - AI Capability and Supply Chain Performance: A Systematic Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/amcis2024/ent_system/ent_system/1
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2024/ent_system/ent_system/1>

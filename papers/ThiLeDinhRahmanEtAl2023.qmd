@@ -1,0 +1,48 @@
+---
+title: "Ontological Approach in Smart Service Systems: A Literature Review"
+author:
+- Thi, My Hang Vu
+- Le Dinh, Thang
+- Rahman, Saidur
+- Brasseur, Annie
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2023/conf_theme/conf_theme/19"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ThiLeDinhRahmanEtAl2023,
+  author     = {Thi, My Hang Vu and Le Dinh, Thang and Rahman, Saidur and Brasseur, Annie},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Ontological Approach in Smart Service Systems: A Literature Review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/amcis2023/conf_theme/conf_theme/19},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/ThiDRB23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Thi, My Hang Vu
+AU  - Le Dinh, Thang
+AU  - Rahman, Saidur
+AU  - Brasseur, Annie
+TI  - Ontological Approach in Smart Service Systems: A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/amcis2023/conf_theme/conf_theme/19
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2023/conf_theme/conf_theme/19>

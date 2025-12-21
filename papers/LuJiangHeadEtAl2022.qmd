@@ -1,0 +1,50 @@
+---
+title: "A Systematic Review of Leadership in Online Communities: Social Leaders, Technical Leaders, and Impacts"
+author:
+- Lu, Xuecong
+- Jiang, Jinglu
+- Head, Milena M.
+- Yang, Junyi
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2022/vcc/vcc/10"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LuJiangHeadEtAl2022,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff000000ff800001fffc003fffffdffffff0ff0fffe07c03ffe07e07ffe07e07ffffffffff1fffffff000000ff000000ff000000ff000000ff000002ff3fffffff0bafffff0fffffff000000ff000000ff000000ff000000ff000000ff000000ff000000ff00003ffffffffffffffffffffffffff},
+  file       = {data/pdfs/2022/LuJiangHeadEtAl2022.pdf},
+  author     = {Lu, Xuecong and Jiang, Jinglu and Head, Milena M. and Yang, Junyi},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {A Systematic Review of Leadership in Online Communities: Social Leaders, Technical Leaders, and Impacts},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/amcis2022/vcc/vcc/10},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/LuJHY22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Lu, Xuecong
+AU  - Jiang, Jinglu
+AU  - Head, Milena M.
+AU  - Yang, Junyi
+TI  - A Systematic Review of Leadership in Online Communities: Social Leaders, Technical Leaders, and Impacts
+T2  - Americas Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/amcis2022/vcc/vcc/10
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2022/vcc/vcc/10>

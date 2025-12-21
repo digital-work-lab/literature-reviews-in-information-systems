@@ -1,0 +1,47 @@
+---
+title: "Identification of Criteria for the Evaluation of Reference Models - A Literature Review"
+author:
+- Czemmel, Jan
+- Bajus, Marco
+- Schäffer, Thomas
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2024/sig_osra/sig_osra/4"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{CzemmelBajusSchaffer2024,
+  colrev_pdf_id = {cpid2:ffffffffffffffeffffffffff000000ff000000ffff00ffffe0ff0fffc07e07ff803c01ffff91ffffff81fffffe007fffffffffff1fffffff000000ff000000ff000000ff000000ff1fffffff1a9a83ff0fffffff000000ff000000ff000000ff000fffff000000ff000000ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2024/CzemmelBajusSchaffer2024.pdf},
+  author     = {Czemmel, Jan and Bajus, Marco and Schäffer, Thomas},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Identification of Criteria for the Evaluation of Reference Models - A Literature Review},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/amcis2024/sig_osra/sig_osra/4}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Czemmel, Jan
+AU  - Bajus, Marco
+AU  - Schäffer, Thomas
+TI  - Identification of Criteria for the Evaluation of Reference Models - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/amcis2024/sig_osra/sig_osra/4
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2024/sig_osra/sig_osra/4>

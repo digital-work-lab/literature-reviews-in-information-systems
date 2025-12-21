@@ -1,0 +1,40 @@
+---
+title: "Perspective on Multidimensional Maturity Models -Results from a Literature Review"
+author:
+- Sprengel, Alexander
+- Ulrich, Patrick
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SprengelUlrich2025,
+  colrev_pdf_id = {cpid2:fffffffffefffffffffffffff000000ff000000ffff80fffff57f2fff001801ff811c13ffffffffff1fffffff000000ff000000ff000000ff000000ff000000ff000000ff09ffffff3fffffff0fffffff0fffffff000000ff000000ff000000ff000000ff000152ff000000ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2025/SprengelUlrich2025.pdf},
+  author     = {Sprengel, Alexander and Ulrich, Patrick},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Perspective on Multidimensional Maturity Models -Results from a Literature Review},
+  year       = {2025}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Sprengel, Alexander
+AU  - Ulrich, Patrick
+TI  - Perspective on Multidimensional Maturity Models -Results from a Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2025
+ER  - 
+```

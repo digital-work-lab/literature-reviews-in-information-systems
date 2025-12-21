@@ -1,0 +1,50 @@
+---
+title: "Management of IT Costs in the Digital Age - A Literature Review"
+author:
+- Riedinger, Constanze
+- Huber, Melanie
+- Prinz, Niculin
+- Rentrop, Christopher
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2023/meta_res/meta_res/3"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{RiedingerHuberPrinzEtAl2023,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff000001fffe007fffff3cffffc03f07ff000c07fff0fe03ff000000ff1fffffff1fffffff000000ff000000ff000000ff000000ff0007ffff3fffffff00037dff0fffffff000000ff000000ff000000ff000000ff000000ff000000ff000036ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2023/RiedingerHuberPrinzEtAl2023.pdf},
+  author     = {Riedinger, Constanze and Huber, Melanie and Prinz, Niculin and Rentrop, Christopher},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Management of IT Costs in the Digital Age - A Literature Review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/amcis2023/meta_res/meta_res/3},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/RiedingerHPR23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Riedinger, Constanze
+AU  - Huber, Melanie
+AU  - Prinz, Niculin
+AU  - Rentrop, Christopher
+TI  - Management of IT Costs in the Digital Age - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/amcis2023/meta_res/meta_res/3
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2023/meta_res/meta_res/3>

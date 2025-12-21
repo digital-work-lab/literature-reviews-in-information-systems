@@ -1,0 +1,40 @@
+---
+title: "Women Entrepreneurs and Technology: A Scoping Review"
+author:
+- Siddiqua, Sumaiya
+- Chan, Yolande E
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SiddiquaChan2024,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff000000ffff00ffffffafffffe07f13ffe07e03fff3bef7ff3fffffff000000ff000000ff000000ff000000ff000000ff1fffffff3fffffff0fffffff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000fffffffffffffffffffffffffffffffff},
+  file       = {data/pdfs/2024/SiddiquaChan2024.pdf},
+  author     = {Siddiqua, Sumaiya and Chan, Yolande E},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Women Entrepreneurs and Technology: A Scoping Review},
+  year       = {2024}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Siddiqua, Sumaiya
+AU  - Chan, Yolande E
+TI  - Women Entrepreneurs and Technology: A Scoping Review
+T2  - Americas Conference on Information Systems
+PY  - 2024
+ER  - 
+```

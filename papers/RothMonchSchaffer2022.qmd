@@ -1,0 +1,48 @@
+---
+title: "Towards Augmented MDM: Overview of Design and Function Areas - A Literature Review"
+author:
+- Roth, Hendrik
+- Mönch, Simon Paul
+- Schäffer, Thomas
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2022/sig_entsys/sig_entsys/4"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{RothMonchSchaffer2022,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff800001ff800181ffffc3ffffffffffff803f807fc004007ffe001fffff003fff3fffffff010802ff000000ff000000ff000000ff000000ff3fffffff08403fff0fffffff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2022/RothMonchSchaffer2022.pdf},
+  author     = {Roth, Hendrik and Mönch, Simon Paul and Schäffer, Thomas},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Towards Augmented MDM: Overview of Design and Function Areas - A Literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/amcis2022/sig_entsys/sig_entsys/4},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/RothMS22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Roth, Hendrik
+AU  - Mönch, Simon Paul
+AU  - Schäffer, Thomas
+TI  - Towards Augmented MDM: Overview of Design and Function Areas - A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/amcis2022/sig_entsys/sig_entsys/4
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2022/sig_entsys/sig_entsys/4>

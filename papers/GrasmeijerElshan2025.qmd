@@ -1,0 +1,40 @@
+---
+title: "Paradoxical Tensions in IT Renewal: A Systematic Literature Review"
+author:
+- Grasmeijer, René
+- Elshan, Edona
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GrasmeijerElshan2025,
+  colrev_pdf_id = {cpid2:fffffffff7fffffffffffffff800001fff0000fffff85ffffe8ff4fff803c03ffe1ff0fffff00ffffff00ffff1fffffff137201ff000000ff000000ff000000ff0f7eecff3fffffff005fffff0fffffff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2025/GrasmeijerElshan2025.pdf},
+  author     = {Grasmeijer, René and Elshan, Edona},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Paradoxical Tensions in IT Renewal: A Systematic Literature Review},
+  year       = {2025}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Grasmeijer, René
+AU  - Elshan, Edona
+TI  - Paradoxical Tensions in IT Renewal: A Systematic Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2025
+ER  - 
+```

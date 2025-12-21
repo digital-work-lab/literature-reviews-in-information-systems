@@ -6,6 +6,9 @@ To update the pages and statistics, run
 
 ```
 make update
+
+# screen with
+colrev-cli-prescreen
 ```
 
 ## Special issues

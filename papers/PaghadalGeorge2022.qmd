@@ -1,0 +1,46 @@
+---
+title: "A Systematic Mapping of the Emergence of Blockchain and Business Applications: A Literature Review"
+author:
+- Paghadal, Vatsal Keshavbhai
+- George, Benjamin T.
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2022/sig_globdev/sig_globdev/1"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{PaghadalGeorge2022,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff800000ff800001fffe007fffff7fffffe03f81ffc01e007fffffffff1fffffff000000ff000000ff00a000ff3fffffff0469ffff0fffffff000000ff000000ff000000ff000000ff000000ff000008ff000000ff000000ff000000ff03ffffff000000ff000004fffffffffffffffffffffffff},
+  file       = {data/pdfs/2022/PaghadalGeorge2022.pdf},
+  author     = {Paghadal, Vatsal Keshavbhai and George, Benjamin T.},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {A Systematic Mapping of the Emergence of Blockchain and Business Applications: A Literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/amcis2022/sig_globdev/sig_globdev/1},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/PaghadalG22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Paghadal, Vatsal Keshavbhai
+AU  - George, Benjamin T.
+TI  - A Systematic Mapping of the Emergence of Blockchain and Business Applications: A Literature Review
+T2  - Americas Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/amcis2022/sig_globdev/sig_globdev/1
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2022/sig_globdev/sig_globdev/1>

@@ -1,0 +1,48 @@
+---
+title: "Artificial Intelligence in Human Resources Management: A Scoping Review"
+author:
+- Gelinas, Daniel
+- Sadreddin, Arman
+- Vahidov, Rustam M.
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/10"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GelinasSadreddinVahidov2022,
+  colrev_pdf_id = {cpid2:ffffffffffffaffffffffffff000000ffe00007ffffc3fffff07f81ffc00e00ffffc0ffffff807fff1fffffff000000ff000000ff003fffff3fffffff035fefff0fffffff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000fffffffffffffffffffffffffffffffffffffffff},
+  file       = {data/pdfs/2022/GelinasSadreddinVahidov2022.pdf},
+  author     = {Gelinas, Daniel and Sadreddin, Arman and Vahidov, Rustam M.},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Artificial Intelligence in Human Resources Management: A Scoping Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/10},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/GelinasSV22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Gelinas, Daniel
+AU  - Sadreddin, Arman
+AU  - Vahidov, Rustam M.
+TI  - Artificial Intelligence in Human Resources Management: A Scoping Review
+T2  - Americas Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/10
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/10>

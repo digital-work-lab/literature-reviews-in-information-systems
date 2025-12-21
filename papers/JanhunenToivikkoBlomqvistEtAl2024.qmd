@@ -1,0 +1,49 @@
+---
+title: "Trust in Digital Human-AI Team Collaboration: A Systematic Review"
+author:
+- Janhunen, Essi
+- Toivikko, Tuuli
+- Blomqvist, Kirsimarja
+- Siemon, Dominik
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2024/cnow/cnow/3"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{JanhunenToivikkoBlomqvistEtAl2024,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffe00007ffc00003ffff0cffffe0ff07ffe0fe07ffc07e07ffc07e07ffe07e07ff3fffffff084402ff000000ff000000ff000000ff000000ff1fffffff0c98ffff0fffffff000000ff000000ff000000ff000000ff0000deff000000ff000000ff000000fffffffffffffffffffffffffffffffff},
+  file       = {data/pdfs/2024/JanhunenToivikkoBlomqvistEtAl2024.pdf},
+  author     = {Janhunen, Essi and Toivikko, Tuuli and Blomqvist, Kirsimarja and Siemon, Dominik},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Trust in Digital Human-AI Team Collaboration: A Systematic Review},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/amcis2024/cnow/cnow/3}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Janhunen, Essi
+AU  - Toivikko, Tuuli
+AU  - Blomqvist, Kirsimarja
+AU  - Siemon, Dominik
+TI  - Trust in Digital Human-AI Team Collaboration: A Systematic Review
+T2  - Americas Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/amcis2024/cnow/cnow/3
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2024/cnow/cnow/3>

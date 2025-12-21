@@ -1,0 +1,46 @@
+---
+title: "Online Sex Trafficking Policy Research: A Systematic Review"
+author:
+- Srivastava, Smriti
+- Dhillon, Gurpreet
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/amcis2023/social_comput/social_comput/15"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Americas Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SrivastavaDhillon2023,
+  colrev_pdf_id = {cpid2:fffffffffffffefffffffffff800001fffe007fffff9dffffe0fe07ffc03c03ff1ffdbfff1fffffff000000ff000000ff1fffffff022c05ff0fffffff000000ff000000ff000000ff000000ff000000ff000000ff000002ff0fffffff07ffffff000000ff000000ff000000ff000028fffffffffffffffffffffffffffffffff},
+  file       = {data/pdfs/2023/SrivastavaDhillon2023.pdf},
+  author     = {Srivastava, Smriti and Dhillon, Gurpreet},
+  booktitle  = {Americas Conference on Information Systems},
+  title      = {Online Sex Trafficking Policy Research: A Systematic Review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/amcis2023/social_comput/social_comput/15},
+  dblp_key   = {https://dblp.org/rec/conf/amcis/SrivastavaD23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Srivastava, Smriti
+AU  - Dhillon, Gurpreet
+TI  - Online Sex Trafficking Policy Research: A Systematic Review
+T2  - Americas Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/amcis2023/social_comput/social_comput/15
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/amcis2023/social_comput/social_comput/15>
