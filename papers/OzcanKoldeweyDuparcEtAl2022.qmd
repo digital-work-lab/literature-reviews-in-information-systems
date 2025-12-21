@@ -4,7 +4,7 @@ author:
 - Özcan, Leon
 - Koldewey, Christian
 - Duparc, Estelle
-- {van der Valk}, Hendrik
+- van der Valk, Hendrik
 - Otto, Boris
 - Dumitrescu, Roman
 topic: ""

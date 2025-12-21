@@ -133,16 +133,9 @@ def record_to_qmd_content(rec: dict, key: str, bibtex: str, ris: str) -> str:
     """Create the .qmd file content for a single record."""
     title = yaml_escape(rec.get("title", ""))
     authors = yaml_escape(rec.get("author", ""))
-    author_list = [a for a in authors.split(" and ") if a]
-    def quote_if_braces(a: str) -> str:
-        if "{" in a or "}" in a:
-            a = a.replace('"', r'\"')
-            return f'"{a}"'
-        return a
-
+    author_list = [a.replace("{", "").replace("}", "") for a in authors.split(" and ") if a]
     author_str = ""
     if author_list:
-        author_list = [quote_if_braces(a) for a in author_list]
         author_str = "- " + "\n- ".join(author_list)
 
     topic = ""
