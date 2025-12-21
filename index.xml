@@ -12,6 +12,67 @@
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Wed, 01 Jan 2025 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>Ecosystem Beyond a Metaphor: A Critical Literature Review and Research Agenda</title>
+  <dc:creator>Ma, Yao</dc:creator>
+  <link>http://0.0.0.0:4200/papers/Ma2025.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="citation-bibtex" class="level2">
+
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Ma2025</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">file</span>       = {data/pdfs/2025/Digital Innovation and Entrepreneurship/Ecosystem Beyond a Metaphor_ A Critical Literature Review and Res.pdf},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>     = {Ma, Yao},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">booktitle</span>  = {International Conference on Information Systems},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>      = {Ecosystem Beyond a Metaphor: A Critical Literature Review and Research Agenda},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>       = {2025}</span>
+<span id="cb1-7">}</span></code></pre></div></div>
+</section>
+<section id="citation-ris" class="level2">
+<h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - CONF</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Ma, Yao</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - Ecosystem Beyond a Metaphor: A Critical Literature Review and Research Agenda</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - International Conference on Information Systems</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
+
+
+</section>
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/Ma2025.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>From Silos to Synergy: A Comprehensive Scoping Review of IT and Business Partnership</title>
   <dc:creator>Mazhari, Amin</dc:creator>
   <dc:creator>Haggerty, Nicole</dc:creator>
@@ -647,6 +708,67 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Mapping the Narratives of Quantum Computing in IS: A Literature Review</title>
+  <dc:creator>Ignacio Descazeaux</dc:creator>
+  <link>http://0.0.0.0:4200/papers/Descazeaux2025.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="citation-bibtex" class="level2">
+
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Descazeaux2025</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">file</span>       = {data/pdfs/2025/Quantum IT and Cloud Computing for Business/Mapping the Narratives of Quantum Computing in IS_ A Literature R.pdf},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>     = {Ignacio Descazeaux},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">booktitle</span>  = {International Conference on Information Systems},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>      = {Mapping the Narratives of Quantum Computing in IS: A Literature Review},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>       = {2025}</span>
+<span id="cb1-7">}</span></code></pre></div></div>
+</section>
+<section id="citation-ris" class="level2">
+<h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - CONF</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Ignacio Descazeaux</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - Mapping the Narratives of Quantum Computing in IS: A Literature Review</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - International Conference on Information Systems</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
+
+
+</section>
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/Descazeaux2025.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Where are the processes in IS research on digital transformation? A critical literature review and future research directions</title>
   <dc:creator>Wiener, Martin</dc:creator>
   <dc:creator>Strahringer, Susanne</dc:creator>
@@ -740,187 +862,6 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
  ]]></description>
   <guid>http://0.0.0.0:4200/papers/wiener2025processes.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Leadership in Management Information Systems: A Systematic Review</title>
-  <dc:creator>Fleck, Mariana Motta</dc:creator>
-  <dc:creator>Carlos, Antonio</dc:creator>
-  <dc:creator>Maçada, Gastaud</dc:creator>
-  <link>http://0.0.0.0:4200/papers/FleckCarlosMacada2025.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="citation-bibtex" class="level2">
-
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">FleckCarlosMacada2025</span>,</span>
-<span id="cb1-2">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">colrev_pdf_id</span> = {cpid2:fffffffffffffffffffffffff800001fff0000fffff0effffc87b41ff000000ffe07e07ff3fffffff012104ff000000ff000000ff000000ff000000ff1fffffff3ffbffff0fffffff07afa8ff000000ff000000ff000000ff00ef5fff000000ff000000ff000258ff000000ff000000fffffffffffffffffffffffffffffffff},</span>
-<span id="cb1-3">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">file</span>       = {data/pdfs/2025/FleckCarlosMacada2025.pdf},</span>
-<span id="cb1-4">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>     = {Fleck, Mariana Motta and Carlos, Antonio and Maçada, Gastaud},</span>
-<span id="cb1-5">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">booktitle</span>  = {Americas Conference on Information Systems},</span>
-<span id="cb1-6">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>      = {Leadership in Management Information Systems: A Systematic Review},</span>
-<span id="cb1-7">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>       = {2025}</span>
-<span id="cb1-8">}</span></code></pre></div></div>
-</section>
-<section id="citation-ris" class="level2">
-<h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - CONF</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Fleck, Mariana Motta</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Carlos, Antonio</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Maçada, Gastaud</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - Leadership in Management Information Systems: A Systematic Review</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - Americas Conference on Information Systems</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
-
-
-</section>
-
- ]]></description>
-  <guid>http://0.0.0.0:4200/papers/FleckCarlosMacada2025.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>IT’s a matter of trust: Literature reviews and analyses of human trust in information technology</title>
-  <dc:creator>Lacity, Mary C</dc:creator>
-  <dc:creator>Schuetz, Sebastian W</dc:creator>
-  <dc:creator>Kuai, Le</dc:creator>
-  <dc:creator>Steelman, Zachary R</dc:creator>
-  <link>http://0.0.0.0:4200/papers/LacitySchuetzKuaiEtAl2025.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="citation-bibtex" class="level2">
-
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">LacitySchuetzKuaiEtAl2025</span>,</span>
-<span id="cb1-2">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">doi</span>        = {10.1177/02683962231226397},</span>
-<span id="cb1-3">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>     = {Lacity, Mary C and Schuetz, Sebastian W and Kuai, Le and Steelman, Zachary R},</span>
-<span id="cb1-4">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">journal</span>    = {Journal of Information Technology},</span>
-<span id="cb1-5">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>      = {IT’s a matter of trust: Literature reviews and analyses of human trust in information technology},</span>
-<span id="cb1-6">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>       = {2025},</span>
-<span id="cb1-7">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">volume</span>     = {40},</span>
-<span id="cb1-8">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">number</span>     = {3},</span>
-<span id="cb1-9">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>      = {286--313},</span>
-<span id="cb1-10">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">abstract</span>   = {Trust is one of the most important constructs for understanding the adoption of information technologies (IT). In this paper, we review and analyze two literatures on the construct of human trust in IT artifacts and in the entities that source, operate, and govern IT. The first literature review focuses on defining of the construct of trust across a range of disciplines. Our analysis of this literature identified 13 assumptions about the nature of trust. The assumptions illustrate the complexities of human trust. The second literature review focused on 214 empirical studies of the construct of trust published in the AIS Senior Scholars’ Basket of Eight journals. We analyze this literature to identify IS scholar’s most common assessments of trust from qualitative studies and most common measures of trust from quantitative studies. As a cumulative body of knowledge, IS scholars have deeply examined the multidimensional aspect of trust by examining different types of trust, including affective trust, cognitive trust, institutional trust, instrumental trust, intrinsic trust, knowledge-based trust, relational trust, swift trust, disposition to trust, trusting beliefs, and more. IS scholars have also extensively examined the assumption that trust is dynamic, as evidenced by the many qualitative papers that examined trust as a process. Our review also finds that IS scholars have conducted extensive research examining trust in Web2 technologies, which are characterized by centralized applications and centralized governance. While the IS scholarly community has established a substantial tradition around the construct of trust, there is still interesting work to be done. With recent releases of open generative AI and with the rise of Web3 technologies like blockchains that purport to be “trustless,” the construct of trust in IT needs to be re-examined in these emerging contexts. We also encourage more research on trust in bi-directional relationships, on the limits of transitive trust, and on the construct of distrust.},</span>
-<span id="cb1-11">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">fulltext</span>   = {https://journals.sagepub.com/doi/pdf/10.1177/02683962231226397}</span>
-<span id="cb1-12">}</span></code></pre></div></div>
-</section>
-<section id="citation-ris" class="level2">
-<h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - JOUR</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Lacity, Mary C</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Schuetz, Sebastian W</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Kuai, Le</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Steelman, Zachary R</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - IT’s a matter of trust: Literature reviews and analyses of human trust in information technology</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - Journal of Information Technology</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-9"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">VL  - 40</span></span>
-<span id="cb2-10"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">IS  - 3</span></span>
-<span id="cb2-11"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">SP  - 286</span></span>
-<span id="cb2-12"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">EP  - 313</span></span>
-<span id="cb2-13"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">DO  - 10.1177/02683962231226397</span></span>
-<span id="cb2-14"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<ul>
-<li>DOI: <a href="https://doi.org/10.1177/02683962231226397" class="uri">https://doi.org/10.1177/02683962231226397</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <guid>http://0.0.0.0:4200/papers/LacitySchuetzKuaiEtAl2025.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
