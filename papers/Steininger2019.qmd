@@ -1,0 +1,51 @@
+---
+title: "Linking information systems and entrepreneurship - A review and agenda for IT-associated and digital entrepreneurship research"
+author:
+- Steininger, Dennis M.
+topic: ""
+categories: []
+date: "2019"
+doi: "https://doi.org/10.1111/ISJ.12206"
+url: ""
+journal:
+  name: "Information Systems Journal"
+cited_by: 0
+outlet: "Information Systems Journal"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{Steininger2019,
+  colrev_pdf_id = {cpid2:fffffff9e0fffff9e2ffffc1efffffffe0000007c0000007e0007fcfebd8ffffe63fffffffffffffe1f80007e1380007e4380007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007ffffffffffffffffffffffff},
+  file       = {data/pdfs/29_2/Steininger2019.pdf},
+  doi        = {10.1111/ISJ.12206},
+  author     = {Steininger, Dennis M.},
+  journal    = {Information Systems Journal},
+  title      = {Linking information systems and entrepreneurship - A review and agenda for IT-associated and digital entrepreneurship research},
+  year       = {2019},
+  volume     = {29},
+  number     = {2},
+  pages      = {363--407},
+  link       = {http://onlinelibrary.wiley.com/wol1/doi/10.1111/isj.12206/fullpdf}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Steininger, Dennis M.
+TI  - Linking information systems and entrepreneurship - A review and agenda for IT-associated and digital entrepreneurship research
+T2  - Information Systems Journal
+PY  - 2019
+VL  - 29
+IS  - 2
+SP  - 363
+EP  - 407
+DO  - 10.1111/ISJ.12206
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1111/ISJ.12206>

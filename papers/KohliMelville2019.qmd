@@ -1,0 +1,53 @@
+---
+title: "Digital innovation - A review and synthesis"
+author:
+- Kohli, Rajiv
+- Melville, Nigel P.
+topic: ""
+categories: []
+date: "2019"
+doi: "https://doi.org/10.1111/ISJ.12193"
+url: ""
+journal:
+  name: "Information Systems Journal"
+cited_by: 0
+outlet: "Information Systems Journal"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{KohliMelville2019,
+  colrev_pdf_id = {cpid2:fffffff9e0fffff9e2ffffc1ebffffffe000007fe21fffffe983ffffffffffffe0b80007e1380007e3f80007e0780007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff801fff83fffffe7c40807e0000007e01fffffe0000007e0020007e0000007e0000007e200400fffffffffffffffff},
+  file       = {data/pdfs/29_1/KohliMelville2019.pdf},
+  doi        = {10.1111/ISJ.12193},
+  author     = {Kohli, Rajiv and Melville, Nigel P.},
+  journal    = {Information Systems Journal},
+  title      = {Digital innovation - A review and synthesis},
+  year       = {2019},
+  volume     = {29},
+  number     = {1},
+  pages      = {200--223},
+  link       = {https://onlinelibrary.wiley.com/doi/full-xml/10.1111/isj.12193}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Kohli, Rajiv
+AU  - Melville, Nigel P.
+TI  - Digital innovation - A review and synthesis
+T2  - Information Systems Journal
+PY  - 2019
+VL  - 29
+IS  - 1
+SP  - 200
+EP  - 223
+DO  - 10.1111/ISJ.12193
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1111/ISJ.12193>

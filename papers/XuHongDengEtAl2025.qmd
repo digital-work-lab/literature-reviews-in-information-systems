@@ -1,0 +1,52 @@
+---
+title: "Crowdfunding Success Factors: A Meta-Analytic Investigation"
+author:
+- Xu, DaPeng
+- Hong, Hong
+- Deng, Lingfei
+- Zhang, Xiaoquan (Michael)
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.1287/ISRE.2022.0640"
+url: ""
+journal:
+  name: "Information Systems Research"
+cited_by: 0
+outlet: "Information Systems Research"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{XuHongDengEtAl2025,
+  doi        = {10.1287/ISRE.2022.0640},
+  author     = {Xu, DaPeng and Hong, Hong and Deng, Lingfei and Zhang, Xiaoquan (Michael)},
+  journal    = {Information Systems Research},
+  title      = {Crowdfunding Success Factors: A Meta-Analytic Investigation},
+  year       = {2025},
+  volume     = {UNKNOWN},
+  number     = {UNKNOWN},
+  abstract   = {In view of the significant role project success plays for all parties in the crowdfunding market, a wealth of research has extensively explored its vastly diverse antecedents. Drawing on the elaboration likelihood model as an overarching theoretical basis, our meta-analysis examines the aggregated effects of widely investigated antecedents (as central and peripheral cues) and moderating roles of research contexts (referring to the elaboration likelihood). It reveals a stronger link with soft information–related factors, weaker ties with backer-related factors, and varied effects of project factors. Crowdfunding success measure, crowdfunding model, platform popularity, and project location are important reasons for the inconsistencies in findings across individual studies. Our research offers valuable insights for stakeholders in the crowdfunding ecosystem. For backers, it empowers them to select projects with greater potential for success among the vast number of available options, ensuring more informed investment decisions. Fundraisers can leverage our findings to refine their fundraising strategies, thereby boosting their chances of securing funds effectively. Crowdfunding platforms can harness our findings to refine their system architecture, enrich service offerings, and improve user satisfaction. Furthermore, regulators and policymakers can draw from our study to devise regulations that nurture a robust and favorable crowdfunding environment.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Xu, DaPeng
+AU  - Hong, Hong
+AU  - Deng, Lingfei
+AU  - Zhang, Xiaoquan (Michael)
+TI  - Crowdfunding Success Factors: A Meta-Analytic Investigation
+T2  - Information Systems Research
+PY  - 2025
+VL  - UNKNOWN
+IS  - UNKNOWN
+DO  - 10.1287/ISRE.2022.0640
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1287/ISRE.2022.0640>

@@ -1,0 +1,52 @@
+---
+title: "Making the world a better place with fintech research"
+author:
+- Lagna, Andrea
+- Ravishankar, M. N.
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1111/ISJ.12333"
+url: ""
+journal:
+  name: "Information Systems Journal"
+cited_by: 0
+outlet: "Information Systems Journal"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{LagnaRavishankar2022,
+  colrev_pdf_id = {cpid2:ffffffe0e0ff7fffe0bfffc7e03fffffe6c8903fc000003fe1ffffffefc0ffffe5f0ffffff78ffffe3f80007e3b80007e0380007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007ffffffffffffffffe0000fffe0fff9ffffffffff},
+  file       = {data/pdfs/32_1/LagnaRavishankar2022.pdf},
+  doi        = {10.1111/ISJ.12333},
+  author     = {Lagna, Andrea and Ravishankar, M. N.},
+  journal    = {Information Systems Journal},
+  title      = {Making the world a better place with fintech research},
+  year       = {2022},
+  volume     = {32},
+  number     = {1},
+  pages      = {61--102}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Lagna, Andrea
+AU  - Ravishankar, M. N.
+TI  - Making the world a better place with fintech research
+T2  - Information Systems Journal
+PY  - 2022
+VL  - 32
+IS  - 1
+SP  - 61
+EP  - 102
+DO  - 10.1111/ISJ.12333
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1111/ISJ.12333>

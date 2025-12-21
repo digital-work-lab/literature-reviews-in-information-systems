@@ -1,0 +1,55 @@
+---
+title: "The technostress trifecta - techno eustress, techno distress and design - Theoretical directions and an agenda for research"
+author:
+- Tarafdar, Monideepa
+- Cooper, Cary L.
+- Stich, Jean-François
+topic: ""
+categories: []
+date: "2019"
+doi: "https://doi.org/10.1111/ISJ.12169"
+url: ""
+journal:
+  name: "Information Systems Journal"
+cited_by: 0
+outlet: "Information Systems Journal"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{TarafdarCooperStich2019,
+  colrev_pdf_id = {cpid2:ffffffffe0ffdfffe2ffffc7e03fffffe000803fe0000007e0006107ee29ffffe036403fffffffffe3f80007e0180007eff80007e3f80007e3f80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff87fffffffffffffffffffffffffffffffffff},
+  file       = {data/pdfs/29_1/TarafdarCooperStich2019.pdf},
+  doi        = {10.1111/ISJ.12169},
+  author     = {Tarafdar, Monideepa and Cooper, Cary L. and Stich, Jean-François},
+  journal    = {Information Systems Journal},
+  title      = {The technostress trifecta - techno eustress, techno distress and design - Theoretical directions and an agenda for research},
+  year       = {2019},
+  volume     = {29},
+  number     = {1},
+  pages      = {6--42},
+  link       = {https://onlinelibrary.wiley.com/doi/full-xml/10.1111/isj.12169}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Tarafdar, Monideepa
+AU  - Cooper, Cary L.
+AU  - Stich, Jean-François
+TI  - The technostress trifecta - techno eustress, techno distress and design - Theoretical directions and an agenda for research
+T2  - Information Systems Journal
+PY  - 2019
+VL  - 29
+IS  - 1
+SP  - 6
+EP  - 42
+DO  - 10.1111/ISJ.12169
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1111/ISJ.12169>

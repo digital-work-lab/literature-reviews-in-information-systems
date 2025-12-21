@@ -1,0 +1,59 @@
+---
+title: "Mobilising information systems scholarship for a circular economy - Review, synthesis, and directions for future research"
+author:
+- Zeiss, Roman
+- Ixmeier, Anne
+- Recker, Jan
+- Kranz, Johann
+topic: ""
+categories: []
+date: "2021"
+doi: "https://doi.org/10.1111/ISJ.12305"
+url: "https://dblp.org/rec/journals/isj/ZeissIRK21"
+journal:
+  name: "Information Systems Journal"
+cited_by: 0
+outlet: "Information Systems Journal"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{ZeissIxmeierReckerEtAl2021,
+  colrev_pdf_id = {cpid2:fffffff9e0fffff9e0ffffd1e03fffffe1a3301fe000000fe00000ffe0043fffffffcf7fe1c38f0ffffcffffe0180007e6f80007eff80007e0780007e1f80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007ffffffffe000000fe0000fffffffffff},
+  file       = {data/pdfs/31_1/ZeissIxmeierReckerEtAl2021.pdf},
+  doi        = {10.1111/ISJ.12305},
+  author     = {Zeiss, Roman and Ixmeier, Anne and Recker, Jan and Kranz, Johann},
+  journal    = {Information Systems Journal},
+  title      = {Mobilising information systems scholarship for a circular economy - Review, synthesis, and directions for future research},
+  year       = {2021},
+  volume     = {31},
+  number     = {1},
+  pages      = {148--183},
+  url        = {https://dblp.org/rec/journals/isj/ZeissIRK21}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Zeiss, Roman
+AU  - Ixmeier, Anne
+AU  - Recker, Jan
+AU  - Kranz, Johann
+TI  - Mobilising information systems scholarship for a circular economy - Review, synthesis, and directions for future research
+T2  - Information Systems Journal
+PY  - 2021
+VL  - 31
+IS  - 1
+SP  - 148
+EP  - 183
+DO  - 10.1111/ISJ.12305
+UR  - https://dblp.org/rec/journals/isj/ZeissIRK21
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1111/ISJ.12305>
+- URL: <https://dblp.org/rec/journals/isj/ZeissIRK21>

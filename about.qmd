@@ -4,6 +4,16 @@ title: "About"
 
 ## Coverage
 
+- MIS Quarterly
+- Information Systems Research
+- Journal of the Association for Information Systems
+- European Journal of Information Systems
+- Information Systems Journal
+
+- International Conference on Information Systems
+
+For ICIS 2025 import: wait for DBLP metadata (otherwise, we will have to link the DBLP anyway (for the url))
+
 ::: {.callout-note title="JSIS Special Issue" collapse=true}
 
 - [x] [2025](https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/vol/34/issue/2)
@@ -18,24 +28,37 @@ https://www.sciencedirect.com/search?pub=The+Journal+of+Strategic+Information+Sy
 
 :::
 
+## Prior collections of literature reviews
+
+SchryenWagnerBenlianEtAl2020, ParéTemplier2018, ParéEtAl2015, WagnerPresterRocheEtAl2021
+
 ## Definition
 
 TODO
 
 ## Procedure
 
-The `records.bib` serves as the main database.
+The `data/records.bib` serves as the main database.
 
-Harvest
+### Community contribution
 
-Screen (with script; guidelines for documenting decisions)
+Describe Github process
+
+### Harvest
+
+### Screen
+
+- colrev_status = rev_synthesized is used for literature-reviews
+- colrev_status = rev_excluded is used for non-literature-reviews (adding a note)
+
+with script; guidelines for documenting decisions
 
 ```sh
 # screen with
 colrev-cli-prescreen
 ```
 
-Update database
+### Update database
 
 To update the pages and statistics, run
 

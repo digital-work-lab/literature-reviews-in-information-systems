@@ -1,0 +1,50 @@
+---
+title: "The pursuit of relevance and impact: A review of the immediate response of the information systems field to COVID ‐19"
+author:
+- Karanasios, Stan
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1111/ISJ.12372"
+url: ""
+journal:
+  name: "Information Systems Journal"
+cited_by: 0
+outlet: "Information Systems Journal"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{Karanasios2022,
+  colrev_pdf_id = {cpid2:ffffffe0e0ffffffffffffc7e3ffffffeeef37bfe000001fc000001fe0007fffffffffffe0fffffffffdffffe0180007eff80007e3f80007e0380007e0780007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fff80007fffffffff83ffffff6ec8407e0000007e0000007e81c0607ffffffff},
+  file       = {data/pdfs/32_4/Karanasios2022.pdf},
+  doi        = {10.1111/ISJ.12372},
+  author     = {Karanasios, Stan},
+  journal    = {Information Systems Journal},
+  title      = {The pursuit of relevance and impact: A review of the immediate response of the information systems field to COVID ‐19},
+  year       = {2022},
+  volume     = {32},
+  number     = {4},
+  pages      = {856--887}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Karanasios, Stan
+TI  - The pursuit of relevance and impact: A review of the immediate response of the information systems field to COVID ‐19
+T2  - Information Systems Journal
+PY  - 2022
+VL  - 32
+IS  - 4
+SP  - 856
+EP  - 887
+DO  - 10.1111/ISJ.12372
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1111/ISJ.12372>
