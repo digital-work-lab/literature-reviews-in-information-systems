@@ -1,0 +1,44 @@
+---
+title: "Unveiling the conceptual structures behind Corporate Digital Responsibility: a critical realist review and theory development"
+author:
+- Johnson, Christopher
+- Mueller, Benjamin
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/icis2024/lit_review/lit_review/7"
+journal:
+  name: ""
+cited_by: 0
+outlet: "International Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{JohnsonMueller2024a,
+  file       = {data/pdfs/2024/Literature Review/Unveiling the conceptual structures behind Corporate Digital Resp.pdf},
+  author     = {Johnson, Christopher and Mueller, Benjamin},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Unveiling the conceptual structures behind Corporate Digital Responsibility: a critical realist review and theory development},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/icis2024/lit_review/lit_review/7}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Johnson, Christopher
+AU  - Mueller, Benjamin
+TI  - Unveiling the conceptual structures behind Corporate Digital Responsibility: a critical realist review and theory development
+T2  - International Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/icis2024/lit_review/lit_review/7
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/icis2024/lit_review/lit_review/7>

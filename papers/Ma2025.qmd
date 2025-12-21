@@ -1,0 +1,37 @@
+---
+title: "Ecosystem Beyond a Metaphor: A Critical Literature Review and Research Agenda"
+author:
+- Ma, Yao
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "International Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{Ma2025,
+  file       = {data/pdfs/2025/Digital Innovation and Entrepreneurship/Ecosystem Beyond a Metaphor_ A Critical Literature Review and Res.pdf},
+  author     = {Ma, Yao},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Ecosystem Beyond a Metaphor: A Critical Literature Review and Research Agenda},
+  year       = {2025}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ma, Yao
+TI  - Ecosystem Beyond a Metaphor: A Critical Literature Review and Research Agenda
+T2  - International Conference on Information Systems
+PY  - 2025
+ER  - 
+```

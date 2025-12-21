@@ -1,0 +1,46 @@
+---
+title: "Fighting back the Algorithm: A Systematic Literature Review on Algoactivism"
+author:
+- Cobonpue, Julian Sean
+- Wurm, Bastian
+- Hess, Thomas
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/icis2024/lit_review/lit_review/16"
+journal:
+  name: ""
+cited_by: 0
+outlet: "International Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{CobonpueWurmHess2024a,
+  file       = {data/pdfs/2024/Literature Review/Fighting back the Algorithm_ A Systematic Literature Review on Al.pdf},
+  author     = {Cobonpue, Julian Sean and Wurm, Bastian and Hess, Thomas},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Fighting back the Algorithm: A Systematic Literature Review on Algoactivism},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/icis2024/lit_review/lit_review/16}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Cobonpue, Julian Sean
+AU  - Wurm, Bastian
+AU  - Hess, Thomas
+TI  - Fighting back the Algorithm: A Systematic Literature Review on Algoactivism
+T2  - International Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/icis2024/lit_review/lit_review/16
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/icis2024/lit_review/lit_review/16>

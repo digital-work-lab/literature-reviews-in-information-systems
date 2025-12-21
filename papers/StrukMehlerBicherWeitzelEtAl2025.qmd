@@ -1,0 +1,43 @@
+---
+title: "Pattern-Based Approaches for Mixed Reality in Business Contexts: A Structured Literature Review"
+author:
+- Struk, Stephan
+- Mehler-Bicher, Anett
+- Weitzel, Dirk
+- Rausch, Andreas
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "International Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{StrukMehlerBicherWeitzelEtAl2025,
+  file       = {data/pdfs/2025/Immersive Technologies/Pattern-Based Approaches for Mixed Reality in Business Contexts_.pdf},
+  author     = {Struk, Stephan and Mehler-Bicher, Anett and Weitzel, Dirk and Rausch, Andreas},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Pattern-Based Approaches for Mixed Reality in Business Contexts: A Structured Literature Review},
+  year       = {2025}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Struk, Stephan
+AU  - Mehler-Bicher, Anett
+AU  - Weitzel, Dirk
+AU  - Rausch, Andreas
+TI  - Pattern-Based Approaches for Mixed Reality in Business Contexts: A Structured Literature Review
+T2  - International Conference on Information Systems
+PY  - 2025
+ER  - 
+```

@@ -1,0 +1,48 @@
+---
+title: "Accessible data lineage: A scoping review on open-source data lineage platforms"
+author:
+- Hariharan, Anuja
+- Zhang, Tianren
+- Motz, Marvin
+- Weinhardt, Christof
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/icis2024/data_soc/data_soc/5"
+journal:
+  name: ""
+cited_by: 0
+outlet: "International Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HariharanZhangMotzEtAl2024a,
+  file       = {data/pdfs/2024/Data Analytics for Business and Societal Challenges/Accessible data lineage_ A scoping review on open-source data lin.pdf},
+  author     = {Hariharan, Anuja and Zhang, Tianren and Motz, Marvin and Weinhardt, Christof},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Accessible data lineage: A scoping review on open-source data lineage platforms},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/icis2024/data_soc/data_soc/5}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hariharan, Anuja
+AU  - Zhang, Tianren
+AU  - Motz, Marvin
+AU  - Weinhardt, Christof
+TI  - Accessible data lineage: A scoping review on open-source data lineage platforms
+T2  - International Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/icis2024/data_soc/data_soc/5
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/icis2024/data_soc/data_soc/5>

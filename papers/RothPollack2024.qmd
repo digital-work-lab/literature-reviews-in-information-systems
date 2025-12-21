@@ -1,0 +1,39 @@
+---
+title: "Defining Digital Organizational Culture: A Meta-Ethnographic Literature Review Literature Review"
+author:
+- Roth, Marlene Christin
+- Pollack, Thorben
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "International Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{RothPollack2024,
+  file       = {data/pdfs/2024/Literature Review/Defining Digital Organizational Culture_ A Meta-Ethnographic Lite.pdf},
+  author     = {Roth, Marlene Christin and Pollack, Thorben},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Defining Digital Organizational Culture: A Meta-Ethnographic Literature Review Literature Review},
+  year       = {2024}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Roth, Marlene Christin
+AU  - Pollack, Thorben
+TI  - Defining Digital Organizational Culture: A Meta-Ethnographic Literature Review Literature Review
+T2  - International Conference on Information Systems
+PY  - 2024
+ER  - 
+```

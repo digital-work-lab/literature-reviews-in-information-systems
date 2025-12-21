@@ -1,0 +1,41 @@
+---
+title: "Critical-Theoretic Review and Research Agenda on Digital Nomadism Literature Review"
+author:
+- Lero, Blair Wang
+- Schlagwein, Daniel
+- Cecez-Kecmanovic, Dubravka
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "International Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LeroSchlagweinCecezKecmanovic2024,
+  file       = {data/pdfs/2024/Literature Review/Critical-Theoretic Review and Research Agenda on Digital Nomadism.pdf},
+  author     = {Lero, Blair Wang and Schlagwein, Daniel and Cecez-Kecmanovic, Dubravka},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Critical-Theoretic Review and Research Agenda on Digital Nomadism Literature Review},
+  year       = {2024}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Lero, Blair Wang
+AU  - Schlagwein, Daniel
+AU  - Cecez-Kecmanovic, Dubravka
+TI  - Critical-Theoretic Review and Research Agenda on Digital Nomadism Literature Review
+T2  - International Conference on Information Systems
+PY  - 2024
+ER  - 
+```

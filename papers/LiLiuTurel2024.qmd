@@ -1,0 +1,41 @@
+---
+title: "Literature Review on Cyberbullying Victimisation"
+author:
+- Li, Qianyi
+- Liu, Libo
+- Turel, Ofir
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "International Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LiLiuTurel2024,
+  file       = {data/pdfs/2024/Literature Review/Uncovering the Ripple Effect of Cyberbullying Victimisation on So.pdf},
+  author     = {Li, Qianyi and Liu, Libo and Turel, Ofir},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Literature Review on Cyberbullying Victimisation},
+  year       = {2024}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Li, Qianyi
+AU  - Liu, Libo
+AU  - Turel, Ofir
+TI  - Literature Review on Cyberbullying Victimisation
+T2  - International Conference on Information Systems
+PY  - 2024
+ER  - 
+```

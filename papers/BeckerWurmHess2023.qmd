@@ -1,0 +1,41 @@
+---
+title: "Will Algorithms Replace Managers? A Systematic Literature Review on Algorithmic Management"
+author:
+- Becker, Luc
+- Wurm, Bastian
+- Hess, Thomas
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "International Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BeckerWurmHess2023,
+  file       = {data/pdfs/2023/techandfow/Will Algorithms Replace Managers A Sy.pdf},
+  author     = {Becker, Luc and Wurm, Bastian and Hess, Thomas},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Will Algorithms Replace Managers? A Systematic Literature Review on Algorithmic Management},
+  year       = {2023}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Becker, Luc
+AU  - Wurm, Bastian
+AU  - Hess, Thomas
+TI  - Will Algorithms Replace Managers? A Systematic Literature Review on Algorithmic Management
+T2  - International Conference on Information Systems
+PY  - 2023
+ER  - 
+```

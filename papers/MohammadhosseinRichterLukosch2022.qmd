@@ -1,0 +1,47 @@
+---
+title: "Benefits of Using Augmented Reality in Learning Settings: A Systematic Literature Review"
+author:
+- Mohammadhossein, Nastaran
+- Richter, Alexander
+- Lukosch, Stephan G.
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/icis2022/learning_iscurricula/learning_iscurricula/4"
+journal:
+  name: ""
+cited_by: 0
+outlet: "International Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MohammadhosseinRichterLukosch2022,
+  file       = {data/pdfs/2022/learning_iscurricula/Benefits Of Using Augmented Reality I.pdf},
+  author     = {Mohammadhossein, Nastaran and Richter, Alexander and Lukosch, Stephan G.},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Benefits of Using Augmented Reality in Learning Settings: A Systematic Literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/icis2022/learning_iscurricula/learning_iscurricula/4},
+  dblp_key   = {https://dblp.org/rec/conf/icis/Mohammadhossein22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Mohammadhossein, Nastaran
+AU  - Richter, Alexander
+AU  - Lukosch, Stephan G.
+TI  - Benefits of Using Augmented Reality in Learning Settings: A Systematic Literature Review
+T2  - International Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/icis2022/learning_iscurricula/learning_iscurricula/4
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/icis2022/learning_iscurricula/learning_iscurricula/4>
