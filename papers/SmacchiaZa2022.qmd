@@ -1,0 +1,45 @@
+---
+title: "Artificial Intelligence in Organisation and Managerial Studies: A Computational Literature Review"
+author:
+- Smacchia, Marco
+- Za, Stefano
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/icis2022/soc_impact_is/soc_impact_is/6"
+journal:
+  name: ""
+cited_by: 0
+outlet: "International Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SmacchiaZa2022,
+  file       = {data/pdfs/2022/soc_impact_is/Artificial Intelligence In Organisati.pdf},
+  author     = {Smacchia, Marco and Za, Stefano},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Artificial Intelligence in Organisation and Managerial Studies: A Computational Literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/icis2022/soc_impact_is/soc_impact_is/6},
+  dblp_key   = {https://dblp.org/rec/conf/icis/SmacchiaZ22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Smacchia, Marco
+AU  - Za, Stefano
+TI  - Artificial Intelligence in Organisation and Managerial Studies: A Computational Literature Review
+T2  - International Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/icis2022/soc_impact_is/soc_impact_is/6
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/icis2022/soc_impact_is/soc_impact_is/6>

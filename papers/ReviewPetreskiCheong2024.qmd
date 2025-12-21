@@ -1,0 +1,39 @@
+---
+title: "Data Cooperatives: A Conceptual Review Literature Review"
+author:
+- Petreski, Davor
+- Cheong, Marc
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "International Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ReviewPetreskiCheong2024,
+  file       = {data/pdfs/2024/Literature Review/Data Cooperatives_ A Conceptual Review.pdf},
+  author     = {Petreski, Davor and Cheong, Marc},
+  booktitle  = {International Conference on Information Systems},
+  title      = {Data Cooperatives: A Conceptual Review Literature Review},
+  year       = {2024}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Petreski, Davor
+AU  - Cheong, Marc
+TI  - Data Cooperatives: A Conceptual Review Literature Review
+T2  - International Conference on Information Systems
+PY  - 2024
+ER  - 
+```

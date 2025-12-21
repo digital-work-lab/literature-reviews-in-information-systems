@@ -1,0 +1,37 @@
+---
+title: "In the Eyes of the User: A Systematic Literature Review of User Perceptions in Human-XAI"
+author:
+- Schauer, Andreas
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "International Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{Schauer2024,
+  file       = {data/pdfs/2024/Literature Review/In the Eyes of the User_ A Systematic Literature Review of User P.pdf},
+  author     = {Schauer, Andreas},
+  booktitle  = {International Conference on Information Systems},
+  title      = {In the Eyes of the User: A Systematic Literature Review of User Perceptions in Human-XAI},
+  year       = {2024}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Schauer, Andreas
+TI  - In the Eyes of the User: A Systematic Literature Review of User Perceptions in Human-XAI
+T2  - International Conference on Information Systems
+PY  - 2024
+ER  - 
+```
