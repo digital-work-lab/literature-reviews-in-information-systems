@@ -4,7 +4,8 @@ import sys
 
 import colrev.loader.load_utils as load_utils
 from colrev.constants import RecordState
-
+import colrev.loader.load_utils
+import colrev.writer.write_utils
 
 def yaml_escape(value: str) -> str:
     """Escape double quotes for safe inclusion in YAML."""
@@ -268,6 +269,23 @@ def main(bib_filename: str, output_dir: str = "papers") -> None:
     print(f"Done. Wrote {count} records to {out_dir}")
 
 
+def convert_to_csv() -> None:
+
+    filename = Path("/home/gerit/ownCloud/data/literature_reviews/LRDatabase/literature-reviews-in-information-systems/data/records.bib")
+
+    records = colrev.loader.load_utils.load(filename=filename)
+
+    exclude = []
+    for record_dict in records.values():
+        if record_dict["colrev_status"] != RecordState.rev_synthesized:
+            exclude.append(record_dict["ID"])
+    
+    for exclude_id in exclude:
+        records.pop(exclude_id, None)
+
+    colrev.writer.write_utils.write_file(records, filename=filename.with_suffix(".csv"))
+
+
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Usage: python generate_qmd_from_bib.py records.bib [output_dir]")
@@ -276,3 +294,5 @@ if __name__ == "__main__":
     bib_file = sys.argv[1]
     out_dir = sys.argv[2] if len(sys.argv) > 2 else "papers"
     main(bib_file, out_dir)
+
+    convert_to_csv()
