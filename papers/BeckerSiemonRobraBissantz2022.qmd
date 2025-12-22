@@ -1,0 +1,55 @@
+---
+title: "Smart Participation Design: Prescriptive Knowledge for Bottom-Up Participation"
+author:
+- Becker, Felix
+- Siemon, Dominik
+- Robra-Bissantz, Susanne
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.17705/1CAIS.05121"
+url: "https://aisel.aisnet.org/cais/vol51/iss1/3"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{BeckerSiemonRobraBissantz2022,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffffffffffff000001ff3ffffcff1ffffcff1ffffffe000001fe000001fe07fffffe000003fe0ffffffe0003fffe00003fff00003fffffffffffffffffffffffffffffffffffffffffff01ffffff0001fffe03fffffe000000ff00775bff000003fe000001fffffffffffffffffffffffff},
+  file       = {data/pdfs/51/BeckerSiemonRobraBissantz2022.pdf},
+  doi        = {10.17705/1CAIS.05121},
+  author     = {Becker, Felix and Siemon, Dominik and Robra-Bissantz, Susanne},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Smart Participation Design: Prescriptive Knowledge for Bottom-Up Participation},
+  year       = {2022},
+  volume     = {51},
+  pages      = {484--508},
+  url        = {https://aisel.aisnet.org/cais/vol51/iss1/3}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Becker, Felix
+AU  - Siemon, Dominik
+AU  - Robra-Bissantz, Susanne
+TI  - Smart Participation Design: Prescriptive Knowledge for Bottom-Up Participation
+T2  - Communications of the Association for Information Systems
+PY  - 2022
+VL  - 51
+SP  - 484
+EP  - 508
+DO  - 10.17705/1CAIS.05121
+UR  - https://aisel.aisnet.org/cais/vol51/iss1/3
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.05121>
+- URL: <https://aisel.aisnet.org/cais/vol51/iss1/3>

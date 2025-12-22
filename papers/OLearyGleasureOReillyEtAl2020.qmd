@@ -1,0 +1,58 @@
+---
+title: "Reviewing the Contributing Factors and Benefits of Distributed Collaboration"
+author:
+- O'Leary, Kevin
+- Gleasure, Rob
+- O'Reilly, Philip
+- Feller, Joseph
+topic: ""
+categories: []
+date: "2020"
+doi: "https://doi.org/10.17705/1CAIS.04722"
+url: "https://aisel.aisnet.org/cais/vol47/iss1/24"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{OLearyGleasureOReillyEtAl2020,
+  colrev_pdf_id = {cpid2:fffffffffc003ffffc00003ffc60003ff1080f0fffffffffe000001ff001fffffffff9fff001800ffe0fffffff1ffbfff001800ffffffffffffe7fffe000000fe0000007e0000007e0000007e0000007e000000ff00001fff000000ff01bf6dfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff},
+  screening_criteria = {NA},
+  file       = {data/pdfs/47/OLearyGleasureOReillyEtAl2020.pdf},
+  doi        = {10.17705/1CAIS.04722},
+  author     = {O'Leary, Kevin and Gleasure, Rob and O'Reilly, Philip and Feller, Joseph},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Reviewing the Contributing Factors and Benefits of Distributed Collaboration},
+  year       = {2020},
+  volume     = {47},
+  pages      = {476--520},
+  url        = {https://aisel.aisnet.org/cais/vol47/iss1/24}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - O'Leary, Kevin
+AU  - Gleasure, Rob
+AU  - O'Reilly, Philip
+AU  - Feller, Joseph
+TI  - Reviewing the Contributing Factors and Benefits of Distributed Collaboration
+T2  - Communications of the Association for Information Systems
+PY  - 2020
+VL  - 47
+SP  - 476
+EP  - 520
+DO  - 10.17705/1CAIS.04722
+UR  - https://aisel.aisnet.org/cais/vol47/iss1/24
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.04722>
+- URL: <https://aisel.aisnet.org/cais/vol47/iss1/24>

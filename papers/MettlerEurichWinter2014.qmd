@@ -1,0 +1,50 @@
+---
+title: "On the Use of Experiments in Design Science Research: A Proposition of an Evaluation Framework"
+author:
+- Mettler, Tobias
+- Eurich, Markus
+- Winter, Robert
+topic: ""
+categories: []
+date: "2014"
+doi: "https://doi.org/10.17705/1CAIS.03410"
+url: ""
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{MettlerEurichWinter2014,
+  colrev_pdf_id = {cpid2:3fffffff1fffffff204084031f00363f1f00003f1ffffeff1ffffeff07ffffff2002021f23ffffff1fffffff1d3fffff1fffffff1dffffff1fffffff1fffffff1fffffff1fffffff1fffffff1fffffff1ffe3fff1c00000f1c00000f1c00000f1fffffff1fffffff1fffffff1fffffff1fffffff1fffffff1f9ffe7f3fffffff},
+  screening_criteria = {NA},
+  file       = {data/pdfs/34/MettlerEurichWinter2014.pdf},
+  doi        = {10.17705/1CAIS.03410},
+  author     = {Mettler, Tobias and Eurich, Markus and Winter, Robert},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {On the Use of Experiments in Design Science Research: A Proposition of an Evaluation Framework},
+  year       = {2014},
+  volume     = {34}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Mettler, Tobias
+AU  - Eurich, Markus
+AU  - Winter, Robert
+TI  - On the Use of Experiments in Design Science Research: A Proposition of an Evaluation Framework
+T2  - Communications of the Association for Information Systems
+PY  - 2014
+VL  - 34
+DO  - 10.17705/1CAIS.03410
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.03410>

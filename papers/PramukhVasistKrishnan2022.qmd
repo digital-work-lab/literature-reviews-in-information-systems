@@ -1,0 +1,47 @@
+---
+title: "Deepfakes: An integrative review of the literature and an agenda for furture research"
+author:
+- Pramukh, Nanjundaswamy
+- Vasist
+- Krishnan, Satish
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: ""
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{PramukhVasistKrishnan2022,
+  colrev_pdf_id = {cpid2:fffffffffc003ffffc00003ffc60003ff008090fffffffffe000000ff0007ffff803e07ff803c01fff1ff9fff000000fe0000007e0000007e0000007e0000007e000000fe00003fff000000ff01216dffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffb9f7effffffffff},
+  file       = {data/pdfs/51/PramukhVasistKrishnan2022.pdf},
+  author     = {Pramukh, Nanjundaswamy and Vasist and Krishnan, Satish},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Deepfakes: An integrative review of the literature and an agenda for furture research},
+  year       = {2022},
+  volume     = {51},
+  pages      = {590--636}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Pramukh, Nanjundaswamy
+AU  - Vasist
+AU  - Krishnan, Satish
+TI  - Deepfakes: An integrative review of the literature and an agenda for furture research
+T2  - Communications of the Association for Information Systems
+PY  - 2022
+VL  - 51
+SP  - 590
+EP  - 636
+ER  - 
+```

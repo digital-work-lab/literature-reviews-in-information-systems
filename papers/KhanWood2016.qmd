@@ -1,0 +1,54 @@
+---
+title: "Knowledge Networks of the Information Technology Management Domain - A Social Network Analysis Approach"
+author:
+- Khan, Gohar Feroz
+- Wood, Jacob
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.17705/1CAIS.03918"
+url: "https://aisel.aisnet.org/cais/vol39/iss1/18"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 7
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{KhanWood2016,
+  colrev_pdf_id = {cpid2:fffffffffc003ffffc00003ffc60003ff008210fe000001fe000003ff0fffffff801e07ff801e03ffe0ff07ffffffffff000000fe0000007e0000007e0000007e000842fe000000ff000000ff00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff99f3e6fffffffff},
+  screening_criteria = {NA},
+  file       = {data/pdfs/39/KhanWood2016.pdf},
+  doi        = {10.17705/1CAIS.03918},
+  author     = {Khan, Gohar Feroz and Wood, Jacob},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Knowledge Networks of the Information Technology Management Domain - A Social Network Analysis Approach},
+  year       = {2016},
+  volume     = {39},
+  pages      = {367--397},
+  url        = {https://aisel.aisnet.org/cais/vol39/iss1/18}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Khan, Gohar Feroz
+AU  - Wood, Jacob
+TI  - Knowledge Networks of the Information Technology Management Domain - A Social Network Analysis Approach
+T2  - Communications of the Association for Information Systems
+PY  - 2016
+VL  - 39
+SP  - 367
+EP  - 397
+DO  - 10.17705/1CAIS.03918
+UR  - https://aisel.aisnet.org/cais/vol39/iss1/18
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.03918>
+- URL: <https://aisel.aisnet.org/cais/vol39/iss1/18>

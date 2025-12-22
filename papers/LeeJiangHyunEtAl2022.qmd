@@ -1,0 +1,57 @@
+---
+title: "The Role of Information Technologies in Crises: A Review and Conceptual Development of IT-Enabled Agile Crisis Management"
+author:
+- Lee, One-Ki Daniel
+- Jiang, Shan
+- Hyun, Youyung
+- Jeong, Hyein
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.17705/1CAIS.05038"
+url: "https://aisel.aisnet.org/cais/vol50/iss1/32"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{LeeJiangHyunEtAl2022,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffffffffffff000003ff3ffffcff1ffffcff3fffffff000001fe000000ff006081fe0007fffe000007ff000007ff0001fffe000007ff000007ffffffffffffffffffffffffffffffffff67ffffff0001ffff03fffffe000000ff00000fff24a003fe000001fffffffffffffffffffffffff},
+  file       = {data/pdfs/50/LeeJiangHyunEtAl2022.pdf},
+  doi        = {10.17705/1CAIS.05038},
+  author     = {Lee, One-Ki Daniel and Jiang, Shan and Hyun, Youyung and Jeong, Hyein},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {The Role of Information Technologies in Crises: A Review and Conceptual Development of IT-Enabled Agile Crisis Management},
+  year       = {2022},
+  volume     = {50},
+  pages      = {857--890},
+  url        = {https://aisel.aisnet.org/cais/vol50/iss1/32}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Lee, One-Ki Daniel
+AU  - Jiang, Shan
+AU  - Hyun, Youyung
+AU  - Jeong, Hyein
+TI  - The Role of Information Technologies in Crises: A Review and Conceptual Development of IT-Enabled Agile Crisis Management
+T2  - Communications of the Association for Information Systems
+PY  - 2022
+VL  - 50
+SP  - 857
+EP  - 890
+DO  - 10.17705/1CAIS.05038
+UR  - https://aisel.aisnet.org/cais/vol50/iss1/32
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.05038>
+- URL: <https://aisel.aisnet.org/cais/vol50/iss1/32>

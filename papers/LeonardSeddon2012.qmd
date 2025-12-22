@@ -1,0 +1,51 @@
+---
+title: "A Meta-model of Alignment"
+author:
+- Leonard, Jenny
+- Seddon, Peter B.
+topic: ""
+categories: []
+date: "2012"
+doi: "https://doi.org/10.17705/1CAIS.03111"
+url: "https://aisel.aisnet.org/cais/vol31/iss1/11"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 4
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{LeonardSeddon2012,
+  colrev_pdf_id = {cpid2:3fffffff3fffffff27fbcce73800a4033f00103f3ffffeff3ffffeff07ffffff2403ffff27ffffff1fffffff3f3fffff3fffffff3effffff3fffffff3fffffff3fffffff3fffffff3fffffff3fffffff3ffe3fff3c00000f3c00000f3c00000f3c00000f3c1fffff3fffffff3fffffff3fffffff3fffffff3f9fff7f3fffffff},
+  screening_criteria = {NA},
+  file       = {data/pdfs/31/LeonardSeddon2012.pdf},
+  doi        = {10.17705/1CAIS.03111},
+  author     = {Leonard, Jenny and Seddon, Peter B.},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {A Meta-model of Alignment},
+  year       = {2012},
+  volume     = {31},
+  url        = {https://aisel.aisnet.org/cais/vol31/iss1/11}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Leonard, Jenny
+AU  - Seddon, Peter B.
+TI  - A Meta-model of Alignment
+T2  - Communications of the Association for Information Systems
+PY  - 2012
+VL  - 31
+DO  - 10.17705/1CAIS.03111
+UR  - https://aisel.aisnet.org/cais/vol31/iss1/11
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.03111>
+- URL: <https://aisel.aisnet.org/cais/vol31/iss1/11>

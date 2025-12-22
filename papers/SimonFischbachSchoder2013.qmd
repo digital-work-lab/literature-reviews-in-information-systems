@@ -1,0 +1,55 @@
+---
+title: "An Exploration of Enterprise Architecture Research"
+author:
+- Simon, Daniel
+- Fischbach, Kai
+- Schoder, Detlef
+topic: ""
+categories: []
+date: "2013"
+doi: "https://doi.org/10.17705/1CAIS.03201"
+url: "https://aisel.aisnet.org/cais/vol32/iss1/1"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 41
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{SimonFischbachSchoder2013,
+  colrev_pdf_id = {cpid2:3fffffff1fffffff2040c4031f00363f1f00103f1ffffeff1ffffeff07ffffff222007ff27ffffff1cffffff1fffffff1fffffff1fefffff1fffffff1dffffff1fffffff1fffffff1fffffff1fffffff1ffe3fff1c00000f1c00000f1c00000f1c00000f1c8809ff1fffffff1fffffff1fffffff1fffffff1f9fff7f3fffffff},
+  file       = {data/pdfs/32/SimonFischbachSchoder2013.pdf},
+  doi        = {10.17705/1CAIS.03201},
+  author     = {Simon, Daniel and Fischbach, Kai and Schoder, Detlef},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {An Exploration of Enterprise Architecture Research},
+  year       = {2013},
+  volume     = {32},
+  pages      = {1--72},
+  url        = {https://aisel.aisnet.org/cais/vol32/iss1/1}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Simon, Daniel
+AU  - Fischbach, Kai
+AU  - Schoder, Detlef
+TI  - An Exploration of Enterprise Architecture Research
+T2  - Communications of the Association for Information Systems
+PY  - 2013
+VL  - 32
+SP  - 1
+EP  - 72
+DO  - 10.17705/1CAIS.03201
+UR  - https://aisel.aisnet.org/cais/vol32/iss1/1
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.03201>
+- URL: <https://aisel.aisnet.org/cais/vol32/iss1/1>

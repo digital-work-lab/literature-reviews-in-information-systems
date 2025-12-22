@@ -1,0 +1,54 @@
+---
+title: "Relevant Research Areas in IT Service Management - An Examination of Academic and Practitioner Literatures"
+author:
+- Marrone, Mauricio
+- Hammerle, Mara
+topic: ""
+categories: []
+date: "2017"
+doi: "https://doi.org/10.17705/1CAIS.04123"
+url: "https://aisel.aisnet.org/cais/vol41/iss1/23"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 12
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{MarroneHammerle2017,
+  colrev_pdf_id = {cpid2:fffffffffc003ffffc00003ffc60003ff008210fe000001fe00000fff0ffffffff1ff0fff001f07ffc07f07ffffffffffffe7fffe0000007e0000007e0000007e0000007e000000fe000001ff000000ff01ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffb9ffeffffffffff},
+  screening_criteria = {NA},
+  file       = {data/pdfs/41/MarroneHammerle2017.pdf},
+  doi        = {10.17705/1CAIS.04123},
+  author     = {Marrone, Mauricio and Hammerle, Mara},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Relevant Research Areas in IT Service Management - An Examination of Academic and Practitioner Literatures},
+  year       = {2017},
+  volume     = {41},
+  pages      = {517--543},
+  url        = {https://aisel.aisnet.org/cais/vol41/iss1/23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Marrone, Mauricio
+AU  - Hammerle, Mara
+TI  - Relevant Research Areas in IT Service Management - An Examination of Academic and Practitioner Literatures
+T2  - Communications of the Association for Information Systems
+PY  - 2017
+VL  - 41
+SP  - 517
+EP  - 543
+DO  - 10.17705/1CAIS.04123
+UR  - https://aisel.aisnet.org/cais/vol41/iss1/23
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.04123>
+- URL: <https://aisel.aisnet.org/cais/vol41/iss1/23>

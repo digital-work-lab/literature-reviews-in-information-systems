@@ -1,0 +1,55 @@
+---
+title: "Ethics and AI in Information Systems Research"
+author:
+- Mirbabaie, Milad
+- Benedikt Brendel, Alfred
+- Hofeditz, Lennart
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.17705/1CAIS.05034"
+url: "https://aisel.aisnet.org/cais/vol50/iss1/38"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{MirbabaieBenediktBrendelHofeditz2022,
+  colrev_pdf_id = {cpid2:fffffffffc003ffffc00003ffc60003ff1080d0ffffffffff000007ffffc3fffffc00bfffc07f07ff801800ffffe7ffff000000fe0000007e0000007e0000007e0000007e00004fff000007ff000040ff00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffb9f7fffffffffff},
+  file       = {data/pdfs/50/MirbabaieBenediktBrendelHofeditz2022.pdf},
+  doi        = {10.17705/1CAIS.05034},
+  author     = {Mirbabaie, Milad and Benedikt Brendel, Alfred and Hofeditz, Lennart},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Ethics and AI in Information Systems Research},
+  year       = {2022},
+  volume     = {50},
+  pages      = {726--753},
+  url        = {https://aisel.aisnet.org/cais/vol50/iss1/38}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Mirbabaie, Milad
+AU  - Benedikt Brendel, Alfred
+AU  - Hofeditz, Lennart
+TI  - Ethics and AI in Information Systems Research
+T2  - Communications of the Association for Information Systems
+PY  - 2022
+VL  - 50
+SP  - 726
+EP  - 753
+DO  - 10.17705/1CAIS.05034
+UR  - https://aisel.aisnet.org/cais/vol50/iss1/38
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.05034>
+- URL: <https://aisel.aisnet.org/cais/vol50/iss1/38>

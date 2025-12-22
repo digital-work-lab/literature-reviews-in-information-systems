@@ -1,0 +1,54 @@
+---
+title: "Conceptualizing Workarounds - Meanings and Manifestations in Information Systems Research"
+author:
+- Ejnefjäll, Thomas
+- Ågerfalk, Pär J.
+topic: ""
+categories: []
+date: "2019"
+doi: "https://doi.org/10.17705/1CAIS.04520"
+url: "https://aisel.aisnet.org/cais/vol45/iss1/20"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{EjnefjallAgerfalk2019,
+  colrev_pdf_id = {cpid2:fffffffffc003ffffc00003ffc60003ff008010fffffffffe000007ff000007fffdffcfffe0ff07ffe0ffffffffe7fffe000000fe0000007e0000007e0000007e000000ff0000ffff000000ff00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbfffeffffffffff},
+  screening_criteria = {NA},
+  file       = {data/pdfs/45/EjnefjallAgerfalk2019.pdf},
+  doi        = {10.17705/1CAIS.04520},
+  author     = {Ejnefjäll, Thomas and Ågerfalk, Pär J.},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Conceptualizing Workarounds - Meanings and Manifestations in Information Systems Research},
+  year       = {2019},
+  volume     = {45},
+  pages      = {340--363},
+  url        = {https://aisel.aisnet.org/cais/vol45/iss1/20}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Ejnefjäll, Thomas
+AU  - Ågerfalk, Pär J.
+TI  - Conceptualizing Workarounds - Meanings and Manifestations in Information Systems Research
+T2  - Communications of the Association for Information Systems
+PY  - 2019
+VL  - 45
+SP  - 340
+EP  - 363
+DO  - 10.17705/1CAIS.04520
+UR  - https://aisel.aisnet.org/cais/vol45/iss1/20
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.04520>
+- URL: <https://aisel.aisnet.org/cais/vol45/iss1/20>

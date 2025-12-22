@@ -1,0 +1,53 @@
+---
+title: "The Concept of Creativity in the Information Systems Discipline - Past, Present, and Prospects"
+author:
+- Seidel, Stefan
+- Müller-Wienbergen, Felix
+- Becker, Jörg
+topic: ""
+categories: []
+date: "2010"
+doi: "https://doi.org/10.17705/1CAIS.02714"
+url: "https://aisel.aisnet.org/cais/vol27/iss1/14"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 15
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{SeidelMullerWienbergenBecker2010,
+  colrev_pdf_id = {cpid2:3fffffff1fffffff2040c4031f00363f1f00103f1ffffeff1ffffeff07ffffff2002005723ffffff1fffffff1f3fffff1fffffff1fbfffff1fffffff1effffff1fffffff1fffffff1fffffff1fffffff1fff3fff1c00000f1c00000f1c00000f1c00000f1c9fffff1fffffff1fffffff1fffffff1fffffff1f9ffe7f3fffffff},
+  screening_criteria = {NA},
+  file       = {data/pdfs/27/SeidelMullerWienbergenBecker2010.pdf},
+  doi        = {10.17705/1CAIS.02714},
+  author     = {Seidel, Stefan and Müller-Wienbergen, Felix and Becker, Jörg},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {The Concept of Creativity in the Information Systems Discipline - Past, Present, and Prospects},
+  year       = {2010},
+  volume     = {27},
+  url        = {https://aisel.aisnet.org/cais/vol27/iss1/14}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Seidel, Stefan
+AU  - Müller-Wienbergen, Felix
+AU  - Becker, Jörg
+TI  - The Concept of Creativity in the Information Systems Discipline - Past, Present, and Prospects
+T2  - Communications of the Association for Information Systems
+PY  - 2010
+VL  - 27
+DO  - 10.17705/1CAIS.02714
+UR  - https://aisel.aisnet.org/cais/vol27/iss1/14
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.02714>
+- URL: <https://aisel.aisnet.org/cais/vol27/iss1/14>

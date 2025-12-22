@@ -1,0 +1,54 @@
+---
+title: "Reviewing the Role of Culture in Strategic Information Systems Research - A Call for Prescriptive Theorizing on Culture Management"
+author:
+- Kummer, Tyge-F.
+- Schmiedel, Theresa
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.17705/1CAIS.03805"
+url: "https://aisel.aisnet.org/cais/vol38/iss1/5"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 6
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{KummerSchmiedel2016,
+  colrev_pdf_id = {cpid2:fffffffffc003ffffc00043ffc60003ff108ad0fe000000fe000001ff001fffffffff4fff001800ffe0ffffffffc7fffe0000007e000000fe0000007e0000007e0000007f3d677fff00000fff00ffffff000035ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffff},
+  screening_criteria = {NA},
+  file       = {data/pdfs/38/KummerSchmiedel2016.pdf},
+  doi        = {10.17705/1CAIS.03805},
+  author     = {Kummer, Tyge-F. and Schmiedel, Theresa},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Reviewing the Role of Culture in Strategic Information Systems Research - A Call for Prescriptive Theorizing on Culture Management},
+  year       = {2016},
+  volume     = {38},
+  pages      = {122--144},
+  url        = {https://aisel.aisnet.org/cais/vol38/iss1/5}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Kummer, Tyge-F.
+AU  - Schmiedel, Theresa
+TI  - Reviewing the Role of Culture in Strategic Information Systems Research - A Call for Prescriptive Theorizing on Culture Management
+T2  - Communications of the Association for Information Systems
+PY  - 2016
+VL  - 38
+SP  - 122
+EP  - 144
+DO  - 10.17705/1CAIS.03805
+UR  - https://aisel.aisnet.org/cais/vol38/iss1/5
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.03805>
+- URL: <https://aisel.aisnet.org/cais/vol38/iss1/5>

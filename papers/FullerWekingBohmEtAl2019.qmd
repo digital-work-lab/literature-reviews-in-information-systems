@@ -1,0 +1,58 @@
+---
+title: "Leveraging Customer-integration Experience - A Review of Influencing Factors and Implications"
+author:
+- Füller, Kathrin
+- Weking, Jörg
+- Böhm, Markus
+- Krcmar, Helmut
+topic: ""
+categories: []
+date: "2019"
+doi: "https://doi.org/10.17705/1CAIS.04404"
+url: "https://aisel.aisnet.org/cais/vol44/iss1/4"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{FullerWekingBohmEtAl2019,
+  colrev_pdf_id = {cpid2:fffffffffc003ffffc00003ffc60003ff008010fffffffffe000007fe000007ffffffffffc07e07ffc07e07fff1ffffffc07e03ffc07e07ffffffffff000000fe0000007e0000007e0000007e0000007f000afcfe000000ff000000ff03fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff},
+  screening_criteria = {NA},
+  file       = {data/pdfs/44/FullerWekingBohmEtAl2019.pdf},
+  doi        = {10.17705/1CAIS.04404},
+  author     = {Füller, Kathrin and Weking, Jörg and Böhm, Markus and Krcmar, Helmut},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Leveraging Customer-integration Experience - A Review of Influencing Factors and Implications},
+  year       = {2019},
+  volume     = {44},
+  pages      = {81--128},
+  url        = {https://aisel.aisnet.org/cais/vol44/iss1/4}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Füller, Kathrin
+AU  - Weking, Jörg
+AU  - Böhm, Markus
+AU  - Krcmar, Helmut
+TI  - Leveraging Customer-integration Experience - A Review of Influencing Factors and Implications
+T2  - Communications of the Association for Information Systems
+PY  - 2019
+VL  - 44
+SP  - 81
+EP  - 128
+DO  - 10.17705/1CAIS.04404
+UR  - https://aisel.aisnet.org/cais/vol44/iss1/4
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.04404>
+- URL: <https://aisel.aisnet.org/cais/vol44/iss1/4>

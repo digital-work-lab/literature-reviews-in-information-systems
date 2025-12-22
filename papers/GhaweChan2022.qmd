@@ -1,0 +1,53 @@
+---
+title: "Implementing Disruptive Technologies: What Have We Learned?"
+author:
+- Ghawe, A. S
+- Chan, Yolande E
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.17705/1CAIS.05030"
+url: "https://aisel.aisnet.org/cais/vol50/iss1/36"
+journal:
+  name: "Communications of the Association for Information Systems"
+cited_by: 0
+outlet: "Communications of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{GhaweChan2022,
+  colrev_pdf_id = {cpid2:ffffffffffffffffffffffffffffffffffffffffe000001ff1ffffcff1ffff8ff3ffffffe000000fe000001fe000ffffe003fffff003fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00ffffff0001fffe03fffffe000003ff1c80ffff000003fe000001ff4f5ffffffffffffffffffff},
+  file       = {data/pdfs/50/GhaweChan2022.pdf},
+  doi        = {10.17705/1CAIS.05030},
+  author     = {Ghawe, A. S and Chan, Yolande E},
+  journal    = {Communications of the Association for Information Systems},
+  title      = {Implementing Disruptive Technologies: What Have We Learned?},
+  year       = {2022},
+  volume     = {50},
+  pages      = {646--689},
+  url        = {https://aisel.aisnet.org/cais/vol50/iss1/36}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Ghawe, A. S
+AU  - Chan, Yolande E
+TI  - Implementing Disruptive Technologies: What Have We Learned?
+T2  - Communications of the Association for Information Systems
+PY  - 2022
+VL  - 50
+SP  - 646
+EP  - 689
+DO  - 10.17705/1CAIS.05030
+UR  - https://aisel.aisnet.org/cais/vol50/iss1/36
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1CAIS.05030>
+- URL: <https://aisel.aisnet.org/cais/vol50/iss1/36>
