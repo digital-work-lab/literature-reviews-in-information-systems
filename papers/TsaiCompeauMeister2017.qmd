@@ -1,0 +1,55 @@
+---
+title: "Voluntary use of information technology - an analysis and synthesis of the literature"
+author:
+- Tsai, Hsingyi Phoebe
+- Compeau, Deborah
+- Meister, Darren B.
+topic: ""
+categories: []
+date: "2017"
+doi: "https://doi.org/10.1057/JIT.2016.6"
+url: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+outlet: "Journal of Information Technology"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{TsaiCompeauMeister2017,
+  colrev_pdf_id = {cpid2:ffffffffffe01ffbffffffffc0901013c0000017c000003fc000ffffc0001fffc0601fffe00007ffcfffffffc00001ffc00001ffc00001ffc00001ffc00001ffc00001ffc00001ffc7ffffffffffffffc7ffffffc0018003c0010003c0018003c0008003c0010003c0010007c0008003c0008003c0010003ffffffffffffffff},
+  file       = {data/pdfs/32_2/TsaiCompeauMeister2017.pdf},
+  doi        = {10.1057/JIT.2016.6},
+  author     = {Tsai, Hsingyi Phoebe and Compeau, Deborah and Meister, Darren B.},
+  journal    = {Journal of Information Technology},
+  title      = {Voluntary use of information technology - an analysis and synthesis of the literature},
+  year       = {2017},
+  volume     = {32},
+  number     = {2},
+  pages      = {147--162},
+  abstract   = {Voluntariness is recognized as an important influence on individual and collective technology acceptance. We conducted a comprehensive review of this literature and identified a rich set of voluntariness concepts and methods of operationalization. However, while considerable empirical evidence is reported in the literature, our review also revealed inconsistent results concerning the relationship between voluntariness and other concepts. Against that backdrop, we synthesized the literature into three types of voluntariness - perceived, intended and realizable voluntariness (RVOL), and showed how prior literature had not adequately accounted for RVOL. Moreover, we examined the multiple mechanisms that influence voluntariness and created a model to describe how to advance new knowledge about the important relationships among the three types of voluntariness and between voluntariness and user behavior. We argue that these concepts and relationships may help advance our knowledge of how a new technology is used individually and collectively in organizations.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Tsai, Hsingyi Phoebe
+AU  - Compeau, Deborah
+AU  - Meister, Darren B.
+TI  - Voluntary use of information technology - an analysis and synthesis of the literature
+T2  - Journal of Information Technology
+PY  - 2017
+VL  - 32
+IS  - 2
+SP  - 147
+EP  - 162
+DO  - 10.1057/JIT.2016.6
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1057/JIT.2016.6>

@@ -1,0 +1,53 @@
+---
+title: "Aligning in practice - from current cases to a new agenda"
+author:
+- Karpovsky, Anna
+- Galliers, Robert D.
+topic: ""
+categories: []
+date: "2015"
+doi: "https://doi.org/10.1057/JIT.2014.34"
+url: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+outlet: "Journal of Information Technology"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{KarpovskyGalliers2015,
+  colrev_pdf_id = {cpid2:ffffffffffe01ffbffffffffc0000003c002621fc03fffffc00fffffc0ffffffc0001fffc0ffffffffffffffcfffffffc00001ffc00001ffc00001ffc00001ffc00001ffc00001ffc0001fffc7ffffffc4a98007c0010003c0010003c0010003c0010003c0000003c0000003c0010003c0018007c0010003ffffffffffffffff},
+  file       = {data/pdfs/30_2/KarpovskyGalliers2015.pdf},
+  doi        = {10.1057/JIT.2014.34},
+  author     = {Karpovsky, Anna and Galliers, Robert D.},
+  journal    = {Journal of Information Technology},
+  title      = {Aligning in practice - from current cases to a new agenda},
+  year       = {2015},
+  volume     = {30},
+  number     = {2},
+  pages      = {136--160},
+  abstract   = {Although there is extensive literature on IT/IS-business alignment, we argue that the topic's current research trajectory is limited given the concept's predominantly static focus to date. While the process perspective on alignment is a promising avenue to study the phenomenon's dynamic nature, we still know little about what it is that organizational actors actually do, on a day-to-day basis, to align IS and related concerns with business imperatives. In order to address this lack of understanding regarding the practices of aligning, we argue for research that goes beyond abstract macro analysis of alignment processes to that which considers the actual micro practices of aligning. An analysis of the extant literature on the topic leads to the identification and classification of aligning activities that are being undertaken in practice. We argue that this review and critical appraisal of the IT/business alignment field has the potential for substantive and insightful contributions to our understanding of alignment as it is enacted – in practice. Arising from the review, we discuss important new research themes that are to be addressed if research on alignment is to be demonstrably relevant.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Karpovsky, Anna
+AU  - Galliers, Robert D.
+TI  - Aligning in practice - from current cases to a new agenda
+T2  - Journal of Information Technology
+PY  - 2015
+VL  - 30
+IS  - 2
+SP  - 136
+EP  - 160
+DO  - 10.1057/JIT.2014.34
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1057/JIT.2014.34>

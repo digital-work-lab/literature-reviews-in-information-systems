@@ -1,0 +1,52 @@
+---
+title: "Engaging scientometrics in information systems"
+author:
+- Hassan, Nik Rushdi
+- Loebbecke, Claudia
+topic: ""
+categories: []
+date: "2017"
+doi: "https://doi.org/10.1057/JIT.2015.29"
+url: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+outlet: "Journal of Information Technology"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{HassanLoebbecke2017,
+  colrev_pdf_id = {cpid2:ffffffffffe00ffbffffffffc000001fc000103fc0ffffffc00fffffc000bfffc00001ffc1ffffffc1ffffffcfffffffc00001ffc00001ffc00001ffc00001ffc00001ffc00001ffc00000ffc04101ffffffffffe781ffffffffffffc7ffffffc0000003c0000003c00001ffc0008003c0008003c0008003ffffffffffffffff},
+  file       = {data/pdfs/32_1/HassanLoebbecke2017.pdf},
+  doi        = {10.1057/JIT.2015.29},
+  author     = {Hassan, Nik Rushdi and Loebbecke, Claudia},
+  journal    = {Journal of Information Technology},
+  title      = {Engaging scientometrics in information systems},
+  year       = {2017},
+  volume     = {32},
+  number     = {1},
+  pages      = {85--109}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Hassan, Nik Rushdi
+AU  - Loebbecke, Claudia
+TI  - Engaging scientometrics in information systems
+T2  - Journal of Information Technology
+PY  - 2017
+VL  - 32
+IS  - 1
+SP  - 85
+EP  - 109
+DO  - 10.1057/JIT.2015.29
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1057/JIT.2015.29>

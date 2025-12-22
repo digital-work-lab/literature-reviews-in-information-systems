@@ -1,0 +1,55 @@
+---
+title: "A review of information system integration in mergers and acquisitions"
+author:
+- Henningsson, Stefan
+- Yetton, Philip
+- Wynne, Peter J.
+topic: ""
+categories: []
+date: "2018"
+doi: "https://doi.org/10.1057/S41265-017-0051-9"
+url: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+outlet: "Journal of Information Technology"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{HenningssonYettonWynne2018,
+  colrev_pdf_id = {cpid2:ffffffffffe00fffffffffffc10043ffc000001fc020001fc0013fffc0001fffc00001ffc3ffffffffffffffc24121ffc00001ffc00001ffc00001ffc00001ffc00001ffc00007ffc0000fffffffffffc7ffffffc0008003c0000003c0010003c0010047e0018003c0000003c0018003c0010003c0010003ffffffffffffffff},
+  file       = {data/pdfs/33_4/HenningssonYettonWynne2018.pdf},
+  doi        = {10.1057/S41265-017-0051-9},
+  author     = {Henningsson, Stefan and Yetton, Philip and Wynne, Peter J.},
+  journal    = {Journal of Information Technology},
+  title      = {A review of information system integration in mergers and acquisitions},
+  year       = {2018},
+  volume     = {33},
+  number     = {4},
+  pages      = {255--303},
+  abstract   = {For three decades, research has investigated the role of information systems integration (ISI) in mergers and acquisitions (M&As). This research has improved our understanding of the M&A IS challenges and their solutions. However, consolidation and integration across the research is limited. To redress this omission, we review 70 articles published between 1989 and 2016. To do this, we adopt and extend the methodology developed by Lacity and her colleagues to review the empirical evidence in a fragmented IT literature. We code 53 dependent variables and 195 independent variables to identify the robust relationships among them and to model how ISI decisions, including the choice of IS integration methods, partially mediate the effects of the independent variables on ISI outcomes. Examining the relationships in this model, we identify five quasi-independent thematic domains on which we draw to develop an agenda for future research. Our contribution is the aggregation, organization and structuring of the empirical findings in the M&A ISI literature as a basis on which to develop a cumulative knowledge process.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Henningsson, Stefan
+AU  - Yetton, Philip
+AU  - Wynne, Peter J.
+TI  - A review of information system integration in mergers and acquisitions
+T2  - Journal of Information Technology
+PY  - 2018
+VL  - 33
+IS  - 4
+SP  - 255
+EP  - 303
+DO  - 10.1057/S41265-017-0051-9
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1057/S41265-017-0051-9>

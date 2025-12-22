@@ -1,0 +1,49 @@
+---
+title: "Data science in organizations: Conceptualizing its breakthroughs and blind spots"
+author:
+- Cybulski, Jacob L
+- Scheepers, Rens
+topic: ""
+categories: []
+date: "2021"
+doi: "https://doi.org/10.1177/0268396220988539"
+url: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+outlet: "Journal of Information Technology"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{CybulskiScheepers2021,
+  file       = {data/pdfs/36_2/CybulskiScheepers2021.pdf},
+  doi        = {10.1177/0268396220988539},
+  author     = {Cybulski, Jacob L and Scheepers, Rens},
+  journal    = {Journal of Information Technology},
+  title      = {Data science in organizations: Conceptualizing its breakthroughs and blind spots},
+  year       = {2021},
+  volume     = {36},
+  number     = {2},
+  abstract   = {The field of data science emerged in recent years, building on advances in computational statistics, machine learning, artificial intelligence, and big data. Modern organizations are immersed in data and are turning toward data science to address a variety of business problems. While numerous complex problems in science have become solvable through data science, not all scientific solutions are equally applicable to business. Many data-intensive business problems are situated in complex socio-political and behavioral contexts that still elude commonly used scientific methods. To what extent can such problems be addressed through data science? Does data science have any inherent blind spots in this regard? What types of business problems are likely to be addressed by data science in the near future, which will not, and why? We develop a conceptual framework to inform the application of data science in business. The framework draws on an extensive review of data science literature across four domains: data, method, interfaces, and cognition. We draw on Ashby’s Law of Requisite Variety as theoretical principle. We conclude that data-scientific advances across the four domains, in aggregate, could constitute requisite variety for particular types of business problems. This explains why such problems can be fully or only partially addressed, solved, or automated through data science. We distinguish between situations that can be improved due to cross-domain compensatory effects, and problems where data science, at best, only contributes merely to better understanding of complex phenomena.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Cybulski, Jacob L
+AU  - Scheepers, Rens
+TI  - Data science in organizations: Conceptualizing its breakthroughs and blind spots
+T2  - Journal of Information Technology
+PY  - 2021
+VL  - 36
+IS  - 2
+DO  - 10.1177/0268396220988539
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1177/0268396220988539>

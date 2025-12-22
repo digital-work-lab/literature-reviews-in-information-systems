@@ -1,0 +1,51 @@
+---
+title: "Interoperability in the era of digital innovation: An information systems research agenda"
+author:
+- Hodapp, Daniel
+- Hanelt, Andr É
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1177/02683962211064304"
+url: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+outlet: "Journal of Information Technology"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{HodappHanelt2022b,
+  file       = {data/pdfs/37_4/02683962211064304.pdf},
+  doi        = {10.1177/02683962211064304},
+  author     = {Hodapp, Daniel and Hanelt, Andr É},
+  journal    = {Journal of Information Technology},
+  title      = {Interoperability in the era of digital innovation: An information systems research agenda},
+  year       = {2022},
+  volume     = {37},
+  number     = {4},
+  pages      = {407--427}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Hodapp, Daniel
+AU  - Hanelt, Andr É
+TI  - Interoperability in the era of digital innovation: An information systems research agenda
+T2  - Journal of Information Technology
+PY  - 2022
+VL  - 37
+IS  - 4
+SP  - 407
+EP  - 427
+DO  - 10.1177/02683962211064304
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1177/02683962211064304>

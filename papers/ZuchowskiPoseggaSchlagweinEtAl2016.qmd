@@ -1,0 +1,57 @@
+---
+title: "Internal crowdsourcing - conceptual framework, structured review, and research agenda"
+author:
+- Zuchowski, Oliver
+- Posegga, Oliver
+- Schlagwein, Daniel
+- Fischbach, Kai
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1057/JIT.2016.14"
+url: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+outlet: "Journal of Information Technology"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{ZuchowskiPoseggaSchlagweinEtAl2016,
+  colrev_pdf_id = {cpid2:ffffffffdff00fffffffffffc000407fc000007fc00004ffc007ffffc00003ffc03fffffc31dffffc07dffffffffffffcfffffffc00001ffc00001ffc00001ffc00001ffc00001ffc0105fffc00003ffc000ffffffffffffc7ffffffc0018003c0010003c0010007c0018003c0010003c0010003c0000003ffffffffffffffff},
+  file       = {data/pdfs/31_2/ZuchowskiPoseggaSchlagweinEtAl2016.pdf},
+  doi        = {10.1057/JIT.2016.14},
+  author     = {Zuchowski, Oliver and Posegga, Oliver and Schlagwein, Daniel and Fischbach, Kai},
+  journal    = {Journal of Information Technology},
+  title      = {Internal crowdsourcing - conceptual framework, structured review, and research agenda},
+  year       = {2016},
+  volume     = {31},
+  number     = {2},
+  pages      = {166--184},
+  abstract   = {The use of IT-enabled crowdsourcing with employees in enterprises has increased substantially in recent years. This phenomenon, which we refer to as ‘internal crowdsourcing’, is distinct both from external crowdsourcing with end users and from hierarchy-based work with employees. A literature stream has emerged that corresponds with the increased relevance of internal crowdsourcing in practice. The purpose of this review paper of internal crowdsourcing is to provide conceptual development, synthesise the literature, and provide a research agenda. In the review reported in this paper, we systematically analysed and critically reviewed the literature in this domain published thus far (74 papers). We found useful findings and insights into a new and relevant IT-enabled phenomenon. At the same time, we also found conflicting definitions and conceptualisation, as well as research efforts that are not well integrated. The paper supports future research on internal crowdsourcing by providing improved conceptualisation, consolidating insights, and identifying important areas for future research.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Zuchowski, Oliver
+AU  - Posegga, Oliver
+AU  - Schlagwein, Daniel
+AU  - Fischbach, Kai
+TI  - Internal crowdsourcing - conceptual framework, structured review, and research agenda
+T2  - Journal of Information Technology
+PY  - 2016
+VL  - 31
+IS  - 2
+SP  - 166
+EP  - 184
+DO  - 10.1057/JIT.2016.14
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1057/JIT.2016.14>

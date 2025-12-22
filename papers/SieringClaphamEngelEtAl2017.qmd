@@ -1,0 +1,57 @@
+---
+title: "A taxonomy of financial market manipulations - establishing trust and market integrity in the financialized economy through automated fraud detection"
+author:
+- Siering, Michael
+- Clapham, Benjamin
+- Engel, Oliver
+- Gomber, Peter
+topic: ""
+categories: []
+date: "2017"
+doi: "https://doi.org/10.1057/S41265-016-0029-Z"
+url: ""
+journal:
+  name: "Journal of Information Technology"
+cited_by: 0
+outlet: "Journal of Information Technology"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{SieringClaphamEngelEtAl2017,
+  colrev_pdf_id = {cpid2:ffffffffffe006ffffffffffc02003ffc00001ffc00001ffc000001fc000007fc0ffffffc04887ffc000c7ffc090ffffc07fffffe07fffffcfffffffc00001ffc00001ffc00001ffc00001ffc00001ffc00001ffc00001ffc00001ffc00001ffc0001fffc3fffbffffffffffc7ffffffc0000003c0008003ffffffffffffffff},
+  file       = {data/pdfs/32_3/SieringClaphamEngelEtAl2017.pdf},
+  doi        = {10.1057/S41265-016-0029-Z},
+  author     = {Siering, Michael and Clapham, Benjamin and Engel, Oliver and Gomber, Peter},
+  journal    = {Journal of Information Technology},
+  title      = {A taxonomy of financial market manipulations - establishing trust and market integrity in the financialized economy through automated fraud detection},
+  year       = {2017},
+  volume     = {32},
+  number     = {3},
+  pages      = {251--269},
+  abstract   = {Financial market manipulations represent a major threat to trust and market integrity in capital markets. Manipulations contribute to mispricing, market imperfections and an increase in transaction costs for market participants and in costs of capital for issuers. Manipulations are facilitated by increased transaction velocity, speculative trading and abusive usage of new trading technologies, i.e., they are directly linked to financial sector changes that drive financialization. Research at the intersection of financialization and IS might support regulatory authorities and market operators in improving market surveillance and helping to detect fraudulent activities. However, confusing terminology is prevalent on financial markets with respect to different manipulation techniques and their characteristics, which hampers efficient fraud detection. Furthermore, recognizing manipulations is challenging given the large number of information sources and the vast number of trades occurring not least because of high-frequency traders. Therefore, automated market surveillance tools require a comprehensive taxonomy of financial market manipulations as a basis for appropriate configuration. Based on a cluster analysis of SEC litigation releases, a review of the latest market abuse regulation and academic studies, we develop a taxonomy of manipulations that structures and details existing manipulation techniques and reveals how these techniques differ along several dimensions. In a case study, we show how the taxonomy can be utilized to guide the development of appropriate decision support systems for fraud detection.}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Siering, Michael
+AU  - Clapham, Benjamin
+AU  - Engel, Oliver
+AU  - Gomber, Peter
+TI  - A taxonomy of financial market manipulations - establishing trust and market integrity in the financialized economy through automated fraud detection
+T2  - Journal of Information Technology
+PY  - 2017
+VL  - 32
+IS  - 3
+SP  - 251
+EP  - 269
+DO  - 10.1057/S41265-016-0029-Z
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1057/S41265-016-0029-Z>
