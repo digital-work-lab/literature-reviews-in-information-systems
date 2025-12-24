@@ -12,6 +12,96 @@
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Wed, 01 Jan 2025 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>A Collaborative Creative Process in the Age of AI: A Comparative Analysis of Machine and Human Creativity</title>
+  <dc:creator>Boo, Chaeeun</dc:creator>
+  <dc:creator>Kim, Yeongseo</dc:creator>
+  <dc:creator>Suh, Ayoung</dc:creator>
+  <link>http://0.0.0.0:4200/papers/BooKimSuh2025.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="citation-bibtex" class="level2">
+
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">BooKimSuh2025</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">file</span>       = {data/pdfs/2025/BooKimSuh2025.pdf},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>        = {10.24251/HICSS.2025.025},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>     = {Boo, Chaeeun and Kim, Yeongseo and Suh, Ayoung},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">booktitle</span>  = {Hawaii International Conference on System Sciences},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>      = {A Collaborative Creative Process in the Age of AI: A Comparative Analysis of Machine and Human Creativity},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>       = {2025},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>      = {1--10}</span>
+<span id="cb1-9">}</span></code></pre></div></div>
+</section>
+<section id="citation-ris" class="level2">
+<h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - CONF</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Boo, Chaeeun</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Kim, Yeongseo</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Suh, Ayoung</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - A Collaborative Creative Process in the Age of AI: A Comparative Analysis of Machine and Human Creativity</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - Hawaii International Conference on System Sciences</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">SP  - 1</span></span>
+<span id="cb2-9"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">EP  - 10</span></span>
+<span id="cb2-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">DO  - 10.24251/HICSS.2025.025</span></span>
+<span id="cb2-11"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<ul>
+<li>DOI: <a href="https://doi.org/10.24251/HICSS.2025.025" class="uri">https://doi.org/10.24251/HICSS.2025.025</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/BooKimSuh2025.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Ecosystem Beyond a Metaphor: A Critical Literature Review and Research Agenda</title>
   <dc:creator>Ma, Yao</dc:creator>
   <link>http://0.0.0.0:4200/papers/Ma2025.html</link>
@@ -593,6 +683,88 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Relationships between Factors Influencing Robotic Process Automation Adoption in Public Administrations: A Systematic Literature Review</title>
+  <dc:creator>Frick, Norbert</dc:creator>
+  <link>http://0.0.0.0:4200/papers/Frick2025.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="citation-bibtex" class="level2">
+
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Frick2025</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">file</span>       = {data/pdfs/2025/Frick2025.pdf},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>        = {10.24251/HICSS.2025.260},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>     = {Frick, Norbert},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">booktitle</span>  = {Hawaii International Conference on System Sciences},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>      = {Relationships between Factors Influencing Robotic Process Automation Adoption in Public Administrations: A Systematic Literature Review},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>       = {2025},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>      = {1--10}</span>
+<span id="cb1-9">}</span></code></pre></div></div>
+</section>
+<section id="citation-ris" class="level2">
+<h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - CONF</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Frick, Norbert</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - Relationships between Factors Influencing Robotic Process Automation Adoption in Public Administrations: A Systematic Literature Review</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - Hawaii International Conference on System Sciences</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">SP  - 1</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">EP  - 10</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">DO  - 10.24251/HICSS.2025.260</span></span>
+<span id="cb2-9"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<ul>
+<li>DOI: <a href="https://doi.org/10.24251/HICSS.2025.260" class="uri">https://doi.org/10.24251/HICSS.2025.260</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/Frick2025.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>A Multivocal Literature Review on Capturing Value Propositions for Private Organizations in a CBDC Ecosystem</title>
   <dc:creator>Schaaf, Vincent</dc:creator>
   <dc:creator>Lautenschlager, Jonathan</dc:creator>
@@ -705,163 +877,6 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
  ]]></description>
   <guid>http://0.0.0.0:4200/papers/SchaafLautenschlagerVouckoGlocknerEtAl2025a.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Mapping the Narratives of Quantum Computing in IS: A Literature Review</title>
-  <dc:creator>Ignacio Descazeaux</dc:creator>
-  <link>http://0.0.0.0:4200/papers/Descazeaux2025.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="citation-bibtex" class="level2">
-
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">Descazeaux2025</span>,</span>
-<span id="cb1-2">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">file</span>       = {data/pdfs/2025/Quantum IT and Cloud Computing for Business/Mapping the Narratives of Quantum Computing in IS_ A Literature R.pdf},</span>
-<span id="cb1-3">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>     = {Ignacio Descazeaux},</span>
-<span id="cb1-4">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">booktitle</span>  = {International Conference on Information Systems},</span>
-<span id="cb1-5">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>      = {Mapping the Narratives of Quantum Computing in IS: A Literature Review},</span>
-<span id="cb1-6">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>       = {2025}</span>
-<span id="cb1-7">}</span></code></pre></div></div>
-</section>
-<section id="citation-ris" class="level2">
-<h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - CONF</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Ignacio Descazeaux</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - Mapping the Narratives of Quantum Computing in IS: A Literature Review</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - International Conference on Information Systems</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
-
-
-</section>
-
- ]]></description>
-  <guid>http://0.0.0.0:4200/papers/Descazeaux2025.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Where are the processes in IS research on digital transformation? A critical literature review and future research directions</title>
-  <dc:creator>Wiener, Martin</dc:creator>
-  <dc:creator>Strahringer, Susanne</dc:creator>
-  <dc:creator>Kotlarsky, Julia</dc:creator>
-  <link>http://0.0.0.0:4200/papers/wiener2025processes.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="citation-bibtex" class="level2">
-
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">wiener2025processes</span>,</span>
-<span id="cb1-2">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">doi</span>        = {10.1016/J.JSIS.2025.101900},</span>
-<span id="cb1-3">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>     = {Wiener, Martin and Strahringer, Susanne and Kotlarsky, Julia},</span>
-<span id="cb1-4">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">journal</span>    = {The Journal of Strategic Information Systems},</span>
-<span id="cb1-5">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>      = {Where are the processes in IS research on digital transformation? A critical literature review and future research directions},</span>
-<span id="cb1-6">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>       = {2025},</span>
-<span id="cb1-7">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">volume</span>     = {34},</span>
-<span id="cb1-8">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">number</span>     = {2},</span>
-<span id="cb1-9">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>      = {101900}</span>
-<span id="cb1-10">}</span></code></pre></div></div>
-</section>
-<section id="citation-ris" class="level2">
-<h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - JOUR</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Wiener, Martin</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Strahringer, Susanne</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Kotlarsky, Julia</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - Where are the processes in IS research on digital transformation? A critical literature review and future research directions</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - The Journal of Strategic Information Systems</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">VL  - 34</span></span>
-<span id="cb2-9"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">IS  - 2</span></span>
-<span id="cb2-10"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">SP  - 101900</span></span>
-<span id="cb2-11"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">DO  - 10.1016/J.JSIS.2025.101900</span></span>
-<span id="cb2-12"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<ul>
-<li>DOI: <a href="https://doi.org/10.1016/J.JSIS.2025.101900" class="uri">https://doi.org/10.1016/J.JSIS.2025.101900</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <guid>http://0.0.0.0:4200/papers/wiener2025processes.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
