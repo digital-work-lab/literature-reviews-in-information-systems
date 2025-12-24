@@ -6,13 +6,15 @@ import colrev.loader.load_utils as load_utils
 from colrev.constants import RecordState
 import colrev.loader.load_utils
 import colrev.writer.write_utils
+import json
 
-def yaml_escape(value: str) -> str:
-    """Escape double quotes for safe inclusion in YAML."""
+def yaml_escape(value: object) -> str:
+    """Return a YAML-safe double-quoted scalar (content only)."""
     if value is None:
         return ""
-    return str(value).replace('"', '\"')
-
+    # json.dumps returns a valid JSON string literal with quotes around it.
+    # YAML 1.2 accepts JSON-style escapes, so we can safely reuse it.
+    return json.dumps(str(value), ensure_ascii=False)[1:-1]
 
 def record_to_bibtex(rec: dict) -> str:
     """Reconstruct a BibTeX entry from a record dict."""

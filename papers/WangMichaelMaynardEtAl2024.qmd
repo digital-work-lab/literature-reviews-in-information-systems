@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Combination Analysis Reveals That Artificial Intelligence Research Is More Like "Normal Science" Than "Revolutionary Science""
+title: "Knowledge Combination Analysis Reveals That Artificial Intelligence Research Is More Like \"Normal Science\" Than \"Revolutionary Science\""
 author:
 - Wang, Jieshu
 - Michael, Katina

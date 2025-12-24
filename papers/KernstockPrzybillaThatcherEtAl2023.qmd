@@ -1,5 +1,5 @@
 ---
-title: ""Can't Get No Satisfaction?" - The Case for Broadening Information Systems Research on E-Commerce"
+title: "\"Can't Get No Satisfaction?\" - The Case for Broadening Information Systems Research on E-Commerce"
 author:
 - Kernstock, Philipp
 - Przybilla, Leonard

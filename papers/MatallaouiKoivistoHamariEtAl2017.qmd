@@ -1,5 +1,5 @@
 ---
-title: "How Effective Is "Exergamification"? A Systematic Review on the Effectiveness of Gamification Features in Exergames"
+title: "How Effective Is \"Exergamification\"? A Systematic Review on the Effectiveness of Gamification Features in Exergames"
 author:
 - Matallaoui, Amir
 - Koivisto, Jonna
