@@ -1,0 +1,52 @@
+---
+title: "What's in the Game? Developing a Taxonomy of Gamification Concepts for Health Apps"
+author:
+- Schmidt-Kraepelin, Manuel
+- Thiebes, Scott
+- Tran, Minh Chau
+- Sunyaev, Ali
+topic: ""
+categories: []
+date: "2018"
+doi: "https://doi.org/10.24251/HICSS.2018.150"
+url: "http://hdl.handle.net/10125/50037"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SchmidtKraepelinThiebesTranEtAl2018,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000000ffffc3ffff021830ff060bb4fffbfb7fff995800ff001800ff001800ff001800ff001801ff001800ff001800ff3c9800fffff800ff0ff800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff7fdb8bff07f7ffff0ff1fffffffffff},
+  file       = {data/pdfs/2018/da/gamification/SchmidtKraepelinThiebesTranEtAl2018.pdf},
+  doi        = {10.24251/HICSS.2018.150},
+  author     = {Schmidt-Kraepelin, Manuel and Thiebes, Scott and Tran, Minh Chau and Sunyaev, Ali},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {What's in the Game? Developing a Taxonomy of Gamification Concepts for Health Apps},
+  year       = {2018},
+  url        = {http://hdl.handle.net/10125/50037}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Schmidt-Kraepelin, Manuel
+AU  - Thiebes, Scott
+AU  - Tran, Minh Chau
+AU  - Sunyaev, Ali
+TI  - What's in the Game? Developing a Taxonomy of Gamification Concepts for Health Apps
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2018
+DO  - 10.24251/HICSS.2018.150
+UR  - http://hdl.handle.net/10125/50037
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2018.150>
+- URL: <http://hdl.handle.net/10125/50037>

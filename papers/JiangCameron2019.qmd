@@ -1,0 +1,48 @@
+---
+title: "IT-Based Self-Monitoring Interventions to Promote Physical Activity and Weight Loss - A Meta-Analysis of Change-from-Baseline Effects"
+author:
+- Jiang, Jinglu
+- Cameron, Ann-Frances
+topic: ""
+categories: []
+date: "2019"
+doi: "https://doi.org/10.24251/HICSS.2019.470"
+url: "http://hdl.handle.net/10125/59824"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{JiangCameron2019,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800000ffe21807fff1ff07fffffffffffbf932ffb0d000ff001800ff001000ff001800ff001800ff001000ff001800ff001800ff001826ff001800ff001800ff001800ff001800fffff000ff0ff000ff801800ff001800ff001800ff001800ff677fffffffffffff0fc3fffffffffff},
+  file       = {data/pdfs/2019/JiangCameron2019.pdf},
+  doi        = {10.24251/HICSS.2019.470},
+  author     = {Jiang, Jinglu and Cameron, Ann-Frances},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {IT-Based Self-Monitoring Interventions to Promote Physical Activity and Weight Loss - A Meta-Analysis of Change-from-Baseline Effects},
+  year       = {2019},
+  url        = {http://hdl.handle.net/10125/59824}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Jiang, Jinglu
+AU  - Cameron, Ann-Frances
+TI  - IT-Based Self-Monitoring Interventions to Promote Physical Activity and Weight Loss - A Meta-Analysis of Change-from-Baseline Effects
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2019
+DO  - 10.24251/HICSS.2019.470
+UR  - http://hdl.handle.net/10125/59824
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2019.470>
+- URL: <http://hdl.handle.net/10125/59824>

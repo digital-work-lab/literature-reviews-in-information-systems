@@ -1,0 +1,48 @@
+---
+title: "Gambling in digital games and esports: a scoping review"
+author:
+- Mattinen, Topias
+- Macey, Joseph
+- Hamari, Juho
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/103110"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MattinenMaceyHamari2023,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffffe00007ff87e7e3ff83c1c1fffffffffff1f800ff001000ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff02d000ff03f800ff03f800ff0ff000ff001800ff001000ff001800ff001800ff001000ff001800fff53800ff1fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2023/MattinenMaceyHamari2023.pdf},
+  author     = {Mattinen, Topias and Macey, Joseph and Hamari, Juho},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Gambling in digital games and esports: a scoping review},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/103110},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/MattinenMH23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Mattinen, Topias
+AU  - Macey, Joseph
+AU  - Hamari, Juho
+TI  - Gambling in digital games and esports: a scoping review
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/103110
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/103110>

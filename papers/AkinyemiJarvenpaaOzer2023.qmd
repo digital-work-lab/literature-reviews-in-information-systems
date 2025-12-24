@@ -1,0 +1,48 @@
+---
+title: "Boundary Reinforcement in Multisided Platforms: A Configurational Analysis of External Conditions"
+author:
+- Akinyemi, John Patrick
+- Jarvenpaa, Sirkka
+- Ozer, Gorkem Turgut
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/103358"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AkinyemiJarvenpaaOzer2023,
+  colrev_pdf_id = {cpid2:fffffffffe4c96ffffffffffffffffffff0000ffffc0c8fffc5f6f0ff004030fffffffffff3faccfff3f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff07f800ff097800ff0ff800ff001800ff001800ff001800ff001800ff001800ffffff3bff0fffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2023/AkinyemiJarvenpaaOzer2023.pdf},
+  author     = {Akinyemi, John Patrick and Jarvenpaa, Sirkka and Ozer, Gorkem Turgut},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Boundary Reinforcement in Multisided Platforms: A Configurational Analysis of External Conditions},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/103358},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/AkinyemiJO23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Akinyemi, John Patrick
+AU  - Jarvenpaa, Sirkka
+AU  - Ozer, Gorkem Turgut
+TI  - Boundary Reinforcement in Multisided Platforms: A Configurational Analysis of External Conditions
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/103358
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/103358>

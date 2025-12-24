@@ -1,0 +1,47 @@
+---
+title: "Digital Service Innovation Enabled by Big Data Analytics - A Review and the Way Forward"
+author:
+- Rizk, Aya
+- Bergvall-Kåreborn, Birgitta
+- Elragal, Ahmed
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+url: "http://hdl.handle.net/10125/41302"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{RizkBergvallKarebornElragal2017,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000020ffffc3ffff0381c0ffffc3fffffbfffffff9f800ff081000ff000800ff001000ff001800ff000800ff001800ff001000ff001000ff003800ff0ff800ff021800ff000800ff001800ff001800ff000800ff001800ff001800ff0f7000fffffbedffffffffff03c7fffffffffff},
+  file       = {data/pdfs/2017/da/ict_enabled_services/RizkBergvallKarebornElragal2017.pdf},
+  author     = {Rizk, Aya and Bergvall-Kåreborn, Birgitta and Elragal, Ahmed},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Digital Service Innovation Enabled by Big Data Analytics - A Review and the Way Forward},
+  year       = {2017},
+  url        = {http://hdl.handle.net/10125/41302}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Rizk, Aya
+AU  - Bergvall-Kåreborn, Birgitta
+AU  - Elragal, Ahmed
+TI  - Digital Service Innovation Enabled by Big Data Analytics - A Review and the Way Forward
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2017
+UR  - http://hdl.handle.net/10125/41302
+ER  - 
+```
+## Links
+
+- URL: <http://hdl.handle.net/10125/41302>

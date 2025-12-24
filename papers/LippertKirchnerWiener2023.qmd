@@ -1,0 +1,48 @@
+---
+title: "Context Matters: The Use of Algorithmic Management Mechanisms in Platform, Hybrid, and Traditional Work Contexts"
+author:
+- Lippert, Isabell
+- Kirchner, Kathrin
+- Wiener, Martin
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/103279"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LippertKirchnerWiener2023,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800001fffb735fffe7ebe3ff81c380fff1fb20ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff3ff800ff001800ff0ff800ff9ff800ff001800ff001800ff001800ff001800ff001800ff001800ff221f7fff1fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2023/LippertKirchnerWiener2023.pdf},
+  author     = {Lippert, Isabell and Kirchner, Kathrin and Wiener, Martin},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Context Matters: The Use of Algorithmic Management Mechanisms in Platform, Hybrid, and Traditional Work Contexts},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/103279},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/LippertK023}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Lippert, Isabell
+AU  - Kirchner, Kathrin
+AU  - Wiener, Martin
+TI  - Context Matters: The Use of Algorithmic Management Mechanisms in Platform, Hybrid, and Traditional Work Contexts
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/103279
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/103279>

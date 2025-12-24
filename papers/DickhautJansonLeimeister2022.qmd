@@ -1,0 +1,51 @@
+---
+title: "Conceptualizing Design Knowledge in IS Research - A Review and Taxonomy of Design Knowledge Properties"
+author:
+- Dickhaut, Ernestine
+- Janson, Andreas
+- Leimeister, Jan Marco
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.704"
+url: "http://hdl.handle.net/10125/80044"
+journal:
+  name: ""
+cited_by: 1
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{DickhautJansonLeimeister2022,
+  colrev_pdf_id = {cpid2:fffffffffe6c9efffffffffffffffffffc00001fffc811fffe07e07ffe97eafffff80dffffbffffff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff3ed800ff0ff800ff001800ff001800ff001800ff001800ff001800ff001800ffe41800ff0dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2022/DickhautJansonLeimeister2022.pdf},
+  doi        = {10.24251/HICSS.2022.704},
+  author     = {Dickhaut, Ernestine and Janson, Andreas and Leimeister, Jan Marco},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Conceptualizing Design Knowledge in IS Research - A Review and Taxonomy of Design Knowledge Properties},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/80044},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/DickhautJL22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Dickhaut, Ernestine
+AU  - Janson, Andreas
+AU  - Leimeister, Jan Marco
+TI  - Conceptualizing Design Knowledge in IS Research - A Review and Taxonomy of Design Knowledge Properties
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.704
+UR  - http://hdl.handle.net/10125/80044
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.704>
+- URL: <http://hdl.handle.net/10125/80044>

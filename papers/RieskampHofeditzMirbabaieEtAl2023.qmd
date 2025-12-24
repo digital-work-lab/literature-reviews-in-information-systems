@@ -1,0 +1,50 @@
+---
+title: "Approaches to Improve Fairness when Deploying AI-based Algorithms in Hiring - Using a Systematic Literature Review to Guide Future Research"
+author:
+- Rieskamp, Jonas
+- Hofeditz, Lennart
+- Mirbabaie, Milad
+- Stieglitz, Stefan
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/102654"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{RieskampHofeditzMirbabaieEtAl2023,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800000ff964921ff8e1861ff041860ffffffffff801802ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff03f800ff00f800ff0ff800ff8ff800ff001800ff001800ff001800ff001800ff001800ff001000ff001befffffffffff0dffffff1fc3fffffffffff},
+  file       = {data/pdfs/2023/RieskampHofeditzMirbabaieEtAl2023.pdf},
+  author     = {Rieskamp, Jonas and Hofeditz, Lennart and Mirbabaie, Milad and Stieglitz, Stefan},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Approaches to Improve Fairness when Deploying AI-based Algorithms in Hiring - Using a Systematic Literature Review to Guide Future Research},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/102654},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/RieskampHMS23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Rieskamp, Jonas
+AU  - Hofeditz, Lennart
+AU  - Mirbabaie, Milad
+AU  - Stieglitz, Stefan
+TI  - Approaches to Improve Fairness when Deploying AI-based Algorithms in Hiring - Using a Systematic Literature Review to Guide Future Research
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/102654
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/102654>

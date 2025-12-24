@@ -1,0 +1,48 @@
+---
+title: "Tertiary Study on the Use of Artificial Intelligence for Service Delivery: A Bibliometric Analysis of Systematic Literature Reviews"
+author:
+- Chouikh, Arbi
+- Khechine, Hager
+- Gagnon, Marie-Pierre
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/102839"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ChouikhKhechineGagnon2023,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800000ffe1224fff83c1e1ffc1c181ff901800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff0a3800ff3df800ff05f800ff8ff800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ffffffffff1fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2023/ChouikhKhechineGagnon2023.pdf},
+  author     = {Chouikh, Arbi and Khechine, Hager and Gagnon, Marie-Pierre},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Tertiary Study on the Use of Artificial Intelligence for Service Delivery: A Bibliometric Analysis of Systematic Literature Reviews},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/102839},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/ChouikhKG23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Chouikh, Arbi
+AU  - Khechine, Hager
+AU  - Gagnon, Marie-Pierre
+TI  - Tertiary Study on the Use of Artificial Intelligence for Service Delivery: A Bibliometric Analysis of Systematic Literature Reviews
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/102839
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/102839>

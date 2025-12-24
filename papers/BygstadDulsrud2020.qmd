@@ -1,0 +1,45 @@
+---
+title: "Digital Ecosystems as a Unit of Scientific Analysis. A Sociological Investigation"
+author:
+- Bygstad, Bendik
+- Dulsrud, Arne
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+url: "http://hdl.handle.net/10125/64440"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BygstadDulsrud2020,
+  colrev_pdf_id = {cpid2:fffffffffe4090bffffffffffffffffffe00007fffe007ffffffffffff0fe07fffffffffffffffffff1f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff0ff800ff0ff800ff001800ff001800ff15f800ff809800ff001800ff001800ff001800ff101eb4ff0dffffff0fc3fcfffffffff},
+  file       = {data/pdfs/2020/Organizational Systems and Technology/BygstadDulsrud2020.pdf},
+  author     = {Bygstad, Bendik and Dulsrud, Arne},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Digital Ecosystems as a Unit of Scientific Analysis. A Sociological Investigation},
+  year       = {2020},
+  url        = {http://hdl.handle.net/10125/64440}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Bygstad, Bendik
+AU  - Dulsrud, Arne
+TI  - Digital Ecosystems as a Unit of Scientific Analysis. A Sociological Investigation
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2020
+UR  - http://hdl.handle.net/10125/64440
+ER  - 
+```
+## Links
+
+- URL: <http://hdl.handle.net/10125/64440>

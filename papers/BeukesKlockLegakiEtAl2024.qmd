@@ -1,0 +1,55 @@
+---
+title: "Gamified scaffolding in formal education: A scoping review"
+author:
+- Beukes, Bernice
+- Klock, Ana Carolina Tomé
+- Legaki, Nikoletta Zampeta
+- Hamari, Juho
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.617"
+url: "https://hdl.handle.net/10125/107002"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BeukesKlockLegakiEtAl2024,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffffc00007ff0e1831ff041860ff07fffffff1f808ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001802ff27f800ff00f800ff8ff800ff209000ff00187fff001c7fff001cdfff001800ff001800ffffbbfbff1fffffff1fc3fffffffffff},
+  file       = {data/pdfs/2024/BeukesKlockLegakiEtAl2024.pdf},
+  doi        = {10.24251/HICSS.2024.617},
+  author     = {Beukes, Bernice and Klock, Ana Carolina Tomé and Legaki, Nikoletta Zampeta and Hamari, Juho},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Gamified scaffolding in formal education: A scoping review},
+  year       = {2024},
+  pages      = {5144--5153},
+  url        = {https://hdl.handle.net/10125/107002}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Beukes, Bernice
+AU  - Klock, Ana Carolina Tomé
+AU  - Legaki, Nikoletta Zampeta
+AU  - Hamari, Juho
+TI  - Gamified scaffolding in formal education: A scoping review
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+SP  - 5144
+EP  - 5153
+DO  - 10.24251/HICSS.2024.617
+UR  - https://hdl.handle.net/10125/107002
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.617>
+- URL: <https://hdl.handle.net/10125/107002>

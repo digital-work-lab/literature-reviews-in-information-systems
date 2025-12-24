@@ -1,0 +1,51 @@
+---
+title: "The role of governance to support smart community development: a systematic literature review"
+author:
+- Ciesielska, Magdalena
+- Pereira, Gabriela Viale
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.275"
+url: "https://hdl.handle.net/10125/106654"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{CiesielskaPereira2024,
+  colrev_pdf_id = {cpid2:fffffffffe5090bffffffffffffffffff800001fffffffffffffffffff03807fff07803fffffffffff9fdffffd0f000ff001800ff001000ff0018ffff001800ff001800ff001800ff001800ff3ff000ff001000ff0ff000ff8ff000ff001800ff001800ff001800ff001800ff001000ffdbd9eaff0dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2024/CiesielskaPereira2024.pdf},
+  doi        = {10.24251/HICSS.2024.275},
+  author     = {Ciesielska, Magdalena and Pereira, Gabriela Viale},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {The role of governance to support smart community development: a systematic literature review},
+  year       = {2024},
+  pages      = {2223--2232},
+  url        = {https://hdl.handle.net/10125/106654}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ciesielska, Magdalena
+AU  - Pereira, Gabriela Viale
+TI  - The role of governance to support smart community development: a systematic literature review
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+SP  - 2223
+EP  - 2232
+DO  - 10.24251/HICSS.2024.275
+UR  - https://hdl.handle.net/10125/106654
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.275>
+- URL: <https://hdl.handle.net/10125/106654>

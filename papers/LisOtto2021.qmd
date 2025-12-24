@@ -1,0 +1,44 @@
+---
+title: "Towards a Taxonomy of Ecosystem Data Governance"
+author:
+- Lis, Dominik
+- Otto, Boris
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://hdl.handle.net/10125/71353"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LisOtto2021,
+  file       = {data/pdfs/2021/LisOtto2021.pdf},
+  author     = {Lis, Dominik and Otto, Boris},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Towards a Taxonomy of Ecosystem Data Governance},
+  year       = {2021},
+  url        = {https://hdl.handle.net/10125/71353}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Lis, Dominik
+AU  - Otto, Boris
+TI  - Towards a Taxonomy of Ecosystem Data Governance
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2021
+UR  - https://hdl.handle.net/10125/71353
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/71353>

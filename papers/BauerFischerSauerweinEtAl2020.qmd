@@ -1,0 +1,53 @@
+---
+title: "Towards an Evaluation Framework for Threat Intelligence Sharing Platforms"
+author:
+- Bauer, Sara
+- Fischer, Daniel
+- Sauerwein, Clemens
+- Latzel, Simon
+- Stelzer, Dirk
+- Breu, Ruth
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+url: "http://hdl.handle.net/10125/63978"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BauerFischerSauerweinEtAl2020,
+  colrev_pdf_id = {cpid2:fffffffffe6492bffffffffffffffffff800001ffffe7ffffc38181ffc3e7e7ff8181c3fff1f802ffa1d800ff041800ff021800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff70f800ff8ff800ff8ff000ff001800ff001800ff001800ff001800ff000800fffe3c00ff0dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2020/Digital Government/BauerFischerSauerweinEtAl2020.pdf},
+  author     = {Bauer, Sara and Fischer, Daniel and Sauerwein, Clemens and Latzel, Simon and Stelzer, Dirk and Breu, Ruth},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Towards an Evaluation Framework for Threat Intelligence Sharing Platforms},
+  year       = {2020},
+  url        = {http://hdl.handle.net/10125/63978}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Bauer, Sara
+AU  - Fischer, Daniel
+AU  - Sauerwein, Clemens
+AU  - Latzel, Simon
+AU  - Stelzer, Dirk
+AU  - Breu, Ruth
+TI  - Towards an Evaluation Framework for Threat Intelligence Sharing Platforms
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2020
+UR  - http://hdl.handle.net/10125/63978
+ER  - 
+```
+## Links
+
+- URL: <http://hdl.handle.net/10125/63978>

@@ -1,0 +1,51 @@
+---
+title: "Employee-driven Digital Innovation in Healthcare - A Scoping Review"
+author:
+- Guse, Richard
+- Warsinsky, Simon
+- Thiebes, Scott
+- Sunyaev, Ali
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.24251/HICSS.2025.424"
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GuseWarsinskyThiebesEtAl2025,
+  file       = {data/pdfs/2025/GuseWarsinskyThiebesEtAl2025.pdf},
+  doi        = {10.24251/HICSS.2025.424},
+  author     = {Guse, Richard and Warsinsky, Simon and Thiebes, Scott and Sunyaev, Ali},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Employee-driven Digital Innovation in Healthcare - A Scoping Review},
+  year       = {2025},
+  pages      = {1--10}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Guse, Richard
+AU  - Warsinsky, Simon
+AU  - Thiebes, Scott
+AU  - Sunyaev, Ali
+TI  - Employee-driven Digital Innovation in Healthcare - A Scoping Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2025
+SP  - 1
+EP  - 10
+DO  - 10.24251/HICSS.2025.424
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2025.424>

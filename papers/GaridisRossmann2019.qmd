@@ -1,0 +1,48 @@
+---
+title: "Toward a Framework for Cooperation Behavior of Start-ups - Developing a Multi-Item Scale from an Empirical Perspective"
+author:
+- Garidis, Konstantin
+- Rossmann, Alexander
+topic: ""
+categories: []
+date: "2019"
+doi: "https://doi.org/10.24251/HICSS.2019.648"
+url: "http://hdl.handle.net/10125/59974"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GaridisRossmann2019,
+  colrev_pdf_id = {cpid2:fffffffffe6edffffffffffffffffffffc00003ffe00207ffe0ff07fffffffffffbf800ff009800ff001800ff001800ff001000ff001800ff001800ff001800ff001000fffff000ff0ff000ff85d800ff001800ff001800ff001800ff00180fff001807ff000802ff001008ff001800ff221800ff5fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2019/GaridisRossmann2019.pdf},
+  doi        = {10.24251/HICSS.2019.648},
+  author     = {Garidis, Konstantin and Rossmann, Alexander},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Toward a Framework for Cooperation Behavior of Start-ups - Developing a Multi-Item Scale from an Empirical Perspective},
+  year       = {2019},
+  url        = {http://hdl.handle.net/10125/59974}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Garidis, Konstantin
+AU  - Rossmann, Alexander
+TI  - Toward a Framework for Cooperation Behavior of Start-ups - Developing a Multi-Item Scale from an Empirical Perspective
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2019
+DO  - 10.24251/HICSS.2019.648
+UR  - http://hdl.handle.net/10125/59974
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2019.648>
+- URL: <http://hdl.handle.net/10125/59974>

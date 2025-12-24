@@ -1,0 +1,47 @@
+---
+title: "Using Activity Theory Successfully in Healthcare - A Systematic Review of the Theory's Key Challenges to Date"
+author:
+- Wiser, Fabian
+- Durst, Carolin
+- Wickramasinghe, Nilmini
+topic: ""
+categories: []
+date: "2019"
+doi: ""
+url: "http://hdl.handle.net/10125/59528"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{WiserDurstWickramasinghe2019,
+  colrev_pdf_id = {cpid2:fffffffffe609bfffffffffffffffffff000000fffe407fff8385c0ff8781c0fffffffffffbfffffff9f800ff001800ff001000ff001000ff001800ff000800ff001000ff001800ff000000ff001000ff0ff87fff0ff83fff001800ff0018f0ff000847ff001c03ff001800ff001000fffffb52ff4fffffff0fc3fefffffffff},
+  file       = {data/pdfs/2019/WiserDurstWickramasinghe2019.pdf},
+  author     = {Wiser, Fabian and Durst, Carolin and Wickramasinghe, Nilmini},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Using Activity Theory Successfully in Healthcare - A Systematic Review of the Theory's Key Challenges to Date},
+  year       = {2019},
+  url        = {http://hdl.handle.net/10125/59528}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Wiser, Fabian
+AU  - Durst, Carolin
+AU  - Wickramasinghe, Nilmini
+TI  - Using Activity Theory Successfully in Healthcare - A Systematic Review of the Theory's Key Challenges to Date
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2019
+UR  - http://hdl.handle.net/10125/59528
+ER  - 
+```
+## Links
+
+- URL: <http://hdl.handle.net/10125/59528>

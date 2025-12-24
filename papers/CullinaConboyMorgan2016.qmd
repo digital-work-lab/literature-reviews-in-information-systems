@@ -1,0 +1,50 @@
+---
+title: "Choosing the Right Crowd - An Iterative Process for Crowd Specification in Crowdsourcing Initiatives"
+author:
+- Cullina, Eoin
+- Conboy, Kieran
+- Morgan, Lorraine
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.541"
+url: "https://ieeexplore.ieee.org/document/7427727/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{CullinaConboyMorgan2016,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffffff007fff800000ffc7c3e1ff8781c1ffffffffff005000ff001000ff001800ff001000ff001000ff001000ff001000ff001000ff001000fffff000ff0ff000ff085000ff000000ff000807ff000803ff000812ff000000ff000000ff000000ff001000fffffffefe0ffffe7ffffffff},
+  file       = {data/pdfs/2016/CullinaConboyMorgan2016.pdf},
+  doi        = {10.1109/HICSS.2016.541},
+  author     = {Cullina, Eoin and Conboy, Kieran and Morgan, Lorraine},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Choosing the Right Crowd - An Iterative Process for Crowd Specification in Crowdsourcing Initiatives},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427727/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Cullina, Eoin
+AU  - Conboy, Kieran
+AU  - Morgan, Lorraine
+TI  - Choosing the Right Crowd - An Iterative Process for Crowd Specification in Crowdsourcing Initiatives
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.541
+UR  - https://ieeexplore.ieee.org/document/7427727/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2016.541>
+- URL: <https://ieeexplore.ieee.org/document/7427727/>

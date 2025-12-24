@@ -1,0 +1,50 @@
+---
+title: "Why Do People Play Games? A Review of Studies on Adoption and Use"
+author:
+- Hamari, Juho
+- Keronen, Lauri
+- Alha, Kati
+topic: ""
+categories: []
+date: "2015"
+doi: "https://doi.org/10.1109/HICSS.2015.428"
+url: "https://ieeexplore.ieee.org/document/7070243/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HamariKeronenAlha2015,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff000001ffffffffffcfc7f3ff0381c0ff8783e1fff1f800ff0010007e000000ff001810ff0ff0007f0ff0007f001800fe001000fe001008fe000800fe0000007e000000fe00087fff031cffff000ef0fe000ef0fe000860fe401ef0ff1ffef8ff1ffcffff000f07ff7ffffefe0ffffe7ffffffff},
+  file       = {data/pdfs/2015/HamariKeronenAlha2015.pdf},
+  doi        = {10.1109/HICSS.2015.428},
+  author     = {Hamari, Juho and Keronen, Lauri and Alha, Kati},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Why Do People Play Games? A Review of Studies on Adoption and Use},
+  year       = {2015},
+  url        = {https://ieeexplore.ieee.org/document/7070243/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hamari, Juho
+AU  - Keronen, Lauri
+AU  - Alha, Kati
+TI  - Why Do People Play Games? A Review of Studies on Adoption and Use
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2015
+DO  - 10.1109/HICSS.2015.428
+UR  - https://ieeexplore.ieee.org/document/7070243/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2015.428>
+- URL: <https://ieeexplore.ieee.org/document/7070243/>

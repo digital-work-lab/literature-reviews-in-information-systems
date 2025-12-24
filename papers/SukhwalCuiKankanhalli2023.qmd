@@ -1,0 +1,48 @@
+---
+title: "Knowledge Transfer between Humans and Conversational Agents: A Review, Organizing Framework, and Future Directions"
+author:
+- Sukhwal, Prakash Chandra
+- Cui, Wei
+- Kankanhalli, Atreyi
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/103188"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SukhwalCuiKankanhalli2023,
+  colrev_pdf_id = {cpid2:fffffffffefffffffffffffffffffffff000000fff8201fff81c181ffdfd7fffff1f824ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff047800ff001800ff0ff800ff8ff800ff001800ff001800ff001800ff001800ff001800ff001800ffe25fffff1fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2023/SukhwalCuiKankanhalli2023.pdf},
+  author     = {Sukhwal, Prakash Chandra and Cui, Wei and Kankanhalli, Atreyi},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Knowledge Transfer between Humans and Conversational Agents: A Review, Organizing Framework, and Future Directions},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/103188},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/SukhwalCK23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Sukhwal, Prakash Chandra
+AU  - Cui, Wei
+AU  - Kankanhalli, Atreyi
+TI  - Knowledge Transfer between Humans and Conversational Agents: A Review, Organizing Framework, and Future Directions
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/103188
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/103188>

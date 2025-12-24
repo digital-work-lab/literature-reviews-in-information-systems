@@ -1,0 +1,53 @@
+---
+title: "Intellectual Disability, Digital Technologies, and Independent Transportation -A Scoping Review"
+author:
+- Safari, Mugula Chris
+- Wass, Sofie
+- Thygesen, Elin
+- Haugland, Silje
+topic: ""
+categories: []
+date: "2023"
+doi: "https://doi.org/10.24251/HICSS.2023.247"
+url: "https://hdl.handle.net/10125/102878"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SafariWassThygesenEtAl2023,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff000000ffffc1ffff871861ffcf18e3fff1f924ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff007800ff07f800ff0ff800ff001800ff001800ff001800ff001800ff001800ff001800ff77b800ff0fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2023/SafariWassThygesenEtAl2023.pdf},
+  doi        = {10.24251/HICSS.2023.247},
+  author     = {Safari, Mugula Chris and Wass, Sofie and Thygesen, Elin and Haugland, Silje},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Intellectual Disability, Digital Technologies, and Independent Transportation -A Scoping Review},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/102878},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/SafariWTH23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Safari, Mugula Chris
+AU  - Wass, Sofie
+AU  - Thygesen, Elin
+AU  - Haugland, Silje
+TI  - Intellectual Disability, Digital Technologies, and Independent Transportation -A Scoping Review
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+DO  - 10.24251/HICSS.2023.247
+UR  - https://hdl.handle.net/10125/102878
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2023.247>
+- URL: <https://hdl.handle.net/10125/102878>

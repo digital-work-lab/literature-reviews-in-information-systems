@@ -1,0 +1,52 @@
+---
+title: "What Determines Information Systems Project Performance? A Narrative Review and Meta-analysis"
+author:
+- Dongus, Konrad
+- Ebert, Simon
+- Schermann, Michael
+- Krcmar, Helmut
+topic: ""
+categories: []
+date: "2015"
+doi: "https://doi.org/10.1109/HICSS.2015.536"
+url: "https://ieeexplore.ieee.org/document/7070356/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{DongusEbertSchermannEtAl2015,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffffc00007ffe80007fff8001ffff8001ffffffffffff1fb78ff001000ff001000ff001800ff001000ff001000ff00107fff00183ffffff8ffff0ff800ff001000ff001000ff000000ff001000ff001000ff001000ff001000ff000000ff001000ff001800fffffffcfe0ffffe7ffffffff},
+  file       = {data/pdfs/2015/DongusEbertSchermannEtAl2015.pdf},
+  doi        = {10.1109/HICSS.2015.536},
+  author     = {Dongus, Konrad and Ebert, Simon and Schermann, Michael and Krcmar, Helmut},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {What Determines Information Systems Project Performance? A Narrative Review and Meta-analysis},
+  year       = {2015},
+  url        = {https://ieeexplore.ieee.org/document/7070356/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Dongus, Konrad
+AU  - Ebert, Simon
+AU  - Schermann, Michael
+AU  - Krcmar, Helmut
+TI  - What Determines Information Systems Project Performance? A Narrative Review and Meta-analysis
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2015
+DO  - 10.1109/HICSS.2015.536
+UR  - https://ieeexplore.ieee.org/document/7070356/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2015.536>
+- URL: <https://ieeexplore.ieee.org/document/7070356/>

@@ -1,0 +1,45 @@
+---
+title: "A Review of the Applications of Affordance Theory in mHealth App Research"
+author:
+- Alshawmar, Moayad
+topic: ""
+categories: []
+date: "2021"
+doi: "https://doi.org/10.24251/HICSS.2021.437"
+url: "https://hdl.handle.net/10125/71053"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{Alshawmar2021,
+  file       = {data/pdfs/2021/Alshawmar2021.pdf},
+  doi        = {10.24251/HICSS.2021.437},
+  author     = {Alshawmar, Moayad},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {A Review of the Applications of Affordance Theory in mHealth App Research},
+  year       = {2021},
+  url        = {https://hdl.handle.net/10125/71053}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Alshawmar, Moayad
+TI  - A Review of the Applications of Affordance Theory in mHealth App Research
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2021
+DO  - 10.24251/HICSS.2021.437
+UR  - https://hdl.handle.net/10125/71053
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2021.437>
+- URL: <https://hdl.handle.net/10125/71053>

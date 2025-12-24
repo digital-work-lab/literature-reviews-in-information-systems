@@ -1,0 +1,39 @@
+---
+title: "Social Media Addiction: A Systematic Review through Cognitive-Behavior Model of Pathological Use"
+author:
+- Ahmed, Eiman
+- Vaghefi, Isaac
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AhmedVaghefi2021a,
+  file       = {data/pdfs/2021/AhmedVaghefi2021a.pdf},
+  author     = {Ahmed, Eiman and Vaghefi, Isaac},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Social Media Addiction: A Systematic Review through Cognitive-Behavior Model of Pathological Use},
+  year       = {2021}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ahmed, Eiman
+AU  - Vaghefi, Isaac
+TI  - Social Media Addiction: A Systematic Review through Cognitive-Behavior Model of Pathological Use
+T2  - Hawaii International Conference on System Sciences
+PY  - 2021
+ER  - 
+```

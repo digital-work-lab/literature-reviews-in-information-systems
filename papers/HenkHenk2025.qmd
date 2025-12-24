@@ -1,0 +1,47 @@
+---
+title: "From Antecedents to Outcomes: A Structured Literature Review on AI Implementation in Public Sector Organizations"
+author:
+- Henk, Anastasiya
+- Henk, Oliver
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.24251/HICSS.2025.228"
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HenkHenk2025,
+  file       = {data/pdfs/2025/HenkHenk2025.pdf},
+  doi        = {10.24251/HICSS.2025.228},
+  author     = {Henk, Anastasiya and Henk, Oliver},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {From Antecedents to Outcomes: A Structured Literature Review on AI Implementation in Public Sector Organizations},
+  year       = {2025},
+  pages      = {1--10}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Henk, Anastasiya
+AU  - Henk, Oliver
+TI  - From Antecedents to Outcomes: A Structured Literature Review on AI Implementation in Public Sector Organizations
+T2  - Hawaii International Conference on System Sciences
+PY  - 2025
+SP  - 1
+EP  - 10
+DO  - 10.24251/HICSS.2025.228
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2025.228>

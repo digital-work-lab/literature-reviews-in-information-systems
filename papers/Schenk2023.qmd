@@ -1,0 +1,44 @@
+---
+title: "Innovative Concepts within Knowledge Management"
+author:
+- Schenk, Johannes
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/103233"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{Schenk2023,
+  colrev_pdf_id = {cpid2:fffffffffe4c9effffffffffffffffffff0000ffffffffffffe003fffff80fffff1fc00ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff00180fff00780fff0ff80fff8ef800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800fff77fdeff0fffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2023/Schenk2023.pdf},
+  author     = {Schenk, Johannes},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Innovative Concepts within Knowledge Management},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/103233},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/Schenk23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Schenk, Johannes
+TI  - Innovative Concepts within Knowledge Management
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/103233
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/103233>

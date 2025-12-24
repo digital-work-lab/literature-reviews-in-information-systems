@@ -1,0 +1,53 @@
+---
+title: "Technological Factors that Influence User Compliance with Behavior Change Support Systems: A Systematic Review"
+author:
+- Ekpezu, Akon O.
+- Wiafe, Isaac
+- Oinas-Kukkonen, Harri
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.416"
+url: "https://hdl.handle.net/10125/106799"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{EkpezuWiafeOinasKukkonen2024,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000000fffcd87fffe3ffc3ff00c300fff3fb81ffb03800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff00181cff001800ff001800ff8ff800ff8ff800ff001800ff001800ff001800ff001800ff001800ff001800ffc01fffff1fffffff1fc3fffffffffff},
+  file       = {data/pdfs/2024/EkpezuWiafeOinasKukkonen2024.pdf},
+  doi        = {10.24251/HICSS.2024.416},
+  author     = {Ekpezu, Akon O. and Wiafe, Isaac and Oinas-Kukkonen, Harri},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Technological Factors that Influence User Compliance with Behavior Change Support Systems: A Systematic Review},
+  year       = {2024},
+  pages      = {3434--3443},
+  url        = {https://hdl.handle.net/10125/106799}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ekpezu, Akon O.
+AU  - Wiafe, Isaac
+AU  - Oinas-Kukkonen, Harri
+TI  - Technological Factors that Influence User Compliance with Behavior Change Support Systems: A Systematic Review
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+SP  - 3434
+EP  - 3443
+DO  - 10.24251/HICSS.2024.416
+UR  - https://hdl.handle.net/10125/106799
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.416>
+- URL: <https://hdl.handle.net/10125/106799>

@@ -1,0 +1,47 @@
+---
+title: "Telepathology Implementation Challenges and Benefits - A Scoping Review"
+author:
+- Meyer, Julien
+- Paré, Guy
+topic: ""
+categories: []
+date: "2014"
+doi: "https://doi.org/10.1109/HICSS.2014.355"
+url: "https://ieeexplore.ieee.org/document/6758955/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MeyerPare2014,
+  file       = {data/pdfs/2014/MeyerPare2014.pdf},
+  doi        = {10.1109/HICSS.2014.355},
+  author     = {Meyer, Julien and Paré, Guy},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Telepathology Implementation Challenges and Benefits - A Scoping Review},
+  year       = {2014},
+  url        = {https://ieeexplore.ieee.org/document/6758955/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Meyer, Julien
+AU  - Paré, Guy
+TI  - Telepathology Implementation Challenges and Benefits - A Scoping Review
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2014
+DO  - 10.1109/HICSS.2014.355
+UR  - https://ieeexplore.ieee.org/document/6758955/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2014.355>
+- URL: <https://ieeexplore.ieee.org/document/6758955/>

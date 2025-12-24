@@ -1,0 +1,53 @@
+---
+title: "Interpersonal Relations and Social Actions on Live Streaming Services. A Systematic Review on Cyber-social Relations"
+author:
+- Scheibe, Katrin
+- Zimmer, Franziska
+- Fietkiewicz, Kaja
+- Stock, Wolfgang G.
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.410"
+url: "http://hdl.handle.net/10125/79744"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ScheibeZimmerFietkiewiczEtAl2022,
+  colrev_pdf_id = {cpid2:fffffffffe6c9ffffffffffffffffffff800001fff83a1ffffffff7ff041821ffffff7ffff9f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff02b8ffff0ffc00ff081800ff001800ff001800ff001800ff001800ff001800ff001800ffffffffff0fffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2022/ScheibeZimmerFietkiewiczEtAl2022.pdf},
+  doi        = {10.24251/HICSS.2022.410},
+  author     = {Scheibe, Katrin and Zimmer, Franziska and Fietkiewicz, Kaja and Stock, Wolfgang G.},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Interpersonal Relations and Social Actions on Live Streaming Services. A Systematic Review on Cyber-social Relations},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79744},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/ScheibeZFS22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Scheibe, Katrin
+AU  - Zimmer, Franziska
+AU  - Fietkiewicz, Kaja
+AU  - Stock, Wolfgang G.
+TI  - Interpersonal Relations and Social Actions on Live Streaming Services. A Systematic Review on Cyber-social Relations
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.410
+UR  - http://hdl.handle.net/10125/79744
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.410>
+- URL: <http://hdl.handle.net/10125/79744>

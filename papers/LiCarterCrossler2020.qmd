@@ -1,0 +1,47 @@
+---
+title: "A Review on Consumer Health Information Technology Research in IS"
+author:
+- Li, Yafang
+- Carter, Michelle
+- Crossler, Robert E.
+topic: ""
+categories: []
+date: "2020"
+doi: ""
+url: "http://hdl.handle.net/10125/64193"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LiCarterCrossler2020,
+  colrev_pdf_id = {cpid2:fffffffffefffffffffffffffffffffff800001ffcfc3c1ff87c1c1fffffffffff9f800ff001800ff001800ff001805ff001800ff001800ff001800ff001800ff07f800fffff000ff0ff800ff001800ff001000ff001800ff000800ff001800ff001000ff001800ff001800ff000800ff001fffff0fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2020/Information Technology in Healthcare/LiCarterCrossler2020.pdf},
+  author     = {Li, Yafang and Carter, Michelle and Crossler, Robert E.},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {A Review on Consumer Health Information Technology Research in IS},
+  year       = {2020},
+  url        = {http://hdl.handle.net/10125/64193}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Li, Yafang
+AU  - Carter, Michelle
+AU  - Crossler, Robert E.
+TI  - A Review on Consumer Health Information Technology Research in IS
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2020
+UR  - http://hdl.handle.net/10125/64193
+ER  - 
+```
+## Links
+
+- URL: <http://hdl.handle.net/10125/64193>

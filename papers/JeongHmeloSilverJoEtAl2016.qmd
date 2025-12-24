@@ -1,0 +1,52 @@
+---
+title: "CSCL in STEM Education - Preliminary Findings from a Meta-Analysis"
+author:
+- Jeong, Heisawn
+- Hmelo-Silver, Cindy E.
+- Jo, Kihyun
+- Shin, Myungho
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.11"
+url: "https://ieeexplore.ieee.org/document/7427186/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{JeongHmeloSilverJoEtAl2016,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800001ff8f0f73ff860f27fff9fbffff001000ff000000ff000000ff001000ff001000ff001000ff001000ffffb000ff0ff87fff84d87fff000800ff001000ff001000ff000000ff000000ff001000ff000000ff029000ff0ff000ff87f000ff001000ff7ffffefe1ffffe7ffffffff},
+  file       = {data/pdfs/2016/JeongHmeloSilverJoEtAl2016.pdf},
+  doi        = {10.1109/HICSS.2016.11},
+  author     = {Jeong, Heisawn and Hmelo-Silver, Cindy E. and Jo, Kihyun and Shin, Myungho},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {CSCL in STEM Education - Preliminary Findings from a Meta-Analysis},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427186/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Jeong, Heisawn
+AU  - Hmelo-Silver, Cindy E.
+AU  - Jo, Kihyun
+AU  - Shin, Myungho
+TI  - CSCL in STEM Education - Preliminary Findings from a Meta-Analysis
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.11
+UR  - https://ieeexplore.ieee.org/document/7427186/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2016.11>
+- URL: <https://ieeexplore.ieee.org/document/7427186/>

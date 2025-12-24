@@ -1,0 +1,50 @@
+---
+title: "How and Why Users Use Social TV Systems? A Systematic Review of User Studies"
+author:
+- Bautista, John Robert
+- Lin, Trisha T. C.
+- Theng, Yin-Leng
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.482"
+url: "https://ieeexplore.ieee.org/document/7427666/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BautistaLinTheng2016,
+  colrev_pdf_id = {cpid2:ffffffffffffffffffffffffffffffffff8001ffff8001fffffffffff800000fff8001fffffffffff81d000ff000000ff001000ff001000ff000000ff000000ff000000ff000000ff001000fff7f000ff0ff000ff0ff800ff000000ff000000ff000000ff0008ffff00083fff00080fff001800fffffffcfe0ffffe7ffffffff},
+  file       = {data/pdfs/2016/BautistaLinTheng2016.pdf},
+  doi        = {10.1109/HICSS.2016.482},
+  author     = {Bautista, John Robert and Lin, Trisha T. C. and Theng, Yin-Leng},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {How and Why Users Use Social TV Systems? A Systematic Review of User Studies},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427666/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Bautista, John Robert
+AU  - Lin, Trisha T. C.
+AU  - Theng, Yin-Leng
+TI  - How and Why Users Use Social TV Systems? A Systematic Review of User Studies
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.482
+UR  - https://ieeexplore.ieee.org/document/7427666/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2016.482>
+- URL: <https://ieeexplore.ieee.org/document/7427666/>

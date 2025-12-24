@@ -1,0 +1,47 @@
+---
+title: "Not So Digital After All? A Look at the Nature of Digital Nudging through the Prism of the Digital Object Concept"
+author:
+- Bartosiak, Marcin
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.532"
+url: "http://hdl.handle.net/10125/79869"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{Bartosiak2022,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff000000fffe097ffffff3ffffffc1ffffffffffffa1d800ff001800ff001800ff001800ff001800ff001800ff001800ff0ff800ff8ff000ff001880ff001800ff001800ff001800ff001800ff001800ff001000ff001020ff001800ff001000ff4c1edfff0dffffff0fc3fffffffffff},
+  file       = {data/pdfs/2022/Bartosiak2022.pdf},
+  doi        = {10.24251/HICSS.2022.532},
+  author     = {Bartosiak, Marcin},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Not So Digital After All? A Look at the Nature of Digital Nudging through the Prism of the Digital Object Concept},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79869},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/Bartosiak22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Bartosiak, Marcin
+TI  - Not So Digital After All? A Look at the Nature of Digital Nudging through the Prism of the Digital Object Concept
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.532
+UR  - http://hdl.handle.net/10125/79869
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.532>
+- URL: <http://hdl.handle.net/10125/79869>

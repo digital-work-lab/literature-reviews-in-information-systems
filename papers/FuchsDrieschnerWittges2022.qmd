@@ -1,0 +1,51 @@
+---
+title: "Improving Support Ticket Systems Using Machine Learning: A Literature Review"
+author:
+- Fuchs, Simon
+- Drieschner, Clemens
+- Wittges, Holger
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.238"
+url: "http://hdl.handle.net/10125/79570"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{FuchsDrieschnerWittges2022,
+  colrev_pdf_id = {cpid2:fffffffffe6c9ffffffffffffffffffffc00003ffffc9ffffe7e3e3ffc381c0fffffffffff1f800ff001800ff001800ff001800ff001800ff001808ff001800ff001800ff001800ff00180aff0ff800ff0ff800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001faeff0dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2022/FuchsDrieschnerWittges2022.pdf},
+  doi        = {10.24251/HICSS.2022.238},
+  author     = {Fuchs, Simon and Drieschner, Clemens and Wittges, Holger},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Improving Support Ticket Systems Using Machine Learning: A Literature Review},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79570},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/FuchsDW22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Fuchs, Simon
+AU  - Drieschner, Clemens
+AU  - Wittges, Holger
+TI  - Improving Support Ticket Systems Using Machine Learning: A Literature Review
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.238
+UR  - http://hdl.handle.net/10125/79570
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.238>
+- URL: <http://hdl.handle.net/10125/79570>

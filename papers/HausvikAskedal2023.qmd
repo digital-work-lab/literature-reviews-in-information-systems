@@ -1,0 +1,46 @@
+---
+title: "Digital Innovation of Healthcare Services in Times of Crisis and Beyond"
+author:
+- Hausvik, Geir Inge
+- Askedal, Kirsti
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/102859"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HausvikAskedal2023,
+  colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffff800001ffffffffffe0ff07fff3ff87fff1d800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff3ff800ff00f800ff0ff800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ffffffffff0dffffff0fc3fffffffffff},
+  file       = {data/pdfs/2023/HausvikAskedal2023.pdf},
+  author     = {Hausvik, Geir Inge and Askedal, Kirsti},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Digital Innovation of Healthcare Services in Times of Crisis and Beyond},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/102859},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/HausvikA23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hausvik, Geir Inge
+AU  - Askedal, Kirsti
+TI  - Digital Innovation of Healthcare Services in Times of Crisis and Beyond
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/102859
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/102859>

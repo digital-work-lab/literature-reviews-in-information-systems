@@ -1,0 +1,53 @@
+---
+title: "How to establish a lasting remote work concept in organizations: A classification for the operational design of remote work"
+author:
+- Schuh, Günther
+- Herkenrath, Clara
+- Boos, Wolfgang
+- Hoeborn, Gerrit
+- Boenig, Julian
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.092"
+url: "https://hdl.handle.net/10125/106469"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SchuhHerkenrathBoosEtAl2024,
+  file       = {data/pdfs/2024/SchuhHerkenrathBoosEtAl2024.pdf},
+  doi        = {10.24251/HICSS.2024.092},
+  author     = {Schuh, Günther and Herkenrath, Clara and Boos, Wolfgang and Hoeborn, Gerrit and Boenig, Julian},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {How to establish a lasting remote work concept in organizations: A classification for the operational design of remote work},
+  year       = {2024},
+  url        = {https://hdl.handle.net/10125/106469}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Schuh, Günther
+AU  - Herkenrath, Clara
+AU  - Boos, Wolfgang
+AU  - Hoeborn, Gerrit
+AU  - Boenig, Julian
+TI  - How to establish a lasting remote work concept in organizations: A classification for the operational design of remote work
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+DO  - 10.24251/HICSS.2024.092
+UR  - https://hdl.handle.net/10125/106469
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.092>
+- URL: <https://hdl.handle.net/10125/106469>

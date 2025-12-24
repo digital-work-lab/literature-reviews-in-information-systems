@@ -1,0 +1,48 @@
+---
+title: "Collaboration with Digital Capabilities enhance firm's ESG Management: A Systematic Literature Review"
+author:
+- Md, Kabir
+- Ko, Ilsang
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.061"
+url: "https://hdl.handle.net/10125/106436"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MdKo2024,
+  colrev_pdf_id = {cpid2:fffffffffc7092bffffffffff000000ffff007ffff1ff9fffe07f0ffffbfffffff9f800ff001800ff001800ff001800ff001800ff001800ff001800ff0a1840ff001800ff3ff800ff005800ff8ff800ff8ff800ff001800ff001800ff001800ff001800ff001800ff001801ff001800ff000000fffffffffffffffffffffffff},
+  file       = {data/pdfs/2024/MdKo2024.pdf},
+  doi        = {10.24251/HICSS.2024.061},
+  author     = {Md, Kabir and Ko, Ilsang},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Collaboration with Digital Capabilities enhance firm's ESG Management: A Systematic Literature Review},
+  year       = {2024},
+  url        = {https://hdl.handle.net/10125/106436}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Md, Kabir
+AU  - Ko, Ilsang
+TI  - Collaboration with Digital Capabilities enhance firm's ESG Management: A Systematic Literature Review
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+DO  - 10.24251/HICSS.2024.061
+UR  - https://hdl.handle.net/10125/106436
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.061>
+- URL: <https://hdl.handle.net/10125/106436>

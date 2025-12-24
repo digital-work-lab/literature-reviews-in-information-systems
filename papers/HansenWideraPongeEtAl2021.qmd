@@ -1,0 +1,48 @@
+---
+title: "Machine Learning for Readability Assessment and Text Simplification in Crisis Communication - A Systematic Review"
+author:
+- Hansen, Hieronymus
+- Widera, Adam
+- Ponge, Johannes
+- Hellingrath, Bernd
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://hdl.handle.net/10125/70890"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HansenWideraPongeEtAl2021,
+  file       = {data/pdfs/2021/HansenWideraPongeEtAl2021.pdf},
+  author     = {Hansen, Hieronymus and Widera, Adam and Ponge, Johannes and Hellingrath, Bernd},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Machine Learning for Readability Assessment and Text Simplification in Crisis Communication - A Systematic Review},
+  year       = {2021},
+  url        = {https://hdl.handle.net/10125/70890}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hansen, Hieronymus
+AU  - Widera, Adam
+AU  - Ponge, Johannes
+AU  - Hellingrath, Bernd
+TI  - Machine Learning for Readability Assessment and Text Simplification in Crisis Communication - A Systematic Review
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2021
+UR  - https://hdl.handle.net/10125/70890
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/70890>

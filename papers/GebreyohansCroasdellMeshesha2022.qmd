@@ -1,0 +1,51 @@
+---
+title: "A Systematic Literature Review on Digital Knowledge Sharing in Higher Education"
+author:
+- Gebreyohans, Gebremedhin
+- Croasdell, Dave T.
+- Meshesha, Million
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.668"
+url: "http://hdl.handle.net/10125/80006"
+journal:
+  name: ""
+cited_by: 1
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GebreyohansCroasdellMeshesha2022,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffffc00003ffff91ffff83fbe3ff83c3c1fff3f80cff0218007e001800fe001800fe0018007e0018007f0018007e0018007e001800ff0038007f1ff8007f0018007e001810fe0018007e0018007e0018007e0018007f009806fe0018007e0018007f4018007f1dffffff1fc3fffffffffff},
+  file       = {data/pdfs/2022/GebreyohansCroasdellMeshesha2022.pdf},
+  doi        = {10.24251/HICSS.2022.668},
+  author     = {Gebreyohans, Gebremedhin and Croasdell, Dave T. and Meshesha, Million},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {A Systematic Literature Review on Digital Knowledge Sharing in Higher Education},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/80006},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/GebreyohansCM22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Gebreyohans, Gebremedhin
+AU  - Croasdell, Dave T.
+AU  - Meshesha, Million
+TI  - A Systematic Literature Review on Digital Knowledge Sharing in Higher Education
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.668
+UR  - http://hdl.handle.net/10125/80006
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.668>
+- URL: <http://hdl.handle.net/10125/80006>

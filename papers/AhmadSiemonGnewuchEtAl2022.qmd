@@ -1,0 +1,53 @@
+---
+title: "A Framework of Personality Cues for Conversational Agents"
+author:
+- Ahmad, Rangina
+- Siemon, Dominik
+- Gnewuch, Ulrich
+- Robra-Bissantz, Susanne
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.524"
+url: "http://hdl.handle.net/10125/79861"
+journal:
+  name: ""
+cited_by: 1
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AhmadSiemonGnewuchEtAl2022,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffffe00003fffc7e3ffff83c3ffff83c1ffff81c1ffff1f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff3ff800ff0ff800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff201800ff1fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2022/AhmadSiemonGnewuchEtAl2022.pdf},
+  doi        = {10.24251/HICSS.2022.524},
+  author     = {Ahmad, Rangina and Siemon, Dominik and Gnewuch, Ulrich and Robra-Bissantz, Susanne},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {A Framework of Personality Cues for Conversational Agents},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79861},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/AhmadSGR22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ahmad, Rangina
+AU  - Siemon, Dominik
+AU  - Gnewuch, Ulrich
+AU  - Robra-Bissantz, Susanne
+TI  - A Framework of Personality Cues for Conversational Agents
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.524
+UR  - http://hdl.handle.net/10125/79861
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.524>
+- URL: <http://hdl.handle.net/10125/79861>

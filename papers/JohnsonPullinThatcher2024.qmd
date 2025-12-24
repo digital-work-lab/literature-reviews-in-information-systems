@@ -1,0 +1,50 @@
+---
+title: "Understanding Internet Self-Efficacy in a Post-Adoption World: A Meta-Analysis"
+author:
+- Johnson, Richard
+- Pullin, Jennifer E.
+- Thatcher, Jason Bennett
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.559"
+url: "https://hdl.handle.net/10125/106944"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{JohnsonPullinThatcher2024,
+  colrev_pdf_id = {cpid2:fffffffffe749efffffffffffffffffff800001ffffe7ffffc3f1e1ff81e0c1ffffffffffd0d800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff1ff800ff037800ff0ff000ff8ff000ff00183fff00181fff00183fff001800ff001800ff001800ff001800ff001800ff0dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2024/JohnsonPullinThatcher2024.pdf},
+  doi        = {10.24251/HICSS.2024.559},
+  author     = {Johnson, Richard and Pullin, Jennifer E. and Thatcher, Jason Bennett},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Understanding Internet Self-Efficacy in a Post-Adoption World: A Meta-Analysis},
+  year       = {2024},
+  url        = {https://hdl.handle.net/10125/106944}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Johnson, Richard
+AU  - Pullin, Jennifer E.
+AU  - Thatcher, Jason Bennett
+TI  - Understanding Internet Self-Efficacy in a Post-Adoption World: A Meta-Analysis
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+DO  - 10.24251/HICSS.2024.559
+UR  - https://hdl.handle.net/10125/106944
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.559>
+- URL: <https://hdl.handle.net/10125/106944>

@@ -1,0 +1,51 @@
+---
+title: "The Role of Gamification in Health Behavior Change - A Review of Theory-driven Studies"
+author:
+- Schmidt-Kraepelin, Manuel
+- Warsinsky, Simon
+- Thiebes, Scott
+- Sunyaev, Ali
+topic: ""
+categories: []
+date: "2020"
+doi: "https://doi.org/10.24251/HICSS.2020.155"
+url: "http://hdl.handle.net/10125/63894"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SchmidtKraepelinWarsinskyThiebesEtAl2020,
+  file       = {data/pdfs/2020/SchmidtKraepelinWarsinskyThiebesEtAl2020.pdf},
+  doi        = {10.24251/HICSS.2020.155},
+  author     = {Schmidt-Kraepelin, Manuel and Warsinsky, Simon and Thiebes, Scott and Sunyaev, Ali},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {The Role of Gamification in Health Behavior Change - A Review of Theory-driven Studies},
+  year       = {2020},
+  url        = {http://hdl.handle.net/10125/63894}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Schmidt-Kraepelin, Manuel
+AU  - Warsinsky, Simon
+AU  - Thiebes, Scott
+AU  - Sunyaev, Ali
+TI  - The Role of Gamification in Health Behavior Change - A Review of Theory-driven Studies
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2020
+DO  - 10.24251/HICSS.2020.155
+UR  - http://hdl.handle.net/10125/63894
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2020.155>
+- URL: <http://hdl.handle.net/10125/63894>

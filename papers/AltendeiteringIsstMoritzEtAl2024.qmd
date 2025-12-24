@@ -1,0 +1,51 @@
+---
+title: "Data Quality Tools: Towards a Software Reference Architecture"
+author:
+- Altendeitering, Marcel
+- Guggenberger, Tobias Moritz
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.740"
+url: "https://hdl.handle.net/10125/107125"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AltendeiteringIsstMoritzEtAl2024,
+  colrev_pdf_id = {cpid2:fffffffffe7492fffffffffffffffffffc00003fffeff5ffff07c0fffe01a23fff9f960ff001000ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001837ff1ff800ff201800ff0fd000ff8ff000ff001000ff000800ff001000ff001800ff001800ff001802fff7f92fff1fffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2024/AltendeiteringIsstMoritzEtAl2024.pdf},
+  doi        = {10.24251/HICSS.2024.740},
+  author     = {Altendeitering, Marcel and Guggenberger, Tobias Moritz},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Data Quality Tools: Towards a Software Reference Architecture},
+  year       = {2024},
+  pages      = {6159--6168},
+  url        = {https://hdl.handle.net/10125/107125}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Altendeitering, Marcel
+AU  - Guggenberger, Tobias Moritz
+TI  - Data Quality Tools: Towards a Software Reference Architecture
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+SP  - 6159
+EP  - 6168
+DO  - 10.24251/HICSS.2024.740
+UR  - https://hdl.handle.net/10125/107125
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.740>
+- URL: <https://hdl.handle.net/10125/107125>

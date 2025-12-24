@@ -1,0 +1,50 @@
+---
+title: "Design Principles for Industrie 4.0 Scenarios"
+author:
+- Hermann, Mario
+- Pentek, Tobias
+- Otto, Boris
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.488"
+url: "https://ieeexplore.ieee.org/document/7427673/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HermannPentekOtto2016,
+  colrev_pdf_id = {cpid2:ffffffffffffffffffffffffffffffffff8001fffc7e7f3ff03c3e1fff9fadeff001000ff000000ff001800ff001800ff001000ff001000ff001800ff04d000fffff000ff0ff000ff000000ff001840ff001000ff001801ff001800ff001000ff001000ff001000ff0b9100ff001000ff000000fffffffffe0ffffe7ffffffff},
+  file       = {data/pdfs/2016/HermannPentekOtto2016.pdf},
+  doi        = {10.1109/HICSS.2016.488},
+  author     = {Hermann, Mario and Pentek, Tobias and Otto, Boris},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Design Principles for Industrie 4.0 Scenarios},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427673/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hermann, Mario
+AU  - Pentek, Tobias
+AU  - Otto, Boris
+TI  - Design Principles for Industrie 4.0 Scenarios
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.488
+UR  - https://ieeexplore.ieee.org/document/7427673/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2016.488>
+- URL: <https://ieeexplore.ieee.org/document/7427673/>

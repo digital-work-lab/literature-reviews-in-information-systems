@@ -1,0 +1,50 @@
+---
+title: "Gamification in Crowdsourcing - A Review"
+author:
+- Morschheuser, Benedikt
+- Hamari, Juho
+- Koivisto, Jonna
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.543"
+url: "https://ieeexplore.ieee.org/document/7427729/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MorschheuserHamariKoivisto2016,
+  colrev_pdf_id = {cpid2:ffffffffffffffffffffffffffffffffffc001fff83c3e1ff0181c0ff87c3c1ffffffffff909000ff001000ff000000ff000000ff001000ff001000ff000000ff001000ff001000ff001808ff0ff000ff001000ff000000ff000000fffff03ffffffff3ffffffdfffffff7fffffffffffc00007ffca2006fe0ffffe7ffffffff},
+  file       = {data/pdfs/2016/MorschheuserHamariKoivisto2016.pdf},
+  doi        = {10.1109/HICSS.2016.543},
+  author     = {Morschheuser, Benedikt and Hamari, Juho and Koivisto, Jonna},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Gamification in Crowdsourcing - A Review},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427729/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Morschheuser, Benedikt
+AU  - Hamari, Juho
+AU  - Koivisto, Jonna
+TI  - Gamification in Crowdsourcing - A Review
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.543
+UR  - https://ieeexplore.ieee.org/document/7427729/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2016.543>
+- URL: <https://ieeexplore.ieee.org/document/7427729/>

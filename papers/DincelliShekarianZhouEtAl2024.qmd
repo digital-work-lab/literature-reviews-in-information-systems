@@ -1,0 +1,55 @@
+---
+title: "The Role of Head-Mounted Display (HMD)-Based Meta-Apps in Advancing Healthcare"
+author:
+- Dincelli, Ersin
+- Shekarian, Naser
+- Zhou, Xin
+- Ozkaynak, Mustafa
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.590"
+url: "https://hdl.handle.net/10125/106975"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{DincelliShekarianZhouEtAl2024,
+  colrev_pdf_id = {cpid2:fffffffffe749ffffffffffffffffffff000000ffffc7fffff9ff9fffe07e07fff8fc03fff0fc03fff1f800ff001800ff001800ff001800ff001800ff001000ff001800ff001800ff001000ff001800ff0ff800ff05f800ff0ff000ff0ff828ff000800ff001800ff001800ff001000ffff99ffff1dffffff0fc3fffffffffff},
+  file       = {data/pdfs/2024/DincelliShekarianZhouEtAl2024.pdf},
+  doi        = {10.24251/HICSS.2024.590},
+  author     = {Dincelli, Ersin and Shekarian, Naser and Zhou, Xin and Ozkaynak, Mustafa},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {The Role of Head-Mounted Display (HMD)-Based Meta-Apps in Advancing Healthcare},
+  year       = {2024},
+  pages      = {4931--4940},
+  url        = {https://hdl.handle.net/10125/106975}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Dincelli, Ersin
+AU  - Shekarian, Naser
+AU  - Zhou, Xin
+AU  - Ozkaynak, Mustafa
+TI  - The Role of Head-Mounted Display (HMD)-Based Meta-Apps in Advancing Healthcare
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+SP  - 4931
+EP  - 4940
+DO  - 10.24251/HICSS.2024.590
+UR  - https://hdl.handle.net/10125/106975
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.590>
+- URL: <https://hdl.handle.net/10125/106975>

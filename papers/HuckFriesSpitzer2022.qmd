@@ -1,0 +1,49 @@
+---
+title: "Why apply agile? - A literature review on work outcomes in agile information systems development"
+author:
+- Huck-Fries, Veronika
+- Spitzer, Rosa
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.884"
+url: "http://hdl.handle.net/10125/80226"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HuckFriesSpitzer2022,
+  colrev_pdf_id = {cpid2:fffffffffefffffffffffffffffffffffe00007ffe00207fff81c1ffff81c3ffff3fbf0ff001800ff001800ff001800ff001800ff001800ff001800ff703800ff1ff800ff057800ff001800ff001800ff001800ff00195cff001800ff001800ff001800ff001802ff001800ff001800ff14181fff0dffffff0fc3fffffffffff},
+  file       = {data/pdfs/2022/HuckFriesSpitzer2022.pdf},
+  doi        = {10.24251/HICSS.2022.884},
+  author     = {Huck-Fries, Veronika and Spitzer, Rosa},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Why apply agile? - A literature review on work outcomes in agile information systems development},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/80226},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/Huck-FriesS22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Huck-Fries, Veronika
+AU  - Spitzer, Rosa
+TI  - Why apply agile? - A literature review on work outcomes in agile information systems development
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.884
+UR  - http://hdl.handle.net/10125/80226
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.884>
+- URL: <http://hdl.handle.net/10125/80226>

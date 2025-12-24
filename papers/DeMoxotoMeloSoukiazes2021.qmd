@@ -1,0 +1,46 @@
+---
+title: "Initial Coin Offering (ICO) - a systematic review of the literature"
+author:
+- De Moxoto, Ana Claudia
+- Melo, Paulo
+- Soukiazes, Elias
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://hdl.handle.net/10125/71124"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{DeMoxotoMeloSoukiazes2021,
+  file       = {data/pdfs/2021/DeMoxotoMeloSoukiazes2021.pdf},
+  author     = {De Moxoto, Ana Claudia and Melo, Paulo and Soukiazes, Elias},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Initial Coin Offering (ICO) - a systematic review of the literature},
+  year       = {2021},
+  url        = {https://hdl.handle.net/10125/71124}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - De Moxoto, Ana Claudia
+AU  - Melo, Paulo
+AU  - Soukiazes, Elias
+TI  - Initial Coin Offering (ICO) - a systematic review of the literature
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2021
+UR  - https://hdl.handle.net/10125/71124
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/71124>

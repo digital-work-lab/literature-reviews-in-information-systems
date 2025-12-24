@@ -1,0 +1,48 @@
+---
+title: "Information Privacy Awareness (IPA) - A Review of the Use, Definition and Measurement of IPA"
+author:
+- Correia, John
+- Compeau, Deborah
+topic: ""
+categories: []
+date: "2017"
+doi: "https://doi.org/10.24251/HICSS.2017.486"
+url: "http://hdl.handle.net/10125/41646"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{CorreiaCompeau2017,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffffe00007fff0c087ffe0ff03fff6ff0bfff9fffffff9f800ff001000ff000000ff001000ff001810ff001800ff001800ff07f800ff1ff800ff0fd800ff001800ff001800ff000800ff000800ff001000ff001000ff001800ff001800ff009800fffffb24ffffffffff03c7fffffffffff},
+  file       = {data/pdfs/2017/in/behavioral_is_security/CorreiaCompeau2017.pdf},
+  doi        = {10.24251/HICSS.2017.486},
+  author     = {Correia, John and Compeau, Deborah},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Information Privacy Awareness (IPA) - A Review of the Use, Definition and Measurement of IPA},
+  year       = {2017},
+  url        = {http://hdl.handle.net/10125/41646}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Correia, John
+AU  - Compeau, Deborah
+TI  - Information Privacy Awareness (IPA) - A Review of the Use, Definition and Measurement of IPA
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2017
+DO  - 10.24251/HICSS.2017.486
+UR  - http://hdl.handle.net/10125/41646
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2017.486>
+- URL: <http://hdl.handle.net/10125/41646>

@@ -1,0 +1,47 @@
+---
+title: "Beyond Business-IT Alignment - Digital Business Strategies as a Paradigmatic Shift - A Review and Research Agenda"
+author:
+- Kahre, Cathrin
+- Hoffmann, David
+- Ahlemann, Frederik
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+url: "http://hdl.handle.net/10125/41736"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KahreHoffmannAhlemann2017,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000000fffdb13fffc7c3e1ff038180fffffffffff9f000ff001800ff001000ff001000ff001800ff001800ff001000ff001000ff001800fffff800ff0ff800ff001800ff001800ff009800ff001800ff001800ff001800ff001800ff001800ff3d9fffffffffffff03c7fffffffffff},
+  file       = {data/pdfs/2017/os/digital_innovation/KahreHoffmannAhlemann2017.pdf},
+  author     = {Kahre, Cathrin and Hoffmann, David and Ahlemann, Frederik},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Beyond Business-IT Alignment - Digital Business Strategies as a Paradigmatic Shift - A Review and Research Agenda},
+  year       = {2017},
+  url        = {http://hdl.handle.net/10125/41736}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Kahre, Cathrin
+AU  - Hoffmann, David
+AU  - Ahlemann, Frederik
+TI  - Beyond Business-IT Alignment - Digital Business Strategies as a Paradigmatic Shift - A Review and Research Agenda
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2017
+UR  - http://hdl.handle.net/10125/41736
+ER  - 
+```
+## Links
+
+- URL: <http://hdl.handle.net/10125/41736>

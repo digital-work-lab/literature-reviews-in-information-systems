@@ -1,0 +1,50 @@
+---
+title: "What Is Ethical AI? - Design Guidelines and Principles in the Light of Different Regions, Countries, and Cultures"
+author:
+- Lier, Sarah Kristin
+- Gerlach, Jana
+- Breitner, Michael H.
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.821"
+url: "https://hdl.handle.net/10125/107207"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LierGerlachBreitner2024,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800001fffc36bfffcfffe3ff818181fffffffffff1f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff00f800ff00f800fffff000ff0ff000ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001803ff1fffffff1fc3fffffffffff},
+  file       = {data/pdfs/2024/LierGerlachBreitner2024.pdf},
+  doi        = {10.24251/HICSS.2024.821},
+  author     = {Lier, Sarah Kristin and Gerlach, Jana and Breitner, Michael H.},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {What Is Ethical AI? - Design Guidelines and Principles in the Light of Different Regions, Countries, and Cultures},
+  year       = {2024},
+  url        = {https://hdl.handle.net/10125/107207}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Lier, Sarah Kristin
+AU  - Gerlach, Jana
+AU  - Breitner, Michael H.
+TI  - What Is Ethical AI? - Design Guidelines and Principles in the Light of Different Regions, Countries, and Cultures
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+DO  - 10.24251/HICSS.2024.821
+UR  - https://hdl.handle.net/10125/107207
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.821>
+- URL: <https://hdl.handle.net/10125/107207>

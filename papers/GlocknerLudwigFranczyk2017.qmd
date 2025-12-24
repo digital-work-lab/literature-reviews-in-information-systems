@@ -1,0 +1,47 @@
+---
+title: "Go with the Flow - Design of Cloud Logistics Service Blueprints"
+author:
+- Glöckner, Michael
+- Ludwig, André
+- Franczyk, Bogdan
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+url: "http://hdl.handle.net/10125/41776"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GlocknerLudwigFranczyk2017,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffc10003fffffffffffe00fffffe003ffffffffffe001e727e0000007e0008007e0008007e0008007e0008007e0018007e8070007fd878007e0018007e0018007e0018007e0018007e00180ffe0008007e0018007e001801fe0018007e0018007e0010007e0018007fffffffff07e7fffffffffff},
+  file       = {data/pdfs/2017/os/integrating_business_it_consumer/GlocknerLudwigFranczyk2017.pdf},
+  author     = {Glöckner, Michael and Ludwig, André and Franczyk, Bogdan},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Go with the Flow - Design of Cloud Logistics Service Blueprints},
+  year       = {2017},
+  url        = {http://hdl.handle.net/10125/41776}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Glöckner, Michael
+AU  - Ludwig, André
+AU  - Franczyk, Bogdan
+TI  - Go with the Flow - Design of Cloud Logistics Service Blueprints
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2017
+UR  - http://hdl.handle.net/10125/41776
+ER  - 
+```
+## Links
+
+- URL: <http://hdl.handle.net/10125/41776>

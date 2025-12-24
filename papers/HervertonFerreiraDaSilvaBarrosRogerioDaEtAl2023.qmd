@@ -1,0 +1,49 @@
+---
+title: "How Machine Learning Can Help the Classification of Treatment Outcomes of Tuberculosis: A Systematic Review"
+author:
+- Herverton, Maicon
+- Ferreira Da Silva Barros, Lino
+- Rogerio Da, Sebastião
+- Neto, Silva
+- Gabriela De Almeida Rodrigues, Maria
+- De Souza Sampaio, Vanderson
+- Endo, Patricia Takako
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HervertonFerreiraDaSilvaBarrosRogerioDaEtAl2023,
+  file       = {data/pdfs/2023/HervertonFerreiraDaSilvaBarrosRogerioDaEtAl2023.pdf},
+  author     = {Herverton, Maicon and Ferreira Da Silva Barros, Lino and Rogerio Da, Sebastião and Neto, Silva and Gabriela De Almeida Rodrigues, Maria and De Souza Sampaio, Vanderson and Endo, Patricia Takako},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {How Machine Learning Can Help the Classification of Treatment Outcomes of Tuberculosis: A Systematic Review},
+  year       = {2023}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Herverton, Maicon
+AU  - Ferreira Da Silva Barros, Lino
+AU  - Rogerio Da, Sebastião
+AU  - Neto, Silva
+AU  - Gabriela De Almeida Rodrigues, Maria
+AU  - De Souza Sampaio, Vanderson
+AU  - Endo, Patricia Takako
+TI  - How Machine Learning Can Help the Classification of Treatment Outcomes of Tuberculosis: A Systematic Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2023
+ER  - 
+```

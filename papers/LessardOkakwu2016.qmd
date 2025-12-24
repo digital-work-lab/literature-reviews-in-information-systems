@@ -1,0 +1,48 @@
+---
+title: "Enablers and Mechanisms of Value Cocreation in Knowledge-Intensive Business Service Engagements - A Research Synthesis"
+author:
+- Lessard, Lysanne
+- Okakwu, Chidinma Priscilla
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.205"
+url: "https://ieeexplore.ieee.org/document/7427384/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LessardOkakwu2016,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffc00003ffc00003fff0ff07ffe07f8ffff9fbfbff001000ff001800ff001000ff001000ff001000ff001000ff001000ff001000ff607000ff9ff000ff0fd000ff001802ff001000ff001800ff001000ff001000ff001000ff001000ff001000ff001800ff07f000fffffffefe0ffffe7ffffffff},
+  file       = {data/pdfs/2016/LessardOkakwu2016.pdf},
+  doi        = {10.1109/HICSS.2016.205},
+  author     = {Lessard, Lysanne and Okakwu, Chidinma Priscilla},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Enablers and Mechanisms of Value Cocreation in Knowledge-Intensive Business Service Engagements - A Research Synthesis},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427384/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Lessard, Lysanne
+AU  - Okakwu, Chidinma Priscilla
+TI  - Enablers and Mechanisms of Value Cocreation in Knowledge-Intensive Business Service Engagements - A Research Synthesis
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.205
+UR  - https://ieeexplore.ieee.org/document/7427384/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2016.205>
+- URL: <https://ieeexplore.ieee.org/document/7427384/>

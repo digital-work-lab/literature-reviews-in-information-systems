@@ -1,0 +1,50 @@
+---
+title: "Systematic Review of Social Networking Support Groups for Genetic-Disorders Pain Management"
+author:
+- Ashtari, Sadaf
+- Taylor, Joseph
+- Lai, Glen
+topic: ""
+categories: []
+date: "2020"
+doi: "https://doi.org/10.24251/HICSS.2020.423"
+url: "http://hdl.handle.net/10125/64165"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AshtariTaylorLai2020,
+  colrev_pdf_id = {cpid2:fffffffffe749ebffffffffffffffffff800001ffff00ffff83c3c1ff83c1e3fffffffffff1f800ff001000ff001800ff001000ff001800ff001800ff001800ff3ff000ff0ff800ff001800ff001000ff001000ff001000ff009000ff001000ff005000ff0008ffff00183fff000800ffff5fffff0fffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2020/Information Technology in Healthcare/AshtariTaylorLai2020.pdf},
+  doi        = {10.24251/HICSS.2020.423},
+  author     = {Ashtari, Sadaf and Taylor, Joseph and Lai, Glen},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Systematic Review of Social Networking Support Groups for Genetic-Disorders Pain Management},
+  year       = {2020},
+  url        = {http://hdl.handle.net/10125/64165}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ashtari, Sadaf
+AU  - Taylor, Joseph
+AU  - Lai, Glen
+TI  - Systematic Review of Social Networking Support Groups for Genetic-Disorders Pain Management
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2020
+DO  - 10.24251/HICSS.2020.423
+UR  - http://hdl.handle.net/10125/64165
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2020.423>
+- URL: <http://hdl.handle.net/10125/64165>

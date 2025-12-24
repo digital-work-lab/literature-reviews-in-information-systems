@@ -1,0 +1,48 @@
+---
+title: "Contextualist Inquiry into Hospital Revenue Cycle Transformation - Bridging Research and Practice"
+author:
+- Mindel, Vitali
+- Mathiassen, Lars
+topic: ""
+categories: []
+date: "2015"
+doi: "https://doi.org/10.1109/HICSS.2015.358"
+url: "https://ieeexplore.ieee.org/document/7070173/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MindelMathiassen2015,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff0000007fff80fffff1fffffff0fe07ffffffffff801000ff000000ff001000ff000000ff001028ff001000ff001000ff001000ff001000ff000000ff001000ff0ff000ff801800ff000000ff000000ff00183fff000807ff001820ff001000ff000000ff001000fffffffefe0ffffe7ffffffff},
+  file       = {data/pdfs/2015/MindelMathiassen2015.pdf},
+  doi        = {10.1109/HICSS.2015.358},
+  author     = {Mindel, Vitali and Mathiassen, Lars},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Contextualist Inquiry into Hospital Revenue Cycle Transformation - Bridging Research and Practice},
+  year       = {2015},
+  url        = {https://ieeexplore.ieee.org/document/7070173/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Mindel, Vitali
+AU  - Mathiassen, Lars
+TI  - Contextualist Inquiry into Hospital Revenue Cycle Transformation - Bridging Research and Practice
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2015
+DO  - 10.1109/HICSS.2015.358
+UR  - https://ieeexplore.ieee.org/document/7070173/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2015.358>
+- URL: <https://ieeexplore.ieee.org/document/7070173/>

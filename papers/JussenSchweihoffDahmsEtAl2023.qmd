@@ -1,0 +1,52 @@
+---
+title: "Data Sharing Fundamentals: Definition and Characteristics"
+author:
+- Jussen, Ilka
+- Schweihoff, Julia
+- Dahms, Valentin
+- Möller, Frederik
+- Otto, Boris
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/103083"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{JussenSchweihoffDahmsEtAl2023,
+  colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffffe00007ffe7c3e3ff818080fff0ff8fffe07f07fff1ff07ff801800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff229800ff007800ff0ff800ff001800ff001800ff001800ff00181fff001c00ff001c01ff001800ff421800ff0dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2023/JussenSchweihoffDahmsEtAl2023.pdf},
+  author     = {Jussen, Ilka and Schweihoff, Julia and Dahms, Valentin and Möller, Frederik and Otto, Boris},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Data Sharing Fundamentals: Definition and Characteristics},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/103083},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/JussenSDMO23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Jussen, Ilka
+AU  - Schweihoff, Julia
+AU  - Dahms, Valentin
+AU  - Möller, Frederik
+AU  - Otto, Boris
+TI  - Data Sharing Fundamentals: Definition and Characteristics
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/103083
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/103083>

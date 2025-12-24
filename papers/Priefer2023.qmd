@@ -1,0 +1,44 @@
+---
+title: "Geographic Information Systems in Information Systems Research - Review and Research Prospects"
+author:
+- Priefer, Jennifer
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/103252"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{Priefer2023,
+  colrev_pdf_id = {cpid2:fffffffffe4090bffffffffffffffffff800001ffffffffffffffffffffc3ffffff81fffffffffffffbfbefffd0f000ff001800ff001800ff001000ff001894ff001800ff001000ff001800ff001000ff00580cff2ff800ff003000ff8ff000ff001800ff001000ff001000ff000800ffff1880ff0dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2023/Priefer2023.pdf},
+  author     = {Priefer, Jennifer},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Geographic Information Systems in Information Systems Research - Review and Research Prospects},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/103252},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/Priefer23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Priefer, Jennifer
+TI  - Geographic Information Systems in Information Systems Research - Review and Research Prospects
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/103252
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/103252>

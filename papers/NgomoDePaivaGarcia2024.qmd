@@ -1,0 +1,41 @@
+---
+title: "Fake news detection by Machine Learning in Latin America: A Systematic Review"
+author:
+- Ngomo, Jean Gabriel Nguema
+- De Paiva, Raquel Torres
+- Garcia, Ana Cristina
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{NgomoDePaivaGarcia2024,
+  file       = {data/pdfs/2024/NgomoDePaivaGarcia2024.pdf},
+  author     = {Ngomo, Jean Gabriel Nguema and De Paiva, Raquel Torres and Garcia, Ana Cristina},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Fake news detection by Machine Learning in Latin America: A Systematic Review},
+  year       = {2024}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ngomo, Jean Gabriel Nguema
+AU  - De Paiva, Raquel Torres
+AU  - Garcia, Ana Cristina
+TI  - Fake news detection by Machine Learning in Latin America: A Systematic Review
+T2  - Hawaii International Conference on System Sciences
+PY  - 2024
+ER  - 
+```

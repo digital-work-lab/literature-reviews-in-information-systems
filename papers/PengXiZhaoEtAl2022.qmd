@@ -1,0 +1,53 @@
+---
+title: "Acceptance of Wearable Technology: A Meta-Analysis"
+author:
+- Peng, Chenming
+- Xi, Nannan
+- Zhao, Hong
+- Hamari, Juho
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.621"
+url: "http://hdl.handle.net/10125/79958"
+journal:
+  name: ""
+cited_by: 1
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{PengXiZhaoEtAl2022,
+  colrev_pdf_id = {cpid2:fffffffffe6c9fffffffffffffffffffff00007ffffffffff8f3c71ff061820ff8ffffffffffffffff1f800ff001000ff001800ff001800ff001800ff001800ff000800ff001800ff001800ff001800ff001000fffff800fffff800ff0ff000ff000800ff000800ff001800ff000800ff001807ff0dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2022/PengXiZhaoEtAl2022.pdf},
+  doi        = {10.24251/HICSS.2022.621},
+  author     = {Peng, Chenming and Xi, Nannan and Zhao, Hong and Hamari, Juho},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Acceptance of Wearable Technology: A Meta-Analysis},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79958},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/PengXHH22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Peng, Chenming
+AU  - Xi, Nannan
+AU  - Zhao, Hong
+AU  - Hamari, Juho
+TI  - Acceptance of Wearable Technology: A Meta-Analysis
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.621
+UR  - http://hdl.handle.net/10125/79958
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.621>
+- URL: <http://hdl.handle.net/10125/79958>

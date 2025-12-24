@@ -1,0 +1,53 @@
+---
+title: "Towards Sustainability of AI: A Systematic Review of Exisiting Life Cycle Assessment Approaches and Key Environmental Impact Parameters of Artificial Intelligence"
+author:
+- Dokic, Dusan
+- Woud, Florian Groen in't
+- Maass, Wolfgang
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.518"
+url: "https://hdl.handle.net/10125/106902"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{DokicWoudMaass2024,
+  colrev_pdf_id = {cpid2:fffffffffe749ffffffffffffffffffff000000ff880023ffffffffff8381c1ff818181fff3ffc1ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff00f800ff201800ff0ff83fff8ff87fff001c7fff001800ff001800ff001800ff001800ffffbfcbff1dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2024/DokicWoudMaass2024.pdf},
+  doi        = {10.24251/HICSS.2024.518},
+  author     = {Dokic, Dusan and Woud, Florian Groen in't and Maass, Wolfgang},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Towards Sustainability of AI: A Systematic Review of Exisiting Life Cycle Assessment Approaches and Key Environmental Impact Parameters of Artificial Intelligence},
+  year       = {2024},
+  pages      = {4301--4310},
+  url        = {https://hdl.handle.net/10125/106902}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Dokic, Dusan
+AU  - Woud, Florian Groen in't
+AU  - Maass, Wolfgang
+TI  - Towards Sustainability of AI: A Systematic Review of Exisiting Life Cycle Assessment Approaches and Key Environmental Impact Parameters of Artificial Intelligence
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+SP  - 4301
+EP  - 4310
+DO  - 10.24251/HICSS.2024.518
+UR  - https://hdl.handle.net/10125/106902
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.518>
+- URL: <https://hdl.handle.net/10125/106902>

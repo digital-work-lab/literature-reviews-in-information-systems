@@ -1,0 +1,55 @@
+---
+title: "Context-aware Knowledge-based Systems: A Literature Review"
+author:
+- Vu, Thi-My-Hang
+- Le Dinh, Thang
+- Nguyen, Anh Khoa
+- Dam, 
+- Pham-Nguyen, Cuong
+topic: ""
+categories: []
+date: "2023"
+doi: "https://doi.org/10.24251/HICSS.2023.558"
+url: "https://hdl.handle.net/10125/103190"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{VuLeDinhNguyenEtAl2023,
+  colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffffc00003ffffffffff821061ff821021ff87f061ff03f061ff07fffffff3f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff3ff800ff01f800ff0ff800ff001800ff001800ff001800ff001800ffc33810ff0fffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2023/VuLeDinhNguyenEtAl2023.pdf},
+  doi        = {10.24251/HICSS.2023.558},
+  author     = {Vu, Thi-My-Hang and Le Dinh, Thang and Nguyen, Anh Khoa and Dam,  and Pham-Nguyen, Cuong},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Context-aware Knowledge-based Systems: A Literature Review},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/103190},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/ThiDDP23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Vu, Thi-My-Hang
+AU  - Le Dinh, Thang
+AU  - Nguyen, Anh Khoa
+AU  - Dam,
+AU  - Pham-Nguyen, Cuong
+TI  - Context-aware Knowledge-based Systems: A Literature Review
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+DO  - 10.24251/HICSS.2023.558
+UR  - https://hdl.handle.net/10125/103190
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2023.558>
+- URL: <https://hdl.handle.net/10125/103190>

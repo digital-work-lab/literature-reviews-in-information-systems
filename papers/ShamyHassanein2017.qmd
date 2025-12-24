@@ -1,0 +1,45 @@
+---
+title: "A Meta-Analysis of Enjoyment Effect on Technology Acceptance - The Moderating Role of Technology Conventionality"
+author:
+- Shamy, Nour El
+- Hassanein, Khaled
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+url: "http://hdl.handle.net/10125/41661"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ShamyHassanein2017,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800001fff8221fffe1ff07ffeeffbffffbf8c8ff001000ff001800ff001800ff001800ff001802ff001800ff001800ff001800ff001800ff001800ff3ff800ffdff800ff8ff800ff001800ff001800ff001800ff001800ff001800ff001000ff041a77ffffffffff03e7fffffffffff},
+  file       = {data/pdfs/2017/in/diffusion_of_ict/ShamyHassanein2017.pdf},
+  author     = {Shamy, Nour El and Hassanein, Khaled},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {A Meta-Analysis of Enjoyment Effect on Technology Acceptance - The Moderating Role of Technology Conventionality},
+  year       = {2017},
+  url        = {http://hdl.handle.net/10125/41661}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Shamy, Nour El
+AU  - Hassanein, Khaled
+TI  - A Meta-Analysis of Enjoyment Effect on Technology Acceptance - The Moderating Role of Technology Conventionality
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2017
+UR  - http://hdl.handle.net/10125/41661
+ER  - 
+```
+## Links
+
+- URL: <http://hdl.handle.net/10125/41661>

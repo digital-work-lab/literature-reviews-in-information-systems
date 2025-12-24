@@ -1,0 +1,46 @@
+---
+title: "Digitalization and Early Internationalization: Systematic Literature Review Analyses"
+author:
+- Kusi, Emmanuel
+- Gabrielsson, Appiah Peter
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/103206"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KusiGabrielsson2023,
+  colrev_pdf_id = {cpid2:fffffffffe4c9effffffffffffffffffff8001ffffe417ffffffffffff01e0fffffffffffffffffff001800ff001800ff001800ff001800ff001800ff003800ff0ff800ff0ff800ff811800ff001800ff001800ff001866ff001800ff001800ff001800ff001800ff001800ff001800ff081ffbff0dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2023/KusiGabrielsson2023.pdf},
+  author     = {Kusi, Emmanuel and Gabrielsson, Appiah Peter},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Digitalization and Early Internationalization: Systematic Literature Review Analyses},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/103206},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/AppiahG23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Kusi, Emmanuel
+AU  - Gabrielsson, Appiah Peter
+TI  - Digitalization and Early Internationalization: Systematic Literature Review Analyses
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/103206
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/103206>

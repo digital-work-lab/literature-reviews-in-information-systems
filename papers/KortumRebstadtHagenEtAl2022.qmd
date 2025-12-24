@@ -1,0 +1,53 @@
+---
+title: "Integrating Data and Service Lifecycle for Smart Service Systems Engineering: Compilation of a Lifecycle Model for the Data Ecosystem of Smart Living"
+author:
+- Kortum, Henrik
+- Rebstadt, Jonas
+- Hagen, Simon
+- Thomas, Oliver
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.254"
+url: "http://hdl.handle.net/10125/79586"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KortumRebstadtHagenEtAl2022,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000000ff46c996ffffbeffff861820ffffdffffffbfbccff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff01f800ff0ff800ff801800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001fffff1fffffff1fc3fffffffffff},
+  file       = {data/pdfs/2022/KortumRebstadtHagenEtAl2022.pdf},
+  doi        = {10.24251/HICSS.2022.254},
+  author     = {Kortum, Henrik and Rebstadt, Jonas and Hagen, Simon and Thomas, Oliver},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Integrating Data and Service Lifecycle for Smart Service Systems Engineering: Compilation of a Lifecycle Model for the Data Ecosystem of Smart Living},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79586},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/KortumRHT22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Kortum, Henrik
+AU  - Rebstadt, Jonas
+AU  - Hagen, Simon
+AU  - Thomas, Oliver
+TI  - Integrating Data and Service Lifecycle for Smart Service Systems Engineering: Compilation of a Lifecycle Model for the Data Ecosystem of Smart Living
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.254
+UR  - http://hdl.handle.net/10125/79586
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.254>
+- URL: <http://hdl.handle.net/10125/79586>

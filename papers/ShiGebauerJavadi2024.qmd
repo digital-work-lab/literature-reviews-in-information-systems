@@ -1,0 +1,50 @@
+---
+title: "A Framework of AI Strategy"
+author:
+- Shi, Yao
+- Gebauer, Judith
+- Javadi, Elahe
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.027"
+url: "https://hdl.handle.net/10125/106402"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ShiGebauerJavadi2024,
+  colrev_pdf_id = {cpid2:fffffffffe749ffffffffffffffffffffff007fffffffffff8381c1ffc7c3e3fffffffffff1f800ff001800ff001800ff001800ff001892ff001800ff001000ff001800ff001000ff003800ff06d000ff0ff800ff8ff800ff000000ff001800ff001800ff001800ff001000ff000000ff001926ff0dffffff0fc3fffffffffff},
+  file       = {data/pdfs/2024/ShiGebauerJavadi2024.pdf},
+  doi        = {10.24251/HICSS.2024.027},
+  author     = {Shi, Yao and Gebauer, Judith and Javadi, Elahe},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {A Framework of AI Strategy},
+  year       = {2024},
+  url        = {https://hdl.handle.net/10125/106402}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Shi, Yao
+AU  - Gebauer, Judith
+AU  - Javadi, Elahe
+TI  - A Framework of AI Strategy
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+DO  - 10.24251/HICSS.2024.027
+UR  - https://hdl.handle.net/10125/106402
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.027>
+- URL: <https://hdl.handle.net/10125/106402>

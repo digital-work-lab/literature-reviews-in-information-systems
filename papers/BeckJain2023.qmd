@@ -1,0 +1,46 @@
+---
+title: "DLT-based Regulatory Systems Dynamics"
+author:
+- Beck, Roman
+- Jain, Geetika
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/103102"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BeckJain2023,
+  colrev_pdf_id = {cpid2:fffffffffeffffffffffffffffffffffff8001ffffc7e7ffffc3c3ffff1f800ff001800ff001000ff001800ff001800ff001800ff001800ff001800ff001800ff1ff800ff03f000ff0ff000ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001000fffdd800ff1fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2023/BeckJain2023.pdf},
+  author     = {Beck, Roman and Jain, Geetika},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {DLT-based Regulatory Systems Dynamics},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/103102},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/BeckJ23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Beck, Roman
+AU  - Jain, Geetika
+TI  - DLT-based Regulatory Systems Dynamics
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/103102
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/103102>

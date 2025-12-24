@@ -1,0 +1,50 @@
+---
+title: "Business Models for Free Digital Goods and Services"
+author:
+- Eling, Nicole
+- Buchner, Christian
+- Buxmann, Peter
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.188"
+url: "https://ieeexplore.ieee.org/document/7427367/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ElingBuchnerBuxmann2016,
+  colrev_pdf_id = {cpid2:ffffffffffffffffffffffffffffffffff0000ffff6c3e7ff87c3e0fffffffffff1fa08ff001000ff001000ff001000ff001000ff000800ff000800ff001000ff05d000ff0ff000ff8fd000ff000844fe000000ff001000ff000000ff000000ff000000ff001800ff001000ff000800ff001c01fffffffffe0ffffe7ffffffff},
+  file       = {data/pdfs/2016/ElingBuchnerBuxmann2016.pdf},
+  doi        = {10.1109/HICSS.2016.188},
+  author     = {Eling, Nicole and Buchner, Christian and Buxmann, Peter},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Business Models for Free Digital Goods and Services},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427367/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Eling, Nicole
+AU  - Buchner, Christian
+AU  - Buxmann, Peter
+TI  - Business Models for Free Digital Goods and Services
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.188
+UR  - https://ieeexplore.ieee.org/document/7427367/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2016.188>
+- URL: <https://ieeexplore.ieee.org/document/7427367/>

@@ -1,0 +1,48 @@
+---
+title: "Human-Robot Interaction: Mapping Literature Review and Network Analysis"
+author:
+- Oberhofer, Viviana
+- Seeber, Isabella
+- Maier, Ronald
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/102689"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{OberhoferSeeberMaier2023,
+  colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffff000000ffffffffff8181c0ffff80c0fffffffffff1f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff27f000ff001800ff03f800ff0ff800ff001800ff000800ff001800ff001000ff7dffffff3fffffff0dffffff0fc3fffffffffff},
+  file       = {data/pdfs/2023/OberhoferSeeberMaier2023.pdf},
+  author     = {Oberhofer, Viviana and Seeber, Isabella and Maier, Ronald},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Human-Robot Interaction: Mapping Literature Review and Network Analysis},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/102689},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/OberhoferSM23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Oberhofer, Viviana
+AU  - Seeber, Isabella
+AU  - Maier, Ronald
+TI  - Human-Robot Interaction: Mapping Literature Review and Network Analysis
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/102689
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/102689>

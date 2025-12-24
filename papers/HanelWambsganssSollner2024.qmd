@@ -1,0 +1,49 @@
+---
+title: "The Power of Reading Support for Learners: A State-of-the-Art Analysis of Computer-Assisted Reading from an Information Systems Perspective"
+author:
+- Hänel, Martin
+- Wambsganss, Thiemo
+- Söllner, Matthias
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.005"
+url: "https://hdl.handle.net/10125/106380"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HanelWambsganssSollner2024,
+  file       = {data/pdfs/2024/HanelWambsganssSollner2024.pdf},
+  doi        = {10.24251/HICSS.2024.005},
+  author     = {Hänel, Martin and Wambsganss, Thiemo and Söllner, Matthias},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {The Power of Reading Support for Learners: A State-of-the-Art Analysis of Computer-Assisted Reading from an Information Systems Perspective},
+  year       = {2024},
+  url        = {https://hdl.handle.net/10125/106380}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hänel, Martin
+AU  - Wambsganss, Thiemo
+AU  - Söllner, Matthias
+TI  - The Power of Reading Support for Learners: A State-of-the-Art Analysis of Computer-Assisted Reading from an Information Systems Perspective
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+DO  - 10.24251/HICSS.2024.005
+UR  - https://hdl.handle.net/10125/106380
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.005>
+- URL: <https://hdl.handle.net/10125/106380>

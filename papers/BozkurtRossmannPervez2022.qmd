@@ -1,0 +1,51 @@
+---
+title: "A Literature Review of Data Governance and Its Applicability to Smart Cities"
+author:
+- Bozkurt, Yusuf
+- Rossmann, Alexander
+- Pervez, Zeeshan
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.333"
+url: "http://hdl.handle.net/10125/79666"
+journal:
+  name: ""
+cited_by: 1
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BozkurtRossmannPervez2022,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff000000ffffffffff838180ffc3e3ffffffffffff801000ff001800ff001800ff001800ff001000ff001800ff001800ff001800ff0ff800ff8ff800ff00103fff00187eff00181fff001800ff001000ff00180aff001800ff001000ff001000fff35800ff1dffffff0fc3fffffffffff},
+  file       = {data/pdfs/2022/BozkurtRossmannPervez2022.pdf},
+  doi        = {10.24251/HICSS.2022.333},
+  author     = {Bozkurt, Yusuf and Rossmann, Alexander and Pervez, Zeeshan},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {A Literature Review of Data Governance and Its Applicability to Smart Cities},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79666},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/BozkurtRP22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Bozkurt, Yusuf
+AU  - Rossmann, Alexander
+AU  - Pervez, Zeeshan
+TI  - A Literature Review of Data Governance and Its Applicability to Smart Cities
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.333
+UR  - http://hdl.handle.net/10125/79666
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.333>
+- URL: <http://hdl.handle.net/10125/79666>

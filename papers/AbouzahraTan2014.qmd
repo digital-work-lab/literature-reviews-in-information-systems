@@ -1,0 +1,48 @@
+---
+title: "The Effect of Community Type on Knowledge Sharing Incentives in Online Communities - A Meta-analysis"
+author:
+- Abouzahra, Mohamed
+- Tan, Joseph
+topic: ""
+categories: []
+date: "2014"
+doi: "https://doi.org/10.1109/HICSS.2014.224"
+url: "https://ieeexplore.ieee.org/document/6758821/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AbouzahraTan2014,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffff800003fff8007ffffffffffff07e0ffffffffffff8f1f7ffc0380fffc01003ffc01007ffc0100fffc01003ffc01007ffc01807ffc01003ffc01003ffc03003ffc03003ffc7f003ffc3f007ffc01007ffc01003ffc01007ffc01003ffc07007ffc01007ffc01003fffffffefe0ffffe7ffffffff},
+  file       = {data/pdfs/2014/AbouzahraTan2014.pdf},
+  doi        = {10.1109/HICSS.2014.224},
+  author     = {Abouzahra, Mohamed and Tan, Joseph},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {The Effect of Community Type on Knowledge Sharing Incentives in Online Communities - A Meta-analysis},
+  year       = {2014},
+  url        = {https://ieeexplore.ieee.org/document/6758821/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Abouzahra, Mohamed
+AU  - Tan, Joseph
+TI  - The Effect of Community Type on Knowledge Sharing Incentives in Online Communities - A Meta-analysis
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2014
+DO  - 10.1109/HICSS.2014.224
+UR  - https://ieeexplore.ieee.org/document/6758821/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2014.224>
+- URL: <https://ieeexplore.ieee.org/document/6758821/>

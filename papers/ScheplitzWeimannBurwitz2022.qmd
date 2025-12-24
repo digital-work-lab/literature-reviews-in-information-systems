@@ -1,0 +1,51 @@
+---
+title: "PathwAI Systems in Healthcare -a Framework for Coupling AI and Pathway-based Health Information Systems"
+author:
+- Scheplitz, Tim
+- Weimann, Thure
+- Burwitz, Martin
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.502"
+url: "http://hdl.handle.net/10125/79838"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ScheplitzWeimannBurwitz2022,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff800001fffd08bfffe7fbe3ff818080ffffffffff805800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800fffff800ff9ff800ff8fd800ff001800ff001800ff001800ff001800ff0019ffff001800ff02381fff1dffffff0fc3fffffffffff},
+  file       = {data/pdfs/2022/ScheplitzWeimannBurwitz2022.pdf},
+  doi        = {10.24251/HICSS.2022.502},
+  author     = {Scheplitz, Tim and Weimann, Thure and Burwitz, Martin},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {PathwAI Systems in Healthcare -a Framework for Coupling AI and Pathway-based Health Information Systems},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79838},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/ScheplitzBW22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Scheplitz, Tim
+AU  - Weimann, Thure
+AU  - Burwitz, Martin
+TI  - PathwAI Systems in Healthcare -a Framework for Coupling AI and Pathway-based Health Information Systems
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.502
+UR  - http://hdl.handle.net/10125/79838
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.502>
+- URL: <http://hdl.handle.net/10125/79838>

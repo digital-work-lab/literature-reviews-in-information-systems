@@ -1,0 +1,49 @@
+---
+title: "What Do We Really Mean by Rigor in Information Systems Research?"
+author:
+- Soliman, Wael
+- Siponen, Mikko T.
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.797"
+url: "http://hdl.handle.net/10125/80137"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SolimanSiponen2022,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff800001fff1ff0fffe0fe07fffbfffffff9f000ff001800ff001822ff001800ff001000ff001800ff001800ff001800ff001800ff1ff800ff0ff000ff001800ff001800ff001000ff001800ff001000ff001800ff001000ff091800ffebfbbfff001fffff0dffffff0fc3fffffffffff},
+  file       = {data/pdfs/2022/SolimanSiponen2022.pdf},
+  doi        = {10.24251/HICSS.2022.797},
+  author     = {Soliman, Wael and Siponen, Mikko T.},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {What Do We Really Mean by Rigor in Information Systems Research?},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/80137},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/SolimanS22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Soliman, Wael
+AU  - Siponen, Mikko T.
+TI  - What Do We Really Mean by Rigor in Information Systems Research?
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.797
+UR  - http://hdl.handle.net/10125/80137
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.797>
+- URL: <http://hdl.handle.net/10125/80137>

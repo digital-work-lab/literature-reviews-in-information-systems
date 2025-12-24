@@ -1,0 +1,57 @@
+---
+title: "Socially Sustainable Digital Transformation in the Public Sector: a Systematic Literature Review"
+author:
+- Crivellari, Ilaria
+- Grøder, Charlotte Husom
+- Parmiggiani, Elena
+- Moltubakk, Stine Thordarson
+- Bertheussen, Lene Elisabeth
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.272"
+url: "https://hdl.handle.net/10125/106651"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{CrivellariThordarsonMoltubakkGrderEtAl2024,
+  colrev_pdf_id = {cpid2:fffffffffe7492fffffffffffffffffff800003ffff81ffff818181ff8381c3ff8181ffff8181fffff9fbffffa1d800ff001800ff001800ff001800ff001800ff001800ff001800ff001000ff001800ff0ff000ff001800ff0ff000ff8ff000ff000800ff001800ff001800ff001800ffefffffff1dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2024/CrivellariThordarsonMoltubakkGrderEtAl2024.pdf},
+  doi        = {10.24251/HICSS.2024.272},
+  author     = {Crivellari, Ilaria and Grøder, Charlotte Husom and Parmiggiani, Elena and Moltubakk, Stine Thordarson and Bertheussen, Lene Elisabeth},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Socially Sustainable Digital Transformation in the Public Sector: a Systematic Literature Review},
+  year       = {2024},
+  pages      = {2201--2210},
+  url        = {https://hdl.handle.net/10125/106651}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Crivellari, Ilaria
+AU  - Grøder, Charlotte Husom
+AU  - Parmiggiani, Elena
+AU  - Moltubakk, Stine Thordarson
+AU  - Bertheussen, Lene Elisabeth
+TI  - Socially Sustainable Digital Transformation in the Public Sector: a Systematic Literature Review
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+SP  - 2201
+EP  - 2210
+DO  - 10.24251/HICSS.2024.272
+UR  - https://hdl.handle.net/10125/106651
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.272>
+- URL: <https://hdl.handle.net/10125/106651>

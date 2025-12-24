@@ -1,0 +1,49 @@
+---
+title: "Gamification and Employee Well-being: A Systematic Literature Review"
+author:
+- Lehtoranta, Sara
+- Xi, Nannan
+- Hamari, Juho
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.633"
+url: "https://hdl.handle.net/10125/107018"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LehtorantaXiHamari2024,
+  file       = {data/pdfs/2024/LehtorantaXiHamari2024.pdf},
+  doi        = {10.24251/HICSS.2024.633},
+  author     = {Lehtoranta, Sara and Xi, Nannan and Hamari, Juho},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Gamification and Employee Well-being: A Systematic Literature Review},
+  year       = {2024},
+  url        = {https://hdl.handle.net/10125/107018}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Lehtoranta, Sara
+AU  - Xi, Nannan
+AU  - Hamari, Juho
+TI  - Gamification and Employee Well-being: A Systematic Literature Review
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+DO  - 10.24251/HICSS.2024.633
+UR  - https://hdl.handle.net/10125/107018
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.633>
+- URL: <https://hdl.handle.net/10125/107018>

@@ -1,0 +1,53 @@
+---
+title: "It's the Methodology For Me: A Systematic Review of Early Approaches to Studying TikTok"
+author:
+- Kanthawala, Shaheen
+- Cotter, Kelley
+- Foyle, Kali
+- Decook, J. R.
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.382"
+url: "http://hdl.handle.net/10125/79716"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KanthawalaCotterFoyleEtAl2022,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff000000ffffc3ffff067ef1ff061c71fffffc71ffa1d800ff001800ff001800ff001820ff001800ff001800ff001800ff001800ff001800ff0ff000ff8ff800ff001800ff001800ff000800ff001800ff001800ff001800ff005fffff000fffff721fffff1fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2022/KanthawalaCotterFoyleEtAl2022.pdf},
+  doi        = {10.24251/HICSS.2022.382},
+  author     = {Kanthawala, Shaheen and Cotter, Kelley and Foyle, Kali and Decook, J. R.},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {It's the Methodology For Me: A Systematic Review of Early Approaches to Studying TikTok},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79716},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/KanthawalaCFD22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Kanthawala, Shaheen
+AU  - Cotter, Kelley
+AU  - Foyle, Kali
+AU  - Decook, J. R.
+TI  - It's the Methodology For Me: A Systematic Review of Early Approaches to Studying TikTok
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.382
+UR  - http://hdl.handle.net/10125/79716
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.382>
+- URL: <http://hdl.handle.net/10125/79716>

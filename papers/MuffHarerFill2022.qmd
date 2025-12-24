@@ -1,0 +1,51 @@
+---
+title: "Trends in Academic and Industrial Research on Business Process Management - A Computational Literature Analysis"
+author:
+- Muff, Fabian
+- Härer, Felix
+- Fill, Hans-Georg
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.874"
+url: "http://hdl.handle.net/10125/80215"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MuffHarerFill2022,
+  colrev_pdf_id = {cpid2:fffffffffe4c9afffffffffffffffffffc00003fff3e7cfffc3c3c3ffc3c3c3fff9f800ff001800ff001800ff001800ff001800ff001830ff00183fff000c00ff00fc06fffffc14ff8ffc64ff001c2bff001800ff001800ff001800ff001800ff0019ffff001c7fff001800ff001800fff73b5fff0dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2022/MuffHarerFill2022.pdf},
+  doi        = {10.24251/HICSS.2022.874},
+  author     = {Muff, Fabian and Härer, Felix and Fill, Hans-Georg},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Trends in Academic and Industrial Research on Business Process Management - A Computational Literature Analysis},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/80215},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/MuffHF22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Muff, Fabian
+AU  - Härer, Felix
+AU  - Fill, Hans-Georg
+TI  - Trends in Academic and Industrial Research on Business Process Management - A Computational Literature Analysis
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.874
+UR  - http://hdl.handle.net/10125/80215
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.874>
+- URL: <http://hdl.handle.net/10125/80215>

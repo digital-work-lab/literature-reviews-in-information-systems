@@ -1,0 +1,50 @@
+---
+title: "From the Ground to the Cloud -- A Structured Literature Analysis of the Cloud Service Landscape around the Public and Private Sector"
+author:
+- Haag, Steffi
+- Eckhardt, Andreas
+- Krönung, Julia
+topic: ""
+categories: []
+date: "2014"
+doi: "https://doi.org/10.1109/HICSS.2014.268"
+url: "https://ieeexplore.ieee.org/document/6758866/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HaagEckhardtKronung2014,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800000ffc00003ffefd3f3ff818180fffffffffff1f000ff001000ff001000ff001000ff001000ff001800ff001000ff000000ff001000ff0cf000ff0ff000ff001008ff000800ff001000ff001000ff001000ff000000ff000000ff000000ff000000fffffffffe0ffffe7ffffffff},
+  file       = {data/pdfs/2014/HaagEckhardtKronung2014.pdf},
+  doi        = {10.1109/HICSS.2014.268},
+  author     = {Haag, Steffi and Eckhardt, Andreas and Krönung, Julia},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {From the Ground to the Cloud -- A Structured Literature Analysis of the Cloud Service Landscape around the Public and Private Sector},
+  year       = {2014},
+  url        = {https://ieeexplore.ieee.org/document/6758866/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Haag, Steffi
+AU  - Eckhardt, Andreas
+AU  - Krönung, Julia
+TI  - From the Ground to the Cloud -- A Structured Literature Analysis of the Cloud Service Landscape around the Public and Private Sector
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2014
+DO  - 10.1109/HICSS.2014.268
+UR  - https://ieeexplore.ieee.org/document/6758866/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2014.268>
+- URL: <https://ieeexplore.ieee.org/document/6758866/>

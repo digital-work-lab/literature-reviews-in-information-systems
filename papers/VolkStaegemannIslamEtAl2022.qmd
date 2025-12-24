@@ -1,0 +1,53 @@
+---
+title: "Facing Big Data System Architecture Deployments: Towards an Automated Approach Using Container Technologies for Rapid Prototyping"
+author:
+- Volk, Matthias
+- Staegemann, Daniel
+- Islam, Ashraful
+- Turowski, Klaus
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.743"
+url: "http://hdl.handle.net/10125/80083"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{VolkStaegemannIslamEtAl2022,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff000000ffc00003fff8001ffffeb7fffffbffffff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff0ff800ff0ff800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800fffff844ff1dffffff0fc3fffffffffff},
+  file       = {data/pdfs/2022/VolkStaegemannIslamEtAl2022.pdf},
+  doi        = {10.24251/HICSS.2022.743},
+  author     = {Volk, Matthias and Staegemann, Daniel and Islam, Ashraful and Turowski, Klaus},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Facing Big Data System Architecture Deployments: Towards an Automated Approach Using Container Technologies for Rapid Prototyping},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/80083},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/0002SIT22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Volk, Matthias
+AU  - Staegemann, Daniel
+AU  - Islam, Ashraful
+AU  - Turowski, Klaus
+TI  - Facing Big Data System Architecture Deployments: Towards an Automated Approach Using Container Technologies for Rapid Prototyping
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.743
+UR  - http://hdl.handle.net/10125/80083
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.743>
+- URL: <http://hdl.handle.net/10125/80083>

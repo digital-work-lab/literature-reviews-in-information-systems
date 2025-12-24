@@ -1,0 +1,48 @@
+---
+title: "Do Ontological Guidelines Improve Understandability of Conceptual Models? A Meta-analysis of Empirical Work"
+author:
+- Saghafi, Arash
+- Wand, Yair
+topic: ""
+categories: []
+date: "2014"
+doi: "https://doi.org/10.1109/HICSS.2014.567"
+url: "https://ieeexplore.ieee.org/document/6759168/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SaghafiWand2014,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000000fffe003fffffffffff805802fffffffffff1f87cff001800ff000000ff001000ff001000ff001000ff001000ff001000ff001000ff001000ff075000fffff000ff0ff000ff0f5000ff000000ff001000ff001000ff000800ff001000ff001000fffffffefe0ffffe7ffffffff},
+  file       = {data/pdfs/2014/SaghafiWand2014.pdf},
+  doi        = {10.1109/HICSS.2014.567},
+  author     = {Saghafi, Arash and Wand, Yair},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Do Ontological Guidelines Improve Understandability of Conceptual Models? A Meta-analysis of Empirical Work},
+  year       = {2014},
+  url        = {https://ieeexplore.ieee.org/document/6759168/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Saghafi, Arash
+AU  - Wand, Yair
+TI  - Do Ontological Guidelines Improve Understandability of Conceptual Models? A Meta-analysis of Empirical Work
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2014
+DO  - 10.1109/HICSS.2014.567
+UR  - https://ieeexplore.ieee.org/document/6759168/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2014.567>
+- URL: <https://ieeexplore.ieee.org/document/6759168/>

@@ -1,0 +1,59 @@
+---
+title: "How to trade electricity flexibility using artificial intelligence -An integrated algorithmic framework"
+author:
+- Hanny, Lisa
+- Leinauer, Christina
+- Strueker, Jens
+- Weissflog, Jan
+- Körner, Marc-Fabian
+- Michaelis, Anne
+- Weibelzahl, Martin
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.438"
+url: "http://hdl.handle.net/10125/79773"
+journal:
+  name: ""
+cited_by: 2
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HannyLeinauerStruekerEtAl2022,
+  colrev_pdf_id = {cpid2:fffffffffe40103ffffffffffffffffff000000fffffffffff8fe1fffc01803fff07803ffc05803ffc01803ffc00e0fffe83a1fffc01803fff07c07ffc01fffffc01ffffffc7ffffffbfc7ffff1fc7fff001800ff001800ff001800ff001800ff001000ff001000ff001800ff001000ff77f800ff09ffffff0fc3fcfffffffff},
+  file       = {data/pdfs/2022/HannyLeinauerStruekerEtAl2022.pdf},
+  doi        = {10.24251/HICSS.2022.438},
+  author     = {Hanny, Lisa and Leinauer, Christina and Strueker, Jens and Weissflog, Jan and Körner, Marc-Fabian and Michaelis, Anne and Weibelzahl, Martin},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {How to trade electricity flexibility using artificial intelligence -An integrated algorithmic framework},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79773},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/HannyKLMSWW22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hanny, Lisa
+AU  - Leinauer, Christina
+AU  - Strueker, Jens
+AU  - Weissflog, Jan
+AU  - Körner, Marc-Fabian
+AU  - Michaelis, Anne
+AU  - Weibelzahl, Martin
+TI  - How to trade electricity flexibility using artificial intelligence -An integrated algorithmic framework
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.438
+UR  - http://hdl.handle.net/10125/79773
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.438>
+- URL: <http://hdl.handle.net/10125/79773>

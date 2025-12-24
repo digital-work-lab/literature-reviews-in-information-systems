@@ -1,0 +1,53 @@
+---
+title: "Delineating the Business Value of Data-driven Initiatives in Organizations - Findings from a Systematic Review of the Information Systems Literature"
+author:
+- Hirschlein, Nico
+- Meckenstock, Jan-Niklas
+- Schlauderer, Sebastian
+- Overhage, Sven
+topic: ""
+categories: []
+date: "2023"
+doi: "https://doi.org/10.24251/HICSS.2023.661"
+url: "https://hdl.handle.net/10125/103295"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HirschleinMeckenstockSchlaudererEtAl2023,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000000ff96744dffefff7fff041820fffffffffff9fb99ff001800ff001800ff001000ff001000ff001800ff001800ff001800ff001800ff001800ff00f800ff001800ff0ff800ff001800ff001800ff001800ff001800ff001800ff001800fffffbafff1fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2023/HirschleinMeckenstockSchlaudererEtAl2023.pdf},
+  doi        = {10.24251/HICSS.2023.661},
+  author     = {Hirschlein, Nico and Meckenstock, Jan-Niklas and Schlauderer, Sebastian and Overhage, Sven},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Delineating the Business Value of Data-driven Initiatives in Organizations - Findings from a Systematic Review of the Information Systems Literature},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/103295},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/HirschleinMSO23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hirschlein, Nico
+AU  - Meckenstock, Jan-Niklas
+AU  - Schlauderer, Sebastian
+AU  - Overhage, Sven
+TI  - Delineating the Business Value of Data-driven Initiatives in Organizations - Findings from a Systematic Review of the Information Systems Literature
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+DO  - 10.24251/HICSS.2023.661
+UR  - https://hdl.handle.net/10125/103295
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2023.661>
+- URL: <https://hdl.handle.net/10125/103295>

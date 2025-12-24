@@ -1,0 +1,51 @@
+---
+title: "Investigating the Social Capital Theory in the University-Private Partnership: A Systematic Review"
+author:
+- Hakami, Maram
+- Pradhan, Sojen
+- Mastio, Emmanuel
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.646"
+url: "http://hdl.handle.net/10125/79984"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HakamiPradhanMastio2022,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000000ffffe3ffff818180ff01c5d5fff3f82aff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff3ff806ff01f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff409fffff1fffffff1fc3fffffffffff},
+  file       = {data/pdfs/2022/HakamiPradhanMastio2022.pdf},
+  doi        = {10.24251/HICSS.2022.646},
+  author     = {Hakami, Maram and Pradhan, Sojen and Mastio, Emmanuel},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Investigating the Social Capital Theory in the University-Private Partnership: A Systematic Review},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79984},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/HakamiPM22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hakami, Maram
+AU  - Pradhan, Sojen
+AU  - Mastio, Emmanuel
+TI  - Investigating the Social Capital Theory in the University-Private Partnership: A Systematic Review
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.646
+UR  - http://hdl.handle.net/10125/79984
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.646>
+- URL: <http://hdl.handle.net/10125/79984>

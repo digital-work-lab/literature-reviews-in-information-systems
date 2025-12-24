@@ -1,0 +1,54 @@
+---
+title: "Theoretical Underpinnings and Practical Challenges of Crowdsourcing as a Mechanism for Academic Study"
+author:
+- Correia, António
+- Jameel, Shoaib
+- Schneider, Daniel S.
+- Fonseca, Benjamim
+- Paredes, Hugo
+topic: ""
+categories: []
+date: "2020"
+doi: "https://doi.org/10.24251/HICSS.2020.568"
+url: "http://hdl.handle.net/10125/64310"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{CorreiaJameelSchneiderEtAl2020,
+  colrev_pdf_id = {cpid2:fffffffffe749ebffffffffffffffffff000000fffe007fff838781ff03fffffffc3c7ffffc387ffffbfffffff1f000ff001804ff001800ff001000ff001800ff001800ff001000ff001819ff001800ff001800ff0ff000ff0ff000ff001800ff001800ff001800ff001800ff001000ff401801ff0dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2020/Knowledge Innovation and Entrepreneurial Systems/CorreiaJameelSchneiderEtAl2020.pdf},
+  doi        = {10.24251/HICSS.2020.568},
+  author     = {Correia, António and Jameel, Shoaib and Schneider, Daniel S. and Fonseca, Benjamim and Paredes, Hugo},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Theoretical Underpinnings and Practical Challenges of Crowdsourcing as a Mechanism for Academic Study},
+  year       = {2020},
+  url        = {http://hdl.handle.net/10125/64310}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Correia, António
+AU  - Jameel, Shoaib
+AU  - Schneider, Daniel S.
+AU  - Fonseca, Benjamim
+AU  - Paredes, Hugo
+TI  - Theoretical Underpinnings and Practical Challenges of Crowdsourcing as a Mechanism for Academic Study
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2020
+DO  - 10.24251/HICSS.2020.568
+UR  - http://hdl.handle.net/10125/64310
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2020.568>
+- URL: <http://hdl.handle.net/10125/64310>

@@ -1,0 +1,48 @@
+---
+title: "Management of Digital Transformation: A Literature Review of Dynamic and Operational Capabilities"
+author:
+- Koppe, Timo
+- Leisching, Lukas
+- Rasspe, Stefanie
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/103146"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KoppeLeischingRasspeEtAl2023,
+  colrev_pdf_id = {cpid2:fffffffffe4090bffffffffffffffffff000000ffffffffffffffffff8181c3ff810081fffffffffff9fe76ffa0d000ff001800ff001800ff001800ff001000ff001800ff001800ff01f000ff07f000ff8ff000ff001800ff001800ff0009ffff001801ff000c9fff001800ff001800ffff792eff0fffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2023/KoppeLeischingRasspeEtAl2023.pdf},
+  author     = {Koppe, Timo and Leisching, Lukas and Rasspe, Stefanie},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Management of Digital Transformation: A Literature Review of Dynamic and Operational Capabilities},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/103146},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/KoppeLR23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Koppe, Timo
+AU  - Leisching, Lukas
+AU  - Rasspe, Stefanie
+TI  - Management of Digital Transformation: A Literature Review of Dynamic and Operational Capabilities
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/103146
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/103146>

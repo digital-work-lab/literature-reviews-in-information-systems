@@ -1,0 +1,48 @@
+---
+title: "Global Trends in Flow Theory Research within Gameful Environments: A Scoping Review, Bibliometric Analysis and Agenda for Future Studies"
+author:
+- Oliveira, Wilk
+- Hamari, Juho
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.163"
+url: "https://hdl.handle.net/10125/106540"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{OliveiraHamari2024,
+  colrev_pdf_id = {cpid2:fffffffffe4090bffffffffffffffffff000000ffdffffffffffffffff87e1ffff87e1ffffffffffff9fffeffc03000ff001000ff001800ff001800ff001000ff001800ff001000ff0018ffff001800ff001000ff003800ff009800ff0ff000ff8f7000ff001800ff001800ff001800ffffd9ffff0dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2024/OliveiraHamari2024.pdf},
+  doi        = {10.24251/HICSS.2024.163},
+  author     = {Oliveira, Wilk and Hamari, Juho},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Global Trends in Flow Theory Research within Gameful Environments: A Scoping Review, Bibliometric Analysis and Agenda for Future Studies},
+  year       = {2024},
+  url        = {https://hdl.handle.net/10125/106540}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Oliveira, Wilk
+AU  - Hamari, Juho
+TI  - Global Trends in Flow Theory Research within Gameful Environments: A Scoping Review, Bibliometric Analysis and Agenda for Future Studies
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+DO  - 10.24251/HICSS.2024.163
+UR  - https://hdl.handle.net/10125/106540
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.163>
+- URL: <https://hdl.handle.net/10125/106540>

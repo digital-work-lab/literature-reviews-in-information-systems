@@ -1,0 +1,55 @@
+---
+title: "Virtual Reality Technologies in Health Care: A Literature Review of Theoretical Foundations"
+author:
+- Knop, Michael
+- Ressing, Caroline
+- Mueller, Marius
+- Weber, Sebastian
+- Freude, Henrik
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.223"
+url: "http://hdl.handle.net/10125/79555"
+journal:
+  name: ""
+cited_by: 1
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KnopRessingMuellerEtAl2022,
+  colrev_pdf_id = {cpid2:fffffffffffffffffe00107ffffffffffc00003ffff00ffffffffffff818181ffc1c3c3ff808181fffffffffff9f909ff001000ff000801ff001800ff800000ff000000ff001000ff000800ff005801ff8ff800ff801000ff000000ff000000ff000000ff000801ff000800ff809fffffffffffff00ebffff8fc3fffffffffff},
+  file       = {data/pdfs/2022/KnopRessingMuellerEtAl2022.pdf},
+  doi        = {10.24251/HICSS.2022.223},
+  author     = {Knop, Michael and Ressing, Caroline and Mueller, Marius and Weber, Sebastian and Freude, Henrik},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Virtual Reality Technologies in Health Care: A Literature Review of Theoretical Foundations},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79555},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/KnopR0WFN22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Knop, Michael
+AU  - Ressing, Caroline
+AU  - Mueller, Marius
+AU  - Weber, Sebastian
+AU  - Freude, Henrik
+TI  - Virtual Reality Technologies in Health Care: A Literature Review of Theoretical Foundations
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.223
+UR  - http://hdl.handle.net/10125/79555
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.223>
+- URL: <http://hdl.handle.net/10125/79555>

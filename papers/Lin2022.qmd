@@ -1,0 +1,47 @@
+---
+title: "Instrument Development for R-Service Quality: A Literature Review"
+author:
+- Lin, Yanqing
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.244"
+url: "http://hdl.handle.net/10125/79576"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{Lin2022,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800001ffffe7ffffffc3fffff1f900ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff0ff800ff06f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff021803ff1fffffff1fc3fffffffffff},
+  file       = {data/pdfs/2022/Lin2022.pdf},
+  doi        = {10.24251/HICSS.2022.244},
+  author     = {Lin, Yanqing},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Instrument Development for R-Service Quality: A Literature Review},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79576},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/Lin22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Lin, Yanqing
+TI  - Instrument Development for R-Service Quality: A Literature Review
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.244
+UR  - http://hdl.handle.net/10125/79576
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.244>
+- URL: <http://hdl.handle.net/10125/79576>

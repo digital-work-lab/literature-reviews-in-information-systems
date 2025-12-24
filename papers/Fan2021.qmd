@@ -1,0 +1,46 @@
+---
+title: "What Makes Consumer Perception of Online Review Helpfulness - Synthesizing the Past to Guide Future Research"
+author:
+- Fan, Wenjie
+topic: ""
+categories: []
+date: "2021"
+doi: "https://doi.org/10.24251/HICSS.2021.334"
+url: "https://hdl.handle.net/10125/70948"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{Fan2021,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffffc00003fff8429fffffc1ffffffeffffff1fa00ff001000ff001800ff001800ff001800ff001800ff001800ff0ff800ff0ff800ff001000ff000800ff001800ff001800ff001800ff009800ff001800ff000800ff001800ff001000ff001800ffd05fdeff0fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2021/Fan2021.pdf},
+  doi        = {10.24251/HICSS.2021.334},
+  author     = {Fan, Wenjie},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {What Makes Consumer Perception of Online Review Helpfulness - Synthesizing the Past to Guide Future Research},
+  year       = {2021},
+  url        = {https://hdl.handle.net/10125/70948}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Fan, Wenjie
+TI  - What Makes Consumer Perception of Online Review Helpfulness - Synthesizing the Past to Guide Future Research
+T2  - Hawaii International Conference on System Sciences
+PY  - 2021
+DO  - 10.24251/HICSS.2021.334
+UR  - https://hdl.handle.net/10125/70948
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2021.334>
+- URL: <https://hdl.handle.net/10125/70948>

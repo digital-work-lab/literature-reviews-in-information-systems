@@ -1,0 +1,52 @@
+---
+title: "How Effective Is "Exergamification"? A Systematic Review on the Effectiveness of Gamification Features in Exergames"
+author:
+- Matallaoui, Amir
+- Koivisto, Jonna
+- Hamari, Juho
+- Zarnekow, Rüdiger
+topic: ""
+categories: []
+date: "2017"
+doi: "https://doi.org/10.24251/HICSS.2017.402"
+url: "http://hdl.handle.net/10125/41560"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MatallaouiKoivistoHamariEtAl2017,
+  colrev_pdf_id = {cpid2:ffffffffffffffffffffffffffc003fffff007ffff0000fffffffffff0e1870ff0c1830fffffffffff1f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff00b800fffff800ff8ff800ff001800ff001fffff001800ff001800ff001800ff083800ffffffffff03c7fffffffffff},
+  file       = {data/pdfs/2017/hc/health_behavior/MatallaouiKoivistoHamariEtAl2017.pdf},
+  doi        = {10.24251/HICSS.2017.402},
+  author     = {Matallaoui, Amir and Koivisto, Jonna and Hamari, Juho and Zarnekow, Rüdiger},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {How Effective Is "Exergamification"? A Systematic Review on the Effectiveness of Gamification Features in Exergames},
+  year       = {2017},
+  url        = {http://hdl.handle.net/10125/41560}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Matallaoui, Amir
+AU  - Koivisto, Jonna
+AU  - Hamari, Juho
+AU  - Zarnekow, Rüdiger
+TI  - How Effective Is "Exergamification"? A Systematic Review on the Effectiveness of Gamification Features in Exergames
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2017
+DO  - 10.24251/HICSS.2017.402
+UR  - http://hdl.handle.net/10125/41560
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2017.402>
+- URL: <http://hdl.handle.net/10125/41560>

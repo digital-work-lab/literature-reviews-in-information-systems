@@ -1,0 +1,48 @@
+---
+title: "Pair Programming vs. Solo Programming - What Do We Know After 15 Years of Research?"
+author:
+- de Lima Salge, Carolina Alves
+- Berente, Nicholas
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1109/HICSS.2016.667"
+url: "https://ieeexplore.ieee.org/document/7427855/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{deLimaSalgeBerente2016,
+  colrev_pdf_id = {cpid2:ffffffffffffffffffffffffffffffffff0001ffff0001fffe0ff0ffff1ff0ffffbfffffff1f800ff000800ff001000ff001000ff00187fff001800ff3ff800ff0ff000ff000000fe000000ff001000ff001000fe000800ff001000ff001000fe000000fe000000ff000000ff7fd000fffff000ff0ffffcfe0ffffe7ffffffff},
+  file       = {data/pdfs/2016/deLimaSalgeBerente2016.pdf},
+  doi        = {10.1109/HICSS.2016.667},
+  author     = {de Lima Salge, Carolina Alves and Berente, Nicholas},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Pair Programming vs. Solo Programming - What Do We Know After 15 Years of Research?},
+  year       = {2016},
+  url        = {https://ieeexplore.ieee.org/document/7427855/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - de Lima Salge, Carolina Alves
+AU  - Berente, Nicholas
+TI  - Pair Programming vs. Solo Programming - What Do We Know After 15 Years of Research?
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2016
+DO  - 10.1109/HICSS.2016.667
+UR  - https://ieeexplore.ieee.org/document/7427855/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2016.667>
+- URL: <https://ieeexplore.ieee.org/document/7427855/>

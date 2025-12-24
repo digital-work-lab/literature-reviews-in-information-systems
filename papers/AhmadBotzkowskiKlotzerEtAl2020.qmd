@@ -1,0 +1,52 @@
+---
+title: "Behind the Blackbox of Digital Business Models"
+author:
+- Ahmad, Mashood
+- Botzkowski, Tim
+- Klötzer, Christoph
+- Papert, Marcel
+topic: ""
+categories: []
+date: "2020"
+doi: "https://doi.org/10.24251/HICSS.2020.556"
+url: "http://hdl.handle.net/10125/64298"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AhmadBotzkowskiKlotzerEtAl2020,
+  colrev_pdf_id = {cpid2:fffffffffe749ebfffffffffffffffffff8000fffffffffffc07e03fff1ff8fffc07e03fffffffffff9f800ff041000ff000000ff001800ff001800ff001000ff001800ff001800ff001800ff001800ff001800ff0ff800ff001000fffdf800ff0ff800ff0fd000ff001800ff001800fffef800ff0dffffff0fc3fdfffffffff},
+  file       = {data/pdfs/2020/Internet and the Digital Economy/AhmadBotzkowskiKlotzerEtAl2020.pdf},
+  doi        = {10.24251/HICSS.2020.556},
+  author     = {Ahmad, Mashood and Botzkowski, Tim and Klötzer, Christoph and Papert, Marcel},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Behind the Blackbox of Digital Business Models},
+  year       = {2020},
+  url        = {http://hdl.handle.net/10125/64298}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ahmad, Mashood
+AU  - Botzkowski, Tim
+AU  - Klötzer, Christoph
+AU  - Papert, Marcel
+TI  - Behind the Blackbox of Digital Business Models
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2020
+DO  - 10.24251/HICSS.2020.556
+UR  - http://hdl.handle.net/10125/64298
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2020.556>
+- URL: <http://hdl.handle.net/10125/64298>

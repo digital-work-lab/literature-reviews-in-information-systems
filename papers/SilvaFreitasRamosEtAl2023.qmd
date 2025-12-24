@@ -1,0 +1,51 @@
+---
+title: "A systematic review of the factors that impact the prediction of retention and dropout in higher education"
+author:
+- Silva, Edmilson Cosme
+- Freitas, Sérgio
+- Ramos, Cristiane Soares
+- De Menezes, Amanda Emilly Muniz
+- De Araujo, Leticia Karla Soares Rodrigues
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/102787"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SilvaFreitasRamosEtAl2023,
+  file       = {data/pdfs/2023/SilvaFreitasRamosEtAl2023.pdf},
+  author     = {Silva, Edmilson Cosme and Freitas, Sérgio and Ramos, Cristiane Soares and De Menezes, Amanda Emilly Muniz and De Araujo, Leticia Karla Soares Rodrigues},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {A systematic review of the factors that impact the prediction of retention and dropout in higher education},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/102787},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/SilvaFRMA23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Silva, Edmilson Cosme
+AU  - Freitas, Sérgio
+AU  - Ramos, Cristiane Soares
+AU  - De Menezes, Amanda Emilly Muniz
+AU  - De Araujo, Leticia Karla Soares Rodrigues
+TI  - A systematic review of the factors that impact the prediction of retention and dropout in higher education
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/102787
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/102787>

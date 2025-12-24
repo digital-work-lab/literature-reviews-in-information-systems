@@ -1,0 +1,50 @@
+---
+title: "Just Because We Can, Doesn't Mean We Should: Algorithm Aversion as a Principled Resistance"
+author:
+- Hannon, Oliver
+- Ciriello, Raffaele
+- Gal, Uri
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.730"
+url: "https://hdl.handle.net/10125/107115"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HannonCirielloGal2024,
+  colrev_pdf_id = {cpid2:fffffffffeffffffffffffffffffffffff0000ffff8bc1fffc7c7f7ff8181c1ffffffffff91d800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff003800ff01d800ff0ff000ff8ff000ff001800ff001000ff001000ff001000ff001800ff000800ff0018d0ff1fffffff1fc3fdfffffffff},
+  file       = {data/pdfs/2024/HannonCirielloGal2024.pdf},
+  doi        = {10.24251/HICSS.2024.730},
+  author     = {Hannon, Oliver and Ciriello, Raffaele and Gal, Uri},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Just Because We Can, Doesn't Mean We Should: Algorithm Aversion as a Principled Resistance},
+  year       = {2024},
+  url        = {https://hdl.handle.net/10125/107115}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hannon, Oliver
+AU  - Ciriello, Raffaele
+AU  - Gal, Uri
+TI  - Just Because We Can, Doesn't Mean We Should: Algorithm Aversion as a Principled Resistance
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+DO  - 10.24251/HICSS.2024.730
+UR  - https://hdl.handle.net/10125/107115
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.730>
+- URL: <https://hdl.handle.net/10125/107115>

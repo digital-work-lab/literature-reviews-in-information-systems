@@ -1,0 +1,48 @@
+---
+title: "Artificial Intelligence: The Future of Sustainable Agriculture? A Research Agenda"
+author:
+- Witte, Jonas
+- Gao, Kevin
+- Zöll, Anne
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://hdl.handle.net/10125/102722"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{WitteGaoZoll2023,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffffc00003ffffd9ffffe7f7f3ff008080ffffffffffb1d807ff001800ff001000ff001800ff001800ff001800ff001800ff00d800ff269000ff0ff800ff8ff800ff001800ff001808ff00181fff001800ff000800ff001000ff001800ff001800ff001bffff0fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2023/WitteGaoZoll2023.pdf},
+  author     = {Witte, Jonas and Gao, Kevin and Zöll, Anne},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Artificial Intelligence: The Future of Sustainable Agriculture? A Research Agenda},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/102722},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/WitteGZ23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Witte, Jonas
+AU  - Gao, Kevin
+AU  - Zöll, Anne
+TI  - Artificial Intelligence: The Future of Sustainable Agriculture? A Research Agenda
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+UR  - https://hdl.handle.net/10125/102722
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/102722>

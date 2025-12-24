@@ -1,0 +1,46 @@
+---
+title: "The Role of Enterprise Architecture in Building and Sustaining Information Technology - Enabled Organizational Agility"
+author:
+- Lumor, Truth
+- Hirvonen, Ari P.
+- Pulkkinen, Mirja
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://hdl.handle.net/10125/71352"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LumorHirvonenPulkkinen2021,
+  file       = {data/pdfs/2021/LumorHirvonenPulkkinen2021.pdf},
+  author     = {Lumor, Truth and Hirvonen, Ari P. and Pulkkinen, Mirja},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {The Role of Enterprise Architecture in Building and Sustaining Information Technology - Enabled Organizational Agility},
+  year       = {2021},
+  url        = {https://hdl.handle.net/10125/71352}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Lumor, Truth
+AU  - Hirvonen, Ari P.
+AU  - Pulkkinen, Mirja
+TI  - The Role of Enterprise Architecture in Building and Sustaining Information Technology - Enabled Organizational Agility
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2021
+UR  - https://hdl.handle.net/10125/71352
+ER  - 
+```
+## Links
+
+- URL: <https://hdl.handle.net/10125/71352>

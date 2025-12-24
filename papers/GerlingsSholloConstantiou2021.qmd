@@ -1,0 +1,50 @@
+---
+title: "Reviewing the Need for Explainable Artificial Intelligence (xAI)"
+author:
+- Gerlings, Julie
+- Shollo, Arisa
+- Constantiou, Ioanna D.
+topic: ""
+categories: []
+date: "2021"
+doi: "https://doi.org/10.24251/HICSS.2021.156"
+url: "https://hdl.handle.net/10125/70768"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GerlingsSholloConstantiou2021,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffffc00003ffffffffffc3c1c1ffe3e3f3fff9fc007f0008007f001c017f001c007f0018007f0008007f0018007f0ff8007f0ff8007f0008007f0008007f0008007f0008007f0018007f000c00ff0018007f0018007f0018007f001c007f0018007f501c007f1fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2021/GerlingsSholloConstantiou2021.pdf},
+  doi        = {10.24251/HICSS.2021.156},
+  author     = {Gerlings, Julie and Shollo, Arisa and Constantiou, Ioanna D.},
+  booktitle  = {Hawaii International Conference on System Sciences},
+  title      = {Reviewing the Need for Explainable Artificial Intelligence (xAI)},
+  year       = {2021},
+  url        = {https://hdl.handle.net/10125/70768}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Gerlings, Julie
+AU  - Shollo, Arisa
+AU  - Constantiou, Ioanna D.
+TI  - Reviewing the Need for Explainable Artificial Intelligence (xAI)
+T2  - Hawaii International Conference on System Sciences
+PY  - 2021
+DO  - 10.24251/HICSS.2021.156
+UR  - https://hdl.handle.net/10125/70768
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2021.156>
+- URL: <https://hdl.handle.net/10125/70768>

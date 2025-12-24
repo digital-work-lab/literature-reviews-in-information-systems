@@ -1,0 +1,57 @@
+---
+title: "Can (A)I Have a Word with You? A Taxonomy on the Design Dimensions of AI Prompts"
+author:
+- Braun, Marvin
+- Greve, Maike
+- Kegel, Felix
+- Kolbe, Lutz M.
+- Beyer, Philipp Emanuel
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.068"
+url: "https://hdl.handle.net/10125/106443"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BraunGreveKegelEtAl2024,
+  colrev_pdf_id = {cpid2:fffffffffe749efffffffffffffffffff000000fffff3ffffc7efe3ff018181fff0ff07ffc07e07fff1f9ffff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff009800ff06f800ff3ff800ff0ff800ff001800ff001800ff001800ff001800ff001800ff401ff6ff0dffffff0fc3fffffffffff},
+  file       = {data/pdfs/2024/BraunGreveKegelEtAl2024.pdf},
+  doi        = {10.24251/HICSS.2024.068},
+  author     = {Braun, Marvin and Greve, Maike and Kegel, Felix and Kolbe, Lutz M. and Beyer, Philipp Emanuel},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {Can (A)I Have a Word with You? A Taxonomy on the Design Dimensions of AI Prompts},
+  year       = {2024},
+  pages      = {559--568},
+  url        = {https://hdl.handle.net/10125/106443}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Braun, Marvin
+AU  - Greve, Maike
+AU  - Kegel, Felix
+AU  - Kolbe, Lutz M.
+AU  - Beyer, Philipp Emanuel
+TI  - Can (A)I Have a Word with You? A Taxonomy on the Design Dimensions of AI Prompts
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+SP  - 559
+EP  - 568
+DO  - 10.24251/HICSS.2024.068
+UR  - https://hdl.handle.net/10125/106443
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.068>
+- URL: <https://hdl.handle.net/10125/106443>

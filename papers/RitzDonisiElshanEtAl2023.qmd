@@ -1,0 +1,53 @@
+---
+title: "Artificial Socialization? How Artificial Intelligence Applications Can Shape A New Era of Employee Onboarding Practices"
+author:
+- Ritz, Eva
+- Donisi, Fabio
+- Elshan, Edona
+- Rietsche, Roman
+topic: ""
+categories: []
+date: "2023"
+doi: "https://doi.org/10.24251/HICSS.2023.020"
+url: "https://hdl.handle.net/10125/102648"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{RitzDonisiElshanEtAl2023,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff000000ffff90bfffcf7ce1ff861860fffbffffff001800ff001800ff001800ff001800ff001802ff001800ff001800ff001800ff001800ff7ff800ff29b800ff0ff800ff0ff800ff001800ff001800ff001800ff001800ff001800ff001800ffc03808ff1fffffff0fc3fffffffffff},
+  file       = {data/pdfs/2023/RitzDonisiElshanEtAl2023.pdf},
+  doi        = {10.24251/HICSS.2023.020},
+  author     = {Ritz, Eva and Donisi, Fabio and Elshan, Edona and Rietsche, Roman},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Artificial Socialization? How Artificial Intelligence Applications Can Shape A New Era of Employee Onboarding Practices},
+  year       = {2023},
+  url        = {https://hdl.handle.net/10125/102648},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/RitzDER23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ritz, Eva
+AU  - Donisi, Fabio
+AU  - Elshan, Edona
+AU  - Rietsche, Roman
+TI  - Artificial Socialization? How Artificial Intelligence Applications Can Shape A New Era of Employee Onboarding Practices
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2023
+DO  - 10.24251/HICSS.2023.020
+UR  - https://hdl.handle.net/10125/102648
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2023.020>
+- URL: <https://hdl.handle.net/10125/102648>

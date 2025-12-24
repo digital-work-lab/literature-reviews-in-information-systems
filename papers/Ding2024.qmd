@@ -1,0 +1,49 @@
+---
+title: "The Ripple of Technology: A Literature Review on Examining the Impact of ICT on Tibetan Refugees Through the Lens of Modernity and Postmodernism"
+author:
+- Ding, Wenwen
+topic: ""
+categories: []
+date: "2024"
+doi: "https://doi.org/10.24251/HICSS.2024.843"
+url: "https://hdl.handle.net/10125/107229"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{Ding2024,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff000000ffc11c00fffff7ffffff81fffff3f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff29f800ff001800ff0ff800ff8ff800ff001800ff001800ff001800ff001800ff001800ffd31fffff1fffffff1fc3fffffffffff},
+  file       = {data/pdfs/2024/Ding2024.pdf},
+  doi        = {10.24251/HICSS.2024.843},
+  author     = {Ding, Wenwen},
+  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title      = {The Ripple of Technology: A Literature Review on Examining the Impact of ICT on Tibetan Refugees Through the Lens of Modernity and Postmodernism},
+  year       = {2024},
+  pages      = {7039--7048},
+  url        = {https://hdl.handle.net/10125/107229}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ding, Wenwen
+TI  - The Ripple of Technology: A Literature Review on Examining the Impact of ICT on Tibetan Refugees Through the Lens of Modernity and Postmodernism
+T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+PY  - 2024
+SP  - 7039
+EP  - 7048
+DO  - 10.24251/HICSS.2024.843
+UR  - https://hdl.handle.net/10125/107229
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2024.843>
+- URL: <https://hdl.handle.net/10125/107229>

@@ -1,0 +1,47 @@
+---
+title: "Seeing the forest and the trees - A meta-analysis of information security policy compliance literature"
+author:
+- Cram, W. Alec
+- Proudfoot, Jeffrey
+- D'Arcy, John
+topic: ""
+categories: []
+date: "2017"
+doi: ""
+url: "http://hdl.handle.net/10125/41649"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{CramProudfootDArcy2017,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000000ffff81ffff87c3e1ffdfc7fffff1fc18ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800fffff800ff0ff802ff1cb800ff001800ff001800ff001800ff001800ff001800ff001800ff001800fffffffeffffffffff03c7fffffffffff},
+  file       = {data/pdfs/2017/in/behavioral_is_security/CramProudfootDArcy2017.pdf},
+  author     = {Cram, W. Alec and Proudfoot, Jeffrey and D'Arcy, John},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Seeing the forest and the trees - A meta-analysis of information security policy compliance literature},
+  year       = {2017},
+  url        = {http://hdl.handle.net/10125/41649}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Cram, W. Alec
+AU  - Proudfoot, Jeffrey
+AU  - D'Arcy, John
+TI  - Seeing the forest and the trees - A meta-analysis of information security policy compliance literature
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2017
+UR  - http://hdl.handle.net/10125/41649
+ER  - 
+```
+## Links
+
+- URL: <http://hdl.handle.net/10125/41649>

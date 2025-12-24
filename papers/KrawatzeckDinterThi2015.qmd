@@ -1,0 +1,50 @@
+---
+title: "How to Make Business Intelligence Agile - The Agile BI Actions Catalog"
+author:
+- Krawatzeck, Robert
+- Dinter, Barbara
+- Thi, Duc Anh Pham
+topic: ""
+categories: []
+date: "2015"
+doi: "https://doi.org/10.1109/HICSS.2015.566"
+url: "https://ieeexplore.ieee.org/document/7070386/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KrawatzeckDinterThi2015,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800000ffffffffff87c3e1ff0381c0ffcfe7f3fff9f87eff000800ff000000ff001000ff001000ff001000ff0018007f001000ff001800ff1ff800fffff000ff0ff000ff000020fe0009dfff00081fff000800ff0010007f001800fe000900ff001000fffffffefe0ffffe7ffffffff},
+  file       = {data/pdfs/2015/KrawatzeckDinterThi2015.pdf},
+  doi        = {10.1109/HICSS.2015.566},
+  author     = {Krawatzeck, Robert and Dinter, Barbara and Thi, Duc Anh Pham},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {How to Make Business Intelligence Agile - The Agile BI Actions Catalog},
+  year       = {2015},
+  url        = {https://ieeexplore.ieee.org/document/7070386/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Krawatzeck, Robert
+AU  - Dinter, Barbara
+AU  - Thi, Duc Anh Pham
+TI  - How to Make Business Intelligence Agile - The Agile BI Actions Catalog
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2015
+DO  - 10.1109/HICSS.2015.566
+UR  - https://ieeexplore.ieee.org/document/7070386/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2015.566>
+- URL: <https://ieeexplore.ieee.org/document/7070386/>

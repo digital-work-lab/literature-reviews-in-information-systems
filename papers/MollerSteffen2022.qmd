@@ -1,0 +1,49 @@
+---
+title: "'License to VIT' - A Design Taxonomy for Visual Inquiry Tools"
+author:
+- Möller, Frederik
+- Steffen, Barbara
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.058"
+url: "http://hdl.handle.net/10125/79388"
+journal:
+  name: ""
+cited_by: 1
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MollerSteffen2022,
+  colrev_pdf_id = {cpid2:fffffffffeffffffffffffffffffffffff8005ffff8081fffe01e0ffff1bc07ff90f800ff001800ff001800ff001800ff001800ff001800ff07f800ff0ff800ff801800ff001800ff001800ff001814ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ffe61801ff1dffffff0fc3fffffffffff},
+  file       = {data/pdfs/2022/MollerSteffen2022.pdf},
+  doi        = {10.24251/HICSS.2022.058},
+  author     = {Möller, Frederik and Steffen, Barbara},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {'License to VIT' - A Design Taxonomy for Visual Inquiry Tools},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79388},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/MollerS22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Möller, Frederik
+AU  - Steffen, Barbara
+TI  - 'License to VIT' - A Design Taxonomy for Visual Inquiry Tools
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.058
+UR  - http://hdl.handle.net/10125/79388
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.058>
+- URL: <http://hdl.handle.net/10125/79388>

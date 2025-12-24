@@ -1,0 +1,55 @@
+---
+title: "Ethics Guidelines for Using AI-based Algorithms in Recruiting: Learnings from a Systematic Literature Review"
+author:
+- Hofeditz, Lennart
+- Mirbabaie, Milad
+- Luther, Audrey
+- Mauth, Riccarda
+- Rentemeister, Ina
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.24251/HICSS.2022.018"
+url: "http://hdl.handle.net/10125/79348"
+journal:
+  name: ""
+cited_by: 1
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HofeditzMirbabaieLutherEtAl2022,
+  colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffffc00003fffc77dfff98de71ff08c631ff088430fffffffffff3fd40ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff003800ff0ff800ff801800ff001800ff001800ff001800ff001800ff001800fffffd69ff1dffffff0fc3fffffffffff},
+  file       = {data/pdfs/2022/HofeditzMirbabaieLutherEtAl2022.pdf},
+  doi        = {10.24251/HICSS.2022.018},
+  author     = {Hofeditz, Lennart and Mirbabaie, Milad and Luther, Audrey and Mauth, Riccarda and Rentemeister, Ina},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {Ethics Guidelines for Using AI-based Algorithms in Recruiting: Learnings from a Systematic Literature Review},
+  year       = {2022},
+  url        = {http://hdl.handle.net/10125/79348},
+  dblp_key   = {https://dblp.org/rec/conf/hicss/HofeditzMLMR22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hofeditz, Lennart
+AU  - Mirbabaie, Milad
+AU  - Luther, Audrey
+AU  - Mauth, Riccarda
+AU  - Rentemeister, Ina
+TI  - Ethics Guidelines for Using AI-based Algorithms in Recruiting: Learnings from a Systematic Literature Review
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2022
+DO  - 10.24251/HICSS.2022.018
+UR  - http://hdl.handle.net/10125/79348
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.24251/HICSS.2022.018>
+- URL: <http://hdl.handle.net/10125/79348>

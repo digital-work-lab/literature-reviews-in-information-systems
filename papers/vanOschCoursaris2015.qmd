@@ -1,0 +1,48 @@
+---
+title: "A Meta-analysis of Theories and Topics in Social Media Research"
+author:
+- van Osch, Wietske
+- Coursaris, Constantinos K.
+topic: ""
+categories: []
+date: "2015"
+doi: "https://doi.org/10.1109/HICSS.2015.201"
+url: "https://ieeexplore.ieee.org/document/7070011/"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{vanOschCoursaris2015,
+  colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffffc00001ff8781ffff8381fffffffffffff1f000ff001000ff001800ff001000ff001c06ff001c02ff001c01fffffc00ff0ff800ff091000ff000800ff001000ff001004ff000800ff001000ff0008ffff00187cff001000ff001000ff000000ff001000fffffffefe0ffffe7ffffffff},
+  file       = {data/pdfs/2015/vanOschCoursaris2015.pdf},
+  doi        = {10.1109/HICSS.2015.201},
+  author     = {{van Osch}, Wietske and Coursaris, Constantinos K.},
+  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  title      = {A Meta-analysis of Theories and Topics in Social Media Research},
+  year       = {2015},
+  url        = {https://ieeexplore.ieee.org/document/7070011/}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - {van Osch}, Wietske
+AU  - Coursaris, Constantinos K.
+TI  - A Meta-analysis of Theories and Topics in Social Media Research
+T2  - Proceedings of the Hawaii International Conference on System Sciences
+PY  - 2015
+DO  - 10.1109/HICSS.2015.201
+UR  - https://ieeexplore.ieee.org/document/7070011/
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1109/HICSS.2015.201>
+- URL: <https://ieeexplore.ieee.org/document/7070011/>
