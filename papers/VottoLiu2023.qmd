@@ -11,7 +11,7 @@ url: "https://hdl.handle.net/10125/102762"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffff800001ffff00ffffc3ffc5ff81ffc0fff3f843ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff24f800ff001800ff0ff800ff8ff800ff001800ff001800ff0018ffff00187fff001c00fffff800ff0fffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/VottoLiu2023.pdf},
   author     = {Votto, Alexis Megan and Liu, Charles Zhechao},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Transparent Artificial Intelligence and Human Resource Management: A Systematic Literature Review},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/102762},
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Votto, Alexis Megan
 AU  - Liu, Charles Zhechao
 TI  - Transparent Artificial Intelligence and Human Resource Management: A Systematic Literature Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/102762
 ER  - 

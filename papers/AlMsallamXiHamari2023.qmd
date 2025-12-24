@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/102766"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe4c9effffffffffffffffffff8001fffc3e7e3ff83c3c1fffffffffff3fa14ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff3bf800ff01f800ff0ff800ff001800ff001800ff001800ff001800ff001800ff40ffffff03ffffff0fffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/AlMsallamXiHamari2023.pdf},
   author     = {Al-Msallam, Samaan and Xi, Nannan and Hamari, Juho},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Unethical Gamification: A Literature Review},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/102766},
@@ -38,7 +38,7 @@ AU  - Al-Msallam, Samaan
 AU  - Xi, Nannan
 AU  - Hamari, Juho
 TI  - Unethical Gamification: A Literature Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/102766
 ER  - 

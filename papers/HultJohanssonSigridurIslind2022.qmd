@@ -12,7 +12,7 @@ url: "http://hdl.handle.net/10125/79995"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/HultJohanssonSigridurIslind2022.pdf},
   doi        = {10.24251/HICSS.2022.657},
   author     = {Hult, Helena Vallo and Johansson, Lars-Olof and Sigridur Islind, Anna},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Intersection Between Information Systems and Workplace Learning: A Systematic Review and Research Agenda},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/79995},
@@ -38,7 +38,7 @@ AU  - Hult, Helena Vallo
 AU  - Johansson, Lars-Olof
 AU  - Sigridur Islind, Anna
 TI  - The Intersection Between Information Systems and Workplace Learning: A Systematic Review and Research Agenda
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.657
 UR  - http://hdl.handle.net/10125/79995

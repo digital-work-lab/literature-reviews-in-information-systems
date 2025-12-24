@@ -11,7 +11,7 @@ url: "http://hdl.handle.net/10125/64058"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe4090bffffffffffffffffffe00007ffe00007ffe0fe0ffff6fffffffbf9fffff19800ff001000ff001800ff001000ff001800ff001800ff001000fffff000ff0ff800ff001800ff000000ff00180fff00083fff001800ff001000ff001000ff001000ff001000ff000000ff727fffff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2020/Digital and Social Media/AlmazyadLoiacono2020.pdf},
   author     = {Almazyad, Fadi and Loiacono, Eleanor T.},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Control vs Content - A Systematic Review of the Social Media Research Literature},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64058}
@@ -35,7 +35,7 @@ TY  - CONF
 AU  - Almazyad, Fadi
 AU  - Loiacono, Eleanor T.
 TI  - Control vs Content - A Systematic Review of the Social Media Research Literature
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2020
 UR  - http://hdl.handle.net/10125/64058
 ER  - 

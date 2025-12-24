@@ -10,7 +10,7 @@ url: "http://hdl.handle.net/10125/80113"
 journal:
   name: ""
 cited_by: 2
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/Ivarsson2022.pdf},
   doi        = {10.24251/HICSS.2022.773},
   author     = {Ivarsson, Frida},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Applying Framing Theory in Digital Transformation Research: Suggestions for Future Research},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/80113},
@@ -35,7 +35,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
 TY  - CONF
 AU  - Ivarsson, Frida
 TI  - Applying Framing Theory in Digital Transformation Research: Suggestions for Future Research
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.773
 UR  - http://hdl.handle.net/10125/80113

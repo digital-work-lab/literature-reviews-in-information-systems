@@ -13,7 +13,7 @@ url: "http://hdl.handle.net/10125/80187"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/NoteboomFennerCrandallEtAl2022.pdf},
   doi        = {10.24251/HICSS.2022.847},
   author     = {Noteboom, Cherie and Fenner, Chad and Crandall, Kalee and Crandall, Kodey},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Past Decade View of the IS Workforce and Gender Literature: A Systematic Review},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/80187},
@@ -41,7 +41,7 @@ AU  - Fenner, Chad
 AU  - Crandall, Kalee
 AU  - Crandall, Kodey
 TI  - The Past Decade View of the IS Workforce and Gender Literature: A Systematic Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.847
 UR  - http://hdl.handle.net/10125/80187

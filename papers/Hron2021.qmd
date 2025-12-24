@@ -10,7 +10,7 @@ url: "https://hdl.handle.net/10125/71332"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -19,7 +19,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
 @inproceedings{Hron2021,
   file       = {data/pdfs/2021/Hron2021.pdf},
   author     = {Hron, Michal},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Quest for New Theoretical Logics of Digital Innovation - Linking Properties of Digital Artifacts with their Conceptualizations in Organizations},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71332}
@@ -32,7 +32,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
 TY  - CONF
 AU  - Hron, Michal
 TI  - The Quest for New Theoretical Logics of Digital Innovation - Linking Properties of Digital Artifacts with their Conceptualizations in Organizations
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2021
 UR  - https://hdl.handle.net/10125/71332
 ER  - 

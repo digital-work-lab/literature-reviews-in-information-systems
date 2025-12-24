@@ -14,7 +14,7 @@ url: "https://hdl.handle.net/10125/102724"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800001fff9efdfffffffffff041860ffa69861fff1f800ff001800ff001800ff001800ff001800ff001800ff001800ff3ff800ff00f800ff0ff800ff0a1800ff001800ff001800ff000800ff000800ff000800ff001800ff001800ff001800ff241fe7ff1fffffff1fc3fffffffffff},
   file       = {data/pdfs/2023/BeermannInstituteHaskampEtAl2023.pdf},
   author     = {Beermann, Vincent and Institute, Hasso Plattner and Haskamp, Thomas and Marx, Carolin and Uebernickel, Falk},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Addressing Inertia in Pro-Environmental Behavior through Nudges: A Review of Existing Literature and a Framework for Future Research},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/102724},
@@ -42,7 +42,7 @@ AU  - Haskamp, Thomas
 AU  - Marx, Carolin
 AU  - Uebernickel, Falk
 TI  - Addressing Inertia in Pro-Environmental Behavior through Nudges: A Review of Existing Literature and a Framework for Future Research
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/102724
 ER  - 

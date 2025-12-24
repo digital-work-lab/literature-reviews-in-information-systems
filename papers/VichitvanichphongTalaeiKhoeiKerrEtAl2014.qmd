@@ -13,7 +13,7 @@ url: "https://ieeexplore.ieee.org/document/6758941/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2014/VichitvanichphongTalaeiKhoeiKerrEtAl2014.pdf},
   doi        = {10.1109/HICSS.2014.341},
   author     = {Vichitvanichphong, Suchada and Talaei-Khoei, Amir and Kerr, Donald and Ghapanchi, Amir Hossein},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Adoption of Assistive Technologies for Aged Care - A Realist Review of Recent Studies},
   year       = {2014},
   url        = {https://ieeexplore.ieee.org/document/6758941/}
@@ -40,7 +40,7 @@ AU  - Talaei-Khoei, Amir
 AU  - Kerr, Donald
 AU  - Ghapanchi, Amir Hossein
 TI  - Adoption of Assistive Technologies for Aged Care - A Realist Review of Recent Studies
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2014
 DO  - 10.1109/HICSS.2014.341
 UR  - https://ieeexplore.ieee.org/document/6758941/

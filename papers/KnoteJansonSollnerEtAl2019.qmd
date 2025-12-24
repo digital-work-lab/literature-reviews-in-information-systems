@@ -13,7 +13,7 @@ url: "http://hdl.handle.net/10125/59642"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2019/KnoteJansonSollnerEtAl2019.pdf},
   doi        = {10.24251/HICSS.2019.245},
   author     = {Knote, Robin and Janson, Andreas and Söllner, Matthias and Leimeister, Jan Marco},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Classifying Smart Personal Assistants - An Empirical Cluster Analysis},
   year       = {2019},
   url        = {http://hdl.handle.net/10125/59642}
@@ -40,7 +40,7 @@ AU  - Janson, Andreas
 AU  - Söllner, Matthias
 AU  - Leimeister, Jan Marco
 TI  - Classifying Smart Personal Assistants - An Empirical Cluster Analysis
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2019
 DO  - 10.24251/HICSS.2019.245
 UR  - http://hdl.handle.net/10125/59642

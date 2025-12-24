@@ -13,7 +13,7 @@ url: "https://hdl.handle.net/10125/103255"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffff000000ffffe7fffffe3e3ffff8081ffffc181ffff8081ffffbffffff001000ff001000ff001800ff001800ff001800ff001800ff001800ff001800ff03f000ff001000ff807000ff807800ff001800ff001800ff001800ff001800ff001800ff001800ff0fffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/BamannWerthDuffelEtAl2023.pdf},
   author     = {Bäßmann, Felix and Werth, Oliver and Düffel, Torben J. and Breitner, Michael H.},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Lost in the City? - A Scoping Review of 5G Enabled Location-Based Urban Scenarios},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103255},
@@ -40,7 +40,7 @@ AU  - Werth, Oliver
 AU  - Düffel, Torben J.
 AU  - Breitner, Michael H.
 TI  - Lost in the City? - A Scoping Review of 5G Enabled Location-Based Urban Scenarios
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103255
 ER  - 

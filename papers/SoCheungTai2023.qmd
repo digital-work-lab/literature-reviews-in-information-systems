@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/102709"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffc4090bffffffffffffffffffffffffff000000ffff7f7fff83c1e1ff81c1c1fff1f800ff001800ff001800ff001800ff001800ff001800ff001800ff0ff800ff881800ff001800ff001800ff001800ff001800ff001800ff001800ff00180fff00183fff001c00ff001ffcff0fc3fefffffffffffffffffffffffff},
   file       = {data/pdfs/2023/SoCheungTai2023.pdf},
   author     = {So, Tin King and Cheung, Christy M. K. and Tai, Samson K. H.},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Cryptocurrency Research in the Field of Information Systems: A Literature Review and its Implications for Sharing Economy Research},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/102709},
@@ -38,7 +38,7 @@ AU  - So, Tin King
 AU  - Cheung, Christy M. K.
 AU  - Tai, Samson K. H.
 TI  - Cryptocurrency Research in the Field of Information Systems: A Literature Review and its Implications for Sharing Economy Research
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/102709
 ER  - 

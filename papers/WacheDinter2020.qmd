@@ -11,7 +11,7 @@ url: "http://hdl.handle.net/10125/64413"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2020/WacheDinter2020.pdf},
   doi        = {10.24251/HICSS.2020.671},
   author     = {Wache, Hendrik and Dinter, Barbara},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Digital Twin - Birth of an Integrated System in the Digital Age},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64413}
@@ -35,7 +35,7 @@ TY  - CONF
 AU  - Wache, Hendrik
 AU  - Dinter, Barbara
 TI  - The Digital Twin - Birth of an Integrated System in the Digital Age
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2020
 DO  - 10.24251/HICSS.2020.671
 UR  - http://hdl.handle.net/10125/64413

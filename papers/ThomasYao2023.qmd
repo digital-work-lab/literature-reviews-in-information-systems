@@ -11,7 +11,7 @@ url: "https://hdl.handle.net/10125/103341"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffefffffffffffffffffffffffc00001fffe883fffe0ff87ffe07f87ffffffffffe17800ff00181fff001800ff001800ff001800ff001800ff001800ff001800ff003800ff003800ff0ff800ff8ff800ff001800ff001800ff001800ff001000ff0009ffff001800ff000000ff001880ff0fffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/ThomasYao2023.pdf},
   author     = {Thomas, Dominic and Yao, Yurong},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Technology-Organization-Environment Meta-Review and Construct Analysis: Insights for Future Research},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103341},
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Thomas, Dominic
 AU  - Yao, Yurong
 TI  - Technology-Organization-Environment Meta-Review and Construct Analysis: Insights for Future Research
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103341
 ER  - 

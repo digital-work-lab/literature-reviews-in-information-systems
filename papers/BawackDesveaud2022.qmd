@@ -11,7 +11,7 @@ url: "http://hdl.handle.net/10125/79863"
 journal:
   name: ""
 cited_by: 1
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/BawackDesveaud2022.pdf},
   doi        = {10.24251/HICSS.2022.526},
   author     = {Bawack, Ransome Epie and Desveaud, Kathleen},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Consumer Adoption of Artificial Intelligence: A Review of Theories and Antecedents},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/79863},
@@ -37,7 +37,7 @@ TY  - CONF
 AU  - Bawack, Ransome Epie
 AU  - Desveaud, Kathleen
 TI  - Consumer Adoption of Artificial Intelligence: A Review of Theories and Antecedents
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.526
 UR  - http://hdl.handle.net/10125/79863

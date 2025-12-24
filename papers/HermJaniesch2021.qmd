@@ -11,7 +11,7 @@ url: "https://hdl.handle.net/10125/71444"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -20,7 +20,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
 @inproceedings{HermJaniesch2021,
   file       = {data/pdfs/2021/HermJaniesch2021.pdf},
   author     = {Herm, Lukas-Valentin and Janiesch, Christian},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Towards an Implementation of Blockchain-based Collaboration Platforms in Supply Chain Networks - A Requirements Analysis},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71444}
@@ -34,7 +34,7 @@ TY  - CONF
 AU  - Herm, Lukas-Valentin
 AU  - Janiesch, Christian
 TI  - Towards an Implementation of Blockchain-based Collaboration Platforms in Supply Chain Networks - A Requirements Analysis
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2021
 UR  - https://hdl.handle.net/10125/71444
 ER  - 

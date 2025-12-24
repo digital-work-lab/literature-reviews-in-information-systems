@@ -11,7 +11,7 @@ url: "http://hdl.handle.net/10125/50568"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:ffffffffffffffffffffffffffffffffff00007fff1ff87ffe0ff87fffbfffffff1f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001e3fff001e3ffffff800ffc7f800ff001800ff001800ff001800ff001800ff001800ff001800ff009800ff001800ff001f7fff06f7ffff0ff1fffffffffff},
   file       = {data/pdfs/2018/st/agile_development/HronObwegeser2018.pdf},
   author     = {Hron, Michal and Obwegeser, Nikolaus},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Scrum in Practice - an Overview of Scrum Adaptations},
   year       = {2018},
   url        = {http://hdl.handle.net/10125/50568}
@@ -35,7 +35,7 @@ TY  - CONF
 AU  - Hron, Michal
 AU  - Obwegeser, Nikolaus
 TI  - Scrum in Practice - an Overview of Scrum Adaptations
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2018
 UR  - http://hdl.handle.net/10125/50568
 ER  - 

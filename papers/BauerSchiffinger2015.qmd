@@ -11,7 +11,7 @@ url: "https://ieeexplore.ieee.org/document/7070250/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2015/BauerSchiffinger2015.pdf},
   doi        = {10.1109/HICSS.2015.435},
   author     = {Bauer, Christine and Schiffinger, Michael},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Self-Disclosure in Online Interaction - A Meta-analysis},
   year       = {2015},
   url        = {https://ieeexplore.ieee.org/document/7070250/}
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Bauer, Christine
 AU  - Schiffinger, Michael
 TI  - Self-Disclosure in Online Interaction - A Meta-analysis
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2015
 DO  - 10.1109/HICSS.2015.435
 UR  - https://ieeexplore.ieee.org/document/7070250/

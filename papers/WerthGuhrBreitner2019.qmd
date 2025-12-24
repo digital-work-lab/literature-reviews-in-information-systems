@@ -12,7 +12,7 @@ url: "http://hdl.handle.net/10125/60183"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2019/WerthGuhrBreitner2019.pdf},
   doi        = {10.24251/HICSS.2019.897},
   author     = {Werth, Oliver and Guhr, Nadine and Breitner, Michael H.},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Successful Mobile Application Development - Towards a Taxonomy of Domain-Specific Process Models and Methodologies},
   year       = {2019},
   url        = {http://hdl.handle.net/10125/60183}
@@ -38,7 +38,7 @@ AU  - Werth, Oliver
 AU  - Guhr, Nadine
 AU  - Breitner, Michael H.
 TI  - Successful Mobile Application Development - Towards a Taxonomy of Domain-Specific Process Models and Methodologies
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2019
 DO  - 10.24251/HICSS.2019.897
 UR  - http://hdl.handle.net/10125/60183

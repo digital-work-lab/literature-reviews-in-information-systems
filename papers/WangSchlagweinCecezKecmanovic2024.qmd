@@ -1,7 +1,7 @@
 ---
 title: "Critical-Theoretic Review and Research Agenda on Digital Nomadism Literature Review"
 author:
-- Lero, Blair Wang
+- Wang, Blair
 - Schlagwein, Daniel
 - Cecez-Kecmanovic, Dubravka
 topic: ""
@@ -18,9 +18,9 @@ outlet: "International Conference on Information Systems"
 ## Citation: BibTeX
 
 ```bibtex
-@inproceedings{LeroSchlagweinCecezKecmanovic2024,
+@inproceedings{WangSchlagweinCecezKecmanovic2024,
   file       = {data/pdfs/2024/Literature Review/Critical-Theoretic Review and Research Agenda on Digital Nomadism.pdf},
-  author     = {Lero, Blair Wang and Schlagwein, Daniel and Cecez-Kecmanovic, Dubravka},
+  author     = {Wang, Blair and Schlagwein, Daniel and Cecez-Kecmanovic, Dubravka},
   booktitle  = {International Conference on Information Systems},
   title      = {Critical-Theoretic Review and Research Agenda on Digital Nomadism Literature Review},
   year       = {2024}
@@ -31,7 +31,7 @@ outlet: "International Conference on Information Systems"
 
 ```bibtex
 TY  - CONF
-AU  - Lero, Blair Wang
+AU  - Wang, Blair
 AU  - Schlagwein, Daniel
 AU  - Cecez-Kecmanovic, Dubravka
 TI  - Critical-Theoretic Review and Research Agenda on Digital Nomadism Literature Review

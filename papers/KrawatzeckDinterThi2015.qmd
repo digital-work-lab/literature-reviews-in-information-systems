@@ -12,7 +12,7 @@ url: "https://ieeexplore.ieee.org/document/7070386/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2015/KrawatzeckDinterThi2015.pdf},
   doi        = {10.1109/HICSS.2015.566},
   author     = {Krawatzeck, Robert and Dinter, Barbara and Thi, Duc Anh Pham},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {How to Make Business Intelligence Agile - The Agile BI Actions Catalog},
   year       = {2015},
   url        = {https://ieeexplore.ieee.org/document/7070386/}
@@ -38,7 +38,7 @@ AU  - Krawatzeck, Robert
 AU  - Dinter, Barbara
 AU  - Thi, Duc Anh Pham
 TI  - How to Make Business Intelligence Agile - The Agile BI Actions Catalog
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2015
 DO  - 10.1109/HICSS.2015.566
 UR  - https://ieeexplore.ieee.org/document/7070386/

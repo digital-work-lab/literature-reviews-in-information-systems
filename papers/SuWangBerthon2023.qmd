@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/103237"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe40103ffe0812bff000000ff020020ffffffffffefc3e3ff8381c1ff87c7fffffff801ff00b800ff001801ff003801ff003801ff003801ff007800ff001800ff05f800ff2ff800ff3ff800ff003800ff003800ff3ff800ff003801ffbff800ffcff800ff0ff800ff003801ff007807ff01ffffff0fc3fcfffffffff},
   file       = {data/pdfs/2023/SuWangBerthon2023.pdf},
   author     = {Su, Yiran and Wang, Emma Junhong and Berthon, Pierre},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Ethical Marketing AI?A Structured Literature Review of the Ethical Challenges Posed by Artificial Intelligence in the Domains of Marketing and Consumer Behavior},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103237},
@@ -38,7 +38,7 @@ AU  - Su, Yiran
 AU  - Wang, Emma Junhong
 AU  - Berthon, Pierre
 TI  - Ethical Marketing AI?A Structured Literature Review of the Ethical Challenges Posed by Artificial Intelligence in the Domains of Marketing and Consumer Behavior
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103237
 ER  - 

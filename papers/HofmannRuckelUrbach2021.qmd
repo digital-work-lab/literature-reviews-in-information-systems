@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/71289"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2021/HofmannRuckelUrbach2021.pdf},
   doi        = {10.24251/HICSS.2021.669},
   author     = {Hofmann, Peter and Rückel, Timon and Urbach, Nils},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Innovating with Artificial Intelligence - Capturing the Constructive Functional Capabilities of Deep Generative Learning},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71289}
@@ -37,7 +37,7 @@ AU  - Hofmann, Peter
 AU  - Rückel, Timon
 AU  - Urbach, Nils
 TI  - Innovating with Artificial Intelligence - Capturing the Constructive Functional Capabilities of Deep Generative Learning
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2021
 DO  - 10.24251/HICSS.2021.669
 UR  - https://hdl.handle.net/10125/71289

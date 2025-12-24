@@ -11,7 +11,7 @@ url: "https://hdl.handle.net/10125/71172"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2021/StrobelMittnacht2021.pdf},
   doi        = {10.24251/HICSS.2021.555},
   author     = {Strobel, Gero and Mittnacht, Judith},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Richard, Are We There Yet? - An Internet of Nano Things Information System Architecture},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71172}
@@ -35,7 +35,7 @@ TY  - CONF
 AU  - Strobel, Gero
 AU  - Mittnacht, Judith
 TI  - Richard, Are We There Yet? - An Internet of Nano Things Information System Architecture
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2021
 DO  - 10.24251/HICSS.2021.555
 UR  - https://hdl.handle.net/10125/71172

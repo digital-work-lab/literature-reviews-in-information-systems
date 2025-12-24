@@ -12,7 +12,7 @@ url: "http://hdl.handle.net/10125/64054"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe749fbfffffffffffffffffffe007fffffc3ffffff80ffffffc3fffff1fb04ff001800ff001000ff001800ff001800ff001800ff051000ff001800ff001800ff0ff000ff001800ff001800ff001837ff001000ff001800ff001000ff00187fff001807ff001800ff001800ff401800ff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2020/Digital and Social Media/GroothuisSpilEffing2020.pdf},
   author     = {Groothuis, Daan and Spil, Ton and Effing, Robin},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Facebook Marketing Intelligence},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64054}
@@ -37,7 +37,7 @@ AU  - Groothuis, Daan
 AU  - Spil, Ton
 AU  - Effing, Robin
 TI  - Facebook Marketing Intelligence
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2020
 UR  - http://hdl.handle.net/10125/64054
 ER  - 

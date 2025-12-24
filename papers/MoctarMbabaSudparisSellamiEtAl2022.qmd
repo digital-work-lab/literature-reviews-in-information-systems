@@ -14,7 +14,7 @@ url: "http://hdl.handle.net/10125/80091"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/MoctarMbabaSudparisSellamiEtAl2022.pdf},
   doi        = {10.24251/HICSS.2022.751},
   author     = {Moctar M'baba, Leyla and Sudparis, Télécom and Sellami, Mohamed and Gaaloul, Walid and Farouk, Mohamedade},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Blockchain logging for process mining: a systematic review},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/80091},
@@ -42,7 +42,7 @@ AU  - Sellami, Mohamed
 AU  - Gaaloul, Walid
 AU  - Farouk, Mohamedade
 TI  - Blockchain logging for process mining: a systematic review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.751
 UR  - http://hdl.handle.net/10125/80091

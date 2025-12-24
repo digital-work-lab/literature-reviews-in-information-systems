@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/103306"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff800001fff0d24fffe7e7c3ff838181fff3fc48ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff003800ff003800ff0ff800ff8ff800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff421fffff1fffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/FangRisiusCheung2023.pdf},
   author     = {Fang, Yuan and Risius, Marten and Cheung, Christy M. K.},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Understanding the Current State of Knowledge and Future Directions of Doxing Research: A Social Cognitive Theory Perspective},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103306},
@@ -38,7 +38,7 @@ AU  - Fang, Yuan
 AU  - Risius, Marten
 AU  - Cheung, Christy M. K.
 TI  - Understanding the Current State of Knowledge and Future Directions of Doxing Research: A Social Cognitive Theory Perspective
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103306
 ER  - 

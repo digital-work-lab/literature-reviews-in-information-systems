@@ -13,7 +13,7 @@ url: "http://hdl.handle.net/10125/60131"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2019/DreesenDiegmannBinzerEtAl2019.pdf},
   doi        = {10.24251/HICSS.2019.834},
   author     = {Dreesen, Tim and Diegmann, Phil and Binzer, Björn and Rosenkranz, Christoph},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Journey Towards Agility - A Retro- and Prospective Review},
   year       = {2019},
   url        = {http://hdl.handle.net/10125/60131}
@@ -40,7 +40,7 @@ AU  - Diegmann, Phil
 AU  - Binzer, Björn
 AU  - Rosenkranz, Christoph
 TI  - Journey Towards Agility - A Retro- and Prospective Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2019
 DO  - 10.24251/HICSS.2019.834
 UR  - http://hdl.handle.net/10125/60131

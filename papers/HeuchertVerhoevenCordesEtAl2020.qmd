@@ -13,7 +13,7 @@ url: "http://hdl.handle.net/10125/63947"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe749fbfffffffffffffffffff8001ffffc103fff061861ff8e1cf3fffffffffff1f000ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800fffff000ff0ff000ff059000ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff77bfa5ff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2020/Decision analytics and service science/HeuchertVerhoevenCordesEtAl2020.pdf},
   author     = {Heuchert, Markus and Verhoeven, Yannick and Cordes, Ann-Kristin and Becker, Jörg},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Smart Service Systems in Manufacturing - An Investigation of Theory and Practice},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/63947}
@@ -39,7 +39,7 @@ AU  - Verhoeven, Yannick
 AU  - Cordes, Ann-Kristin
 AU  - Becker, Jörg
 TI  - Smart Service Systems in Manufacturing - An Investigation of Theory and Practice
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2020
 UR  - http://hdl.handle.net/10125/63947
 ER  - 

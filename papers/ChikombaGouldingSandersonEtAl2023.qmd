@@ -14,7 +14,7 @@ url: "https://hdl.handle.net/10125/102864"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff000000fffe097fffc3ffe3ff818180ffc381ffff8180ffffffffffff001000ff001800ff001800ff001800ff001800ff001800ff00d800ff0ff800ff0ff800ff001800ff001bbeff001800ff0018ffff001800ff001000ff001800ff000800ff001fffff0dffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/ChikombaGouldingSandersonEtAl2023.pdf},
   author     = {Chikomba, Alfred and Goulding, Anne and Sanderson, Lara and Sylvester, Allan and Campbell-Meier, Jennifer},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Methods and (Lack of) Theory in Digital Inclusion, Digital Divide, and Digital Equity Research on Older Adults},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/102864},
@@ -42,7 +42,7 @@ AU  - Sanderson, Lara
 AU  - Sylvester, Allan
 AU  - Campbell-Meier, Jennifer
 TI  - Methods and (Lack of) Theory in Digital Inclusion, Digital Divide, and Digital Equity Research on Older Adults
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/102864
 ER  - 

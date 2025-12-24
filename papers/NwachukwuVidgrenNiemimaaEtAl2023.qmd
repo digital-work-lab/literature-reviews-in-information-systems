@@ -13,7 +13,7 @@ url: "https://hdl.handle.net/10125/103396"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff800040ffffffffff860820ffffffffff9ff800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff00180dff001800ff1ff800ff01d800ff87f000ff87f000ff001800ff001800ff001002ff001c9cff0018fdff001802ffed1800ff1fffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/NwachukwuVidgrenNiemimaaEtAl2023.pdf},
   author     = {Nwachukwu, Uchechukwu and Vidgren, Jiri and Niemimaa, Marko and Järveläinen, Jonna},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Do SETA Interventions Change Security Behavior? - A Literature Review},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103396},
@@ -40,7 +40,7 @@ AU  - Vidgren, Jiri
 AU  - Niemimaa, Marko
 AU  - Järveläinen, Jonna
 TI  - Do SETA Interventions Change Security Behavior? - A Literature Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103396
 ER  - 

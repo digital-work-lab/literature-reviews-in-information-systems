@@ -11,7 +11,7 @@ url: "https://ieeexplore.ieee.org/document/7427558/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2016/MedagliaZheng2016.pdf},
   doi        = {10.1109/HICSS.2016.375},
   author     = {Medaglia, Rony and Zheng, Lei},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Characterizing Government Social Media Research - Towards a Grounded Overview Model},
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427558/}
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Medaglia, Rony
 AU  - Zheng, Lei
 TI  - Characterizing Government Social Media Research - Towards a Grounded Overview Model
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2016
 DO  - 10.1109/HICSS.2016.375
 UR  - https://ieeexplore.ieee.org/document/7427558/

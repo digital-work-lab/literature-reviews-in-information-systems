@@ -12,7 +12,7 @@ url: "http://hdl.handle.net/10125/80024"
 journal:
   name: ""
 cited_by: 1
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/SuMcguckinAbhari2022.pdf},
   doi        = {10.24251/HICSS.2022.686},
   author     = {Su, Nan and Mcguckin, Summer and Abhari, Kaveh},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Limits of Open Innovation: A Literature Review and Research Agenda},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/80024},
@@ -39,7 +39,7 @@ AU  - Su, Nan
 AU  - Mcguckin, Summer
 AU  - Abhari, Kaveh
 TI  - The Limits of Open Innovation: A Literature Review and Research Agenda
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.686
 UR  - http://hdl.handle.net/10125/80024

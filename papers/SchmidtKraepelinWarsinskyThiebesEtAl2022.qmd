@@ -13,7 +13,7 @@ url: "http://hdl.handle.net/10125/79529"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/SchmidtKraepelinWarsinskyThiebesEtAl2022.pdf},
   doi        = {10.24251/HICSS.2022.197},
   author     = {Schmidt-Kraepelin, Manuel and Warsinsky, Simon and Thiebes, Scott and Sunyaev, Ali},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Conceptualizing Narratives in Gamified Information Systems},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/79529},
@@ -41,7 +41,7 @@ AU  - Warsinsky, Simon
 AU  - Thiebes, Scott
 AU  - Sunyaev, Ali
 TI  - Conceptualizing Narratives in Gamified Information Systems
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.197
 UR  - http://hdl.handle.net/10125/79529

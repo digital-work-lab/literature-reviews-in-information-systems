@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/103121"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe4c96bffffffffffffffffffc00003ffffffffffffffffff81c381ff81a1e7fffffffffffbfaafff913800ff001800ff001800ff001800ff201000ff009000ff01f000ff8ff000ff001800ff001800ff001800ff001800ff001800ff001800ff001000ff001800ff001800fff7398fff0fffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/KolbelWeinhardtHolder2023.pdf},
   author     = {Kölbel, Tobias and Weinhardt, Christof and Holder, Issuer Verifier},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Enterprise Business Models Leveraging Self-Sovereign Identity: Towards a User-Empowering Me2X Economy},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103121},
@@ -38,7 +38,7 @@ AU  - Kölbel, Tobias
 AU  - Weinhardt, Christof
 AU  - Holder, Issuer Verifier
 TI  - Enterprise Business Models Leveraging Self-Sovereign Identity: Towards a User-Empowering Me2X Economy
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103121
 ER  - 

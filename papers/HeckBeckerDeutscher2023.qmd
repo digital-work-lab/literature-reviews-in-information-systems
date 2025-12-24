@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/103459"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe4090bffffffffffffffffff800001fffffffffff03c07ffe03c07fff03fffffe03ffffffbffffffa11800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001000ff01f000ff001800ff0ff800ff87f000ff001800ff001800ff001000ff000800ffef5fffff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/HeckBeckerDeutscher2023.pdf},
   author     = {Heck, Melanie and Becker, Christian and Deutscher, Viola},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Webcam Eye Tracking for Desktop and Mobile Devices: A Systematic Review},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103459},
@@ -38,7 +38,7 @@ AU  - Heck, Melanie
 AU  - Becker, Christian
 AU  - Deutscher, Viola
 TI  - Webcam Eye Tracking for Desktop and Mobile Devices: A Systematic Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103459
 ER  - 

@@ -12,7 +12,7 @@ url: "https://ieeexplore.ieee.org/document/7427673/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2016/HermannPentekOtto2016.pdf},
   doi        = {10.1109/HICSS.2016.488},
   author     = {Hermann, Mario and Pentek, Tobias and Otto, Boris},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Design Principles for Industrie 4.0 Scenarios},
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427673/}
@@ -38,7 +38,7 @@ AU  - Hermann, Mario
 AU  - Pentek, Tobias
 AU  - Otto, Boris
 TI  - Design Principles for Industrie 4.0 Scenarios
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2016
 DO  - 10.1109/HICSS.2016.488
 UR  - https://ieeexplore.ieee.org/document/7427673/

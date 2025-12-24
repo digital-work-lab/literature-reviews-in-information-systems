@@ -12,7 +12,7 @@ url: "http://hdl.handle.net/10125/59681"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe66dffffffffffffffffffff000000ffff81ffff83c3c0ff8fc7fffff3fc03fffaf800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff00f800fffff800ff0ff800ff001800ff001800ff001800ff001a1aff001800ff001801ff001e00fffffffdff4fffffff0fc3fffffffffff},
   file       = {data/pdfs/2019/HammerlLeistSchwaiger2019.pdf},
   author     = {Hammerl, Timo and Leist, Susanne and Schwaiger, Josef-Michael},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Measuring the Success of Social Media - Matching Identified Success Factors to Social Media KPIs},
   year       = {2019},
   url        = {http://hdl.handle.net/10125/59681}
@@ -37,7 +37,7 @@ AU  - Hammerl, Timo
 AU  - Leist, Susanne
 AU  - Schwaiger, Josef-Michael
 TI  - Measuring the Success of Social Media - Matching Identified Success Factors to Social Media KPIs
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2019
 UR  - http://hdl.handle.net/10125/59681
 ER  - 

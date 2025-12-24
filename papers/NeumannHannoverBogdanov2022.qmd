@@ -12,7 +12,7 @@ url: "http://hdl.handle.net/10125/80224"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/NeumannHannoverBogdanov2022.pdf},
   doi        = {10.24251/HICSS.2022.882},
   author     = {Neumann, Michael and Hannover, Hochschule and Bogdanov, Yevgen},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Impact of Covid 19 on Agile Software Development: A Systematic Literature Review},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/80224},
@@ -39,7 +39,7 @@ AU  - Neumann, Michael
 AU  - Hannover, Hochschule
 AU  - Bogdanov, Yevgen
 TI  - The Impact of Covid 19 on Agile Software Development: A Systematic Literature Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.882
 UR  - http://hdl.handle.net/10125/80224

@@ -13,7 +13,7 @@ url: "http://hdl.handle.net/10125/79506"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/EloLumivaloTuunanenEtAl2022.pdf},
   doi        = {10.24251/HICSS.2022.174},
   author     = {Elo, Jenny and Lumivalo, Juuli and Tuunanen, Tuure and Salo, Markus},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Factors Enabling and Hindering Value Co-Creation in Continuous Service Development: A Systematic Literature Review},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/79506},
@@ -41,7 +41,7 @@ AU  - Lumivalo, Juuli
 AU  - Tuunanen, Tuure
 AU  - Salo, Markus
 TI  - Factors Enabling and Hindering Value Co-Creation in Continuous Service Development: A Systematic Literature Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.174
 UR  - http://hdl.handle.net/10125/79506

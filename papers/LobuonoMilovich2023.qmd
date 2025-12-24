@@ -11,7 +11,7 @@ url: "https://hdl.handle.net/10125/102988"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffefffffffffffffffffffffffc00001ffffc3ffffd3ffe3ffc3ffc1fff1f840ff001000ff001800ff001880ff001800ff001800ff001800ff001800ff001800ff207800ff007800ff0ff800ff801800ff001800ff000800ff001800ff001800ff001800ff001800ff001800ff001fffff1dffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/LobuonoMilovich2023.pdf},
   author     = {Lobuono, Dara and Milovich, Michael},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Technology Use in Managing the Nutrition Health of Older Adults: A Scoping Review},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/102988},
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Lobuono, Dara
 AU  - Milovich, Michael
 TI  - Technology Use in Managing the Nutrition Health of Older Adults: A Scoping Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/102988
 ER  - 

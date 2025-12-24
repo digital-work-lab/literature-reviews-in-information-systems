@@ -11,7 +11,7 @@ url: "http://hdl.handle.net/10125/49930"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2018/cl/it_enabled_collaboration/IslamBuxmann2018.pdf},
   doi        = {10.24251/HICSS.2018.043},
   author     = {Islam, Nihal and Buxmann, Peter},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Role of Collaboration between Incumbent Firms and Start-ups on Customers' Adoption of Digital Innovation},
   year       = {2018},
   url        = {http://hdl.handle.net/10125/49930}
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Islam, Nihal
 AU  - Buxmann, Peter
 TI  - The Role of Collaboration between Incumbent Firms and Start-ups on Customers' Adoption of Digital Innovation
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2018
 DO  - 10.24251/HICSS.2018.043
 UR  - http://hdl.handle.net/10125/49930

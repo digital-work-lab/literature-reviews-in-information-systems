@@ -11,7 +11,7 @@ url: "https://hdl.handle.net/10125/103317"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000000ffffa8fffff83c1ffff8181ffff1f800ff001800ff001800ff001802ff001800ff001800ff001800ff001800ff001800ff00f800ff1ff800ff0ff000ff841af2ff001800ff001800ff001800ff001800ff001800ff005800ff001800ff001b13ff1fffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/HuttermannRosenkranz2023.pdf},
   author     = {Hüttermann, Michael and Rosenkranz, Christoph},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The DevOps Funnel: Introducing DevOps as an Antecedent for Digitalization in Large-Scale Organizations},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103317},
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Hüttermann, Michael
 AU  - Rosenkranz, Christoph
 TI  - The DevOps Funnel: Introducing DevOps as an Antecedent for Digitalization in Large-Scale Organizations
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103317
 ER  - 

@@ -11,7 +11,7 @@ url: "http://hdl.handle.net/10125/64483"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffefffffffffffffffffffffff800001fff0ff9fffe07e07fffffffffff9f800ff001800ff001800ff001800ff001800ff001800ff001800ff009800ff001800ff03f850ff0ffc00ff001800ff000800ff000800ff001809ff001800ff000c00ff001800ff001c03ff000800fffff800ff0dffffff0fc3fffffffffff},
   file       = {data/pdfs/2020/Organizational Systems and Technology/KosmolOtto2020.pdf},
   author     = {Kosmol, Linda and Otto, Lena},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Implementation Barriers of Industrial Symbiosis - A Systematic Review},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64483}
@@ -35,7 +35,7 @@ TY  - CONF
 AU  - Kosmol, Linda
 AU  - Otto, Lena
 TI  - Implementation Barriers of Industrial Symbiosis - A Systematic Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2020
 UR  - http://hdl.handle.net/10125/64483
 ER  - 

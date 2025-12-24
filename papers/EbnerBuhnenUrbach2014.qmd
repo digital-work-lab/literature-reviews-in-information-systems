@@ -12,7 +12,7 @@ url: "https://ieeexplore.ieee.org/document/6759068/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2014/EbnerBuhnenUrbach2014.pdf},
   doi        = {10.1109/HICSS.2014.466},
   author     = {Ebner, Katharina and Buhnen, Thilo and Urbach, Nils},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Think Big with Big Data - Identifying Suitable Big Data Strategies in Corporate Environments},
   year       = {2014},
   url        = {https://ieeexplore.ieee.org/document/6759068/}
@@ -37,7 +37,7 @@ AU  - Ebner, Katharina
 AU  - Buhnen, Thilo
 AU  - Urbach, Nils
 TI  - Think Big with Big Data - Identifying Suitable Big Data Strategies in Corporate Environments
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2014
 DO  - 10.1109/HICSS.2014.466
 UR  - https://ieeexplore.ieee.org/document/6759068/

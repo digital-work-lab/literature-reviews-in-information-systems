@@ -13,7 +13,7 @@ url: "https://ieeexplore.ieee.org/document/7427186/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2016/JeongHmeloSilverJoEtAl2016.pdf},
   doi        = {10.1109/HICSS.2016.11},
   author     = {Jeong, Heisawn and Hmelo-Silver, Cindy E. and Jo, Kihyun and Shin, Myungho},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {CSCL in STEM Education - Preliminary Findings from a Meta-Analysis},
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427186/}
@@ -40,7 +40,7 @@ AU  - Hmelo-Silver, Cindy E.
 AU  - Jo, Kihyun
 AU  - Shin, Myungho
 TI  - CSCL in STEM Education - Preliminary Findings from a Meta-Analysis
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2016
 DO  - 10.1109/HICSS.2016.11
 UR  - https://ieeexplore.ieee.org/document/7427186/

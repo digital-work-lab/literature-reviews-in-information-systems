@@ -13,7 +13,7 @@ url: "http://hdl.handle.net/10125/50412"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000000ffff89ffff861c20fffffffffff9f800ff001800ff001800ff001800ff001000ff001800ff001800ff001800ff001800ff009000ff0ff000ff0df000ff000800ff001800ff001000ff000800ff00186eff001800ff001000ff001000fff9dfffff4ff7ffff0ff1fffffffffff},
   file       = {data/pdfs/2018/ks/ks_innovation/ReibenspiessDrechslerEckhardtEtAl2018.pdf},
   author     = {Reibenspiess, Victoria and Drechsler, Katharina and Eckhardt, Andreas and Wagner, Heinz-Theo},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Enabling Innovation Champions in Organizations - Results of a Systematic Literature Analysis},
   year       = {2018},
   url        = {http://hdl.handle.net/10125/50412}
@@ -39,7 +39,7 @@ AU  - Drechsler, Katharina
 AU  - Eckhardt, Andreas
 AU  - Wagner, Heinz-Theo
 TI  - Enabling Innovation Champions in Organizations - Results of a Systematic Literature Analysis
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2018
 UR  - http://hdl.handle.net/10125/50412
 ER  - 

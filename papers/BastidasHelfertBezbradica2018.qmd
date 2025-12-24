@@ -12,7 +12,7 @@ url: "http://hdl.handle.net/10125/50205"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800001ffffc3ffffc7e7e1ff83c3c1ff87c3c1fffbfffffff1f800ff001000ff001800ff001000ff001000ff001800ff001000ff001000ff001800ff001800ff003800ff0ff000ff001000ff000800ff001800ff001000ff000000ff001801ffffffffff06f7ffff0ff1fffffffffff},
   file       = {data/pdfs/2018/eg/smart_cities_smart_government/BastidasHelfertBezbradica2018.pdf},
   author     = {Bastidas, Viviana and Helfert, Markus and Bezbradica, Marija},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {A Requirements Framework for the Design of Smart City Reference Architectures},
   year       = {2018},
   url        = {http://hdl.handle.net/10125/50205}
@@ -37,7 +37,7 @@ AU  - Bastidas, Viviana
 AU  - Helfert, Markus
 AU  - Bezbradica, Marija
 TI  - A Requirements Framework for the Design of Smart City Reference Architectures
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2018
 UR  - http://hdl.handle.net/10125/50205
 ER  - 

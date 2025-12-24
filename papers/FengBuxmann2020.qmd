@@ -11,7 +11,7 @@ url: "http://hdl.handle.net/10125/63759"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2020/FengBuxmann2020.pdf},
   doi        = {10.24251/HICSS.2020.020},
   author     = {Feng, Shengjia and Buxmann, Peter},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {My Virtual Colleague - A State-of-the-Art Analysis of Conversational Agents for the Workplace},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/63759}
@@ -35,7 +35,7 @@ TY  - CONF
 AU  - Feng, Shengjia
 AU  - Buxmann, Peter
 TI  - My Virtual Colleague - A State-of-the-Art Analysis of Conversational Agents for the Workplace
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2020
 DO  - 10.24251/HICSS.2020.020
 UR  - http://hdl.handle.net/10125/63759

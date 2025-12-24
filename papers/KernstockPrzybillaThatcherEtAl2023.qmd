@@ -13,7 +13,7 @@ url: "https://hdl.handle.net/10125/103096"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffff000000ffff01ffff8181c1ff81c1c1ffff81fffffff1ffff901800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff07f800ff05b800ff0ff800ff801800ff001800ff001800ff001800ff001800ff801f6bff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/KernstockPrzybillaThatcherEtAl2023.pdf},
   author     = {Kernstock, Philipp and Przybilla, Leonard and Thatcher, Jason and Krcmar, Helmut},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {"Can't Get No Satisfaction?" - The Case for Broadening Information Systems Research on E-Commerce},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103096},
@@ -40,7 +40,7 @@ AU  - Przybilla, Leonard
 AU  - Thatcher, Jason
 AU  - Krcmar, Helmut
 TI  - "Can't Get No Satisfaction?" - The Case for Broadening Information Systems Research on E-Commerce
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103096
 ER  - 

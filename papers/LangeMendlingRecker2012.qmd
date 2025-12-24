@@ -12,7 +12,7 @@ url: "https://ieeexplore.ieee.org/document/6149410/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2012/LangeMendlingRecker2012.pdf},
   doi        = {10.1109/HICSS.2012.50},
   author     = {Lange, Matthias and Mendling, Jan and Recker, Jan},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {A comprehensive EA benefit realization model -An exploratory study},
   year       = {2012},
   url        = {https://ieeexplore.ieee.org/document/6149410/}
@@ -37,7 +37,7 @@ AU  - Lange, Matthias
 AU  - Mendling, Jan
 AU  - Recker, Jan
 TI  - A comprehensive EA benefit realization model -An exploratory study
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2012
 DO  - 10.1109/HICSS.2012.50
 UR  - https://ieeexplore.ieee.org/document/6149410/

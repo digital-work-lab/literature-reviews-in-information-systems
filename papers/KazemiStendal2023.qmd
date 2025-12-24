@@ -11,7 +11,7 @@ url: "https://hdl.handle.net/10125/103026"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe4090bffffffffffffffffff800001ffffffffffc07e07fff1fe07ff801800ff001800ff001800ff001800ff0018fcff001807ff001c07ff001800ff001800ff0ff800ff21d800ff0ff8ffff001800ff001ba2ff001800ff001c00ff001800ff001800ff001800ff001800ffff7d24ff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/KazemiStendal2023.pdf},
   author     = {Kazemi, Gholamhossein and Stendal, Karen},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {How can Extended Reality Help Individuals with Depth Misperception?},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103026},
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Kazemi, Gholamhossein
 AU  - Stendal, Karen
 TI  - How can Extended Reality Help Individuals with Depth Misperception?
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103026
 ER  - 

@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/102868"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe00003ffe0000ffff9f3ffffc1c1c1ffffe3fffff9fc01ff801800ff801800ff801801ff001801ff801801ff801801ff001801ff819801ff925801ff923809ffcff801ff821800ff001800ff001801ff001809ff801800ff801801ff00180fff00180fff001fffff011fffffffffffff0dffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/BhattaraiHassanVesa2023.pdf},
   author     = {Bhattarai, Rakshya and Hassan, Lobna and Vesa, Mikko},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Participatory budgeting case studies throughout the ages: a longitudinal, thematic, systematic literature study},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/102868},
@@ -38,7 +38,7 @@ AU  - Bhattarai, Rakshya
 AU  - Hassan, Lobna
 AU  - Vesa, Mikko
 TI  - Participatory budgeting case studies throughout the ages: a longitudinal, thematic, systematic literature study
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/102868
 ER  - 

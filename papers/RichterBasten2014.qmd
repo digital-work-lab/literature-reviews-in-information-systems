@@ -11,7 +11,7 @@ url: "https://ieeexplore.ieee.org/document/6759166/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2014/RichterBasten2014.pdf},
   doi        = {10.1109/HICSS.2014.565},
   author     = {Richter, Janek and Basten, Dirk},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Applications of the Viable Systems Model in IS Research -- A Comprehensive Overview and Analysis},
   year       = {2014},
   url        = {https://ieeexplore.ieee.org/document/6759166/}
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Richter, Janek
 AU  - Basten, Dirk
 TI  - Applications of the Viable Systems Model in IS Research -- A Comprehensive Overview and Analysis
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2014
 DO  - 10.1109/HICSS.2014.565
 UR  - https://ieeexplore.ieee.org/document/6759166/

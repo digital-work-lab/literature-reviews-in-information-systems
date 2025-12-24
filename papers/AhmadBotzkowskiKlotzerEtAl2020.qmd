@@ -13,7 +13,7 @@ url: "http://hdl.handle.net/10125/64298"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2020/Internet and the Digital Economy/AhmadBotzkowskiKlotzerEtAl2020.pdf},
   doi        = {10.24251/HICSS.2020.556},
   author     = {Ahmad, Mashood and Botzkowski, Tim and Klötzer, Christoph and Papert, Marcel},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Behind the Blackbox of Digital Business Models},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64298}
@@ -40,7 +40,7 @@ AU  - Botzkowski, Tim
 AU  - Klötzer, Christoph
 AU  - Papert, Marcel
 TI  - Behind the Blackbox of Digital Business Models
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2020
 DO  - 10.24251/HICSS.2020.556
 UR  - http://hdl.handle.net/10125/64298

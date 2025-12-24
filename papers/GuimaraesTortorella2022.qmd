@@ -11,7 +11,7 @@ url: "http://hdl.handle.net/10125/79987"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/GuimaraesTortorella2022.pdf},
   doi        = {10.24251/HICSS.2022.649},
   author     = {Guimarães, Marina and Tortorella, Guilherme Luz},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {A scoping review on the practices of open innovation},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/79987},
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Guimarães, Marina
 AU  - Tortorella, Guilherme Luz
 TI  - A scoping review on the practices of open innovation
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.649
 UR  - http://hdl.handle.net/10125/79987

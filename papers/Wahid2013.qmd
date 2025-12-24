@@ -10,7 +10,7 @@ url: "https://ieeexplore.ieee.org/document/6480051/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2013/Wahid2013.pdf},
   doi        = {10.1109/HICSS.2013.547},
   author     = {Wahid, Fathul},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Themes of Research on eGovernment in Developing Countries - Current Map and Future Roadmap},
   year       = {2013},
   pages      = {1743--1752},
@@ -35,7 +35,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
 TY  - CONF
 AU  - Wahid, Fathul
 TI  - Themes of Research on eGovernment in Developing Countries - Current Map and Future Roadmap
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2013
 SP  - 1743
 EP  - 1752

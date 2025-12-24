@@ -11,7 +11,7 @@ url: "https://hdl.handle.net/10125/71421"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2021/JiangJarvenpaa2021.pdf},
   doi        = {10.24251/HICSS.2021.801},
   author     = {Jiang, Zhuoran and Jarvenpaa, Sirkka},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Review of Research on Privacy Decision Making from a Time Perspective},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71421}
@@ -35,7 +35,7 @@ TY  - CONF
 AU  - Jiang, Zhuoran
 AU  - Jarvenpaa, Sirkka
 TI  - Review of Research on Privacy Decision Making from a Time Perspective
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2021
 DO  - 10.24251/HICSS.2021.801
 UR  - https://hdl.handle.net/10125/71421

@@ -12,7 +12,7 @@ url: "http://hdl.handle.net/10125/59450"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2019/vonWolffHobertSchumann2019.pdf},
   doi        = {10.24251/HICSS.2019.013},
   author     = {{von Wolff}, Raphael Meyer and Hobert, Sebastian and Schumann, Matthias},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {How May I Help You? - State of the Art and Open Research Questions for Chatbots at the Digital Workplace},
   year       = {2019},
   url        = {http://hdl.handle.net/10125/59450}
@@ -38,7 +38,7 @@ AU  - {von Wolff}, Raphael Meyer
 AU  - Hobert, Sebastian
 AU  - Schumann, Matthias
 TI  - How May I Help You? - State of the Art and Open Research Questions for Chatbots at the Digital Workplace
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2019
 DO  - 10.24251/HICSS.2019.013
 UR  - http://hdl.handle.net/10125/59450

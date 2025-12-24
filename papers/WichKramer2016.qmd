@@ -11,7 +11,7 @@ url: "https://ieeexplore.ieee.org/document/7427235/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2016/WichKramer2016.pdf},
   doi        = {10.1109/HICSS.2016.59},
   author     = {Wich, Maximilian and Kramer, Tommi},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Enrichment of Smart Home Services by Integrating Social Network Services and Big Data Analytics},
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427235/}
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Wich, Maximilian
 AU  - Kramer, Tommi
 TI  - Enrichment of Smart Home Services by Integrating Social Network Services and Big Data Analytics
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2016
 DO  - 10.1109/HICSS.2016.59
 UR  - https://ieeexplore.ieee.org/document/7427235/

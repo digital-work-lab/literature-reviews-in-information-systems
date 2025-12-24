@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/103181"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2023/GoertlerPapertSchmidt2023.pdf},
   doi        = {10.24251/HICSS.2023.549},
   author     = {Goertler, Thomas and Papert, Marcel and Schmidt, Malou},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Designing Digital Platforms: A Synthetization of Relevant Design Topics for Business Models from a Literature Review},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103181},
@@ -39,7 +39,7 @@ AU  - Goertler, Thomas
 AU  - Papert, Marcel
 AU  - Schmidt, Malou
 TI  - Designing Digital Platforms: A Synthetization of Relevant Design Topics for Business Models from a Literature Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 DO  - 10.24251/HICSS.2023.549
 UR  - https://hdl.handle.net/10125/103181

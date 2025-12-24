@@ -11,7 +11,7 @@ url: "https://ieeexplore.ieee.org/document/5428762/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -20,7 +20,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
 @inproceedings{JeongHmeloSilver2010,
   doi        = {10.1109/HICSS.2010.364},
   author     = {Jeong, Heisawn and Hmelo-Silver, Cindy E.},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Technology Use in CSCL - A Content Meta-Analysis},
   year       = {2010},
   url        = {https://ieeexplore.ieee.org/document/5428762/}
@@ -34,7 +34,7 @@ TY  - CONF
 AU  - Jeong, Heisawn
 AU  - Hmelo-Silver, Cindy E.
 TI  - Technology Use in CSCL - A Content Meta-Analysis
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2010
 DO  - 10.1109/HICSS.2010.364
 UR  - https://ieeexplore.ieee.org/document/5428762/

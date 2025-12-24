@@ -13,7 +13,7 @@ url: "https://hdl.handle.net/10125/102838"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffffe00007ffffffffff040c20ff040c31fff1f800ff001000ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001804ff7ff800ff009000ff8ff800ff8ff800ff001800ff001800ff001800ff001800ff12d000ff001800ffff3b7aff1fffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/SprenkampFernandezEckhardtEtAl2023.pdf},
   author     = {Sprenkamp, Kilian and Fernández, Joaquín Delgado and Eckhardt, Sven and Zavolokina, Liudmila},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Federated Learning as a Solution for Problems Related to Intergovernmental Data Sharing},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/102838},
@@ -40,7 +40,7 @@ AU  - Fernández, Joaquín Delgado
 AU  - Eckhardt, Sven
 AU  - Zavolokina, Liudmila
 TI  - Federated Learning as a Solution for Problems Related to Intergovernmental Data Sharing
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/102838
 ER  - 

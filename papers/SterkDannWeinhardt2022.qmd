@@ -12,7 +12,7 @@ url: "http://hdl.handle.net/10125/79581"
 journal:
   name: ""
 cited_by: 2
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/SterkDannWeinhardt2022.pdf},
   doi        = {10.24251/HICSS.2022.249},
   author     = {Sterk, Felix and Dann, David and Weinhardt, Christof},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Monetizing Car Data: A Literature Review on Data-Driven Business Models in the Connected Car Domain},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/79581},
@@ -39,7 +39,7 @@ AU  - Sterk, Felix
 AU  - Dann, David
 AU  - Weinhardt, Christof
 TI  - Monetizing Car Data: A Literature Review on Data-Driven Business Models in the Connected Car Domain
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.249
 UR  - http://hdl.handle.net/10125/79581

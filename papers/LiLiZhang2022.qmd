@@ -12,7 +12,7 @@ url: "http://hdl.handle.net/10125/79451"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/LiLiZhang2022.pdf},
   doi        = {10.24251/HICSS.2022.120},
   author     = {Li, Yi Joy and Li, Zhigang and Zhang, Chi},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Learning-by-Teaching in CS Education: A Systematic Review},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/79451},
@@ -39,7 +39,7 @@ AU  - Li, Yi Joy
 AU  - Li, Zhigang
 AU  - Zhang, Chi
 TI  - Learning-by-Teaching in CS Education: A Systematic Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.120
 UR  - http://hdl.handle.net/10125/79451

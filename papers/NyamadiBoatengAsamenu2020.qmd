@@ -12,7 +12,7 @@ url: "http://hdl.handle.net/10125/64488"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffffffffff000000ffffc3ffffc78787ff838383ffffffffff0050007f001800ff001800ff001808ff0018007f0018007f0018007f001800ff001800ff001800ff001000ff001801fffff8007f87f8007f0018007f0018007f0018007f0018007f001800ff001800ff0018007f001840ff00dfffff1fc3fffffffffff},
   file       = {data/pdfs/2020/Organizational Systems and Technology/NyamadiBoatengAsamenu2020.pdf},
   author     = {Nyamadi, Makafui and Boateng, Richard and Asamenu, Immaculate},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Smartphone Addictions - A Review of Themes, Theories and Future Research Directions},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64488}
@@ -37,7 +37,7 @@ AU  - Nyamadi, Makafui
 AU  - Boateng, Richard
 AU  - Asamenu, Immaculate
 TI  - Smartphone Addictions - A Review of Themes, Theories and Future Research Directions
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2020
 UR  - http://hdl.handle.net/10125/64488
 ER  - 

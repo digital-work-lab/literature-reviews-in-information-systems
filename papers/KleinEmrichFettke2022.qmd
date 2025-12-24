@@ -12,7 +12,7 @@ url: "http://hdl.handle.net/10125/80112"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/KleinEmrichFettke2022.pdf},
   doi        = {10.24251/HICSS.2022.772},
   author     = {Klein, Sabine and Emrich, Andreas and Fettke, Peter},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Analysis of the Tool Support for Business Model Innovation},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/80112},
@@ -39,7 +39,7 @@ AU  - Klein, Sabine
 AU  - Emrich, Andreas
 AU  - Fettke, Peter
 TI  - Analysis of the Tool Support for Business Model Innovation
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.772
 UR  - http://hdl.handle.net/10125/80112

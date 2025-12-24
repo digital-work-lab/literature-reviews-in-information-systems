@@ -10,7 +10,7 @@ url: "http://hdl.handle.net/10125/41454"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -20,7 +20,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000000ffffc2ffffed0007ffffffffffffffffffa11800ff001800ff001000ff001800ff001800ff001800ff00180bff021800ff1ff000ff003000ff001000ff001868ff001800ff001800ff001800ff001800ff001802ff001800ff001800ff001800ffffffffff03c7fffffffffff},
   file       = {data/pdfs/2017/eg/emerging_topics_in_e-gov/Ogonek2017.pdf},
   author     = {Ogonek, Nadine},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Tale of e-Government - A Review of the Stories that Have Been Told So Far and What is Yet to Come},
   year       = {2017},
   url        = {http://hdl.handle.net/10125/41454}
@@ -33,7 +33,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
 TY  - CONF
 AU  - Ogonek, Nadine
 TI  - The Tale of e-Government - A Review of the Stories that Have Been Told So Far and What is Yet to Come
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2017
 UR  - http://hdl.handle.net/10125/41454
 ER  - 

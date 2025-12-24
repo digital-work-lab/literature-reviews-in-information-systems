@@ -12,7 +12,7 @@ url: "https://ieeexplore.ieee.org/document/6759075/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2014/OpitzKrupKolbe2014.pdf},
   doi        = {10.1109/HICSS.2014.473},
   author     = {Opitz, Nicky and Krüp, Henning and Kolbe, Lutz M.},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Green Business Process Management -- A Definition and Research Framework},
   year       = {2014},
   url        = {https://ieeexplore.ieee.org/document/6759075/}
@@ -38,7 +38,7 @@ AU  - Opitz, Nicky
 AU  - Krüp, Henning
 AU  - Kolbe, Lutz M.
 TI  - Green Business Process Management -- A Definition and Research Framework
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2014
 DO  - 10.1109/HICSS.2014.473
 UR  - https://ieeexplore.ieee.org/document/6759075/

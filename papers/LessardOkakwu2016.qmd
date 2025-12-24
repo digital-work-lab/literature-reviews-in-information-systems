@@ -11,7 +11,7 @@ url: "https://ieeexplore.ieee.org/document/7427384/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2016/LessardOkakwu2016.pdf},
   doi        = {10.1109/HICSS.2016.205},
   author     = {Lessard, Lysanne and Okakwu, Chidinma Priscilla},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Enablers and Mechanisms of Value Cocreation in Knowledge-Intensive Business Service Engagements - A Research Synthesis},
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427384/}
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Lessard, Lysanne
 AU  - Okakwu, Chidinma Priscilla
 TI  - Enablers and Mechanisms of Value Cocreation in Knowledge-Intensive Business Service Engagements - A Research Synthesis
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2016
 DO  - 10.1109/HICSS.2016.205
 UR  - https://ieeexplore.ieee.org/document/7427384/

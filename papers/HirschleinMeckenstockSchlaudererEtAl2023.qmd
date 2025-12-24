@@ -13,7 +13,7 @@ url: "https://hdl.handle.net/10125/103295"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2023/HirschleinMeckenstockSchlaudererEtAl2023.pdf},
   doi        = {10.24251/HICSS.2023.661},
   author     = {Hirschlein, Nico and Meckenstock, Jan-Niklas and Schlauderer, Sebastian and Overhage, Sven},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Delineating the Business Value of Data-driven Initiatives in Organizations - Findings from a Systematic Review of the Information Systems Literature},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103295},
@@ -41,7 +41,7 @@ AU  - Meckenstock, Jan-Niklas
 AU  - Schlauderer, Sebastian
 AU  - Overhage, Sven
 TI  - Delineating the Business Value of Data-driven Initiatives in Organizations - Findings from a Systematic Review of the Information Systems Literature
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 DO  - 10.24251/HICSS.2023.661
 UR  - https://hdl.handle.net/10125/103295

@@ -11,7 +11,7 @@ url: "https://hdl.handle.net/10125/103203"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffff800001fffe10fffffffffffff0ff07fff0ff0fffffffffff80dc07ff001c00ff001800ff001800ff001800ff001800ff001800ff001800ff00f800ff001800ff7ff800ff007800ff821800ff001800ff001800ff001800ff001800ff001800ff597800ff0fffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/WeiHamari2023.pdf},
   author     = {Wei, Lewen and Hamari, Juho},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Game-Based Approaches to Enhancing Public Understanding of Science: A Descriptive Literature Review},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103203},
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Wei, Lewen
 AU  - Hamari, Juho
 TI  - Game-Based Approaches to Enhancing Public Understanding of Science: A Descriptive Literature Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103203
 ER  - 

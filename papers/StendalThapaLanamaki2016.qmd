@@ -12,7 +12,7 @@ url: "https://ieeexplore.ieee.org/document/7427839/"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2016/StendalThapaLanamaki2016.pdf},
   doi        = {10.1109/HICSS.2016.651},
   author     = {Stendal, Karen and Thapa, Devinder and Lanamäki, Arto},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Analyzing the Concept of Affordances in Information Systems},
   year       = {2016},
   url        = {https://ieeexplore.ieee.org/document/7427839/}
@@ -38,7 +38,7 @@ AU  - Stendal, Karen
 AU  - Thapa, Devinder
 AU  - Lanamäki, Arto
 TI  - Analyzing the Concept of Affordances in Information Systems
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2016
 DO  - 10.1109/HICSS.2016.651
 UR  - https://ieeexplore.ieee.org/document/7427839/

@@ -11,7 +11,7 @@ url: "https://hdl.handle.net/10125/103462"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe4090bffffffffffffffffff800001fffffffffffffffffff03c0ffff07e0ffffffffffffbfbdfff911000ff001800ff001000ff001800ff001800ff001800ff001000ff001800ff001800ff21f000ff001800ff0ff000ff84d80fff000800ff001800ff001000ff001000fffd5e5fff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/SchutzFertig2023.pdf},
   author     = {Schütz, Andreas E. and Fertig, Tobias},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Forgotten Model - Validating the Integrated Behavioral Model in Context of Information Security Awareness},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103462},
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Schütz, Andreas E.
 AU  - Fertig, Tobias
 TI  - The Forgotten Model - Validating the Integrated Behavioral Model in Context of Information Security Awareness
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103462
 ER  - 

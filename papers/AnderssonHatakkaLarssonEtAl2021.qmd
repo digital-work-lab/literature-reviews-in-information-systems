@@ -13,7 +13,7 @@ url: "https://hdl.handle.net/10125/71204"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
 @inproceedings{AnderssonHatakkaLarssonEtAl2021,
   file       = {data/pdfs/2021/AnderssonHatakkaLarssonEtAl2021.pdf},
   author     = {Andersson, Annika and Hatakka, Mathias and Larsson, Hannu and Hedström, Karin},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Citizen Diversity in e-Government Research - Moving the Field Forward},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71204}
@@ -38,7 +38,7 @@ AU  - Hatakka, Mathias
 AU  - Larsson, Hannu
 AU  - Hedström, Karin
 TI  - Citizen Diversity in e-Government Research - Moving the Field Forward
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2021
 UR  - https://hdl.handle.net/10125/71204
 ER  - 

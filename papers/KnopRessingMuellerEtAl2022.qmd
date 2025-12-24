@@ -14,7 +14,7 @@ url: "http://hdl.handle.net/10125/79555"
 journal:
   name: ""
 cited_by: 1
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -25,7 +25,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2022/KnopRessingMuellerEtAl2022.pdf},
   doi        = {10.24251/HICSS.2022.223},
   author     = {Knop, Michael and Ressing, Caroline and Mueller, Marius and Weber, Sebastian and Freude, Henrik},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Virtual Reality Technologies in Health Care: A Literature Review of Theoretical Foundations},
   year       = {2022},
   url        = {http://hdl.handle.net/10125/79555},
@@ -43,7 +43,7 @@ AU  - Mueller, Marius
 AU  - Weber, Sebastian
 AU  - Freude, Henrik
 TI  - Virtual Reality Technologies in Health Care: A Literature Review of Theoretical Foundations
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2022
 DO  - 10.24251/HICSS.2022.223
 UR  - http://hdl.handle.net/10125/79555

@@ -18,7 +18,7 @@ url: "https://hdl.handle.net/10125/103029"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -28,7 +28,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe4c92bffffffffffffffffff000000fffff7ffff008100ffc3c1c3ff000000ffc3c302ffc30081ffe3e7c3ff81c381fff1fffffff1f800ff001000ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff203000ff8ff000ff87d000ff000803ffffffffff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/GoelTerHofstedeLeemansEtAl2023.pdf},
   author     = {Goel, Kanika and Ter Hofstede, Arthur H M and Leemans, Sander J J and Staib, Andrew and Wynn, Moe T and Mcgree, James and Eley, Rob and Andrews, Robert and Donovan, Raelene},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Digital Health Data Imperfection Patterns and Their Manifestations in an Australian Digital Hospital},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103029},
@@ -50,7 +50,7 @@ AU  - Eley, Rob
 AU  - Andrews, Robert
 AU  - Donovan, Raelene
 TI  - Digital Health Data Imperfection Patterns and Their Manifestations in an Australian Digital Hospital
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103029
 ER  - 

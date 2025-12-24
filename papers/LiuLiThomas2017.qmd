@@ -12,7 +12,7 @@ url: "http://hdl.handle.net/10125/41285"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2017/da/data_text_web_mining/LiuLiThomas2017.pdf},
   doi        = {10.24251/HICSS.2017.132},
   author     = {Liu, Dapeng and Li, Yan and Thomas, Manoj A.},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {A Roadmap for Natural Language Processing Research in Information Systems},
   year       = {2017},
   url        = {http://hdl.handle.net/10125/41285}
@@ -38,7 +38,7 @@ AU  - Liu, Dapeng
 AU  - Li, Yan
 AU  - Thomas, Manoj A.
 TI  - A Roadmap for Natural Language Processing Research in Information Systems
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2017
 DO  - 10.24251/HICSS.2017.132
 UR  - http://hdl.handle.net/10125/41285

@@ -10,7 +10,7 @@ url: "https://hdl.handle.net/10125/103215"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -20,7 +20,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffffe01007ffffc3ffffff81ffffffffffffa01000ff001800ff001800ff001800ff001800ff001000ff001800ff01f800ff07f800ff0ff800ff801800ff001000ff001800ff001000ff001800ff001800ff001000ff001000ff001800ff001800ff7ad807ff1fffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/Mamonov2023.pdf},
   author     = {Mamonov, Stanislav},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Digital Platform Strategy - A Systematic Critical Review},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103215},
@@ -34,7 +34,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
 TY  - CONF
 AU  - Mamonov, Stanislav
 TI  - Digital Platform Strategy - A Systematic Critical Review
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2023
 UR  - https://hdl.handle.net/10125/103215
 ER  - 

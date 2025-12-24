@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/70741"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Hawaii International Conference on System Sciences"
   file       = {data/pdfs/2021/LandoltWambsganssSollner2021.pdf},
   doi        = {10.24251/HICSS.2021.129},
   author     = {Landolt, Severin and Wambsganss, Thiemo and Söllner, Matthias},
-  booktitle  = {Proceedings of the Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {A Taxonomy for Deep Learning in Natural Language Processing},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/70741}
@@ -37,7 +37,7 @@ AU  - Landolt, Severin
 AU  - Wambsganss, Thiemo
 AU  - Söllner, Matthias
 TI  - A Taxonomy for Deep Learning in Natural Language Processing
-T2  - Proceedings of the Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2021
 DO  - 10.24251/HICSS.2021.129
 UR  - https://hdl.handle.net/10125/70741
