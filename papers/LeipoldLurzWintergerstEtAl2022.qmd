@@ -1,0 +1,49 @@
+---
+title: "Goal-Setting characteristics of Nutrition-Related mHealth Systems: a Morphological Analysis"
+author:
+- Leipold, Nadja
+- Lurz, Martin
+- Wintergerst, Monika
+- Groh, Georg
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2022_rp/100"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LeipoldLurzWintergerstEtAl2022,
+  file       = {data/pdfs/2022/rp/LeipoldLurzWintergerstEtAl2022.pdf},
+  author     = {Leipold, Nadja and Lurz, Martin and Wintergerst, Monika and Groh, Georg},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Goal-Setting characteristics of Nutrition-Related mHealth Systems: a Morphological Analysis},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/ecis2022_rp/100},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/LeipoldLWG22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Leipold, Nadja
+AU  - Lurz, Martin
+AU  - Wintergerst, Monika
+AU  - Groh, Georg
+TI  - Goal-Setting characteristics of Nutrition-Related mHealth Systems: a Morphological Analysis
+T2  - European Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/ecis2022_rp/100
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2022_rp/100>

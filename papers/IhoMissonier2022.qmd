@@ -1,0 +1,45 @@
+---
+title: "Towards Dynamic Exploration and Exploitation - Reviewing Ambidexterity in the Digital Era"
+author:
+- Iho, Satu
+- Missonier, Stéphanie
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2022_rp/2"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{IhoMissonier2022,
+  file       = {data/pdfs/2022/rp/IhoMissonier2022.pdf},
+  author     = {Iho, Satu and Missonier, Stéphanie},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Towards Dynamic Exploration and Exploitation - Reviewing Ambidexterity in the Digital Era},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/ecis2022_rp/2},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/IhoM22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Iho, Satu
+AU  - Missonier, Stéphanie
+TI  - Towards Dynamic Exploration and Exploitation - Reviewing Ambidexterity in the Digital Era
+T2  - European Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/ecis2022_rp/2
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2022_rp/2>

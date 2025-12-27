@@ -1,0 +1,44 @@
+---
+title: "Synthesizing the ambivalent effects of algorithmic management on workers' well-being"
+author:
+- Abramova, Olga
+- Voronin, Georg
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2025/algo_mgmt/algo_mgmt/4"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AbramovaVoronin2025,
+  file       = {data/pdfs/2025/Algorithmic Mgmt and Decision Making/AbramovaVoronin2025.pdf},
+  author     = {Abramova, Olga and Voronin, Georg},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Synthesizing the ambivalent effects of algorithmic management on workers' well-being},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/ecis2025/algo_mgmt/algo_mgmt/4}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Abramova, Olga
+AU  - Voronin, Georg
+TI  - Synthesizing the ambivalent effects of algorithmic management on workers' well-being
+T2  - European Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/ecis2025/algo_mgmt/algo_mgmt/4
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2025/algo_mgmt/algo_mgmt/4>

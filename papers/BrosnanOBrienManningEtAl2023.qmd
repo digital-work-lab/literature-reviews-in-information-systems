@@ -1,0 +1,59 @@
+---
+title: "Towards an understanding of digital transformation risk: a systematic literature review"
+author:
+- Brosnan, Andrew
+- O'Brien, Jack
+- Manning, Eimear
+- Whelan, Abigail
+- Singh, Milan
+- Padwalkar, Sumeet
+- Jayes, Fergus
+- Murphy, Jason
+- Treacy, Stephen
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/263"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BrosnanOBrienManningEtAl2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/BrosnanOBrienManningEtAl2023.pdf},
+  author     = {Brosnan, Andrew and O'Brien, Jack and Manning, Eimear and Whelan, Abigail and Singh, Milan and Padwalkar, Sumeet and Jayes, Fergus and Murphy, Jason and Treacy, Stephen},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Towards an understanding of digital transformation risk: a systematic literature review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/263},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/BrosnanOMWSPJMT23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Brosnan, Andrew
+AU  - O'Brien, Jack
+AU  - Manning, Eimear
+AU  - Whelan, Abigail
+AU  - Singh, Milan
+AU  - Padwalkar, Sumeet
+AU  - Jayes, Fergus
+AU  - Murphy, Jason
+AU  - Treacy, Stephen
+TI  - Towards an understanding of digital transformation risk: a systematic literature review
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/263
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/263>

@@ -1,0 +1,48 @@
+---
+title: "AI-enabled self-regulated learning: a multi-layer taxonomy development"
+author:
+- Grueneke, Timo
+- Guggenberger, Tobias
+- Hofmeister, Sofie
+- Stoetzer, Jens-Christian
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2024/track13_learning_teach/track13_learning_teach/4"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GruenekeGuggenbergerHofmeisterEtAl2024,
+  file       = {data/pdfs/2024/Digitized Learning and Teaching/GruenekeGuggenbergerHofmeisterEtAl2024.pdf},
+  author     = {Grueneke, Timo and Guggenberger, Tobias and Hofmeister, Sofie and Stoetzer, Jens-Christian},
+  booktitle  = {European Conference on Information Systems},
+  title      = {AI-enabled self-regulated learning: a multi-layer taxonomy development},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/ecis2024/track13_learning_teach/track13_learning_teach/4}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Grueneke, Timo
+AU  - Guggenberger, Tobias
+AU  - Hofmeister, Sofie
+AU  - Stoetzer, Jens-Christian
+TI  - AI-enabled self-regulated learning: a multi-layer taxonomy development
+T2  - European Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/ecis2024/track13_learning_teach/track13_learning_teach/4
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2024/track13_learning_teach/track13_learning_teach/4>

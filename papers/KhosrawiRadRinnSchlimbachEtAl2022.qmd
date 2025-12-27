@@ -1,0 +1,57 @@
+---
+title: "Conversational Agents in Education - A Systematic Literature Review"
+author:
+- Khosrawi-Rad, Bijan
+- Rinn, Heidi
+- Schlimbach, Ricarda
+- Gebbing, Pia
+- Yang, Xingyue
+- Lattemann, Christoph
+- Markgraf, Daniel
+- Robra-Bissantz, Susanne
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2022_rp/18"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KhosrawiRadRinnSchlimbachEtAl2022,
+  file       = {data/pdfs/2022/rp/KhosrawiRadRinnSchlimbachEtAl2022.pdf},
+  author     = {Khosrawi-Rad, Bijan and Rinn, Heidi and Schlimbach, Ricarda and Gebbing, Pia and Yang, Xingyue and Lattemann, Christoph and Markgraf, Daniel and Robra-Bissantz, Susanne},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Conversational Agents in Education - A Systematic Literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/ecis2022_rp/18},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/Khosrawi-RadRSG22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Khosrawi-Rad, Bijan
+AU  - Rinn, Heidi
+AU  - Schlimbach, Ricarda
+AU  - Gebbing, Pia
+AU  - Yang, Xingyue
+AU  - Lattemann, Christoph
+AU  - Markgraf, Daniel
+AU  - Robra-Bissantz, Susanne
+TI  - Conversational Agents in Education - A Systematic Literature Review
+T2  - European Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/ecis2022_rp/18
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2022_rp/18>

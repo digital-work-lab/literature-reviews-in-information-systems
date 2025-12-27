@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/106925"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
   file       = {data/pdfs/2024/HupperzIsstGie2024.pdf},
   doi        = {10.24251/HICSS.2024.541},
   author     = {Hupperz, Marius and Isst, Fraunhofer and Gieß, Anna},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Interplay of Data-Driven Organizations and Data Spaces: Unlocking Capabilities for Transforming Organizations in the Era of Data Spaces},
   year       = {2024},
   url        = {https://hdl.handle.net/10125/106925}
@@ -38,7 +38,7 @@ AU  - Hupperz, Marius
 AU  - Isst, Fraunhofer
 AU  - Gieß, Anna
 TI  - The Interplay of Data-Driven Organizations and Data Spaces: Unlocking Capabilities for Transforming Organizations in the Era of Data Spaces
-T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2024
 DO  - 10.24251/HICSS.2024.541
 UR  - https://hdl.handle.net/10125/106925

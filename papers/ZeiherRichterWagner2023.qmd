@@ -1,0 +1,47 @@
+---
+title: "Towards domain-specific knowledge on digital transformation -the case of the furniture industry"
+author:
+- Zeiher, Simon
+- Richter, Alexander
+- Wagner, David
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/317"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ZeiherRichterWagner2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/ZeiherRichterWagner2023.pdf},
+  author     = {Zeiher, Simon and Richter, Alexander and Wagner, David},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Towards domain-specific knowledge on digital transformation -the case of the furniture industry},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/317},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/ZeiherR023}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Zeiher, Simon
+AU  - Richter, Alexander
+AU  - Wagner, David
+TI  - Towards domain-specific knowledge on digital transformation -the case of the furniture industry
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/317
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/317>

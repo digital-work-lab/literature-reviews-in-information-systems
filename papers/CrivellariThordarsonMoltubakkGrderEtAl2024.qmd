@@ -14,7 +14,7 @@ url: "https://hdl.handle.net/10125/106651"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -25,7 +25,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
   file       = {data/pdfs/2024/CrivellariThordarsonMoltubakkGrderEtAl2024.pdf},
   doi        = {10.24251/HICSS.2024.272},
   author     = {Crivellari, Ilaria and Grøder, Charlotte Husom and Parmiggiani, Elena and Moltubakk, Stine Thordarson and Bertheussen, Lene Elisabeth},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Socially Sustainable Digital Transformation in the Public Sector: a Systematic Literature Review},
   year       = {2024},
   pages      = {2201--2210},
@@ -43,7 +43,7 @@ AU  - Parmiggiani, Elena
 AU  - Moltubakk, Stine Thordarson
 AU  - Bertheussen, Lene Elisabeth
 TI  - Socially Sustainable Digital Transformation in the Public Sector: a Systematic Literature Review
-T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2024
 SP  - 2201
 EP  - 2210

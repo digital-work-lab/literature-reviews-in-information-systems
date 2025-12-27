@@ -1,0 +1,44 @@
+---
+title: "The AI-assisted recruitment challenges: a literature review"
+author:
+- Ayundyayasti, Prima
+- Wong, Randy
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2025/is_adoption/is_adoption/6"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AyundyayastiWong2025,
+  file       = {data/pdfs/2025/IS Adoption and Diffusion/AyundyayastiWong2025.pdf},
+  author     = {Ayundyayasti, Prima and Wong, Randy},
+  booktitle  = {European Conference on Information Systems},
+  title      = {The AI-assisted recruitment challenges: a literature review},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/ecis2025/is_adoption/is_adoption/6}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ayundyayasti, Prima
+AU  - Wong, Randy
+TI  - The AI-assisted recruitment challenges: a literature review
+T2  - European Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/ecis2025/is_adoption/is_adoption/6
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2025/is_adoption/is_adoption/6>

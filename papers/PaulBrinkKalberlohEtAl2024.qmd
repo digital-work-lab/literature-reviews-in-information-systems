@@ -1,0 +1,54 @@
+---
+title: "Competences for digital transformation in organizations: a literature review and expert survey"
+author:
+- Paul, Fynn-Hendrik
+- Brink, Henning
+- Kälberloh, Nele
+- Khanin, Mikhail
+- Leisurs, Paula
+- Oldenburger, Michael
+- Wachsmann, Pascal
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/15"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{PaulBrinkKalberlohEtAl2024,
+  file       = {data/pdfs/2024/Digital Transformation/PaulBrinkKalberlohEtAl2024.pdf},
+  author     = {Paul, Fynn-Hendrik and Brink, Henning and Kälberloh, Nele and Khanin, Mikhail and Leisurs, Paula and Oldenburger, Michael and Wachsmann, Pascal},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Competences for digital transformation in organizations: a literature review and expert survey},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/15}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Paul, Fynn-Hendrik
+AU  - Brink, Henning
+AU  - Kälberloh, Nele
+AU  - Khanin, Mikhail
+AU  - Leisurs, Paula
+AU  - Oldenburger, Michael
+AU  - Wachsmann, Pascal
+TI  - Competences for digital transformation in organizations: a literature review and expert survey
+T2  - European Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/15
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/15>

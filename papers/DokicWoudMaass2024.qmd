@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/106902"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
   file       = {data/pdfs/2024/DokicWoudMaass2024.pdf},
   doi        = {10.24251/HICSS.2024.518},
   author     = {Dokic, Dusan and Woud, Florian Groen in't and Maass, Wolfgang},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Towards Sustainability of AI: A Systematic Review of Exisiting Life Cycle Assessment Approaches and Key Environmental Impact Parameters of Artificial Intelligence},
   year       = {2024},
   pages      = {4301--4310},
@@ -39,7 +39,7 @@ AU  - Dokic, Dusan
 AU  - Woud, Florian Groen in't
 AU  - Maass, Wolfgang
 TI  - Towards Sustainability of AI: A Systematic Review of Exisiting Life Cycle Assessment Approaches and Key Environmental Impact Parameters of Artificial Intelligence
-T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2024
 SP  - 4301
 EP  - 4310

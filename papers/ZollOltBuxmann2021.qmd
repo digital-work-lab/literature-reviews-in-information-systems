@@ -1,0 +1,46 @@
+---
+title: "Privacy-sensitive Business Models: Barriers of Organizational Adoption of Privacy-Enhancing Technologies"
+author:
+- Zöll, Anne
+- Olt, Christian Michael
+- Buxmann, Peter
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2021_rp/34"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ZollOltBuxmann2021,
+  file       = {data/pdfs/2021/rp/ZollOltBuxmann2021.pdf},
+  author     = {Zöll, Anne and Olt, Christian Michael and Buxmann, Peter},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Privacy-sensitive Business Models: Barriers of Organizational Adoption of Privacy-Enhancing Technologies},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/ecis2021_rp/34}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Zöll, Anne
+AU  - Olt, Christian Michael
+AU  - Buxmann, Peter
+TI  - Privacy-sensitive Business Models: Barriers of Organizational Adoption of Privacy-Enhancing Technologies
+T2  - European Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/ecis2021_rp/34
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2021_rp/34>

@@ -11,7 +11,7 @@ url: "https://hdl.handle.net/10125/106644"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
   file       = {data/pdfs/2024/ThorpePokhrel2024.pdf},
   doi        = {10.24251/HICSS.2024.265},
   author     = {Thorpe, Stephen and Pokhrel, Bikash},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {A Review of Digital Government Challenges in Developing Nations},
   year       = {2024},
   url        = {https://hdl.handle.net/10125/106644}
@@ -36,7 +36,7 @@ TY  - CONF
 AU  - Thorpe, Stephen
 AU  - Pokhrel, Bikash
 TI  - A Review of Digital Government Challenges in Developing Nations
-T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2024
 DO  - 10.24251/HICSS.2024.265
 UR  - https://hdl.handle.net/10125/106644

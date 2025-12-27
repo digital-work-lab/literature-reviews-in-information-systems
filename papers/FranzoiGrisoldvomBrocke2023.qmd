@@ -1,0 +1,47 @@
+---
+title: "Studying dynamics and change with digital trace data: a systematic literature review"
+author:
+- Franzoi, Sandro
+- Grisold, Thomas
+- vom Brocke, Jan
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/420"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{FranzoiGrisoldvomBrocke2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/FranzoiGrisoldvomBrocke2023.pdf},
+  author     = {Franzoi, Sandro and Grisold, Thomas and {vom Brocke}, Jan},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Studying dynamics and change with digital trace data: a systematic literature review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/420},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/FranzoiGB23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Franzoi, Sandro
+AU  - Grisold, Thomas
+AU  - {vom Brocke}, Jan
+TI  - Studying dynamics and change with digital trace data: a systematic literature review
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/420
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/420>

@@ -1,0 +1,47 @@
+---
+title: "Dark sides of the platform economy: market power and its abuse by platform orchestrators"
+author:
+- Kölbel, Tobias
+- Kunz, Daniel
+- Lamberty, Ricky
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/274"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KolbelKunzLamberty2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/KolbelKunzLamberty2023.pdf},
+  author     = {Kölbel, Tobias and Kunz, Daniel and Lamberty, Ricky},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Dark sides of the platform economy: market power and its abuse by platform orchestrators},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/274},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/KolbelKL23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Kölbel, Tobias
+AU  - Kunz, Daniel
+AU  - Lamberty, Ricky
+TI  - Dark sides of the platform economy: market power and its abuse by platform orchestrators
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/274
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/274>

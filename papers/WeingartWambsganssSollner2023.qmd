@@ -1,0 +1,47 @@
+---
+title: "A taxonomy for deriving business insights from user-generated content"
+author:
+- Weingart, Pablo
+- Wambsganss, Thiemo
+- Söllner, Matthias
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/401"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{WeingartWambsganssSollner2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/WeingartWambsganssSollner2023.pdf},
+  author     = {Weingart, Pablo and Wambsganss, Thiemo and Söllner, Matthias},
+  booktitle  = {European Conference on Information Systems},
+  title      = {A taxonomy for deriving business insights from user-generated content},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/401},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/WeingartW023}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Weingart, Pablo
+AU  - Wambsganss, Thiemo
+AU  - Söllner, Matthias
+TI  - A taxonomy for deriving business insights from user-generated content
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/401
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/401>

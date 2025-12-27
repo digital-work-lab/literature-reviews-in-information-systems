@@ -1,0 +1,42 @@
+---
+title: "Navigating the landscape of IT threats: a literature review and the road ahead"
+author:
+- Meier, Marco
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2024/track19_hci/track19_hci/11"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{Meier2024,
+  file       = {data/pdfs/2024/Human-Computer Interaction/Meier2024.pdf},
+  author     = {Meier, Marco},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Navigating the landscape of IT threats: a literature review and the road ahead},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/ecis2024/track19_hci/track19_hci/11}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Meier, Marco
+TI  - Navigating the landscape of IT threats: a literature review and the road ahead
+T2  - European Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/ecis2024/track19_hci/track19_hci/11
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2024/track19_hci/track19_hci/11>

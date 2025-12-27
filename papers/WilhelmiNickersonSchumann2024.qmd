@@ -1,0 +1,41 @@
+---
+title: "Insights from the alphabet soup: characterizing AI-based methods for the analysis of sustainability reports"
+author:
+- Wilhelmi, Lars
+- Nickerson, Robert C
+- Schumann, Matthias
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{WilhelmiNickersonSchumann2024,
+  file       = {data/pdfs/2024/Green Information Systems and Sustainable Development/WilhelmiNickersonSchumann2024.pdf},
+  author     = {Wilhelmi, Lars and Nickerson, Robert C and Schumann, Matthias},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Insights from the alphabet soup: characterizing AI-based methods for the analysis of sustainability reports},
+  year       = {2024}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Wilhelmi, Lars
+AU  - Nickerson, Robert C
+AU  - Schumann, Matthias
+TI  - Insights from the alphabet soup: characterizing AI-based methods for the analysis of sustainability reports
+T2  - European Conference on Information Systems
+PY  - 2024
+ER  - 
+```

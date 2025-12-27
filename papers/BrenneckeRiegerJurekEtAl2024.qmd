@@ -13,7 +13,7 @@ url: "https://hdl.handle.net/10125/107240"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
   file       = {data/pdfs/2024/BrenneckeRiegerJurekEtAl2024.pdf},
   doi        = {10.24251/HICSS.2024.854},
   author     = {Brennecke, Martin and Rieger, Alexander and Jurek, Dominik and Roth, Tamara},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Towards Social Justice in Energy Transitions: An Information Systems Perspective},
   year       = {2024},
   pages      = {7131--7140},
@@ -41,7 +41,7 @@ AU  - Rieger, Alexander
 AU  - Jurek, Dominik
 AU  - Roth, Tamara
 TI  - Towards Social Justice in Energy Transitions: An Information Systems Perspective
-T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2024
 SP  - 7131
 EP  - 7140

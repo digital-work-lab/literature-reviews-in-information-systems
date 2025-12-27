@@ -10,7 +10,7 @@ url: "https://hdl.handle.net/10125/107015"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
   file       = {data/pdfs/2024/Brasse2024.pdf},
   doi        = {10.24251/HICSS.2024.630},
   author     = {Brasse, Julia},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Identification of Future Skills Using Data-Driven Methods: A Systematic Literature Review and Directions for Future Research},
   year       = {2024},
   pages      = {5248--5257},
@@ -35,7 +35,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
 TY  - CONF
 AU  - Brasse, Julia
 TI  - Identification of Future Skills Using Data-Driven Methods: A Systematic Literature Review and Directions for Future Research
-T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2024
 SP  - 5248
 EP  - 5257

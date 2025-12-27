@@ -1,0 +1,44 @@
+---
+title: "Teaching graphical modeling with intelligent tutoring systems -a review"
+author:
+- Kunz, Johannes
+- Siepermann, Markus
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2025/education/education/7"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KunzSiepermann2025,
+  file       = {data/pdfs/2025/Digital Education, Learning and Teaching for Sustainable Development/KunzSiepermann2025.pdf},
+  author     = {Kunz, Johannes and Siepermann, Markus},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Teaching graphical modeling with intelligent tutoring systems -a review},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/ecis2025/education/education/7}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Kunz, Johannes
+AU  - Siepermann, Markus
+TI  - Teaching graphical modeling with intelligent tutoring systems -a review
+T2  - European Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/ecis2025/education/education/7
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2025/education/education/7>

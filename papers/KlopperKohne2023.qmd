@@ -1,0 +1,45 @@
+---
+title: "Shifting structures -a systematic literature review on people analytics and the future of work"
+author:
+- Klöpper, Miriam
+- Köhne, Sonja
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/360"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KlopperKohne2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/KlopperKohne2023.pdf},
+  author     = {Klöpper, Miriam and Köhne, Sonja},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Shifting structures -a systematic literature review on people analytics and the future of work},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/360},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/KlopperK23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Klöpper, Miriam
+AU  - Köhne, Sonja
+TI  - Shifting structures -a systematic literature review on people analytics and the future of work
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/360
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/360>

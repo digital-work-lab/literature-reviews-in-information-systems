@@ -1,0 +1,49 @@
+---
+title: "Shedding Light on the Blockchain Disintermediation Mystery: A Review and Future Research Agenda"
+author:
+- Feulner, Simon
+- Guggenberger, Tobias
+- Stoetzer, Jens-Christian
+- Urbach, Nils
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2022_rp/13"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{FeulnerGuggenbergerStoetzerEtAl2022,
+  file       = {data/pdfs/2022/rp/FeulnerGuggenbergerStoetzerEtAl2022.pdf},
+  author     = {Feulner, Simon and Guggenberger, Tobias and Stoetzer, Jens-Christian and Urbach, Nils},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Shedding Light on the Blockchain Disintermediation Mystery: A Review and Future Research Agenda},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/ecis2022_rp/13},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/FeulnerGSU22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Feulner, Simon
+AU  - Guggenberger, Tobias
+AU  - Stoetzer, Jens-Christian
+AU  - Urbach, Nils
+TI  - Shedding Light on the Blockchain Disintermediation Mystery: A Review and Future Research Agenda
+T2  - European Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/ecis2022_rp/13
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2022_rp/13>

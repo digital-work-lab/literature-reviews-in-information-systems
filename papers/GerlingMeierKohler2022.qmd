@@ -1,0 +1,47 @@
+---
+title: "AI meets Digital: A Critical Review on Artificial Intelligence in Digital Entrepreneurship"
+author:
+- Gerling, Christoph
+- Meier, Philip
+- Köhler, Charlotte
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2022_rp/21"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GerlingMeierKohler2022,
+  file       = {data/pdfs/2022/rp/GerlingMeierKohler2022.pdf},
+  author     = {Gerling, Christoph and Meier, Philip and Köhler, Charlotte},
+  booktitle  = {European Conference on Information Systems},
+  title      = {AI meets Digital: A Critical Review on Artificial Intelligence in Digital Entrepreneurship},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/ecis2022_rp/21},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/GerlingMK22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Gerling, Christoph
+AU  - Meier, Philip
+AU  - Köhler, Charlotte
+TI  - AI meets Digital: A Critical Review on Artificial Intelligence in Digital Entrepreneurship
+T2  - European Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/ecis2022_rp/21
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2022_rp/21>

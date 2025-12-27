@@ -1,0 +1,46 @@
+---
+title: "A taxonomy of modern user-centric identity management: from theory to practice"
+author:
+- Hölzmer, Pol
+- Sedlmeir, Johannes
+- Imeri, Adnan
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2025/datamgmt/datamgmt/8"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HolzmerSedlmeirImeri2025,
+  file       = {data/pdfs/2025/Data Management and Data Sharing in Ecosystems/HolzmerSedlmeirImeri2025.pdf},
+  author     = {Hölzmer, Pol and Sedlmeir, Johannes and Imeri, Adnan},
+  booktitle  = {European Conference on Information Systems},
+  title      = {A taxonomy of modern user-centric identity management: from theory to practice},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/ecis2025/datamgmt/datamgmt/8}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hölzmer, Pol
+AU  - Sedlmeir, Johannes
+AU  - Imeri, Adnan
+TI  - A taxonomy of modern user-centric identity management: from theory to practice
+T2  - European Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/ecis2025/datamgmt/datamgmt/8
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2025/datamgmt/datamgmt/8>

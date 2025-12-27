@@ -1,0 +1,44 @@
+---
+title: "From text to model to execution: a literature review on methods for creating conceptual models from legal regulations"
+author:
+- Nguyen, Binh An Patrick
+- Scholta, Hendrik
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2024/track02_general/track02_general/7"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{NguyenScholta2024,
+  file       = {data/pdfs/2024/General Track/NguyenScholta2024.pdf},
+  author     = {Nguyen, Binh An Patrick and Scholta, Hendrik},
+  booktitle  = {European Conference on Information Systems},
+  title      = {From text to model to execution: a literature review on methods for creating conceptual models from legal regulations},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/ecis2024/track02_general/track02_general/7}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Nguyen, Binh An Patrick
+AU  - Scholta, Hendrik
+TI  - From text to model to execution: a literature review on methods for creating conceptual models from legal regulations
+T2  - European Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/ecis2024/track02_general/track02_general/7
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2024/track02_general/track02_general/7>

@@ -13,7 +13,7 @@ url: "https://hdl.handle.net/10125/106573"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -24,7 +24,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
   file       = {data/pdfs/2024/FuchsSchnellbachSchmidtEtAl2024.pdf},
   doi        = {10.24251/HICSS.2024.196},
   author     = {Fuchs, Simon and Schnellbach, Janik and Schmidt, Lukas and Wittges, Holger},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Data Annotation for Support Ticket Data: A Literature Review},
   year       = {2024},
   url        = {https://hdl.handle.net/10125/106573}
@@ -40,7 +40,7 @@ AU  - Schnellbach, Janik
 AU  - Schmidt, Lukas
 AU  - Wittges, Holger
 TI  - Data Annotation for Support Ticket Data: A Literature Review
-T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2024
 DO  - 10.24251/HICSS.2024.196
 UR  - https://hdl.handle.net/10125/106573

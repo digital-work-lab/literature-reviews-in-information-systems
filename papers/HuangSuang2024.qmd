@@ -1,0 +1,44 @@
+---
+title: "A systematic review on responsibility attribution in AI service and human-AI joint service"
+author:
+- Huang, Xin
+- Suang, Heng Cheng
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2024/track15_social_ict/track15_social_ict/11"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HuangSuang2024,
+  file       = {data/pdfs/2024/Social and Ethical Implications of ICT Use/HuangSuang2024.pdf},
+  author     = {Huang, Xin and Suang, Heng Cheng},
+  booktitle  = {European Conference on Information Systems},
+  title      = {A systematic review on responsibility attribution in AI service and human-AI joint service},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/ecis2024/track15_social_ict/track15_social_ict/11}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Huang, Xin
+AU  - Suang, Heng Cheng
+TI  - A systematic review on responsibility attribution in AI service and human-AI joint service
+T2  - European Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/ecis2024/track15_social_ict/track15_social_ict/11
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2024/track15_social_ict/track15_social_ict/11>

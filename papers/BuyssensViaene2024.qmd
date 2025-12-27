@@ -11,7 +11,7 @@ url: "https://hdl.handle.net/10125/106903"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -22,7 +22,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
   file       = {data/pdfs/2024/BuyssensViaene2024.pdf},
   doi        = {10.24251/HICSS.2024.519},
   author     = {Buyssens, Hanna and Viaene, Stijn},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Meta-requirements for the Design of a Blockchain-enabled Multi-sided Platform for Sustainability and Circular Economy},
   year       = {2024},
   pages      = {4311--4320},
@@ -37,7 +37,7 @@ TY  - CONF
 AU  - Buyssens, Hanna
 AU  - Viaene, Stijn
 TI  - Meta-requirements for the Design of a Blockchain-enabled Multi-sided Platform for Sustainability and Circular Economy
-T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2024
 SP  - 4311
 EP  - 4320

@@ -1,0 +1,48 @@
+---
+title: "Talking about the elephant in the room: findings from a literature review on leveraging information systems for reducing scope 3 emissions"
+author:
+- Cauderay, Virginie
+- Haskamp, Thomas
+- Sebastian, Ina M.
+- Uebernickel, Falk
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2024/track17_greenis/track17_greenis/33"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{CauderayHaskampSebastianEtAl2024,
+  file       = {data/pdfs/2024/Green Information Systems and Sustainable Development/CauderayHaskampSebastianEtAl2024.pdf},
+  author     = {Cauderay, Virginie and Haskamp, Thomas and Sebastian, Ina M. and Uebernickel, Falk},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Talking about the elephant in the room: findings from a literature review on leveraging information systems for reducing scope 3 emissions},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/ecis2024/track17_greenis/track17_greenis/33}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Cauderay, Virginie
+AU  - Haskamp, Thomas
+AU  - Sebastian, Ina M.
+AU  - Uebernickel, Falk
+TI  - Talking about the elephant in the room: findings from a literature review on leveraging information systems for reducing scope 3 emissions
+T2  - European Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/ecis2024/track17_greenis/track17_greenis/33
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2024/track17_greenis/track17_greenis/33>

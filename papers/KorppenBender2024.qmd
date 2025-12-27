@@ -1,0 +1,44 @@
+---
+title: "Stimulating innovation on digital platforms -a review of platform owner signals"
+author:
+- Körppen, Tim
+- Bender, Benedict
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2024/is_governance/track21_is_govern/5"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KorppenBender2024,
+  file       = {data/pdfs/2024/IS Strategy, Governance and Sourcing in the Digital Age/KorppenBender2024.pdf},
+  author     = {Körppen, Tim and Bender, Benedict},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Stimulating innovation on digital platforms -a review of platform owner signals},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/ecis2024/is_governance/track21_is_govern/5}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Körppen, Tim
+AU  - Bender, Benedict
+TI  - Stimulating innovation on digital platforms -a review of platform owner signals
+T2  - European Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/ecis2024/is_governance/track21_is_govern/5
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2024/is_governance/track21_is_govern/5>

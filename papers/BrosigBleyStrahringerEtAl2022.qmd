@@ -1,0 +1,49 @@
+---
+title: "The Missing Piece - Calibration of Qualitative Data for Qualitative Comparative Analyses in IS Research"
+author:
+- Brosig, Christoph
+- Bley, Katja
+- Strahringer, Susanne
+- Westner, Markus
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2022_rp/37"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BrosigBleyStrahringerEtAl2022,
+  file       = {data/pdfs/2022/rp/BrosigBleyStrahringerEtAl2022.pdf},
+  author     = {Brosig, Christoph and Bley, Katja and Strahringer, Susanne and Westner, Markus},
+  booktitle  = {European Conference on Information Systems},
+  title      = {The Missing Piece - Calibration of Qualitative Data for Qualitative Comparative Analyses in IS Research},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/ecis2022_rp/37},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/BrosigBSW22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Brosig, Christoph
+AU  - Bley, Katja
+AU  - Strahringer, Susanne
+AU  - Westner, Markus
+TI  - The Missing Piece - Calibration of Qualitative Data for Qualitative Comparative Analyses in IS Research
+T2  - European Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/ecis2022_rp/37
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2022_rp/37>

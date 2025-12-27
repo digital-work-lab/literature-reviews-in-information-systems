@@ -1,0 +1,45 @@
+---
+title: "Investigating Inconsistency Understanding to Support Interactive Inconsistency Resolution in Declarative Process Models"
+author:
+- Nagel, Sabine
+- Delfmann, Patrick
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2022_rip/59"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{NagelDelfmann2022a,
+  file       = {data/pdfs/2022/rip/NagelDelfmann2022a.pdf},
+  author     = {Nagel, Sabine and Delfmann, Patrick},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Investigating Inconsistency Understanding to Support Interactive Inconsistency Resolution in Declarative Process Models},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/ecis2022_rip/59},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/NagelD22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Nagel, Sabine
+AU  - Delfmann, Patrick
+TI  - Investigating Inconsistency Understanding to Support Interactive Inconsistency Resolution in Declarative Process Models
+T2  - European Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/ecis2022_rip/59
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2022_rip/59>

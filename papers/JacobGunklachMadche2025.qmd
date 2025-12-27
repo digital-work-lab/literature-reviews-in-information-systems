@@ -1,0 +1,46 @@
+---
+title: "Personalization in Business Intelligence and Analytics Systems: A State-of-the-Art Review and Conceptualization"
+author:
+- Jacob, Katharina
+- Gunklach, Jonas
+- Mädche, Alexander
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2025/bus_analytics/bus_analytics/10"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{JacobGunklachMadche2025,
+  file       = {data/pdfs/2025/Business Analytics/JacobGunklachMadche2025.pdf},
+  author     = {Jacob, Katharina and Gunklach, Jonas and Mädche, Alexander},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Personalization in Business Intelligence and Analytics Systems: A State-of-the-Art Review and Conceptualization},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/ecis2025/bus_analytics/bus_analytics/10}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Jacob, Katharina
+AU  - Gunklach, Jonas
+AU  - Mädche, Alexander
+TI  - Personalization in Business Intelligence and Analytics Systems: A State-of-the-Art Review and Conceptualization
+T2  - European Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/ecis2025/bus_analytics/bus_analytics/10
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2025/bus_analytics/bus_analytics/10>

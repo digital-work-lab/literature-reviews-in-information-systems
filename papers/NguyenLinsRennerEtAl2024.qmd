@@ -1,0 +1,48 @@
+---
+title: "Unraveling the nuances of AI accountability: a synthesis of dimensions across disciplines"
+author:
+- Nguyen, Long Hoang
+- Lins, Sebastian
+- Renner, Maximilian
+- Sunyaev, Ali
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2024/track04_impactai/track04_impactai/15"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{NguyenLinsRennerEtAl2024,
+  file       = {data/pdfs/2024/Impact of AI on Organizations and Society/NguyenLinsRennerEtAl2024.pdf},
+  author     = {Nguyen, Long Hoang and Lins, Sebastian and Renner, Maximilian and Sunyaev, Ali},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Unraveling the nuances of AI accountability: a synthesis of dimensions across disciplines},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/ecis2024/track04_impactai/track04_impactai/15}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Nguyen, Long Hoang
+AU  - Lins, Sebastian
+AU  - Renner, Maximilian
+AU  - Sunyaev, Ali
+TI  - Unraveling the nuances of AI accountability: a synthesis of dimensions across disciplines
+T2  - European Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/ecis2024/track04_impactai/track04_impactai/15
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2024/track04_impactai/track04_impactai/15>

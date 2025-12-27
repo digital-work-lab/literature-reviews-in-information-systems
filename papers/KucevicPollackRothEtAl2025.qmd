@@ -1,0 +1,48 @@
+---
+title: "Does AI sourcing differ from traditional it sourcing? investigating particularities of AI sourcing"
+author:
+- Kucevic, Emir
+- Pollack, Thorben
+- Roth, Marlene Christin
+- Böhmann, Tilo
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2025/ai_org/ai_org/18"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KucevicPollackRothEtAl2025,
+  file       = {data/pdfs/2025/Artificial Intelligence in Organizations and Society/KucevicPollackRothEtAl2025.pdf},
+  author     = {Kucevic, Emir and Pollack, Thorben and Roth, Marlene Christin and Böhmann, Tilo},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Does AI sourcing differ from traditional it sourcing? investigating particularities of AI sourcing},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/ecis2025/ai_org/ai_org/18}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Kucevic, Emir
+AU  - Pollack, Thorben
+AU  - Roth, Marlene Christin
+AU  - Böhmann, Tilo
+TI  - Does AI sourcing differ from traditional it sourcing? investigating particularities of AI sourcing
+T2  - European Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/ecis2025/ai_org/ai_org/18
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2025/ai_org/ai_org/18>

@@ -15,7 +15,7 @@ url: "https://hdl.handle.net/10125/106633"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -26,7 +26,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
   file       = {data/pdfs/2024/YakubuBotsyoeKropczynskiEtAl2024.pdf},
   doi        = {10.24251/HICSS.2024.254},
   author     = {Yakubu, Mustapha and Botsyoe, Lily and Kropczynski, Jess and Johnson, Joe and Pang, Feifei and Gyamfi, Emmanuel Kojo},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Applying Crisis Informatics in Environmental Events in North America - A Systematic Review},
   year       = {2024},
   url        = {https://hdl.handle.net/10125/106633}
@@ -44,7 +44,7 @@ AU  - Johnson, Joe
 AU  - Pang, Feifei
 AU  - Gyamfi, Emmanuel Kojo
 TI  - Applying Crisis Informatics in Environmental Events in North America - A Systematic Review
-T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2024
 DO  - 10.24251/HICSS.2024.254
 UR  - https://hdl.handle.net/10125/106633

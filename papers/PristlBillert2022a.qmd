@@ -1,0 +1,45 @@
+---
+title: "Citizen Participation in Increasingly Digitalized Governmental Environments - a Systematic literature Review"
+author:
+- Pristl, Ann-Catrin Cara
+- Billert, Matthias Simon
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2022_rp/28"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{PristlBillert2022a,
+  file       = {data/pdfs/2022/rp/PristlBillert2022a.pdf},
+  author     = {Pristl, Ann-Catrin Cara and Billert, Matthias Simon},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Citizen Participation in Increasingly Digitalized Governmental Environments - a Systematic literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/ecis2022_rp/28},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/PristlB22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Pristl, Ann-Catrin Cara
+AU  - Billert, Matthias Simon
+TI  - Citizen Participation in Increasingly Digitalized Governmental Environments - a Systematic literature Review
+T2  - European Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/ecis2022_rp/28
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2022_rp/28>

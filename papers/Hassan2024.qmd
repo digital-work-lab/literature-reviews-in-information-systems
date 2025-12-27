@@ -10,7 +10,7 @@ url: "https://hdl.handle.net/10125/106580"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -21,7 +21,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
   file       = {data/pdfs/2024/Hassan2024.pdf},
   doi        = {10.24251/HICSS.2024.203},
   author     = {Hassan, Lobna},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Accessibility of Educational Games and Game-Based Approaches to People with Learning and Physical Disabilities: A Systematic Literature Review},
   year       = {2024},
   url        = {https://hdl.handle.net/10125/106580}
@@ -34,7 +34,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
 TY  - CONF
 AU  - Hassan, Lobna
 TI  - Accessibility of Educational Games and Game-Based Approaches to People with Learning and Physical Disabilities: A Systematic Literature Review
-T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2024
 DO  - 10.24251/HICSS.2024.203
 UR  - https://hdl.handle.net/10125/106580

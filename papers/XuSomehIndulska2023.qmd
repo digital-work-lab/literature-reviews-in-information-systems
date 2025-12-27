@@ -1,0 +1,47 @@
+---
+title: "Towards a reconceptualization of data in organizations: a literature review"
+author:
+- Xu, Daisy
+- Someh, Ida Asadi
+- Indulska, Marta
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/233"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{XuSomehIndulska2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/XuSomehIndulska2023.pdf},
+  author     = {Xu, Daisy and Someh, Ida Asadi and Indulska, Marta},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Towards a reconceptualization of data in organizations: a literature review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/233},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/XuSI23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Xu, Daisy
+AU  - Someh, Ida Asadi
+AU  - Indulska, Marta
+TI  - Towards a reconceptualization of data in organizations: a literature review
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/233
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/233>

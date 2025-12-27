@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/107148"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
   file       = {data/pdfs/2024/FeikeRoschNeuhuttler2024.pdf},
   doi        = {10.24251/HICSS.2024.762},
   author     = {Feike, Maximilian and Rösch, Jürgen and Neuhüttler, Jens},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Market-Related and Relational Factors in B2B Platform Ecosystems: A Systematic Review and Research Agenda},
   year       = {2024},
   pages      = {6360--6369},
@@ -39,7 +39,7 @@ AU  - Feike, Maximilian
 AU  - Rösch, Jürgen
 AU  - Neuhüttler, Jens
 TI  - Market-Related and Relational Factors in B2B Platform Ecosystems: A Systematic Review and Research Agenda
-T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2024
 SP  - 6360
 EP  - 6369

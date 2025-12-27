@@ -1,0 +1,48 @@
+---
+title: "Needs for Speed - Categorizing commuter types in the context of smart mobility systems"
+author:
+- Anschütz, Christian
+- Ebner, Katharina
+- Smolnik, Stefan
+- Huber, Hans-Hendrik
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2021_rp/20"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AnschutzEbnerSmolnikEtAl2021,
+  file       = {data/pdfs/2021/rp/AnschutzEbnerSmolnikEtAl2021.pdf},
+  author     = {Anschütz, Christian and Ebner, Katharina and Smolnik, Stefan and Huber, Hans-Hendrik},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Needs for Speed - Categorizing commuter types in the context of smart mobility systems},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/ecis2021_rp/20}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Anschütz, Christian
+AU  - Ebner, Katharina
+AU  - Smolnik, Stefan
+AU  - Huber, Hans-Hendrik
+TI  - Needs for Speed - Categorizing commuter types in the context of smart mobility systems
+T2  - European Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/ecis2021_rp/20
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2021_rp/20>

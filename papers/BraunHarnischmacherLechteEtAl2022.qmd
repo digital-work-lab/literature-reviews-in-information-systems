@@ -1,0 +1,49 @@
+---
+title: "Let's Get Physic(AI)l - Transforming AI-Requirements of Healthcare into Design Principles"
+author:
+- Braun, Marvin
+- Harnischmacher, Christine
+- Lechte, Henrik
+- Riquel, Johannes
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2022_rip/47"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BraunHarnischmacherLechteEtAl2022,
+  file       = {data/pdfs/2022/rip/BraunHarnischmacherLechteEtAl2022.pdf},
+  author     = {Braun, Marvin and Harnischmacher, Christine and Lechte, Henrik and Riquel, Johannes},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Let's Get Physic(AI)l - Transforming AI-Requirements of Healthcare into Design Principles},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/ecis2022_rip/47},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/BraunHLR22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Braun, Marvin
+AU  - Harnischmacher, Christine
+AU  - Lechte, Henrik
+AU  - Riquel, Johannes
+TI  - Let's Get Physic(AI)l - Transforming AI-Requirements of Healthcare into Design Principles
+T2  - European Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/ecis2022_rip/47
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2022_rip/47>

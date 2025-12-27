@@ -14,7 +14,7 @@ url: "https://hdl.handle.net/10125/107058"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -25,7 +25,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
   file       = {data/pdfs/2024/WangMichaelMaynardEtAl2024.pdf},
   doi        = {10.24251/HICSS.2024.673},
   author     = {Wang, Jieshu and Michael, Katina and Maynard, Andrew and Motsch, Sébastien and Lobo, José},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Knowledge Combination Analysis Reveals That Artificial Intelligence Research Is More Like "Normal Science" Than "Revolutionary Science"},
   year       = {2024},
   url        = {https://hdl.handle.net/10125/107058}
@@ -42,7 +42,7 @@ AU  - Maynard, Andrew
 AU  - Motsch, Sébastien
 AU  - Lobo, José
 TI  - Knowledge Combination Analysis Reveals That Artificial Intelligence Research Is More Like "Normal Science" Than "Revolutionary Science"
-T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2024
 DO  - 10.24251/HICSS.2024.673
 UR  - https://hdl.handle.net/10125/107058

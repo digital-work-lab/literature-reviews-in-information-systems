@@ -1,0 +1,48 @@
+---
+title: "The role of narrative responsibility within hybrid intelligence"
+author:
+- Ademaj, Gemza
+- Chowdhury, Avijit
+- Sarker, Saonee
+- Keller, Christina
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2025/human_ai/human_ai/14"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AdemajChowdhurySarkerEtAl2025,
+  file       = {data/pdfs/2025/Human-AI Collaboration/AdemajChowdhurySarkerEtAl2025.pdf},
+  author     = {Ademaj, Gemza and Chowdhury, Avijit and Sarker, Saonee and Keller, Christina},
+  booktitle  = {European Conference on Information Systems},
+  title      = {The role of narrative responsibility within hybrid intelligence},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/ecis2025/human_ai/human_ai/14}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ademaj, Gemza
+AU  - Chowdhury, Avijit
+AU  - Sarker, Saonee
+AU  - Keller, Christina
+TI  - The role of narrative responsibility within hybrid intelligence
+T2  - European Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/ecis2025/human_ai/human_ai/14
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2025/human_ai/human_ai/14>

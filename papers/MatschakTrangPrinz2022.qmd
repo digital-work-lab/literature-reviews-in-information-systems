@@ -1,0 +1,47 @@
+---
+title: "A Taxonomy of Machine Learning-based Fraud Detection Systems"
+author:
+- Matschak, Tizian
+- Trang, Simon
+- Prinz, Christoph
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2022_rp/173"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MatschakTrangPrinz2022,
+  file       = {data/pdfs/2022/rp/MatschakTrangPrinz2022.pdf},
+  author     = {Matschak, Tizian and Trang, Simon and Prinz, Christoph},
+  booktitle  = {European Conference on Information Systems},
+  title      = {A Taxonomy of Machine Learning-based Fraud Detection Systems},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/ecis2022_rp/173},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/Matschak0P22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Matschak, Tizian
+AU  - Trang, Simon
+AU  - Prinz, Christoph
+TI  - A Taxonomy of Machine Learning-based Fraud Detection Systems
+T2  - European Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/ecis2022_rp/173
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2022_rp/173>

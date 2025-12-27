@@ -1,0 +1,46 @@
+---
+title: "What makes a data-driven business model? A consolidated taxonomy"
+author:
+- Dehnert, Maik
+- Gleiss, Alexander
+- Reiss, Frederick
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2021_rp/139"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{DehnertGleissReiss2021,
+  file       = {data/pdfs/2021/rp/DehnertGleissReiss2021.pdf},
+  author     = {Dehnert, Maik and Gleiss, Alexander and Reiss, Frederick},
+  booktitle  = {European Conference on Information Systems},
+  title      = {What makes a data-driven business model? A consolidated taxonomy},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/ecis2021_rp/139}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Dehnert, Maik
+AU  - Gleiss, Alexander
+AU  - Reiss, Frederick
+TI  - What makes a data-driven business model? A consolidated taxonomy
+T2  - European Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/ecis2021_rp/139
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2021_rp/139>

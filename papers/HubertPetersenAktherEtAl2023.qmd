@@ -1,0 +1,49 @@
+---
+title: "Mixed method literature review on computational thinking -developing an integrated research framework and research propositions"
+author:
+- Hubert, Mirja
+- Petersen, Camilla Kølsen
+- Akther, Farzana
+- Carugati, Andrea
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/336"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HubertPetersenAktherEtAl2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/HubertPetersenAktherEtAl2023.pdf},
+  author     = {Hubert, Mirja and Petersen, Camilla Kølsen and Akther, Farzana and Carugati, Andrea},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Mixed method literature review on computational thinking -developing an integrated research framework and research propositions},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/336},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/HubertPAC23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hubert, Mirja
+AU  - Petersen, Camilla Kølsen
+AU  - Akther, Farzana
+AU  - Carugati, Andrea
+TI  - Mixed method literature review on computational thinking -developing an integrated research framework and research propositions
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/336
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/336>

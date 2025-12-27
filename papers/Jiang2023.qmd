@@ -1,0 +1,43 @@
+---
+title: "Covert resistance against algorithmic control on online labor platforms -a systematic literature review"
+author:
+- Jiang, Jennifer
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/272"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{Jiang2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/Jiang2023.pdf},
+  author     = {Jiang, Jennifer},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Covert resistance against algorithmic control on online labor platforms -a systematic literature review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/272},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/Jiang23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Jiang, Jennifer
+TI  - Covert resistance against algorithmic control on online labor platforms -a systematic literature review
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/272
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/272>

@@ -1,0 +1,44 @@
+---
+title: "Energy smart home technologies and energy citizenship: a literature review"
+author:
+- Gharaie, Amirhossein
+- Johansson, Björn
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2024/track17_greenis/track17_greenis/41"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GharaieJohansson2024,
+  file       = {data/pdfs/2024/Green Information Systems and Sustainable Development/GharaieJohansson2024.pdf},
+  author     = {Gharaie, Amirhossein and Johansson, Björn},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Energy smart home technologies and energy citizenship: a literature review},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/ecis2024/track17_greenis/track17_greenis/41}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Gharaie, Amirhossein
+AU  - Johansson, Björn
+TI  - Energy smart home technologies and energy citizenship: a literature review
+T2  - European Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/ecis2024/track17_greenis/track17_greenis/41
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2024/track17_greenis/track17_greenis/41>

@@ -1,0 +1,52 @@
+---
+title: "Bringing Light Into the Darkness - A Systematic Literature Review on Explainable Predictive Business Process Monitoring Techniques"
+author:
+- Stierle, Matthias
+- Brunk, Jens
+- Weinzierl, Sven
+- Zilker, Sandra
+- Matzner, Martin
+- Becker, Jörg
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2021_rip/8"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{StierleBrunkWeinzierlEtAl2021,
+  file       = {data/pdfs/2021/rip/StierleBrunkWeinzierlEtAl2021.pdf},
+  author     = {Stierle, Matthias and Brunk, Jens and Weinzierl, Sven and Zilker, Sandra and Matzner, Martin and Becker, Jörg},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Bringing Light Into the Darkness - A Systematic Literature Review on Explainable Predictive Business Process Monitoring Techniques},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/ecis2021_rip/8}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Stierle, Matthias
+AU  - Brunk, Jens
+AU  - Weinzierl, Sven
+AU  - Zilker, Sandra
+AU  - Matzner, Martin
+AU  - Becker, Jörg
+TI  - Bringing Light Into the Darkness - A Systematic Literature Review on Explainable Predictive Business Process Monitoring Techniques
+T2  - European Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/ecis2021_rip/8
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2021_rip/8>

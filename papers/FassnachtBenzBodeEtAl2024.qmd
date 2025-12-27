@@ -1,0 +1,50 @@
+---
+title: "Systematizing Data Sharing Practices: A Taxonomy"
+author:
+- Fassnacht, Marcel
+- Benz, Carina
+- Bode, Jan
+- Heinz, Daniel
+- Satzger, Gerhard
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2024/is_governance/track21_is_govern/3"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{FassnachtBenzBodeEtAl2024,
+  file       = {data/pdfs/2024/IS Strategy, Governance and Sourcing in the Digital Age/FassnachtBenzBodeEtAl2024.pdf},
+  author     = {Fassnacht, Marcel and Benz, Carina and Bode, Jan and Heinz, Daniel and Satzger, Gerhard},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Systematizing Data Sharing Practices: A Taxonomy},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/ecis2024/is_governance/track21_is_govern/3}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Fassnacht, Marcel
+AU  - Benz, Carina
+AU  - Bode, Jan
+AU  - Heinz, Daniel
+AU  - Satzger, Gerhard
+TI  - Systematizing Data Sharing Practices: A Taxonomy
+T2  - European Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/ecis2024/is_governance/track21_is_govern/3
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2024/is_governance/track21_is_govern/3>

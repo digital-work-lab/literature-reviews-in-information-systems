@@ -1,0 +1,49 @@
+---
+title: "Design options for data spaces"
+author:
+- Gieß, Anna
+- Möller, Frederik
+- Schoormann, Thorsten
+- Otto, Boris
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/287"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GieMollerSchoormannEtAl2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/GieMollerSchoormannEtAl2023.pdf},
+  author     = {Gieß, Anna and Möller, Frederik and Schoormann, Thorsten and Otto, Boris},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Design options for data spaces},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/287},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/GiessMSO23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Gieß, Anna
+AU  - Möller, Frederik
+AU  - Schoormann, Thorsten
+AU  - Otto, Boris
+TI  - Design options for data spaces
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/287
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/287>

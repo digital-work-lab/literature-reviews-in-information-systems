@@ -1,0 +1,47 @@
+---
+title: "AI uncertainty in expert decision-making: a qualitative evidence synthesis"
+author:
+- Grundstrom, Casandra
+- Mohanty, Pooja
+- Parmiggiani, Elena
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/412"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GrundstromMohantyParmiggiani2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/GrundstromMohantyParmiggiani2023.pdf},
+  author     = {Grundstrom, Casandra and Mohanty, Pooja and Parmiggiani, Elena},
+  booktitle  = {European Conference on Information Systems},
+  title      = {AI uncertainty in expert decision-making: a qualitative evidence synthesis},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/412},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/GrundstromMP23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Grundstrom, Casandra
+AU  - Mohanty, Pooja
+AU  - Parmiggiani, Elena
+TI  - AI uncertainty in expert decision-making: a qualitative evidence synthesis
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/412
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/412>

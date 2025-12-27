@@ -1,0 +1,44 @@
+---
+title: "Artificial intelligence in digital service ecosystems -a taxonomy approach"
+author:
+- Hansmeier, Philipp
+- Schäfer, Jannika Marie
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2025/intelserv/intelserv/2"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HansmeierSchafer2025,
+  file       = {data/pdfs/2025/Intelligent Service Ecosystems/HansmeierSchafer2025.pdf},
+  author     = {Hansmeier, Philipp and Schäfer, Jannika Marie},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Artificial intelligence in digital service ecosystems -a taxonomy approach},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/ecis2025/intelserv/intelserv/2}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hansmeier, Philipp
+AU  - Schäfer, Jannika Marie
+TI  - Artificial intelligence in digital service ecosystems -a taxonomy approach
+T2  - European Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/ecis2025/intelserv/intelserv/2
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2025/intelserv/intelserv/2>

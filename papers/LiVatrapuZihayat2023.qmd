@@ -1,0 +1,47 @@
+---
+title: "A systematic review of computational methods in and research taxonomy of homophily in information systems"
+author:
+- Li, Yisheng
+- Vatrapu, Ravi
+- Zihayat, Morteza
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rip/23"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LiVatrapuZihayat2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research-in-Progress Papers/LiVatrapuZihayat2023.pdf},
+  author     = {Li, Yisheng and Vatrapu, Ravi and Zihayat, Morteza},
+  booktitle  = {European Conference on Information Systems},
+  title      = {A systematic review of computational methods in and research taxonomy of homophily in information systems},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rip/23},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/LiVZ23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Li, Yisheng
+AU  - Vatrapu, Ravi
+AU  - Zihayat, Morteza
+TI  - A systematic review of computational methods in and research taxonomy of homophily in information systems
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rip/23
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rip/23>

@@ -1,0 +1,51 @@
+---
+title: "Digital welfare and vulnerable citizens: a literature review"
+author:
+- Melchiori, Cintia Ebner
+- Sanches, Bruno
+- da Cunha Cruz, Manuela Cortez
+- Diniz, Eduardo Henrique
+- Cunha, Maria Alexandra
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rip/58"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MelchioriSanchesdaCunhaCruzEtAl2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research-in-Progress Papers/MelchioriSanchesdaCunhaCruzEtAl2023.pdf},
+  author     = {Melchiori, Cintia Ebner and Sanches, Bruno and da Cunha Cruz, Manuela Cortez and Diniz, Eduardo Henrique and Cunha, Maria Alexandra},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Digital welfare and vulnerable citizens: a literature review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rip/58},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/MelchioriSCDC23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Melchiori, Cintia Ebner
+AU  - Sanches, Bruno
+AU  - da Cunha Cruz, Manuela Cortez
+AU  - Diniz, Eduardo Henrique
+AU  - Cunha, Maria Alexandra
+TI  - Digital welfare and vulnerable citizens: a literature review
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rip/58
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rip/58>

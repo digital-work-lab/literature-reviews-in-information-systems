@@ -1,0 +1,50 @@
+---
+title: "Privacy-preserving data sharing: a systematic review and future research directions"
+author:
+- Conde, Daniel Juan Sivizaca
+- Kämpf, Nicki Lena
+- Saß, David Rößler-von
+- Schurig, Tim
+- Kliewer, Natalia
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2024/track10_dmds_ecosystems/track10_dmds_ecosystems/12"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{CondeKampfSaEtAl2024,
+  file       = {data/pdfs/2024/Data Management and Data Sharing in Ecosystems/CondeKampfSaEtAl2024.pdf},
+  author     = {Conde, Daniel Juan Sivizaca and Kämpf, Nicki Lena and Saß, David Rößler-von and Schurig, Tim and Kliewer, Natalia},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Privacy-preserving data sharing: a systematic review and future research directions},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/ecis2024/track10_dmds_ecosystems/track10_dmds_ecosystems/12}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Conde, Daniel Juan Sivizaca
+AU  - Kämpf, Nicki Lena
+AU  - Saß, David Rößler-von
+AU  - Schurig, Tim
+AU  - Kliewer, Natalia
+TI  - Privacy-preserving data sharing: a systematic review and future research directions
+T2  - European Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/ecis2024/track10_dmds_ecosystems/track10_dmds_ecosystems/12
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2024/track10_dmds_ecosystems/track10_dmds_ecosystems/12>

@@ -1,0 +1,45 @@
+---
+title: "Design, development, and implementation of artificial intelligence technology: a scoping review"
+author:
+- Grashoff, Imke
+- Recker, Jan
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/305"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GrashoffRecker2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/GrashoffRecker2023.pdf},
+  author     = {Grashoff, Imke and Recker, Jan},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Design, development, and implementation of artificial intelligence technology: a scoping review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/305},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/GrashoffR23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Grashoff, Imke
+AU  - Recker, Jan
+TI  - Design, development, and implementation of artificial intelligence technology: a scoping review
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/305
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/305>

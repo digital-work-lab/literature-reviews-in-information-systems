@@ -1,0 +1,48 @@
+---
+title: "Towards a Taxonomy of Digital twin Applications for Telemedical Healthcare"
+author:
+- Doctor, Eileen
+- Keweloh, Christian
+- Buck, Christoph
+- Eymann, Torsten
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2021_rip/12"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{DoctorKewelohBuckEtAl2021,
+  file       = {data/pdfs/2021/rip/DoctorKewelohBuckEtAl2021.pdf},
+  author     = {Doctor, Eileen and Keweloh, Christian and Buck, Christoph and Eymann, Torsten},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Towards a Taxonomy of Digital twin Applications for Telemedical Healthcare},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/ecis2021_rip/12}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Doctor, Eileen
+AU  - Keweloh, Christian
+AU  - Buck, Christoph
+AU  - Eymann, Torsten
+TI  - Towards a Taxonomy of Digital twin Applications for Telemedical Healthcare
+T2  - European Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/ecis2021_rip/12
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2021_rip/12>

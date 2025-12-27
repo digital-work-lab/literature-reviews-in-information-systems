@@ -1,0 +1,44 @@
+---
+title: "Are our predictions healthy? a comparative meta-analysis of machine learning studies in predictive healthcare"
+author:
+- Heinrich, Kai
+- Keshavarzi, Armin
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2024/track18_healthit/track18_healthit/2"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HeinrichKeshavarzi2024,
+  file       = {data/pdfs/2024/Health Information Technology and IS for Healthcare/HeinrichKeshavarzi2024.pdf},
+  author     = {Heinrich, Kai and Keshavarzi, Armin},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Are our predictions healthy? a comparative meta-analysis of machine learning studies in predictive healthcare},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/ecis2024/track18_healthit/track18_healthit/2}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Heinrich, Kai
+AU  - Keshavarzi, Armin
+TI  - Are our predictions healthy? a comparative meta-analysis of machine learning studies in predictive healthcare
+T2  - European Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/ecis2024/track18_healthit/track18_healthit/2
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2024/track18_healthit/track18_healthit/2>

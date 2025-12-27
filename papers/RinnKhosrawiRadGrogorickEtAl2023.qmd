@@ -1,0 +1,51 @@
+---
+title: "Virtual worlds in education -a systematic literature review"
+author:
+- Rinn, Heidi
+- Khosrawi-Rad, Bijan
+- Grogorick, Linda
+- Robra-Bissantz, Susanne
+- Markgraf, Daniel
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/277"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{RinnKhosrawiRadGrogorickEtAl2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/RinnKhosrawiRadGrogorickEtAl2023.pdf},
+  author     = {Rinn, Heidi and Khosrawi-Rad, Bijan and Grogorick, Linda and Robra-Bissantz, Susanne and Markgraf, Daniel},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Virtual worlds in education -a systematic literature review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/277},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/RinnKGRM23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Rinn, Heidi
+AU  - Khosrawi-Rad, Bijan
+AU  - Grogorick, Linda
+AU  - Robra-Bissantz, Susanne
+AU  - Markgraf, Daniel
+TI  - Virtual worlds in education -a systematic literature review
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/277
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/277>

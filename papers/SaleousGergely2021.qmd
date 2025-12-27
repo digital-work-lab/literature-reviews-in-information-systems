@@ -1,0 +1,44 @@
+---
+title: "A Peek at the Digital Forensics Landscape"
+author:
+- Saleous, Heba
+- Gergely, Marton
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2021_rp/87"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SaleousGergely2021,
+  file       = {data/pdfs/2021/rp/SaleousGergely2021.pdf},
+  author     = {Saleous, Heba and Gergely, Marton},
+  booktitle  = {European Conference on Information Systems},
+  title      = {A Peek at the Digital Forensics Landscape},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/ecis2021_rp/87}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Saleous, Heba
+AU  - Gergely, Marton
+TI  - A Peek at the Digital Forensics Landscape
+T2  - European Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/ecis2021_rp/87
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2021_rp/87>

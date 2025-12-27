@@ -1,0 +1,47 @@
+---
+title: "Healthcare in the Era of Digital twins: towards a Domain-Specific Taxonomy"
+author:
+- Strobel, Gero
+- Möller, Frederik
+- van der Valk, Hendrik
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2022_rip/6"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{StrobelMollervanderValk2022a,
+  file       = {data/pdfs/2022/rip/StrobelMollervanderValk2022a.pdf},
+  author     = {Strobel, Gero and Möller, Frederik and {van der Valk}, Hendrik},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Healthcare in the Era of Digital twins: towards a Domain-Specific Taxonomy},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/ecis2022_rip/6},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/StrobelMV22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Strobel, Gero
+AU  - Möller, Frederik
+AU  - {van der Valk}, Hendrik
+TI  - Healthcare in the Era of Digital twins: towards a Domain-Specific Taxonomy
+T2  - European Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/ecis2022_rip/6
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2022_rip/6>

@@ -12,7 +12,7 @@ url: "https://hdl.handle.net/10125/106964"
 journal:
   name: ""
 cited_by: 0
-outlet: "Proceedings of the Annual Hawaii International Conference on System Sciences"
+outlet: "Hawaii International Conference on System Sciences"
 ---
 
 ## Citation: BibTeX
@@ -23,7 +23,7 @@ outlet: "Proceedings of the Annual Hawaii International Conference on System Sci
   file       = {data/pdfs/2024/PitmanKoponenTarkiainen2024.pdf},
   doi        = {10.24251/HICSS.2024.579},
   author     = {Pitman, Titta and Koponen, Jonna and Tarkiainen, Anssi},
-  booktitle  = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Winning in B2B sales in the digital economy: A systematic literature review and the dynamic capabilities approach},
   year       = {2024},
   url        = {https://hdl.handle.net/10125/106964}
@@ -38,7 +38,7 @@ AU  - Pitman, Titta
 AU  - Koponen, Jonna
 AU  - Tarkiainen, Anssi
 TI  - Winning in B2B sales in the digital economy: A systematic literature review and the dynamic capabilities approach
-T2  - Proceedings of the Annual Hawaii International Conference on System Sciences
+T2  - Hawaii International Conference on System Sciences
 PY  - 2024
 DO  - 10.24251/HICSS.2024.579
 UR  - https://hdl.handle.net/10125/106964

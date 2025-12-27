@@ -1,0 +1,46 @@
+---
+title: "It's a trap!? causes and consequences of filter bubbles"
+author:
+- Gimnich, Moritz
+- Weinert, Christoph
+- Weitzel, Tim
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2024/track15_social_ict/track15_social_ict/8"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GimnichWeinertWeitzel2024,
+  file       = {data/pdfs/2024/Social and Ethical Implications of ICT Use/GimnichWeinertWeitzel2024.pdf},
+  author     = {Gimnich, Moritz and Weinert, Christoph and Weitzel, Tim},
+  booktitle  = {European Conference on Information Systems},
+  title      = {It's a trap!? causes and consequences of filter bubbles},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/ecis2024/track15_social_ict/track15_social_ict/8}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Gimnich, Moritz
+AU  - Weinert, Christoph
+AU  - Weitzel, Tim
+TI  - It's a trap!? causes and consequences of filter bubbles
+T2  - European Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/ecis2024/track15_social_ict/track15_social_ict/8
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2024/track15_social_ict/track15_social_ict/8>

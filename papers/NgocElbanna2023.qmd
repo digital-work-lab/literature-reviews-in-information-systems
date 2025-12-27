@@ -1,0 +1,45 @@
+---
+title: "Understanding human-AI augmentation in business and management context: a literature review"
+author:
+- Ngoc, Trinh Nguyen Thi
+- Elbanna, Amany
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/ecis2023_rp/406"
+journal:
+  name: ""
+cited_by: 0
+outlet: "European Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{NgocElbanna2023,
+  file       = {data/pdfs/2023/ECIS 2023 Research Papers/NgocElbanna2023.pdf},
+  author     = {Ngoc, Trinh Nguyen Thi and Elbanna, Amany},
+  booktitle  = {European Conference on Information Systems},
+  title      = {Understanding human-AI augmentation in business and management context: a literature review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/ecis2023_rp/406},
+  dblp_key   = {https://dblp.org/rec/conf/ecis/NgocE23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Ngoc, Trinh Nguyen Thi
+AU  - Elbanna, Amany
+TI  - Understanding human-AI augmentation in business and management context: a literature review
+T2  - European Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/ecis2023_rp/406
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/ecis2023_rp/406>
