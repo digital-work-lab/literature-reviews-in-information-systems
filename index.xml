@@ -335,6 +335,75 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>How are search-augmented large language models changing internet search? -a systematic literature review</title>
+  <dc:creator>Wildhaber, Basil</dc:creator>
+  <dc:creator>Göldi, Andreas</dc:creator>
+  <dc:creator>Rietsche, Roman</dc:creator>
+  <link>http://0.0.0.0:4200/papers/Paper2025f.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="citation-bibtex" class="level2">
+
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">Paper2025f</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">file</span>       = {data/pdfs/2025/Human Computer Interaction/Paper2025f.pdf},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>     = {Wildhaber, Basil and Göldi, Andreas and Rietsche, Roman},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">booktitle</span>  = {European Conference on Information Systems},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>      = {How are search-augmented large language models changing internet search? -a systematic literature review},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>       = {2025}</span>
+<span id="cb1-7">}</span></code></pre></div></div>
+</section>
+<section id="citation-ris" class="level2">
+<h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - CONF</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Wildhaber, Basil</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Göldi, Andreas</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Rietsche, Roman</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - How are search-augmented large language models changing internet search? -a systematic literature review</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - European Conference on Information Systems</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
+
+
+</section>
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/Paper2025f.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Directions for future IS research on sports digitalisation: A stakeholder perspective</title>
   <dc:creator>Haffner, Lily</dc:creator>
   <dc:creator>Oshri, Ilan</dc:creator>
@@ -683,9 +752,10 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Relationships between Factors Influencing Robotic Process Automation Adoption in Public Administrations: A Systematic Literature Review</title>
-  <dc:creator>Frick, Norbert</dc:creator>
-  <link>http://0.0.0.0:4200/papers/Frick2025.html</link>
+  <title>Artificial intelligence in digital service ecosystems -a taxonomy approach</title>
+  <dc:creator>Hansmeier, Philipp</dc:creator>
+  <dc:creator>Schäfer, Jannika Marie</dc:creator>
+  <link>http://0.0.0.0:4200/papers/HansmeierSchafer2025.html</link>
   <description><![CDATA[ 
 
 
@@ -697,29 +767,26 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 background-color: null;
 font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
 background-color: null;
-font-style: inherit;">Frick2025</span>,</span>
+font-style: inherit;">HansmeierSchafer2025</span>,</span>
 <span id="cb1-2">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">file</span>       = {data/pdfs/2025/Frick2025.pdf},</span>
+font-style: inherit;">file</span>       = {data/pdfs/2025/Intelligent Service Ecosystems/HansmeierSchafer2025.pdf},</span>
 <span id="cb1-3">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">doi</span>        = {10.24251/HICSS.2025.260},</span>
+font-style: inherit;">author</span>     = {Hansmeier, Philipp and Schäfer, Jannika Marie},</span>
 <span id="cb1-4">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">author</span>     = {Frick, Norbert},</span>
+font-style: inherit;">booktitle</span>  = {European Conference on Information Systems},</span>
 <span id="cb1-5">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">booktitle</span>  = {Hawaii International Conference on System Sciences},</span>
+font-style: inherit;">title</span>      = {Artificial intelligence in digital service ecosystems -a taxonomy approach},</span>
 <span id="cb1-6">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">title</span>      = {Relationships between Factors Influencing Robotic Process Automation Adoption in Public Administrations: A Systematic Literature Review},</span>
+font-style: inherit;">year</span>       = {2025},</span>
 <span id="cb1-7">  <span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">year</span>       = {2025},</span>
-<span id="cb1-8">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>      = {1--10}</span>
-<span id="cb1-9">}</span></code></pre></div></div>
+font-style: inherit;">url</span>        = {https://aisel.aisnet.org/ecis2025/intelserv/intelserv/2}</span>
+<span id="cb1-8">}</span></code></pre></div></div>
 </section>
 <section id="citation-ris" class="level2">
 <h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
@@ -728,155 +795,37 @@ background-color: null;
 font-style: inherit;">TY  - CONF</span></span>
 <span id="cb2-2"><span class="co" style="color: #5E5E5E;
 background-color: null;
-font-style: inherit;">AU  - Frick, Norbert</span></span>
+font-style: inherit;">AU  - Hansmeier, Philipp</span></span>
 <span id="cb2-3"><span class="co" style="color: #5E5E5E;
 background-color: null;
-font-style: inherit;">TI  - Relationships between Factors Influencing Robotic Process Automation Adoption in Public Administrations: A Systematic Literature Review</span></span>
+font-style: inherit;">AU  - Schäfer, Jannika Marie</span></span>
 <span id="cb2-4"><span class="co" style="color: #5E5E5E;
 background-color: null;
-font-style: inherit;">T2  - Hawaii International Conference on System Sciences</span></span>
+font-style: inherit;">TI  - Artificial intelligence in digital service ecosystems -a taxonomy approach</span></span>
 <span id="cb2-5"><span class="co" style="color: #5E5E5E;
 background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
+font-style: inherit;">T2  - European Conference on Information Systems</span></span>
 <span id="cb2-6"><span class="co" style="color: #5E5E5E;
 background-color: null;
-font-style: inherit;">SP  - 1</span></span>
+font-style: inherit;">PY  - 2025</span></span>
 <span id="cb2-7"><span class="co" style="color: #5E5E5E;
 background-color: null;
-font-style: inherit;">EP  - 10</span></span>
+font-style: inherit;">UR  - https://aisel.aisnet.org/ecis2025/intelserv/intelserv/2</span></span>
 <span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">DO  - 10.24251/HICSS.2025.260</span></span>
-<span id="cb2-9"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">ER  - </span></span></code></pre></div></div>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <ul>
-<li>DOI: <a href="https://doi.org/10.24251/HICSS.2025.260" class="uri">https://doi.org/10.24251/HICSS.2025.260</a></li>
+<li>URL: <a href="https://aisel.aisnet.org/ecis2025/intelserv/intelserv/2" class="uri">https://aisel.aisnet.org/ecis2025/intelserv/intelserv/2</a></li>
 </ul>
 
 
 </section>
 
  ]]></description>
-  <guid>http://0.0.0.0:4200/papers/Frick2025.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>A Multivocal Literature Review on Capturing Value Propositions for Private Organizations in a CBDC Ecosystem</title>
-  <dc:creator>Schaaf, Vincent</dc:creator>
-  <dc:creator>Lautenschlager, Jonathan</dc:creator>
-  <dc:creator>Voucko-Glockner, Hannes</dc:creator>
-  <dc:creator>Plank, Tobias</dc:creator>
-  <dc:creator>Guggenberger, Tobias</dc:creator>
-  <dc:creator>Urbach, Nils</dc:creator>
-  <link>http://0.0.0.0:4200/papers/SchaafLautenschlagerVouckoGlocknerEtAl2025a.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="citation-bibtex" class="level2">
-
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">SchaafLautenschlagerVouckoGlocknerEtAl2025a</span>,</span>
-<span id="cb1-2">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">doi</span>        = {10.17705/1CAIS.05712},</span>
-<span id="cb1-3">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>     = {Schaaf, Vincent and Lautenschlager, Jonathan and Voucko-Glockner, Hannes and Plank, Tobias and Guggenberger, Tobias and Urbach, Nils},</span>
-<span id="cb1-4">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">journal</span>    = {Communications of the Association for Information Systems},</span>
-<span id="cb1-5">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>      = {A Multivocal Literature Review on Capturing Value Propositions for Private Organizations in a CBDC Ecosystem},</span>
-<span id="cb1-6">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>       = {2025},</span>
-<span id="cb1-7">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">volume</span>     = {57},</span>
-<span id="cb1-8">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">pages</span>      = {289--317},</span>
-<span id="cb1-9">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">url</span>        = {https://aisel.aisnet.org/cais/vol57/iss1/14},</span>
-<span id="cb1-10">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">abstract</span>   = {Central Bank Digital Currencies (CBDC) are a novel phenomenon gaining widespread attention from academics and practitioners in recent years. CBDCs combine new technology-enabled infrastructure and service innovation from the realm of FinTech and Decentralized Finance with the well-established and highly regulated area of central banking. While current practice and research primarily focus on designing specific CBDC systems or the governmental role, the role of companies and the private sector in the CBDC ecosystem still needs to be explored. Addressing this gap is particularly pertinent given the uncertainty surrounding which value propositions from traditional financial ecosystems and those from Fintech and blockchain-based financial ecosystems might be transferable to the realm of CBDCs. In this regard, the potential emergence of entirely novel value propositions companies could offer uniquely to CBDCs adds another layer of complexity. This paper aims to fill this gap by shedding light on private organizations’ value propositions in CBDC ecosystems. Through a multivocal literature review, we comprehensively gather both academic and practitioner insights. We aggregate value propositions directly stated in the current literature base and verify and complement these findings by mapping the needs of a CBDC ecosystem to value propositions companies might offer to fulfill these needs.}</span>
-<span id="cb1-11">}</span></code></pre></div></div>
-</section>
-<section id="citation-ris" class="level2">
-<h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - JOUR</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Schaaf, Vincent</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Lautenschlager, Jonathan</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Voucko-Glockner, Hannes</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Plank, Tobias</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Guggenberger, Tobias</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Urbach, Nils</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - A Multivocal Literature Review on Capturing Value Propositions for Private Organizations in a CBDC Ecosystem</span></span>
-<span id="cb2-9"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - Communications of the Association for Information Systems</span></span>
-<span id="cb2-10"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-11"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">VL  - 57</span></span>
-<span id="cb2-12"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">SP  - 289</span></span>
-<span id="cb2-13"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">EP  - 317</span></span>
-<span id="cb2-14"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">DO  - 10.17705/1CAIS.05712</span></span>
-<span id="cb2-15"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">UR  - https://aisel.aisnet.org/cais/vol57/iss1/14</span></span>
-<span id="cb2-16"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<ul>
-<li>DOI: <a href="https://doi.org/10.17705/1CAIS.05712" class="uri">https://doi.org/10.17705/1CAIS.05712</a></li>
-<li>URL: <a href="https://aisel.aisnet.org/cais/vol57/iss1/14" class="uri">https://aisel.aisnet.org/cais/vol57/iss1/14</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <guid>http://0.0.0.0:4200/papers/SchaafLautenschlagerVouckoGlocknerEtAl2025a.html</guid>
+  <guid>http://0.0.0.0:4200/papers/HansmeierSchafer2025.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
