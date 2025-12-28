@@ -1,0 +1,44 @@
+---
+title: "Exploring Agentic Artificial Intelligence Systems: Towards a Typological Framework"
+author:
+- Wissuchek, Christopher
+- Zschech, Patrick
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2025/emerg_tech/emerg_tech/6"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{WissuchekZschech2025,
+  file       = {data/pdfs/2025/WissuchekZschech2025.pdf},
+  author     = {Wissuchek, Christopher and Zschech, Patrick},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Exploring Agentic Artificial Intelligence Systems: Towards a Typological Framework},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/pacis2025/emerg_tech/emerg_tech/6}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Wissuchek, Christopher
+AU  - Zschech, Patrick
+TI  - Exploring Agentic Artificial Intelligence Systems: Towards a Typological Framework
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/pacis2025/emerg_tech/emerg_tech/6
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2025/emerg_tech/emerg_tech/6>

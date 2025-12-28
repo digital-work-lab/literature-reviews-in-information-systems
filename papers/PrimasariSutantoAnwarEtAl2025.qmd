@@ -1,0 +1,50 @@
+---
+title: "Digital Nudging Strategies and Choice Architecture Modifications for Environmental Sustainability: A Systematic Literature Review"
+author:
+- Primasari, Clara Hetty
+- Sutanto, Juliana
+- Anwar, Misita
+- Primasari, Hetty
+- Gao, Shijia
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2025/isresilience/isresilience/3"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{PrimasariSutantoAnwarEtAl2025,
+  file       = {data/pdfs/2025/Digital Nudging Strategies and Choice Architecture Modifications.pdf},
+  author     = {Primasari, Clara Hetty and Sutanto, Juliana and Anwar, Misita and Primasari, Hetty and Gao, Shijia},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Digital Nudging Strategies and Choice Architecture Modifications for Environmental Sustainability: A Systematic Literature Review},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/pacis2025/isresilience/isresilience/3}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Primasari, Clara Hetty
+AU  - Sutanto, Juliana
+AU  - Anwar, Misita
+AU  - Primasari, Hetty
+AU  - Gao, Shijia
+TI  - Digital Nudging Strategies and Choice Architecture Modifications for Environmental Sustainability: A Systematic Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/pacis2025/isresilience/isresilience/3
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2025/isresilience/isresilience/3>

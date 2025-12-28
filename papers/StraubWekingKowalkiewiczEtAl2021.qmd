@@ -1,0 +1,48 @@
+---
+title: "Understanding Digital Transformation from a Holistic Perspective"
+author:
+- Straub, Felix
+- Weking, Jörg
+- Kowalkiewicz, Marek
+- Krcmar, Helmut
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2021/23"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{StraubWekingKowalkiewiczEtAl2021,
+  file       = {data/pdfs/2021/StraubWekingKowalkiewiczEtAl2021.pdf},
+  author     = {Straub, Felix and Weking, Jörg and Kowalkiewicz, Marek and Krcmar, Helmut},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Understanding Digital Transformation from a Holistic Perspective},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/23}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Straub, Felix
+AU  - Weking, Jörg
+AU  - Kowalkiewicz, Marek
+AU  - Krcmar, Helmut
+TI  - Understanding Digital Transformation from a Holistic Perspective
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/pacis2021/23
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2021/23>

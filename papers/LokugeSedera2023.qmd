@@ -1,0 +1,44 @@
+---
+title: "Developing a Framework for Restrained Innovation: IT-Outsourcing Context"
+author:
+- Lokuge, Sachithra
+- Sedera, Darshana
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2023/181"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LokugeSedera2023,
+  file       = {data/pdfs/2023/LokugeSedera2023.pdf},
+  author     = {Lokuge, Sachithra and Sedera, Darshana},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Developing a Framework for Restrained Innovation: IT-Outsourcing Context},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/pacis2023/181}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Lokuge, Sachithra
+AU  - Sedera, Darshana
+TI  - Developing a Framework for Restrained Innovation: IT-Outsourcing Context
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/pacis2023/181
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2023/181>

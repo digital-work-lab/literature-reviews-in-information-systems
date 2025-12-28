@@ -1,0 +1,52 @@
+---
+title: "ICT Application Types and Equality of E-Participation - A Systematic Literature Review"
+author:
+- Leible, Stephan
+- Ludzay, Max
+- Götz, Silke
+- Kaufmann, Teresa
+- Meyer-Lüters, Katharina
+- Tran, Mai Nhi
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2022/30"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LeibleLudzayGotzEtAl2022,
+  file       = {data/pdfs/2022/LeibleLudzayGotzEtAl2022.pdf},
+  author     = {Leible, Stephan and Ludzay, Max and Götz, Silke and Kaufmann, Teresa and Meyer-Lüters, Katharina and Tran, Mai Nhi},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {ICT Application Types and Equality of E-Participation - A Systematic Literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/pacis2022/30}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Leible, Stephan
+AU  - Ludzay, Max
+AU  - Götz, Silke
+AU  - Kaufmann, Teresa
+AU  - Meyer-Lüters, Katharina
+AU  - Tran, Mai Nhi
+TI  - ICT Application Types and Equality of E-Participation - A Systematic Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/pacis2022/30
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2022/30>

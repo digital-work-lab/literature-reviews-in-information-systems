@@ -1,0 +1,44 @@
+---
+title: "Toward a Dynamic Intellectual Property Protection Model in High-Growth SMEs"
+author:
+- Pitruzzello, Sam
+- Maynard, Sean
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2025/security/security/14"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{PitruzzelloMaynard2025,
+  file       = {data/pdfs/2025/PitruzzelloMaynard2025.pdf},
+  author     = {Pitruzzello, Sam and Maynard, Sean},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Toward a Dynamic Intellectual Property Protection Model in High-Growth SMEs},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/pacis2025/security/security/14}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Pitruzzello, Sam
+AU  - Maynard, Sean
+TI  - Toward a Dynamic Intellectual Property Protection Model in High-Growth SMEs
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/pacis2025/security/security/14
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2025/security/security/14>

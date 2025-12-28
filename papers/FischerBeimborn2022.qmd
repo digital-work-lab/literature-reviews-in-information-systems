@@ -1,0 +1,44 @@
+---
+title: "How Should Organizations Manage Artificial Intelligence? A Strategic Literature Review"
+author:
+- Fischer, Vanessa
+- Beimborn, Daniel
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2022/66"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{FischerBeimborn2022,
+  file       = {data/pdfs/2022/FischerBeimborn2022.pdf},
+  author     = {Fischer, Vanessa and Beimborn, Daniel},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {How Should Organizations Manage Artificial Intelligence? A Strategic Literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/pacis2022/66}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Fischer, Vanessa
+AU  - Beimborn, Daniel
+TI  - How Should Organizations Manage Artificial Intelligence? A Strategic Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/pacis2022/66
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2022/66>

@@ -1,0 +1,44 @@
+---
+title: "Governance of Social Media Platforms: A Literature Review"
+author:
+- Manish, A
+- Gupta, Sumeet
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2022/150"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ManishGupta2022,
+  file       = {data/pdfs/2022/ManishGupta2022.pdf},
+  author     = {Manish, A and Gupta, Sumeet},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Governance of Social Media Platforms: A Literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/pacis2022/150}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Manish, A
+AU  - Gupta, Sumeet
+TI  - Governance of Social Media Platforms: A Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/pacis2022/150
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2022/150>

@@ -1,0 +1,46 @@
+---
+title: "AI Recruiting and Workplace Diversity, Equity, and Inclusion: A Literature Analysis"
+author:
+- Gao, Grace Yuekun
+- Lyu, Jueni
+- Cheung, Christy M K
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2024/track08_digtech_fow/track08_digtech_fow/4"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GaoLyuCheung2024,
+  file       = {data/pdfs/2024/GaoLyuCheung2024.pdf},
+  author     = {Gao, Grace Yuekun and Lyu, Jueni and Cheung, Christy M K},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {AI Recruiting and Workplace Diversity, Equity, and Inclusion: A Literature Analysis},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/pacis2024/track08_digtech_fow/track08_digtech_fow/4}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Gao, Grace Yuekun
+AU  - Lyu, Jueni
+AU  - Cheung, Christy M K
+TI  - AI Recruiting and Workplace Diversity, Equity, and Inclusion: A Literature Analysis
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/pacis2024/track08_digtech_fow/track08_digtech_fow/4
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2024/track08_digtech_fow/track08_digtech_fow/4>

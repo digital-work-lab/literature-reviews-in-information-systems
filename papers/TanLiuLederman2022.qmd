@@ -1,0 +1,46 @@
+---
+title: "Systematic Literature Review of Digital Empowerment in the Context of Healthcare"
+author:
+- Tan, Dilang
+- Liu, Libo
+- Lederman, Reeva
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2022/147"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{TanLiuLederman2022,
+  file       = {data/pdfs/2022/TanLiuLederman2022.pdf},
+  author     = {Tan, Dilang and Liu, Libo and Lederman, Reeva},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Systematic Literature Review of Digital Empowerment in the Context of Healthcare},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/pacis2022/147}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Tan, Dilang
+AU  - Liu, Libo
+AU  - Lederman, Reeva
+TI  - Systematic Literature Review of Digital Empowerment in the Context of Healthcare
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/pacis2022/147
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2022/147>

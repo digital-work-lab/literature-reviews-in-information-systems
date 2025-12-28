@@ -1,0 +1,44 @@
+---
+title: "Social Media Attention, Investor Sentiment, and Cryptocurrency Prices: A Literature Review of Determinants and Modeling Approaches"
+author:
+- Gildehaus, Lars
+- Abramova, Olga
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2022/286"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GildehausAbramova2022,
+  file       = {data/pdfs/2022/GildehausAbramova2022.pdf},
+  author     = {Gildehaus, Lars and Abramova, Olga},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Social Media Attention, Investor Sentiment, and Cryptocurrency Prices: A Literature Review of Determinants and Modeling Approaches},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/pacis2022/286}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Gildehaus, Lars
+AU  - Abramova, Olga
+TI  - Social Media Attention, Investor Sentiment, and Cryptocurrency Prices: A Literature Review of Determinants and Modeling Approaches
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/pacis2022/286
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2022/286>

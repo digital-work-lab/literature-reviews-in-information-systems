@@ -1,0 +1,48 @@
+---
+title: "Spotlight on DeFi Centerpieces: Towards an Economic Perspective on Asset Tokenization Services"
+author:
+- Kölbel, Tobias
+- Lamberty, Ricky
+- Sterk, Felix
+- Weinhardt, Christof
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2022/94"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{KolbelLambertySterkEtAl2022,
+  file       = {data/pdfs/2022/KolbelLambertySterkEtAl2022.pdf},
+  author     = {Kölbel, Tobias and Lamberty, Ricky and Sterk, Felix and Weinhardt, Christof},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Spotlight on DeFi Centerpieces: Towards an Economic Perspective on Asset Tokenization Services},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/pacis2022/94}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Kölbel, Tobias
+AU  - Lamberty, Ricky
+AU  - Sterk, Felix
+AU  - Weinhardt, Christof
+TI  - Spotlight on DeFi Centerpieces: Towards an Economic Perspective on Asset Tokenization Services
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/pacis2022/94
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2022/94>

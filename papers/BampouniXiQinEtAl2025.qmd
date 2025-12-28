@@ -1,0 +1,48 @@
+---
+title: "Cognition in Multisensory Virtual Reality: A Systematic Literature Review"
+author:
+- Bampouni, Elpida
+- Xi, Nannan
+- Qin, Yingzhou
+- Hamari, Juho
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2025/emerg_tech/emerg_tech/10"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BampouniXiQinEtAl2025,
+  file       = {data/pdfs/2025/BampouniXiQinEtAl2025.pdf},
+  author     = {Bampouni, Elpida and Xi, Nannan and Qin, Yingzhou and Hamari, Juho},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Cognition in Multisensory Virtual Reality: A Systematic Literature Review},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/pacis2025/emerg_tech/emerg_tech/10}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Bampouni, Elpida
+AU  - Xi, Nannan
+AU  - Qin, Yingzhou
+AU  - Hamari, Juho
+TI  - Cognition in Multisensory Virtual Reality: A Systematic Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/pacis2025/emerg_tech/emerg_tech/10
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2025/emerg_tech/emerg_tech/10>

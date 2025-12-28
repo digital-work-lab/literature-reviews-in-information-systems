@@ -1,0 +1,46 @@
+---
+title: "Exploring Large Language Model-Based Mental Health Interventions: A Systematic Review with a Persuasive System Design Lense"
+author:
+- Giri, Sarthak
+- Kulasinghe, Kavinda
+- Oinas-Kukkonen, Harri
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2025/emerg_tech/emerg_tech/9"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GiriKulasingheOinasKukkonen2025,
+  file       = {data/pdfs/2025/GiriKulasingheOinasKukkonen2025.pdf},
+  author     = {Giri, Sarthak and Kulasinghe, Kavinda and Oinas-Kukkonen, Harri},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Exploring Large Language Model-Based Mental Health Interventions: A Systematic Review with a Persuasive System Design Lense},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/pacis2025/emerg_tech/emerg_tech/9}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Giri, Sarthak
+AU  - Kulasinghe, Kavinda
+AU  - Oinas-Kukkonen, Harri
+TI  - Exploring Large Language Model-Based Mental Health Interventions: A Systematic Review with a Persuasive System Design Lense
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/pacis2025/emerg_tech/emerg_tech/9
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2025/emerg_tech/emerg_tech/9>

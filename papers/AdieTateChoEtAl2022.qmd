@@ -1,0 +1,48 @@
+---
+title: "Digital Leaders and Digital Leadership: A Literature Review and Research Agenda"
+author:
+- Adie, Boniface Ushaka
+- Tate, Mary
+- Cho, Wonhyuk
+- Valentine, Elizabeth
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2022/115"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AdieTateChoEtAl2022,
+  file       = {data/pdfs/2022/AdieTateChoEtAl2022.pdf},
+  author     = {Adie, Boniface Ushaka and Tate, Mary and Cho, Wonhyuk and Valentine, Elizabeth},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Digital Leaders and Digital Leadership: A Literature Review and Research Agenda},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/pacis2022/115}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Adie, Boniface Ushaka
+AU  - Tate, Mary
+AU  - Cho, Wonhyuk
+AU  - Valentine, Elizabeth
+TI  - Digital Leaders and Digital Leadership: A Literature Review and Research Agenda
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/pacis2022/115
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2022/115>

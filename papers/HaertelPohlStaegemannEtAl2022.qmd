@@ -1,0 +1,48 @@
+---
+title: "Toward a Lifecycle for Data Science: A Literature Review of Data Science Process Models"
+author:
+- Haertel, Christian
+- Pohl, Matthias
+- Staegemann, Daniel
+- Turowski, Klaus
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2022/242"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HaertelPohlStaegemannEtAl2022,
+  file       = {data/pdfs/2022/HaertelPohlStaegemannEtAl2022.pdf},
+  author     = {Haertel, Christian and Pohl, Matthias and Staegemann, Daniel and Turowski, Klaus},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Toward a Lifecycle for Data Science: A Literature Review of Data Science Process Models},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/pacis2022/242}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Haertel, Christian
+AU  - Pohl, Matthias
+AU  - Staegemann, Daniel
+AU  - Turowski, Klaus
+TI  - Toward a Lifecycle for Data Science: A Literature Review of Data Science Process Models
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/pacis2022/242
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2022/242>

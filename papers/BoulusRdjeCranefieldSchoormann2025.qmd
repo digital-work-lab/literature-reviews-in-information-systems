@@ -1,0 +1,46 @@
+---
+title: "Gaming for Green: A Systematic Review of Digital Games Promoting Sustainable Household Beliefs and Behaviors"
+author:
+- Boulus-Rødje, Nina
+- Cranefield, Jocelyn
+- Schoormann, Thorsten
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2025/isresilience/isresilience/4"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{BoulusRdjeCranefieldSchoormann2025,
+  file       = {data/pdfs/2025/BoulusRdjeCranefieldSchoormann2025.pdf},
+  author     = {Boulus-Rødje, Nina and Cranefield, Jocelyn and Schoormann, Thorsten},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Gaming for Green: A Systematic Review of Digital Games Promoting Sustainable Household Beliefs and Behaviors},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/pacis2025/isresilience/isresilience/4}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Boulus-Rødje, Nina
+AU  - Cranefield, Jocelyn
+AU  - Schoormann, Thorsten
+TI  - Gaming for Green: A Systematic Review of Digital Games Promoting Sustainable Household Beliefs and Behaviors
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/pacis2025/isresilience/isresilience/4
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2025/isresilience/isresilience/4>

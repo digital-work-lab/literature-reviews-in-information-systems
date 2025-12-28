@@ -1,0 +1,46 @@
+---
+title: "Assessing Organizational Readiness for Data-driven Innovation: A Review of Literature"
+author:
+- Samarasinghe, Sasari Sanika Udanjala
+- Lokuge, Sachithra
+- Duan, Sophia Xiaoxia
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2023/101"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SamarasingheLokugeDuan2023,
+  file       = {data/pdfs/2023/SamarasingheLokugeDuan2023.pdf},
+  author     = {Samarasinghe, Sasari Sanika Udanjala and Lokuge, Sachithra and Duan, Sophia Xiaoxia},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Assessing Organizational Readiness for Data-driven Innovation: A Review of Literature},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/pacis2023/101}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Samarasinghe, Sasari Sanika Udanjala
+AU  - Lokuge, Sachithra
+AU  - Duan, Sophia Xiaoxia
+TI  - Assessing Organizational Readiness for Data-driven Innovation: A Review of Literature
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/pacis2023/101
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2023/101>

@@ -1,0 +1,46 @@
+---
+title: "Lessons from the Past - Rethinking the Use of Social Influence in Online Social Networks Research"
+author:
+- Chandrasekara, Dharshani
+- Gao, Caddie
+- Olivier, Patrick
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2021/124"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ChandrasekaraGaoOlivier2021,
+  file       = {data/pdfs/2021/ChandrasekaraGaoOlivier2021.pdf},
+  author     = {Chandrasekara, Dharshani and Gao, Caddie and Olivier, Patrick},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Lessons from the Past - Rethinking the Use of Social Influence in Online Social Networks Research},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/124}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Chandrasekara, Dharshani
+AU  - Gao, Caddie
+AU  - Olivier, Patrick
+TI  - Lessons from the Past - Rethinking the Use of Social Influence in Online Social Networks Research
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/pacis2021/124
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2021/124>

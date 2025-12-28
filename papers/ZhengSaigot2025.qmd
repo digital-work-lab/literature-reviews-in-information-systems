@@ -1,0 +1,44 @@
+---
+title: "Managing Work Stress in Digitalized Workplaces: A Scoping Review of Technology-enabled Coping"
+author:
+- Zheng, Qi
+- Saigot, Maylis
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2025/is_adoption/is_adoption/10"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ZhengSaigot2025,
+  file       = {data/pdfs/2025/ZhengSaigot2025.pdf},
+  author     = {Zheng, Qi and Saigot, Maylis},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Managing Work Stress in Digitalized Workplaces: A Scoping Review of Technology-enabled Coping},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/pacis2025/is_adoption/is_adoption/10}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Zheng, Qi
+AU  - Saigot, Maylis
+TI  - Managing Work Stress in Digitalized Workplaces: A Scoping Review of Technology-enabled Coping
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/pacis2025/is_adoption/is_adoption/10
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2025/is_adoption/is_adoption/10>

@@ -1,0 +1,46 @@
+---
+title: "Knowledge Graph Construction and Applications in E-Retailing - A Review of Literature"
+author:
+- Chiu, Billy
+- Kuen, Eric See-To Wing
+- Ngai, E. W. T.
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2021/244"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ChiuKuenNgai2021,
+  file       = {data/pdfs/2021/ChiuKuenNgai2021.pdf},
+  author     = {Chiu, Billy and Kuen, Eric See-To Wing and Ngai, E. W. T.},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Knowledge Graph Construction and Applications in E-Retailing - A Review of Literature},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/244}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Chiu, Billy
+AU  - Kuen, Eric See-To Wing
+AU  - Ngai, E. W. T.
+TI  - Knowledge Graph Construction and Applications in E-Retailing - A Review of Literature
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/pacis2021/244
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2021/244>

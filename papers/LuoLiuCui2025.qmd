@@ -1,0 +1,46 @@
+---
+title: "Identifying Digital Lead Users: A Systematic Review and Theoretical Framework"
+author:
+- Luo, Chen
+- Liu, Libo
+- Cui, Tingru
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2025/is_adoption/is_adoption/1"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{LuoLiuCui2025,
+  file       = {data/pdfs/2025/LuoLiuCui2025.pdf},
+  author     = {Luo, Chen and Liu, Libo and Cui, Tingru},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Identifying Digital Lead Users: A Systematic Review and Theoretical Framework},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/pacis2025/is_adoption/is_adoption/1}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Luo, Chen
+AU  - Liu, Libo
+AU  - Cui, Tingru
+TI  - Identifying Digital Lead Users: A Systematic Review and Theoretical Framework
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/pacis2025/is_adoption/is_adoption/1
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2025/is_adoption/is_adoption/1>

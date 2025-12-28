@@ -1,0 +1,46 @@
+---
+title: "Calling for Research into Digitalization of Voice Conversations in Organizational Meetings: A Literature Review"
+author:
+- Hefer, Laura
+- Gal, Uri
+- Hsu, Carol
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2023/182"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HeferGalHsu2023,
+  file       = {data/pdfs/2023/HeferGalHsu2023.pdf},
+  author     = {Hefer, Laura and Gal, Uri and Hsu, Carol},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Calling for Research into Digitalization of Voice Conversations in Organizational Meetings: A Literature Review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/pacis2023/182}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Hefer, Laura
+AU  - Gal, Uri
+AU  - Hsu, Carol
+TI  - Calling for Research into Digitalization of Voice Conversations in Organizational Meetings: A Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/pacis2023/182
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2023/182>

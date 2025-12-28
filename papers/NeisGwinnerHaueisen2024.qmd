@@ -1,0 +1,46 @@
+---
+title: "A Taxonomy of Artificial Intelligence for Process Mining enhancement"
+author:
+- Neis, Nicolas
+- Gwinner, Fabian
+- Haueisen, Carolin
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2024/track09_digittrans/track09_digittrans/10"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{NeisGwinnerHaueisen2024,
+  file       = {data/pdfs/2024/NeisGwinnerHaueisen2024.pdf},
+  author     = {Neis, Nicolas and Gwinner, Fabian and Haueisen, Carolin},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {A Taxonomy of Artificial Intelligence for Process Mining enhancement},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/pacis2024/track09_digittrans/track09_digittrans/10}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Neis, Nicolas
+AU  - Gwinner, Fabian
+AU  - Haueisen, Carolin
+TI  - A Taxonomy of Artificial Intelligence for Process Mining enhancement
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/pacis2024/track09_digittrans/track09_digittrans/10
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2024/track09_digittrans/track09_digittrans/10>

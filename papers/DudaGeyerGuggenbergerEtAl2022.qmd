@@ -1,0 +1,50 @@
+---
+title: "A Systematic Literature Review on How to Improve the Privacy of Artificial Intelligence Using Blockchain"
+author:
+- Duda, Sebastian
+- Geyer, Dorian
+- Guggenberger, Tobias
+- Principato, Marc
+- Protschky, Dominik
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2022/176"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{DudaGeyerGuggenbergerEtAl2022,
+  file       = {data/pdfs/2022/DudaGeyerGuggenbergerEtAl2022.pdf},
+  author     = {Duda, Sebastian and Geyer, Dorian and Guggenberger, Tobias and Principato, Marc and Protschky, Dominik},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {A Systematic Literature Review on How to Improve the Privacy of Artificial Intelligence Using Blockchain},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/pacis2022/176}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Duda, Sebastian
+AU  - Geyer, Dorian
+AU  - Guggenberger, Tobias
+AU  - Principato, Marc
+AU  - Protschky, Dominik
+TI  - A Systematic Literature Review on How to Improve the Privacy of Artificial Intelligence Using Blockchain
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/pacis2022/176
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2022/176>

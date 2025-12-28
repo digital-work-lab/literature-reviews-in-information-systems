@@ -1,0 +1,43 @@
+---
+title: "From Bias to Balance -A Systematic Literature Review on Gender Bias in AI"
+author:
+- Tronnier, Frédéric
+- Löbner, Sascha
+- Azanbayev, Alina
+- Lukas, Max
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: ""
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{TronnierLobnerAzanbayevEtAl2024,
+  file       = {data/pdfs/2024/TronnierLobnerAzanbayevEtAl2024.pdf},
+  author     = {Tronnier, Frédéric and Löbner, Sascha and Azanbayev, Alina and Lukas, Max},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {From Bias to Balance -A Systematic Literature Review on Gender Bias in AI},
+  year       = {2024}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Tronnier, Frédéric
+AU  - Löbner, Sascha
+AU  - Azanbayev, Alina
+AU  - Lukas, Max
+TI  - From Bias to Balance -A Systematic Literature Review on Gender Bias in AI
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2024
+ER  - 
+```

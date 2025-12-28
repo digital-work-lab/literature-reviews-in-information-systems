@@ -1,0 +1,44 @@
+---
+title: "The Benefits and Challenges of Technology Neutral Regulation - A Scoping Review"
+author:
+- Puhakainen, Essi
+- Väyrynen, Karin Elisabeth
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2021/48"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{PuhakainenVayrynen2021,
+  file       = {data/pdfs/2021/PuhakainenVayrynen2021.pdf},
+  author     = {Puhakainen, Essi and Väyrynen, Karin Elisabeth},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {The Benefits and Challenges of Technology Neutral Regulation - A Scoping Review},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/48}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Puhakainen, Essi
+AU  - Väyrynen, Karin Elisabeth
+TI  - The Benefits and Challenges of Technology Neutral Regulation - A Scoping Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/pacis2021/48
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2021/48>

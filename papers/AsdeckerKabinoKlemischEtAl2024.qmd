@@ -1,0 +1,48 @@
+---
+title: "Customized Preventive Returns Management: Socio-Demographic Factors and Their Influence on Return Behavior"
+author:
+- Asdecker, Björn
+- Kabino, Kara
+- Klemisch, Stefanie
+- Felch, Vanessa
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2024/track_10_ebus/track10_ebus/10"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{AsdeckerKabinoKlemischEtAl2024,
+  file       = {data/pdfs/2024/AsdeckerKabinoKlemischEtAl2024.pdf},
+  author     = {Asdecker, Björn and Kabino, Kara and Klemisch, Stefanie and Felch, Vanessa},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Customized Preventive Returns Management: Socio-Demographic Factors and Their Influence on Return Behavior},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/pacis2024/track_10_ebus/track10_ebus/10}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Asdecker, Björn
+AU  - Kabino, Kara
+AU  - Klemisch, Stefanie
+AU  - Felch, Vanessa
+TI  - Customized Preventive Returns Management: Socio-Demographic Factors and Their Influence on Return Behavior
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/pacis2024/track_10_ebus/track10_ebus/10
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2024/track_10_ebus/track10_ebus/10>

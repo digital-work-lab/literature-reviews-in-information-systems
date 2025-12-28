@@ -1,0 +1,46 @@
+---
+title: "Towards Enhanced E-Learning Within MOOCs: Exploring the Capabilities of Generative Artificial Intelligence"
+author:
+- Harr, Michael Dominic
+- Wienand, Mareen
+- Schütte, Reinhard
+topic: ""
+categories: []
+date: "2024"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2024/track14_educ/track14_educ/11"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HarrWienandSchutte2024,
+  file       = {data/pdfs/2024/HarrWienandSchutte2024.pdf},
+  author     = {Harr, Michael Dominic and Wienand, Mareen and Schütte, Reinhard},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Towards Enhanced E-Learning Within MOOCs: Exploring the Capabilities of Generative Artificial Intelligence},
+  year       = {2024},
+  url        = {https://aisel.aisnet.org/pacis2024/track14_educ/track14_educ/11}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Harr, Michael Dominic
+AU  - Wienand, Mareen
+AU  - Schütte, Reinhard
+TI  - Towards Enhanced E-Learning Within MOOCs: Exploring the Capabilities of Generative Artificial Intelligence
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2024
+UR  - https://aisel.aisnet.org/pacis2024/track14_educ/track14_educ/11
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2024/track14_educ/track14_educ/11>

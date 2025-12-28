@@ -1,0 +1,52 @@
+---
+title: "Technology support for cancer management of culturally and linguistically diverse communities: A systematic review"
+author:
+- Win, Khin Than
+- Xiemenes, Deolindo
+- Hu, Yinfeng
+- Xiao, Xinghang
+- Bandali, Amirreza
+- Sharma, Jainil
+topic: ""
+categories: []
+date: "2023"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2023/80"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{WinXiemenesHuEtAl2023,
+  file       = {data/pdfs/2023/WinXiemenesHuEtAl2023.pdf},
+  author     = {Win, Khin Than and Xiemenes, Deolindo and Hu, Yinfeng and Xiao, Xinghang and Bandali, Amirreza and Sharma, Jainil},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Technology support for cancer management of culturally and linguistically diverse communities: A systematic review},
+  year       = {2023},
+  url        = {https://aisel.aisnet.org/pacis2023/80}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Win, Khin Than
+AU  - Xiemenes, Deolindo
+AU  - Hu, Yinfeng
+AU  - Xiao, Xinghang
+AU  - Bandali, Amirreza
+AU  - Sharma, Jainil
+TI  - Technology support for cancer management of culturally and linguistically diverse communities: A systematic review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2023
+UR  - https://aisel.aisnet.org/pacis2023/80
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2023/80>

@@ -1,0 +1,46 @@
+---
+title: "Towards an Understanding of the Tensions between Data Privacy and Data Monetization"
+author:
+- Schwinghammer, Ronja
+- Neuburger, Rahild
+- Hess, Thomas
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2022/175"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SchwinghammerNeuburgerHess2022,
+  file       = {data/pdfs/2022/SchwinghammerNeuburgerHess2022.pdf},
+  author     = {Schwinghammer, Ronja and Neuburger, Rahild and Hess, Thomas},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Towards an Understanding of the Tensions between Data Privacy and Data Monetization},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/pacis2022/175}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Schwinghammer, Ronja
+AU  - Neuburger, Rahild
+AU  - Hess, Thomas
+TI  - Towards an Understanding of the Tensions between Data Privacy and Data Monetization
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/pacis2022/175
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2022/175>

@@ -1,0 +1,48 @@
+---
+title: "Insights on Patient-Generated Health Data in Healthcare: A Literature Review"
+author:
+- Reindl-Spanner, Philipp
+- Prommegger, Barbara
+- Gensichen, Jochen
+- Krcmar, Helmut
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2022/26"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{ReindlSpannerPrommeggerGensichenEtAl2022,
+  file       = {data/pdfs/2022/ReindlSpannerPrommeggerGensichenEtAl2022.pdf},
+  author     = {Reindl-Spanner, Philipp and Prommegger, Barbara and Gensichen, Jochen and Krcmar, Helmut},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Insights on Patient-Generated Health Data in Healthcare: A Literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/pacis2022/26}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Reindl-Spanner, Philipp
+AU  - Prommegger, Barbara
+AU  - Gensichen, Jochen
+AU  - Krcmar, Helmut
+TI  - Insights on Patient-Generated Health Data in Healthcare: A Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/pacis2022/26
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2022/26>

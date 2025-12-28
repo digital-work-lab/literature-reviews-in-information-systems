@@ -1,0 +1,44 @@
+---
+title: "Losing Balance? - A Review of Balanced Scorecards in IS Research"
+author:
+- Matthies, Benjamin
+- Coners, André
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2021/241"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MatthiesConers2021,
+  file       = {data/pdfs/2021/MatthiesConers2021.pdf},
+  author     = {Matthies, Benjamin and Coners, André},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Losing Balance? - A Review of Balanced Scorecards in IS Research},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/241}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Matthies, Benjamin
+AU  - Coners, André
+TI  - Losing Balance? - A Review of Balanced Scorecards in IS Research
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/pacis2021/241
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2021/241>

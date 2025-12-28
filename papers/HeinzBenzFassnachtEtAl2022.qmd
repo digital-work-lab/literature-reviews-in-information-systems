@@ -1,0 +1,47 @@
+---
+title: "Past, Present and Future of Data Ecosystems Research: A Systematic Literature Review"
+author:
+- Heinz, Daniel
+- Benz, Carina
+- Fassnacht, Marcel
+- Satzger, Gerhard
+topic: ""
+categories: []
+date: "2022"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2022/46"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{HeinzBenzFassnachtEtAl2022,
+  author     = {Heinz, Daniel and Benz, Carina and Fassnacht, Marcel and Satzger, Gerhard},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Past, Present and Future of Data Ecosystems Research: A Systematic Literature Review},
+  year       = {2022},
+  url        = {https://aisel.aisnet.org/pacis2022/46}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Heinz, Daniel
+AU  - Benz, Carina
+AU  - Fassnacht, Marcel
+AU  - Satzger, Gerhard
+TI  - Past, Present and Future of Data Ecosystems Research: A Systematic Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2022
+UR  - https://aisel.aisnet.org/pacis2022/46
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2022/46>

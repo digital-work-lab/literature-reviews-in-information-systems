@@ -1,0 +1,44 @@
+---
+title: "Facing Climate Change: A Literature Review on Crisis Apps for Warning and Engaging Citizens during Storm Surges"
+author:
+- Milutzki, Enrico
+- Borchers, Marten
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2025/iot_smartcity/iot_smartcity/6"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{MilutzkiBorchers2025,
+  file       = {data/pdfs/2025/MilutzkiBorchers2025.pdf},
+  author     = {Milutzki, Enrico and Borchers, Marten},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Facing Climate Change: A Literature Review on Crisis Apps for Warning and Engaging Citizens during Storm Surges},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/pacis2025/iot_smartcity/iot_smartcity/6}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Milutzki, Enrico
+AU  - Borchers, Marten
+TI  - Facing Climate Change: A Literature Review on Crisis Apps for Warning and Engaging Citizens during Storm Surges
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/pacis2025/iot_smartcity/iot_smartcity/6
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2025/iot_smartcity/iot_smartcity/6>

@@ -1,0 +1,44 @@
+---
+title: "Theories and Methods in Competency Model Development for Information Systems: A Systematic Literature Review"
+author:
+- Sattelmaier, Lana
+- Pawlowski, Jan M
+topic: ""
+categories: []
+date: "2025"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2025/general_topic/general_topic/10"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{SattelmaierPawlowski2025,
+  file       = {data/pdfs/2025/SattelmaierPawlowski2025.pdf},
+  author     = {Sattelmaier, Lana and Pawlowski, Jan M},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {Theories and Methods in Competency Model Development for Information Systems: A Systematic Literature Review},
+  year       = {2025},
+  url        = {https://aisel.aisnet.org/pacis2025/general_topic/general_topic/10}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Sattelmaier, Lana
+AU  - Pawlowski, Jan M
+TI  - Theories and Methods in Competency Model Development for Information Systems: A Systematic Literature Review
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2025
+UR  - https://aisel.aisnet.org/pacis2025/general_topic/general_topic/10
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2025/general_topic/general_topic/10>

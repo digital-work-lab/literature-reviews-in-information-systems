@@ -1,0 +1,48 @@
+---
+title: "A Structured Overview of Attacks on Blockchain Systems"
+author:
+- Guggenberger, Tobias
+- Schlatt, Vincent
+- Schmid, Jonathan
+- Urbach, Nils
+topic: ""
+categories: []
+date: "2021"
+doi: ""
+url: "https://aisel.aisnet.org/pacis2021/100"
+journal:
+  name: ""
+cited_by: 0
+outlet: "Pacific Asia Conference on Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@inproceedings{GuggenbergerSchlattSchmidEtAl2021,
+  file       = {data/pdfs/2021/GuggenbergerSchlattSchmidEtAl2021.pdf},
+  author     = {Guggenberger, Tobias and Schlatt, Vincent and Schmid, Jonathan and Urbach, Nils},
+  booktitle  = {Pacific Asia Conference on Information Systems},
+  title      = {A Structured Overview of Attacks on Blockchain Systems},
+  year       = {2021},
+  url        = {https://aisel.aisnet.org/pacis2021/100}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - CONF
+AU  - Guggenberger, Tobias
+AU  - Schlatt, Vincent
+AU  - Schmid, Jonathan
+AU  - Urbach, Nils
+TI  - A Structured Overview of Attacks on Blockchain Systems
+T2  - Pacific Asia Conference on Information Systems
+PY  - 2021
+UR  - https://aisel.aisnet.org/pacis2021/100
+ER  - 
+```
+## Links
+
+- URL: <https://aisel.aisnet.org/pacis2021/100>
