@@ -1,0 +1,55 @@
+---
+title: "Innovation research in information systems - A commentary on contemporary trends and issues"
+author:
+- Jha, Ashish Kumar
+- Bose, Indranil
+topic: ""
+categories: []
+date: "2015"
+doi: "https://doi.org/10.1016/J.IM.2015.10.007"
+url: "https://www.sciencedirect.com/science/article/pii/S0378720615001238"
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{JhaBose2016,
+  colrev_pdf_id = {cpid2:ffffffffffffffffc7f00fe1c6000021e6000021c0000003ffffffefc003ffe7c01fffffffffffffffffffffc3e00003c1e00003cfe00e03c3ffffffffffffffffffffffe3ff8003c0008003c0008003c0008003c0008003c0018003c0008003c0008003c0008003ffff8003e0038003e3ff8003ff7fffffffffffffffffffff},
+  file       = {data/pdfs/53_3/JhaBose2016.pdf},
+  doi        = {10.1016/J.IM.2015.10.007},
+  author     = {Jha, Ashish Kumar and Bose, Indranil},
+  journal    = {Information & Management},
+  title      = {Innovation research in information systems - A commentary on contemporary trends and issues},
+  year       = {2015},
+  volume     = {53},
+  number     = {3},
+  pages      = {297--306},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0378720615001238}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Jha, Ashish Kumar
+AU  - Bose, Indranil
+TI  - Innovation research in information systems - A commentary on contemporary trends and issues
+T2  - Information & Management
+PY  - 2015
+VL  - 53
+IS  - 3
+SP  - 297
+EP  - 306
+DO  - 10.1016/J.IM.2015.10.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720615001238
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.IM.2015.10.007>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0378720615001238>

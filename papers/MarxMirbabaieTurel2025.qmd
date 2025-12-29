@@ -1,0 +1,55 @@
+---
+title: "Digital detox: A theoretical framework and future research directions for Information Systems"
+author:
+- Marx, Julian
+- Mirbabaie, Milad
+- Turel, Ofir
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.1016/J.IM.2024.104068"
+url: "https://www.doi.org/10.1016/J.IM.2024.104068"
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{MarxMirbabaieTurel2025,
+  file       = {data/pdfs/62_1/Digital-detox--A-theoretical-framework-and-future-resear_2025_Information---.pdf},
+  doi        = {10.1016/J.IM.2024.104068},
+  author     = {Marx, Julian and Mirbabaie, Milad and Turel, Ofir},
+  journal    = {Information & Management},
+  title      = {Digital detox: A theoretical framework and future research directions for Information Systems},
+  year       = {2025},
+  volume     = {62},
+  number     = {1},
+  pages      = {104068},
+  url        = {https://www.doi.org/10.1016/J.IM.2024.104068}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Marx, Julian
+AU  - Mirbabaie, Milad
+AU  - Turel, Ofir
+TI  - Digital detox: A theoretical framework and future research directions for Information Systems
+T2  - Information & Management
+PY  - 2025
+VL  - 62
+IS  - 1
+SP  - 104068
+DO  - 10.1016/J.IM.2024.104068
+UR  - https://www.doi.org/10.1016/J.IM.2024.104068
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.IM.2024.104068>
+- URL: <https://www.doi.org/10.1016/J.IM.2024.104068>

@@ -1,0 +1,53 @@
+---
+title: "Perceived importance of information system success factors - A meta analysis of group differences"
+author:
+- Li, Eldon Y.
+topic: ""
+categories: []
+date: "1997"
+doi: "https://doi.org/10.1016/S0378-7206(97)00005-0"
+url: "https://www.sciencedirect.com/science/article/pii/S0378720697000050"
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{Li1997,
+  colrev_pdf_id = {cpid2:ffffffffffffffffc3ffff03c3ffff03e3ecff03fffffffffffe7ffff000001fff8001fffffc7fffffafffffefffffffe7ffffffc0000003c0000003c0000003c0000007e1e7ffffe7ffffffffffffffe3ff8003e0018003c0018007c0018003c0018003c0018407e0018003ffff8003c000ffffffffffffffffffffffffffff},
+  file       = {data/pdfs/32_1/Li1997.pdf},
+  doi        = {10.1016/S0378-7206(97)00005-0},
+  author     = {Li, Eldon Y.},
+  journal    = {Information & Management},
+  title      = {Perceived importance of information system success factors - A meta analysis of group differences},
+  year       = {1997},
+  volume     = {32},
+  number     = {1},
+  pages      = {15--28},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0378720697000050}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Li, Eldon Y.
+TI  - Perceived importance of information system success factors - A meta analysis of group differences
+T2  - Information & Management
+PY  - 1997
+VL  - 32
+IS  - 1
+SP  - 15
+EP  - 28
+DO  - 10.1016/S0378-7206(97)00005-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720697000050
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/S0378-7206(97)00005-0>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0378720697000050>

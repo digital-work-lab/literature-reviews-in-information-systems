@@ -1,0 +1,57 @@
+---
+title: "The dark side of crowdsourcing of complex tasks: A systematic literature review"
+author:
+- Manthé, Elodie
+- Mencarelli, Rémi
+- Pallud, Jessie
+- De- Guevara, Estellés-Arolas
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.1016/J.IM.2025.104108"
+url: "https://www.doi.org/10.1016/J.IM.2025.104108"
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{MantheMencarelliPalludEtAl2025,
+  file       = {data/pdfs/62_3/The-dark-side-of-crowdsourcing-of-complex-tasks--A-sys_2025_Information---Ma.pdf},
+  doi        = {10.1016/J.IM.2025.104108},
+  author     = {Manthé, Elodie and Mencarelli, Rémi and Pallud, Jessie and De- Guevara, Estellés-Arolas},
+  journal    = {Information & Management},
+  title      = {The dark side of crowdsourcing of complex tasks: A systematic literature review},
+  year       = {2025},
+  volume     = {62},
+  number     = {3},
+  pages      = {104108},
+  url        = {https://www.doi.org/10.1016/J.IM.2025.104108}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Manthé, Elodie
+AU  - Mencarelli, Rémi
+AU  - Pallud, Jessie
+AU  - De- Guevara, Estellés-Arolas
+TI  - The dark side of crowdsourcing of complex tasks: A systematic literature review
+T2  - Information & Management
+PY  - 2025
+VL  - 62
+IS  - 3
+SP  - 104108
+DO  - 10.1016/J.IM.2025.104108
+UR  - https://www.doi.org/10.1016/J.IM.2025.104108
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.IM.2025.104108>
+- URL: <https://www.doi.org/10.1016/J.IM.2025.104108>

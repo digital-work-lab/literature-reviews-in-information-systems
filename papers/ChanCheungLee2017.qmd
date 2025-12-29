@@ -1,0 +1,57 @@
+---
+title: "The state of online impulse-buying research - A literature analysis"
+author:
+- Chan, Tommy K. H.
+- Cheung, Christy M. K.
+- Lee, Zach W. Y.
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1016/J.IM.2016.06.001"
+url: "https://www.sciencedirect.com/science/article/pii/S037872061630057X"
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{ChanCheungLee2017,
+  colrev_pdf_id = {cpid1:ffffffffffffffffc07fffffe01ffffff83fffffe007ffffe007ffffe07fffffe01fffffe003ffffe003ffffe00fffffe0000007e0007fffe007ffffe00003ffe001ffffe07fffffffffffffffffffffffffffffffffffffffffffffffffffffe3ffffffe0000007f001ffffe00000ffe00081ffff0000ffffffffffffffffff},
+  file       = {data/pdfs/54_2/ChanCheungLee2016.pdf},
+  doi        = {10.1016/J.IM.2016.06.001},
+  author     = {Chan, Tommy K. H. and Cheung, Christy M. K. and Lee, Zach W. Y.},
+  journal    = {Information & Management},
+  title      = {The state of online impulse-buying research - A literature analysis},
+  year       = {2016},
+  volume     = {54},
+  number     = {2},
+  pages      = {204--217},
+  url        = {https://www.sciencedirect.com/science/article/pii/S037872061630057X}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Chan, Tommy K. H.
+AU  - Cheung, Christy M. K.
+AU  - Lee, Zach W. Y.
+TI  - The state of online impulse-buying research - A literature analysis
+T2  - Information & Management
+PY  - 2016
+VL  - 54
+IS  - 2
+SP  - 204
+EP  - 217
+DO  - 10.1016/J.IM.2016.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S037872061630057X
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.IM.2016.06.001>
+- URL: <https://www.sciencedirect.com/science/article/pii/S037872061630057X>

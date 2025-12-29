@@ -1,0 +1,56 @@
+---
+title: "Examining the state of empirical business intelligence and analytics research: A poly-theoretic approach"
+author:
+- Andoh-Baidoo, Francis Kofi
+- Chavarria, Juan A.
+- Jones, Mary C.
+- Wang, Ying
+- Takieddine, Samer
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1016/J.IM.2022.103677"
+url: ""
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{AndohBaidooChavarriaJonesEtAl2022,
+  file       = {data/pdfs/59_6/Examining-the-state-of-empirical-business-intelligence-an_2022_Information--.pdf},
+  doi        = {10.1016/J.IM.2022.103677},
+  author     = {Andoh-Baidoo, Francis Kofi and Chavarria, Juan A. and Jones, Mary C. and Wang, Ying and Takieddine, Samer},
+  journal    = {Information & Management},
+  title      = {Examining the state of empirical business intelligence and analytics research: A poly-theoretic approach},
+  year       = {2022},
+  volume     = {59},
+  number     = {6},
+  pages      = {103677}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Andoh-Baidoo, Francis Kofi
+AU  - Chavarria, Juan A.
+AU  - Jones, Mary C.
+AU  - Wang, Ying
+AU  - Takieddine, Samer
+TI  - Examining the state of empirical business intelligence and analytics research: A poly-theoretic approach
+T2  - Information & Management
+PY  - 2022
+VL  - 59
+IS  - 6
+SP  - 103677
+DO  - 10.1016/J.IM.2022.103677
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.IM.2022.103677>

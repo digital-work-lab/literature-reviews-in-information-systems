@@ -1,0 +1,53 @@
+---
+title: "The property of being causal – The conduct of qualitative comparative analysis in information systems research"
+author:
+- Anton, Eduard
+- Oesterreich, Thuy Duong
+- Teuteberg, Frank
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1016/J.IM.2022.103619"
+url: ""
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{AntonOesterreichTeuteberg2022,
+  file       = {data/pdfs/59_3/The-property-of-being-causal---The-conduct-of-qualitative-_2022_Information-.pdf},
+  doi        = {10.1016/J.IM.2022.103619},
+  author     = {Anton, Eduard and Oesterreich, Thuy Duong and Teuteberg, Frank},
+  journal    = {Information & Management},
+  title      = {The property of being causal – The conduct of qualitative comparative analysis in information systems research},
+  year       = {2022},
+  volume     = {59},
+  number     = {3},
+  pages      = {103619},
+  dblp_key   = {https://dblp.org/rec/journals/iam/AntonOT22}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Anton, Eduard
+AU  - Oesterreich, Thuy Duong
+AU  - Teuteberg, Frank
+TI  - The property of being causal – The conduct of qualitative comparative analysis in information systems research
+T2  - Information & Management
+PY  - 2022
+VL  - 59
+IS  - 3
+SP  - 103619
+DO  - 10.1016/J.IM.2022.103619
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.IM.2022.103619>

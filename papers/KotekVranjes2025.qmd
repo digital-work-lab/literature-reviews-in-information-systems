@@ -1,0 +1,52 @@
+---
+title: "When do Employees Perceive Technology as Stressful? A Meta-Analysis of work-related Technostress Antecedents"
+author:
+- Kotek, Magdalena
+- Vranjes, Ivana
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.1016/J.IM.2025.104203"
+url: "https://www.doi.org/10.1016/J.IM.2025.104203"
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{KotekVranjes2025,
+  doi        = {10.1016/J.IM.2025.104203},
+  author     = {Kotek, Magdalena and Vranjes, Ivana},
+  journal    = {Information & Management},
+  title      = {When do Employees Perceive Technology as Stressful? A Meta-Analysis of work-related Technostress Antecedents},
+  year       = {2025},
+  volume     = {62},
+  number     = {8},
+  pages      = {104203},
+  url        = {https://www.doi.org/10.1016/J.IM.2025.104203}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Kotek, Magdalena
+AU  - Vranjes, Ivana
+TI  - When do Employees Perceive Technology as Stressful? A Meta-Analysis of work-related Technostress Antecedents
+T2  - Information & Management
+PY  - 2025
+VL  - 62
+IS  - 8
+SP  - 104203
+DO  - 10.1016/J.IM.2025.104203
+UR  - https://www.doi.org/10.1016/J.IM.2025.104203
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.IM.2025.104203>
+- URL: <https://www.doi.org/10.1016/J.IM.2025.104203>

@@ -1,0 +1,57 @@
+---
+title: "Alignment's nomological network - Theory and evaluation"
+author:
+- Gerow, Jennifer E.
+- Grover, Varun
+- Thatcher, Jason Bennett
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1016/J.IM.2015.12.006"
+url: "https://www.sciencedirect.com/science/article/pii/S0378720615001457"
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{GerowGroverThatcher2016,
+  colrev_pdf_id = {cpid2:ffffffffffffffffc7f00fe1c6000021e6000021c0000003ffffffffc0007fe7c03fffffffffffffffffffffc1e00003e9e00003c3e00403c7ffffffffffffffe7ffc003e0018003c0008003c0008003c0008003c0008003c0008003c0008003c0008003c0008003c0ff8003ffff8003e03f82ffffffffffffffffffffffffff},
+  file       = {data/pdfs/53_5/GerowGroverThatcher2016.pdf},
+  doi        = {10.1016/J.IM.2015.12.006},
+  author     = {Gerow, Jennifer E. and Grover, Varun and Thatcher, Jason Bennett},
+  journal    = {Information & Management},
+  title      = {Alignment's nomological network - Theory and evaluation},
+  year       = {2016},
+  volume     = {53},
+  number     = {5},
+  pages      = {541--553},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0378720615001457}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Gerow, Jennifer E.
+AU  - Grover, Varun
+AU  - Thatcher, Jason Bennett
+TI  - Alignment's nomological network - Theory and evaluation
+T2  - Information & Management
+PY  - 2016
+VL  - 53
+IS  - 5
+SP  - 541
+EP  - 553
+DO  - 10.1016/J.IM.2015.12.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720615001457
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.IM.2015.12.006>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0378720615001457>

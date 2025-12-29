@@ -1,0 +1,55 @@
+---
+title: "The attitude cube - A three-dimensional model of situational factors in IS adoption and their impact on the attitude-behavior relationship"
+author:
+- Kroenung, Julia
+- Eckhardt, Andreas
+topic: ""
+categories: []
+date: "2015"
+doi: "https://doi.org/10.1016/J.IM.2015.05.002"
+url: "https://www.sciencedirect.com/science/article/pii/S0378720615000403"
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{KroenungEckhardt2015,
+  colrev_pdf_id = {cpid2:ffffffffffffffffc7f00fe1c6000021c2000021c0000003ffffffefc0000027c30fffffe03fffffffffffffeff3ffffc3e00003efe00003cfe00003e7e00003ffe00003ffe00003ffe00003ffffffffffffffffe3ff8003c0008003c0008003c0008003c0008003fdef8003efff8003e07f8003ef7fffffffffffffffffffff},
+  file       = {data/pdfs/52_6/KroenungEckhardt2015.pdf},
+  doi        = {10.1016/J.IM.2015.05.002},
+  author     = {Kroenung, Julia and Eckhardt, Andreas},
+  journal    = {Information & Management},
+  title      = {The attitude cube - A three-dimensional model of situational factors in IS adoption and their impact on the attitude-behavior relationship},
+  year       = {2015},
+  volume     = {52},
+  number     = {6},
+  pages      = {611--627},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0378720615000403}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Kroenung, Julia
+AU  - Eckhardt, Andreas
+TI  - The attitude cube - A three-dimensional model of situational factors in IS adoption and their impact on the attitude-behavior relationship
+T2  - Information & Management
+PY  - 2015
+VL  - 52
+IS  - 6
+SP  - 611
+EP  - 627
+DO  - 10.1016/J.IM.2015.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720615000403
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.IM.2015.05.002>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0378720615000403>

@@ -1,0 +1,56 @@
+---
+title: "Impulse buying in live streaming commerce: A literature review and research agenda"
+author:
+- Lee, Zach W.Y.
+- Liu, White Z.H.
+- Chan, Tommy K.H.
+- Wei, Gwen G.Z.
+topic: ""
+categories: []
+date: "2025"
+doi: "https://doi.org/10.1016/J.IM.2025.104220"
+url: "https://www.doi.org/10.1016/J.IM.2025.104220"
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{LeeLiuChanEtAl2025,
+  doi        = {10.1016/J.IM.2025.104220},
+  author     = {Lee, Zach W.Y. and Liu, White Z.H. and Chan, Tommy K.H. and Wei, Gwen G.Z.},
+  journal    = {Information & Management},
+  title      = {Impulse buying in live streaming commerce: A literature review and research agenda},
+  year       = {2025},
+  volume     = {62},
+  number     = {8},
+  pages      = {104220},
+  url        = {https://www.doi.org/10.1016/J.IM.2025.104220}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Lee, Zach W.Y.
+AU  - Liu, White Z.H.
+AU  - Chan, Tommy K.H.
+AU  - Wei, Gwen G.Z.
+TI  - Impulse buying in live streaming commerce: A literature review and research agenda
+T2  - Information & Management
+PY  - 2025
+VL  - 62
+IS  - 8
+SP  - 104220
+DO  - 10.1016/J.IM.2025.104220
+UR  - https://www.doi.org/10.1016/J.IM.2025.104220
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.IM.2025.104220>
+- URL: <https://www.doi.org/10.1016/J.IM.2025.104220>

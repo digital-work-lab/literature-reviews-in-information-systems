@@ -1,0 +1,54 @@
+---
+title: "Toward a refined conceptualization of IS discontinuance - Reflection on the past and a way forward"
+author:
+- Soliman, Wael
+- Rinta-Kahila, Tapani
+topic: ""
+categories: []
+date: "2020"
+doi: "https://doi.org/10.1016/J.IM.2019.05.002"
+url: "https://www.sciencedirect.com/science/article/pii/S0378720618303793"
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{SolimanRintaKahila2020,
+  colrev_pdf_id = {cpid2:ffffffffffffffffc7f00fe3c4000023c4000033c0000003fffffbffc03fffe7c61fffffc0003fffffffffffdfe00013cfe00003ffe00003ffffffffffffff2fe0010003c00180e7c0018003c0010003c0018003c0018003c0010003c0010003c0010003c0000003fdbfeff7efffffffe2ffffffc0007fffc03fffffffffffff},
+  file       = {data/pdfs/57_2/SolimanRintaKahila2020.pdf},
+  doi        = {10.1016/J.IM.2019.05.002},
+  author     = {Soliman, Wael and Rinta-Kahila, Tapani},
+  journal    = {Information & Management},
+  title      = {Toward a refined conceptualization of IS discontinuance - Reflection on the past and a way forward},
+  year       = {2020},
+  volume     = {57},
+  number     = {2},
+  pages      = {103167},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0378720618303793}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Soliman, Wael
+AU  - Rinta-Kahila, Tapani
+TI  - Toward a refined conceptualization of IS discontinuance - Reflection on the past and a way forward
+T2  - Information & Management
+PY  - 2020
+VL  - 57
+IS  - 2
+SP  - 103167
+DO  - 10.1016/J.IM.2019.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720618303793
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.IM.2019.05.002>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0378720618303793>

@@ -1,0 +1,58 @@
+---
+title: "Factors influencing effective use of big data - A research framework"
+author:
+- Surbakti, Feliks P. Sejahtera
+- Wang, Wei
+- Indulska, Marta
+- Sadiq, Shazia W.
+topic: ""
+categories: []
+date: "2020"
+doi: "https://doi.org/10.1016/J.IM.2019.02.001"
+url: "https://www.sciencedirect.com/science/article/pii/S0378720617308649"
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{SurbaktiWangIndulskaEtAl2020,
+  colrev_pdf_id = {cpid2:ffffffffffffffffc7f00fc3c4000023c4000033c0000003fbbfffffc00003e7c0000fffe10bffffffffffffcfe00003cfe00003ffe00003ffe00003ffe00003ffe00003ffffffffffffffffe1030003c0010003c0010003c0018003c0000003c0110003c0018003ffffffffc7afffffe6ffffffc01fffffffffffffffffffff},
+  file       = {data/pdfs/57_1/SurbaktiWangIndulskaEtAl2020.pdf},
+  doi        = {10.1016/J.IM.2019.02.001},
+  author     = {Surbakti, Feliks P. Sejahtera and Wang, Wei and Indulska, Marta and Sadiq, Shazia W.},
+  journal    = {Information & Management},
+  title      = {Factors influencing effective use of big data - A research framework},
+  year       = {2020},
+  volume     = {57},
+  number     = {1},
+  pages      = {103146},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0378720617308649}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Surbakti, Feliks P. Sejahtera
+AU  - Wang, Wei
+AU  - Indulska, Marta
+AU  - Sadiq, Shazia W.
+TI  - Factors influencing effective use of big data - A research framework
+T2  - Information & Management
+PY  - 2020
+VL  - 57
+IS  - 1
+SP  - 103146
+DO  - 10.1016/J.IM.2019.02.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720617308649
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.IM.2019.02.001>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0378720617308649>

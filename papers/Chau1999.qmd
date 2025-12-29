@@ -1,0 +1,53 @@
+---
+title: "On the use of construct reliability in MIS research - a meta-analysis"
+author:
+- Chau, Patrick Y. K.
+topic: ""
+categories: []
+date: "1999"
+doi: "https://doi.org/10.1016/S0378-7206(98)00089-5"
+url: "https://www.sciencedirect.com/science/article/pii/S0378720698000895"
+journal:
+  name: "Information & Management"
+cited_by: 0
+outlet: "Information & Management"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{Chau1999,
+  colrev_pdf_id = {cpid2:ffffffffffffffffe7ffffefc3ffff07e3ffff07ffe9bf07ffffffffeff81f4fe000020ffff83fffffc007ffffffffffffffffffcfffffffc0000007c0000007c0000007c0000007c0000007f983ffffe3ffffffe3ff0007e0010007c0010007c0010007c0018017e7ff0007e0010007c0010007c0ffffffffffffffffffffff},
+  file       = {data/pdfs/35_4/Chau1999.pdf},
+  doi        = {10.1016/S0378-7206(98)00089-5},
+  author     = {Chau, Patrick Y. K.},
+  journal    = {Information & Management},
+  title      = {On the use of construct reliability in MIS research - a meta-analysis},
+  year       = {1999},
+  volume     = {35},
+  number     = {4},
+  pages      = {217--227},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0378720698000895}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Chau, Patrick Y. K.
+TI  - On the use of construct reliability in MIS research - a meta-analysis
+T2  - Information & Management
+PY  - 1999
+VL  - 35
+IS  - 4
+SP  - 217
+EP  - 227
+DO  - 10.1016/S0378-7206(98)00089-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720698000895
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/S0378-7206(98)00089-5>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0378720698000895>
