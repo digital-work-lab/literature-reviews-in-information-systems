@@ -1,0 +1,55 @@
+---
+title: "Eight key issues for the decision support systems discipline"
+author:
+- Arnott, David
+- Pervan, Graham
+topic: ""
+categories: []
+date: "2008"
+doi: "https://doi.org/10.1016/J.DSS.2007.09.003"
+url: "https://www.sciencedirect.com/science/article/pii/S0167923607001698"
+journal:
+  name: "Decision Support Systems"
+cited_by: 0
+outlet: "Decision Support Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{ArnottPervan2008,
+  colrev_pdf_id = {cpid2:ffffffffffffffffc3c01f03c7f81f87c3ffff03ffffffffe000000ff7e007ffffe107ffff0000fffff01fffffffffffefffffffc0000003c0000003c0000003c0000003c00401fff37fffdfffffffffe3ff92efe0150003c0010003c0010003c0018003c0018007fee1a547c00d8003e009807fc0ffffffffffffffffffffff},
+  file       = {data/pdfs/44_3/ArnottPervan2008.pdf},
+  doi        = {10.1016/J.DSS.2007.09.003},
+  author     = {Arnott, David and Pervan, Graham},
+  journal    = {Decision Support Systems},
+  title      = {Eight key issues for the decision support systems discipline},
+  year       = {2008},
+  volume     = {44},
+  number     = {3},
+  pages      = {657--672},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0167923607001698}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Arnott, David
+AU  - Pervan, Graham
+TI  - Eight key issues for the decision support systems discipline
+T2  - Decision Support Systems
+PY  - 2008
+VL  - 44
+IS  - 3
+SP  - 657
+EP  - 672
+DO  - 10.1016/J.DSS.2007.09.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0167923607001698
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.DSS.2007.09.003>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0167923607001698>

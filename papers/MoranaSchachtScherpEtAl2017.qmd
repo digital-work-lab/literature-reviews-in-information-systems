@@ -1,0 +1,57 @@
+---
+title: "A review of the nature and effects of guidance design features"
+author:
+- Morana, Stefan
+- Schacht, Silvia
+- Scherp, Ansgar
+- Maedche, Alexander
+topic: ""
+categories: []
+date: "2017"
+doi: "https://doi.org/10.1016/J.DSS.2017.03.003"
+url: "https://www.sciencedirect.com/science/article/pii/S016792361730043X"
+journal:
+  name: "Decision Support Systems"
+cited_by: 0
+outlet: "Decision Support Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{MoranaSchachtScherpEtAl2017,
+  colrev_pdf_id = {cpid2:ffffffffffffffffc3f80fffc2000023c2000023c0000003ffffffe7fffcdfe7c2200fffe0007fffffffffffc7e00003c3e00003cfe00003c7e00003cfe00003ffffffffe7ffffffe1fd8003c0008003c0008003c0008003c0008003c0008003c0008003c0008003effd8003e3ff8003efff8003ffffffffffffffffffffffff},
+  file       = {data/pdfs/97/MoranaSchachtScherpEtAl2017.pdf},
+  doi        = {10.1016/J.DSS.2017.03.003},
+  author     = {Morana, Stefan and Schacht, Silvia and Scherp, Ansgar and Maedche, Alexander},
+  journal    = {Decision Support Systems},
+  title      = {A review of the nature and effects of guidance design features},
+  year       = {2017},
+  volume     = {97},
+  pages      = {31--42},
+  url        = {https://www.sciencedirect.com/science/article/pii/S016792361730043X}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Morana, Stefan
+AU  - Schacht, Silvia
+AU  - Scherp, Ansgar
+AU  - Maedche, Alexander
+TI  - A review of the nature and effects of guidance design features
+T2  - Decision Support Systems
+PY  - 2017
+VL  - 97
+SP  - 31
+EP  - 42
+DO  - 10.1016/J.DSS.2017.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S016792361730043X
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.DSS.2017.03.003>
+- URL: <https://www.sciencedirect.com/science/article/pii/S016792361730043X>

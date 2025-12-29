@@ -1,0 +1,61 @@
+---
+title: "Cloud computing research in the IS discipline: A citation/co-citation analysis"
+author:
+- Wang, Nianxin
+- Liang, Huigang
+- Jia, Yu
+- Ge, Shilun
+- Xue, Yajiong
+- Wang, Zhining
+topic: ""
+categories: []
+date: "2016"
+doi: "https://doi.org/10.1016/J.DSS.2016.03.006"
+url: "https://www.sciencedirect.com/science/article/pii/S0167923616300409"
+journal:
+  name: "Decision Support Systems"
+cited_by: 0
+outlet: "Decision Support Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{WangLiangJiaEtAl2016,
+  colrev_pdf_id = {cpid2:ffffffffffffffffc3f80fffc2000023c2000023c0000003ffffffefc07fffe7e27df8ffc007ffffffffffffffffffffc3e00003c3e00003c7e00003c7e00003ffffffffffffffffe3ff8003c0008003c0008003c0008003c0008003c0008003c0008003c0008003e03f8003e03f8003feff8003ffffffffffffffffffffffff},
+  file       = {data/pdfs/86/WangLiangJiaEtAl2016.pdf},
+  doi        = {10.1016/J.DSS.2016.03.006},
+  author     = {Wang, Nianxin and Liang, Huigang and Jia, Yu and Ge, Shilun and Xue, Yajiong and Wang, Zhining},
+  journal    = {Decision Support Systems},
+  title      = {Cloud computing research in the IS discipline: A citation/co-citation analysis},
+  year       = {2016},
+  volume     = {86},
+  pages      = {35--47},
+  url        = {https://www.sciencedirect.com/science/article/pii/S0167923616300409}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Wang, Nianxin
+AU  - Liang, Huigang
+AU  - Jia, Yu
+AU  - Ge, Shilun
+AU  - Xue, Yajiong
+AU  - Wang, Zhining
+TI  - Cloud computing research in the IS discipline: A citation/co-citation analysis
+T2  - Decision Support Systems
+PY  - 2016
+VL  - 86
+SP  - 35
+EP  - 47
+DO  - 10.1016/J.DSS.2016.03.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0167923616300409
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1016/J.DSS.2016.03.006>
+- URL: <https://www.sciencedirect.com/science/article/pii/S0167923616300409>
