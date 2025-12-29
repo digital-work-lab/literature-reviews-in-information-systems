@@ -243,6 +243,109 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Toward multilevel research on private information disclosure: A systematic review and future agenda</title>
+  <dc:creator>Zhang, Mingxin</dc:creator>
+  <dc:creator>Lederman, Reeva</dc:creator>
+  <dc:creator>Turel, Ofir</dc:creator>
+  <link>http://0.0.0.0:4200/papers/ZhangLedermanTurel2025.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="citation-bibtex" class="level2">
+
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">ZhangLedermanTurel2025</span>,</span>
+<span id="cb1-2">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">doi</span>        = {10.1016/J.IM.2025.104201},</span>
+<span id="cb1-3">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">author</span>     = {Zhang, Mingxin and Lederman, Reeva and Turel, Ofir},</span>
+<span id="cb1-4">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">journal</span>    = {Information &amp; Management},</span>
+<span id="cb1-5">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">title</span>      = {Toward multilevel research on private information disclosure: A systematic review and future agenda},</span>
+<span id="cb1-6">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">year</span>       = {2025},</span>
+<span id="cb1-7">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">volume</span>     = {62},</span>
+<span id="cb1-8">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">number</span>     = {7},</span>
+<span id="cb1-9">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">pages</span>      = {104201},</span>
+<span id="cb1-10">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">url</span>        = {https://www.doi.org/10.1016/J.IM.2025.104201}</span>
+<span id="cb1-11">}</span></code></pre></div></div>
+</section>
+<section id="citation-ris" class="level2">
+<h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TY  - JOUR</span></span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Zhang, Mingxin</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Lederman, Reeva</span></span>
+<span id="cb2-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">AU  - Turel, Ofir</span></span>
+<span id="cb2-5"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">TI  - Toward multilevel research on private information disclosure: A systematic review and future agenda</span></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">T2  - Information &amp; Management</span></span>
+<span id="cb2-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">PY  - 2025</span></span>
+<span id="cb2-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">VL  - 62</span></span>
+<span id="cb2-9"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">IS  - 7</span></span>
+<span id="cb2-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">SP  - 104201</span></span>
+<span id="cb2-11"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">DO  - 10.1016/J.IM.2025.104201</span></span>
+<span id="cb2-12"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">UR  - https://www.doi.org/10.1016/J.IM.2025.104201</span></span>
+<span id="cb2-13"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">ER  - </span></span></code></pre></div></div>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<ul>
+<li>DOI: <a href="https://doi.org/10.1016/J.IM.2025.104201" class="uri">https://doi.org/10.1016/J.IM.2025.104201</a></li>
+<li>URL: <a href="https://www.doi.org/10.1016/J.IM.2025.104201" class="uri">https://www.doi.org/10.1016/J.IM.2025.104201</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <guid>http://0.0.0.0:4200/papers/ZhangLedermanTurel2025.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>A labour perspective on videoconferencing fatigue: Critical review and reframing</title>
   <dc:creator>Wang, Blair</dc:creator>
   <dc:creator>Prester, Julian</dc:creator>
@@ -749,83 +852,6 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
  ]]></description>
   <guid>http://0.0.0.0:4200/papers/ElsholzPhamKorbelEtAl2025.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Artificial intelligence in digital service ecosystems -a taxonomy approach</title>
-  <dc:creator>Hansmeier, Philipp</dc:creator>
-  <dc:creator>Schäfer, Jannika Marie</dc:creator>
-  <link>http://0.0.0.0:4200/papers/HansmeierSchafer2025.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="citation-bibtex" class="level2">
-
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
-background-color: null;
-font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">HansmeierSchafer2025</span>,</span>
-<span id="cb1-2">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">file</span>       = {data/pdfs/2025/Intelligent Service Ecosystems/HansmeierSchafer2025.pdf},</span>
-<span id="cb1-3">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">author</span>     = {Hansmeier, Philipp and Schäfer, Jannika Marie},</span>
-<span id="cb1-4">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">booktitle</span>  = {European Conference on Information Systems},</span>
-<span id="cb1-5">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">title</span>      = {Artificial intelligence in digital service ecosystems -a taxonomy approach},</span>
-<span id="cb1-6">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">year</span>       = {2025},</span>
-<span id="cb1-7">  <span class="dt" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">url</span>        = {https://aisel.aisnet.org/ecis2025/intelserv/intelserv/2}</span>
-<span id="cb1-8">}</span></code></pre></div></div>
-</section>
-<section id="citation-ris" class="level2">
-<h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - CONF</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Hansmeier, Philipp</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Schäfer, Jannika Marie</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - Artificial intelligence in digital service ecosystems -a taxonomy approach</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - European Conference on Information Systems</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">UR  - https://aisel.aisnet.org/ecis2025/intelserv/intelserv/2</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<ul>
-<li>URL: <a href="https://aisel.aisnet.org/ecis2025/intelserv/intelserv/2" class="uri">https://aisel.aisnet.org/ecis2025/intelserv/intelserv/2</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <guid>http://0.0.0.0:4200/papers/HansmeierSchafer2025.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
