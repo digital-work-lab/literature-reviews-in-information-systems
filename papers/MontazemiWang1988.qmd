@@ -1,0 +1,55 @@
+---
+title: "The Effects of Modes of Information Presentation on Decision-Making: A Review and Meta-Analysis"
+author:
+- Montazemi, A. R.
+- Wang, S.
+topic: ""
+categories: []
+date: "1988"
+doi: "https://doi.org/10.1080/07421222.1988.11517835"
+url: "https://www.tandfonline.com/doi/abs/10.1080/07421222.1988.11517835"
+journal:
+  name: "Journal of Management Information Systems"
+cited_by: 0
+outlet: "Journal of Management Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{MontazemiWang1988,
+  colrev_pdf_id = {cpid2:7ffffe207ffffffe7fffffff7fffffff7fffffff7800007e780001fe780007ff7fffffff7fffffff7e05fffe7fffffff7fffffff7800001e7800001e7800001f7800001e780dfb3f7800001f7800001f7803d01e7800001e7800001e7800001e7800001e7800001e7ed008be7ffffffe7827fc3e7ffffffeffffffff003fffff},
+  file       = {data/pdfs/5_3/MontazemiWang1988.pdf},
+  doi        = {10.1080/07421222.1988.11517835},
+  author     = {Montazemi, A. R. and Wang, S.},
+  journal    = {Journal of Management Information Systems},
+  title      = {The Effects of Modes of Information Presentation on Decision-Making: A Review and Meta-Analysis},
+  year       = {1988},
+  volume     = {5},
+  number     = {3},
+  pages      = {101--127},
+  url        = {https://www.tandfonline.com/doi/abs/10.1080/07421222.1988.11517835}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Montazemi, A. R.
+AU  - Wang, S.
+TI  - The Effects of Modes of Information Presentation on Decision-Making: A Review and Meta-Analysis
+T2  - Journal of Management Information Systems
+PY  - 1988
+VL  - 5
+IS  - 3
+SP  - 101
+EP  - 127
+DO  - 10.1080/07421222.1988.11517835
+UR  - https://www.tandfonline.com/doi/abs/10.1080/07421222.1988.11517835
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1080/07421222.1988.11517835>
+- URL: <https://www.tandfonline.com/doi/abs/10.1080/07421222.1988.11517835>

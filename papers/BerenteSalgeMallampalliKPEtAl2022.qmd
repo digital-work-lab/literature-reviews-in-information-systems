@@ -1,0 +1,59 @@
+---
+title: "Rethinking Project Escalation: An Institutional Perspective on the Persistence of Failing Large-Scale Information System Projects"
+author:
+- Berente, Nicholas
+- Salge, Carolina Alves de Lima
+- Mallampalli, Venkata K.P.
+- Park, Ken
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.1080/07421222.2022.2096545"
+url: "https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096545"
+journal:
+  name: "Journal of Management Information Systems"
+cited_by: 0
+outlet: "Journal of Management Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{BerenteSalgeMallampalliKPEtAl2022,
+  colrev_pdf_id = {cpid2:fffffffffffffffff007fc0fffffff0ff091c00ff000003ff1fffffff0ffbffff000000ff000003ff1fffe7ff000003ff000001ff00003fff00003fff00003fff00003fff00003fffffefffff1fffffff0a99a2ff000000ff000000ff000000ff000000ff000000ff000000ff00008fff000000ff17fffffffffffffffffffff},
+  file       = {data/pdfs/39_3/BerenteSalgeMallampalliKPEtAl2022.pdf},
+  doi        = {10.1080/07421222.2022.2096545},
+  author     = {Berente, Nicholas and Salge, Carolina Alves de Lima and Mallampalli, Venkata K.P. and Park, Ken},
+  journal    = {Journal of Management Information Systems},
+  title      = {Rethinking Project Escalation: An Institutional Perspective on the Persistence of Failing Large-Scale Information System Projects},
+  year       = {2022},
+  volume     = {39},
+  number     = {3},
+  pages      = {640--672},
+  url        = {https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096545}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Berente, Nicholas
+AU  - Salge, Carolina Alves de Lima
+AU  - Mallampalli, Venkata K.P.
+AU  - Park, Ken
+TI  - Rethinking Project Escalation: An Institutional Perspective on the Persistence of Failing Large-Scale Information System Projects
+T2  - Journal of Management Information Systems
+PY  - 2022
+VL  - 39
+IS  - 3
+SP  - 640
+EP  - 672
+DO  - 10.1080/07421222.2022.2096545
+UR  - https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096545
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.1080/07421222.2022.2096545>
+- URL: <https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096545>
