@@ -10,7 +10,7 @@ doi: "https://doi.org/10.4018/IRMJ.2007070101"
 url: ""
 journal:
   name: "Information Resources Management Journal"
-cited_by: 9
+cited_by: 10
 outlet: "Information Resources Management Journal"
 ---
 

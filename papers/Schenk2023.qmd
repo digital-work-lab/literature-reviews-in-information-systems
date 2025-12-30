@@ -5,7 +5,7 @@ author:
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.599"
 url: "https://hdl.handle.net/10125/103233"
 journal:
   name: ""
@@ -19,6 +19,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{Schenk2023,
   colrev_pdf_id = {cpid2:fffffffffe4c9effffffffffffffffffff0000ffffffffffffe003fffff80fffff1fc00ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff00180fff00780fff0ff80fff8ef800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800fff77fdeff0fffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/Schenk2023.pdf},
+  doi        = {10.24251/HICSS.2023.599},
   author     = {Schenk, Johannes},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Innovative Concepts within Knowledge Management},
@@ -36,9 +37,11 @@ AU  - Schenk, Johannes
 TI  - Innovative Concepts within Knowledge Management
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.599
 UR  - https://hdl.handle.net/10125/103233
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.599>
 - URL: <https://hdl.handle.net/10125/103233>

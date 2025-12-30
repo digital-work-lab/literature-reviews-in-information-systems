@@ -1,14 +1,14 @@
 ---
-title: "Computer-Supported Collaborative Learning in STEM Domains - Towards a Meta-synthesis"
+title: "Computer-Supported Collaborative Learning in STEM Domains: Towards a Meta-synthesis"
 author:
-- Hmelo-Silver, Cindy E.
+- Hmelo-Silver, Cindy
 - Jeong, Heisawn
 - Faulkner, Roosevelt
 - Hartley, Kylie
 topic: ""
 categories: []
 date: "2017"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2017.251"
 url: "http://hdl.handle.net/10125/41405"
 journal:
   name: ""
@@ -22,9 +22,10 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{HmeloSilverJeongFaulknerEtAl2017,
   colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffffc00003ffff34ffff061860ff8e3bf7ffffffffff80d000ff001800ff001808ff001800ff001000ff005000ff0ff800ff8fd800ff000800ff001800ff001800ff001800ff001000ff001800ff001800ff0018ffff0018ffff000800ff001800fffff800ffffffffff03c7fffffffffff},
   file       = {data/pdfs/2017/dsm/learning_in_dsm/HmeloSilverJeongFaulknerEtAl2017.pdf},
-  author     = {Hmelo-Silver, Cindy E. and Jeong, Heisawn and Faulkner, Roosevelt and Hartley, Kylie},
+  doi        = {10.24251/HICSS.2017.251},
+  author     = {Hmelo-Silver, Cindy and Jeong, Heisawn and Faulkner, Roosevelt and Hartley, Kylie},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Computer-Supported Collaborative Learning in STEM Domains - Towards a Meta-synthesis},
+  title      = {Computer-Supported Collaborative Learning in STEM Domains: Towards a Meta-synthesis},
   year       = {2017},
   url        = {http://hdl.handle.net/10125/41405}
 }
@@ -34,16 +35,18 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ```bibtex
 TY  - CONF
-AU  - Hmelo-Silver, Cindy E.
+AU  - Hmelo-Silver, Cindy
 AU  - Jeong, Heisawn
 AU  - Faulkner, Roosevelt
 AU  - Hartley, Kylie
-TI  - Computer-Supported Collaborative Learning in STEM Domains - Towards a Meta-synthesis
+TI  - Computer-Supported Collaborative Learning in STEM Domains: Towards a Meta-synthesis
 T2  - Hawaii International Conference on System Sciences
 PY  - 2017
+DO  - 10.24251/HICSS.2017.251
 UR  - http://hdl.handle.net/10125/41405
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2017.251>
 - URL: <http://hdl.handle.net/10125/41405>

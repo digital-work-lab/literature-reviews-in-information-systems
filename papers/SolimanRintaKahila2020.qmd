@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1016/J.IM.2019.05.002"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720618303793"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 69
 outlet: "Information & Management"
 ---
 

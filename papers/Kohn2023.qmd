@@ -1,11 +1,11 @@
 ---
-title: "Operationalizing Digital Resilience - A Systematic Literature Review on Opportunities and Challenges"
+title: "Operationalizing Digital Resilience – A Systematic Literature Review on Opportunities and Challenges"
 author:
 - Kohn, Vanessa
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.778"
 url: "https://hdl.handle.net/10125/103412"
 journal:
   name: ""
@@ -19,9 +19,10 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{Kohn2023,
   colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffff800001ffff04ffffffffffffff81fffff3fdccff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff1ff800ff001800ff0ff800ff8ff87fff001c00ff001c10ff001800ff001800ff001800fffffb62ff0fffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/Kohn2023.pdf},
+  doi        = {10.24251/HICSS.2023.778},
   author     = {Kohn, Vanessa},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Operationalizing Digital Resilience - A Systematic Literature Review on Opportunities and Challenges},
+  title      = {Operationalizing Digital Resilience – A Systematic Literature Review on Opportunities and Challenges},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103412},
   dblp_key   = {https://dblp.org/rec/conf/hicss/Kohn23}
@@ -33,12 +34,14 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 TY  - CONF
 AU  - Kohn, Vanessa
-TI  - Operationalizing Digital Resilience - A Systematic Literature Review on Opportunities and Challenges
+TI  - Operationalizing Digital Resilience – A Systematic Literature Review on Opportunities and Challenges
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.778
 UR  - https://hdl.handle.net/10125/103412
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.778>
 - URL: <https://hdl.handle.net/10125/103412>

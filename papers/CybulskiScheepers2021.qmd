@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1177/0268396220988539"
 url: ""
 journal:
   name: "Journal of Information Technology"
-cited_by: 0
+cited_by: 11
 outlet: "Journal of Information Technology"
 ---
 

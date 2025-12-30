@@ -1,15 +1,15 @@
 ---
-title: "Methods and (Lack of) Theory in Digital Inclusion, Digital Divide, and Digital Equity Research on Older Adults"
+title: "Methods and (Lack) of Theory in Digital Inclusion, Digital Divide, and Digital Equity Research on Older Adults"
 author:
 - Chikomba, Alfred
-- Goulding, Anne
+- Goudling, Anne
 - Sanderson, Lara
 - Sylvester, Allan
 - Campbell-Meier, Jennifer
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.234"
 url: "https://hdl.handle.net/10125/102864"
 journal:
   name: ""
@@ -23,9 +23,10 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{ChikombaGouldingSandersonEtAl2023,
   colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff000000fffe097fffc3ffe3ff818180ffc381ffff8180ffffffffffff001000ff001800ff001800ff001800ff001800ff001800ff00d800ff0ff800ff0ff800ff001800ff001bbeff001800ff0018ffff001800ff001000ff001800ff000800ff001fffff0dffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/ChikombaGouldingSandersonEtAl2023.pdf},
-  author     = {Chikomba, Alfred and Goulding, Anne and Sanderson, Lara and Sylvester, Allan and Campbell-Meier, Jennifer},
+  doi        = {10.24251/HICSS.2023.234},
+  author     = {Chikomba, Alfred and Goudling, Anne and Sanderson, Lara and Sylvester, Allan and Campbell-Meier, Jennifer},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Methods and (Lack of) Theory in Digital Inclusion, Digital Divide, and Digital Equity Research on Older Adults},
+  title      = {Methods and (Lack) of Theory in Digital Inclusion, Digital Divide, and Digital Equity Research on Older Adults},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/102864},
   dblp_key   = {https://dblp.org/rec/conf/hicss/ChikombaGSSC23}
@@ -37,16 +38,18 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 TY  - CONF
 AU  - Chikomba, Alfred
-AU  - Goulding, Anne
+AU  - Goudling, Anne
 AU  - Sanderson, Lara
 AU  - Sylvester, Allan
 AU  - Campbell-Meier, Jennifer
-TI  - Methods and (Lack of) Theory in Digital Inclusion, Digital Divide, and Digital Equity Research on Older Adults
+TI  - Methods and (Lack) of Theory in Digital Inclusion, Digital Divide, and Digital Equity Research on Older Adults
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.234
 UR  - https://hdl.handle.net/10125/102864
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.234>
 - URL: <https://hdl.handle.net/10125/102864>

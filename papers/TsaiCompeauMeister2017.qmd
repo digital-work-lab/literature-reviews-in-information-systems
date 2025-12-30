@@ -11,7 +11,7 @@ doi: "https://doi.org/10.1057/JIT.2016.6"
 url: ""
 journal:
   name: "Journal of Information Technology"
-cited_by: 0
+cited_by: 22
 outlet: "Journal of Information Technology"
 ---
 

@@ -11,7 +11,7 @@ doi: "https://doi.org/10.4018/JDM.2005100105"
 url: ""
 journal:
   name: "Journal of Database Management"
-cited_by: 181
+cited_by: 183
 outlet: "Journal of Database Management"
 ---
 

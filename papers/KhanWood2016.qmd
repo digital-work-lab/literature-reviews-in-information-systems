@@ -10,7 +10,7 @@ doi: "https://doi.org/10.17705/1CAIS.03918"
 url: "https://aisel.aisnet.org/cais/vol39/iss1/18"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 7
+cited_by: 18
 outlet: "Communications of the Association for Information Systems"
 ---
 

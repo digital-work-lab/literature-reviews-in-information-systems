@@ -12,7 +12,7 @@ doi: "https://doi.org/10.25300/MISQ/2019/14214"
 url: "https://misq.org/institutional-logics-and-pluralistic-responses-to-enterprise-system-implementation-a-qualitative-meta-analysis.html"
 journal:
   name: "MIS Quarterly"
-cited_by: 52
+cited_by: 53
 outlet: "MIS Quarterly"
 ---
 

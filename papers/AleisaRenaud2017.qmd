@@ -10,7 +10,7 @@ doi: "https://doi.org/10.24251/HICSS.2017.717"
 url: "http://hdl.handle.net/10125/41881"
 journal:
   name: ""
-cited_by: 44
+cited_by: 45
 outlet: "Hawaii International Conference on System Sciences"
 ---
 

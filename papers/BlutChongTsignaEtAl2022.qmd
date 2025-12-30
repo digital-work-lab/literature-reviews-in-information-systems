@@ -12,7 +12,7 @@ doi: "https://doi.org/10.17705/1JAIS.00719"
 url: "https://aisel.aisnet.org/jais/vol23/iss1/10/"
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 134
+cited_by: 145
 outlet: "Journal of the Association for Information Systems"
 ---
 

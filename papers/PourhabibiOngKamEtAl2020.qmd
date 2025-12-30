@@ -12,7 +12,7 @@ doi: "https://doi.org/10.1016/J.DSS.2020.113303"
 url: "https://www.sciencedirect.com/science/article/pii/S0167923620300580"
 journal:
   name: "Decision Support Systems"
-cited_by: 300
+cited_by: 306
 outlet: "Decision Support Systems"
 ---
 

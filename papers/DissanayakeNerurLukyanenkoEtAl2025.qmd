@@ -12,7 +12,7 @@ doi: "https://doi.org/10.1016/J.IM.2025.104098"
 url: "https://www.doi.org/10.1016/J.IM.2025.104098"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 5
 outlet: "Information & Management"
 ---
 

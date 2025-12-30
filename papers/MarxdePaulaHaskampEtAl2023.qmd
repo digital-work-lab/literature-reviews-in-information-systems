@@ -2,13 +2,13 @@
 title: "A Cognitive Perspective on Digital Transformation: Literature Review and Research Framework"
 author:
 - Marx, Carolin
-- de Paula, Danielly F. O.
+- De Paula, Danielly
 - Haskamp, Thomas
 - Uebernickel, Falk
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.517"
 url: "https://hdl.handle.net/10125/103149"
 journal:
   name: ""
@@ -22,7 +22,8 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{MarxdePaulaHaskampEtAl2023,
   colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff000000ffffa3ffff8e7861ff041040fffffffffff1f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff03f800ff25b800ff0ff800ff8ff800ff001800ff001800ff001800ff001800ff001800fffffb32ff1fffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/MarxdePaulaHaskampEtAl2023.pdf},
-  author     = {Marx, Carolin and de Paula, Danielly F. O. and Haskamp, Thomas and Uebernickel, Falk},
+  doi        = {10.24251/HICSS.2023.517},
+  author     = {Marx, Carolin and De Paula, Danielly and Haskamp, Thomas and Uebernickel, Falk},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {A Cognitive Perspective on Digital Transformation: Literature Review and Research Framework},
   year       = {2023},
@@ -36,15 +37,17 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 TY  - CONF
 AU  - Marx, Carolin
-AU  - de Paula, Danielly F. O.
+AU  - De Paula, Danielly
 AU  - Haskamp, Thomas
 AU  - Uebernickel, Falk
 TI  - A Cognitive Perspective on Digital Transformation: Literature Review and Research Framework
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.517
 UR  - https://hdl.handle.net/10125/103149
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.517>
 - URL: <https://hdl.handle.net/10125/103149>

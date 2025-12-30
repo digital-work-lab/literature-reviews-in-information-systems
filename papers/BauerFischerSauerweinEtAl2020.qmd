@@ -10,7 +10,7 @@ author:
 topic: ""
 categories: []
 date: "2020"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2020.239"
 url: "http://hdl.handle.net/10125/63978"
 journal:
   name: ""
@@ -24,6 +24,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{BauerFischerSauerweinEtAl2020,
   colrev_pdf_id = {cpid2:fffffffffe6492bffffffffffffffffff800001ffffe7ffffc38181ffc3e7e7ff8181c3fff1f802ffa1d800ff041800ff021800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff70f800ff8ff800ff8ff000ff001800ff001800ff001800ff001800ff000800fffe3c00ff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2020/Digital Government/BauerFischerSauerweinEtAl2020.pdf},
+  doi        = {10.24251/HICSS.2020.239},
   author     = {Bauer, Sara and Fischer, Daniel and Sauerwein, Clemens and Latzel, Simon and Stelzer, Dirk and Breu, Ruth},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Towards an Evaluation Framework for Threat Intelligence Sharing Platforms},
@@ -45,9 +46,11 @@ AU  - Breu, Ruth
 TI  - Towards an Evaluation Framework for Threat Intelligence Sharing Platforms
 T2  - Hawaii International Conference on System Sciences
 PY  - 2020
+DO  - 10.24251/HICSS.2020.239
 UR  - http://hdl.handle.net/10125/63978
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2020.239>
 - URL: <http://hdl.handle.net/10125/63978>

@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Business Value of Social Information Systems - A Research Agenda"
+title: "Understanding the Business Value of Social Information Systems – A Research Agenda"
 author:
 - Schmidt, Rainer
 - Kirchner, Kathrin
@@ -7,7 +7,7 @@ author:
 topic: ""
 categories: []
 date: "2020"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2020.321"
 url: "http://hdl.handle.net/10125/64063"
 journal:
   name: ""
@@ -21,9 +21,10 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{SchmidtKirchnerRazmerita2020,
   colrev_pdf_id = {cpid2:fffffffffc0010bffffffffffffffffffffffffffc00003fffffeffff83c3c1ff83c3e3fffffffffff1f800ff001800ff001000ff001000ff001000ff001000ff7ff000ff0ff800ff001000ff000000ff001000ff001000ff001800ff001000ff001000ff001000ff000800ff000fffff0fc3fefffffffffffffffffffffffff},
   file       = {data/pdfs/2020/Digital and Social Media/SchmidtKirchnerRazmerita2020.pdf},
+  doi        = {10.24251/HICSS.2020.321},
   author     = {Schmidt, Rainer and Kirchner, Kathrin and Razmerita, Liana},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Understanding the Business Value of Social Information Systems - A Research Agenda},
+  title      = {Understanding the Business Value of Social Information Systems – A Research Agenda},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64063}
 }
@@ -36,12 +37,14 @@ TY  - CONF
 AU  - Schmidt, Rainer
 AU  - Kirchner, Kathrin
 AU  - Razmerita, Liana
-TI  - Understanding the Business Value of Social Information Systems - A Research Agenda
+TI  - Understanding the Business Value of Social Information Systems – A Research Agenda
 T2  - Hawaii International Conference on System Sciences
 PY  - 2020
+DO  - 10.24251/HICSS.2020.321
 UR  - http://hdl.handle.net/10125/64063
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2020.321>
 - URL: <http://hdl.handle.net/10125/64063>

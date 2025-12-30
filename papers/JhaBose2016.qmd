@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1016/J.IM.2015.10.007"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720615001238"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 36
 outlet: "Information & Management"
 ---
 

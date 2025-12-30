@@ -10,7 +10,7 @@ doi: "https://doi.org/10.2307/20650298"
 url: ""
 journal:
   name: "MIS Quarterly"
-cited_by: 177
+cited_by: 180
 outlet: "MIS Quarterly"
 ---
 

@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1111/ISJ.12333"
 url: ""
 journal:
   name: "Information Systems Journal"
-cited_by: 0
+cited_by: 143
 outlet: "Information Systems Journal"
 ---
 

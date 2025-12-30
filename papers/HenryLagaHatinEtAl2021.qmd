@@ -1,5 +1,5 @@
 ---
-title: "Cross-Collaboration Processes based on Blockchain and IoT - a survey"
+title: "Cross-Collaboration Processes based on Blockchain and IoT: a survey"
 author:
 - Henry, Tiphaine
 - Laga, Nassim
@@ -9,7 +9,7 @@ author:
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.521"
 url: "https://hdl.handle.net/10125/71138"
 journal:
   name: ""
@@ -22,9 +22,10 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{HenryLagaHatinEtAl2021,
   file       = {data/pdfs/2021/HenryLagaHatinEtAl2021.pdf},
+  doi        = {10.24251/HICSS.2021.521},
   author     = {Henry, Tiphaine and Laga, Nassim and Hatin, Julien and Gaaloul, Walid and Boughzala, Imed},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Cross-Collaboration Processes based on Blockchain and IoT - a survey},
+  title      = {Cross-Collaboration Processes based on Blockchain and IoT: a survey},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71138}
 }
@@ -39,12 +40,14 @@ AU  - Laga, Nassim
 AU  - Hatin, Julien
 AU  - Gaaloul, Walid
 AU  - Boughzala, Imed
-TI  - Cross-Collaboration Processes based on Blockchain and IoT - a survey
+TI  - Cross-Collaboration Processes based on Blockchain and IoT: a survey
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.521
 UR  - https://hdl.handle.net/10125/71138
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.521>
 - URL: <https://hdl.handle.net/10125/71138>

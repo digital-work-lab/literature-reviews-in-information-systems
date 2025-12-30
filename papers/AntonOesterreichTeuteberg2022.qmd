@@ -11,7 +11,7 @@ doi: "https://doi.org/10.1016/J.IM.2022.103619"
 url: ""
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 14
 outlet: "Information & Management"
 ---
 

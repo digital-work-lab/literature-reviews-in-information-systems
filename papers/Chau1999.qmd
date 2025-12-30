@@ -9,7 +9,7 @@ doi: "https://doi.org/10.1016/S0378-7206(98)00089-5"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720698000895"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 44
 outlet: "Information & Management"
 ---
 

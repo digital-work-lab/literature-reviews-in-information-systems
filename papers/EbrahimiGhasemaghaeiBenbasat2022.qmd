@@ -11,7 +11,7 @@ doi: "https://doi.org/10.1080/07421222.2022.2096549"
 url: "https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096549"
 journal:
   name: "Journal of Management Information Systems"
-cited_by: 21
+cited_by: 23
 outlet: "Journal of Management Information Systems"
 ---
 

@@ -7,7 +7,7 @@ author:
 topic: ""
 categories: []
 date: "2019"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2019.402"
 url: "http://hdl.handle.net/10125/59769"
 journal:
   name: ""
@@ -20,6 +20,7 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{EbnerMattesSmolnik2019,
   file       = {data/pdfs/2019/EbnerMattesSmolnik2019.pdf},
+  doi        = {10.24251/HICSS.2019.402},
   author     = {Ebner, Katharina and Mattes, Patrick and Smolnik, Stefan},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Are You Responsible for Traffic Congestion? A Systematic Review of the Socio-technical Perspective of Smart Mobility Services},
@@ -38,9 +39,11 @@ AU  - Smolnik, Stefan
 TI  - Are You Responsible for Traffic Congestion? A Systematic Review of the Socio-technical Perspective of Smart Mobility Services
 T2  - Hawaii International Conference on System Sciences
 PY  - 2019
+DO  - 10.24251/HICSS.2019.402
 UR  - http://hdl.handle.net/10125/59769
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2019.402>
 - URL: <http://hdl.handle.net/10125/59769>

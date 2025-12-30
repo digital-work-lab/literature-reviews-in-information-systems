@@ -2,12 +2,12 @@
 title: "Enterprise Business Models Leveraging Self-Sovereign Identity: Towards a User-Empowering Me2X Economy"
 author:
 - Kölbel, Tobias
+- Härdtner, Mahia-Cara
 - Weinhardt, Christof
-- Holder, Issuer Verifier
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.490"
 url: "https://hdl.handle.net/10125/103121"
 journal:
   name: ""
@@ -21,7 +21,8 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{KolbelWeinhardtHolder2023,
   colrev_pdf_id = {cpid2:fffffffffe4c96bffffffffffffffffffc00003ffffffffffffffffff81c381ff81a1e7fffffffffffbfaafff913800ff001800ff001800ff001800ff201000ff009000ff01f000ff8ff000ff001800ff001800ff001800ff001800ff001800ff001800ff001000ff001800ff001800fff7398fff0fffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/KolbelWeinhardtHolder2023.pdf},
-  author     = {Kölbel, Tobias and Weinhardt, Christof and Holder, Issuer Verifier},
+  doi        = {10.24251/HICSS.2023.490},
+  author     = {Kölbel, Tobias and Härdtner, Mahia-Cara and Weinhardt, Christof},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Enterprise Business Models Leveraging Self-Sovereign Identity: Towards a User-Empowering Me2X Economy},
   year       = {2023},
@@ -35,14 +36,16 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 TY  - CONF
 AU  - Kölbel, Tobias
+AU  - Härdtner, Mahia-Cara
 AU  - Weinhardt, Christof
-AU  - Holder, Issuer Verifier
 TI  - Enterprise Business Models Leveraging Self-Sovereign Identity: Towards a User-Empowering Me2X Economy
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.490
 UR  - https://hdl.handle.net/10125/103121
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.490>
 - URL: <https://hdl.handle.net/10125/103121>

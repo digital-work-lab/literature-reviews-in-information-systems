@@ -11,7 +11,7 @@ doi: "https://doi.org/10.24251/HICSS.2022.333"
 url: "http://hdl.handle.net/10125/79666"
 journal:
   name: ""
-cited_by: 1
+cited_by: 7
 outlet: "Hawaii International Conference on System Sciences"
 ---
 

@@ -12,7 +12,7 @@ doi: "https://doi.org/10.1111/ISJ.12305"
 url: "https://dblp.org/rec/journals/isj/ZeissIRK21"
 journal:
   name: "Information Systems Journal"
-cited_by: 0
+cited_by: 73
 outlet: "Information Systems Journal"
 ---
 

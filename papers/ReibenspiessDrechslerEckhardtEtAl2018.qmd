@@ -8,7 +8,7 @@ author:
 topic: ""
 categories: []
 date: "2018"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2018.523"
 url: "http://hdl.handle.net/10125/50412"
 journal:
   name: ""
@@ -22,6 +22,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{ReibenspiessDrechslerEckhardtEtAl2018,
   colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000000ffff89ffff861c20fffffffffff9f800ff001800ff001800ff001800ff001000ff001800ff001800ff001800ff001800ff009000ff0ff000ff0df000ff000800ff001800ff001000ff000800ff00186eff001800ff001000ff001000fff9dfffff4ff7ffff0ff1fffffffffff},
   file       = {data/pdfs/2018/ks/ks_innovation/ReibenspiessDrechslerEckhardtEtAl2018.pdf},
+  doi        = {10.24251/HICSS.2018.523},
   author     = {Reibenspiess, Victoria and Drechsler, Katharina and Eckhardt, Andreas and Wagner, Heinz-Theo},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Enabling Innovation Champions in Organizations - Results of a Systematic Literature Analysis},
@@ -41,9 +42,11 @@ AU  - Wagner, Heinz-Theo
 TI  - Enabling Innovation Champions in Organizations - Results of a Systematic Literature Analysis
 T2  - Hawaii International Conference on System Sciences
 PY  - 2018
+DO  - 10.24251/HICSS.2018.523
 UR  - http://hdl.handle.net/10125/50412
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2018.523>
 - URL: <http://hdl.handle.net/10125/50412>

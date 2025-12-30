@@ -12,7 +12,7 @@ doi: "https://doi.org/10.1057/S41265-016-0029-Z"
 url: ""
 journal:
   name: "Journal of Information Technology"
-cited_by: 0
+cited_by: 45
 outlet: "Journal of Information Technology"
 ---
 

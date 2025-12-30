@@ -1,11 +1,11 @@
 ---
-title: "The Quest for New Theoretical Logics of Digital Innovation - Linking Properties of Digital Artifacts with their Conceptualizations in Organizations"
+title: "The Quest for New Theoretical Logics of Digital Innovation: Linking Properties of Digital Artifacts with their Conceptualizations in Organizations"
 author:
 - Hron, Michal
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.712"
 url: "https://hdl.handle.net/10125/71332"
 journal:
   name: ""
@@ -18,9 +18,10 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{Hron2021,
   file       = {data/pdfs/2021/Hron2021.pdf},
+  doi        = {10.24251/HICSS.2021.712},
   author     = {Hron, Michal},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {The Quest for New Theoretical Logics of Digital Innovation - Linking Properties of Digital Artifacts with their Conceptualizations in Organizations},
+  title      = {The Quest for New Theoretical Logics of Digital Innovation: Linking Properties of Digital Artifacts with their Conceptualizations in Organizations},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71332}
 }
@@ -31,12 +32,14 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 TY  - CONF
 AU  - Hron, Michal
-TI  - The Quest for New Theoretical Logics of Digital Innovation - Linking Properties of Digital Artifacts with their Conceptualizations in Organizations
+TI  - The Quest for New Theoretical Logics of Digital Innovation: Linking Properties of Digital Artifacts with their Conceptualizations in Organizations
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.712
 UR  - https://hdl.handle.net/10125/71332
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.712>
 - URL: <https://hdl.handle.net/10125/71332>

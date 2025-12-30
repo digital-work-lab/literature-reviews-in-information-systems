@@ -11,7 +11,7 @@ doi: "https://doi.org/10.25300/MISQ/2022/16951"
 url: "https://misq.umn.edu/are-it-professionals-unique-a-second-order-meta-analytic-comparison-of-turnover-intentions-across-occupations.html"
 journal:
   name: "MIS Quarterly"
-cited_by: 12
+cited_by: 13
 outlet: "MIS Quarterly"
 ---
 

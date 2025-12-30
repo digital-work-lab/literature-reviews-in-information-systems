@@ -1,5 +1,5 @@
 ---
-title: "Smartphone Addictions - A Review of Themes, Theories and Future Research Directions"
+title: "Smartphone Addictions: A Review of Themes, Theories and Future Research Directions"
 author:
 - Nyamadi, Makafui
 - Boateng, Richard
@@ -7,7 +7,7 @@ author:
 topic: ""
 categories: []
 date: "2020"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2020.746"
 url: "http://hdl.handle.net/10125/64488"
 journal:
   name: ""
@@ -21,9 +21,10 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{NyamadiBoatengAsamenu2020,
   colrev_pdf_id = {cpid2:fffffffffffffffff000000ffffc3ffffc78787ff838383ffffffffff0050007f001800ff001800ff001808ff0018007f0018007f0018007f001800ff001800ff001800ff001000ff001801fffff8007f87f8007f0018007f0018007f0018007f0018007f001800ff001800ff0018007f001840ff00dfffff1fc3fffffffffff},
   file       = {data/pdfs/2020/Organizational Systems and Technology/NyamadiBoatengAsamenu2020.pdf},
+  doi        = {10.24251/HICSS.2020.746},
   author     = {Nyamadi, Makafui and Boateng, Richard and Asamenu, Immaculate},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Smartphone Addictions - A Review of Themes, Theories and Future Research Directions},
+  title      = {Smartphone Addictions: A Review of Themes, Theories and Future Research Directions},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64488}
 }
@@ -36,12 +37,14 @@ TY  - CONF
 AU  - Nyamadi, Makafui
 AU  - Boateng, Richard
 AU  - Asamenu, Immaculate
-TI  - Smartphone Addictions - A Review of Themes, Theories and Future Research Directions
+TI  - Smartphone Addictions: A Review of Themes, Theories and Future Research Directions
 T2  - Hawaii International Conference on System Sciences
 PY  - 2020
+DO  - 10.24251/HICSS.2020.746
 UR  - http://hdl.handle.net/10125/64488
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2020.746>
 - URL: <http://hdl.handle.net/10125/64488>

@@ -9,7 +9,7 @@ doi: "https://doi.org/10.1145/2436239.2436242"
 url: ""
 journal:
   name: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
-cited_by: 203
+cited_by: 204
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
 

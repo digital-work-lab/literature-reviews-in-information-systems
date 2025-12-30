@@ -11,7 +11,7 @@ doi: "https://doi.org/10.1080/1097198X.2003.10856360"
 url: ""
 journal:
   name: "Journal of Global Information Technology Management"
-cited_by: 11
+cited_by: 12
 outlet: "Journal of Global Information Technology Management"
 ---
 

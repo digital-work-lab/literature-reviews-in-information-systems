@@ -10,7 +10,7 @@ doi: "https://doi.org/10.25300/MISQ/2015/39.4.4"
 url: "https://misq.umn.edu/information-technology-impacts-on-firm-performance-an-extension-of-kohli-and-devaraj-2003.html"
 journal:
   name: "MIS Quarterly"
-cited_by: 0
+cited_by: 156
 outlet: "MIS Quarterly"
 ---
 

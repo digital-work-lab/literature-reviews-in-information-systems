@@ -11,7 +11,7 @@ doi: "https://doi.org/10.1016/J.IM.2020.103411"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720620303499"
 journal:
   name: "Information & Management"
-cited_by: 126
+cited_by: 129
 outlet: "Information & Management"
 ---
 

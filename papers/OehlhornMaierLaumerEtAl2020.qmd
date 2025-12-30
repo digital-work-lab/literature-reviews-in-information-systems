@@ -12,7 +12,7 @@ doi: "https://doi.org/10.1016/J.JSIS.2020.101641"
 url: "https://www.sciencedirect.com/science/article/pii/S0963868720300494"
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 42
+cited_by: 44
 outlet: "The Journal of Strategic Information Systems"
 ---
 

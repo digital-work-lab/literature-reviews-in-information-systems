@@ -13,7 +13,7 @@ doi: "https://doi.org/10.1016/S0963-8687(01)00057-9"
 url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 19
+cited_by: 20
 outlet: "The Journal of Strategic Information Systems"
 ---
 

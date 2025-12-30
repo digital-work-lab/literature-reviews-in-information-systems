@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1016/J.IM.2006.05.003"
 url: ""
 journal:
   name: "Information & Management"
-cited_by: 1822
+cited_by: 1850
 outlet: "Information & Management"
 ---
 

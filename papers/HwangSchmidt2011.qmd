@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1057/EJIS.2011.12"
 url: "https://www.tandfonline.com/doi/full/10.1057/ejis.2011.12"
 journal:
   name: "European Journal of Information Systems"
-cited_by: 0
+cited_by: 34
 outlet: "European Journal of Information Systems"
 ---
 

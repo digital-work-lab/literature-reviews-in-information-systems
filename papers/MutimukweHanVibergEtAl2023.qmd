@@ -1,14 +1,14 @@
 ---
-title: "Privacy as Contextual Integrity in Online Proctoring Systems in Higher Education: A scoping review"
+title: "Privacy as Contextual Integrity in Online Proctoring Systems in Higher Education: A Scoping Review"
 author:
 - Mutimukwe, Chantal
 - Han, Shengnan
 - Viberg, Olga
-- Pargman, Teresa Cerratto
+- Cerratto-Pargman, Teresa
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.010"
 url: "https://hdl.handle.net/10125/102638"
 journal:
   name: ""
@@ -22,9 +22,10 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{MutimukweHanVibergEtAl2023,
   colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffff800001ffff32ffff871c60ff870861ff5f3c7ffff1f800ff001800ff001000ff001800ff001800ff001000ff001000ff001000ff001800ff3ff800ff00d814ff0ff800ff0ff000ff001800ff001c00ff001c12ff001c00ff001800ff001800ffffffffff0dffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/MutimukweHanVibergEtAl2023.pdf},
-  author     = {Mutimukwe, Chantal and Han, Shengnan and Viberg, Olga and Pargman, Teresa Cerratto},
+  doi        = {10.24251/HICSS.2023.010},
+  author     = {Mutimukwe, Chantal and Han, Shengnan and Viberg, Olga and Cerratto-Pargman, Teresa},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Privacy as Contextual Integrity in Online Proctoring Systems in Higher Education: A scoping review},
+  title      = {Privacy as Contextual Integrity in Online Proctoring Systems in Higher Education: A Scoping Review},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/102638},
   dblp_key   = {https://dblp.org/rec/conf/hicss/MutimukweHVP23}
@@ -38,13 +39,15 @@ TY  - CONF
 AU  - Mutimukwe, Chantal
 AU  - Han, Shengnan
 AU  - Viberg, Olga
-AU  - Pargman, Teresa Cerratto
-TI  - Privacy as Contextual Integrity in Online Proctoring Systems in Higher Education: A scoping review
+AU  - Cerratto-Pargman, Teresa
+TI  - Privacy as Contextual Integrity in Online Proctoring Systems in Higher Education: A Scoping Review
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.010
 UR  - https://hdl.handle.net/10125/102638
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.010>
 - URL: <https://hdl.handle.net/10125/102638>

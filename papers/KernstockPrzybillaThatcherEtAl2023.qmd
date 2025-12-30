@@ -1,5 +1,5 @@
 ---
-title: "\"Can't Get No Satisfaction?\" - The Case for Broadening Information Systems Research on E-Commerce"
+title: "\"Can't Get No Satisfaction?\" – The Case for Broadening Information Systems Research on E-Commerce"
 author:
 - Kernstock, Philipp
 - Przybilla, Leonard
@@ -8,7 +8,7 @@ author:
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.465"
 url: "https://hdl.handle.net/10125/103096"
 journal:
   name: ""
@@ -22,9 +22,10 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{KernstockPrzybillaThatcherEtAl2023,
   colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffff000000ffff01ffff8181c1ff81c1c1ffff81fffffff1ffff901800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff07f800ff05b800ff0ff800ff801800ff001800ff001800ff001800ff001800ff801f6bff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/KernstockPrzybillaThatcherEtAl2023.pdf},
+  doi        = {10.24251/HICSS.2023.465},
   author     = {Kernstock, Philipp and Przybilla, Leonard and Thatcher, Jason and Krcmar, Helmut},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {"Can't Get No Satisfaction?" - The Case for Broadening Information Systems Research on E-Commerce},
+  title      = {"Can't Get No Satisfaction?" – The Case for Broadening Information Systems Research on E-Commerce},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103096},
   dblp_key   = {https://dblp.org/rec/conf/hicss/KernstockPTK23}
@@ -39,12 +40,14 @@ AU  - Kernstock, Philipp
 AU  - Przybilla, Leonard
 AU  - Thatcher, Jason
 AU  - Krcmar, Helmut
-TI  - "Can't Get No Satisfaction?" - The Case for Broadening Information Systems Research on E-Commerce
+TI  - "Can't Get No Satisfaction?" – The Case for Broadening Information Systems Research on E-Commerce
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.465
 UR  - https://hdl.handle.net/10125/103096
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.465>
 - URL: <https://hdl.handle.net/10125/103096>

@@ -8,7 +8,7 @@ author:
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.065"
 url: "https://hdl.handle.net/10125/102693"
 journal:
   name: ""
@@ -22,6 +22,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{HuangMouBenyoucefEtAl2023,
   colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffffc00003ffc78c39ff860830fffffffffff1f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff0ff800ff003828fffff800ff0ff800ff001800ff001800ff001800ff001800ff001800ff001802ff001800ff009800ffffffffff0dffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/HuangMouBenyoucefEtAl2023.pdf},
+  doi        = {10.24251/HICSS.2023.065},
   author     = {Huang, Zhao and Mou, Jian and Benyoucef, Morad and Kim, Jongki},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Live Streaming: Its Relevant Concepts and Literature Review},
@@ -42,9 +43,11 @@ AU  - Kim, Jongki
 TI  - Live Streaming: Its Relevant Concepts and Literature Review
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.065
 UR  - https://hdl.handle.net/10125/102693
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.065>
 - URL: <https://hdl.handle.net/10125/102693>

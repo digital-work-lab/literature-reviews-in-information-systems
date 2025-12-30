@@ -12,7 +12,7 @@ doi: "https://doi.org/10.1109/HICSS.2014.116"
 url: "https://ieeexplore.ieee.org/document/6758712/"
 journal:
   name: ""
-cited_by: 4
+cited_by: 5
 outlet: "Hawaii International Conference on System Sciences"
 ---
 

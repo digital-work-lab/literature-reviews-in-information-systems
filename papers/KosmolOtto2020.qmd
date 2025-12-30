@@ -1,12 +1,12 @@
 ---
-title: "Implementation Barriers of Industrial Symbiosis - A Systematic Review"
+title: "Implementation Barriers of Industrial Symbiosis: A Systematic Review"
 author:
 - Kosmol, Linda
 - Otto, Lena
 topic: ""
 categories: []
 date: "2020"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2020.741"
 url: "http://hdl.handle.net/10125/64483"
 journal:
   name: ""
@@ -20,9 +20,10 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{KosmolOtto2020,
   colrev_pdf_id = {cpid2:fffffffffefffffffffffffffffffffff800001fff0ff9fffe07e07fffffffffff9f800ff001800ff001800ff001800ff001800ff001800ff001800ff009800ff001800ff03f850ff0ffc00ff001800ff000800ff000800ff001809ff001800ff000c00ff001800ff001c03ff000800fffff800ff0dffffff0fc3fffffffffff},
   file       = {data/pdfs/2020/Organizational Systems and Technology/KosmolOtto2020.pdf},
+  doi        = {10.24251/HICSS.2020.741},
   author     = {Kosmol, Linda and Otto, Lena},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Implementation Barriers of Industrial Symbiosis - A Systematic Review},
+  title      = {Implementation Barriers of Industrial Symbiosis: A Systematic Review},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64483}
 }
@@ -34,12 +35,14 @@ outlet: "Hawaii International Conference on System Sciences"
 TY  - CONF
 AU  - Kosmol, Linda
 AU  - Otto, Lena
-TI  - Implementation Barriers of Industrial Symbiosis - A Systematic Review
+TI  - Implementation Barriers of Industrial Symbiosis: A Systematic Review
 T2  - Hawaii International Conference on System Sciences
 PY  - 2020
+DO  - 10.24251/HICSS.2020.741
 UR  - http://hdl.handle.net/10125/64483
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2020.741>
 - URL: <http://hdl.handle.net/10125/64483>

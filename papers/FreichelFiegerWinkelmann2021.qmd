@@ -1,5 +1,5 @@
 ---
-title: "Developing a Taxonomy for Digital Platforms - A Conceptual Approach"
+title: "Developing a Taxonomy for Digital Platforms – A Conceptual Approach"
 author:
 - Freichel, Chiara
 - Fieger, Julius
@@ -7,7 +7,7 @@ author:
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.701"
 url: "https://hdl.handle.net/10125/71321"
 journal:
   name: ""
@@ -20,9 +20,10 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{FreichelFiegerWinkelmann2021,
   file       = {data/pdfs/2021/FreichelFiegerWinkelmann2021.pdf},
+  doi        = {10.24251/HICSS.2021.701},
   author     = {Freichel, Chiara and Fieger, Julius and Winkelmann, Axel},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Developing a Taxonomy for Digital Platforms - A Conceptual Approach},
+  title      = {Developing a Taxonomy for Digital Platforms – A Conceptual Approach},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71321}
 }
@@ -35,12 +36,14 @@ TY  - CONF
 AU  - Freichel, Chiara
 AU  - Fieger, Julius
 AU  - Winkelmann, Axel
-TI  - Developing a Taxonomy for Digital Platforms - A Conceptual Approach
+TI  - Developing a Taxonomy for Digital Platforms – A Conceptual Approach
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.701
 UR  - https://hdl.handle.net/10125/71321
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.701>
 - URL: <https://hdl.handle.net/10125/71321>

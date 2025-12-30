@@ -1,15 +1,15 @@
 ---
-title: "Framing Research Questions Intersecting Information Systems and Health - A New Research Perspective at Micro- and Macro-Level"
+title: "Framing Research Questions Intersecting Information Systems and Health: A New Research Perspective at Micro- and Macro-Level"
 author:
 - Greve, Maike
 - Gantner, Morten
 - Harnischmacher, Christine
 - Brendel, Alfred Benedikt
-- Kolbe, Lutz M.
+- Kolbe, Lutz
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.439"
 url: "https://hdl.handle.net/10125/71055"
 journal:
   name: ""
@@ -22,9 +22,10 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{GreveGantnerHarnischmacherEtAl2021,
   file       = {data/pdfs/2021/GreveGantnerHarnischmacherEtAl2021.pdf},
-  author     = {Greve, Maike and Gantner, Morten and Harnischmacher, Christine and Brendel, Alfred Benedikt and Kolbe, Lutz M.},
+  doi        = {10.24251/HICSS.2021.439},
+  author     = {Greve, Maike and Gantner, Morten and Harnischmacher, Christine and Brendel, Alfred Benedikt and Kolbe, Lutz},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Framing Research Questions Intersecting Information Systems and Health - A New Research Perspective at Micro- and Macro-Level},
+  title      = {Framing Research Questions Intersecting Information Systems and Health: A New Research Perspective at Micro- and Macro-Level},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71055}
 }
@@ -38,13 +39,15 @@ AU  - Greve, Maike
 AU  - Gantner, Morten
 AU  - Harnischmacher, Christine
 AU  - Brendel, Alfred Benedikt
-AU  - Kolbe, Lutz M.
-TI  - Framing Research Questions Intersecting Information Systems and Health - A New Research Perspective at Micro- and Macro-Level
+AU  - Kolbe, Lutz
+TI  - Framing Research Questions Intersecting Information Systems and Health: A New Research Perspective at Micro- and Macro-Level
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.439
 UR  - https://hdl.handle.net/10125/71055
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.439>
 - URL: <https://hdl.handle.net/10125/71055>

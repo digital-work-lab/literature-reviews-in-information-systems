@@ -6,7 +6,7 @@ author:
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.042"
 url: "https://hdl.handle.net/10125/102670"
 journal:
   name: ""
@@ -20,6 +20,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{TolzinJanson2023,
   colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffffc00003fff1e10ffffe7e7ffff8181ffffffffffff3fe0cff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff003800ff007800ff0ff800ff001800ff001800ff001800ff001800ff001800fffff803ff0dffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/TolzinJanson2023.pdf},
+  doi        = {10.24251/HICSS.2023.042},
   author     = {Tolzin, Antonia and Janson, Andreas},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Mechanisms of Common Ground in Human-Agent Interaction: A Systematic Review of Conversational Agent Research},
@@ -38,9 +39,11 @@ AU  - Janson, Andreas
 TI  - Mechanisms of Common Ground in Human-Agent Interaction: A Systematic Review of Conversational Agent Research
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.042
 UR  - https://hdl.handle.net/10125/102670
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.042>
 - URL: <https://hdl.handle.net/10125/102670>

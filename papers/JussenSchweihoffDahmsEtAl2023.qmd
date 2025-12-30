@@ -9,7 +9,7 @@ author:
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.452"
 url: "https://hdl.handle.net/10125/103083"
 journal:
   name: ""
@@ -23,6 +23,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{JussenSchweihoffDahmsEtAl2023,
   colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffffe00007ffe7c3e3ff818080fff0ff8fffe07f07fff1ff07ff801800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff229800ff007800ff0ff800ff001800ff001800ff001800ff00181fff001c00ff001c01ff001800ff421800ff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/JussenSchweihoffDahmsEtAl2023.pdf},
+  doi        = {10.24251/HICSS.2023.452},
   author     = {Jussen, Ilka and Schweihoff, Julia and Dahms, Valentin and Möller, Frederik and Otto, Boris},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Data Sharing Fundamentals: Definition and Characteristics},
@@ -44,9 +45,11 @@ AU  - Otto, Boris
 TI  - Data Sharing Fundamentals: Definition and Characteristics
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.452
 UR  - https://hdl.handle.net/10125/103083
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.452>
 - URL: <https://hdl.handle.net/10125/103083>

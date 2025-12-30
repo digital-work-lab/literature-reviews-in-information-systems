@@ -2,18 +2,21 @@
 title: "Digital Health Data Imperfection Patterns and Their Manifestations in an Australian Digital Hospital"
 author:
 - Goel, Kanika
-- Ter Hofstede, Arthur H M
-- Leemans, Sander J J
-- Staib, Andrew
-- Wynn, Moe T
-- Mcgree, James
-- Eley, Rob
+- Sadeghianasl, Sareh
 - Andrews, Robert
+- Ter Hofstede, Arthur
+- Wynn, Moe
+- Kapugama Geeganage, Dakshi
+- Leemans, Sander
+- Mcgree, James
+- Eden, Rebekah
+- Staib, Andrew
+- Eley, Rob
 - Donovan, Raelene
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.398"
 url: "https://hdl.handle.net/10125/103029"
 journal:
   name: ""
@@ -27,7 +30,8 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{GoelTerHofstedeLeemansEtAl2023,
   colrev_pdf_id = {cpid2:fffffffffe4c92bffffffffffffffffff000000fffff7ffff008100ffc3c1c3ff000000ffc3c302ffc30081ffe3e7c3ff81c381fff1fffffff1f800ff001000ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff203000ff8ff000ff87d000ff000803ffffffffff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/GoelTerHofstedeLeemansEtAl2023.pdf},
-  author     = {Goel, Kanika and Ter Hofstede, Arthur H M and Leemans, Sander J J and Staib, Andrew and Wynn, Moe T and Mcgree, James and Eley, Rob and Andrews, Robert and Donovan, Raelene},
+  doi        = {10.24251/HICSS.2023.398},
+  author     = {Goel, Kanika and Sadeghianasl, Sareh and Andrews, Robert and Ter Hofstede, Arthur and Wynn, Moe and Kapugama Geeganage, Dakshi and Leemans, Sander and Mcgree, James and Eden, Rebekah and Staib, Andrew and Eley, Rob and Donovan, Raelene},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Digital Health Data Imperfection Patterns and Their Manifestations in an Australian Digital Hospital},
   year       = {2023},
@@ -41,20 +45,25 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 TY  - CONF
 AU  - Goel, Kanika
-AU  - Ter Hofstede, Arthur H M
-AU  - Leemans, Sander J J
-AU  - Staib, Andrew
-AU  - Wynn, Moe T
-AU  - Mcgree, James
-AU  - Eley, Rob
+AU  - Sadeghianasl, Sareh
 AU  - Andrews, Robert
+AU  - Ter Hofstede, Arthur
+AU  - Wynn, Moe
+AU  - Kapugama Geeganage, Dakshi
+AU  - Leemans, Sander
+AU  - Mcgree, James
+AU  - Eden, Rebekah
+AU  - Staib, Andrew
+AU  - Eley, Rob
 AU  - Donovan, Raelene
 TI  - Digital Health Data Imperfection Patterns and Their Manifestations in an Australian Digital Hospital
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.398
 UR  - https://hdl.handle.net/10125/103029
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.398>
 - URL: <https://hdl.handle.net/10125/103029>

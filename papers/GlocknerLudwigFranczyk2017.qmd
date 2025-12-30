@@ -7,7 +7,7 @@ author:
 topic: ""
 categories: []
 date: "2017"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2017.614"
 url: "http://hdl.handle.net/10125/41776"
 journal:
   name: ""
@@ -21,6 +21,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{GlocknerLudwigFranczyk2017,
   colrev_pdf_id = {cpid2:fffffffffffffffffffffffffc10003fffffffffffe00fffffe003ffffffffffe001e727e0000007e0008007e0008007e0008007e0008007e0018007e8070007fd878007e0018007e0018007e0018007e0018007e00180ffe0008007e0018007e001801fe0018007e0018007e0010007e0018007fffffffff07e7fffffffffff},
   file       = {data/pdfs/2017/os/integrating_business_it_consumer/GlocknerLudwigFranczyk2017.pdf},
+  doi        = {10.24251/HICSS.2017.614},
   author     = {Glöckner, Michael and Ludwig, André and Franczyk, Bogdan},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Go with the Flow - Design of Cloud Logistics Service Blueprints},
@@ -39,9 +40,11 @@ AU  - Franczyk, Bogdan
 TI  - Go with the Flow - Design of Cloud Logistics Service Blueprints
 T2  - Hawaii International Conference on System Sciences
 PY  - 2017
+DO  - 10.24251/HICSS.2017.614
 UR  - http://hdl.handle.net/10125/41776
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2017.614>
 - URL: <http://hdl.handle.net/10125/41776>

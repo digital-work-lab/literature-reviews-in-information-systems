@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning for Readability Assessment and Text Simplification in Crisis Communication - A Systematic Review"
+title: "Machine Learning for Readability Assessment and Text Simplification in Crisis Communication: A Systematic Review"
 author:
 - Hansen, Hieronymus
 - Widera, Adam
@@ -8,7 +8,7 @@ author:
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.277"
 url: "https://hdl.handle.net/10125/70890"
 journal:
   name: ""
@@ -21,9 +21,10 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{HansenWideraPongeEtAl2021,
   file       = {data/pdfs/2021/HansenWideraPongeEtAl2021.pdf},
+  doi        = {10.24251/HICSS.2021.277},
   author     = {Hansen, Hieronymus and Widera, Adam and Ponge, Johannes and Hellingrath, Bernd},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Machine Learning for Readability Assessment and Text Simplification in Crisis Communication - A Systematic Review},
+  title      = {Machine Learning for Readability Assessment and Text Simplification in Crisis Communication: A Systematic Review},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/70890}
 }
@@ -37,12 +38,14 @@ AU  - Hansen, Hieronymus
 AU  - Widera, Adam
 AU  - Ponge, Johannes
 AU  - Hellingrath, Bernd
-TI  - Machine Learning for Readability Assessment and Text Simplification in Crisis Communication - A Systematic Review
+TI  - Machine Learning for Readability Assessment and Text Simplification in Crisis Communication: A Systematic Review
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.277
 UR  - https://hdl.handle.net/10125/70890
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.277>
 - URL: <https://hdl.handle.net/10125/70890>

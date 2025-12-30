@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1109/HICSS.2003.1174390"
 url: "https://ieeexplore.ieee.org/document/1174390"
 journal:
   name: ""
-cited_by: 27
+cited_by: 28
 outlet: "Hawaii International Conference on System Sciences"
 ---
 

@@ -13,7 +13,7 @@ doi: "https://doi.org/10.1080/0960085X.2022.2154712"
 url: "https://www.tandfonline.com/doi/full/10.1080/0960085X.2022.2154712"
 journal:
   name: "European Journal of Information Systems"
-cited_by: 88
+cited_by: 93
 outlet: "European Journal of Information Systems"
 ---
 

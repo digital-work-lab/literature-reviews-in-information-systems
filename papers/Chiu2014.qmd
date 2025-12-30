@@ -11,7 +11,7 @@ doi: "https://doi.org/10.1016/J.DSS.2014.05.010"
 url: ""
 journal:
   name: "Decision Support Systems"
-cited_by: 152
+cited_by: 154
 outlet: "Decision Support Systems"
 ---
 

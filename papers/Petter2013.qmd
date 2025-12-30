@@ -11,7 +11,7 @@ doi: "https://doi.org/10.2753/MIS0742-1222290401"
 url: ""
 journal:
   name: "Journal of Management Information Systems"
-cited_by: 519
+cited_by: 524
 outlet: "Journal of Management Information Systems"
 ---
 

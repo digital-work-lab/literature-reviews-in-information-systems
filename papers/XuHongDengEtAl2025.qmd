@@ -12,7 +12,7 @@ doi: "https://doi.org/10.1287/ISRE.2022.0640"
 url: ""
 journal:
   name: "Information Systems Research"
-cited_by: 0
+cited_by: 2
 outlet: "Information Systems Research"
 ---
 

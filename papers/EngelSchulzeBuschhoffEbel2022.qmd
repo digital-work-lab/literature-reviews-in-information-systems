@@ -7,7 +7,7 @@ author:
 topic: ""
 categories: []
 date: "2022"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2022.723"
 url: "http://hdl.handle.net/10125/80063"
 journal:
   name: ""
@@ -21,6 +21,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{EngelSchulzeBuschhoffEbel2022,
   colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff000000ffe7017bffc3c1e1ffc380c1fffffffffff17800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff00f800ff0ff800ff88d800ff000800ff001800ff001800ff001800ff001800ff001800ff001800ff001000ff1019fbff1dffffff1fc3fffffffffff},
   file       = {data/pdfs/2022/EngelSchulzeBuschhoffEbel2022.pdf},
+  doi        = {10.24251/HICSS.2022.723},
   author     = {Engel, Christian and Schulze Buschhoff, Julius and Ebel, Philipp},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Structuring the Quest for Strategic Alignment of Artificial Intelligence (AI): A Taxonomy of the Organizational Business Value of AI Use Cases},
@@ -40,9 +41,11 @@ AU  - Ebel, Philipp
 TI  - Structuring the Quest for Strategic Alignment of Artificial Intelligence (AI): A Taxonomy of the Organizational Business Value of AI Use Cases
 T2  - Hawaii International Conference on System Sciences
 PY  - 2022
+DO  - 10.24251/HICSS.2022.723
 UR  - http://hdl.handle.net/10125/80063
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2022.723>
 - URL: <http://hdl.handle.net/10125/80063>

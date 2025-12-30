@@ -12,7 +12,7 @@ doi: "https://doi.org/10.1007/S10796-020-10044-1"
 url: "https://link.springer.com/article/10.1007/s10796-020-10044-1"
 journal:
   name: "Information Systems Frontiers"
-cited_by: 274
+cited_by: 275
 outlet: "Information Systems Frontiers"
 ---
 

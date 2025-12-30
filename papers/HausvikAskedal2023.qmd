@@ -6,7 +6,7 @@ author:
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.229"
 url: "https://hdl.handle.net/10125/102859"
 journal:
   name: ""
@@ -20,6 +20,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{HausvikAskedal2023,
   colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffff800001ffffffffffe0ff07fff3ff87fff1d800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff3ff800ff00f800ff0ff800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ffffffffff0dffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/HausvikAskedal2023.pdf},
+  doi        = {10.24251/HICSS.2023.229},
   author     = {Hausvik, Geir Inge and Askedal, Kirsti},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Digital Innovation of Healthcare Services in Times of Crisis and Beyond},
@@ -38,9 +39,11 @@ AU  - Askedal, Kirsti
 TI  - Digital Innovation of Healthcare Services in Times of Crisis and Beyond
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.229
 UR  - https://hdl.handle.net/10125/102859
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.229>
 - URL: <https://hdl.handle.net/10125/102859>

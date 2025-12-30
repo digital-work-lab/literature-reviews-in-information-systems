@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1080/07421222.2002.11045696"
 url: ""
 journal:
   name: "Journal of Management Information Systems"
-cited_by: 122
+cited_by: 124
 outlet: "Journal of Management Information Systems"
 ---
 

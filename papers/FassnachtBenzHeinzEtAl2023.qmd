@@ -9,7 +9,7 @@ author:
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.453"
 url: "https://hdl.handle.net/10125/103084"
 journal:
   name: ""
@@ -23,6 +23,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{FassnachtBenzHeinzEtAl2023,
   colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffffc00003ff0ce718ff084210ffffff1ffff1f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff1ff800ff003800ff0ff800ff8ff800ff001800ff001800ff001800ff001800ff001800ff001800ff001fbfff1fffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/FassnachtBenzHeinzEtAl2023.pdf},
+  doi        = {10.24251/HICSS.2023.453},
   author     = {Fassnacht, Marcel and Benz, Carina and Heinz, Daniel and Leimstoll, Jannis and Satzger, Gerhard},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Barriers to Data Sharing among Private Sector Organizations},
@@ -44,9 +45,11 @@ AU  - Satzger, Gerhard
 TI  - Barriers to Data Sharing among Private Sector Organizations
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.453
 UR  - https://hdl.handle.net/10125/103084
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.453>
 - URL: <https://hdl.handle.net/10125/103084>

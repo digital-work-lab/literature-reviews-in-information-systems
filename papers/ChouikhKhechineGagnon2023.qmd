@@ -7,7 +7,7 @@ author:
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.209"
 url: "https://hdl.handle.net/10125/102839"
 journal:
   name: ""
@@ -21,6 +21,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{ChouikhKhechineGagnon2023,
   colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800000ffe1224fff83c1e1ffc1c181ff901800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff0a3800ff3df800ff05f800ff8ff800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ffffffffff1fffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/ChouikhKhechineGagnon2023.pdf},
+  doi        = {10.24251/HICSS.2023.209},
   author     = {Chouikh, Arbi and Khechine, Hager and Gagnon, Marie-Pierre},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Tertiary Study on the Use of Artificial Intelligence for Service Delivery: A Bibliometric Analysis of Systematic Literature Reviews},
@@ -40,9 +41,11 @@ AU  - Gagnon, Marie-Pierre
 TI  - Tertiary Study on the Use of Artificial Intelligence for Service Delivery: A Bibliometric Analysis of Systematic Literature Reviews
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.209
 UR  - https://hdl.handle.net/10125/102839
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.209>
 - URL: <https://hdl.handle.net/10125/102839>

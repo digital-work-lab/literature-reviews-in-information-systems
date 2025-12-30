@@ -6,7 +6,7 @@ author:
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.026"
 url: "https://hdl.handle.net/10125/70637"
 journal:
   name: ""
@@ -19,6 +19,7 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{AlGhattasMarjanovic2021,
   file       = {data/pdfs/2021/AlGhattasMarjanovic2021.pdf},
+  doi        = {10.24251/HICSS.2021.026},
   author     = {Al-Ghattas, Hussein and Marjanovic, Olivera},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Business Analytics Capabilities for Organisational Resilience},
@@ -36,9 +37,11 @@ AU  - Marjanovic, Olivera
 TI  - Business Analytics Capabilities for Organisational Resilience
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.026
 UR  - https://hdl.handle.net/10125/70637
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.026>
 - URL: <https://hdl.handle.net/10125/70637>

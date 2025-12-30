@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1080/10864415.2001.11044222"
 url: ""
 journal:
   name: "International Journal of Electronic Commerce"
-cited_by: 210
+cited_by: 214
 outlet: "International Journal of Electronic Commerce"
 ---
 

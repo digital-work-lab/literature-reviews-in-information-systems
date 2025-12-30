@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1207/S15327744JOCE1603&4_2"
 url: ""
 journal:
   name: "Journal of Organizational Computing and Electronic Commerce"
-cited_by: 146
+cited_by: 150
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
 

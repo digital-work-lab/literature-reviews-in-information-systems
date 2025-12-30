@@ -7,7 +7,7 @@ author:
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.086"
 url: "https://hdl.handle.net/10125/70697"
 journal:
   name: ""
@@ -20,6 +20,7 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{BenkeHeinzlMaedche2021,
   file       = {data/pdfs/2021/BenkeHeinzlMaedche2021.pdf},
+  doi        = {10.24251/HICSS.2021.086},
   author     = {Benke, Ivo and Heinzl, Armin and Maedche, Alexander},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Relationship of Collaboration Technologies and Cognition and Affect},
@@ -38,9 +39,11 @@ AU  - Maedche, Alexander
 TI  - The Relationship of Collaboration Technologies and Cognition and Affect
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.086
 UR  - https://hdl.handle.net/10125/70697
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.086>
 - URL: <https://hdl.handle.net/10125/70697>

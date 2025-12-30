@@ -1,12 +1,12 @@
 ---
-title: "It's Just Emotion Taking Me Over - Investigating the Role of Emotions in Knowledge Management Research"
+title: "It’s Just Emotion Taking Me Over: Investigating the Role of Emotions in Knowledge Management Research"
 author:
 - Hornung, Olivia
 - Smolnik, Stefan
 topic: ""
 categories: []
 date: "2018"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2018.512"
 url: "http://hdl.handle.net/10125/50401"
 journal:
   name: ""
@@ -20,9 +20,10 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{HornungSmolnik2018,
   colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800001ff818081ffe0ff07fffefffffff3f8b8ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff0ff800ff0ff800ff001800ff001800ff001800ff001800ff021802ff001847ff001800ff001800ff001800ff001800ff611fffff0ff7ffff0ff1fffffffffff},
   file       = {data/pdfs/2018/ks/ks_creation/HornungSmolnik2018.pdf},
+  doi        = {10.24251/HICSS.2018.512},
   author     = {Hornung, Olivia and Smolnik, Stefan},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {It's Just Emotion Taking Me Over - Investigating the Role of Emotions in Knowledge Management Research},
+  title      = {It’s Just Emotion Taking Me Over: Investigating the Role of Emotions in Knowledge Management Research},
   year       = {2018},
   url        = {http://hdl.handle.net/10125/50401}
 }
@@ -34,12 +35,14 @@ outlet: "Hawaii International Conference on System Sciences"
 TY  - CONF
 AU  - Hornung, Olivia
 AU  - Smolnik, Stefan
-TI  - It's Just Emotion Taking Me Over - Investigating the Role of Emotions in Knowledge Management Research
+TI  - It’s Just Emotion Taking Me Over: Investigating the Role of Emotions in Knowledge Management Research
 T2  - Hawaii International Conference on System Sciences
 PY  - 2018
+DO  - 10.24251/HICSS.2018.512
 UR  - http://hdl.handle.net/10125/50401
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2018.512>
 - URL: <http://hdl.handle.net/10125/50401>

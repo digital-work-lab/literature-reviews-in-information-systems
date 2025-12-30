@@ -12,7 +12,7 @@ doi: "https://doi.org/10.1016/J.IM.2020.103392"
 url: "https://www.sciencedirect.com/science/article/pii/S037872062030330X"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 59
 outlet: "Information & Management"
 ---
 

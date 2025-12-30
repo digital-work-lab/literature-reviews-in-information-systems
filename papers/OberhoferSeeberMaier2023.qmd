@@ -7,7 +7,7 @@ author:
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.061"
 url: "https://hdl.handle.net/10125/102689"
 journal:
   name: ""
@@ -21,6 +21,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{OberhoferSeeberMaier2023,
   colrev_pdf_id = {cpid2:fffffffffe4c9efffffffffffffffffff000000ffffffffff8181c0ffff80c0fffffffffff1f800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff27f000ff001800ff03f800ff0ff800ff001800ff000800ff001800ff001000ff7dffffff3fffffff0dffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/OberhoferSeeberMaier2023.pdf},
+  doi        = {10.24251/HICSS.2023.061},
   author     = {Oberhofer, Viviana and Seeber, Isabella and Maier, Ronald},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Human-Robot Interaction: Mapping Literature Review and Network Analysis},
@@ -40,9 +41,11 @@ AU  - Maier, Ronald
 TI  - Human-Robot Interaction: Mapping Literature Review and Network Analysis
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.061
 UR  - https://hdl.handle.net/10125/102689
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.061>
 - URL: <https://hdl.handle.net/10125/102689>

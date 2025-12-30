@@ -11,7 +11,7 @@ doi: "https://doi.org/10.17705/1CAIS.04020"
 url: "https://aisel.aisnet.org/cais/vol40/iss1/20"
 journal:
   name: "Communications of the Association for Information Systems"
-cited_by: 13
+cited_by: 23
 outlet: "Communications of the Association for Information Systems"
 ---
 

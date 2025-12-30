@@ -6,7 +6,7 @@ author:
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.733"
 url: "https://hdl.handle.net/10125/71353"
 journal:
   name: ""
@@ -19,6 +19,7 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{LisOtto2021,
   file       = {data/pdfs/2021/LisOtto2021.pdf},
+  doi        = {10.24251/HICSS.2021.733},
   author     = {Lis, Dominik and Otto, Boris},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Towards a Taxonomy of Ecosystem Data Governance},
@@ -36,9 +37,11 @@ AU  - Otto, Boris
 TI  - Towards a Taxonomy of Ecosystem Data Governance
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.733
 UR  - https://hdl.handle.net/10125/71353
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.733>
 - URL: <https://hdl.handle.net/10125/71353>

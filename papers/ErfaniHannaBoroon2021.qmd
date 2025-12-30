@@ -1,13 +1,13 @@
 ---
-title: "Social Network Sites Use and Psychological distress - A Systematic Review"
+title: "Social Network Sites Use and Psychological distress: A Systematic Review"
 author:
 - Erfani, Eila
-- Hanna, Andrew Samy Helmy
+- Samy Helmy Hanna, Andrew
 - Boroon, Layla
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.364"
 url: "https://hdl.handle.net/10125/70978"
 journal:
   name: ""
@@ -20,9 +20,10 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{ErfaniHannaBoroon2021,
   file       = {data/pdfs/2021/ErfaniHannaBoroon2021.pdf},
-  author     = {Erfani, Eila and Hanna, Andrew Samy Helmy and Boroon, Layla},
+  doi        = {10.24251/HICSS.2021.364},
+  author     = {Erfani, Eila and Samy Helmy Hanna, Andrew and Boroon, Layla},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Social Network Sites Use and Psychological distress - A Systematic Review},
+  title      = {Social Network Sites Use and Psychological distress: A Systematic Review},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/70978}
 }
@@ -33,14 +34,16 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 TY  - CONF
 AU  - Erfani, Eila
-AU  - Hanna, Andrew Samy Helmy
+AU  - Samy Helmy Hanna, Andrew
 AU  - Boroon, Layla
-TI  - Social Network Sites Use and Psychological distress - A Systematic Review
+TI  - Social Network Sites Use and Psychological distress: A Systematic Review
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.364
 UR  - https://hdl.handle.net/10125/70978
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.364>
 - URL: <https://hdl.handle.net/10125/70978>

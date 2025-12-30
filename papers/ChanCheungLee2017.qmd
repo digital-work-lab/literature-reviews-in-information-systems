@@ -11,7 +11,7 @@ doi: "https://doi.org/10.1016/J.IM.2016.06.001"
 url: "https://www.sciencedirect.com/science/article/pii/S037872061630057X"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 494
 outlet: "Information & Management"
 ---
 

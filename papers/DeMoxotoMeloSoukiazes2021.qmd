@@ -1,13 +1,13 @@
 ---
-title: "Initial Coin Offering (ICO) - a systematic review of the literature"
+title: "Initial Coin Offering (ICO): a systematic review of the literature"
 author:
-- De Moxoto, Ana Claudia
+- Moxoto, Ana Claudia De
 - Melo, Paulo
 - Soukiazes, Elias
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.507"
 url: "https://hdl.handle.net/10125/71124"
 journal:
   name: ""
@@ -20,9 +20,10 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{DeMoxotoMeloSoukiazes2021,
   file       = {data/pdfs/2021/DeMoxotoMeloSoukiazes2021.pdf},
-  author     = {De Moxoto, Ana Claudia and Melo, Paulo and Soukiazes, Elias},
+  doi        = {10.24251/HICSS.2021.507},
+  author     = {Moxoto, Ana Claudia De and Melo, Paulo and Soukiazes, Elias},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Initial Coin Offering (ICO) - a systematic review of the literature},
+  title      = {Initial Coin Offering (ICO): a systematic review of the literature},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71124}
 }
@@ -32,15 +33,17 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ```bibtex
 TY  - CONF
-AU  - De Moxoto, Ana Claudia
+AU  - Moxoto, Ana Claudia De
 AU  - Melo, Paulo
 AU  - Soukiazes, Elias
-TI  - Initial Coin Offering (ICO) - a systematic review of the literature
+TI  - Initial Coin Offering (ICO): a systematic review of the literature
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.507
 UR  - https://hdl.handle.net/10125/71124
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.507>
 - URL: <https://hdl.handle.net/10125/71124>

@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1046/J.1365-2575.2001.00099.X"
 url: ""
 journal:
   name: "Information Systems Journal"
-cited_by: 320
+cited_by: 324
 outlet: "Information Systems Journal"
 ---
 

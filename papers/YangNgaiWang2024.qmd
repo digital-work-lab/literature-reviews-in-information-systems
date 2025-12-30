@@ -11,7 +11,7 @@ doi: "https://doi.org/10.1016/J.IM.2024.103961"
 url: "https://www.doi.org/10.1016/J.IM.2024.103961"
 journal:
   name: "Information & Management"
-cited_by: 0
+cited_by: 39
 outlet: "Information & Management"
 ---
 

@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1016/J.JSIS.2012.05.001"
 url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 337
+cited_by: 342
 outlet: "The Journal of Strategic Information Systems"
 ---
 

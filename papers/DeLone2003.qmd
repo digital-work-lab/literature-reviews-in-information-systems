@@ -4,13 +4,13 @@ author:
 - DeLone, William H.
 - McLean, Ephraim R.
 topic: ""
-categories: ['theoretical-review']
+categories: ['theoretical-review', 'highly-cited']
 date: "2003"
 doi: "https://doi.org/10.1080/07421222.2003.11045748"
 url: ""
 journal:
   name: "Journal of Management Information Systems"
-cited_by: 0
+cited_by: 6275
 outlet: "Journal of Management Information Systems"
 ---
 

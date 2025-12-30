@@ -6,7 +6,7 @@ author:
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.650"
 url: "https://hdl.handle.net/10125/103284"
 journal:
   name: ""
@@ -20,6 +20,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{AbooleetKinnett2023,
   colrev_pdf_id = {cpid2:fffffffffefffffffffffffffffffffffe00007ffffffffffe0ff07fffffffffff1f800ff001000ff001000ff001000ff001000ff019800ff001800ff001800ff001800ff009000ff03f800ff01f800ff0ff000ff001000ff001800ff001000ff001800ff001800ff001000ff001000ffd41800ff1fffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/AbooleetKinnett2023.pdf},
+  doi        = {10.24251/HICSS.2023.650},
   author     = {Abooleet, Saeed and Kinnett, Seth},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {A Systematic Review of Blockchain-based Loyalty Programs},
@@ -38,9 +39,11 @@ AU  - Kinnett, Seth
 TI  - A Systematic Review of Blockchain-based Loyalty Programs
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.650
 UR  - https://hdl.handle.net/10125/103284
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.650>
 - URL: <https://hdl.handle.net/10125/103284>

@@ -11,7 +11,7 @@ doi: "https://doi.org/10.1109/HICSS.2015.428"
 url: "https://ieeexplore.ieee.org/document/7070243/"
 journal:
   name: ""
-cited_by: 0
+cited_by: 27
 outlet: "Hawaii International Conference on System Sciences"
 ---
 

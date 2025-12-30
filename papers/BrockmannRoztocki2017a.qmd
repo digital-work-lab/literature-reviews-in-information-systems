@@ -6,7 +6,7 @@ author:
 topic: ""
 categories: []
 date: "2017"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2017.539"
 url: "http://hdl.handle.net/10125/41701"
 journal:
   name: ""
@@ -20,6 +20,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{BrockmannRoztocki2017a,
   colrev_pdf_id = {cpid2:ffffffffffffffffffffffffffffffffffc003fffffffffffe07c03ffffff0ffff3f800ff821800ff001800ff001800ff001800ff001800ff001800ff001900ff001800ff001841ff0ff800ff9ff800ff001838ff001c02ff001c00ff001c00ff001800ff001800ff001800ff001803ff521fffffffffffff03c7fffffffffff},
   file       = {data/pdfs/2017/ks/knowledge_economics/BrockmannRoztocki2017a.pdf},
+  doi        = {10.24251/HICSS.2017.539},
   author     = {Brockmann, Carsten and Roztocki, Narcyz},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {The Six Pillars of Knowledge Economics},
@@ -37,9 +38,11 @@ AU  - Roztocki, Narcyz
 TI  - The Six Pillars of Knowledge Economics
 T2  - Hawaii International Conference on System Sciences
 PY  - 2017
+DO  - 10.24251/HICSS.2017.539
 UR  - http://hdl.handle.net/10125/41701
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2017.539>
 - URL: <http://hdl.handle.net/10125/41701>

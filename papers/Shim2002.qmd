@@ -14,7 +14,7 @@ doi: "https://doi.org/10.1016/S0167-9236(01)00139-7"
 url: ""
 journal:
   name: "Decision Support Systems"
-cited_by: 839
+cited_by: 842
 outlet: "Decision Support Systems"
 ---
 

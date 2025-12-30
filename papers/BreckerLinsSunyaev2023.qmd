@@ -7,7 +7,7 @@ author:
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.641"
 url: "https://hdl.handle.net/10125/103275"
 journal:
   name: ""
@@ -21,6 +21,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{BreckerLinsSunyaev2023,
   colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffffe00007ffffffffff8181c0fff3ffe3ff801800ff001800ff001800ff001800ff001800ff001800ff001800ff7ff000ff3b7800ff1ff800ff8ff800ff001800ff001800ff001800ff001800ff001000ff001800ff001000ff001800ff153800ffffffffff0dffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/BreckerLinsSunyaev2023.pdf},
+  doi        = {10.24251/HICSS.2023.641},
   author     = {Brecker, Kathrin and Lins, Sebastian and Sunyaev, Ali},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Why it Remains Challenging to Assess Artificial Intelligence},
@@ -40,9 +41,11 @@ AU  - Sunyaev, Ali
 TI  - Why it Remains Challenging to Assess Artificial Intelligence
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.641
 UR  - https://hdl.handle.net/10125/103275
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.641>
 - URL: <https://hdl.handle.net/10125/103275>

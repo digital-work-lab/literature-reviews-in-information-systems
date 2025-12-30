@@ -7,7 +7,7 @@ author:
 topic: ""
 categories: []
 date: "2019"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2019.882"
 url: "http://hdl.handle.net/10125/60171"
 journal:
   name: ""
@@ -21,6 +21,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{HentschelLeyhBaumhauer2019,
   colrev_pdf_id = {cpid2:fffffffffe64dbfffffffffffffffffffffffffff800001ffffc3ffff018180ff0381c0fffbf9a2ff001000ff001000ff001000ff001800ff001800ff001800ff001000ff001806ff1ff000ff0ff000ff001000ff001000ff001000ff000800ff000000ff001000ff001000ff5ff81fffffffffffffffffff0fc3fffffffffff},
   file       = {data/pdfs/2019/HentschelLeyhBaumhauer2019.pdf},
+  doi        = {10.24251/HICSS.2019.882},
   author     = {Hentschel, Raoul and Leyh, Christian and Baumhauer, Teresa},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Critical Success Factors for the Implementation and Adoption of Cloud Services in SMEs},
@@ -39,9 +40,11 @@ AU  - Baumhauer, Teresa
 TI  - Critical Success Factors for the Implementation and Adoption of Cloud Services in SMEs
 T2  - Hawaii International Conference on System Sciences
 PY  - 2019
+DO  - 10.24251/HICSS.2019.882
 UR  - http://hdl.handle.net/10125/60171
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2019.882>
 - URL: <http://hdl.handle.net/10125/60171>

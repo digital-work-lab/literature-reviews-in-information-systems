@@ -1,5 +1,5 @@
 ---
-title: "Citizen Diversity in e-Government Research - Moving the Field Forward"
+title: "Citizen Diversity in e-Government Research: Moving the Field Forward"
 author:
 - Andersson, Annika
 - Hatakka, Mathias
@@ -8,7 +8,7 @@ author:
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.586"
 url: "https://hdl.handle.net/10125/71204"
 journal:
   name: ""
@@ -21,9 +21,10 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{AnderssonHatakkaLarssonEtAl2021,
   file       = {data/pdfs/2021/AnderssonHatakkaLarssonEtAl2021.pdf},
+  doi        = {10.24251/HICSS.2021.586},
   author     = {Andersson, Annika and Hatakka, Mathias and Larsson, Hannu and Hedström, Karin},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Citizen Diversity in e-Government Research - Moving the Field Forward},
+  title      = {Citizen Diversity in e-Government Research: Moving the Field Forward},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71204}
 }
@@ -37,12 +38,14 @@ AU  - Andersson, Annika
 AU  - Hatakka, Mathias
 AU  - Larsson, Hannu
 AU  - Hedström, Karin
-TI  - Citizen Diversity in e-Government Research - Moving the Field Forward
+TI  - Citizen Diversity in e-Government Research: Moving the Field Forward
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.586
 UR  - https://hdl.handle.net/10125/71204
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.586>
 - URL: <https://hdl.handle.net/10125/71204>

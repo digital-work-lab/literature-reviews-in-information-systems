@@ -11,7 +11,7 @@ doi: "https://doi.org/10.1080/10919392.2011.590109"
 url: ""
 journal:
   name: "Journal of Organizational Computing and Electronic Commerce"
-cited_by: 150
+cited_by: 151
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
 

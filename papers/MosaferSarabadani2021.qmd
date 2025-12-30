@@ -1,12 +1,12 @@
 ---
-title: "Identity in the Digital Age - A Review of Information Technology Identity (ITID) Research in Information Systems"
+title: "Identity in the Digital Age: A Review of Information Technology Identity (ITID) Research in Information Systems"
 author:
 - Mosafer, Hossein
 - Sarabadani, Jalal
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.321"
 url: "https://hdl.handle.net/10125/70935"
 journal:
   name: ""
@@ -19,9 +19,10 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{MosaferSarabadani2021,
   file       = {data/pdfs/2021/MosaferSarabadani2021.pdf},
+  doi        = {10.24251/HICSS.2021.321},
   author     = {Mosafer, Hossein and Sarabadani, Jalal},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Identity in the Digital Age - A Review of Information Technology Identity (ITID) Research in Information Systems},
+  title      = {Identity in the Digital Age: A Review of Information Technology Identity (ITID) Research in Information Systems},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/70935}
 }
@@ -33,12 +34,14 @@ outlet: "Hawaii International Conference on System Sciences"
 TY  - CONF
 AU  - Mosafer, Hossein
 AU  - Sarabadani, Jalal
-TI  - Identity in the Digital Age - A Review of Information Technology Identity (ITID) Research in Information Systems
+TI  - Identity in the Digital Age: A Review of Information Technology Identity (ITID) Research in Information Systems
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.321
 UR  - https://hdl.handle.net/10125/70935
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.321>
 - URL: <https://hdl.handle.net/10125/70935>

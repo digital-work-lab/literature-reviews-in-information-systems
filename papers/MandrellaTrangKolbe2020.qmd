@@ -11,7 +11,7 @@ doi: "https://doi.org/10.17705/1JAIS.00606"
 url: "https://aisel.aisnet.org/jais/vol21/iss2/4"
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 14
+cited_by: 15
 outlet: "Journal of the Association for Information Systems"
 ---
 

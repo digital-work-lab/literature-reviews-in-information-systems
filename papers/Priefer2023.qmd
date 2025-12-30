@@ -5,7 +5,7 @@ author:
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.618"
 url: "https://hdl.handle.net/10125/103252"
 journal:
   name: ""
@@ -19,6 +19,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{Priefer2023,
   colrev_pdf_id = {cpid2:fffffffffe4090bffffffffffffffffff800001ffffffffffffffffffffc3ffffff81fffffffffffffbfbefffd0f000ff001800ff001800ff001000ff001894ff001800ff001000ff001800ff001000ff00580cff2ff800ff003000ff8ff000ff001800ff001000ff001000ff000800ffff1880ff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/Priefer2023.pdf},
+  doi        = {10.24251/HICSS.2023.618},
   author     = {Priefer, Jennifer},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Geographic Information Systems in Information Systems Research - Review and Research Prospects},
@@ -36,9 +37,11 @@ AU  - Priefer, Jennifer
 TI  - Geographic Information Systems in Information Systems Research - Review and Research Prospects
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.618
 UR  - https://hdl.handle.net/10125/103252
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.618>
 - URL: <https://hdl.handle.net/10125/103252>

@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1080/07421222.2019.1628936"
 url: "https://www.tandfonline.com/doi/full/10.1080/07421222.2019.1628936"
 journal:
   name: "Journal of Management Information Systems"
-cited_by: 97
+cited_by: 101
 outlet: "Journal of Management Information Systems"
 ---
 

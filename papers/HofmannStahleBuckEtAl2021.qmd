@@ -1,5 +1,5 @@
 ---
-title: "Data-driven Applications to Foster Absorptive Capacity - A Literature-based Conceptualization"
+title: "Data-driven Applications to Foster Absorptive Capacity: A Literature-based Conceptualization"
 author:
 - Hofmann, Peter
 - Stähle, Philipp
@@ -8,7 +8,7 @@ author:
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.593"
 url: "https://hdl.handle.net/10125/71211"
 journal:
   name: ""
@@ -21,9 +21,10 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{HofmannStahleBuckEtAl2021,
   file       = {data/pdfs/2021/HofmannStahleBuckEtAl2021.pdf},
+  doi        = {10.24251/HICSS.2021.593},
   author     = {Hofmann, Peter and Stähle, Philipp and Buck, Christoph and Thorwarth, Harald},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Data-driven Applications to Foster Absorptive Capacity - A Literature-based Conceptualization},
+  title      = {Data-driven Applications to Foster Absorptive Capacity: A Literature-based Conceptualization},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71211}
 }
@@ -37,12 +38,14 @@ AU  - Hofmann, Peter
 AU  - Stähle, Philipp
 AU  - Buck, Christoph
 AU  - Thorwarth, Harald
-TI  - Data-driven Applications to Foster Absorptive Capacity - A Literature-based Conceptualization
+TI  - Data-driven Applications to Foster Absorptive Capacity: A Literature-based Conceptualization
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.593
 UR  - https://hdl.handle.net/10125/71211
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.593>
 - URL: <https://hdl.handle.net/10125/71211>

@@ -7,7 +7,7 @@ author:
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.514"
 url: "https://hdl.handle.net/10125/103146"
 journal:
   name: ""
@@ -21,6 +21,7 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{KoppeLeischingRasspeEtAl2023,
   colrev_pdf_id = {cpid2:fffffffffe4090bffffffffffffffffff000000ffffffffffffffffff8181c3ff810081fffffffffff9fe76ffa0d000ff001800ff001800ff001800ff001000ff001800ff001800ff01f000ff07f000ff8ff000ff001800ff001800ff0009ffff001801ff000c9fff001800ff001800ffff792eff0fffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/KoppeLeischingRasspeEtAl2023.pdf},
+  doi        = {10.24251/HICSS.2023.514},
   author     = {Koppe, Timo and Leisching, Lukas and Rasspe, Stefanie},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Management of Digital Transformation: A Literature Review of Dynamic and Operational Capabilities},
@@ -40,9 +41,11 @@ AU  - Rasspe, Stefanie
 TI  - Management of Digital Transformation: A Literature Review of Dynamic and Operational Capabilities
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.514
 UR  - https://hdl.handle.net/10125/103146
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.514>
 - URL: <https://hdl.handle.net/10125/103146>

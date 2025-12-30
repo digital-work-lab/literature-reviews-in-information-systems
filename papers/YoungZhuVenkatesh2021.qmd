@@ -1,13 +1,13 @@
 ---
-title: "Emancipation Research in Information Systems - Integrating Agency, Dialogue, Inclusion, and Rationality Research"
+title: "Emancipation Research in Information Systems: Integrating Agency, Dialogue, Inclusion, and Rationality Research"
 author:
-- Young, Amber Grace
+- Young, Amber
 - Zhu, Yaping
 - Venkatesh, Viswanath
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.767"
 url: "https://hdl.handle.net/10125/71387"
 journal:
   name: ""
@@ -20,9 +20,10 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{YoungZhuVenkatesh2021,
   file       = {data/pdfs/2021/YoungZhuVenkatesh2021.pdf},
-  author     = {Young, Amber Grace and Zhu, Yaping and Venkatesh, Viswanath},
+  doi        = {10.24251/HICSS.2021.767},
+  author     = {Young, Amber and Zhu, Yaping and Venkatesh, Viswanath},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Emancipation Research in Information Systems - Integrating Agency, Dialogue, Inclusion, and Rationality Research},
+  title      = {Emancipation Research in Information Systems: Integrating Agency, Dialogue, Inclusion, and Rationality Research},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71387}
 }
@@ -32,15 +33,17 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ```bibtex
 TY  - CONF
-AU  - Young, Amber Grace
+AU  - Young, Amber
 AU  - Zhu, Yaping
 AU  - Venkatesh, Viswanath
-TI  - Emancipation Research in Information Systems - Integrating Agency, Dialogue, Inclusion, and Rationality Research
+TI  - Emancipation Research in Information Systems: Integrating Agency, Dialogue, Inclusion, and Rationality Research
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.767
 UR  - https://hdl.handle.net/10125/71387
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.767>
 - URL: <https://hdl.handle.net/10125/71387>

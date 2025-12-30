@@ -1,12 +1,12 @@
 ---
-title: "The Forgotten Model - Validating the Integrated Behavioral Model in Context of Information Security Awareness"
+title: "The Forgotten Model – Validating the Integrated Behavioral Model in Context of Information Security Awareness"
 author:
-- Schütz, Andreas E.
+- Schütz, Andreas
 - Fertig, Tobias
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.828"
 url: "https://hdl.handle.net/10125/103462"
 journal:
   name: ""
@@ -20,9 +20,10 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{SchutzFertig2023,
   colrev_pdf_id = {cpid2:fffffffffe4090bffffffffffffffffff800001fffffffffffffffffff03c0ffff07e0ffffffffffffbfbdfff911000ff001800ff001000ff001800ff001800ff001800ff001000ff001800ff001800ff21f000ff001800ff0ff000ff84d80fff000800ff001800ff001000ff001000fffd5e5fff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2023/SchutzFertig2023.pdf},
-  author     = {Schütz, Andreas E. and Fertig, Tobias},
+  doi        = {10.24251/HICSS.2023.828},
+  author     = {Schütz, Andreas and Fertig, Tobias},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {The Forgotten Model - Validating the Integrated Behavioral Model in Context of Information Security Awareness},
+  title      = {The Forgotten Model – Validating the Integrated Behavioral Model in Context of Information Security Awareness},
   year       = {2023},
   url        = {https://hdl.handle.net/10125/103462},
   dblp_key   = {https://dblp.org/rec/conf/hicss/SchutzF23}
@@ -33,14 +34,16 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ```bibtex
 TY  - CONF
-AU  - Schütz, Andreas E.
+AU  - Schütz, Andreas
 AU  - Fertig, Tobias
-TI  - The Forgotten Model - Validating the Integrated Behavioral Model in Context of Information Security Awareness
+TI  - The Forgotten Model – Validating the Integrated Behavioral Model in Context of Information Security Awareness
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.828
 UR  - https://hdl.handle.net/10125/103462
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.828>
 - URL: <https://hdl.handle.net/10125/103462>

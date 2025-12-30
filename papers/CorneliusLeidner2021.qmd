@@ -10,7 +10,7 @@ doi: "https://doi.org/10.24251/HICSS.2021.774"
 url: "http://hdl.handle.net/10125/71394"
 journal:
   name: ""
-cited_by: 7
+cited_by: 9
 outlet: "Hawaii International Conference on System Sciences"
 ---
 

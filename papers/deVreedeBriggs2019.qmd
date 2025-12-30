@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1080/07421222.2018.1550552"
 url: "http://www.jmis-web.org/articles/1419"
 journal:
   name: "Journal of Management Information Systems"
-cited_by: 0
+cited_by: 51
 outlet: "Journal of Management Information Systems"
 ---
 

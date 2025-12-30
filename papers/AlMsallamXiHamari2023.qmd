@@ -1,13 +1,13 @@
 ---
 title: "Unethical Gamification: A Literature Review"
 author:
-- Al-Msallam, Samaan
+- Al‐Msallam, Samaan
 - Xi, Nannan
 - Hamari, Juho
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.136"
 url: "https://hdl.handle.net/10125/102766"
 journal:
   name: ""
@@ -21,7 +21,8 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{AlMsallamXiHamari2023,
   colrev_pdf_id = {cpid2:fffffffffe4c9effffffffffffffffffff8001fffc3e7e3ff83c3c1fffffffffff3fa14ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff3bf800ff01f800ff0ff800ff001800ff001800ff001800ff001800ff001800ff40ffffff03ffffff0fffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/AlMsallamXiHamari2023.pdf},
-  author     = {Al-Msallam, Samaan and Xi, Nannan and Hamari, Juho},
+  doi        = {10.24251/HICSS.2023.136},
+  author     = {Al‐Msallam, Samaan and Xi, Nannan and Hamari, Juho},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Unethical Gamification: A Literature Review},
   year       = {2023},
@@ -34,15 +35,17 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ```bibtex
 TY  - CONF
-AU  - Al-Msallam, Samaan
+AU  - Al‐Msallam, Samaan
 AU  - Xi, Nannan
 AU  - Hamari, Juho
 TI  - Unethical Gamification: A Literature Review
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.136
 UR  - https://hdl.handle.net/10125/102766
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.136>
 - URL: <https://hdl.handle.net/10125/102766>

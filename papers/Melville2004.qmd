@@ -11,7 +11,7 @@ doi: "https://doi.org/10.2307/25148636"
 url: ""
 journal:
   name: "MIS Quarterly"
-cited_by: 1938
+cited_by: 1964
 outlet: "MIS Quarterly"
 ---
 

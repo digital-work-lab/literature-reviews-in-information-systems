@@ -5,13 +5,13 @@ author:
 - Cooper, Cary L.
 - Stich, Jean-François
 topic: ""
-categories: []
+categories: ['highly-cited']
 date: "2019"
 doi: "https://doi.org/10.1111/ISJ.12169"
 url: ""
 journal:
   name: "Information Systems Journal"
-cited_by: 0
+cited_by: 563
 outlet: "Information Systems Journal"
 ---
 

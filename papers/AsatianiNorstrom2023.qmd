@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1016/J.JSIS.2023.101789"
 url: ""
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 19
+cited_by: 20
 outlet: "The Journal of Strategic Information Systems"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "The Role of Enterprise Architecture in Building and Sustaining Information Technology - Enabled Organizational Agility"
+title: "The Role of Enterprise Architecture in Building and Sustaining Information Technology – Enabled Organizational Agility"
 author:
 - Lumor, Truth
-- Hirvonen, Ari P.
+- Hirvonen, Ari
 - Pulkkinen, Mirja
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.732"
 url: "https://hdl.handle.net/10125/71352"
 journal:
   name: ""
@@ -20,9 +20,10 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{LumorHirvonenPulkkinen2021,
   file       = {data/pdfs/2021/LumorHirvonenPulkkinen2021.pdf},
-  author     = {Lumor, Truth and Hirvonen, Ari P. and Pulkkinen, Mirja},
+  doi        = {10.24251/HICSS.2021.732},
+  author     = {Lumor, Truth and Hirvonen, Ari and Pulkkinen, Mirja},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {The Role of Enterprise Architecture in Building and Sustaining Information Technology - Enabled Organizational Agility},
+  title      = {The Role of Enterprise Architecture in Building and Sustaining Information Technology – Enabled Organizational Agility},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71352}
 }
@@ -33,14 +34,16 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 TY  - CONF
 AU  - Lumor, Truth
-AU  - Hirvonen, Ari P.
+AU  - Hirvonen, Ari
 AU  - Pulkkinen, Mirja
-TI  - The Role of Enterprise Architecture in Building and Sustaining Information Technology - Enabled Organizational Agility
+TI  - The Role of Enterprise Architecture in Building and Sustaining Information Technology – Enabled Organizational Agility
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.732
 UR  - https://hdl.handle.net/10125/71352
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.732>
 - URL: <https://hdl.handle.net/10125/71352>

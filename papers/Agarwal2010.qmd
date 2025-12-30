@@ -12,7 +12,7 @@ doi: "https://doi.org/10.1287/ISRE.1100.0327"
 url: ""
 journal:
   name: "Information Systems Research"
-cited_by: 768
+cited_by: 782
 outlet: "Information Systems Research"
 ---
 

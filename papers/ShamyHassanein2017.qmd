@@ -1,12 +1,12 @@
 ---
-title: "A Meta-Analysis of Enjoyment Effect on Technology Acceptance - The Moderating Role of Technology Conventionality"
+title: "A Meta-Analysis of Enjoyment Effect on Technology Acceptance: The Moderating Role of Technology Conventionality"
 author:
-- Shamy, Nour El
+- El Shamy, Nour
 - Hassanein, Khaled
 topic: ""
 categories: []
 date: "2017"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2017.501"
 url: "http://hdl.handle.net/10125/41661"
 journal:
   name: ""
@@ -20,9 +20,10 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{ShamyHassanein2017,
   colrev_pdf_id = {cpid2:fffffffffffffffffffffffffffffffff800001fff8221fffe1ff07ffeeffbffffbf8c8ff001000ff001800ff001800ff001800ff001802ff001800ff001800ff001800ff001800ff001800ff3ff800ffdff800ff8ff800ff001800ff001800ff001800ff001800ff001800ff001000ff041a77ffffffffff03e7fffffffffff},
   file       = {data/pdfs/2017/in/diffusion_of_ict/ShamyHassanein2017.pdf},
-  author     = {Shamy, Nour El and Hassanein, Khaled},
+  doi        = {10.24251/HICSS.2017.501},
+  author     = {El Shamy, Nour and Hassanein, Khaled},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {A Meta-Analysis of Enjoyment Effect on Technology Acceptance - The Moderating Role of Technology Conventionality},
+  title      = {A Meta-Analysis of Enjoyment Effect on Technology Acceptance: The Moderating Role of Technology Conventionality},
   year       = {2017},
   url        = {http://hdl.handle.net/10125/41661}
 }
@@ -32,14 +33,16 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ```bibtex
 TY  - CONF
-AU  - Shamy, Nour El
+AU  - El Shamy, Nour
 AU  - Hassanein, Khaled
-TI  - A Meta-Analysis of Enjoyment Effect on Technology Acceptance - The Moderating Role of Technology Conventionality
+TI  - A Meta-Analysis of Enjoyment Effect on Technology Acceptance: The Moderating Role of Technology Conventionality
 T2  - Hawaii International Conference on System Sciences
 PY  - 2017
+DO  - 10.24251/HICSS.2017.501
 UR  - http://hdl.handle.net/10125/41661
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2017.501>
 - URL: <http://hdl.handle.net/10125/41661>

@@ -10,7 +10,7 @@ doi: "https://doi.org/10.17705/1JAIS.00315"
 url: ""
 journal:
   name: "Journal of the Association for Information Systems"
-cited_by: 43
+cited_by: 44
 outlet: "Journal of the Association for Information Systems"
 ---
 

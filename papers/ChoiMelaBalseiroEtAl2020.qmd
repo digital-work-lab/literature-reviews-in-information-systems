@@ -12,7 +12,7 @@ doi: "https://doi.org/10.1287/ISRE.2019.0902"
 url: "https://www.doi.org/10.1287/ISRE.2019.0902"
 journal:
   name: "Information Systems Research"
-cited_by: 126
+cited_by: 130
 outlet: "Information Systems Research"
 ---
 

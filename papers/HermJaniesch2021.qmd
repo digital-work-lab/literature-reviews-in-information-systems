@@ -1,12 +1,12 @@
 ---
-title: "Towards an Implementation of Blockchain-based Collaboration Platforms in Supply Chain Networks - A Requirements Analysis"
+title: "Towards an Implementation of Blockchain-based Collaboration Platforms in Supply Chain Networks: A Requirements Analysis"
 author:
 - Herm, Lukas-Valentin
 - Janiesch, Christian
 topic: ""
 categories: []
 date: "2021"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2021.823"
 url: "https://hdl.handle.net/10125/71444"
 journal:
   name: ""
@@ -19,9 +19,10 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 @inproceedings{HermJaniesch2021,
   file       = {data/pdfs/2021/HermJaniesch2021.pdf},
+  doi        = {10.24251/HICSS.2021.823},
   author     = {Herm, Lukas-Valentin and Janiesch, Christian},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Towards an Implementation of Blockchain-based Collaboration Platforms in Supply Chain Networks - A Requirements Analysis},
+  title      = {Towards an Implementation of Blockchain-based Collaboration Platforms in Supply Chain Networks: A Requirements Analysis},
   year       = {2021},
   url        = {https://hdl.handle.net/10125/71444}
 }
@@ -33,12 +34,14 @@ outlet: "Hawaii International Conference on System Sciences"
 TY  - CONF
 AU  - Herm, Lukas-Valentin
 AU  - Janiesch, Christian
-TI  - Towards an Implementation of Blockchain-based Collaboration Platforms in Supply Chain Networks - A Requirements Analysis
+TI  - Towards an Implementation of Blockchain-based Collaboration Platforms in Supply Chain Networks: A Requirements Analysis
 T2  - Hawaii International Conference on System Sciences
 PY  - 2021
+DO  - 10.24251/HICSS.2021.823
 UR  - https://hdl.handle.net/10125/71444
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2021.823>
 - URL: <https://hdl.handle.net/10125/71444>

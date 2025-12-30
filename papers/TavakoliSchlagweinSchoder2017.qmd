@@ -11,7 +11,7 @@ doi: "https://doi.org/10.1016/J.JSIS.2017.01.003"
 url: "https://www.sciencedirect.com/science/article/pii/S0963868717300240"
 journal:
   name: "The Journal of Strategic Information Systems"
-cited_by: 87
+cited_by: 88
 outlet: "The Journal of Strategic Information Systems"
 ---
 

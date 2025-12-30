@@ -1,12 +1,12 @@
 ---
-title: "Control vs Content - A Systematic Review of the Social Media Research Literature"
+title: "Control vs Content: A Systematic Review of the Social Media Research Literature"
 author:
 - Almazyad, Fadi
-- Loiacono, Eleanor T.
+- Loiacono, Eleanor
 topic: ""
 categories: []
 date: "2020"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2020.316"
 url: "http://hdl.handle.net/10125/64058"
 journal:
   name: ""
@@ -20,9 +20,10 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{AlmazyadLoiacono2020,
   colrev_pdf_id = {cpid2:fffffffffe4090bffffffffffffffffffe00007ffe00007ffe0fe0ffff6fffffffbf9fffff19800ff001000ff001800ff001000ff001800ff001800ff001000fffff000ff0ff800ff001800ff000000ff00180fff00083fff001800ff001000ff001000ff001000ff001000ff000000ff727fffff0dffffff0fc3fdfffffffff},
   file       = {data/pdfs/2020/Digital and Social Media/AlmazyadLoiacono2020.pdf},
-  author     = {Almazyad, Fadi and Loiacono, Eleanor T.},
+  doi        = {10.24251/HICSS.2020.316},
+  author     = {Almazyad, Fadi and Loiacono, Eleanor},
   booktitle  = {Hawaii International Conference on System Sciences},
-  title      = {Control vs Content - A Systematic Review of the Social Media Research Literature},
+  title      = {Control vs Content: A Systematic Review of the Social Media Research Literature},
   year       = {2020},
   url        = {http://hdl.handle.net/10125/64058}
 }
@@ -33,13 +34,15 @@ outlet: "Hawaii International Conference on System Sciences"
 ```bibtex
 TY  - CONF
 AU  - Almazyad, Fadi
-AU  - Loiacono, Eleanor T.
-TI  - Control vs Content - A Systematic Review of the Social Media Research Literature
+AU  - Loiacono, Eleanor
+TI  - Control vs Content: A Systematic Review of the Social Media Research Literature
 T2  - Hawaii International Conference on System Sciences
 PY  - 2020
+DO  - 10.24251/HICSS.2020.316
 UR  - http://hdl.handle.net/10125/64058
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2020.316>
 - URL: <http://hdl.handle.net/10125/64058>

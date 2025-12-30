@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1016/J.DSS.2008.11.009"
 url: ""
 journal:
   name: "Decision Support Systems"
-cited_by: 138
+cited_by: 144
 outlet: "Decision Support Systems"
 ---
 

@@ -13,7 +13,7 @@ doi: "https://doi.org/10.24251/HICSS.2018.139"
 url: "http://aisel.aisnet.org/hicss-51/da/gamification/2"
 journal:
   name: ""
-cited_by: 28
+cited_by: 29
 outlet: "Hawaii International Conference on System Sciences"
 ---
 

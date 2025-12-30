@@ -3,11 +3,11 @@ title: "Understanding the Current State of Knowledge and Future Directions of Do
 author:
 - Fang, Yuan
 - Risius, Marten
-- Cheung, Christy M. K.
+- Cheung, Christy
 topic: ""
 categories: []
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.24251/HICSS.2023.672"
 url: "https://hdl.handle.net/10125/103306"
 journal:
   name: ""
@@ -21,7 +21,8 @@ outlet: "Hawaii International Conference on System Sciences"
 @inproceedings{FangRisiusCheung2023,
   colrev_pdf_id = {cpid2:fffffffffe7ffffffffffffffffffffff800001fff0d24fffe7e7c3ff838181fff3fc48ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff003800ff003800ff0ff800ff8ff800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff001800ff421fffff1fffffff0fc3fffffffffff},
   file       = {data/pdfs/2023/FangRisiusCheung2023.pdf},
-  author     = {Fang, Yuan and Risius, Marten and Cheung, Christy M. K.},
+  doi        = {10.24251/HICSS.2023.672},
+  author     = {Fang, Yuan and Risius, Marten and Cheung, Christy},
   booktitle  = {Hawaii International Conference on System Sciences},
   title      = {Understanding the Current State of Knowledge and Future Directions of Doxing Research: A Social Cognitive Theory Perspective},
   year       = {2023},
@@ -36,13 +37,15 @@ outlet: "Hawaii International Conference on System Sciences"
 TY  - CONF
 AU  - Fang, Yuan
 AU  - Risius, Marten
-AU  - Cheung, Christy M. K.
+AU  - Cheung, Christy
 TI  - Understanding the Current State of Knowledge and Future Directions of Doxing Research: A Social Cognitive Theory Perspective
 T2  - Hawaii International Conference on System Sciences
 PY  - 2023
+DO  - 10.24251/HICSS.2023.672
 UR  - https://hdl.handle.net/10125/103306
 ER  - 
 ```
 ## Links
 
+- DOI: <https://doi.org/10.24251/HICSS.2023.672>
 - URL: <https://hdl.handle.net/10125/103306>

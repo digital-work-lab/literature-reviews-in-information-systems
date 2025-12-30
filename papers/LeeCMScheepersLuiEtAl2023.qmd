@@ -12,7 +12,7 @@ doi: "https://doi.org/10.1016/J.IM.2023.103816"
 url: ""
 journal:
   name: "Information & Management"
-cited_by: 95
+cited_by: 100
 outlet: "Information & Management"
 ---
 
