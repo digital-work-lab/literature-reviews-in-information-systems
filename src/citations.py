@@ -81,7 +81,7 @@ def get_crossref_citation_count(doi: str) -> Optional[int]:
 
 
 def main() -> None:
-    filename = Path("records.bib")
+    filename = Path("data/records.bib")
 
     if not filename.is_file():
         raise SystemExit(f"File not found: {filename}")
