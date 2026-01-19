@@ -1,0 +1,54 @@
+---
+title: "Dynamic Capabilities in Information Systems Research: A Critical Review, Synthesis of Current Knowledge, and Recommendations for Future Research"
+author:
+- Steininger, Dennis M
+- Mikalef, Patrick
+- Pateli, Adamantia
+- Ortiz-de-Guinea, Ana
+topic: ""
+categories: []
+date: "2022"
+doi: "https://doi.org/10.17705/1JAIS.00736"
+url: ""
+journal:
+  name: "Journal of the Association for Information Systems"
+cited_by: 0
+outlet: "Journal of the Association for Information Systems"
+---
+
+## Citation: BibTeX
+
+```bibtex
+@article{SteiningerEtAl2022,
+  title      = {Dynamic Capabilities in Information Systems Research: A Critical Review, Synthesis of Current Knowledge, and Recommendations for Future Research},
+  author     = {Steininger, Dennis M and Mikalef, Patrick and Pateli, Adamantia and Ortiz-de-Guinea, Ana},
+  journal    = {Journal of the Association for Information Systems},
+  volume     = {23},
+  number     = {2},
+  pages      = {447--490},
+  year       = {2022},
+  doi        = {10.17705/1JAIS.00736}
+}
+```
+
+## Citation: RIS
+
+```bibtex
+TY  - JOUR
+AU  - Steininger, Dennis M
+AU  - Mikalef, Patrick
+AU  - Pateli, Adamantia
+AU  - Ortiz-de-Guinea, Ana
+TI  - Dynamic Capabilities in Information Systems Research: A Critical Review, Synthesis of Current Knowledge, and Recommendations for Future Research
+T2  - Journal of the Association for Information Systems
+PY  - 2022
+VL  - 23
+IS  - 2
+SP  - 447
+EP  - 490
+DO  - 10.17705/1JAIS.00736
+ER  - 
+```
+## Links
+
+- DOI: <https://doi.org/10.17705/1JAIS.00736>
