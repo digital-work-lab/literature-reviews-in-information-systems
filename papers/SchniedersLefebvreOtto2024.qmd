@@ -1,11 +1,12 @@
 ---
 title: "Look Beneath the Surface: Reconceptualizing Data Culture Literature Review"
 author:
-- Schnieders, Fabienne
-- Lefebvre, Hippolyte
-- Otto, Boris
+  - Schnieders, Fabienne
+  - Lefebvre, Hippolyte
+  - Otto, Boris
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schnieders, F., Lefebvre, H., & Otto, B. (2024). Look Beneath the Surface: Reconceptualizing Data Culture Literature Review. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schnieders, Fabienne
 AU  - Lefebvre, Hippolyte

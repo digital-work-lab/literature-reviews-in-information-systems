@@ -1,12 +1,13 @@
 ---
 title: "Carrots and Rainbows: Motivation and Social Practice in Open Source Software Development"
 author:
-- von Krogh
-- Haefliger
-- Spaeth
-- Wallin
-topic: ""
-categories: ['theoretical-review']
+  - von Krogh
+  - Haefliger
+  - Spaeth
+  - Wallin
+topic: "Other Domain"
+categories:
+  - theoretical-review
 date: "2012"
 doi: "https://doi.org/10.2307/41703471"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 465
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Krogh, V., Haefliger, Spaeth, & Wallin (2012). Carrots and Rainbows: Motivation and Social Practice in Open Source Software Development. MIS Quarterly, 36(2), 649. https://doi.org/10.2307/41703471.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - von Krogh
 AU  - Haefliger
@@ -48,6 +56,7 @@ SP  - 649
 DO  - 10.2307/41703471
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/41703471>

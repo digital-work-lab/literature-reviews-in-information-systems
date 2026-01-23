@@ -1,10 +1,11 @@
 ---
 title: "Applications of the Viable Systems Model in IS Research -- A Comprehensive Overview and Analysis"
 author:
-- Richter, Janek
-- Basten, Dirk
+  - Richter, Janek
+  - Basten, Dirk
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.565"
 url: "https://ieeexplore.ieee.org/document/6759166/"
@@ -13,6 +14,13 @@ journal:
 cited_by: 6
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Richter, J., & Basten, D. (2014). Applications of the Viable Systems Model in IS Research -- A Comprehensive Overview and Analysis. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2014.565.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Richter, Janek
 AU  - Basten, Dirk
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2014.565
 UR  - https://ieeexplore.ieee.org/document/6759166/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2014.565>

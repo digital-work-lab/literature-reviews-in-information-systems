@@ -1,9 +1,10 @@
 ---
 title: "Innovative Concepts within Knowledge Management"
 author:
-- Schenk, Johannes
+  - Schenk, Johannes
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.599"
 url: "https://hdl.handle.net/10125/103233"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schenk, J. (2023). Innovative Concepts within Knowledge Management. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.599.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schenk, Johannes
 TI  - Innovative Concepts within Knowledge Management
@@ -41,6 +49,7 @@ DO  - 10.24251/HICSS.2023.599
 UR  - https://hdl.handle.net/10125/103233
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.599>

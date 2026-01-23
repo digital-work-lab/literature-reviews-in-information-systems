@@ -1,11 +1,12 @@
 ---
 title: "Towards a Semi-Automated Approach for Systematic Literature Reviews"
 author:
-- Denzler, Tim
-- Enders, Martin Robert
-- Akello, Patricia
+  - Denzler, Tim
+  - Enders, Martin Robert
+  - Akello, Patricia
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2021/art_intel_sem_tech_intelligent_systems/art_intel_sem_tech_intelligent_systems/4"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Denzler, T., Enders, M. R., & Akello, P. (2021). Towards a Semi-Automated Approach for Systematic Literature Reviews. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2021/art_intel_sem_tech_intelligent_systems/art_intel_sem_tech_intelligent_systems/4.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Denzler, Tim
 AU  - Enders, Martin Robert
@@ -40,6 +48,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/amcis2021/art_intel_sem_tech_intelligent_systems/art_intel_sem_tech_intelligent_systems/4
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2021/art_intel_sem_tech_intelligent_systems/art_intel_sem_tech_intelligent_systems/4>

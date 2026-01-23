@@ -1,13 +1,14 @@
 ---
 title: "Understanding responsibility under uncertainty: A critical and scoping review of autonomous driving systems"
 author:
-- Rowe, Frantz
-- Jeanneret Medina, Maximiliano
-- Benoit Journé
-- Coëtard, Emmanuel
-- Myers, Michael
+  - Rowe, Frantz
+  - Jeanneret Medina, Maximiliano
+  - Benoit Journé
+  - Coëtard, Emmanuel
+  - Myers, Michael
 topic: ""
-categories: ['scoping-review']
+categories:
+  - scoping-review
 date: "2023"
 doi: "https://doi.org/10.1177/02683962231207108"
 url: ""
@@ -16,6 +17,13 @@ journal:
 cited_by: 10
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Rowe, F., Jeanneret Medina, M., Journé, B., Coëtard, E., & Myers, M. (2023). Understanding responsibility under uncertainty: A critical and scoping review of autonomous driving systems. Journal of Information Technology, 39(3), 587–615. https://doi.org/10.1177/02683962231207108.
+:::
 
 ## Citation: BibTeX
 
@@ -36,7 +44,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Rowe, Frantz
 AU  - Jeanneret Medina, Maximiliano
@@ -53,6 +61,7 @@ EP  - 615
 DO  - 10.1177/02683962231207108
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1177/02683962231207108>

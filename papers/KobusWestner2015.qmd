@@ -1,10 +1,11 @@
 ---
 title: "Lean Management of IT Organizations - A Literature Review"
 author:
-- Kobus, Jörn
-- Westner, Markus
+  - Kobus, Jörn
+  - Westner, Markus
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2015/172"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kobus, J., & Westner, M. (2015). Lean Management of IT Organizations - A Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2015/172.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kobus, Jörn
 AU  - Westner, Markus
@@ -38,6 +46,7 @@ PY  - 2015
 UR  - https://aisel.aisnet.org/pacis2015/172
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2015/172>

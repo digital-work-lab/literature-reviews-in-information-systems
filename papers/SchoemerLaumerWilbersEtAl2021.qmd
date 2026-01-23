@@ -1,14 +1,15 @@
 ---
 title: "Data-driven Student Advisory and Potential Direct Discrimination - A Literature Review on Machine Learning for Predicting Students' Academic Success"
 author:
-- Schoemer, Daniel
-- Laumer, Sven
-- Wilbers, Karl
-- Wolbring, Tobias
-- Weigert, Jonas
-- Treischl, Edgar
+  - Schoemer, Daniel
+  - Laumer, Sven
+  - Wilbers, Karl
+  - Wolbring, Tobias
+  - Weigert, Jonas
+  - Treischl, Edgar
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2021/social_inclusion/social_inclusion/10"
@@ -17,6 +18,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schoemer, D., Laumer, S., Wilbers, K., Wolbring, T., Weigert, J., & Treischl, E. (2021). Data-driven Student Advisory and Potential Direct Discrimination - A Literature Review on Machine Learning for Predicting Students' Academic Success. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2021/social_inclusion/social_inclusion/10.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schoemer, Daniel
 AU  - Laumer, Sven
@@ -46,6 +54,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/amcis2021/social_inclusion/social_inclusion/10
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2021/social_inclusion/social_inclusion/10>

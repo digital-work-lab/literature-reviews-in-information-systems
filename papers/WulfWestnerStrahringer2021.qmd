@@ -1,11 +1,12 @@
 ---
 title: "Cloud Computing Adoption - A Literature Review on What Is New and What We Still Need to Address"
 author:
-- Wulf, Frederik
-- Westner, Markus
-- Strahringer, Susanne
+  - Wulf, Frederik
+  - Westner, Markus
+  - Strahringer, Susanne
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.17705/1CAIS.04843"
 url: "https://aisel.aisnet.org/cais/vol48/iss1/44"
@@ -14,6 +15,13 @@ journal:
 cited_by: 10
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wulf, F., Westner, M., & Strahringer, S. (2021). Cloud Computing Adoption - A Literature Review on What Is New and What We Still Need to Address. Communications of the Association for Information Systems, 48, 523–561. https://doi.org/10.17705/1CAIS.04843.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wulf, Frederik
 AU  - Westner, Markus
@@ -47,6 +55,7 @@ DO  - 10.17705/1CAIS.04843
 UR  - https://aisel.aisnet.org/cais/vol48/iss1/44
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.04843>

@@ -1,11 +1,12 @@
 ---
 title: "Adoption of Blockchain to Address Healthcare Financing System Challenges: A Systematic Review"
 author:
-- Girdhari, Shaivar
-- Ndayizigamiye, Patrick
-- Idemudia, Efosa C.
+  - Girdhari, Shaivar
+  - Ndayizigamiye, Patrick
+  - Idemudia, Efosa C.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2023/sig_health/sig_health/28"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Girdhari, S., Ndayizigamiye, P., & Idemudia, E. C. (2023). Adoption of Blockchain to Address Healthcare Financing System Challenges: A Systematic Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2023/sig_health/sig_health/28.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Girdhari, Shaivar
 AU  - Ndayizigamiye, Patrick
@@ -43,6 +51,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/amcis2023/sig_health/sig_health/28
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2023/sig_health/sig_health/28>

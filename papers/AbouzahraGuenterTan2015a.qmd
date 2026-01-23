@@ -1,11 +1,12 @@
 ---
 title: "Integrating Information Systems and Healthcare Research to Understand Physicians' use of Health Information Systems - a Literature Review"
 author:
-- Abouzahra, Mohamed
-- Guenter, Dale
-- Tan, Joseph
+  - Abouzahra, Mohamed
+  - Guenter, Dale
+  - Tan, Joseph
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: ""
 url: "http://aisel.aisnet.org/icis2015/proceedings/IShealth/12"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Abouzahra, M., Guenter, D., & Tan, J. (2015). Integrating Information Systems and Healthcare Research to Understand Physicians' use of Health Information Systems - a Literature Review. In International Conference on Information Systems. http://aisel.aisnet.org/icis2015/proceedings/IShealth/12.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Abouzahra, Mohamed
 AU  - Guenter, Dale
@@ -40,6 +48,7 @@ PY  - 2015
 UR  - http://aisel.aisnet.org/icis2015/proceedings/IShealth/12
 ER  - 
 ```
+
 ## Links
 
 - URL: <http://aisel.aisnet.org/icis2015/proceedings/IShealth/12>

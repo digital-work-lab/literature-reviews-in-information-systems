@@ -1,10 +1,11 @@
 ---
 title: "Implementing Disruptive Technologies: What Have We Learned?"
 author:
-- Ghawe, A. S
-- Chan, Yolande E
+  - Ghawe, A. S
+  - Chan, Yolande E
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.17705/1CAIS.05030"
 url: "https://aisel.aisnet.org/cais/vol50/iss1/36"
@@ -13,6 +14,13 @@ journal:
 cited_by: 5
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ghawe, A. S., & Chan, Y. E. (2022). Implementing Disruptive Technologies: What Have We Learned?. Communications of the Association for Information Systems, 50, 646–689. https://doi.org/10.17705/1CAIS.05030.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ghawe, A. S
 AU  - Chan, Yolande E
@@ -47,6 +55,7 @@ DO  - 10.17705/1CAIS.05030
 UR  - https://aisel.aisnet.org/cais/vol50/iss1/36
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05030>

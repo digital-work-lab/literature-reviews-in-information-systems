@@ -1,10 +1,11 @@
 ---
 title: "Exploring Incentives and Challenges for Cybersecurity Intelligence Sharing (CIS) across Organizations: A Systematic Review"
 author:
-- Kolini, Farzan
-- Janczewski, Lech
+  - Kolini, Farzan
+  - Janczewski, Lech
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.17705/1CAIS.05004"
 url: "https://aisel.aisnet.org/cais/vol50/iss1/2"
@@ -13,6 +14,13 @@ journal:
 cited_by: 5
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kolini, F., & Janczewski, L. (2022). Exploring Incentives and Challenges for Cybersecurity Intelligence Sharing (CIS) across Organizations: A Systematic Review. Communications of the Association for Information Systems, 50, 86–121. https://doi.org/10.17705/1CAIS.05004.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Kolini, Farzan
 AU  - Janczewski, Lech
@@ -47,6 +55,7 @@ DO  - 10.17705/1CAIS.05004
 UR  - https://aisel.aisnet.org/cais/vol50/iss1/2
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05004>

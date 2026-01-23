@@ -1,13 +1,14 @@
 ---
 title: "Evolving Topics in Federated Learning: Trends, and Emerging Directions for IS Research Literature Review"
 author:
-- Uddin, Raihan
-- Shankar, Gauri
-- Hossain, Saddam
-- Prabhat Kumar, Mukta
-- Islam, Najmul
+  - Uddin, Raihan
+  - Shankar, Gauri
+  - Hossain, Saddam
+  - Prabhat Kumar, Mukta
+  - Islam, Najmul
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Uddin, R., Shankar, G., Hossain, S., Prabhat Kumar, M., & Islam, N. (2024). Evolving Topics in Federated Learning: Trends, and Emerging Directions for IS Research Literature Review. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Uddin, Raihan
 AU  - Shankar, Gauri

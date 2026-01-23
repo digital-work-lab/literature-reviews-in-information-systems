@@ -1,10 +1,11 @@
 ---
 title: "The influence of submission devices on user-generated content -a systematic literature review and weight analysis"
 author:
-- Wolf, Lukas
-- Madlberger, Maria
+  - Wolf, Lukas
+  - Madlberger, Maria
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wolf, L., & Madlberger, M. (2024). The influence of submission devices on user-generated content -a systematic literature review and weight analysis. In European Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wolf, Lukas
 AU  - Madlberger, Maria

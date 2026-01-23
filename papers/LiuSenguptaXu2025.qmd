@@ -1,11 +1,12 @@
 ---
 title: "Exploring the Interaction Between Technological Affordances and User Cognition: A Scoping Review of Blockchain-Enabled Decentralized Platforms"
 author:
-- Liu, Oliver
-- Sengupta, Avijit
-- Xu, Dongming
+  - Liu, Oliver
+  - Sengupta, Avijit
+  - Xu, Dongming
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Liu, O., Sengupta, A., & Xu, D. (2025). Exploring the Interaction Between Technological Affordances and User Cognition: A Scoping Review of Blockchain-Enabled Decentralized Platforms. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Liu, Oliver
 AU  - Sengupta, Avijit

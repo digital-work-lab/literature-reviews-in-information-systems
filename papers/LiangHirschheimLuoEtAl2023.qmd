@@ -1,12 +1,13 @@
 ---
 title: "Identifying the idiosyncrasies of behavioral information security discourse and proposing future research directions: A Foucauldian perspective"
 author:
-- Liang, Peter
-- Hirschheim, Rudy
-- Luo, Robert
-- Hollingsworth, Hayden
+  - Liang, Peter
+  - Hirschheim, Rudy
+  - Luo, Robert
+  - Hollingsworth, Hayden
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.1177/02683962231181146"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 4
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Liang, P., Hirschheim, R., Luo, R., & Hollingsworth, H. (2023). Identifying the idiosyncrasies of behavioral information security discourse and proposing future research directions: A Foucauldian perspective. Journal of Information Technology, 38(4), 382–415. https://doi.org/10.1177/02683962231181146.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Liang, Peter
 AU  - Hirschheim, Rudy
@@ -50,6 +58,7 @@ EP  - 415
 DO  - 10.1177/02683962231181146
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1177/02683962231181146>

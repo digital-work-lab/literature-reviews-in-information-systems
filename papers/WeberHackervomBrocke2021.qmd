@@ -1,11 +1,12 @@
 ---
 title: "Resilience in Information Systems Research - A Literature Review from a Socio-Technical and Temporal Perspective"
 author:
-- Weber, Manuel
-- Hacker, Janine
-- vom Brocke, Jan
+  - Weber, Manuel
+  - Hacker, Janine
+  - vom Brocke, Jan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/icis2021/is_resilience/is_resilience/3"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Weber, M., Hacker, J., & vom Brocke, J. (2021). Resilience in Information Systems Research - A Literature Review from a Socio-Technical and Temporal Perspective. In International Conference on Information Systems. https://aisel.aisnet.org/icis2021/is_resilience/is_resilience/3.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Weber, Manuel
 AU  - Hacker, Janine
@@ -40,6 +48,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/icis2021/is_resilience/is_resilience/3
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2021/is_resilience/is_resilience/3>

@@ -1,10 +1,11 @@
 ---
 title: "Resistance of Healthcare Information Technologies; Literature Review, Analysis, and Gaps"
 author:
-- Samhan, Bahae
-- Joshi, K. D.
+  - Samhan, Bahae
+  - Joshi, K. D.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.1109/HICSS.2015.362"
 url: "https://ieeexplore.ieee.org/document/7070177"
@@ -13,6 +14,13 @@ journal:
 cited_by: 12
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Samhan, B., & Joshi, K. D. (2015). Resistance of Healthcare Information Technologies; Literature Review, Analysis, and Gaps. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2015.362.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Samhan, Bahae
 AU  - Joshi, K. D.
@@ -40,6 +48,7 @@ DO  - 10.1109/HICSS.2015.362
 UR  - https://ieeexplore.ieee.org/document/7070177
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2015.362>

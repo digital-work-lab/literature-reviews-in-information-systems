@@ -1,12 +1,13 @@
 ---
 title: "Digital Health Interventions and Chronic Illness Self-Management among CALD Individuals: A Literature Review and Research Agenda"
 author:
-- Chintanu, Yolanda
-- Chang, Shanton
-- Liu, Libo
-- Baxter, Nancy
+  - Chintanu, Yolanda
+  - Chang, Shanton
+  - Liu, Libo
+  - Baxter, Nancy
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2025/ishealthcare/ishealthcare/8"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chintanu, Y., Chang, S., Liu, L., & Baxter, N. (2025). Digital Health Interventions and Chronic Illness Self-Management among CALD Individuals: A Literature Review and Research Agenda. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2025/ishealthcare/ishealthcare/8.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Chintanu, Yolanda
 AU  - Chang, Shanton
@@ -43,6 +51,7 @@ PY  - 2025
 UR  - https://aisel.aisnet.org/pacis2025/ishealthcare/ishealthcare/8
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2025/ishealthcare/ishealthcare/8>

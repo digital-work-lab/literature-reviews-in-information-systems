@@ -1,12 +1,13 @@
 ---
 title: "Reviewing the Contributing Factors and Benefits of Distributed Collaboration"
 author:
-- O'Leary, Kevin
-- Gleasure, Rob
-- O'Reilly, Philip
-- Feller, Joseph
+  - O'Leary, Kevin
+  - Gleasure, Rob
+  - O'Reilly, Philip
+  - Feller, Joseph
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.17705/1CAIS.04722"
 url: "https://aisel.aisnet.org/cais/vol47/iss1/24"
@@ -15,6 +16,13 @@ journal:
 cited_by: 6
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+O'Leary, K., Gleasure, R., O'Reilly, P., & Feller, J. (2020). Reviewing the Contributing Factors and Benefits of Distributed Collaboration. Communications of the Association for Information Systems, 47, 476–520. https://doi.org/10.17705/1CAIS.04722.
+:::
 
 ## Citation: BibTeX
 
@@ -36,7 +44,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - O'Leary, Kevin
 AU  - Gleasure, Rob
@@ -52,6 +60,7 @@ DO  - 10.17705/1CAIS.04722
 UR  - https://aisel.aisnet.org/cais/vol47/iss1/24
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.04722>

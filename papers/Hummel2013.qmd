@@ -1,11 +1,12 @@
 ---
 title: "The Role of Communication in Agile Systems Development"
 author:
-- Hummel, Markus
-- Rosenkranz, Christoph
-- Holten, Roland
-topic: ""
-categories: ['theoretical-review']
+  - Hummel, Markus
+  - Rosenkranz, Christoph
+  - Holten, Roland
+topic: "Software Development"
+categories:
+  - theoretical-review
 date: "2013"
 doi: "https://doi.org/10.1007/S12599-013-0282-4"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 75
 outlet: "Business & Information Systems Engineering"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hummel, M., Rosenkranz, C., & Holten, R. (2013). The Role of Communication in Agile Systems Development. Business & Information Systems Engineering, 5(5), 343–355. https://doi.org/10.1007/S12599-013-0282-4.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Business & Information Systems Engineering"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Hummel, Markus
 AU  - Rosenkranz, Christoph
@@ -48,6 +56,7 @@ EP  - 355
 DO  - 10.1007/S12599-013-0282-4
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S12599-013-0282-4>

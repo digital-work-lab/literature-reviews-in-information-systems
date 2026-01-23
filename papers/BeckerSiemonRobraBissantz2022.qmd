@@ -1,11 +1,12 @@
 ---
 title: "Smart Participation Design: Prescriptive Knowledge for Bottom-Up Participation"
 author:
-- Becker, Felix
-- Siemon, Dominik
-- Robra-Bissantz, Susanne
+  - Becker, Felix
+  - Siemon, Dominik
+  - Robra-Bissantz, Susanne
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.17705/1CAIS.05121"
 url: "https://aisel.aisnet.org/cais/vol51/iss1/3"
@@ -14,6 +15,13 @@ journal:
 cited_by: 4
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Becker, F., Siemon, D., & Robra-Bissantz, S. (2022). Smart Participation Design: Prescriptive Knowledge for Bottom-Up Participation. Communications of the Association for Information Systems, 51, 484–508. https://doi.org/10.17705/1CAIS.05121.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Becker, Felix
 AU  - Siemon, Dominik
@@ -49,6 +57,7 @@ DO  - 10.17705/1CAIS.05121
 UR  - https://aisel.aisnet.org/cais/vol51/iss1/3
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05121>

@@ -1,10 +1,11 @@
 ---
 title: "Complex Problem Solving through Human-AI Collaboration: Literature Review on Research Contexts"
 author:
-- Memmert, Lucas
-- Bittner, Eva A. C.
+  - Memmert, Lucas
+  - Bittner, Eva A. C.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.046"
 url: "http://hdl.handle.net/10125/79376"
@@ -13,6 +14,13 @@ journal:
 cited_by: 17
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Memmert, L., & Bittner, E. A. C. (2022). Complex Problem Solving through Human-AI Collaboration: Literature Review on Research Contexts. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.046.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Memmert, Lucas
 AU  - Bittner, Eva A. C.
@@ -41,6 +49,7 @@ DO  - 10.24251/HICSS.2022.046
 UR  - http://hdl.handle.net/10125/79376
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.046>

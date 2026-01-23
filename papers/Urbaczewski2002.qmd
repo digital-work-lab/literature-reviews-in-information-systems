@@ -1,11 +1,12 @@
 ---
 title: "Electronic Commerce Research: A Taxonomy and Synthesis"
 author:
-- Urbaczewski, Andrew
-- Jessup, Leonard M.
-- Wheeler, Bradley
-topic: ""
-categories: ['scoping-review']
+  - Urbaczewski, Andrew
+  - Jessup, Leonard M.
+  - Wheeler, Bradley
+topic: "E-Commerce"
+categories:
+  - scoping-review
 date: "2002"
 doi: "https://doi.org/10.1207/S15327744JOCE1204_1"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 13
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Urbaczewski, A., Jessup, L. M., & Wheeler, B. (2002). Electronic Commerce Research: A Taxonomy and Synthesis. Journal of Organizational Computing and Electronic Commerce, 12(4), 263–305. https://doi.org/10.1207/S15327744JOCE1204_1.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Journal of Organizational Computing and Electronic Commerce"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Urbaczewski, Andrew
 AU  - Jessup, Leonard M.
@@ -47,6 +55,7 @@ EP  - 305
 DO  - 10.1207/S15327744JOCE1204_1
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1207/S15327744JOCE1204_1>

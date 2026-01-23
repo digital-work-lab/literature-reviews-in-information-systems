@@ -1,10 +1,11 @@
 ---
 title: "Determinants of Information Systems and Information Technology Project Team Success - A Literature Review and a Conceptual Model"
 author:
-- Jetu, Fanta Tesgera
-- Riedl, René
+  - Jetu, Fanta Tesgera
+  - Riedl, René
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2012"
 doi: "https://doi.org/10.17705/1CAIS.03027"
 url: "https://aisel.aisnet.org/cais/vol30/iss1/27"
@@ -13,6 +14,13 @@ journal:
 cited_by: 7
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Jetu, F. T., & Riedl, R. (2012). Determinants of Information Systems and Information Technology Project Team Success - A Literature Review and a Conceptual Model. Communications of the Association for Information Systems, 30. https://doi.org/10.17705/1CAIS.03027.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Jetu, Fanta Tesgera
 AU  - Riedl, René
@@ -42,6 +50,7 @@ DO  - 10.17705/1CAIS.03027
 UR  - https://aisel.aisnet.org/cais/vol30/iss1/27
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03027>

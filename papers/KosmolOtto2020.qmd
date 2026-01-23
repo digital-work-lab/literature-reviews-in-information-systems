@@ -1,10 +1,11 @@
 ---
 title: "Implementation Barriers of Industrial Symbiosis: A Systematic Review"
 author:
-- Kosmol, Linda
-- Otto, Lena
+  - Kosmol, Linda
+  - Otto, Lena
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.741"
 url: "http://hdl.handle.net/10125/64483"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kosmol, L., & Otto, L. (2020). Implementation Barriers of Industrial Symbiosis: A Systematic Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.741.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kosmol, Linda
 AU  - Otto, Lena
@@ -42,6 +50,7 @@ DO  - 10.24251/HICSS.2020.741
 UR  - http://hdl.handle.net/10125/64483
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.741>

@@ -1,10 +1,11 @@
 ---
 title: "Digital Ecosystems as a Unit of Scientific Analysis. A Sociological Investigation"
 author:
-- Bygstad, Bendik
-- Dulsrud, Arne
+  - Bygstad, Bendik
+  - Dulsrud, Arne
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.698"
 url: "http://hdl.handle.net/10125/64440"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Bygstad, B., & Dulsrud, A. (2020). Digital Ecosystems as a Unit of Scientific Analysis. A Sociological Investigation. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.698.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Bygstad, Bendik
 AU  - Dulsrud, Arne
@@ -42,6 +50,7 @@ DO  - 10.24251/HICSS.2020.698
 UR  - http://hdl.handle.net/10125/64440
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.698>

@@ -1,11 +1,12 @@
 ---
 title: "Characteristics of Digital Platforms from a B2B Perspective - A Systematic Literature Review"
 author:
-- Hasler, Daniel
-- Krumay, Barbara
-- Schallmo, Daniel
+  - Hasler, Daniel
+  - Krumay, Barbara
+  - Schallmo, Daniel
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2022/199"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hasler, D., Krumay, B., & Schallmo, D. (2022). Characteristics of Digital Platforms from a B2B Perspective - A Systematic Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2022/199.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hasler, Daniel
 AU  - Krumay, Barbara
@@ -41,6 +49,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/pacis2022/199
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2022/199>

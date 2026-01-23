@@ -1,9 +1,10 @@
 ---
 title: "Revisiting IS business value research: what we already know, what we still need to know, and how we can get there"
 author:
-- Schryen, Guido
-topic: ""
-categories: ['critical-review']
+  - Schryen, Guido
+topic: "IS Value"
+categories:
+  - critical-review
 date: "2013"
 doi: "https://doi.org/10.1057/EJIS.2012.45"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 276
 outlet: "European Journal of Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schryen, G. (2013). Revisiting IS business value research: what we already know, what we still need to know, and how we can get there. European Journal of Information Systems, 22(2), 139–169. https://doi.org/10.1057/EJIS.2012.45.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Journal of Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Schryen, Guido
 TI  - Revisiting IS business value research: what we already know, what we still need to know, and how we can get there
@@ -43,6 +51,7 @@ EP  - 169
 DO  - 10.1057/EJIS.2012.45
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/EJIS.2012.45>

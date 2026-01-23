@@ -1,12 +1,13 @@
 ---
 title: "Mixed-Methods in Information Systems Research: Status Quo, Core Concepts, and Future Research Implications"
 author:
-- Reis, Lea Lea
-- Maier, Christian Maier Christian
-- Weitzel, Tim Weitzel Tim
-- Reis
+  - Reis, Lea Lea
+  - Maier, Christian Maier Christian
+  - Weitzel, Tim Weitzel Tim
+  - Reis
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.17705/1CAIS.05106"
 url: "https://aisel.aisnet.org/cais/vol51/iss1/17"
@@ -15,6 +16,13 @@ journal:
 cited_by: 6
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Reis, L. L., Maier, C. M. C., Weitzel, T. W. T., & Reis (2022). Mixed-Methods in Information Systems Research: Status Quo, Core Concepts, and Future Research Implications. Communications of the Association for Information Systems, 51, 95–119. https://doi.org/10.17705/1CAIS.05106.
+:::
 
 ## Citation: BibTeX
 
@@ -36,7 +44,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Reis, Lea Lea
 AU  - Maier, Christian Maier Christian
@@ -52,6 +60,7 @@ DO  - 10.17705/1CAIS.05106
 UR  - https://aisel.aisnet.org/cais/vol51/iss1/17
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05106>

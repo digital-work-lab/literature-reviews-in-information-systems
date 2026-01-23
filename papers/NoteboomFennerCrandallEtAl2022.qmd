@@ -1,12 +1,13 @@
 ---
 title: "The Past Decade View of the IS Workforce and Gender Literature: A Systematic Review"
 author:
-- Noteboom, Cherie
-- Fenner, Chad
-- Crandall, Kalee
-- Crandall, Kodey
+  - Noteboom, Cherie
+  - Fenner, Chad
+  - Crandall, Kalee
+  - Crandall, Kodey
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.847"
 url: "http://hdl.handle.net/10125/80187"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Noteboom, C., Fenner, C., Crandall, K., & Crandall, K. (2022). The Past Decade View of the IS Workforce and Gender Literature: A Systematic Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.847.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Noteboom, Cherie
 AU  - Fenner, Chad
@@ -47,6 +55,7 @@ DO  - 10.24251/HICSS.2022.847
 UR  - http://hdl.handle.net/10125/80187
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.847>

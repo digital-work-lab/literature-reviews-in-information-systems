@@ -1,9 +1,10 @@
 ---
 title: "Moving cultural information systems research toward maturity"
 author:
-- Tams, Stefan
-topic: ""
-categories: ['critical-review']
+  - Tams, Stefan
+topic: "Other Domain"
+categories:
+  - critical-review
 date: "2013"
 doi: "https://doi.org/10.1108/ITP-11-2012-0138"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 11
 outlet: "Information Technology & People"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Tams, S. (2013). Moving cultural information systems research toward maturity. Information Technology & People, 26(4), 383–400. https://doi.org/10.1108/ITP-11-2012-0138.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Information Technology & People"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Tams, Stefan
 TI  - Moving cultural information systems research toward maturity
@@ -44,6 +52,7 @@ EP  - 400
 DO  - 10.1108/ITP-11-2012-0138
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1108/ITP-11-2012-0138>

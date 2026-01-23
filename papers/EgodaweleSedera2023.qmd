@@ -1,10 +1,11 @@
 ---
 title: "Understanding the Theoretical Foundations of Digital Transformation Literature: A Systematic Review"
 author:
-- Egodawele, Mekhala
-- Sedera, Darshana D.
+  - Egodawele, Mekhala
+  - Sedera, Darshana D.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2023/sig_dite/sig_dite/20"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Egodawele, M., & Sedera, D. D. (2023). Understanding the Theoretical Foundations of Digital Transformation Literature: A Systematic Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2023/sig_dite/sig_dite/20.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Egodawele, Mekhala
 AU  - Sedera, Darshana D.
@@ -41,6 +49,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/amcis2023/sig_dite/sig_dite/20
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2023/sig_dite/sig_dite/20>

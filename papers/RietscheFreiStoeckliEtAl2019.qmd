@@ -1,12 +1,13 @@
 ---
 title: "Not All Reviews are Equal - a literature Review on Online Review Helpfulness"
 author:
-- Rietsche, Roman
-- Frei, Daniel
-- Stoeckli, Emanuel
-- Söllner, Matthias
+  - Rietsche, Roman
+  - Frei, Daniel
+  - Stoeckli, Emanuel
+  - Söllner, Matthias
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2019_rp/58"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Rietsche, R., Frei, D., Stoeckli, E., & Söllner, M. (2019). Not All Reviews are Equal - a literature Review on Online Review Helpfulness. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2019_rp/58.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Rietsche, Roman
 AU  - Frei, Daniel
@@ -42,6 +50,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/ecis2019_rp/58
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2019_rp/58>

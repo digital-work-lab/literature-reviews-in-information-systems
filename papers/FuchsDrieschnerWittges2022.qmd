@@ -1,11 +1,12 @@
 ---
 title: "Improving Support Ticket Systems Using Machine Learning: A Literature Review"
 author:
-- Fuchs, Simon
-- Drieschner, Clemens
-- Wittges, Holger
+  - Fuchs, Simon
+  - Drieschner, Clemens
+  - Wittges, Holger
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.238"
 url: "http://hdl.handle.net/10125/79570"
@@ -14,6 +15,13 @@ journal:
 cited_by: 9
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Fuchs, S., Drieschner, C., & Wittges, H. (2022). Improving Support Ticket Systems Using Machine Learning: A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.238.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Fuchs, Simon
 AU  - Drieschner, Clemens
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2022.238
 UR  - http://hdl.handle.net/10125/79570
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.238>

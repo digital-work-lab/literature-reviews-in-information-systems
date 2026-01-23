@@ -1,12 +1,13 @@
 ---
 title: "Facing Big Data System Architecture Deployments: Towards an Automated Approach Using Container Technologies for Rapid Prototyping"
 author:
-- Volk, Matthias
-- Staegemann, Daniel
-- Islam, Ashraful
-- Turowski, Klaus
+  - Volk, Matthias
+  - Staegemann, Daniel
+  - Islam, Ashraful
+  - Turowski, Klaus
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.743"
 url: "http://hdl.handle.net/10125/80083"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Volk, M., Staegemann, D., Islam, A., & Turowski, K. (2022). Facing Big Data System Architecture Deployments: Towards an Automated Approach Using Container Technologies for Rapid Prototyping. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.743.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Volk, Matthias
 AU  - Staegemann, Daniel
@@ -47,6 +55,7 @@ DO  - 10.24251/HICSS.2022.743
 UR  - http://hdl.handle.net/10125/80083
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.743>

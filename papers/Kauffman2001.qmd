@@ -1,10 +1,11 @@
 ---
 title: "Economics and Electronic Commerce: Survey and Directions for Research"
 author:
-- Kauffman, Robert J.
-- Walden, Eric A.
-topic: ""
-categories: ['narrative-review']
+  - Kauffman, Robert J.
+  - Walden, Eric A.
+topic: "E-Commerce"
+categories:
+  - narrative-review
 date: "2001"
 doi: "https://doi.org/10.1080/10864415.2001.11044222"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 214
 outlet: "International Journal of Electronic Commerce"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kauffman, R. J., & Walden, E. A. (2001). Economics and Electronic Commerce: Survey and Directions for Research. International Journal of Electronic Commerce, 5(4), 5–116. https://doi.org/10.1080/10864415.2001.11044222.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "International Journal of Electronic Commerce"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Kauffman, Robert J.
 AU  - Walden, Eric A.
@@ -45,6 +53,7 @@ EP  - 116
 DO  - 10.1080/10864415.2001.11044222
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/10864415.2001.11044222>

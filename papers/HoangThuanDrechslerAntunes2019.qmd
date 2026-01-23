@@ -1,11 +1,12 @@
 ---
 title: "Construction of Design Science Research Questions"
 author:
-- Hoang Thuan, Nguyen
-- Drechsler, Andreas
-- Antunes, Pedro
+  - Hoang Thuan, Nguyen
+  - Drechsler, Andreas
+  - Antunes, Pedro
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.17705/1CAIS.04420"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 17
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hoang Thuan, N., Drechsler, A., & Antunes, P. (2019). Construction of Design Science Research Questions. Communications of the Association for Information Systems, 44, 332–363. https://doi.org/10.17705/1CAIS.04420.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Hoang Thuan, Nguyen
 AU  - Drechsler, Andreas
@@ -48,6 +56,7 @@ EP  - 363
 DO  - 10.17705/1CAIS.04420
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.04420>

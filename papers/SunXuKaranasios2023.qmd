@@ -1,11 +1,12 @@
 ---
 title: "How parts connect to whole in building digital generativity in digital platform ecosystems"
 author:
-- Sun, Jiamei
-- Xu, Dongming
-- Karanasios, Stan
+  - Sun, Jiamei
+  - Xu, Dongming
+  - Karanasios, Stan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2023_rip/37"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Sun, J., Xu, D., & Karanasios, S. (2023). How parts connect to whole in building digital generativity in digital platform ecosystems. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2023_rip/37.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Sun, Jiamei
 AU  - Xu, Dongming
@@ -42,6 +50,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/ecis2023_rip/37
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2023_rip/37>

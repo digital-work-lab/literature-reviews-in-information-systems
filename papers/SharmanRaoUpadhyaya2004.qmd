@@ -1,11 +1,12 @@
 ---
 title: "Metrics for Information Security - A literature review"
 author:
-- Sharman, Raj
-- Rao, H. Raghav
-- Upadhyaya, Shambhu J.
+  - Sharman, Raj
+  - Rao, H. Raghav
+  - Upadhyaya, Shambhu J.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2004"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2004/181"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Sharman, R., Rao, H. R., & Upadhyaya, S. J. (2004). Metrics for Information Security - A literature review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2004/181.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Sharman, Raj
 AU  - Rao, H. Raghav
@@ -40,6 +48,7 @@ PY  - 2004
 UR  - https://aisel.aisnet.org/amcis2004/181
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2004/181>

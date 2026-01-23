@@ -1,10 +1,11 @@
 ---
 title: "Measuring the Success of the Business Correspondence (BC) model - A Literature Review"
 author:
-- Goel, Kanika
-- Bandara, Wasana
+  - Goel, Kanika
+  - Bandara, Wasana
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2017/170"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Goel, K., & Bandara, W. (2017). Measuring the Success of the Business Correspondence (BC) model - A Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2017/170.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Goel, Kanika
 AU  - Bandara, Wasana
@@ -38,6 +46,7 @@ PY  - 2017
 UR  - https://aisel.aisnet.org/pacis2017/170
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2017/170>

@@ -1,14 +1,15 @@
 ---
 title: "Review: Power and Information Technology Research: A Metatriangulation Review"
 author:
-- Jasperson, Jon (Sean)
-- Carte, Traci A.
-- Saunders, Carol S.
-- Butler, Brian S.
-- Croes, Henry J. P.
-- Zheng, Weijun
-topic: ""
-categories: ['theoretical-review']
+  - Jasperson, Jon (Sean)
+  - Carte, Traci A.
+  - Saunders, Carol S.
+  - Butler, Brian S.
+  - Croes, Henry J. P.
+  - Zheng, Weijun
+topic: "Other Domain"
+categories:
+  - theoretical-review
 date: "2002"
 doi: "https://doi.org/10.2307/4132315"
 url: ""
@@ -17,6 +18,13 @@ journal:
 cited_by: 226
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Jasperson, J. (., Carte, T. A., Saunders, C. S., Butler, B. S., Croes, H. J. P., & Zheng, W. (2002). Review: Power and Information Technology Research: A Metatriangulation Review. MIS Quarterly, 26(4), 397. https://doi.org/10.2307/4132315.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Jasperson, Jon (Sean)
 AU  - Carte, Traci A.
@@ -52,6 +60,7 @@ SP  - 397
 DO  - 10.2307/4132315
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/4132315>

@@ -1,12 +1,13 @@
 ---
 title: "Current Developments in Management Reporting -A Systematic Literature Review focusing on Digitization and Role Changes"
 author:
-- Ulrich, Patrick S
-- Frank, Vanessa
-- Buettner, Ricardo
-- Becker, Wolfgang
+  - Ulrich, Patrick S
+  - Frank, Vanessa
+  - Buettner, Ricardo
+  - Becker, Wolfgang
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2022/332"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ulrich, P. S., Frank, V., Buettner, R., & Becker, W. (2022). Current Developments in Management Reporting -A Systematic Literature Review focusing on Digitization and Role Changes. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2022/332.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Ulrich, Patrick S
 AU  - Frank, Vanessa
@@ -43,6 +51,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/pacis2022/332
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2022/332>

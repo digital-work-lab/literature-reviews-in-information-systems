@@ -1,11 +1,12 @@
 ---
 title: "End-user training methods"
 author:
-- Gupta, Saurabh
-- Bostrom, Robert P.
-- Huber, Mark
-topic: ""
-categories: ['theoretical-review']
+  - Gupta, Saurabh
+  - Bostrom, Robert P.
+  - Huber, Mark
+topic: "Human Computer Interaction"
+categories:
+  - theoretical-review
 date: "2010"
 doi: "https://doi.org/10.1145/1899639.1899641"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 48
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gupta, S., Bostrom, R. P., & Huber, M. (2010). End-user training methods. ACM SIGMIS Database: the DATABASE for Advances in Information Systems, 41(4), 9–39. https://doi.org/10.1145/1899639.1899641.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Gupta, Saurabh
 AU  - Bostrom, Robert P.
@@ -48,6 +56,7 @@ EP  - 39
 DO  - 10.1145/1899639.1899641
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1145/1899639.1899641>

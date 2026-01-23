@@ -1,15 +1,16 @@
 ---
 title: "Citizen Participation Level in Smart Governance: A Literature Review"
 author:
-- Andrade, Bruno
-- Fundação, Figueiredo
-- Vargas, Getulio
-- Eaesp, Fgv
-- Przeybilovicz, Erico
-- Alexandra, Maria
-- Cortez Da Cunha Fundação, Viegas
+  - Andrade, Bruno
+  - Fundação, Figueiredo
+  - Vargas, Getulio
+  - Eaesp, Fgv
+  - Przeybilovicz, Erico
+  - Alexandra, Maria
+  - Cortez Da Cunha Fundação, Viegas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: ""
@@ -18,6 +19,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Andrade, B., Fundação, F., Vargas, G., Eaesp, F., Przeybilovicz, E., Alexandra, M., & Cortez Da Cunha Fundação, V. (2023). Citizen Participation Level in Smart Governance: A Literature Review. In Americas Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Andrade, Bruno
 AU  - Fundação, Figueiredo

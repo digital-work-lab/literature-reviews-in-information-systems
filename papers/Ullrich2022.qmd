@@ -1,9 +1,10 @@
 ---
 title: "Opportunities and Challenges of Big Data and Predictive Analytics for Achieving the UN's SDGs"
 author:
-- Ullrich, André
+  - Ullrich, André
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2022/279"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ullrich, A. (2022). Opportunities and Challenges of Big Data and Predictive Analytics for Achieving the UN's SDGs. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2022/279.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Ullrich, André
 TI  - Opportunities and Challenges of Big Data and Predictive Analytics for Achieving the UN's SDGs
@@ -37,6 +45,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/pacis2022/279
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2022/279>

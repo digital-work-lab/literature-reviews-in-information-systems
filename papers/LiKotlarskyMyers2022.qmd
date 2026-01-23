@@ -1,11 +1,12 @@
 ---
 title: "Crowdsourcing in Response to Disaster: A Literature Review"
 author:
-- Li, Xiao
-- Kotlarsky, Julia
-- Myers, Michael David
+  - Li, Xiao
+  - Kotlarsky, Julia
+  - Myers, Michael David
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2022/conf_theme/conf_theme/11"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Li, X., Kotlarsky, J., & Myers, M. D. (2022). Crowdsourcing in Response to Disaster: A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2022/conf_theme/conf_theme/11.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Li, Xiao
 AU  - Kotlarsky, Julia
@@ -43,6 +51,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/amcis2022/conf_theme/conf_theme/11
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2022/conf_theme/conf_theme/11>

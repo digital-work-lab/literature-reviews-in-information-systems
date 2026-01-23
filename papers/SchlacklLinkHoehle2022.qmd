@@ -1,11 +1,12 @@
 ---
 title: "Antecedents and consequences of data breaches: A systematic review"
 author:
-- Schlackl, Frederic
-- Link, Nico
-- Hoehle, Hartmut
+  - Schlackl, Frederic
+  - Link, Nico
+  - Hoehle, Hartmut
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.1016/J.IM.2022.103638"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 91
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schlackl, F., Link, N., & Hoehle, H. (2022). Antecedents and consequences of data breaches: A systematic review. Information & Management, 59(4). https://doi.org/10.1016/J.IM.2022.103638.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Schlackl, Frederic
 AU  - Link, Nico
@@ -44,6 +52,7 @@ IS  - 4
 DO  - 10.1016/J.IM.2022.103638
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2022.103638>

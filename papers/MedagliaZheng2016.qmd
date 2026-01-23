@@ -1,10 +1,11 @@
 ---
 title: "Characterizing Government Social Media Research - Towards a Grounded Overview Model"
 author:
-- Medaglia, Rony
-- Zheng, Lei
+  - Medaglia, Rony
+  - Zheng, Lei
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1109/HICSS.2016.375"
 url: "https://ieeexplore.ieee.org/document/7427558/"
@@ -13,6 +14,13 @@ journal:
 cited_by: 4
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Medaglia, R., & Zheng, L. (2016). Characterizing Government Social Media Research - Towards a Grounded Overview Model. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2016.375.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Medaglia, Rony
 AU  - Zheng, Lei
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2016.375
 UR  - https://ieeexplore.ieee.org/document/7427558/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2016.375>

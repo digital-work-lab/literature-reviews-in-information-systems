@@ -1,10 +1,11 @@
 ---
 title: "Game-Based Approaches to Enhancing Public Understanding of Science: A Descriptive Literature Review"
 author:
-- Wei, Lewen
-- Hamari, Juho
+  - Wei, Lewen
+  - Hamari, Juho
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.570"
 url: "https://hdl.handle.net/10125/103203"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wei, L., & Hamari, J. (2023). Game-Based Approaches to Enhancing Public Understanding of Science: A Descriptive Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.570.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wei, Lewen
 AU  - Hamari, Juho
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2023.570
 UR  - https://hdl.handle.net/10125/103203
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.570>

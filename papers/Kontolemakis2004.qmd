@@ -1,11 +1,12 @@
 ---
 title: "Software Agents for Electronic Marketplaces: Current and Future Research Directions"
 author:
-- Kontolemakis, George
-- Kanellis, Panagiotis
-- Martakos, Drakoulis
-topic: ""
-categories: ['scoping-review']
+  - Kontolemakis, George
+  - Kanellis, Panagiotis
+  - Martakos, Drakoulis
+topic: "E-Commerce"
+categories:
+  - scoping-review
 date: "2004"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Journal of Information Technology Theory and Application"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kontolemakis, G., Kanellis, P., & Martakos, D. (2004). Software Agents for Electronic Marketplaces: Current and Future Research Directions. Journal of Information Technology Theory and Application, 6(1), 43–60.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of Information Technology Theory and Application"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Kontolemakis, George
 AU  - Kanellis, Panagiotis

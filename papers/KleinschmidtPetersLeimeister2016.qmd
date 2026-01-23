@@ -1,11 +1,12 @@
 ---
 title: "ICT-Enabled Service Innovation in Human-Centered Service Systems - A Systematic Literature Review"
 author:
-- Kleinschmidt, Stefan
-- Peters, Christoph
-- Leimeister, Jan Marco
+  - Kleinschmidt, Stefan
+  - Peters, Christoph
+  - Leimeister, Jan Marco
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: ""
 url: "http://aisel.aisnet.org/icis2016/Sustainability/Presentations/3"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kleinschmidt, S., Peters, C., & Leimeister, J. M. (2016). ICT-Enabled Service Innovation in Human-Centered Service Systems - A Systematic Literature Review. In International Conference on Information Systems. http://aisel.aisnet.org/icis2016/Sustainability/Presentations/3.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kleinschmidt, Stefan
 AU  - Peters, Christoph
@@ -40,6 +48,7 @@ PY  - 2016
 UR  - http://aisel.aisnet.org/icis2016/Sustainability/Presentations/3
 ER  - 
 ```
+
 ## Links
 
 - URL: <http://aisel.aisnet.org/icis2016/Sustainability/Presentations/3>

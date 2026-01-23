@@ -1,12 +1,13 @@
 ---
 title: "Artificial Intelligence and Business Value: a Literature Review"
 author:
-- Enholm, Ida Merete
-- Papagiannidis, Emmanouil
-- Mikalef, Patrick
-- Krogstie, John
+  - Enholm, Ida Merete
+  - Papagiannidis, Emmanouil
+  - Mikalef, Patrick
+  - Krogstie, John
 topic: ""
-categories: ['highly-cited']
+categories:
+  - highly-cited
 date: "2022"
 doi: "https://doi.org/10.1007/S10796-021-10186-W"
 url: "https://link.springer.com/article/10.1007/s10796-021-10186-w"
@@ -15,6 +16,13 @@ journal:
 cited_by: 572
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Enholm, I. M., Papagiannidis, E., Mikalef, P., & Krogstie, J. (2022). Artificial Intelligence and Business Value: a Literature Review. Information Systems Frontiers, 24(5), 1709–1734. https://doi.org/10.1007/S10796-021-10186-W.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Enholm, Ida Merete
 AU  - Papagiannidis, Emmanouil
@@ -52,6 +60,7 @@ DO  - 10.1007/S10796-021-10186-W
 UR  - https://link.springer.com/article/10.1007/s10796-021-10186-w
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-021-10186-W>

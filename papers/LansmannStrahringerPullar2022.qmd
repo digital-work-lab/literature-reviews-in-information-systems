@@ -1,11 +1,12 @@
 ---
 title: "Show Me the Meaning of Working Lonely: Conceptualising the Interrelation between Individual and Collaborative Work"
 author:
-- Lansmann, Simon
-- Strahringer, Lenard
-- Pullar, Lisa Julia
+  - Lansmann, Simon
+  - Strahringer, Lenard
+  - Pullar, Lisa Julia
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rp/109"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lansmann, S., Strahringer, L., & Pullar, L. J. (2022). Show Me the Meaning of Working Lonely: Conceptualising the Interrelation between Individual and Collaborative Work. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rp/109.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Lansmann, Simon
 AU  - Strahringer, Lenard
@@ -42,6 +50,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rp/109
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rp/109>

@@ -1,11 +1,12 @@
 ---
 title: "Uncovering the Truth about Fake News - A Research Model Grounded in Multi-Disciplinary Literature"
 author:
-- George, Jordana J.
-- Gerhart, Natalie
-- Torres, Russell
+  - George, Jordana J.
+  - Gerhart, Natalie
+  - Torres, Russell
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.1080/07421222.2021.1990608"
 url: "http://www.jmis-web.org/articles/1552"
@@ -14,6 +15,13 @@ journal:
 cited_by: 67
 outlet: "Journal of Management Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+George, J. J., Gerhart, N., & Torres, R. (2021). Uncovering the Truth about Fake News - A Research Model Grounded in Multi-Disciplinary Literature. Journal of Management Information Systems, 38(4), 1067–1094. https://doi.org/10.1080/07421222.2021.1990608.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Journal of Management Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - George, Jordana J.
 AU  - Gerhart, Natalie
@@ -51,6 +59,7 @@ DO  - 10.1080/07421222.2021.1990608
 UR  - http://www.jmis-web.org/articles/1552
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/07421222.2021.1990608>

@@ -1,11 +1,12 @@
 ---
 title: "Open strategy - Literature review, re-analysis of cases and conceptualisation as a practice"
 author:
-- Tavakoli, Asin
-- Schlagwein, Daniel
-- Schoder, Detlef
+  - Tavakoli, Asin
+  - Schlagwein, Daniel
+  - Schoder, Detlef
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: "https://doi.org/10.1016/J.JSIS.2017.01.003"
 url: "https://www.sciencedirect.com/science/article/pii/S0963868717300240"
@@ -14,6 +15,13 @@ journal:
 cited_by: 88
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Tavakoli, A., Schlagwein, D., & Schoder, D. (2017). Open strategy - Literature review, re-analysis of cases and conceptualisation as a practice. The Journal of Strategic Information Systems, 26(3), 163–184. https://doi.org/10.1016/J.JSIS.2017.01.003.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Tavakoli, Asin
 AU  - Schlagwein, Daniel
@@ -49,6 +57,7 @@ DO  - 10.1016/J.JSIS.2017.01.003
 UR  - https://www.sciencedirect.com/science/article/pii/S0963868717300240
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2017.01.003>

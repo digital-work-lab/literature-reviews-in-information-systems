@@ -1,12 +1,13 @@
 ---
 title: "Digital Interventions for Mental Health Management: A Systematic Literature Review Literature Review"
 author:
-- Liu, Xiang
-- Sengupta, Avijit
-- Xu, Dongming
-- Shi, Yunfei
+  - Liu, Xiang
+  - Sengupta, Avijit
+  - Xu, Dongming
+  - Shi, Yunfei
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Liu, X., Sengupta, A., Xu, D., & Shi, Y. (2024). Digital Interventions for Mental Health Management: A Systematic Literature Review Literature Review. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Liu, Xiang
 AU  - Sengupta, Avijit

@@ -1,11 +1,12 @@
 ---
 title: "Gamification of Sustainable Consumption: a systematic literature review"
 author:
-- Guillen, Georgina
-- Hamari, Juho
-- Quist, Jaco
+  - Guillen, Georgina
+  - Hamari, Juho
+  - Quist, Jaco
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.163"
 url: "http://hdl.handle.net/10125/70775"
@@ -14,6 +15,13 @@ journal:
 cited_by: 20
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Guillen, G., Hamari, J., & Quist, J. (2021). Gamification of Sustainable Consumption: a systematic literature review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.163.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Guillen, Georgina
 AU  - Hamari, Juho
@@ -42,6 +50,7 @@ DO  - 10.24251/HICSS.2021.163
 UR  - http://hdl.handle.net/10125/70775
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.163>

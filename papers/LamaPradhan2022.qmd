@@ -1,10 +1,11 @@
 ---
 title: "Integrating Design Science Research with Sustainability: A Systematic Literature Review"
 author:
-- Lama, Sanjay
-- Pradhan, Sojen
+  - Lama, Sanjay
+  - Pradhan, Sojen
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2022/285"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lama, S., & Pradhan, S. (2022). Integrating Design Science Research with Sustainability: A Systematic Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2022/285.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Lama, Sanjay
 AU  - Pradhan, Sojen
@@ -39,6 +47,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/pacis2022/285
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2022/285>

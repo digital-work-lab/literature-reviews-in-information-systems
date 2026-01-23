@@ -1,10 +1,11 @@
 ---
 title: "Hybrid Intelligence - Combining the Human in the Loop with the Computer in the Loop: A Systematic Literature Review"
 author:
-- Wiethof, Christina
-- Bittner, Eva A. C.
+  - Wiethof, Christina
+  - Bittner, Eva A. C.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/icis2021/ai_business/ai_business/11"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wiethof, C., & Bittner, E. A. C. (2021). Hybrid Intelligence - Combining the Human in the Loop with the Computer in the Loop: A Systematic Literature Review. In International Conference on Information Systems. https://aisel.aisnet.org/icis2021/ai_business/ai_business/11.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wiethof, Christina
 AU  - Bittner, Eva A. C.
@@ -38,6 +46,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/icis2021/ai_business/ai_business/11
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2021/ai_business/ai_business/11>

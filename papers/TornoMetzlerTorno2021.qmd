@@ -1,11 +1,12 @@
 ---
 title: "Robo-What?, Robo-Why?, Robo-How? - A Systematic Literature Review of Robo-Advice"
 author:
-- Torno, Albert
-- Metzler, Dennis Renee
-- Torno, Vanessa
+  - Torno, Albert
+  - Metzler, Dennis Renee
+  - Torno, Vanessa
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2021/92"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Torno, A., Metzler, D. R., & Torno, V. (2021). Robo-What?, Robo-Why?, Robo-How? - A Systematic Literature Review of Robo-Advice. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2021/92.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Torno, Albert
 AU  - Metzler, Dennis Renee
@@ -40,6 +48,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/pacis2021/92
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2021/92>

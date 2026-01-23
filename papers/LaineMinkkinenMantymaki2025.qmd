@@ -1,11 +1,12 @@
 ---
 title: "Understanding the Ethics of Generative AI: Established and New Ethical Principles"
 author:
-- Laine, Joakim
-- Minkkinen, Matti
-- Mäntymäki, Matti
+  - Laine, Joakim
+  - Minkkinen, Matti
+  - Mäntymäki, Matti
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.17705/1CAIS.05601"
 url: "https://aisel.aisnet.org/cais/vol56/iss1/7"
@@ -14,6 +15,13 @@ journal:
 cited_by: 8
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Laine, J., Minkkinen, M., & Mäntymäki, M. (2025). Understanding the Ethics of Generative AI: Established and New Ethical Principles. Communications of the Association for Information Systems, 56, 1–25. https://doi.org/10.17705/1CAIS.05601.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Laine, Joakim
 AU  - Minkkinen, Matti
@@ -48,6 +56,7 @@ DO  - 10.17705/1CAIS.05601
 UR  - https://aisel.aisnet.org/cais/vol56/iss1/7
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05601>

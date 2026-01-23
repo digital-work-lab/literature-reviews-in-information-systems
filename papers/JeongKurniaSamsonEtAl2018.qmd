@@ -1,12 +1,13 @@
 ---
 title: "Psychological Contract in IT Outsourcing: A Systematic Literature Review"
 author:
-- Jeong, Jongkil
-- Kurnia, Sherah
-- Samson, Danny
-- Cullen, Sara
+  - Jeong, Jongkil
+  - Kurnia, Sherah
+  - Samson, Danny
+  - Cullen, Sara
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.24251/HICSS.2018.019"
 url: "http://hdl.handle.net/10125/49906"
@@ -15,6 +16,13 @@ journal:
 cited_by: 3
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Jeong, J., Kurnia, S., Samson, D., & Cullen, S. (2018). Psychological Contract in IT Outsourcing: A Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2018.019.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Jeong, Jongkil
 AU  - Kurnia, Sherah
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2018.019
 UR  - http://hdl.handle.net/10125/49906
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2018.019>

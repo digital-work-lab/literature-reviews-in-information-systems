@@ -1,11 +1,12 @@
 ---
 title: "Benefits of Cloud Computing - Literature Review in a Maturity Model Perspective"
 author:
-- Müller, Sune Dueholm
-- Holm, Stefan Rubæk
-- Søndergaard, Jens
+  - Müller, Sune Dueholm
+  - Holm, Stefan Rubæk
+  - Søndergaard, Jens
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.17705/1CAIS.03742"
 url: "https://aisel.aisnet.org/cais/vol37/iss1/42"
@@ -14,6 +15,13 @@ journal:
 cited_by: 21
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Müller, S. D., Holm, S. R., & Søndergaard, J. (2015). Benefits of Cloud Computing - Literature Review in a Maturity Model Perspective. Communications of the Association for Information Systems, 37. https://doi.org/10.17705/1CAIS.03742.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Müller, Sune Dueholm
 AU  - Holm, Stefan Rubæk
@@ -44,6 +52,7 @@ DO  - 10.17705/1CAIS.03742
 UR  - https://aisel.aisnet.org/cais/vol37/iss1/42
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03742>

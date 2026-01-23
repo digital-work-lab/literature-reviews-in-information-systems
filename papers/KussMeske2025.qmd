@@ -1,10 +1,11 @@
 ---
 title: "From Entity to Relation? Agency in the Era of Artificial Intelligence"
 author:
-- Kuss, Pauline M.
-- Meske, Christian
+  - Kuss, Pauline M.
+  - Meske, Christian
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.17705/1CAIS.05626"
 url: "https://aisel.aisnet.org/cais/vol56/iss1/29"
@@ -13,6 +14,13 @@ journal:
 cited_by: 1
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kuss, P. M., & Meske, C. (2025). From Entity to Relation? Agency in the Era of Artificial Intelligence. Communications of the Association for Information Systems, 56(UNKNOWN), 633–674. https://doi.org/10.17705/1CAIS.05626.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Kuss, Pauline M.
 AU  - Meske, Christian
@@ -48,6 +56,7 @@ DO  - 10.17705/1CAIS.05626
 UR  - https://aisel.aisnet.org/cais/vol56/iss1/29
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05626>

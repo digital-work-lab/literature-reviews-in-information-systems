@@ -1,9 +1,10 @@
 ---
 title: "Electronic Commerce and Organizational Innovation: Aspects and Opportunities"
 author:
-- Zwass, Vladimir
-topic: ""
-categories: ['narrative-review']
+  - Zwass, Vladimir
+topic: "E-Commerce"
+categories:
+  - narrative-review
 date: "2003"
 doi: ""
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "International Journal of Electronic Commerce"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Zwass, V. (2003). Electronic Commerce and Organizational Innovation: Aspects and Opportunities. International Journal of Electronic Commerce, 7(3), 7–37.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Journal of Electronic Commerce"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Zwass, Vladimir
 TI  - Electronic Commerce and Organizational Innovation: Aspects and Opportunities

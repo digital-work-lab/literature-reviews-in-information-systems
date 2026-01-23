@@ -1,10 +1,11 @@
 ---
 title: "A Framework for Rigorously Identifying Research Gaps in Qualitative Literature Reviews"
 author:
-- Müller-Bloch, Christoph
-- Kranz, Johann
+  - Müller-Bloch, Christoph
+  - Kranz, Johann
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: ""
 url: "http://aisel.aisnet.org/icis2015/proceedings/ResearchMethods/2"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Müller-Bloch, C., & Kranz, J. (2015). A Framework for Rigorously Identifying Research Gaps in Qualitative Literature Reviews. In International Conference on Information Systems. http://aisel.aisnet.org/icis2015/proceedings/ResearchMethods/2.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Müller-Bloch, Christoph
 AU  - Kranz, Johann
@@ -38,6 +46,7 @@ PY  - 2015
 UR  - http://aisel.aisnet.org/icis2015/proceedings/ResearchMethods/2
 ER  - 
 ```
+
 ## Links
 
 - URL: <http://aisel.aisnet.org/icis2015/proceedings/ResearchMethods/2>

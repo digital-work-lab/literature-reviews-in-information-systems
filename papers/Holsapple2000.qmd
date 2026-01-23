@@ -1,10 +1,11 @@
 ---
 title: "Electronic Commerce: From a Definitional Taxonomy Toward a Knowledge-Management View"
 author:
-- Holsapple, Clyde W.
-- Singh, Meenu
-topic: ""
-categories: ['narrative-review']
+  - Holsapple, Clyde W.
+  - Singh, Meenu
+topic: "E-Commerce"
+categories:
+  - narrative-review
 date: "2000"
 doi: "https://doi.org/10.1207/S15327744JOCE1003_01"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 54
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Holsapple, C. W., & Singh, M. (2000). Electronic Commerce: From a Definitional Taxonomy Toward a Knowledge-Management View. Journal of Organizational Computing and Electronic Commerce, 10(3), 149–170. https://doi.org/10.1207/S15327744JOCE1003_01.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of Organizational Computing and Electronic Commerce"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Holsapple, Clyde W.
 AU  - Singh, Meenu
@@ -45,6 +53,7 @@ EP  - 170
 DO  - 10.1207/S15327744JOCE1003_01
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1207/S15327744JOCE1003_01>

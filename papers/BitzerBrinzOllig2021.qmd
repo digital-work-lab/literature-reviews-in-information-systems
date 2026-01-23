@@ -1,11 +1,12 @@
 ---
 title: "Disentangling the Concept of Information Security Properties - Enabling Effective Information Security Governance"
 author:
-- Bitzer, Michael
-- Brinz, Nicolas
-- Ollig, Philipp
+  - Bitzer, Michael
+  - Brinz, Nicolas
+  - Ollig, Philipp
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2021_rp/134"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Bitzer, M., Brinz, N., & Ollig, P. (2021). Disentangling the Concept of Information Security Properties - Enabling Effective Information Security Governance. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2021_rp/134.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Bitzer, Michael
 AU  - Brinz, Nicolas
@@ -41,6 +49,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/ecis2021_rp/134
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2021_rp/134>

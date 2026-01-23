@@ -1,11 +1,12 @@
 ---
 title: "When AI joins the team: a literature review on intragroup processes and their effect on team performance in team-AI collaboration"
 author:
-- Zercher, Désirée
-- Jussupow, Ekaterina
-- Heinzl, Armin
+  - Zercher, Désirée
+  - Jussupow, Ekaterina
+  - Heinzl, Armin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2023_rp/307"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Zercher, D., Jussupow, E., & Heinzl, A. (2023). When AI joins the team: a literature review on intragroup processes and their effect on team performance in team-AI collaboration. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2023_rp/307.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Zercher, Désirée
 AU  - Jussupow, Ekaterina
@@ -42,6 +50,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/ecis2023_rp/307
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2023_rp/307>

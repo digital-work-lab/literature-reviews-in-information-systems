@@ -1,11 +1,12 @@
 ---
 title: "Cognition Matters: Enduring Questions in Cognitive IS Research"
 author:
-- Davern, Michael
-- Shaft, Teresa
-- Te'eni, Dov
-topic: ""
-categories: ['scoping-review']
+  - Davern, Michael
+  - Shaft, Teresa
+  - Te'eni, Dov
+topic: "Human Computer Interaction"
+categories:
+  - scoping-review
 date: "2012"
 doi: "https://doi.org/10.17705/1JAIS.00290"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 49
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Davern, M., Shaft, T., & Te'eni, D. (2012). Cognition Matters: Enduring Questions in Cognitive IS Research. Journal of the Association for Information Systems, 13(4), 273–314. https://doi.org/10.17705/1JAIS.00290.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Davern, Michael
 AU  - Shaft, Teresa
@@ -47,6 +55,7 @@ EP  - 314
 DO  - 10.17705/1JAIS.00290
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00290>

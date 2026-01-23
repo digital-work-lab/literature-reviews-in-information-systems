@@ -1,13 +1,14 @@
 ---
 title: "Going beyond operational efficiency in HR using IT - A Literature Review of Human Resources Information Systems"
 author:
-- Wirtky, Thomas
-- Eckhardt, Andreas
-- Laumer, Sven
-- Wild, Udo
-- Weitzel, Tim
+  - Wirtky, Thomas
+  - Eckhardt, Andreas
+  - Laumer, Sven
+  - Wild, Udo
+  - Weitzel, Tim
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2011"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2011_submissions/289"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wirtky, T., Eckhardt, A., Laumer, S., Wild, U., & Weitzel, T. (2011). Going beyond operational efficiency in HR using IT - A Literature Review of Human Resources Information Systems. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2011_submissions/289.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wirtky, Thomas
 AU  - Eckhardt, Andreas
@@ -44,6 +52,7 @@ PY  - 2011
 UR  - https://aisel.aisnet.org/amcis2011_submissions/289
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2011_submissions/289>

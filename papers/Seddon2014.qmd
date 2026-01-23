@@ -1,9 +1,10 @@
 ---
 title: "Implications for strategic IS research of the resource-based theory of the firm: A reflection"
 author:
-- Seddon, Peter B.
-topic: ""
-categories: ['narrative-review']
+  - Seddon, Peter B.
+topic: "IS Value"
+categories:
+  - narrative-review
 date: "2014"
 doi: "https://doi.org/10.1016/J.JSIS.2014.11.001"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 58
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Seddon, P. B. (2014). Implications for strategic IS research of the resource-based theory of the firm: A reflection. The Journal of Strategic Information Systems, 23(4), 257–269. https://doi.org/10.1016/J.JSIS.2014.11.001.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Seddon, Peter B.
 TI  - Implications for strategic IS research of the resource-based theory of the firm: A reflection
@@ -43,6 +51,7 @@ EP  - 269
 DO  - 10.1016/J.JSIS.2014.11.001
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2014.11.001>

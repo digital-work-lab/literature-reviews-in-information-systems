@@ -1,14 +1,15 @@
 ---
 title: "Why do Digital Platforms succeed or fail? - A Literature Review on Success and Failure Factors"
 author:
-- Özcan, Leon
-- Koldewey, Christian
-- Duparc, Estelle
-- van der Valk, Hendrik
-- Otto, Boris
-- Dumitrescu, Roman
+  - Özcan, Leon
+  - Koldewey, Christian
+  - Duparc, Estelle
+  - van der Valk, Hendrik
+  - Otto, Boris
+  - Dumitrescu, Roman
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2022/sig_dite/sig_dite/15"
@@ -17,6 +18,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Özcan, L., Koldewey, C., Duparc, E., {van der Valk}, H., Otto, B., & Dumitrescu, R. (2022). Why do Digital Platforms succeed or fail? - A Literature Review on Success and Failure Factors. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2022/sig_dite/sig_dite/15.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Özcan, Leon
 AU  - Koldewey, Christian
@@ -47,6 +55,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/amcis2022/sig_dite/sig_dite/15
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2022/sig_dite/sig_dite/15>

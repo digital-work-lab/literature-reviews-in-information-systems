@@ -1,11 +1,13 @@
 ---
 title: "Information Systems Success: The Quest for the Independent Variables"
 author:
-- Petter, Stacie
-- DeLone, William
-- McLean, Ephraim R.
-topic: ""
-categories: ['theoretical-review', 'highly-cited']
+  - Petter, Stacie
+  - DeLone, William
+  - McLean, Ephraim R.
+topic: "Other Domain"
+categories:
+  - theoretical-review
+  - highly-cited
 date: "2013"
 doi: "https://doi.org/10.2753/MIS0742-1222290401"
 url: ""
@@ -14,6 +16,13 @@ journal:
 cited_by: 524
 outlet: "Journal of Management Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Petter, S., DeLone, W., & McLean, E. R. (2013). Information Systems Success: The Quest for the Independent Variables. Journal of Management Information Systems, 29(4), 7–62. https://doi.org/10.2753/MIS0742-1222290401.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +41,7 @@ outlet: "Journal of Management Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Petter, Stacie
 AU  - DeLone, William
@@ -47,6 +56,7 @@ EP  - 62
 DO  - 10.2753/MIS0742-1222290401
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2753/MIS0742-1222290401>

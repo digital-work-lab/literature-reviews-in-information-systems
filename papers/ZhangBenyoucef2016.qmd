@@ -1,10 +1,11 @@
 ---
 title: "Consumer behavior in social commerce: A literature review"
 author:
-- Zhang, Kem Z. K.
-- Benyoucef, Morad
+  - Zhang, Kem Z. K.
+  - Benyoucef, Morad
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1016/J.DSS.2016.04.001"
 url: "https://www.sciencedirect.com/science/article/pii/S0167923616300458"
@@ -13,6 +14,13 @@ journal:
 cited_by: 436
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Zhang, K. Z. K., & Benyoucef, M. (2016). Consumer behavior in social commerce: A literature review. Decision Support Systems, 86, 95–108. https://doi.org/10.1016/J.DSS.2016.04.001.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Zhang, Kem Z. K.
 AU  - Benyoucef, Morad
@@ -45,6 +53,7 @@ DO  - 10.1016/J.DSS.2016.04.001
 UR  - https://www.sciencedirect.com/science/article/pii/S0167923616300458
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2016.04.001>

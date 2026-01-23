@@ -1,12 +1,13 @@
 ---
 title: "A Contigency Model for Requirements Development"
 author:
-- Tuunanen, Tuure
-- Rossi, Matti
-- Saarinen, Timo
-- Mathiassen, Lars
-topic: ""
-categories: ['theoretical-review']
+  - Tuunanen, Tuure
+  - Rossi, Matti
+  - Saarinen, Timo
+  - Mathiassen, Lars
+topic: "Software Development"
+categories:
+  - theoretical-review
 date: "2007"
 doi: "https://doi.org/10.17705/1JAIS.00143"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 34
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Tuunanen, T., Rossi, M., Saarinen, T., & Mathiassen, L. (2007). A Contigency Model for Requirements Development. Journal of the Association for Information Systems, 8(11), 569–597. https://doi.org/10.17705/1JAIS.00143.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Tuunanen, Tuure
 AU  - Rossi, Matti
@@ -49,6 +57,7 @@ EP  - 597
 DO  - 10.17705/1JAIS.00143
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00143>

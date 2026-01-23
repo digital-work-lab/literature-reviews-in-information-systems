@@ -1,11 +1,12 @@
 ---
 title: "Diagnosing and Managing Online Business-to-Consumer (B2C) Relationships: Toward an eCommerce B2C Relationship Stage Theory"
 author:
-- Campbell, Damon
-- Wells, John
-- Valacich, Joseph
-topic: ""
-categories: ['theoretical-review']
+  - Campbell, Damon
+  - Wells, John
+  - Valacich, Joseph
+topic: "E-Commerce"
+categories:
+  - theoretical-review
 date: "2009"
 doi: "https://doi.org/10.17705/1THCI.00008"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 9
 outlet: "AIS Transactions on Human-Computer Interaction"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Campbell, D., Wells, J., & Valacich, J. (2009). Diagnosing and Managing Online Business-to-Consumer (B2C) Relationships: Toward an eCommerce B2C Relationship Stage Theory. AIS Transactions on Human-Computer Interaction, 1(4), 108–132. https://doi.org/10.17705/1THCI.00008.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "AIS Transactions on Human-Computer Interaction"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Campbell, Damon
 AU  - Wells, John
@@ -47,6 +55,7 @@ EP  - 132
 DO  - 10.17705/1THCI.00008
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1THCI.00008>

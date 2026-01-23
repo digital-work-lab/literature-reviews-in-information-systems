@@ -1,11 +1,12 @@
 ---
 title: "Solving the Distinctiveness – Blindness Debate: A Unified Model for Understanding Banner Processing"
 author:
-- Sun, Yonggiang
-- Lim, Kai
-- Peng, Jerry
-topic: ""
-categories: ['theoretical-review']
+  - Sun, Yonggiang
+  - Lim, Kai
+  - Peng, Jerry
+topic: "E-Commerce"
+categories:
+  - theoretical-review
 date: "2013"
 doi: "https://doi.org/10.17705/1JAIS.00324"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 20
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Sun, Y., Lim, K., & Peng, J. (2013). Solving the Distinctiveness – Blindness Debate: A Unified Model for Understanding Banner Processing. Journal of the Association for Information Systems, 14(2), 49–71. https://doi.org/10.17705/1JAIS.00324.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Sun, Yonggiang
 AU  - Lim, Kai
@@ -47,6 +55,7 @@ EP  - 71
 DO  - 10.17705/1JAIS.00324
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00324>

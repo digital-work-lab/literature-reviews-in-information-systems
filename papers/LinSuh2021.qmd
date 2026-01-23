@@ -1,10 +1,11 @@
 ---
 title: "The Role of Spatial Ability in Learning with Virtual Reality: A Literature Review"
 author:
-- Lin, Yongqian
-- Suh, Ayoung
+  - Lin, Yongqian
+  - Suh, Ayoung
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.011"
 url: "http://hdl.handle.net/10125/70622"
@@ -13,6 +14,13 @@ journal:
 cited_by: 7
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lin, Y., & Suh, A. (2021). The Role of Spatial Ability in Learning with Virtual Reality: A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.011.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Lin, Yongqian
 AU  - Suh, Ayoung
@@ -40,6 +48,7 @@ DO  - 10.24251/HICSS.2021.011
 UR  - http://hdl.handle.net/10125/70622
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.011>

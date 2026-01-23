@@ -1,9 +1,10 @@
 ---
 title: "Exploring Knowledge Exchange in Electronic Networks of Practice"
 author:
-- Whelan, Eoin
-topic: ""
-categories: ['theoretical-review']
+  - Whelan, Eoin
+topic: "Knowledge Management"
+categories:
+  - theoretical-review
 date: "2007"
 doi: "https://doi.org/10.1057/PALGRAVE.JIT.2000089"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 37
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Whelan, E. (2007). Exploring Knowledge Exchange in Electronic Networks of Practice. Journal of Information Technology, 22(1), 5–12. https://doi.org/10.1057/PALGRAVE.JIT.2000089.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Whelan, Eoin
 TI  - Exploring Knowledge Exchange in Electronic Networks of Practice
@@ -44,6 +52,7 @@ EP  - 12
 DO  - 10.1057/PALGRAVE.JIT.2000089
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/PALGRAVE.JIT.2000089>

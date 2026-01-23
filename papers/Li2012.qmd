@@ -1,9 +1,10 @@
 ---
 title: "Theories in online information privacy research: A critical review and an integrated framework"
 author:
-- Li, Yuan
-topic: ""
-categories: ['theoretical-review']
+  - Li, Yuan
+topic: "Security"
+categories:
+  - theoretical-review
 date: "2012"
 doi: "https://doi.org/10.1016/J.DSS.2012.06.010"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 272
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Li, Y. (2012). Theories in online information privacy research: A critical review and an integrated framework. Decision Support Systems, 54(1), 471–481. https://doi.org/10.1016/J.DSS.2012.06.010.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Li, Yuan
 TI  - Theories in online information privacy research: A critical review and an integrated framework
@@ -43,6 +51,7 @@ EP  - 481
 DO  - 10.1016/J.DSS.2012.06.010
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2012.06.010>

@@ -1,12 +1,13 @@
 ---
 title: "A Literature Review on Pedagogical Conversational Agent Adaptation"
 author:
-- Schlimbach, Ricarda
-- Rinn, Heidi
-- Markgraf, Daniel
-- Robra-Bissantz, Susanne
+  - Schlimbach, Ricarda
+  - Rinn, Heidi
+  - Markgraf, Daniel
+  - Robra-Bissantz, Susanne
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2022/20"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schlimbach, R., Rinn, H., Markgraf, D., & Robra-Bissantz, S. (2022). A Literature Review on Pedagogical Conversational Agent Adaptation. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2022/20.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schlimbach, Ricarda
 AU  - Rinn, Heidi
@@ -43,6 +51,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/pacis2022/20
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2022/20>

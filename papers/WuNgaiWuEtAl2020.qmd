@@ -1,12 +1,13 @@
 ---
 title: "Fake online reviews: Literature review, synthesis, and directions for future research"
 author:
-- Wu, Yuanyuan
-- Ngai, Eric W. T.
-- Wu, Pengkun
-- Wu, Chong
+  - Wu, Yuanyuan
+  - Ngai, Eric W. T.
+  - Wu, Pengkun
+  - Wu, Chong
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.1016/J.DSS.2020.113280"
 url: "https://www.sciencedirect.com/science/article/pii/S016792362030035X"
@@ -15,6 +16,13 @@ journal:
 cited_by: 265
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wu, Y., Ngai, E. W. T., Wu, P., & Wu, C. (2020). Fake online reviews: Literature review, synthesis, and directions for future research. Decision Support Systems, 132, 113280. https://doi.org/10.1016/J.DSS.2020.113280.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wu, Yuanyuan
 AU  - Ngai, Eric W. T.
@@ -48,6 +56,7 @@ DO  - 10.1016/J.DSS.2020.113280
 UR  - https://www.sciencedirect.com/science/article/pii/S016792362030035X
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2020.113280>

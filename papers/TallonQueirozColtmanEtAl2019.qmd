@@ -1,12 +1,13 @@
 ---
 title: "Information technology and the search for organizational agility: A systematic review with future research possibilities"
 author:
-- Tallon, Paul P.
-- Queiroz, Magno
-- Coltman, Timothy R.
-- Sharma, Rajeev
+  - Tallon, Paul P.
+  - Queiroz, Magno
+  - Coltman, Timothy R.
+  - Sharma, Rajeev
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.1016/J.JSIS.2018.12.002"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 299
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Tallon, P. P., Queiroz, M., Coltman, T. R., & Sharma, R. (2019). Information technology and the search for organizational agility: A systematic review with future research possibilities. The Journal of Strategic Information Systems, 28(2). https://doi.org/10.1016/J.JSIS.2018.12.002.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Tallon, Paul P.
 AU  - Queiroz, Magno
@@ -46,6 +54,7 @@ IS  - 2
 DO  - 10.1016/J.JSIS.2018.12.002
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2018.12.002>

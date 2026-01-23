@@ -1,10 +1,11 @@
 ---
 title: "Privacy in Personalized Advertising: A Comprehensive Review and Future Agenda"
 author:
-- Joyee De, Sourya
-- Chattopadhyay, Manojit
+  - Joyee De, Sourya
+  - Chattopadhyay, Manojit
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.17705/1CAIS.05613"
 url: "https://aisel.aisnet.org/cais/vol56/iss1/13"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Joyee De, S., & Chattopadhyay, M. (2025). Privacy in Personalized Advertising: A Comprehensive Review and Future Agenda. Communications of the Association for Information Systems, 56, 305–342. https://doi.org/10.17705/1CAIS.05613.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Joyee De, Sourya
 AU  - Chattopadhyay, Manojit
@@ -46,6 +54,7 @@ DO  - 10.17705/1CAIS.05613
 UR  - https://aisel.aisnet.org/cais/vol56/iss1/13
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05613>

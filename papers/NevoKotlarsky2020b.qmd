@@ -1,10 +1,11 @@
 ---
 title: "Crowdsourcing as a strategic IS sourcing phenomenon: Critical review and insights for future research"
 author:
-- Nevo, Dorit
-- Kotlarsky, Julia
+  - Nevo, Dorit
+  - Kotlarsky, Julia
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.1016/J.JSIS.2020.101593"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 57
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Nevo, D., & Kotlarsky, J. (2020). Crowdsourcing as a strategic IS sourcing phenomenon: Critical review and insights for future research. The Journal of Strategic Information Systems, 29(4). https://doi.org/10.1016/J.JSIS.2020.101593.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Nevo, Dorit
 AU  - Kotlarsky, Julia
@@ -42,6 +50,7 @@ IS  - 4
 DO  - 10.1016/J.JSIS.2020.101593
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2020.101593>

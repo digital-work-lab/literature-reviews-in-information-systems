@@ -1,11 +1,12 @@
 ---
 title: "Modern information technology in an old workforce: Toward a strategic research agenda"
 author:
-- Tams, Stefan
-- Grover, Varun
-- Thatcher, Jason
-topic: ""
-categories: ['scoping-review']
+  - Tams, Stefan
+  - Grover, Varun
+  - Thatcher, Jason
+topic: "Human Computer Interaction"
+categories:
+  - scoping-review
 date: "2014"
 doi: "https://doi.org/10.1016/J.JSIS.2014.10.001"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 79
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Tams, S., Grover, V., & Thatcher, J. (2014). Modern information technology in an old workforce: Toward a strategic research agenda. The Journal of Strategic Information Systems, 23(4), 284–304. https://doi.org/10.1016/J.JSIS.2014.10.001.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Tams, Stefan
 AU  - Grover, Varun
@@ -47,6 +55,7 @@ EP  - 304
 DO  - 10.1016/J.JSIS.2014.10.001
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2014.10.001>

@@ -1,10 +1,11 @@
 ---
 title: "Gamification of E-Participation: A Literature Review"
 author:
-- Hassan, Lobna
-- Hamari, Juho
+  - Hassan, Lobna
+  - Hamari, Juho
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.24251/HICSS.2019.372"
 url: "http://hdl.handle.net/10125/59744"
@@ -13,6 +14,13 @@ journal:
 cited_by: 32
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hassan, L., & Hamari, J. (2019). Gamification of E-Participation: A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2019.372.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hassan, Lobna
 AU  - Hamari, Juho
@@ -40,6 +48,7 @@ DO  - 10.24251/HICSS.2019.372
 UR  - http://hdl.handle.net/10125/59744
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2019.372>

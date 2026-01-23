@@ -1,9 +1,10 @@
 ---
 title: "Learning From Contingencies in Corporate Business Model Design -A Review of Business Model Elements"
 author:
-- Julius, Lukas
+  - Julius, Lukas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2025/is_design/isdesign/4"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Julius, L. (2025). Learning From Contingencies in Corporate Business Model Design -A Review of Business Model Elements. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2025/is_design/isdesign/4.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Julius, Lukas
 TI  - Learning From Contingencies in Corporate Business Model Design -A Review of Business Model Elements
@@ -37,6 +45,7 @@ PY  - 2025
 UR  - https://aisel.aisnet.org/pacis2025/is_design/isdesign/4
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2025/is_design/isdesign/4>

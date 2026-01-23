@@ -1,9 +1,10 @@
 ---
 title: "Enterprise Architecture in Healthcare and Underlying Institutional Logics - a Systematic Literature Review of IS Research"
 author:
-- Ajer, Anne Kristin
+  - Ajer, Anne Kristin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2018/280"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ajer, A. K. (2018). Enterprise Architecture in Healthcare and Underlying Institutional Logics - a Systematic Literature Review of IS Research. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2018/280.
+:::
 
 ## Citation: BibTeX
 
@@ -27,7 +35,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Ajer, Anne Kristin
 TI  - Enterprise Architecture in Healthcare and Underlying Institutional Logics - a Systematic Literature Review of IS Research
@@ -36,6 +44,7 @@ PY  - 2018
 UR  - https://aisel.aisnet.org/pacis2018/280
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2018/280>

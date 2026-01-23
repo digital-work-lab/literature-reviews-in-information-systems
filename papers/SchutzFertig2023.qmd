@@ -1,10 +1,11 @@
 ---
 title: "The Forgotten Model – Validating the Integrated Behavioral Model in Context of Information Security Awareness"
 author:
-- Schütz, Andreas
-- Fertig, Tobias
+  - Schütz, Andreas
+  - Fertig, Tobias
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.828"
 url: "https://hdl.handle.net/10125/103462"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schütz, A., & Fertig, T. (2023). The Forgotten Model – Validating the Integrated Behavioral Model in Context of Information Security Awareness. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.828.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schütz, Andreas
 AU  - Fertig, Tobias
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2023.828
 UR  - https://hdl.handle.net/10125/103462
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.828>

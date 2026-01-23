@@ -1,12 +1,13 @@
 ---
 title: "Lost in the City? - A Scoping Review of 5G Enabled Location-Based Urban Scenarios"
 author:
-- Bäßmann, Felix
-- Werth, Oliver
-- Düffel, Torben J.
-- Breitner, Michael H.
+  - Bäßmann, Felix
+  - Werth, Oliver
+  - Düffel, Torben J.
+  - Breitner, Michael H.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.621"
 url: "https://hdl.handle.net/10125/103255"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Bäßmann, F., Werth, O., Düffel, T. J., & Breitner, M. H. (2023). Lost in the City? - A Scoping Review of 5G Enabled Location-Based Urban Scenarios. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.621.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Bäßmann, Felix
 AU  - Werth, Oliver
@@ -47,6 +55,7 @@ DO  - 10.24251/HICSS.2023.621
 UR  - https://hdl.handle.net/10125/103255
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.621>

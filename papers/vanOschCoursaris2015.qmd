@@ -1,10 +1,11 @@
 ---
 title: "A Meta-analysis of Theories and Topics in Social Media Research"
 author:
-- van Osch, Wietske
-- Coursaris, Constantinos K.
+  - van Osch, Wietske
+  - Coursaris, Constantinos K.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.1109/HICSS.2015.201"
 url: "https://ieeexplore.ieee.org/document/7070011/"
@@ -13,6 +14,13 @@ journal:
 cited_by: 12
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+{van Osch}, W., & Coursaris, C. K. (2015). A Meta-analysis of Theories and Topics in Social Media Research. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2015.201.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - {van Osch}, Wietske
 AU  - Coursaris, Constantinos K.
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2015.201
 UR  - https://ieeexplore.ieee.org/document/7070011/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2015.201>

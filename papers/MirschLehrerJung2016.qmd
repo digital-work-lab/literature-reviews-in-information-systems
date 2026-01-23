@@ -1,11 +1,12 @@
 ---
 title: "Channel Integration towards Omnichannel Management - a literature Review"
 author:
-- Mirsch, Tobias
-- Lehrer, Christiane
-- Jung, Reinhard
+  - Mirsch, Tobias
+  - Lehrer, Christiane
+  - Jung, Reinhard
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2016/288"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Mirsch, T., Lehrer, C., & Jung, R. (2016). Channel Integration towards Omnichannel Management - a literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2016/288.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Mirsch, Tobias
 AU  - Lehrer, Christiane
@@ -40,6 +48,7 @@ PY  - 2016
 UR  - https://aisel.aisnet.org/pacis2016/288
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2016/288>

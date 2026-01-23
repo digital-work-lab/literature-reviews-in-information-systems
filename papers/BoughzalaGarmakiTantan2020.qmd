@@ -1,11 +1,12 @@
 ---
 title: "Understanding how Digital Intelligence Contributes to Digital Creativity and Digital Transformation: A Systematic Literature Review"
 author:
-- Boughzala, Imed
-- Garmaki, Mahda
-- Chourabi Tantan, Olfa
+  - Boughzala, Imed
+  - Garmaki, Mahda
+  - Chourabi Tantan, Olfa
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.040"
 url: "http://hdl.handle.net/10125/63779"
@@ -14,6 +15,13 @@ journal:
 cited_by: 17
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Boughzala, I., Garmaki, M., & Chourabi Tantan, O. (2020). Understanding how Digital Intelligence Contributes to Digital Creativity and Digital Transformation: A Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.040.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Boughzala, Imed
 AU  - Garmaki, Mahda
@@ -42,6 +50,7 @@ DO  - 10.24251/HICSS.2020.040
 UR  - http://hdl.handle.net/10125/63779
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.040>

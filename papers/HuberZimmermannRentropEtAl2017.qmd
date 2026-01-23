@@ -1,12 +1,13 @@
 ---
 title: "Integration of Shadow IT Systems with Enterprise Systems - A Literature Review"
 author:
-- Huber, Melanie
-- Zimmermann, Stephan
-- Rentrop, Christopher
-- Felden, Carsten
+  - Huber, Melanie
+  - Zimmermann, Stephan
+  - Rentrop, Christopher
+  - Felden, Carsten
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2017/134"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Huber, M., Zimmermann, S., Rentrop, C., & Felden, C. (2017). Integration of Shadow IT Systems with Enterprise Systems - A Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2017/134.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Huber, Melanie
 AU  - Zimmermann, Stephan
@@ -42,6 +50,7 @@ PY  - 2017
 UR  - https://aisel.aisnet.org/pacis2017/134
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2017/134>

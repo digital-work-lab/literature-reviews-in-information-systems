@@ -1,9 +1,10 @@
 ---
 title: "Audience and Content Areas of Online Software Engineering Education and Training - A Systematic Review"
 author:
-- Wendt, Kevin D.
+  - Wendt, Kevin D.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.24251/HICSS.2019.916"
 url: "http://hdl.handle.net/10125/60198"
@@ -12,6 +13,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wendt, K. D. (2019). Audience and Content Areas of Online Software Engineering Education and Training - A Systematic Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2019.916.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wendt, Kevin D.
 TI  - Audience and Content Areas of Online Software Engineering Education and Training - A Systematic Review
@@ -40,6 +48,7 @@ DO  - 10.24251/HICSS.2019.916
 UR  - http://hdl.handle.net/10125/60198
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2019.916>

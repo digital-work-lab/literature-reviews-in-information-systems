@@ -1,12 +1,13 @@
 ---
 title: "Gamification of Personal Finance: A Systematic Literature Review"
 author:
-- Ahmad, Ans
-- Fernández Galeote, Daniel
-- Xi, Nannan
-- Hamari, Juho
+  - Ahmad, Ans
+  - Fernández Galeote, Daniel
+  - Xi, Nannan
+  - Hamari, Juho
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ahmad, A., Fernández Galeote, D., Xi, N., & Hamari, J. (2025). Gamification of Personal Finance: A Systematic Literature Review. In Pacific Asia Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Ahmad, Ans
 AU  - Fernández Galeote, Daniel

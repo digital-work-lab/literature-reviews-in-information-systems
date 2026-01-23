@@ -1,10 +1,11 @@
 ---
 title: "Framing the Frameworks: A Review of IT Governance Research"
 author:
-- Brown, Allen E.
-- Grant, Gerald G.
-topic: ""
-categories: ['narrative-review']
+  - Brown, Allen E.
+  - Grant, Gerald G.
+topic: "Other Domain"
+categories:
+  - narrative-review
 date: "2005"
 doi: "https://doi.org/10.17705/1CAIS.01538"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 146
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Brown, A. E., & Grant, G. G. (2005). Framing the Frameworks: A Review of IT Governance Research. Communications of the Association for Information Systems, 15(38), 696–712. https://doi.org/10.17705/1CAIS.01538.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Brown, Allen E.
 AU  - Grant, Gerald G.
@@ -45,6 +53,7 @@ EP  - 712
 DO  - 10.17705/1CAIS.01538
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.01538>

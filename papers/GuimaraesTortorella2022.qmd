@@ -1,10 +1,11 @@
 ---
 title: "A scoping review on the practices of open innovation"
 author:
-- Guimarães, Marina
-- Tortorella, Guilherme Luz
+  - Guimarães, Marina
+  - Tortorella, Guilherme Luz
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.649"
 url: "http://hdl.handle.net/10125/79987"
@@ -13,6 +14,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Guimarães, M., & Tortorella, G. L. (2022). A scoping review on the practices of open innovation. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.649.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Guimarães, Marina
 AU  - Tortorella, Guilherme Luz
@@ -42,6 +50,7 @@ DO  - 10.24251/HICSS.2022.649
 UR  - http://hdl.handle.net/10125/79987
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.649>

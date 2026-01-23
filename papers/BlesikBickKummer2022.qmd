@@ -1,11 +1,12 @@
 ---
 title: "A Conceptualisation of Crowd Knowledge"
 author:
-- Blesik, Till
-- Bick, Markus
-- Kummer, Tyge-F.
+  - Blesik, Till
+  - Bick, Markus
+  - Kummer, Tyge-F.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.1007/S10796-021-10176-Y"
 url: "https://link.springer.com/article/10.1007/s10796-021-10176-y"
@@ -14,6 +15,13 @@ journal:
 cited_by: 6
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Blesik, T., Bick, M., & Kummer, T.-F. (2022). A Conceptualisation of Crowd Knowledge. Information Systems Frontiers, 24(5), 1647–1665. https://doi.org/10.1007/S10796-021-10176-Y.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Blesik, Till
 AU  - Bick, Markus
@@ -50,6 +58,7 @@ DO  - 10.1007/S10796-021-10176-Y
 UR  - https://link.springer.com/article/10.1007/s10796-021-10176-y
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-021-10176-Y>

@@ -1,11 +1,12 @@
 ---
 title: "What is E-Government? Introducing a Work System Framework for Understanding E-Government"
 author:
-- Lindgren, Ida
-- Melin, Ulf
-- Sæbø, Øystein
+  - Lindgren, Ida
+  - Melin, Ulf
+  - Sæbø, Øystein
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.17705/1CAIS.04842"
 url: "https://aisel.aisnet.org/cais/vol48/iss1/43"
@@ -14,6 +15,13 @@ journal:
 cited_by: 17
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lindgren, I., Melin, U., & Sæbø, Ø. (2021). What is E-Government? Introducing a Work System Framework for Understanding E-Government. Communications of the Association for Information Systems, 48, 503–522. https://doi.org/10.17705/1CAIS.04842.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Lindgren, Ida
 AU  - Melin, Ulf
@@ -50,6 +58,7 @@ DO  - 10.17705/1CAIS.04842
 UR  - https://aisel.aisnet.org/cais/vol48/iss1/43
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.04842>

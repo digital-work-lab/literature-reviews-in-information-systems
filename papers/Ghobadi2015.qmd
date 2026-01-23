@@ -1,9 +1,10 @@
 ---
 title: "What drives knowledge sharing in software development teams - A literature review and classification framework"
 author:
-- Ghobadi, Shahla
+  - Ghobadi, Shahla
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.1016/J.IM.2014.10.008"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720614001323"
@@ -12,6 +13,13 @@ journal:
 cited_by: 139
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ghobadi, S. (2015). What drives knowledge sharing in software development teams - A literature review and classification framework. Information & Management, 52(1), 82–97. https://doi.org/10.1016/J.IM.2014.10.008.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ghobadi, Shahla
 TI  - What drives knowledge sharing in software development teams - A literature review and classification framework
@@ -45,6 +53,7 @@ DO  - 10.1016/J.IM.2014.10.008
 UR  - https://www.sciencedirect.com/science/article/pii/S0378720614001323
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2014.10.008>

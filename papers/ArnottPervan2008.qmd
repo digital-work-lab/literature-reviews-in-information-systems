@@ -1,10 +1,11 @@
 ---
 title: "Eight key issues for the decision support systems discipline"
 author:
-- Arnott, David
-- Pervan, Graham
+  - Arnott, David
+  - Pervan, Graham
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2008"
 doi: "https://doi.org/10.1016/J.DSS.2007.09.003"
 url: "https://www.sciencedirect.com/science/article/pii/S0167923607001698"
@@ -13,6 +14,13 @@ journal:
 cited_by: 233
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Arnott, D., & Pervan, G. (2008). Eight key issues for the decision support systems discipline. Decision Support Systems, 44(3), 657–672. https://doi.org/10.1016/J.DSS.2007.09.003.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Arnott, David
 AU  - Pervan, Graham
@@ -49,6 +57,7 @@ DO  - 10.1016/J.DSS.2007.09.003
 UR  - https://www.sciencedirect.com/science/article/pii/S0167923607001698
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2007.09.003>

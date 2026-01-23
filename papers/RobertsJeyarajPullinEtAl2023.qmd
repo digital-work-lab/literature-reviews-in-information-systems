@@ -1,12 +1,13 @@
 ---
 title: "Assessing the Connections among Top Management Support, IT Assimilation, and the Business Value of IT: A Meta-Analysis"
 author:
-- Roberts, Nicholas
-- Jeyaraj, Anand
-- Pullin, Jennifer E
-- Management
+  - Roberts, Nicholas
+  - Jeyaraj, Anand
+  - Pullin, Jennifer E
+  - Management
 topic: ""
-categories: ['meta-analysis']
+categories:
+  - meta-analysis
 date: "2022"
 doi: "https://doi.org/10.17705/1JAIS.00772"
 url: "https://aisel.aisnet.org/jais/vol24/iss1/6"
@@ -15,6 +16,13 @@ journal:
 cited_by: 6
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Roberts, N., Jeyaraj, A., Pullin, J. E., & Management (2022). Assessing the Connections among Top Management Support, IT Assimilation, and the Business Value of IT: A Meta-Analysis. Journal of the Association for Information Systems, 24(1), 107–135. https://doi.org/10.17705/1JAIS.00772.
+:::
 
 ## Citation: BibTeX
 
@@ -37,7 +45,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Roberts, Nicholas
 AU  - Jeyaraj, Anand
@@ -54,6 +62,7 @@ DO  - 10.17705/1JAIS.00772
 UR  - https://aisel.aisnet.org/jais/vol24/iss1/6
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00772>

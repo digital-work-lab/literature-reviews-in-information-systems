@@ -1,10 +1,11 @@
 ---
 title: "An Integrated Literature Review - Establishing Relevance for Practitioners"
 author:
-- Marrone, Mauricio
-- Hammerle, Mara
+  - Marrone, Mauricio
+  - Hammerle, Mara
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: ""
 url: "http://aisel.aisnet.org/icis2016/Methodological/Presentations/7"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Marrone, M., & Hammerle, M. (2016). An Integrated Literature Review - Establishing Relevance for Practitioners. In International Conference on Information Systems. http://aisel.aisnet.org/icis2016/Methodological/Presentations/7.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Marrone, Mauricio
 AU  - Hammerle, Mara
@@ -38,6 +46,7 @@ PY  - 2016
 UR  - http://aisel.aisnet.org/icis2016/Methodological/Presentations/7
 ER  - 
 ```
+
 ## Links
 
 - URL: <http://aisel.aisnet.org/icis2016/Methodological/Presentations/7>

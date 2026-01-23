@@ -1,12 +1,13 @@
 ---
 title: "The digital innovation unit: a silver bullet for managing the digital transformation?"
 author:
-- Haskamp, Thomas
-- Raabe, Jun-Patrick
-- Barthel, Philipp
-- Schirmer, Ingrid
+  - Haskamp, Thomas
+  - Raabe, Jun-Patrick
+  - Barthel, Philipp
+  - Schirmer, Ingrid
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2023_rp/228"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Haskamp, T., Raabe, J.-P., Barthel, P., & Schirmer, I. (2023). The digital innovation unit: a silver bullet for managing the digital transformation?. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2023_rp/228.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Haskamp, Thomas
 AU  - Raabe, Jun-Patrick
@@ -44,6 +52,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/ecis2023_rp/228
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2023_rp/228>

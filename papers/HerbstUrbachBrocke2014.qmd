@@ -1,11 +1,12 @@
 ---
 title: "Shedding Light on the Impact Dimension of Information Systems Success - A Synthesis of the Literature"
 author:
-- Herbst, Andrea
-- Urbach, Nils
-- Brocke, Jan vom
+  - Herbst, Andrea
+  - Urbach, Nils
+  - Brocke, Jan vom
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.452"
 url: "https://ieeexplore.ieee.org/document/6759054/"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Herbst, A., Urbach, N., & Brocke, J. V. (2014). Shedding Light on the Impact Dimension of Information Systems Success - A Synthesis of the Literature. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2014.452.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Herbst, Andrea
 AU  - Urbach, Nils
@@ -44,6 +52,7 @@ DO  - 10.1109/HICSS.2014.452
 UR  - https://ieeexplore.ieee.org/document/6759054/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2014.452>

@@ -1,11 +1,12 @@
 ---
 title: "Open Government Data Use by the Public Sector - an Overview of its Benefits, Barriers, Drivers, and Enablers"
 author:
-- Kawashita, Ilka
-- Baptista, Ana Alice
-- Soares, Delfina
+  - Kawashita, Ilka
+  - Baptista, Ana Alice
+  - Soares, Delfina
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.315"
 url: "http://hdl.handle.net/10125/79648"
@@ -14,6 +15,13 @@ journal:
 cited_by: 15
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kawashita, I., Baptista, A. A., & Soares, D. (2022). Open Government Data Use by the Public Sector - an Overview of its Benefits, Barriers, Drivers, and Enablers. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.315.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kawashita, Ilka
 AU  - Baptista, Ana Alice
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2022.315
 UR  - http://hdl.handle.net/10125/79648
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.315>

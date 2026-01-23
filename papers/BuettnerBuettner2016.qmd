@@ -1,10 +1,11 @@
 ---
 title: "A Systematic Literature Review of Twitter Research from a Socio-Political Revolution Perspective"
 author:
-- Buettner, Ricardo
-- Buettner, Katharina
+  - Buettner, Ricardo
+  - Buettner, Katharina
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1109/HICSS.2016.277"
 url: "https://ieeexplore.ieee.org/document/7427460"
@@ -13,6 +14,13 @@ journal:
 cited_by: 15
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Buettner, R., & Buettner, K. (2016). A Systematic Literature Review of Twitter Research from a Socio-Political Revolution Perspective. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2016.277.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Buettner, Ricardo
 AU  - Buettner, Katharina
@@ -40,6 +48,7 @@ DO  - 10.1109/HICSS.2016.277
 UR  - https://ieeexplore.ieee.org/document/7427460
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2016.277>

@@ -1,11 +1,12 @@
 ---
 title: "An agenda for ‘Green’ information technology and systems research"
 author:
-- Jenkin, Tracy A.
-- Webster, Jane
-- McShane, Lindsay
-topic: ""
-categories: ['theoretical-review']
+  - Jenkin, Tracy A.
+  - Webster, Jane
+  - McShane, Lindsay
+topic: "Other Domain"
+categories:
+  - theoretical-review
 date: "2011"
 doi: "https://doi.org/10.1016/J.INFOANDORG.2010.09.003"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 263
 outlet: "Information and Organization"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Jenkin, T. A., Webster, J., & McShane, L. (2011). An agenda for ‘Green’ information technology and systems research. Information and Organization, 21(1), 17–40. https://doi.org/10.1016/J.INFOANDORG.2010.09.003.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Information and Organization"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Jenkin, Tracy A.
 AU  - Webster, Jane
@@ -47,6 +55,7 @@ EP  - 40
 DO  - 10.1016/J.INFOANDORG.2010.09.003
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.INFOANDORG.2010.09.003>

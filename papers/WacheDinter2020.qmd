@@ -1,10 +1,11 @@
 ---
 title: "The Digital Twin - Birth of an Integrated System in the Digital Age"
 author:
-- Wache, Hendrik
-- Dinter, Barbara
+  - Wache, Hendrik
+  - Dinter, Barbara
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.671"
 url: "http://hdl.handle.net/10125/64413"
@@ -13,6 +14,13 @@ journal:
 cited_by: 14
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wache, H., & Dinter, B. (2020). The Digital Twin - Birth of an Integrated System in the Digital Age. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.671.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wache, Hendrik
 AU  - Dinter, Barbara
@@ -41,6 +49,7 @@ DO  - 10.24251/HICSS.2020.671
 UR  - http://hdl.handle.net/10125/64413
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.671>

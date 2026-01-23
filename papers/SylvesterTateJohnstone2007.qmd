@@ -1,11 +1,12 @@
 ---
 title: "Re-presenting the Literature Review - A Rich Picture of Service Quality Research in Information Systems"
 author:
-- Sylvester, Allan
-- Tate, Mary
-- Johnstone, David
+  - Sylvester, Allan
+  - Tate, Mary
+  - Johnstone, David
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2007"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2007/113"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Sylvester, A., Tate, M., & Johnstone, D. (2007). Re-presenting the Literature Review - A Rich Picture of Service Quality Research in Information Systems. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2007/113.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Sylvester, Allan
 AU  - Tate, Mary
@@ -40,6 +48,7 @@ PY  - 2007
 UR  - https://aisel.aisnet.org/pacis2007/113
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2007/113>

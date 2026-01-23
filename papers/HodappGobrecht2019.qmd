@@ -1,10 +1,11 @@
 ---
 title: "Towards a coherent Perspective - a literature Review on the Interplay of the Internet of Things and Ecosystems"
 author:
-- Hodapp, Daniel
-- Gobrecht, Lennart
+  - Hodapp, Daniel
+  - Gobrecht, Lennart
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2019_rip/61"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hodapp, D., & Gobrecht, L. (2019). Towards a coherent Perspective - a literature Review on the Interplay of the Internet of Things and Ecosystems. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2019_rip/61.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hodapp, Daniel
 AU  - Gobrecht, Lennart
@@ -38,6 +46,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/ecis2019_rip/61
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2019_rip/61>

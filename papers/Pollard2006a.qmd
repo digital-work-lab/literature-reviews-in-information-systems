@@ -1,11 +1,12 @@
 ---
 title: "Towards a Simplified Framework of CRM for Use in Public and Private Sectors"
 author:
-- Pollard, Carol
-- Young, Judy
-- Gregg, Paul
-topic: ""
-categories: ['narrative-review']
+  - Pollard, Carol
+  - Young, Judy
+  - Gregg, Paul
+topic: "Other Domain"
+categories:
+  - narrative-review
 date: "2006"
 doi: "https://doi.org/10.1080/15228053.2006.10856087"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 6
 outlet: "Journal of Information Technology Case and Application Research"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Pollard, C., Young, J., & Gregg, P. (2006). Towards a Simplified Framework of CRM for Use in Public and Private Sectors. Journal of Information Technology Case and Application Research, 8(2), 24–38. https://doi.org/10.1080/15228053.2006.10856087.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Journal of Information Technology Case and Application Research"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Pollard, Carol
 AU  - Young, Judy
@@ -47,6 +55,7 @@ EP  - 38
 DO  - 10.1080/15228053.2006.10856087
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/15228053.2006.10856087>

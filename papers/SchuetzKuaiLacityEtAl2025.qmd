@@ -1,12 +1,13 @@
 ---
 title: "A qualitative systematic review of trust in technology"
 author:
-- Schuetz, Sebastian
-- Kuai, Le
-- Lacity, Mary C.
-- Steelman, Zach
+  - Schuetz, Sebastian
+  - Kuai, Le
+  - Lacity, Mary C.
+  - Steelman, Zach
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.1177/02683962241254392"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 11
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schuetz, S., Kuai, L., Lacity, M. C., & Steelman, Z. (2025). A qualitative systematic review of trust in technology. Journal of Information Technology, 40(1), 55–76. https://doi.org/10.1177/02683962241254392.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Schuetz, Sebastian
 AU  - Kuai, Le
@@ -51,6 +59,7 @@ EP  - 76
 DO  - 10.1177/02683962241254392
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1177/02683962241254392>

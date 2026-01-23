@@ -1,12 +1,13 @@
 ---
 title: "Health Information on the Internet"
 author:
-- Rozenkranz, Nadine
-- Eckhardt, Andreas
-- Kühne, Mirko
-- Rosenkranz, Christoph
-topic: ""
-categories: ['descriptive-review']
+  - Rozenkranz, Nadine
+  - Eckhardt, Andreas
+  - Kühne, Mirko
+  - Rosenkranz, Christoph
+topic: "Other Domain"
+categories:
+  - descriptive-review
 date: "2013"
 doi: "https://doi.org/10.1007/S12599-013-0274-4"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 16
 outlet: "Business & Information Systems Engineering"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Rozenkranz, N., Eckhardt, A., Kühne, M., & Rosenkranz, C. (2013). Health Information on the Internet. Business & Information Systems Engineering, 5(4), 259–274. https://doi.org/10.1007/S12599-013-0274-4.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Business & Information Systems Engineering"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Rozenkranz, Nadine
 AU  - Eckhardt, Andreas
@@ -50,6 +58,7 @@ EP  - 274
 DO  - 10.1007/S12599-013-0274-4
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S12599-013-0274-4>

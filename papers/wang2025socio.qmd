@@ -1,11 +1,12 @@
 ---
 title: "Socio-technical phenomena involving blockchain use: Literature review, conceptual framework, and research agenda"
 author:
-- Wang, Shaoxin
-- Schlagwein, Daniel
-- Seymour, Mike
+  - Wang, Shaoxin
+  - Schlagwein, Daniel
+  - Seymour, Mike
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.1016/J.JSIS.2025.101901"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 6
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wang, S., Schlagwein, D., & Seymour, M. (2025). Socio-technical phenomena involving blockchain use: Literature review, conceptual framework, and research agenda. The Journal of Strategic Information Systems, 34(2), 101901. https://doi.org/10.1016/J.JSIS.2025.101901.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wang, Shaoxin
 AU  - Schlagwein, Daniel
@@ -46,6 +54,7 @@ SP  - 101901
 DO  - 10.1016/J.JSIS.2025.101901
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2025.101901>

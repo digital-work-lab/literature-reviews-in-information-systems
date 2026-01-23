@@ -1,10 +1,11 @@
 ---
 title: "Polarization in online social networks: a review of mechanisms and dimensions"
 author:
-- Tölle, Laura
-- Trier, Matthias
+  - Tölle, Laura
+  - Trier, Matthias
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2023_rp/237"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Tölle, L., & Trier, M. (2023). Polarization in online social networks: a review of mechanisms and dimensions. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2023_rp/237.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Tölle, Laura
 AU  - Trier, Matthias
@@ -40,6 +48,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/ecis2023_rp/237
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2023_rp/237>

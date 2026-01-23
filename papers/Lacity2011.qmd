@@ -1,12 +1,13 @@
 ---
 title: "Business Process Outsourcing Studies: A Critical Review and Research Directions"
 author:
-- Lacity, Mary C
-- Solomon, Stan
-- Yan, Aihua
-- Willcocks, Leslie P
-topic: ""
-categories: ['qualitative-systematic-review']
+  - Lacity, Mary C
+  - Solomon, Stan
+  - Yan, Aihua
+  - Willcocks, Leslie P
+topic: "Outsourcing"
+categories:
+  - qualitative-systematic-review
 date: "2011"
 doi: "https://doi.org/10.1057/JIT.2011.25"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 115
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lacity, M. C., Solomon, S., Yan, A., & Willcocks, L. P. (2011). Business Process Outsourcing Studies: A Critical Review and Research Directions. Journal of Information Technology, 26(4), 221–258. https://doi.org/10.1057/JIT.2011.25.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Lacity, Mary C
 AU  - Solomon, Stan
@@ -50,6 +58,7 @@ EP  - 258
 DO  - 10.1057/JIT.2011.25
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/JIT.2011.25>

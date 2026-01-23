@@ -1,10 +1,11 @@
 ---
 title: "What Do We Really Mean by Rigor in Information Systems Research?"
 author:
-- Soliman, Wael
-- Siponen, Mikko T.
+  - Soliman, Wael
+  - Siponen, Mikko T.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.797"
 url: "http://hdl.handle.net/10125/80137"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Soliman, W., & Siponen, M. T. (2022). What Do We Really Mean by Rigor in Information Systems Research?. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.797.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Soliman, Wael
 AU  - Siponen, Mikko T.
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2022.797
 UR  - http://hdl.handle.net/10125/80137
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.797>

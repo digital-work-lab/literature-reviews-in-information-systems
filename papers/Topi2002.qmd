@@ -1,10 +1,11 @@
 ---
 title: "Human Factors Research on Data Modeling"
 author:
-- Topi, Heikki
-- Ramesh, V.
-topic: ""
-categories: ['theoretical-review']
+  - Topi, Heikki
+  - Ramesh, V.
+topic: "Human Computer Interaction"
+categories:
+  - theoretical-review
 date: "2002"
 doi: "https://doi.org/10.4018/JDM.2002040101"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 54
 outlet: "Journal of Database Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Topi, H., & Ramesh, V. (2002). Human Factors Research on Data Modeling. Journal of Database Management, 13(2), 3–19. https://doi.org/10.4018/JDM.2002040101.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Journal of Database Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Topi, Heikki
 AU  - Ramesh, V.
@@ -46,6 +54,7 @@ EP  - 19
 DO  - 10.4018/JDM.2002040101
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.4018/JDM.2002040101>

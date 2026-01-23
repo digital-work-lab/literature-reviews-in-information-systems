@@ -1,10 +1,11 @@
 ---
 title: "A Capabilities-Based Theory of Technology Deployment in Diverse Teams: Leapfrogging the Pitfalls of Diversity and Leveraging Its Potential with Collaborative Technology"
 author:
-- Carte, Traci
-- Chidambaram, Laku
-topic: ""
-categories: ['theoretical-review']
+  - Carte, Traci
+  - Chidambaram, Laku
+topic: "Software Development"
+categories:
+  - theoretical-review
 date: "2004"
 doi: "https://doi.org/10.17705/1JAIS.00060"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 67
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Carte, T., & Chidambaram, L. (2004). A Capabilities-Based Theory of Technology Deployment in Diverse Teams: Leapfrogging the Pitfalls of Diversity and Leveraging Its Potential with Collaborative Technology. Journal of the Association for Information Systems, 5(11), 448–471. https://doi.org/10.17705/1JAIS.00060.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Carte, Traci
 AU  - Chidambaram, Laku
@@ -45,6 +53,7 @@ EP  - 471
 DO  - 10.17705/1JAIS.00060
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00060>

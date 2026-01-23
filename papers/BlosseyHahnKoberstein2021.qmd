@@ -1,11 +1,12 @@
 ---
 title: "Managing Uncertainty in Pharmaceutical Supply Chains - A Structured Review"
 author:
-- Blossey, Gregor
-- Hahn, Gerd J.
-- Koberstein, Achim
+  - Blossey, Gregor
+  - Hahn, Gerd J.
+  - Koberstein, Achim
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.173"
 url: "https://hdl.handle.net/10125/70785"
@@ -14,6 +15,13 @@ journal:
 cited_by: 5
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Blossey, G., Hahn, G. J., & Koberstein, A. (2021). Managing Uncertainty in Pharmaceutical Supply Chains - A Structured Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.173.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Blossey, Gregor
 AU  - Hahn, Gerd J.
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2021.173
 UR  - https://hdl.handle.net/10125/70785
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.173>

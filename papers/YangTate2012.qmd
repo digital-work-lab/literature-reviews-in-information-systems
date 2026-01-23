@@ -1,10 +1,11 @@
 ---
 title: "A Descriptive Literature Review and Classification of Cloud Computing Research"
 author:
-- Yang, Haibo
-- Tate, Mary
-topic: ""
-categories: ['descriptive-review']
+  - Yang, Haibo
+  - Tate, Mary
+topic: "Other Domain"
+categories:
+  - descriptive-review
 date: "2012"
 doi: "https://doi.org/10.17705/1CAIS.03102"
 url: "https://aisel.aisnet.org/cais/vol31/iss1/2"
@@ -13,6 +14,13 @@ journal:
 cited_by: 106
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Yang, H., & Tate, M. (2012). A Descriptive Literature Review and Classification of Cloud Computing Research. Communications of the Association for Information Systems, 31, 35–60. https://doi.org/10.17705/1CAIS.03102.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Yang, Haibo
 AU  - Tate, Mary
@@ -45,6 +53,7 @@ DO  - 10.17705/1CAIS.03102
 UR  - https://aisel.aisnet.org/cais/vol31/iss1/2
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03102>

@@ -1,13 +1,14 @@
 ---
 title: "Understanding the Design Elements Affecting User Acceptance of Intelligent Agents: Past, Present and Future"
 author:
-- Elshan, Edona
-- Zierau, Naim
-- Engel, Christian
-- Janson, Andreas
-- Leimeister, Jan Marco
+  - Elshan, Edona
+  - Zierau, Naim
+  - Engel, Christian
+  - Janson, Andreas
+  - Leimeister, Jan Marco
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.1007/S10796-021-10230-9"
 url: "https://link.springer.com/article/10.1007/s10796-021-10230-9"
@@ -16,6 +17,13 @@ journal:
 cited_by: 47
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Elshan, E., Zierau, N., Engel, C., Janson, A., & Leimeister, J. M. (2022). Understanding the Design Elements Affecting User Acceptance of Intelligent Agents: Past, Present and Future. Information Systems Frontiers, 24(3), 699–730. https://doi.org/10.1007/S10796-021-10230-9.
+:::
 
 ## Citation: BibTeX
 
@@ -36,7 +44,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Elshan, Edona
 AU  - Zierau, Naim
@@ -54,6 +62,7 @@ DO  - 10.1007/S10796-021-10230-9
 UR  - https://link.springer.com/article/10.1007/s10796-021-10230-9
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-021-10230-9>

@@ -1,9 +1,10 @@
 ---
 title: "Post-positivist Review of Technology Acceptance Model."
 author:
-- Silva, Leiser
-topic: ""
-categories: ['critical-review']
+  - Silva, Leiser
+topic: "Technology Acceptance, and Use"
+categories:
+  - critical-review
 date: "2007"
 doi: "https://doi.org/10.17705/1JAIS.00121"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 58
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Silva, L. (2007). Post-positivist Review of Technology Acceptance Model. Journal of the Association for Information Systems, 8(4), 255–266. https://doi.org/10.17705/1JAIS.00121.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Silva, Leiser
 TI  - Post-positivist Review of Technology Acceptance Model.
@@ -43,6 +51,7 @@ EP  - 266
 DO  - 10.17705/1JAIS.00121
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00121>

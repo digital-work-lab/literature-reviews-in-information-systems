@@ -21,7 +21,7 @@ website:
         href: about.qmd
 
       - icon: github
-        href: https://github.com/digital-work-lab/literature-reviews-in-information-systems
+        href: https://github.com/fs-ise/literature-reviews-in-information-systems
 
   sidebar:
     logo: assets/logo.png
@@ -29,6 +29,9 @@ website:
 
 format:
   html:
+    include-after-body:
+      - assets/cite-copy-loader.html
+    css: assets/styles.css
     toc: true
     toc-depth: 3
     code-fold: true

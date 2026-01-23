@@ -1,12 +1,13 @@
 ---
 title: "Unveiling the Complexity of Smart Home Systems in Terms of Sustainability and Effectiveness: An AI-enhanced Literature Review"
 author:
-- Kürschner, Anna-Rosa
-- Ernst, Christiane
-- Figl, Kathrin
-- Remus, Ulrich
+  - Kürschner, Anna-Rosa
+  - Ernst, Christiane
+  - Figl, Kathrin
+  - Remus, Ulrich
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kürschner, A.-R., Ernst, C., Figl, K., & Remus, U. (2024). Unveiling the Complexity of Smart Home Systems in Terms of Sustainability and Effectiveness: An AI-enhanced Literature Review. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kürschner, Anna-Rosa
 AU  - Ernst, Christiane

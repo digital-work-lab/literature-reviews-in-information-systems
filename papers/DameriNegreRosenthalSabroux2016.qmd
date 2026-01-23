@@ -1,11 +1,12 @@
 ---
 title: "Triple Helix in Smart Cities - A Literature Review about the Vision of Public Bodies, Universities, and Private Companies"
 author:
-- Dameri, Renata Paola
-- Negre, Elsa
-- Rosenthal-Sabroux, Camille
+  - Dameri, Renata Paola
+  - Negre, Elsa
+  - Rosenthal-Sabroux, Camille
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1109/HICSS.2016.372"
 url: "https://ieeexplore.ieee.org/document/7427555"
@@ -14,6 +15,13 @@ journal:
 cited_by: 23
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Dameri, R. P., Negre, E., & Rosenthal-Sabroux, C. (2016). Triple Helix in Smart Cities - A Literature Review about the Vision of Public Bodies, Universities, and Private Companies. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2016.372.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Dameri, Renata Paola
 AU  - Negre, Elsa
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2016.372
 UR  - https://ieeexplore.ieee.org/document/7427555
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2016.372>

@@ -1,10 +1,11 @@
 ---
 title: "How can Extended Reality Help Individuals with Depth Misperception?"
 author:
-- Kazemi, Gholamhossein
-- Stendal, Karen
+  - Kazemi, Gholamhossein
+  - Stendal, Karen
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.395"
 url: "https://hdl.handle.net/10125/103026"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kazemi, G., & Stendal, K. (2023). How can Extended Reality Help Individuals with Depth Misperception?. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.395.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kazemi, Gholamhossein
 AU  - Stendal, Karen
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2023.395
 UR  - https://hdl.handle.net/10125/103026
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.395>

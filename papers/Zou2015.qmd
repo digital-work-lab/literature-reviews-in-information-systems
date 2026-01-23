@@ -1,9 +1,10 @@
 ---
 title: "A Relational View of Individual Participation in Online Communities of Practice - An Integrative Literature Review"
 author:
-- Zou, Yi
+  - Zou, Yi
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: ""
 url: "http://aisel.aisnet.org/icis2015/proceedings/HumanBehaviorIS/11"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Zou, Y. (2015). A Relational View of Individual Participation in Online Communities of Practice - An Integrative Literature Review. In International Conference on Information Systems. http://aisel.aisnet.org/icis2015/proceedings/HumanBehaviorIS/11.
+:::
 
 ## Citation: BibTeX
 
@@ -27,7 +35,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Zou, Yi
 TI  - A Relational View of Individual Participation in Online Communities of Practice - An Integrative Literature Review
@@ -36,6 +44,7 @@ PY  - 2015
 UR  - http://aisel.aisnet.org/icis2015/proceedings/HumanBehaviorIS/11
 ER  - 
 ```
+
 ## Links
 
 - URL: <http://aisel.aisnet.org/icis2015/proceedings/HumanBehaviorIS/11>

@@ -1,11 +1,12 @@
 ---
 title: "The current State and Future Opportunities of Digital Innovation - a literature Review"
 author:
-- Hund, Axel
-- Drechsler, Katharina
-- Reibenspiess, Victoria Alexandra
+  - Hund, Axel
+  - Drechsler, Katharina
+  - Reibenspiess, Victoria Alexandra
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2019_rp/155"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hund, A., Drechsler, K., & Reibenspiess, V. A. (2019). The current State and Future Opportunities of Digital Innovation - a literature Review. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2019_rp/155.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hund, Axel
 AU  - Drechsler, Katharina
@@ -40,6 +48,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/ecis2019_rp/155
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2019_rp/155>

@@ -1,10 +1,11 @@
 ---
 title: "Developing a frame of reference for ex-ante IT/IS investment evaluation"
 author:
-- Irani, Z
-- Love, P E D
-topic: ""
-categories: ['narrative-review']
+  - Irani, Z
+  - Love, P E D
+topic: "IS Value"
+categories:
+  - narrative-review
 date: "2002"
 doi: "https://doi.org/10.1057/PALGRAVE/EJIS/3000411"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 60
 outlet: "European Journal of Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Irani, Z., & Love, P. E. D. (2002). Developing a frame of reference for ex-ante IT/IS investment evaluation. European Journal of Information Systems, 11(1), 74–82. https://doi.org/10.1057/PALGRAVE/EJIS/3000411.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Journal of Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Irani, Z
 AU  - Love, P E D
@@ -45,6 +53,7 @@ EP  - 82
 DO  - 10.1057/PALGRAVE/EJIS/3000411
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/PALGRAVE/EJIS/3000411>

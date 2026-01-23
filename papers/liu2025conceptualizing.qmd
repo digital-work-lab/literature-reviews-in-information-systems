@@ -1,13 +1,14 @@
 ---
 title: "Conceptualizing Echo Chambers and Information Cocoons: A Literature Review and Synthesis of Current Knowledge and Future Directions"
 author:
-- Liu, Jiaying
-- Schwarz, Andrew
-- Risius, Marten
-- Hirschheim, Rudy
-- Van Scotter, James
+  - Liu, Jiaying
+  - Schwarz, Andrew
+  - Risius, Marten
+  - Hirschheim, Rudy
+  - Van Scotter, James
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.1016/J.JSIS.2025.101904"
 url: ""
@@ -16,6 +17,13 @@ journal:
 cited_by: 5
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Liu, J., Schwarz, A., Risius, M., Hirschheim, R., & Van Scotter, J. (2025). Conceptualizing Echo Chambers and Information Cocoons: A Literature Review and Synthesis of Current Knowledge and Future Directions. The Journal of Strategic Information Systems, 34(2), 101904. https://doi.org/10.1016/J.JSIS.2025.101904.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Liu, Jiaying
 AU  - Schwarz, Andrew
@@ -50,6 +58,7 @@ SP  - 101904
 DO  - 10.1016/J.JSIS.2025.101904
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2025.101904>

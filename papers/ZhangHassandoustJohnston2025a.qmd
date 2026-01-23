@@ -1,11 +1,12 @@
 ---
 title: "Privacy in Smart Health Monitoring: A Systematic Review and Research Directions"
 author:
-- Zhang, Jingjing
-- Hassandoust, Farkhondeh
-- Johnston, Allen C.
+  - Zhang, Jingjing
+  - Hassandoust, Farkhondeh
+  - Johnston, Allen C.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.17705/1CAIS.05713"
 url: "https://aisel.aisnet.org/cais/vol57/iss1/15"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Zhang, J., Hassandoust, F., & Johnston, A. C. (2025). Privacy in Smart Health Monitoring: A Systematic Review and Research Directions. Communications of the Association for Information Systems, 57, 318–364. https://doi.org/10.17705/1CAIS.05713.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Zhang, Jingjing
 AU  - Hassandoust, Farkhondeh
@@ -48,6 +56,7 @@ DO  - 10.17705/1CAIS.05713
 UR  - https://aisel.aisnet.org/cais/vol57/iss1/15
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05713>

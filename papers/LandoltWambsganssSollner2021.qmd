@@ -1,11 +1,12 @@
 ---
 title: "A Taxonomy for Deep Learning in Natural Language Processing"
 author:
-- Landolt, Severin
-- Wambsganss, Thiemo
-- Söllner, Matthias
+  - Landolt, Severin
+  - Wambsganss, Thiemo
+  - Söllner, Matthias
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.129"
 url: "https://hdl.handle.net/10125/70741"
@@ -14,6 +15,13 @@ journal:
 cited_by: 15
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Landolt, S., Wambsganss, T., & Söllner, M. (2021). A Taxonomy for Deep Learning in Natural Language Processing. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.129.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Landolt, Severin
 AU  - Wambsganss, Thiemo
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2021.129
 UR  - https://hdl.handle.net/10125/70741
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.129>

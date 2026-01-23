@@ -1,11 +1,12 @@
 ---
 title: "Trends in Academic and Industrial Research on Business Process Management - A Computational Literature Analysis"
 author:
-- Muff, Fabian
-- Härer, Felix
-- Fill, Hans-Georg
+  - Muff, Fabian
+  - Härer, Felix
+  - Fill, Hans-Georg
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.874"
 url: "http://hdl.handle.net/10125/80215"
@@ -14,6 +15,13 @@ journal:
 cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Muff, F., Härer, F., & Fill, H.-G. (2022). Trends in Academic and Industrial Research on Business Process Management - A Computational Literature Analysis. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.874.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Muff, Fabian
 AU  - Härer, Felix
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2022.874
 UR  - http://hdl.handle.net/10125/80215
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.874>

@@ -1,10 +1,11 @@
 ---
 title: "IT-based reminders for medication adherence - systematic review, taxonomy, framework and research directions"
 author:
-- Singh, Neetu
-- Varshney, Upkar
+  - Singh, Neetu
+  - Varshney, Upkar
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.1080/0960085X.2019.1701956"
 url: "https://www.tandfonline.com/doi/full/10.1080/0960085X.2019.1701956"
@@ -13,6 +14,13 @@ journal:
 cited_by: 21
 outlet: "European Journal of Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Singh, N., & Varshney, U. (2020). IT-based reminders for medication adherence - systematic review, taxonomy, framework and research directions. European Journal of Information Systems, 29(1), 84–108. https://doi.org/10.1080/0960085X.2019.1701956.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "European Journal of Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Singh, Neetu
 AU  - Varshney, Upkar
@@ -49,6 +57,7 @@ DO  - 10.1080/0960085X.2019.1701956
 UR  - https://www.tandfonline.com/doi/full/10.1080/0960085X.2019.1701956
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/0960085X.2019.1701956>

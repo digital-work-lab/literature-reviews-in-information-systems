@@ -1,11 +1,12 @@
 ---
 title: "Information Systems Offshoring—A Literature Review and Analysis"
 author:
-- Wiener, Martin
-- Vogel, Bianca
-- Amberg, Michael
-topic: ""
-categories: ['descriptive-review']
+  - Wiener, Martin
+  - Vogel, Bianca
+  - Amberg, Michael
+topic: "Outsourcing"
+categories:
+  - descriptive-review
 date: "2010"
 doi: "https://doi.org/10.17705/1CAIS.02725"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 8
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wiener, M., Vogel, B., & Amberg, M. (2010). Information Systems Offshoring—A Literature Review and Analysis. Communications of the Association for Information Systems, 27(25), 455–492. https://doi.org/10.17705/1CAIS.02725.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wiener, Martin
 AU  - Vogel, Bianca
@@ -47,6 +55,7 @@ EP  - 492
 DO  - 10.17705/1CAIS.02725
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.02725>

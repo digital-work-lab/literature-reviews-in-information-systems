@@ -1,11 +1,12 @@
 ---
 title: "Understanding How the Traditional and Information Technology Anti-Corruption Strategies intertwine to Curb Public Sector Corruption - A Systematic Literature Review"
 author:
-- Inuwa, Ibrahim
-- Kah, Muhammadou M. O.
-- Ononiwu, Chidi G.
+  - Inuwa, Ibrahim
+  - Kah, Muhammadou M. O.
+  - Ononiwu, Chidi G.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2019/15"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Inuwa, I., Kah, M. M. O., & Ononiwu, C. G. (2019). Understanding How the Traditional and Information Technology Anti-Corruption Strategies intertwine to Curb Public Sector Corruption - A Systematic Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2019/15.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Inuwa, Ibrahim
 AU  - Kah, Muhammadou M. O.
@@ -40,6 +48,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/pacis2019/15
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2019/15>

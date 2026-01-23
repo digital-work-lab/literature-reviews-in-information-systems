@@ -1,11 +1,12 @@
 ---
 title: "Discontinuance of ERP Systems: A Literature Review and Theory Extension"
 author:
-- Venkatesh, Viswanath
-- James, Tabitha
-- Qazi, Zohaib A
+  - Venkatesh, Viswanath
+  - James, Tabitha
+  - Qazi, Zohaib A
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Venkatesh, V., James, T., & Qazi, Z. A. (2024). Discontinuance of ERP Systems: A Literature Review and Theory Extension. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Venkatesh, Viswanath
 AU  - James, Tabitha

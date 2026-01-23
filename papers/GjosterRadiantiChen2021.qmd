@@ -1,11 +1,12 @@
 ---
 title: "Universal Design of ICT for Emergency Management from Stakeholders’ Perspective"
 author:
-- Gjøsæter, Terje
-- Radianti, Jaziar
-- Chen, Weiqin
+  - Gjøsæter, Terje
+  - Radianti, Jaziar
+  - Chen, Weiqin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.1007/S10796-020-10084-7"
 url: "https://link.springer.com/article/10.1007/s10796-020-10084-7"
@@ -14,6 +15,13 @@ journal:
 cited_by: 23
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gjøsæter, T., Radianti, J., & Chen, W. (2021). Universal Design of ICT for Emergency Management from Stakeholders’ Perspective. Information Systems Frontiers, 23(5), 1213–1225. https://doi.org/10.1007/S10796-020-10084-7.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Gjøsæter, Terje
 AU  - Radianti, Jaziar
@@ -50,6 +58,7 @@ DO  - 10.1007/S10796-020-10084-7
 UR  - https://link.springer.com/article/10.1007/s10796-020-10084-7
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-020-10084-7>

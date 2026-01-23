@@ -1,13 +1,14 @@
 ---
 title: "A Systematic Review of Conversational Agents Implemented for Neurological and Mental Disorders"
 author:
-- Rubiano-Cruz, Ricardo
-- Greulich, Stefan
-- Feige, Tim
-- Schnalke, Nils
-- Falkenburger, Björn
+  - Rubiano-Cruz, Ricardo
+  - Greulich, Stefan
+  - Feige, Tim
+  - Schnalke, Nils
+  - Falkenburger, Björn
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2024/track11_healthit/track11_healthit/1"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Rubiano-Cruz, R., Greulich, S., Feige, T., Schnalke, N., & Falkenburger, B. (2024). A Systematic Review of Conversational Agents Implemented for Neurological and Mental Disorders. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2024/track11_healthit/track11_healthit/1.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Rubiano-Cruz, Ricardo
 AU  - Greulich, Stefan
@@ -45,6 +53,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/pacis2024/track11_healthit/track11_healthit/1
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2024/track11_healthit/track11_healthit/1>

@@ -1,11 +1,12 @@
 ---
 title: "Green Business Process Management -- A Definition and Research Framework"
 author:
-- Opitz, Nicky
-- Krüp, Henning
-- Kolbe, Lutz M.
+  - Opitz, Nicky
+  - Krüp, Henning
+  - Kolbe, Lutz M.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.473"
 url: "https://ieeexplore.ieee.org/document/6759075/"
@@ -14,6 +15,13 @@ journal:
 cited_by: 18
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Opitz, N., Krüp, H., & Kolbe, L. M. (2014). Green Business Process Management -- A Definition and Research Framework. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2014.473.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Opitz, Nicky
 AU  - Krüp, Henning
@@ -44,6 +52,7 @@ DO  - 10.1109/HICSS.2014.473
 UR  - https://ieeexplore.ieee.org/document/6759075/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2014.473>

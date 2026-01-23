@@ -1,12 +1,13 @@
 ---
 title: "The use of interorganizational information systems in digitalizing supply chains - a systematic literature review and research agenda for Africa"
 author:
-- Agyei-Owusu, Benjamin
-- Marfo, John Serbe
-- Quansah, Emmanuel Kweku
-- Kumi, Caleb Amankwaa
+  - Agyei-Owusu, Benjamin
+  - Marfo, John Serbe
+  - Quansah, Emmanuel Kweku
+  - Kumi, Caleb Amankwaa
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2021/global_develop/global_develop/11"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Agyei-Owusu, B., Marfo, J. S., Quansah, E. K., & Kumi, C. A. (2021). The use of interorganizational information systems in digitalizing supply chains - a systematic literature review and research agenda for Africa. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2021/global_develop/global_develop/11.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Agyei-Owusu, Benjamin
 AU  - Marfo, John Serbe
@@ -42,6 +50,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/amcis2021/global_develop/global_develop/11
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2021/global_develop/global_develop/11>

@@ -1,10 +1,11 @@
 ---
 title: "The Advancement of is Evaluation - a literature Review"
 author:
-- Kautz, Karl
-- Nagm, Fouad
+  - Kautz, Karl
+  - Nagm, Fouad
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2008"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2008/66"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kautz, K., & Nagm, F. (2008). The Advancement of is Evaluation - a literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2008/66.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kautz, Karl
 AU  - Nagm, Fouad
@@ -38,6 +46,7 @@ PY  - 2008
 UR  - https://aisel.aisnet.org/pacis2008/66
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2008/66>

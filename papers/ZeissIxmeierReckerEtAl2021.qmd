@@ -1,12 +1,13 @@
 ---
 title: "Mobilising information systems scholarship for a circular economy - Review, synthesis, and directions for future research"
 author:
-- Zeiss, Roman
-- Ixmeier, Anne
-- Recker, Jan
-- Kranz, Johann
+  - Zeiss, Roman
+  - Ixmeier, Anne
+  - Recker, Jan
+  - Kranz, Johann
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.1111/ISJ.12305"
 url: "https://dblp.org/rec/journals/isj/ZeissIRK21"
@@ -15,6 +16,13 @@ journal:
 cited_by: 73
 outlet: "Information Systems Journal"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Zeiss, R., Ixmeier, A., Recker, J., & Kranz, J. (2021). Mobilising information systems scholarship for a circular economy - Review, synthesis, and directions for future research. Information Systems Journal, 31(1), 148–183. https://doi.org/10.1111/ISJ.12305.
+:::
 
 ## Citation: BibTeX
 
@@ -36,7 +44,7 @@ outlet: "Information Systems Journal"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Zeiss, Roman
 AU  - Ixmeier, Anne
@@ -53,6 +61,7 @@ DO  - 10.1111/ISJ.12305
 UR  - https://dblp.org/rec/journals/isj/ZeissIRK21
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1111/ISJ.12305>

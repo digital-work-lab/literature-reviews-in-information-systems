@@ -1,11 +1,12 @@
 ---
 title: "Resource Integration in The Vehicle Ecosystem: A Literature Review"
 author:
-- Alotaibi, Awatif
-- Barros, Alistair
-- Degirmenci, Kenan
+  - Alotaibi, Awatif
+  - Barros, Alistair
+  - Degirmenci, Kenan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2023/conf_theme/conf_theme/10"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Alotaibi, A., Barros, A., & Degirmenci, K. (2023). Resource Integration in The Vehicle Ecosystem: A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2023/conf_theme/conf_theme/10.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Alotaibi, Awatif
 AU  - Barros, Alistair
@@ -43,6 +51,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/amcis2023/conf_theme/conf_theme/10
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2023/conf_theme/conf_theme/10>

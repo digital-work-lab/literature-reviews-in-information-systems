@@ -1,13 +1,14 @@
 ---
 title: "A literature review of electronic marketplace research: Themes, theories and an integrative framework"
 author:
-- Wang, Shan
-- Zheng, Shi
-- Xu, Lida
-- Li, Dezheng
-- Meng, Huan
-topic: ""
-categories: ['descriptive-review']
+  - Wang, Shan
+  - Zheng, Shi
+  - Xu, Lida
+  - Li, Dezheng
+  - Meng, Huan
+topic: "E-Commerce"
+categories:
+  - descriptive-review
 date: "2008"
 doi: "https://doi.org/10.1007/S10796-008-9115-2"
 url: ""
@@ -16,6 +17,13 @@ journal:
 cited_by: 47
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wang, S., Zheng, S., Xu, L., Li, D., & Meng, H. (2008). A literature review of electronic marketplace research: Themes, theories and an integrative framework. Information Systems Frontiers, 10(5), 555–571. https://doi.org/10.1007/S10796-008-9115-2.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wang, Shan
 AU  - Zheng, Shi
@@ -52,6 +60,7 @@ EP  - 571
 DO  - 10.1007/S10796-008-9115-2
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-008-9115-2>

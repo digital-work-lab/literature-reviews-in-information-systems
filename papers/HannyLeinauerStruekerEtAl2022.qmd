@@ -1,15 +1,16 @@
 ---
 title: "How to trade electricity flexibility using artificial intelligence -An integrated algorithmic framework"
 author:
-- Hanny, Lisa
-- Leinauer, Christina
-- Strueker, Jens
-- Weissflog, Jan
-- Körner, Marc-Fabian
-- Michaelis, Anne
-- Weibelzahl, Martin
+  - Hanny, Lisa
+  - Leinauer, Christina
+  - Strueker, Jens
+  - Weissflog, Jan
+  - Körner, Marc-Fabian
+  - Michaelis, Anne
+  - Weibelzahl, Martin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.438"
 url: "http://hdl.handle.net/10125/79773"
@@ -18,6 +19,13 @@ journal:
 cited_by: 4
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hanny, L., Leinauer, C., Strueker, J., Weissflog, J., Körner, M.-F., Michaelis, A., & Weibelzahl, M. (2022). How to trade electricity flexibility using artificial intelligence -An integrated algorithmic framework. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.438.
+:::
 
 ## Citation: BibTeX
 
@@ -37,7 +45,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hanny, Lisa
 AU  - Leinauer, Christina
@@ -53,6 +61,7 @@ DO  - 10.24251/HICSS.2022.438
 UR  - http://hdl.handle.net/10125/79773
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.438>

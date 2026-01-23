@@ -1,11 +1,12 @@
 ---
 title: "The State of Research on Information Systems Success"
 author:
-- Urbach, Nils
-- Smolnik, Stefan
-- Riempp, Gerold
-topic: ""
-categories: ['descriptive-review']
+  - Urbach, Nils
+  - Smolnik, Stefan
+  - Riempp, Gerold
+topic: "Other Domain"
+categories:
+  - descriptive-review
 date: "2009"
 doi: "https://doi.org/10.1007/S12599-009-0059-Y"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 98
 outlet: "Business & Information Systems Engineering"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Urbach, N., Smolnik, S., & Riempp, G. (2009). The State of Research on Information Systems Success. Business & Information Systems Engineering, 1(4), 315–325. https://doi.org/10.1007/S12599-009-0059-Y.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Business & Information Systems Engineering"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Urbach, Nils
 AU  - Smolnik, Stefan
@@ -48,6 +56,7 @@ EP  - 325
 DO  - 10.1007/S12599-009-0059-Y
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S12599-009-0059-Y>

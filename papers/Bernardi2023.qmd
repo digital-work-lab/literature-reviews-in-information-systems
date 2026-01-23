@@ -1,9 +1,10 @@
 ---
 title: "Turning digital in times of crisis: A values-based theory of telehealth adoption during the Covid-19 pandemic"
 author:
-- Bernardi, Roberta
+  - Bernardi, Roberta
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.1016/J.IM.2023.103835"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 3
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Bernardi, R. (2023). Turning digital in times of crisis: A values-based theory of telehealth adoption during the Covid-19 pandemic. Information & Management, 60(6), 103835. https://doi.org/10.1016/J.IM.2023.103835.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Bernardi, Roberta
 TI  - Turning digital in times of crisis: A values-based theory of telehealth adoption during the Covid-19 pandemic
@@ -43,6 +51,7 @@ SP  - 103835
 DO  - 10.1016/J.IM.2023.103835
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2023.103835>

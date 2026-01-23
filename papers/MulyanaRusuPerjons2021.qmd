@@ -1,11 +1,12 @@
 ---
 title: "IT Governance Mechanisms Influence on Digital Transformation - A Systematic Literature Review"
 author:
-- Mulyana, Rahmat
-- Rusu, Lazar
-- Perjons, Erik
+  - Mulyana, Rahmat
+  - Rusu, Lazar
+  - Perjons, Erik
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/19"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Mulyana, R., Rusu, L., & Perjons, E. (2021). IT Governance Mechanisms Influence on Digital Transformation - A Systematic Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/19.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Mulyana, Rahmat
 AU  - Rusu, Lazar
@@ -40,6 +48,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/19
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/19>

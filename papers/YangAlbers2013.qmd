@@ -1,10 +1,11 @@
 ---
 title: "Overcoming Information Overload In Online Reputation Management - A Systematic Literature Review"
 author:
-- Yang, Shuzhe
-- Albers, Andreas
+  - Yang, Shuzhe
+  - Albers, Andreas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2013"
 doi: ""
 url: "http://aisel.aisnet.org/ecis2013_cr/203"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Yang, S., & Albers, A. (2013). Overcoming Information Overload In Online Reputation Management - A Systematic Literature Review. In European Conference on Information Systems. http://aisel.aisnet.org/ecis2013_cr/203.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Yang, Shuzhe
 AU  - Albers, Andreas
@@ -38,6 +46,7 @@ PY  - 2013
 UR  - http://aisel.aisnet.org/ecis2013_cr/203
 ER  - 
 ```
+
 ## Links
 
 - URL: <http://aisel.aisnet.org/ecis2013_cr/203>

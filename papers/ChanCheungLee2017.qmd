@@ -1,11 +1,12 @@
 ---
 title: "The state of online impulse-buying research - A literature analysis"
 author:
-- Chan, Tommy K. H.
-- Cheung, Christy M. K.
-- Lee, Zach W. Y.
+  - Chan, Tommy K. H.
+  - Cheung, Christy M. K.
+  - Lee, Zach W. Y.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1016/J.IM.2016.06.001"
 url: "https://www.sciencedirect.com/science/article/pii/S037872061630057X"
@@ -14,6 +15,13 @@ journal:
 cited_by: 494
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chan, T. K. H., Cheung, C. M. K., & Lee, Z. W. Y. (2016). The state of online impulse-buying research - A literature analysis. Information & Management, 54(2), 204–217. https://doi.org/10.1016/J.IM.2016.06.001.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Chan, Tommy K. H.
 AU  - Cheung, Christy M. K.
@@ -51,6 +59,7 @@ DO  - 10.1016/J.IM.2016.06.001
 UR  - https://www.sciencedirect.com/science/article/pii/S037872061630057X
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2016.06.001>

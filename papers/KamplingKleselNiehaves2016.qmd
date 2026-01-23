@@ -1,11 +1,12 @@
 ---
 title: "On Experiments in Design Science Research and Theory Development - A Literature Review"
 author:
-- Kampling, Henrik
-- Klesel, Michael
-- Niehaves, Björn
+  - Kampling, Henrik
+  - Klesel, Michael
+  - Niehaves, Björn
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1109/HICSS.2016.554"
 url: "https://ieeexplore.ieee.org/document/7427740"
@@ -14,6 +15,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kampling, H., Klesel, M., & Niehaves, B. (2016). On Experiments in Design Science Research and Theory Development - A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2016.554.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kampling, Henrik
 AU  - Klesel, Michael
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2016.554
 UR  - https://ieeexplore.ieee.org/document/7427740
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2016.554>

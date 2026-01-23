@@ -1,9 +1,11 @@
 ---
 title: "A review of modeling approaches for sustainable supply chain management"
 author:
-- Seuring, Stefan
-topic: ""
-categories: ['descriptive-review', 'highly-cited']
+  - Seuring, Stefan
+topic: "Other Domain"
+categories:
+  - descriptive-review
+  - highly-cited
 date: "2013"
 doi: "https://doi.org/10.1016/J.DSS.2012.05.053"
 url: ""
@@ -12,6 +14,13 @@ journal:
 cited_by: 783
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Seuring, S. (2013). A review of modeling approaches for sustainable supply chain management. Decision Support Systems, 54(4), 1513–1520. https://doi.org/10.1016/J.DSS.2012.05.053.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +39,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Seuring, Stefan
 TI  - A review of modeling approaches for sustainable supply chain management
@@ -43,6 +52,7 @@ EP  - 1520
 DO  - 10.1016/J.DSS.2012.05.053
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2012.05.053>

@@ -1,12 +1,13 @@
 ---
 title: "A Review of Information Systems Research on Online Social Networks"
 author:
-- Berger, Katharina
-- Klier, Julia
-- Klier, Mathias
-- Probst, Florian
-topic: ""
-categories: ['descriptive-review']
+  - Berger, Katharina
+  - Klier, Julia
+  - Klier, Mathias
+  - Probst, Florian
+topic: "Other Domain"
+categories:
+  - descriptive-review
 date: "2014"
 doi: "https://doi.org/10.17705/1CAIS.03508"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 25
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Berger, K., Klier, J., Klier, M., & Probst, F. (2014). A Review of Information Systems Research on Online Social Networks. Communications of the Association for Information Systems, 35(1), 145–172. https://doi.org/10.17705/1CAIS.03508.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Berger, Katharina
 AU  - Klier, Julia
@@ -49,6 +57,7 @@ EP  - 172
 DO  - 10.17705/1CAIS.03508
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03508>

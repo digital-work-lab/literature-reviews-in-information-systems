@@ -1,12 +1,13 @@
 ---
 title: "Voice as a Contemporary Frontier of Interaction Design"
 author:
-- Schmitt, Anuschka
-- Zierau, Naim
-- Janson, Andreas
-- Leimeister, Jan Marco
+  - Schmitt, Anuschka
+  - Zierau, Naim
+  - Janson, Andreas
+  - Leimeister, Jan Marco
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2021_rp/143"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schmitt, A., Zierau, N., Janson, A., & Leimeister, J. M. (2021). Voice as a Contemporary Frontier of Interaction Design. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2021_rp/143.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schmitt, Anuschka
 AU  - Zierau, Naim
@@ -43,6 +51,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/ecis2021_rp/143
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2021_rp/143>

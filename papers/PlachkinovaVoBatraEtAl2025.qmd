@@ -1,12 +1,13 @@
 ---
 title: "Beyond Routine Activity Theory: Towards a Novel Phishing Victimization Theory"
 author:
-- Plachkinova, Miloslava
-- Vo, Ace
-- Batra, Gunjan
-- Zafar, Humayun
+  - Plachkinova, Miloslava
+  - Vo, Ace
+  - Batra, Gunjan
+  - Zafar, Humayun
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.17705/1CAIS.05716"
 url: "https://aisel.aisnet.org/cais/vol57/iss1/22"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Plachkinova, M., Vo, A., Batra, G., & Zafar, H. (2025). Beyond Routine Activity Theory: Towards a Novel Phishing Victimization Theory. Communications of the Association for Information Systems, 57(UNKNOWN), 418–444. https://doi.org/10.17705/1CAIS.05716.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Plachkinova, Miloslava
 AU  - Vo, Ace
@@ -52,6 +60,7 @@ DO  - 10.17705/1CAIS.05716
 UR  - https://aisel.aisnet.org/cais/vol57/iss1/22
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05716>

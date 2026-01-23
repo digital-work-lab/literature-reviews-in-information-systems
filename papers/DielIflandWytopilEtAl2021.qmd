@@ -1,12 +1,13 @@
 ---
 title: "How Digital Technologies Transform Football - A Structured Literature Review"
 author:
-- Diel, Sören
-- Ifland, Sebastian
-- Wytopil, Frederic
-- Buck, Christoph
+  - Diel, Sören
+  - Ifland, Sebastian
+  - Wytopil, Frederic
+  - Buck, Christoph
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2021/81"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Diel, S., Ifland, S., Wytopil, F., & Buck, C. (2021). How Digital Technologies Transform Football - A Structured Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2021/81.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Diel, Sören
 AU  - Ifland, Sebastian
@@ -42,6 +50,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/pacis2021/81
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2021/81>

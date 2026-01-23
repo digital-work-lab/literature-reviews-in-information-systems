@@ -1,10 +1,12 @@
 ---
 title: "Privacy in the Digital Age: a Review of Information Privacy Research in Information Systems"
 author:
-- Bélanger, France
-- Crossler, Robert E.
-topic: ""
-categories: ['critical-review', 'highly-cited']
+  - Bélanger, France
+  - Crossler, Robert E.
+topic: "Security"
+categories:
+  - critical-review
+  - highly-cited
 date: "2011"
 doi: "https://doi.org/10.2307/41409971"
 url: ""
@@ -13,6 +15,13 @@ journal:
 cited_by: 855
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Bélanger, F., & Crossler, R. E. (2011). Privacy in the Digital Age: a Review of Information Privacy Research in Information Systems. MIS Quarterly, 35(4), 1017–A36. https://doi.org/10.2307/41409971.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +42,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Bélanger, France
 AU  - Crossler, Robert E.
@@ -47,6 +56,7 @@ EP  - A36
 DO  - 10.2307/41409971
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/41409971>

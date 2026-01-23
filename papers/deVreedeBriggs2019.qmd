@@ -1,10 +1,11 @@
 ---
 title: "A Program of Collaboration Engineering Research and Practice - Contributions, Insights, and Future Directions"
 author:
-- de Vreede, Gert-Jan
-- Briggs, Robert O.
+  - de Vreede, Gert-Jan
+  - Briggs, Robert O.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.1080/07421222.2018.1550552"
 url: "http://www.jmis-web.org/articles/1419"
@@ -13,6 +14,13 @@ journal:
 cited_by: 51
 outlet: "Journal of Management Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+de Vreede, G.-J., & Briggs, R. O. (2019). A Program of Collaboration Engineering Research and Practice - Contributions, Insights, and Future Directions. Journal of Management Information Systems, 36(1), 74–119. https://doi.org/10.1080/07421222.2018.1550552.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Journal of Management Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - de Vreede, Gert-Jan
 AU  - Briggs, Robert O.
@@ -49,6 +57,7 @@ DO  - 10.1080/07421222.2018.1550552
 UR  - http://www.jmis-web.org/articles/1419
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/07421222.2018.1550552>

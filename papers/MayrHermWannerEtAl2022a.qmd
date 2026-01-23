@@ -1,12 +1,13 @@
 ---
 title: "Applications and Challenges of Task Mining: A Literature Review"
 author:
-- Mayr, Alexander
-- Herm, Lukas-Valentin
-- Wanner, Jonas
-- Janiesch, Christian
+  - Mayr, Alexander
+  - Herm, Lukas-Valentin
+  - Wanner, Jonas
+  - Janiesch, Christian
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rip/55"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Mayr, A., Herm, L.-V., Wanner, J., & Janiesch, C. (2022). Applications and Challenges of Task Mining: A Literature Review. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rip/55.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Mayr, Alexander
 AU  - Herm, Lukas-Valentin
@@ -44,6 +52,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rip/55
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rip/55>

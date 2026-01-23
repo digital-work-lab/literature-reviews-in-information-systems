@@ -1,9 +1,10 @@
 ---
 title: "The Affective Response Model: A Theoretical Framework of Affective Concepts and Their Relationships in the ICT Context1"
 author:
-- Zhang, Ping
-topic: ""
-categories: ['theoretical-review']
+  - Zhang, Ping
+topic: "Human Computer Interaction"
+categories:
+  - theoretical-review
 date: "2013"
 doi: "https://doi.org/10.25300/MISQ/2013/37.1.11"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 228
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Zhang, P. (2013). The Affective Response Model: A Theoretical Framework of Affective Concepts and Their Relationships in the ICT Context1. MIS Quarterly, 37(1), 247–274. https://doi.org/10.25300/MISQ/2013/37.1.11.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Zhang, Ping
 TI  - The Affective Response Model: A Theoretical Framework of Affective Concepts and Their Relationships in the ICT Context1
@@ -45,6 +53,7 @@ EP  - 274
 DO  - 10.25300/MISQ/2013/37.1.11
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.25300/MISQ/2013/37.1.11>

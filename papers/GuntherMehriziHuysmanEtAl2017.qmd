@@ -1,12 +1,13 @@
 ---
 title: "Debating big data - A literature review on realizing value from big data"
 author:
-- Günther, Wendy Arianne
-- Rezazade Mehrizi, Mohammad H.
-- Huysman, Marleen
-- Feldberg, Frans
+  - Günther, Wendy Arianne
+  - Rezazade Mehrizi, Mohammad H.
+  - Huysman, Marleen
+  - Feldberg, Frans
 topic: ""
-categories: ['highly-cited']
+categories:
+  - highly-cited
 date: "2017"
 doi: "https://doi.org/10.1016/J.JSIS.2017.07.003"
 url: "https://www.sciencedirect.com/science/article/pii/S0963868717302615"
@@ -15,6 +16,13 @@ journal:
 cited_by: 646
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Günther, W. A., Rezazade Mehrizi, M. H., Huysman, M., & Feldberg, F. (2017). Debating big data - A literature review on realizing value from big data. The Journal of Strategic Information Systems, 26(3), 191–209. https://doi.org/10.1016/J.JSIS.2017.07.003.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Günther, Wendy Arianne
 AU  - Rezazade Mehrizi, Mohammad H.
@@ -51,6 +59,7 @@ DO  - 10.1016/J.JSIS.2017.07.003
 UR  - https://www.sciencedirect.com/science/article/pii/S0963868717302615
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2017.07.003>

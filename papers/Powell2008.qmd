@@ -1,11 +1,12 @@
 ---
 title: "A critical review of the literature on spreadsheet errors"
 author:
-- Powell, Stephen G.
-- Baker, Kenneth R.
-- Lawson, Barry
-topic: ""
-categories: ['critical-review']
+  - Powell, Stephen G.
+  - Baker, Kenneth R.
+  - Lawson, Barry
+topic: "Other Domain"
+categories:
+  - critical-review
 date: "2008"
 doi: "https://doi.org/10.1016/J.DSS.2008.06.001"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 93
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Powell, S. G., Baker, K. R., & Lawson, B. (2008). A critical review of the literature on spreadsheet errors. Decision Support Systems, 46(1), 128–138. https://doi.org/10.1016/J.DSS.2008.06.001.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Powell, Stephen G.
 AU  - Baker, Kenneth R.
@@ -47,6 +55,7 @@ EP  - 138
 DO  - 10.1016/J.DSS.2008.06.001
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2008.06.001>

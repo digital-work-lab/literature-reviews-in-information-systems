@@ -1,10 +1,11 @@
 ---
 title: "The Challenges and Strategic Solutions of Emerging Technology Entrepreneurship: A Systematic Literature Review"
 author:
-- Myers, Alexander
-- Albats, Ekaterina
+  - Myers, Alexander
+  - Albats, Ekaterina
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.653"
 url: "https://hdl.handle.net/10125/107038"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Myers, A., & Albats, E. (2024). The Challenges and Strategic Solutions of Emerging Technology Entrepreneurship: A Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2024.653.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Myers, Alexander
 AU  - Albats, Ekaterina
@@ -42,6 +50,7 @@ DO  - 10.24251/HICSS.2024.653
 UR  - https://hdl.handle.net/10125/107038
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.653>

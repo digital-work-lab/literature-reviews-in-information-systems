@@ -1,13 +1,14 @@
 ---
 title: "Business process flexibility - a systematic literature review with a software systems perspective"
 author:
-- Cognini, Riccardo
-- Corradini, Flavio
-- Gnesi, Stefania
-- Polini, Andrea
-- Re, Barbara
+  - Cognini, Riccardo
+  - Corradini, Flavio
+  - Gnesi, Stefania
+  - Polini, Andrea
+  - Re, Barbara
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.1007/S10796-016-9678-2"
 url: "https://link.springer.com/article/10.1007/s10796-016-9678-2"
@@ -16,6 +17,13 @@ journal:
 cited_by: 42
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Cognini, R., Corradini, F., Gnesi, S., Polini, A., & Re, B. (2018). Business process flexibility - a systematic literature review with a software systems perspective. Information Systems Frontiers, 20(2), 343–371. https://doi.org/10.1007/S10796-016-9678-2.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Cognini, Riccardo
 AU  - Corradini, Flavio
@@ -53,6 +61,7 @@ DO  - 10.1007/S10796-016-9678-2
 UR  - https://link.springer.com/article/10.1007/s10796-016-9678-2
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-016-9678-2>

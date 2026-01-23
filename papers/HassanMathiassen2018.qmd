@@ -1,10 +1,11 @@
 ---
 title: "Distilling a body of knowledge for information systems development"
 author:
-- Hassan, Nik Rushdi
-- Mathiassen, Lars
+  - Hassan, Nik Rushdi
+  - Mathiassen, Lars
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.1111/ISJ.12126"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 26
 outlet: "Information Systems Journal"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hassan, N. R., & Mathiassen, L. (2018). Distilling a body of knowledge for information systems development. Information Systems Journal, 28(1), 175–226. https://doi.org/10.1111/ISJ.12126.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Information Systems Journal"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Hassan, Nik Rushdi
 AU  - Mathiassen, Lars
@@ -48,6 +56,7 @@ EP  - 226
 DO  - 10.1111/ISJ.12126
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1111/ISJ.12126>

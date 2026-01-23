@@ -1,11 +1,12 @@
 ---
 title: "Towards Augmented MDM: Overview of Design and Function Areas - A Literature Review"
 author:
-- Roth, Hendrik
-- Mönch, Simon Paul
-- Schäffer, Thomas
+  - Roth, Hendrik
+  - Mönch, Simon Paul
+  - Schäffer, Thomas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2022/sig_entsys/sig_entsys/4"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Roth, H., Mönch, S. P., & Schäffer, T. (2022). Towards Augmented MDM: Overview of Design and Function Areas - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2022/sig_entsys/sig_entsys/4.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Roth, Hendrik
 AU  - Mönch, Simon Paul
@@ -43,6 +51,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/amcis2022/sig_entsys/sig_entsys/4
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2022/sig_entsys/sig_entsys/4>

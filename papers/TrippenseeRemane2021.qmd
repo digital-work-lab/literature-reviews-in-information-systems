@@ -1,10 +1,11 @@
 ---
 title: "Practices for Large-Scale Agile Transformations - A Systematic Literature Review"
 author:
-- Trippensee, Lennard
-- Remané, Gerrit
+  - Trippensee, Lennard
+  - Remané, Gerrit
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2021/it_projmgmt/it_projmgmt/5"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Trippensee, L., & Remané, G. (2021). Practices for Large-Scale Agile Transformations - A Systematic Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2021/it_projmgmt/it_projmgmt/5.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Trippensee, Lennard
 AU  - Remané, Gerrit
@@ -38,6 +46,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/amcis2021/it_projmgmt/it_projmgmt/5
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2021/it_projmgmt/it_projmgmt/5>

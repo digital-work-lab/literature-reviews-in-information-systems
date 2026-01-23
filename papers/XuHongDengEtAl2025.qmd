@@ -1,12 +1,13 @@
 ---
 title: "Crowdfunding Success Factors: A Meta-Analytic Investigation"
 author:
-- Xu, DaPeng
-- Hong, Hong
-- Deng, Lingfei
-- Zhang, Xiaoquan (Michael)
+  - Xu, DaPeng
+  - Hong, Hong
+  - Deng, Lingfei
+  - Zhang, Xiaoquan (Michael)
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.1287/ISRE.2022.0640"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 2
 outlet: "Information Systems Research"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Xu, D., Hong, H., Deng, L., & Zhang, X. (. (2025). Crowdfunding Success Factors: A Meta-Analytic Investigation. Information Systems Research, UNKNOWN(UNKNOWN). https://doi.org/10.1287/ISRE.2022.0640.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Information Systems Research"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Xu, DaPeng
 AU  - Hong, Hong
@@ -47,6 +55,7 @@ IS  - UNKNOWN
 DO  - 10.1287/ISRE.2022.0640
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1287/ISRE.2022.0640>

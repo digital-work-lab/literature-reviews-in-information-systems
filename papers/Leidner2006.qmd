@@ -1,10 +1,12 @@
 ---
 title: "Review: A Review of Culture in Information Systems Research: Toward a Theory of Information Technology Culture Conflict"
 author:
-- Leidner
-- Kayworth
-topic: ""
-categories: ['theoretical-review', 'highly-cited']
+  - Leidner
+  - Kayworth
+topic: "Other Domain"
+categories:
+  - theoretical-review
+  - highly-cited
 date: "2006"
 doi: "https://doi.org/10.2307/25148735"
 url: ""
@@ -13,6 +15,13 @@ journal:
 cited_by: 933
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Leidner, & Kayworth (2006). Review: A Review of Culture in Information Systems Research: Toward a Theory of Information Technology Culture Conflict. MIS Quarterly, 30(2), 357. https://doi.org/10.2307/25148735.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +40,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Leidner
 AU  - Kayworth
@@ -44,6 +53,7 @@ SP  - 357
 DO  - 10.2307/25148735
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/25148735>

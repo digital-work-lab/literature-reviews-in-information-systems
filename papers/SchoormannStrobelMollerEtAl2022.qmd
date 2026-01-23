@@ -1,13 +1,14 @@
 ---
 title: "Artificial Intelligence for Sustainability - A Systematic Review of Information Systems Literature"
 author:
-- Schoormann, Thorsten
-- Strobel, Gero
-- Möller, Frederik
-- Petrik, Dimitri
-- Zschech, Patrick
+  - Schoormann, Thorsten
+  - Strobel, Gero
+  - Möller, Frederik
+  - Petrik, Dimitri
+  - Zschech, Patrick
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.17705/1CAIS.05209"
 url: "https://aisel.aisnet.org/cais/vol52/iss1/8"
@@ -16,6 +17,13 @@ journal:
 cited_by: 48
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schoormann, T., Strobel, G., Möller, F., Petrik, D., & Zschech, P. (2022). Artificial Intelligence for Sustainability - A Systematic Review of Information Systems Literature. Communications of the Association for Information Systems, 52, 199–237. https://doi.org/10.17705/1CAIS.05209.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Schoormann, Thorsten
 AU  - Strobel, Gero
@@ -52,6 +60,7 @@ DO  - 10.17705/1CAIS.05209
 UR  - https://aisel.aisnet.org/cais/vol52/iss1/8
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05209>

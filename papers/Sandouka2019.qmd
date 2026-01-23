@@ -1,9 +1,10 @@
 ---
 title: "Text Analysis of Crowdfuding - A Literature Review"
 author:
-- Sandouka, Kari
+  - Sandouka, Kari
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2019/social_computing/social_computing/6"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Sandouka, K. (2019). Text Analysis of Crowdfuding - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2019/social_computing/social_computing/6.
+:::
 
 ## Citation: BibTeX
 
@@ -27,7 +35,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Sandouka, Kari
 TI  - Text Analysis of Crowdfuding - A Literature Review
@@ -36,6 +44,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/amcis2019/social_computing/social_computing/6
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2019/social_computing/social_computing/6>

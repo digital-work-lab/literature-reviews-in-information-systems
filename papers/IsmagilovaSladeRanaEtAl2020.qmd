@@ -1,12 +1,13 @@
 ---
 title: "The Effect of Electronic Word of Mouth Communications on Intention to Buy: A Meta-Analysis"
 author:
-- Ismagilova, Elvira
-- Slade, Emma L.
-- Rana, Nripendra P.
-- Dwivedi, Yogesh K.
+  - Ismagilova, Elvira
+  - Slade, Emma L.
+  - Rana, Nripendra P.
+  - Dwivedi, Yogesh K.
 topic: ""
-categories: ['meta-analysis']
+categories:
+  - meta-analysis
 date: "2020"
 doi: "https://doi.org/10.1007/S10796-019-09924-Y"
 url: "https://link.springer.com/article/10.1007/s10796-019-09924-y"
@@ -15,6 +16,13 @@ journal:
 cited_by: 220
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ismagilova, E., Slade, E. L., Rana, N. P., & Dwivedi, Y. K. (2020). The Effect of Electronic Word of Mouth Communications on Intention to Buy: A Meta-Analysis. Information Systems Frontiers, 22(5), 1203–1226. https://doi.org/10.1007/S10796-019-09924-Y.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ismagilova, Elvira
 AU  - Slade, Emma L.
@@ -52,6 +60,7 @@ DO  - 10.1007/S10796-019-09924-Y
 UR  - https://link.springer.com/article/10.1007/s10796-019-09924-y
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-019-09924-Y>

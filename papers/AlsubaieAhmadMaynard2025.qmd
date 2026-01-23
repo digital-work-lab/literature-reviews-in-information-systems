@@ -1,11 +1,12 @@
 ---
 title: "How can organizations operationalize CTI practices to support incident response?"
 author:
-- Alsubaie, Mohammed
-- Ahmad, Atif
-- Maynard, Sean
+  - Alsubaie, Mohammed
+  - Ahmad, Atif
+  - Maynard, Sean
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Alsubaie, M., Ahmad, A., & Maynard, S. (2025). How can organizations operationalize CTI practices to support incident response?. In Pacific Asia Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Alsubaie, Mohammed
 AU  - Ahmad, Atif

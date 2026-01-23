@@ -1,9 +1,10 @@
 ---
 title: "Theory of Workarounds"
 author:
-- Alter, Steven
-topic: ""
-categories: ['theoretical-review']
+  - Alter, Steven
+topic: "Other Domain"
+categories:
+  - theoretical-review
 date: "2014"
 doi: "https://doi.org/10.17705/1CAIS.03455"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 118
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Alter, S. (2014). Theory of Workarounds. Communications of the Association for Information Systems, 34(1), 1041–1066. https://doi.org/10.17705/1CAIS.03455.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Alter, Steven
 TI  - Theory of Workarounds
@@ -43,6 +51,7 @@ EP  - 1066
 DO  - 10.17705/1CAIS.03455
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03455>

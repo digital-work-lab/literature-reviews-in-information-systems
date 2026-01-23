@@ -1,9 +1,10 @@
 ---
 title: "Explaining Digital Piracy - A Meta-Analysis"
 author:
-- Eisend, Martin
+  - Eisend, Martin
 topic: ""
-categories: ['meta-analysis']
+categories:
+  - meta-analysis
 date: "2019"
 doi: "https://doi.org/10.1287/ISRE.2018.0821"
 url: "https://www.doi.org/10.1287/ISRE.2018.0821"
@@ -12,6 +13,13 @@ journal:
 cited_by: 48
 outlet: "Information Systems Research"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Eisend, M. (2019). Explaining Digital Piracy - A Meta-Analysis. Information Systems Research, 30(2), 636–664. https://doi.org/10.1287/ISRE.2018.0821.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Information Systems Research"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Eisend, Martin
 TI  - Explaining Digital Piracy - A Meta-Analysis
@@ -48,6 +56,7 @@ DO  - 10.1287/ISRE.2018.0821
 UR  - https://www.doi.org/10.1287/ISRE.2018.0821
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1287/ISRE.2018.0821>

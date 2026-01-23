@@ -1,10 +1,11 @@
 ---
 title: "Investigating the Moderators of the Group Support Systems Use with Meta-Analysis"
 author:
-- Dennis, Alan R.
-- Wixom, Barbara H.
-topic: ""
-categories: ['meta-analysis']
+  - Dennis, Alan R.
+  - Wixom, Barbara H.
+topic: "Technology Acceptance, and Use"
+categories:
+  - meta-analysis
 date: "2002"
 doi: "https://doi.org/10.1080/07421222.2002.11045696"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 124
 outlet: "Journal of Management Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Dennis, A. R., & Wixom, B. H. (2002). Investigating the Moderators of the Group Support Systems Use with Meta-Analysis. Journal of Management Information Systems, 18(3), 235–257. https://doi.org/10.1080/07421222.2002.11045696.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of Management Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Dennis, Alan R.
 AU  - Wixom, Barbara H.
@@ -45,6 +53,7 @@ EP  - 257
 DO  - 10.1080/07421222.2002.11045696
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/07421222.2002.11045696>

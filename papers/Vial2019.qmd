@@ -1,9 +1,10 @@
 ---
 title: "Understanding digital transformation: A review and a research agenda"
 author:
-- Vial, Gregory
+  - Vial, Gregory
 topic: ""
-categories: ['highly-cited']
+categories:
+  - highly-cited
 date: "2019"
 doi: "https://doi.org/10.1016/J.JSIS.2019.01.003"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 4155
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Vial, G. (2019). Understanding digital transformation: A review and a research agenda. The Journal of Strategic Information Systems, 28(2). https://doi.org/10.1016/J.JSIS.2019.01.003.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Vial, Gregory
 TI  - Understanding digital transformation: A review and a research agenda
@@ -40,6 +48,7 @@ IS  - 2
 DO  - 10.1016/J.JSIS.2019.01.003
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2019.01.003>

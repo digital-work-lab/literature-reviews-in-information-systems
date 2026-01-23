@@ -1,11 +1,12 @@
 ---
 title: "Citizen Participation Level in Smart Governance: A Literature Review"
 author:
-- de Figueiredo, Bruno Andrade
-- Przeybilovicz, Erico
-- Cunha, Maria Alexandra
+  - de Figueiredo, Bruno Andrade
+  - Przeybilovicz, Erico
+  - Cunha, Maria Alexandra
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2023/sig_egov/sig_egov/11"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+de Figueiredo, B. A., Przeybilovicz, E., & Cunha, M. A. (2023). Citizen Participation Level in Smart Governance: A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2023/sig_egov/sig_egov/11.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - de Figueiredo, Bruno Andrade
 AU  - Przeybilovicz, Erico
@@ -41,6 +49,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/amcis2023/sig_egov/sig_egov/11
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2023/sig_egov/sig_egov/11>

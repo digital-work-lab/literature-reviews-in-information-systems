@@ -1,10 +1,11 @@
 ---
 title: "Digital Transformation Readiness: A Literature Review and a Proposed Framework"
 author:
-- Michelotto, Flavia
-- Joia, Luiz Antonio
+  - Michelotto, Flavia
+  - Joia, Luiz Antonio
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2023/sig_osra/sig_osra/1"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Michelotto, F., & Joia, L. A. (2023). Digital Transformation Readiness: A Literature Review and a Proposed Framework. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2023/sig_osra/sig_osra/1.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Michelotto, Flavia
 AU  - Joia, Luiz Antonio
@@ -41,6 +49,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/amcis2023/sig_osra/sig_osra/1
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2023/sig_osra/sig_osra/1>

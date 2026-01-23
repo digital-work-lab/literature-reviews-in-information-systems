@@ -1,10 +1,11 @@
 ---
 title: "Meta-requirements for the Design of a Blockchain-enabled Multi-sided Platform for Sustainability and Circular Economy"
 author:
-- Buyssens, Hanna
-- Viaene, Stijn
+  - Buyssens, Hanna
+  - Viaene, Stijn
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.519"
 url: "https://hdl.handle.net/10125/106903"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Buyssens, H., & Viaene, S. (2024). Meta-requirements for the Design of a Blockchain-enabled Multi-sided Platform for Sustainability and Circular Economy. In Hawaii International Conference on System Sciences (pp. 4311–4320). https://doi.org/10.24251/HICSS.2024.519.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Buyssens, Hanna
 AU  - Viaene, Stijn
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2024.519
 UR  - https://hdl.handle.net/10125/106903
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.519>

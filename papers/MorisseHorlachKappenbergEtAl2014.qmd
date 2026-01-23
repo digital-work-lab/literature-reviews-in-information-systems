@@ -1,14 +1,15 @@
 ---
 title: "Trust in Network Organizations -- A Literature Review on Emergent and Evolving Behavior in Network Organizations"
 author:
-- Morisse, Marcel
-- Horlach, Bettina
-- Kappenberg, Wiebke
-- Petrikina, Jurate
-- Robel, Florian
-- Steffens, Florian
+  - Morisse, Marcel
+  - Horlach, Bettina
+  - Kappenberg, Wiebke
+  - Petrikina, Jurate
+  - Robel, Florian
+  - Steffens, Florian
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.561"
 url: "https://ieeexplore.ieee.org/document/6759164"
@@ -17,6 +18,13 @@ journal:
 cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Morisse, M., Horlach, B., Kappenberg, W., Petrikina, J., Robel, F., & Steffens, F. (2014). Trust in Network Organizations -- A Literature Review on Emergent and Evolving Behavior in Network Organizations. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2014.561.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Morisse, Marcel
 AU  - Horlach, Bettina
@@ -48,6 +56,7 @@ DO  - 10.1109/HICSS.2014.561
 UR  - https://ieeexplore.ieee.org/document/6759164
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2014.561>

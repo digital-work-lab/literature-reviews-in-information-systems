@@ -1,9 +1,10 @@
 ---
 title: "Information Systems in Developing Countries: A Critical Research Review"
 author:
-- Avgerou, Chrisanthi
-topic: ""
-categories: ['critical-review']
+  - Avgerou, Chrisanthi
+topic: "Other Domain"
+categories:
+  - critical-review
 date: "2008"
 doi: "https://doi.org/10.1057/PALGRAVE.JIT.2000136"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 390
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Avgerou, C. (2008). Information Systems in Developing Countries: A Critical Research Review. Journal of Information Technology, 23(3), 133–146. https://doi.org/10.1057/PALGRAVE.JIT.2000136.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Avgerou, Chrisanthi
 TI  - Information Systems in Developing Countries: A Critical Research Review
@@ -44,6 +52,7 @@ EP  - 146
 DO  - 10.1057/PALGRAVE.JIT.2000136
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/PALGRAVE.JIT.2000136>

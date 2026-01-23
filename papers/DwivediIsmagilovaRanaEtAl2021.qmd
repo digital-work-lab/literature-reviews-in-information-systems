@@ -1,12 +1,13 @@
 ---
 title: "Social Media Adoption, Usage And Impact In Business-To-Business (B2B) Context: A State-Of-The-Art Literature Review"
 author:
-- Dwivedi, Yogesh K.
-- Ismagilova, Elvira
-- Rana, Nripendra P.
-- Raman, Ramakrishnan
+  - Dwivedi, Yogesh K.
+  - Ismagilova, Elvira
+  - Rana, Nripendra P.
+  - Raman, Ramakrishnan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.1007/S10796-021-10106-Y"
 url: "https://link.springer.com/article/10.1007/s10796-021-10106-y"
@@ -15,6 +16,13 @@ journal:
 cited_by: 133
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Dwivedi, Y. K., Ismagilova, E., Rana, N. P., & Raman, R. (2021). Social Media Adoption, Usage And Impact In Business-To-Business (B2B) Context: A State-Of-The-Art Literature Review. Information Systems Frontiers, 25(3). https://doi.org/10.1007/S10796-021-10106-Y.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Dwivedi, Yogesh K.
 AU  - Ismagilova, Elvira
@@ -49,6 +57,7 @@ DO  - 10.1007/S10796-021-10106-Y
 UR  - https://link.springer.com/article/10.1007/s10796-021-10106-y
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-021-10106-Y>

@@ -1,13 +1,14 @@
 ---
 title: "Socially Sustainable Digital Transformation in the Public Sector: a Systematic Literature Review"
 author:
-- Crivellari, Ilaria
-- Grøder, Charlotte Husom
-- Parmiggiani, Elena
-- Moltubakk, Stine Thordarson
-- Bertheussen, Lene Elisabeth
+  - Crivellari, Ilaria
+  - Grøder, Charlotte Husom
+  - Parmiggiani, Elena
+  - Moltubakk, Stine Thordarson
+  - Bertheussen, Lene Elisabeth
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.272"
 url: "https://hdl.handle.net/10125/106651"
@@ -16,6 +17,13 @@ journal:
 cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Crivellari, I., Grøder, C. H., Parmiggiani, E., Moltubakk, S. T., & Bertheussen, L. E. (2024). Socially Sustainable Digital Transformation in the Public Sector: a Systematic Literature Review. In Hawaii International Conference on System Sciences (pp. 2201–2210). https://doi.org/10.24251/HICSS.2024.272.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Crivellari, Ilaria
 AU  - Grøder, Charlotte Husom
@@ -51,6 +59,7 @@ DO  - 10.24251/HICSS.2024.272
 UR  - https://hdl.handle.net/10125/106651
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.272>

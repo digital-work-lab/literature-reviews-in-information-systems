@@ -1,10 +1,11 @@
 ---
 title: "The Role of User Participation in Information Systems Development: Implications from a Meta-Analysis"
 author:
-- He, Jun
-- King, William R.
-topic: ""
-categories: ['meta-analysis']
+  - He, Jun
+  - King, William R.
+topic: "Software Development"
+categories:
+  - meta-analysis
 date: "2008"
 doi: "https://doi.org/10.2753/MIS0742-1222250111"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 164
 outlet: "Journal of Management Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+He, J., & King, W. R. (2008). The Role of User Participation in Information Systems Development: Implications from a Meta-Analysis. Journal of Management Information Systems, 25(1), 301–331. https://doi.org/10.2753/MIS0742-1222250111.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of Management Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - He, Jun
 AU  - King, William R.
@@ -45,6 +53,7 @@ EP  - 331
 DO  - 10.2753/MIS0742-1222250111
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2753/MIS0742-1222250111>

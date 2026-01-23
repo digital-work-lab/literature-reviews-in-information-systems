@@ -1,14 +1,15 @@
 ---
 title: "Leading in the digital age: A systematic review on leader traits in the context of e-leadership"
 author:
-- Tuschner, Christian
-- Krath, Jeanine
-- Bings, Jan
-- Schwenkmezger, Marvin
-- Etzkorn, Manuel
-- von Korflesch, Harald F. O.
+  - Tuschner, Christian
+  - Krath, Jeanine
+  - Bings, Jan
+  - Schwenkmezger, Marvin
+  - Etzkorn, Manuel
+  - von Korflesch, Harald F. O.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rp/63"
@@ -17,6 +18,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Tuschner, C., Krath, J., Bings, J., Schwenkmezger, M., Etzkorn, M., & {von Korflesch}, H. F. O. (2022). Leading in the digital age: A systematic review on leader traits in the context of e-leadership. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rp/63.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Tuschner, Christian
 AU  - Krath, Jeanine
@@ -48,6 +56,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rp/63
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rp/63>

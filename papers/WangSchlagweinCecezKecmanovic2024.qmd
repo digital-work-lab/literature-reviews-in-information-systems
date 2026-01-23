@@ -1,11 +1,12 @@
 ---
 title: "Critical-Theoretic Review and Research Agenda on Digital Nomadism Literature Review"
 author:
-- Wang, Blair
-- Schlagwein, Daniel
-- Cecez-Kecmanovic, Dubravka
+  - Wang, Blair
+  - Schlagwein, Daniel
+  - Cecez-Kecmanovic, Dubravka
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wang, B., Schlagwein, D., & Cecez-Kecmanovic, D. (2024). Critical-Theoretic Review and Research Agenda on Digital Nomadism Literature Review. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wang, Blair
 AU  - Schlagwein, Daniel

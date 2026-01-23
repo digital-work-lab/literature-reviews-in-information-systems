@@ -1,11 +1,12 @@
 ---
 title: "The Relationship of Collaboration Technologies and Cognition and Affect"
 author:
-- Benke, Ivo
-- Heinzl, Armin
-- Maedche, Alexander
+  - Benke, Ivo
+  - Heinzl, Armin
+  - Maedche, Alexander
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.086"
 url: "https://hdl.handle.net/10125/70697"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Benke, I., Heinzl, A., & Maedche, A. (2021). The Relationship of Collaboration Technologies and Cognition and Affect. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.086.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Benke, Ivo
 AU  - Heinzl, Armin
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2021.086
 UR  - https://hdl.handle.net/10125/70697
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.086>

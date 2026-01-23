@@ -1,14 +1,15 @@
 ---
 title: "Applying Crisis Informatics in Environmental Events in North America - A Systematic Review"
 author:
-- Yakubu, Mustapha
-- Botsyoe, Lily
-- Kropczynski, Jess
-- Johnson, Joe
-- Pang, Feifei
-- Gyamfi, Emmanuel Kojo
+  - Yakubu, Mustapha
+  - Botsyoe, Lily
+  - Kropczynski, Jess
+  - Johnson, Joe
+  - Pang, Feifei
+  - Gyamfi, Emmanuel Kojo
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.254"
 url: "https://hdl.handle.net/10125/106633"
@@ -17,6 +18,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Yakubu, M., Botsyoe, L., Kropczynski, J., Johnson, J., Pang, F., & Gyamfi, E. K. (2024). Applying Crisis Informatics in Environmental Events in North America - A Systematic Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2024.254.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Yakubu, Mustapha
 AU  - Botsyoe, Lily
@@ -50,6 +58,7 @@ DO  - 10.24251/HICSS.2024.254
 UR  - https://hdl.handle.net/10125/106633
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.254>

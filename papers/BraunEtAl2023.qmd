@@ -1,11 +1,12 @@
 ---
 title: "The new dream team? A review of human-AI Collaboration research from a human teamwork perspective"
 author:
-- Braun, Michael
-- Greve, Michael
-- Gnewuch, Ulrich
+  - Braun, Michael
+  - Greve, Michael
+  - Gnewuch, Ulrich
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/icis2023"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Braun, M., Greve, M., & Gnewuch, U. (2023). The new dream team? A review of human-AI Collaboration research from a human teamwork perspective. In International Conference on Information Systems (pp. 7). https://aisel.aisnet.org/icis2023.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Braun, Michael
 AU  - Greve, Michael
@@ -42,6 +50,7 @@ SP  - 7
 UR  - https://aisel.aisnet.org/icis2023
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2023>

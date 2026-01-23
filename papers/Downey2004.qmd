@@ -1,9 +1,10 @@
 ---
 title: "Toward a Comprehensive Framework"
 author:
-- Downey, James P.
-topic: ""
-categories: ['descriptive-review']
+  - Downey, James P.
+topic: "Other Domain"
+categories:
+  - descriptive-review
 date: "2004"
 doi: "https://doi.org/10.4018/JOEUC.2004100101"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 8
 outlet: "Journal of Organizational and End User Computing"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Downey, J. P. (2004). Toward a Comprehensive Framework. Journal of Organizational and End User Computing, 16(4), 1–16. https://doi.org/10.4018/JOEUC.2004100101.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of Organizational and End User Computing"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Downey, James P.
 TI  - Toward a Comprehensive Framework
@@ -44,6 +52,7 @@ EP  - 16
 DO  - 10.4018/JOEUC.2004100101
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.4018/JOEUC.2004100101>

@@ -1,11 +1,12 @@
 ---
 title: "A strategic framework for website evaluation based on a review of the literature from 1995-2006"
 author:
-- Chiou, Wen-Chih
-- Lin, Chin-Chao
-- Perng, Chyuan
+  - Chiou, Wen-Chih
+  - Lin, Chin-Chao
+  - Perng, Chyuan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2010"
 doi: "https://doi.org/10.1016/J.IM.2010.06.002"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720610000510"
@@ -14,6 +15,13 @@ journal:
 cited_by: 162
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chiou, W.-C., Lin, C.-C., & Perng, C. (2010). A strategic framework for website evaluation based on a review of the literature from 1995-2006. Information & Management, 47(5-6), 282–290. https://doi.org/10.1016/J.IM.2010.06.002.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Chiou, Wen-Chih
 AU  - Lin, Chin-Chao
@@ -51,6 +59,7 @@ DO  - 10.1016/J.IM.2010.06.002
 UR  - https://www.sciencedirect.com/science/article/pii/S0378720610000510
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2010.06.002>

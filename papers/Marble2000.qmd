@@ -1,9 +1,10 @@
 ---
 title: "Operationalising the implementation puzzle: an argument for eclecticism in research and in practice"
 author:
-- Marble, R P
-topic: ""
-categories: ['narrative-review']
+  - Marble, R P
+topic: "Software Development"
+categories:
+  - narrative-review
 date: "2000"
 doi: "https://doi.org/10.1057/PALGRAVE/EJIS/3000369"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 3
 outlet: "European Journal of Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Marble, R. P. (2000). Operationalising the implementation puzzle: an argument for eclecticism in research and in practice. European Journal of Information Systems, 9(3), 132–147. https://doi.org/10.1057/PALGRAVE/EJIS/3000369.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Journal of Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Marble, R P
 TI  - Operationalising the implementation puzzle: an argument for eclecticism in research and in practice
@@ -43,6 +51,7 @@ EP  - 147
 DO  - 10.1057/PALGRAVE/EJIS/3000369
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/PALGRAVE/EJIS/3000369>

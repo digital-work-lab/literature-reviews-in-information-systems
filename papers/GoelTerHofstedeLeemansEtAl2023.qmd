@@ -1,20 +1,21 @@
 ---
 title: "Digital Health Data Imperfection Patterns and Their Manifestations in an Australian Digital Hospital"
 author:
-- Goel, Kanika
-- Sadeghianasl, Sareh
-- Andrews, Robert
-- Ter Hofstede, Arthur
-- Wynn, Moe
-- Kapugama Geeganage, Dakshi
-- Leemans, Sander
-- Mcgree, James
-- Eden, Rebekah
-- Staib, Andrew
-- Eley, Rob
-- Donovan, Raelene
+  - Goel, Kanika
+  - Sadeghianasl, Sareh
+  - Andrews, Robert
+  - Ter Hofstede, Arthur
+  - Wynn, Moe
+  - Kapugama Geeganage, Dakshi
+  - Leemans, Sander
+  - Mcgree, James
+  - Eden, Rebekah
+  - Staib, Andrew
+  - Eley, Rob
+  - Donovan, Raelene
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.398"
 url: "https://hdl.handle.net/10125/103029"
@@ -23,6 +24,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Goel, K., Sadeghianasl, S., Andrews, R., Ter Hofstede, A., Wynn, M., Kapugama Geeganage, D., Leemans, S., Mcgree, J., Eden, R., Staib, A., Eley, R., & Donovan, R. (2023). Digital Health Data Imperfection Patterns and Their Manifestations in an Australian Digital Hospital. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.398.
+:::
 
 ## Citation: BibTeX
 
@@ -42,7 +50,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Goel, Kanika
 AU  - Sadeghianasl, Sareh
@@ -63,6 +71,7 @@ DO  - 10.24251/HICSS.2023.398
 UR  - https://hdl.handle.net/10125/103029
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.398>

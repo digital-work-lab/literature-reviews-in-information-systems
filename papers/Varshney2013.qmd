@@ -1,9 +1,10 @@
 ---
 title: "Mobile health: Four emerging themes of research"
 author:
-- Varshney, Upkar
-topic: ""
-categories: ['scoping-review']
+  - Varshney, Upkar
+topic: "Other Domain"
+categories:
+  - scoping-review
 date: "2014"
 doi: "https://doi.org/10.1016/J.DSS.2014.06.001"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 180
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Varshney, U. (2014). Mobile health: Four emerging themes of research. Decision Support Systems, 66(no issue), 20–35. https://doi.org/10.1016/J.DSS.2014.06.001.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Varshney, Upkar
 TI  - Mobile health: Four emerging themes of research
@@ -43,6 +51,7 @@ EP  - 35
 DO  - 10.1016/J.DSS.2014.06.001
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2014.06.001>

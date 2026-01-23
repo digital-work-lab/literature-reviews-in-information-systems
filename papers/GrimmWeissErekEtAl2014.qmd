@@ -1,12 +1,13 @@
 ---
 title: "Product Carbon Footprint and Life Cycle Assessment of ICT -- Literature Review and State of the Art"
 author:
-- Grimm, Daniel
-- Weiss, Daniel
-- Erek, Koray
-- Zarnekow, Rüdiger
+  - Grimm, Daniel
+  - Weiss, Daniel
+  - Erek, Koray
+  - Zarnekow, Rüdiger
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.116"
 url: "https://ieeexplore.ieee.org/document/6758712/"
@@ -15,6 +16,13 @@ journal:
 cited_by: 5
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Grimm, D., Weiss, D., Erek, K., & Zarnekow, R. (2014). Product Carbon Footprint and Life Cycle Assessment of ICT -- Literature Review and State of the Art. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2014.116.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Grimm, Daniel
 AU  - Weiss, Daniel
@@ -44,6 +52,7 @@ DO  - 10.1109/HICSS.2014.116
 UR  - https://ieeexplore.ieee.org/document/6758712/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2014.116>

@@ -1,12 +1,13 @@
 ---
 title: "Semantic Shopping - A Literature Study"
 author:
-- Cordes, Ann-Kristin
-- Barann, Benjamin
-- Rosemann, Michael
-- Becker, Jörg
+  - Cordes, Ann-Kristin
+  - Barann, Benjamin
+  - Rosemann, Michael
+  - Becker, Jörg
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.146"
 url: "http://hdl.handle.net/10125/63885"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Cordes, A.-K., Barann, B., Rosemann, M., & Becker, J. (2020). Semantic Shopping - A Literature Study. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.146.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Cordes, Ann-Kristin
 AU  - Barann, Benjamin
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2020.146
 UR  - http://hdl.handle.net/10125/63885
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.146>

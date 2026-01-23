@@ -1,9 +1,10 @@
 ---
 title: "Globalization, culture, and information: Towards global knowledge transparency"
 author:
-- Leidner, Dorothy E.
-topic: ""
-categories: ['theoretical-review']
+  - Leidner, Dorothy E.
+topic: "Other Domain"
+categories:
+  - theoretical-review
 date: "2010"
 doi: "https://doi.org/10.1016/J.JSIS.2010.02.006"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 80
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Leidner, D. E. (2010). Globalization, culture, and information: Towards global knowledge transparency. The Journal of Strategic Information Systems, 19(2), 69–77. https://doi.org/10.1016/J.JSIS.2010.02.006.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Leidner, Dorothy E.
 TI  - Globalization, culture, and information: Towards global knowledge transparency
@@ -43,6 +51,7 @@ EP  - 77
 DO  - 10.1016/J.JSIS.2010.02.006
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2010.02.006>

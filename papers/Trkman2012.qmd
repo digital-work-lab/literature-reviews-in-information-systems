@@ -1,10 +1,11 @@
 ---
 title: "Knowledge risks in organizational networks: An exploratory framework"
 author:
-- Trkman, Peter
-- Desouza, Kevin C.
-topic: ""
-categories: ['theoretical-review']
+  - Trkman, Peter
+  - Desouza, Kevin C.
+topic: "Knowledge Management"
+categories:
+  - theoretical-review
 date: "2012"
 doi: "https://doi.org/10.1016/J.JSIS.2011.11.001"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 114
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Trkman, P., & Desouza, K. C. (2012). Knowledge risks in organizational networks: An exploratory framework. The Journal of Strategic Information Systems, 21(1), 1–17. https://doi.org/10.1016/J.JSIS.2011.11.001.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Trkman, Peter
 AU  - Desouza, Kevin C.
@@ -45,6 +53,7 @@ EP  - 17
 DO  - 10.1016/J.JSIS.2011.11.001
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2011.11.001>

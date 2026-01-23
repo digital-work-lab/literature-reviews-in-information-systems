@@ -1,12 +1,13 @@
 ---
 title: "Security, Privacy and Risks Within Smart Cities: Literature Review and Development of a Smart City Interaction Framework"
 author:
-- Ismagilova, Elvira
-- Hughes, Laurie
-- Rana, Nripendra P.
-- Dwivedi, Yogesh K.
+  - Ismagilova, Elvira
+  - Hughes, Laurie
+  - Rana, Nripendra P.
+  - Dwivedi, Yogesh K.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.1007/S10796-020-10044-1"
 url: "https://link.springer.com/article/10.1007/s10796-020-10044-1"
@@ -15,6 +16,13 @@ journal:
 cited_by: 275
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ismagilova, E., Hughes, L., Rana, N. P., & Dwivedi, Y. K. (2022). Security, Privacy and Risks Within Smart Cities: Literature Review and Development of a Smart City Interaction Framework. Information Systems Frontiers, 24(2), 393–414. https://doi.org/10.1007/S10796-020-10044-1.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ismagilova, Elvira
 AU  - Hughes, Laurie
@@ -52,6 +60,7 @@ DO  - 10.1007/S10796-020-10044-1
 UR  - https://link.springer.com/article/10.1007/s10796-020-10044-1
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-020-10044-1>

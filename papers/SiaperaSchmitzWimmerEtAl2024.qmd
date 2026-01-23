@@ -1,12 +1,13 @@
 ---
 title: "Closing the gap: Leveraging data for seamless integration between pre-award and post-award in public procurement"
 author:
-- Siapera, Maria
-- Schmitz, Andreas
-- Wimmer, Maria A.
-- Prentza, Andriana
+  - Siapera, Maria
+  - Schmitz, Andreas
+  - Wimmer, Maria A.
+  - Prentza, Andriana
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.270"
 url: "https://hdl.handle.net/10125/106649"
@@ -15,6 +16,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Siapera, M., Schmitz, A., Wimmer, M. A., & Prentza, A. (2024). Closing the gap: Leveraging data for seamless integration between pre-award and post-award in public procurement. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2024.270.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Siapera, Maria
 AU  - Schmitz, Andreas
@@ -46,6 +54,7 @@ DO  - 10.24251/HICSS.2024.270
 UR  - https://hdl.handle.net/10125/106649
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.270>

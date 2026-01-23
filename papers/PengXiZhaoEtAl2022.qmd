@@ -1,12 +1,13 @@
 ---
 title: "Acceptance of Wearable Technology: A Meta-Analysis"
 author:
-- Peng, Chenming
-- Xi, Nannan
-- Zhao, Hong
-- Hamari, Juho
+  - Peng, Chenming
+  - Xi, Nannan
+  - Zhao, Hong
+  - Hamari, Juho
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.621"
 url: "http://hdl.handle.net/10125/79958"
@@ -15,6 +16,13 @@ journal:
 cited_by: 9
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Peng, C., Xi, N., Zhao, H., & Hamari, J. (2022). Acceptance of Wearable Technology: A Meta-Analysis. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.621.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Peng, Chenming
 AU  - Xi, Nannan
@@ -47,6 +55,7 @@ DO  - 10.24251/HICSS.2022.621
 UR  - http://hdl.handle.net/10125/79958
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.621>

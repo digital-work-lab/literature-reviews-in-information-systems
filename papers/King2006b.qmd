@@ -1,10 +1,12 @@
 ---
 title: "A meta-analysis of the technology acceptance model"
 author:
-- King, William R.
-- He, Jun
-topic: ""
-categories: ['meta-analysis', 'highly-cited']
+  - King, William R.
+  - He, Jun
+topic: "Technology Acceptance, and Use"
+categories:
+  - meta-analysis
+  - highly-cited
 date: "2006"
 doi: "https://doi.org/10.1016/J.IM.2006.05.003"
 url: ""
@@ -13,6 +15,13 @@ journal:
 cited_by: 1850
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+King, W. R., & He, J. (2006). A meta-analysis of the technology acceptance model. Information & Management, 43(6), 740–755. https://doi.org/10.1016/J.IM.2006.05.003.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +40,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - King, William R.
 AU  - He, Jun
@@ -45,6 +54,7 @@ EP  - 755
 DO  - 10.1016/J.IM.2006.05.003
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2006.05.003>

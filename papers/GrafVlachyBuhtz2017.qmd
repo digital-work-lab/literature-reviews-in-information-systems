@@ -1,10 +1,11 @@
 ---
 title: "Social Influence in Technology Adoption Research - a literature Review and Research Agenda"
 author:
-- Graf-Vlachy, Lorenz
-- Buhtz, Katharina
+  - Graf-Vlachy, Lorenz
+  - Buhtz, Katharina
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2017_rp/148"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Graf-Vlachy, L., & Buhtz, K. (2017). Social Influence in Technology Adoption Research - a literature Review and Research Agenda. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2017_rp/148.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Graf-Vlachy, Lorenz
 AU  - Buhtz, Katharina
@@ -38,6 +46,7 @@ PY  - 2017
 UR  - https://aisel.aisnet.org/ecis2017_rp/148
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2017_rp/148>

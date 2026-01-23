@@ -1,10 +1,11 @@
 ---
 title: "Digitalization and Early Internationalization- Systematic Literature Review Analyses"
 author:
-- Appiah, Emmanuel
-- Gabrielsson, Peter
+  - Appiah, Emmanuel
+  - Gabrielsson, Peter
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.573"
 url: "https://hdl.handle.net/10125/103206"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Appiah, E., & Gabrielsson, P. (2023). Digitalization and Early Internationalization- Systematic Literature Review Analyses. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.573.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Appiah, Emmanuel
 AU  - Gabrielsson, Peter
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2023.573
 UR  - https://hdl.handle.net/10125/103206
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.573>

@@ -1,11 +1,12 @@
 ---
 title: "Classification of Smart City Research - a Descriptive Literature Review and Future Research Agenda"
 author:
-- Gupta, Parul
-- Chauhan, Sumedha
-- Jaiswal, M. P.
+  - Gupta, Parul
+  - Chauhan, Sumedha
+  - Jaiswal, M. P.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.1007/S10796-019-09911-3"
 url: "https://link.springer.com/article/10.1007/s10796-019-09911-3"
@@ -14,6 +15,13 @@ journal:
 cited_by: 81
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gupta, P., Chauhan, S., & Jaiswal, M. P. (2019). Classification of Smart City Research - a Descriptive Literature Review and Future Research Agenda. Information Systems Frontiers, 21(3), 661–685. https://doi.org/10.1007/S10796-019-09911-3.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Gupta, Parul
 AU  - Chauhan, Sumedha
@@ -49,6 +57,7 @@ DO  - 10.1007/S10796-019-09911-3
 UR  - https://link.springer.com/article/10.1007/s10796-019-09911-3
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-019-09911-3>

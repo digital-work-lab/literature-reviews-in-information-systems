@@ -1,9 +1,10 @@
 ---
 title: "On the use of construct reliability in MIS research - a meta-analysis"
 author:
-- Chau, Patrick Y. K.
+  - Chau, Patrick Y. K.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "1999"
 doi: "https://doi.org/10.1016/S0378-7206(98)00089-5"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720698000895"
@@ -12,6 +13,13 @@ journal:
 cited_by: 44
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chau, P. Y. K. (1999). On the use of construct reliability in MIS research - a meta-analysis. Information & Management, 35(4), 217–227. https://doi.org/10.1016/S0378-7206(98)00089-5.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Chau, Patrick Y. K.
 TI  - On the use of construct reliability in MIS research - a meta-analysis
@@ -47,6 +55,7 @@ DO  - 10.1016/S0378-7206(98)00089-5
 UR  - https://www.sciencedirect.com/science/article/pii/S0378720698000895
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/S0378-7206(98)00089-5>

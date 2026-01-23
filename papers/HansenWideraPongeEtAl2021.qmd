@@ -1,12 +1,13 @@
 ---
 title: "Machine Learning for Readability Assessment and Text Simplification in Crisis Communication: A Systematic Review"
 author:
-- Hansen, Hieronymus
-- Widera, Adam
-- Ponge, Johannes
-- Hellingrath, Bernd
+  - Hansen, Hieronymus
+  - Widera, Adam
+  - Ponge, Johannes
+  - Hellingrath, Bernd
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.277"
 url: "https://hdl.handle.net/10125/70890"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hansen, H., Widera, A., Ponge, J., & Hellingrath, B. (2021). Machine Learning for Readability Assessment and Text Simplification in Crisis Communication: A Systematic Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.277.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hansen, Hieronymus
 AU  - Widera, Adam
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2021.277
 UR  - https://hdl.handle.net/10125/70890
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.277>

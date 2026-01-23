@@ -1,11 +1,12 @@
 ---
 title: "An Analysis of Measurement and Metrics Tools: A Systematic Literature Review"
 author:
-- Dias Canedo, Edna
-- Valença, Karine
-- Santos, Giovanni Almeida
+  - Dias Canedo, Edna
+  - Valença, Karine
+  - Santos, Giovanni Almeida
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.24251/HICSS.2019.836"
 url: "http://hdl.handle.net/10125/60133"
@@ -14,6 +15,13 @@ journal:
 cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Dias Canedo, E., Valença, K., & Santos, G. A. (2019). An Analysis of Measurement and Metrics Tools: A Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2019.836.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Dias Canedo, Edna
 AU  - Valença, Karine
@@ -42,6 +50,7 @@ DO  - 10.24251/HICSS.2019.836
 UR  - http://hdl.handle.net/10125/60133
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2019.836>

@@ -1,13 +1,14 @@
 ---
 title: "Knowledge Combination Analysis Reveals That Artificial Intelligence Research Is More Like \"Normal Science\" Than \"Revolutionary Science\""
 author:
-- Wang, Jieshu
-- Michael, Katina
-- Maynard, Andrew
-- Motsch, Sébastien
-- Lobo, José
+  - Wang, Jieshu
+  - Michael, Katina
+  - Maynard, Andrew
+  - Motsch, Sébastien
+  - Lobo, José
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.673"
 url: "https://hdl.handle.net/10125/107058"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wang, J., Michael, K., Maynard, A., Motsch, S., & Lobo, J. (2024). Knowledge Combination Analysis Reveals That Artificial Intelligence Research Is More Like "Normal Science" Than "Revolutionary Science". In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2024.673.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wang, Jieshu
 AU  - Michael, Katina
@@ -48,6 +56,7 @@ DO  - 10.24251/HICSS.2024.673
 UR  - https://hdl.handle.net/10125/107058
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.673>

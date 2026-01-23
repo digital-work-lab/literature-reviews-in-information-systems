@@ -1,13 +1,14 @@
 ---
 title: "Using Mobile Phone Data for Emergency Management: a Systematic Literature Review"
 author:
-- Wang, Yanxin
-- Li, Jian
-- Zhao, Xi
-- Feng, Gengzhong
-- Luo, Xin
+  - Wang, Yanxin
+  - Li, Jian
+  - Zhao, Xi
+  - Feng, Gengzhong
+  - Luo, Xin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.1007/S10796-020-10057-W"
 url: "https://link.springer.com/article/10.1007/s10796-020-10057-w"
@@ -16,6 +17,13 @@ journal:
 cited_by: 36
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wang, Y., Li, J., Zhao, X., Feng, G., & Luo, X. (2020). Using Mobile Phone Data for Emergency Management: a Systematic Literature Review. Information Systems Frontiers, 22(6), 1539–1559. https://doi.org/10.1007/S10796-020-10057-W.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wang, Yanxin
 AU  - Li, Jian
@@ -53,6 +61,7 @@ DO  - 10.1007/S10796-020-10057-W
 UR  - https://link.springer.com/article/10.1007/s10796-020-10057-w
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-020-10057-W>

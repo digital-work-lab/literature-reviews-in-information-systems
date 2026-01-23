@@ -1,11 +1,12 @@
 ---
 title: "From exploitative structures towards data subject-inclusive personal data markets -a systematic literature review"
 author:
-- Schmidt, Kaja
-- Ullrich, André
-- Eigelshoven, Felix
+  - Schmidt, Kaja
+  - Ullrich, André
+  - Eigelshoven, Felix
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2021_rp/60"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schmidt, K., Ullrich, A., & Eigelshoven, F. (2021). From exploitative structures towards data subject-inclusive personal data markets -a systematic literature review. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2021_rp/60.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schmidt, Kaja
 AU  - Ullrich, André
@@ -41,6 +49,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/ecis2021_rp/60
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2021_rp/60>

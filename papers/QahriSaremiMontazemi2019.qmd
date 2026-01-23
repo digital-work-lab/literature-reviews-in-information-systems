@@ -1,10 +1,11 @@
 ---
 title: "Factors Affecting the Adoption of an Electronic Word of Mouth Message: A Meta-Analysis"
 author:
-- Qahri-Saremi, Hamed
-- Montazemi, Ali Reza
+  - Qahri-Saremi, Hamed
+  - Montazemi, Ali Reza
 topic: ""
-categories: ['meta-analysis']
+categories:
+  - meta-analysis
 date: "2019"
 doi: "https://doi.org/10.1080/07421222.2019.1628936"
 url: "https://www.tandfonline.com/doi/full/10.1080/07421222.2019.1628936"
@@ -13,6 +14,13 @@ journal:
 cited_by: 101
 outlet: "Journal of Management Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Qahri-Saremi, H., & Montazemi, A. R. (2019). Factors Affecting the Adoption of an Electronic Word of Mouth Message: A Meta-Analysis. Journal of Management Information Systems, 36(3), 969–1001. https://doi.org/10.1080/07421222.2019.1628936.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Journal of Management Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Qahri-Saremi, Hamed
 AU  - Montazemi, Ali Reza
@@ -49,6 +57,7 @@ DO  - 10.1080/07421222.2019.1628936
 UR  - https://www.tandfonline.com/doi/full/10.1080/07421222.2019.1628936
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/07421222.2019.1628936>

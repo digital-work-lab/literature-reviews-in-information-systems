@@ -1,10 +1,11 @@
 ---
 title: "Seller Opportunism: Literature Review, Synthesis, and Future Research Directions"
 author:
-- Sharma, Sumeet
-- Gupta, Sumeet
+  - Sharma, Sumeet
+  - Gupta, Sumeet
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2022/118"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Sharma, S., & Gupta, S. (2022). Seller Opportunism: Literature Review, Synthesis, and Future Research Directions. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2022/118.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Sharma, Sumeet
 AU  - Gupta, Sumeet
@@ -39,6 +47,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/pacis2022/118
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2022/118>

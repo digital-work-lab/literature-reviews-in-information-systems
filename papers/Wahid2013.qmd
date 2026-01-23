@@ -1,9 +1,10 @@
 ---
 title: "Themes of Research on eGovernment in Developing Countries - Current Map and Future Roadmap"
 author:
-- Wahid, Fathul
+  - Wahid, Fathul
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2013"
 doi: "https://doi.org/10.1109/HICSS.2013.547"
 url: "https://ieeexplore.ieee.org/document/6480051/"
@@ -12,6 +13,13 @@ journal:
 cited_by: 6
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wahid, F. (2013). Themes of Research on eGovernment in Developing Countries - Current Map and Future Roadmap. In Hawaii International Conference on System Sciences (pp. 1743–1752). https://doi.org/10.1109/HICSS.2013.547.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wahid, Fathul
 TI  - Themes of Research on eGovernment in Developing Countries - Current Map and Future Roadmap
@@ -43,6 +51,7 @@ DO  - 10.1109/HICSS.2013.547
 UR  - https://ieeexplore.ieee.org/document/6480051/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2013.547>

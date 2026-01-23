@@ -1,10 +1,11 @@
 ---
 title: "A systematic literature review on information systems for disaster management and proposals for its future research agenda"
 author:
-- Fischer-Preßler, Diana
-- Bonaretti, Dario
+  - Fischer-Preßler, Diana
+  - Bonaretti, Dario
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rp/112"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Fischer-Preßler, D., & Bonaretti, D. (2022). A systematic literature review on information systems for disaster management and proposals for its future research agenda. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rp/112.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Fischer-Preßler, Diana
 AU  - Bonaretti, Dario
@@ -40,6 +48,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rp/112
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rp/112>

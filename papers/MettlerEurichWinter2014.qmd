@@ -1,11 +1,12 @@
 ---
 title: "On the Use of Experiments in Design Science Research: A Proposition of an Evaluation Framework"
 author:
-- Mettler, Tobias
-- Eurich, Markus
-- Winter, Robert
+  - Mettler, Tobias
+  - Eurich, Markus
+  - Winter, Robert
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.17705/1CAIS.03410"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 18
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Mettler, T., Eurich, M., & Winter, R. (2014). On the Use of Experiments in Design Science Research: A Proposition of an Evaluation Framework. Communications of the Association for Information Systems, 34. https://doi.org/10.17705/1CAIS.03410.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Mettler, Tobias
 AU  - Eurich, Markus
@@ -45,6 +53,7 @@ VL  - 34
 DO  - 10.17705/1CAIS.03410
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03410>

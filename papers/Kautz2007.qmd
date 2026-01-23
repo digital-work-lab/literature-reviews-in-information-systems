@@ -1,11 +1,12 @@
 ---
 title: "Persistent problems and practices in information systems development"
 author:
-- Kautz, Karlheinz
-- Madsen, Sabine
-- Nørbjerg, Jacob
-topic: ""
-categories: ['narrative-review']
+  - Kautz, Karlheinz
+  - Madsen, Sabine
+  - Nørbjerg, Jacob
+topic: "Software Development"
+categories:
+  - narrative-review
 date: "2007"
 doi: "https://doi.org/10.1111/J.1365-2575.2007.00222.X"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 60
 outlet: "Information Systems Journal"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kautz, K., Madsen, S., & Nørbjerg, J. (2007). Persistent problems and practices in information systems development. Information Systems Journal, 17(3), 217–239. https://doi.org/10.1111/J.1365-2575.2007.00222.X.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Information Systems Journal"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Kautz, Karlheinz
 AU  - Madsen, Sabine
@@ -48,6 +56,7 @@ EP  - 239
 DO  - 10.1111/J.1365-2575.2007.00222.X
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1111/J.1365-2575.2007.00222.X>

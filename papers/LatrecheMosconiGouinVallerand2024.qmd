@@ -1,11 +1,12 @@
 ---
 title: "Adoption of Industrial Augmented Reality: A Meta-Analysis"
 author:
-- Latreche, Rami Mohamed
-- Mosconi, Elaine
-- Gouin-Vallerand, Charles
+  - Latreche, Rami Mohamed
+  - Mosconi, Elaine
+  - Gouin-Vallerand, Charles
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2024/sig_hci/sig_hci/12"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Latreche, R. M., Mosconi, E., & Gouin-Vallerand, C. (2024). Adoption of Industrial Augmented Reality: A Meta-Analysis. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2024/sig_hci/sig_hci/12.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Latreche, Rami Mohamed
 AU  - Mosconi, Elaine
@@ -42,6 +50,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/amcis2024/sig_hci/sig_hci/12
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2024/sig_hci/sig_hci/12>

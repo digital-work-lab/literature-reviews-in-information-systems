@@ -1,11 +1,12 @@
 ---
 title: "Harnessing the potential of artificial intelligence: affordances, constraints, and strategic implications for professional services"
 author:
-- Yang, Jiaqi
-- Amrollahi, Alireza
-- Marrone, Mauricio
+  - Yang, Jiaqi
+  - Amrollahi, Alireza
+  - Marrone, Mauricio
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.1016/J.JSIS.2024.101864"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 20
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Yang, J., Amrollahi, A., & Marrone, M. (2024). Harnessing the potential of artificial intelligence: affordances, constraints, and strategic implications for professional services. The Journal of Strategic Information Systems, 33(4), 101864. https://doi.org/10.1016/J.JSIS.2024.101864.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Yang, Jiaqi
 AU  - Amrollahi, Alireza
@@ -46,6 +54,7 @@ SP  - 101864
 DO  - 10.1016/J.JSIS.2024.101864
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2024.101864>

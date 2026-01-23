@@ -1,12 +1,13 @@
 ---
 title: "A review of the nature and effects of guidance design features"
 author:
-- Morana, Stefan
-- Schacht, Silvia
-- Scherp, Ansgar
-- Maedche, Alexander
+  - Morana, Stefan
+  - Schacht, Silvia
+  - Scherp, Ansgar
+  - Maedche, Alexander
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: "https://doi.org/10.1016/J.DSS.2017.03.003"
 url: "https://www.sciencedirect.com/science/article/pii/S016792361730043X"
@@ -15,6 +16,13 @@ journal:
 cited_by: 40
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Morana, S., Schacht, S., Scherp, A., & Maedche, A. (2017). A review of the nature and effects of guidance design features. Decision Support Systems, 97, 31–42. https://doi.org/10.1016/J.DSS.2017.03.003.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Morana, Stefan
 AU  - Schacht, Silvia
@@ -51,6 +59,7 @@ DO  - 10.1016/J.DSS.2017.03.003
 UR  - https://www.sciencedirect.com/science/article/pii/S016792361730043X
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2017.03.003>

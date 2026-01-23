@@ -1,12 +1,13 @@
 ---
 title: "Toward an Integrative Understanding of Information Technology Training Research across Information Systems and Human-Computer Interaction: A Comprehensive Review"
 author:
-- Santhanam, Radhika
-- Yi, Mun
-- Sasidharan, Sharath
-- Park, Sung-Hee
-topic: ""
-categories: ['scoping-review']
+  - Santhanam, Radhika
+  - Yi, Mun
+  - Sasidharan, Sharath
+  - Park, Sung-Hee
+topic: "Human Computer Interaction"
+categories:
+  - scoping-review
 date: "2013"
 doi: "https://doi.org/10.17705/1THCI.00056"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 10
 outlet: "AIS Transactions on Human-Computer Interaction"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Santhanam, R., Yi, M., Sasidharan, S., & Park, S.-H. (2013). Toward an Integrative Understanding of Information Technology Training Research across Information Systems and Human-Computer Interaction: A Comprehensive Review. AIS Transactions on Human-Computer Interaction, 5(3), 134–156. https://doi.org/10.17705/1THCI.00056.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "AIS Transactions on Human-Computer Interaction"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Santhanam, Radhika
 AU  - Yi, Mun
@@ -49,6 +57,7 @@ EP  - 156
 DO  - 10.17705/1THCI.00056
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1THCI.00056>

@@ -1,10 +1,11 @@
 ---
 title: "Business Continuity in Network Organizations - A Literature Review"
 author:
-- Morisse, Marcel
-- Prigge, Corvin
+  - Morisse, Marcel
+  - Prigge, Corvin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2014/GlobalIssues/GeneralPresentations/2"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Morisse, M., & Prigge, C. (2014). Business Continuity in Network Organizations - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2014/GlobalIssues/GeneralPresentations/2.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Morisse, Marcel
 AU  - Prigge, Corvin
@@ -38,6 +46,7 @@ PY  - 2014
 UR  - https://aisel.aisnet.org/amcis2014/GlobalIssues/GeneralPresentations/2
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2014/GlobalIssues/GeneralPresentations/2>

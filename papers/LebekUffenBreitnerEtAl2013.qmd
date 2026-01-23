@@ -1,13 +1,14 @@
 ---
 title: "Employees' Information Security Awareness and Behavior - A Literature Review"
 author:
-- Lebek, Benedikt
-- Uffen, Jörg
-- Breitner, Michael H.
-- Neumann, Markus
-- Hohler, Bernd
+  - Lebek, Benedikt
+  - Uffen, Jörg
+  - Breitner, Michael H.
+  - Neumann, Markus
+  - Hohler, Bernd
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2013"
 doi: "https://doi.org/10.1109/HICSS.2013.192"
 url: "https://ieeexplore.ieee.org/document/6480203"
@@ -16,6 +17,13 @@ journal:
 cited_by: 47
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lebek, B., Uffen, J., Breitner, M. H., Neumann, M., & Hohler, B. (2013). Employees' Information Security Awareness and Behavior - A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2013.192.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Lebek, Benedikt
 AU  - Uffen, Jörg
@@ -46,6 +54,7 @@ DO  - 10.1109/HICSS.2013.192
 UR  - https://ieeexplore.ieee.org/document/6480203
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2013.192>

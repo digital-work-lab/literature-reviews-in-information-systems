@@ -1,9 +1,10 @@
 ---
 title: "Object-Oriented Systems Development: A Review of Empirical Research"
 author:
-- Johnson, Richard A.
-topic: ""
-categories: ['qualitative-systematic-review']
+  - Johnson, Richard A.
+topic: "Software Development"
+categories:
+  - qualitative-systematic-review
 date: "2002"
 doi: "https://doi.org/10.17705/1CAIS.00804"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 1
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Johnson, R. A. (2002). Object-Oriented Systems Development: A Review of Empirical Research. Communications of the Association for Information Systems, 8(4), 65–81. https://doi.org/10.17705/1CAIS.00804.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Johnson, Richard A.
 TI  - Object-Oriented Systems Development: A Review of Empirical Research
@@ -43,6 +51,7 @@ EP  - 81
 DO  - 10.17705/1CAIS.00804
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.00804>

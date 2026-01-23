@@ -1,11 +1,12 @@
 ---
 title: "The supporting role of ecosystem-oriented architecture in digital transformations: a scoping review and future research agenda"
 author:
-- Pattij, Maurice
-- van de Wetering, Rogier
-- Kusters, Rob J.
+  - Pattij, Maurice
+  - van de Wetering, Rogier
+  - Kusters, Rob J.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/5"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Pattij, M., {van de Wetering}, R., & Kusters, R. J. (2024). The supporting role of ecosystem-oriented architecture in digital transformations: a scoping review and future research agenda. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/5.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Pattij, Maurice
 AU  - {van de Wetering}, Rogier
@@ -41,6 +49,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/5
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/5>

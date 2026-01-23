@@ -1,11 +1,12 @@
 ---
 title: "What Is Augmented? A Metanarrative Review of AI-Based Augmentation Augmentation"
 author:
-- Baer, Inès
-- Waardenburg, Lauren
-- Huysman, Marleen
+  - Baer, Inès
+  - Waardenburg, Lauren
+  - Huysman, Marleen
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.17705/1JAIS.00921"
 url: "https://aisel.aisnet.org/jais/vol26/iss3/5"
@@ -14,6 +15,13 @@ journal:
 cited_by: 3
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Baer, I., Waardenburg, L., & Huysman, M. (2025). What Is Augmented? A Metanarrative Review of AI-Based Augmentation Augmentation. Journal of the Association for Information Systems, 26(3), 760–798. https://doi.org/10.17705/1JAIS.00921.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Baer, Inès
 AU  - Waardenburg, Lauren
@@ -51,6 +59,7 @@ DO  - 10.17705/1JAIS.00921
 UR  - https://aisel.aisnet.org/jais/vol26/iss3/5
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00921>

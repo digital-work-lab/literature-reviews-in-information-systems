@@ -1,13 +1,14 @@
 ---
 title: "Blockchain Technology in Business Organizations - A Scoping Review"
 author:
-- Li, Yang
-- Marier-Bienvenue, Thierry
-- Perron-Brault, Alexis
-- Wang, Xinyi
-- Paré, Guy
+  - Li, Yang
+  - Marier-Bienvenue, Thierry
+  - Perron-Brault, Alexis
+  - Wang, Xinyi
+  - Paré, Guy
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.24251/HICSS.2018.565"
 url: "http://hdl.handle.net/10125/50454"
@@ -16,6 +17,13 @@ journal:
 cited_by: 34
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Li, Y., Marier-Bienvenue, T., Perron-Brault, A., Wang, X., & Paré, G. (2018). Blockchain Technology in Business Organizations - A Scoping Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2018.565.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Li, Yang
 AU  - Marier-Bienvenue, Thierry
@@ -48,6 +56,7 @@ DO  - 10.24251/HICSS.2018.565
 UR  - http://hdl.handle.net/10125/50454
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2018.565>

@@ -1,11 +1,12 @@
 ---
 title: "A Scoping Review on Agency Collaboration in Emergency Management Based on the 3C Model"
 author:
-- Simona, Tenanoia
-- Taupo, Tauisi
-- Antunes, Pedro
+  - Simona, Tenanoia
+  - Taupo, Tauisi
+  - Antunes, Pedro
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.1007/S10796-020-10099-0"
 url: "https://link.springer.com/article/10.1007/s10796-020-10099-0"
@@ -14,6 +15,13 @@ journal:
 cited_by: 9
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Simona, T., Taupo, T., & Antunes, P. (2023). A Scoping Review on Agency Collaboration in Emergency Management Based on the 3C Model. Information Systems Frontiers, 25(1), 291–302. https://doi.org/10.1007/S10796-020-10099-0.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Simona, Tenanoia
 AU  - Taupo, Tauisi
@@ -49,6 +57,7 @@ DO  - 10.1007/S10796-020-10099-0
 UR  - https://link.springer.com/article/10.1007/s10796-020-10099-0
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-020-10099-0>

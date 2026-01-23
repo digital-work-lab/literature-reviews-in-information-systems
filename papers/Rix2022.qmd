@@ -1,9 +1,10 @@
 ---
 title: "From Tools to Teammates: Conceptualizing Humans' Perception of Machines as Teammates with a Systematic Literature Review"
 author:
-- Rix, Jennifer
+  - Rix, Jennifer
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.048"
 url: "http://hdl.handle.net/10125/79378"
@@ -12,6 +13,13 @@ journal:
 cited_by: 21
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Rix, J. (2022). From Tools to Teammates: Conceptualizing Humans' Perception of Machines as Teammates with a Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.048.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Rix, Jennifer
 TI  - From Tools to Teammates: Conceptualizing Humans' Perception of Machines as Teammates with a Systematic Literature Review
@@ -39,6 +47,7 @@ DO  - 10.24251/HICSS.2022.048
 UR  - http://hdl.handle.net/10125/79378
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.048>

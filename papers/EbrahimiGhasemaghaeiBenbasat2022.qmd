@@ -1,11 +1,12 @@
 ---
 title: "The Impact of Trust and Recommendation Quality on Adopting Interactive and Non-Interactive Recommendation Agents: A Meta-Analysis"
 author:
-- Ebrahimi, Sepideh
-- Ghasemaghaei, Maryam
-- Benbasat, Izak
+  - Ebrahimi, Sepideh
+  - Ghasemaghaei, Maryam
+  - Benbasat, Izak
 topic: ""
-categories: ['meta-analysis']
+categories:
+  - meta-analysis
 date: "2022"
 doi: "https://doi.org/10.1080/07421222.2022.2096549"
 url: "https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096549"
@@ -14,6 +15,13 @@ journal:
 cited_by: 23
 outlet: "Journal of Management Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ebrahimi, S., Ghasemaghaei, M., & Benbasat, I. (2022). The Impact of Trust and Recommendation Quality on Adopting Interactive and Non-Interactive Recommendation Agents: A Meta-Analysis. Journal of Management Information Systems, 39(3), 733–764. https://doi.org/10.1080/07421222.2022.2096549.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Journal of Management Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ebrahimi, Sepideh
 AU  - Ghasemaghaei, Maryam
@@ -51,6 +59,7 @@ DO  - 10.1080/07421222.2022.2096549
 UR  - https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096549
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/07421222.2022.2096549>

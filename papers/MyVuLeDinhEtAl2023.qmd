@@ -1,13 +1,14 @@
 ---
 title: "Ontological Approach in Smart Service Systems: A Literature Review"
 author:
-- My, Thi
-- Vu, Hang
-- Le Dinh, Thang
-- Rahman, Md Saidur
-- Brasseur, Annie
+  - My, Thi
+  - Vu, Hang
+  - Le Dinh, Thang
+  - Rahman, Md Saidur
+  - Brasseur, Annie
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: ""
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+My, T., Vu, H., Le Dinh, T., Rahman, M. S., & Brasseur, A. (2023). Ontological Approach in Smart Service Systems: A Literature Review. In Americas Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - My, Thi
 AU  - Vu, Hang

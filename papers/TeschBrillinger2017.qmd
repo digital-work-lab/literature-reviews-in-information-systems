@@ -1,10 +1,11 @@
 ---
 title: "The Evaluation Aspect of Digital Business Model Innovation - a literature Review on Tools and Methodologies"
 author:
-- Tesch, Jan F.
-- Brillinger, Anne
+  - Tesch, Jan F.
+  - Brillinger, Anne
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2017_rp/143"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Tesch, J. F., & Brillinger, A. (2017). The Evaluation Aspect of Digital Business Model Innovation - a literature Review on Tools and Methodologies. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2017_rp/143.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Tesch, Jan F.
 AU  - Brillinger, Anne
@@ -38,6 +46,7 @@ PY  - 2017
 UR  - https://aisel.aisnet.org/ecis2017_rp/143
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2017_rp/143>

@@ -1,10 +1,11 @@
 ---
 title: "Make the Best out of What You have - a literature Review on Process prioritization"
 author:
-- Fischer, Marcus
-- Fuchs, Kevin
+  - Fischer, Marcus
+  - Fuchs, Kevin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2019_rip/66"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Fischer, M., & Fuchs, K. (2019). Make the Best out of What You have - a literature Review on Process prioritization. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2019_rip/66.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Fischer, Marcus
 AU  - Fuchs, Kevin
@@ -38,6 +46,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/ecis2019_rip/66
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2019_rip/66>

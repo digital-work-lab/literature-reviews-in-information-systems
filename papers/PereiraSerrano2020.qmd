@@ -1,10 +1,11 @@
 ---
 title: "A review of methods used on IT maturity models development: A systematic literature review and a critical analysis"
 author:
-- Pereira, Rúben
-- Serrano, João
+  - Pereira, Rúben
+  - Serrano, João
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.1177/0268396219886874"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 26
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Pereira, R., & Serrano, J. (2020). A review of methods used on IT maturity models development: A systematic literature review and a critical analysis. Journal of Information Technology, 35(2). https://doi.org/10.1177/0268396219886874.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Pereira, Rúben
 AU  - Serrano, João
@@ -44,6 +52,7 @@ IS  - 2
 DO  - 10.1177/0268396219886874
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1177/0268396219886874>

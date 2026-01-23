@@ -1,9 +1,10 @@
 ---
 title: "Using Gamification in Education - A Systematic Literature Review"
 author:
-- Inocencio, Fabricio
+  - Inocencio, Fabricio
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: ""
 url: "https://aisel.aisnet.org/icis2018/behavior/Presentations/3"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Inocencio, F. (2018). Using Gamification in Education - A Systematic Literature Review. In International Conference on Information Systems. https://aisel.aisnet.org/icis2018/behavior/Presentations/3.
+:::
 
 ## Citation: BibTeX
 
@@ -27,7 +35,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Inocencio, Fabricio
 TI  - Using Gamification in Education - A Systematic Literature Review
@@ -36,6 +44,7 @@ PY  - 2018
 UR  - https://aisel.aisnet.org/icis2018/behavior/Presentations/3
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2018/behavior/Presentations/3>

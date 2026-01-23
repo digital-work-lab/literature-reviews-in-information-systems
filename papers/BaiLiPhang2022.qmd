@@ -1,11 +1,12 @@
 ---
 title: "Factors Affecting High Persuasiveness of Misinformation Containing Visuals: A Systematic Review"
 author:
-- Bai, Shiqi
-- Li, Boying
-- Phang, Chee Wei David
+  - Bai, Shiqi
+  - Li, Boying
+  - Phang, Chee Wei David
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2022/220"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Bai, S., Li, B., & Phang, C. W. D. (2022). Factors Affecting High Persuasiveness of Misinformation Containing Visuals: A Systematic Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2022/220.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Bai, Shiqi
 AU  - Li, Boying
@@ -41,6 +49,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/pacis2022/220
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2022/220>

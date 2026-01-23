@@ -1,10 +1,11 @@
 ---
 title: "Issues, Limitations, and Opportunities in Cross-Cultural Research on Collaborative Software in Information Systems"
 author:
-- Zhang, Dongsong
-- Lowry, Paul Benjamin
-topic: ""
-categories: ['critical-review']
+  - Zhang, Dongsong
+  - Lowry, Paul Benjamin
+topic: "Virtual Teams"
+categories:
+  - critical-review
 date: "2008"
 doi: "https://doi.org/10.4018/JGIM.2008010103"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 26
 outlet: "Journal of Global Information Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Zhang, D., & Lowry, P. B. (2008). Issues, Limitations, and Opportunities in Cross-Cultural Research on Collaborative Software in Information Systems. Journal of Global Information Management, 16(1), 61–84. https://doi.org/10.4018/JGIM.2008010103.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Journal of Global Information Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Zhang, Dongsong
 AU  - Lowry, Paul Benjamin
@@ -46,6 +54,7 @@ EP  - 84
 DO  - 10.4018/JGIM.2008010103
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.4018/JGIM.2008010103>

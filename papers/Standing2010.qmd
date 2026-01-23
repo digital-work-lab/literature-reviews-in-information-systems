@@ -1,11 +1,12 @@
 ---
 title: "A review of research on e-marketplaces 1997–2008"
 author:
-- Standing, Susan
-- Standing, Craig
-- Love, Peter E. D
-topic: ""
-categories: ['descriptive-review']
+  - Standing, Susan
+  - Standing, Craig
+  - Love, Peter E. D
+topic: "E-Commerce"
+categories:
+  - descriptive-review
 date: "2010"
 doi: "https://doi.org/10.1016/J.DSS.2009.12.008"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 76
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Standing, S., Standing, C., & Love, P. E. D. (2010). A review of research on e-marketplaces 1997–2008. Decision Support Systems, 49(1), 41–51. https://doi.org/10.1016/J.DSS.2009.12.008.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Standing, Susan
 AU  - Standing, Craig
@@ -47,6 +55,7 @@ EP  - 51
 DO  - 10.1016/J.DSS.2009.12.008
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2009.12.008>

@@ -1,11 +1,12 @@
 ---
 title: "A comprehensive EA benefit realization model -An exploratory study"
 author:
-- Lange, Matthias
-- Mendling, Jan
-- Recker, Jan
+  - Lange, Matthias
+  - Mendling, Jan
+  - Recker, Jan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2012"
 doi: "https://doi.org/10.1109/HICSS.2012.50"
 url: "https://ieeexplore.ieee.org/document/6149410/"
@@ -14,6 +15,13 @@ journal:
 cited_by: 23
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lange, M., Mendling, J., & Recker, J. (2012). A comprehensive EA benefit realization model -An exploratory study. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2012.50.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Lange, Matthias
 AU  - Mendling, Jan
@@ -43,6 +51,7 @@ DO  - 10.1109/HICSS.2012.50
 UR  - https://ieeexplore.ieee.org/document/6149410/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2012.50>

@@ -1,9 +1,10 @@
 ---
 title: "Consumer Facing Health Care Systems"
 author:
-- Sunyaev, Ali
-topic: ""
-categories: ['scoping-review']
+  - Sunyaev, Ali
+topic: "Other Domain"
+categories:
+  - scoping-review
 date: "2014"
 doi: ""
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "e-Service Journal"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Sunyaev, A. (2014). Consumer Facing Health Care Systems. e-Service Journal, 9(2), 1–23.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "e-Service Journal"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Sunyaev, Ali
 TI  - Consumer Facing Health Care Systems

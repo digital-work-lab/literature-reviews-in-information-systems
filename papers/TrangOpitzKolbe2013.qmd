@@ -1,11 +1,12 @@
 ---
 title: "IT Governance in a Network Context - Literature Review and Agenda for Research"
 author:
-- Trang, Simon Thanh-Nam
-- Opitz, Nicky
-- Kolbe, Lutz M.
+  - Trang, Simon Thanh-Nam
+  - Opitz, Nicky
+  - Kolbe, Lutz M.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2013"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2013/GlobalIssues/GeneralPresentations/2"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Trang, S. T.-N., Opitz, N., & Kolbe, L. M. (2013). IT Governance in a Network Context - Literature Review and Agenda for Research. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2013/GlobalIssues/GeneralPresentations/2.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Trang, Simon Thanh-Nam
 AU  - Opitz, Nicky
@@ -40,6 +48,7 @@ PY  - 2013
 UR  - https://aisel.aisnet.org/amcis2013/GlobalIssues/GeneralPresentations/2
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2013/GlobalIssues/GeneralPresentations/2>

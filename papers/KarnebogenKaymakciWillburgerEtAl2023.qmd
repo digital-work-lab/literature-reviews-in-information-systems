@@ -1,13 +1,14 @@
 ---
 title: "Structuring federated learning applications -a literature analysis and taxonomy"
 author:
-- Karnebogen, Philip
-- Kaymakci, Can
-- Willburger, Lukas
-- Häckel, Björn
-- Sauer, Alexander
+  - Karnebogen, Philip
+  - Kaymakci, Can
+  - Willburger, Lukas
+  - Häckel, Björn
+  - Sauer, Alexander
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2023_rp/230"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Karnebogen, P., Kaymakci, C., Willburger, L., Häckel, B., & Sauer, A. (2023). Structuring federated learning applications -a literature analysis and taxonomy. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2023_rp/230.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Karnebogen, Philip
 AU  - Kaymakci, Can
@@ -46,6 +54,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/ecis2023_rp/230
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2023_rp/230>

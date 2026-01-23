@@ -1,10 +1,11 @@
 ---
 title: "Developing a reference model for artificial intelligence management"
 author:
-- Fukas, Philipp
-- Thomas, Oliver
+  - Fukas, Philipp
+  - Thomas, Oliver
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2023_rip/89"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Fukas, P., & Thomas, O. (2023). Developing a reference model for artificial intelligence management. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2023_rip/89.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Fukas, Philipp
 AU  - Thomas, Oliver
@@ -40,6 +48,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/ecis2023_rip/89
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2023_rip/89>

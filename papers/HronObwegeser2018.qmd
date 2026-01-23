@@ -1,10 +1,11 @@
 ---
 title: "Scrum in Practice: an Overview of Scrum Adaptations"
 author:
-- Hron, Michal
-- Obwegeser, Nikolaus
+  - Hron, Michal
+  - Obwegeser, Nikolaus
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.24251/HICSS.2018.679"
 url: "http://hdl.handle.net/10125/50568"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hron, M., & Obwegeser, N. (2018). Scrum in Practice: an Overview of Scrum Adaptations. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2018.679.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hron, Michal
 AU  - Obwegeser, Nikolaus
@@ -42,6 +50,7 @@ DO  - 10.24251/HICSS.2018.679
 UR  - http://hdl.handle.net/10125/50568
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2018.679>

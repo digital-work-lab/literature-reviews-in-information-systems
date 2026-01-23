@@ -1,12 +1,13 @@
 ---
 title: "Towards A Systemic Framework for Digital Forensic Readiness"
 author:
-- Elyas, Mohamed
-- Maynard, Sean B.
-- Ahmad, Atif
-- Lonie, Andrew
-topic: ""
-categories: ['theoretical-review']
+  - Elyas, Mohamed
+  - Maynard, Sean B.
+  - Ahmad, Atif
+  - Lonie, Andrew
+topic: "Security"
+categories:
+  - theoretical-review
 date: "2014"
 doi: "https://doi.org/10.1080/08874417.2014.11645708"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 26
 outlet: "Journal of Computer Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Elyas, M., Maynard, S. B., Ahmad, A., & Lonie, A. (2014). Towards A Systemic Framework for Digital Forensic Readiness. Journal of Computer Information Systems, 54(3), 97–105. https://doi.org/10.1080/08874417.2014.11645708.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Journal of Computer Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Elyas, Mohamed
 AU  - Maynard, Sean B.
@@ -49,6 +57,7 @@ EP  - 105
 DO  - 10.1080/08874417.2014.11645708
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/08874417.2014.11645708>

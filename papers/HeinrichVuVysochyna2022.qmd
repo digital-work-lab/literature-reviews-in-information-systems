@@ -1,11 +1,12 @@
 ---
 title: "Algorithms as a Manager: A Critical Literature Review of Algorithm Management"
 author:
-- Heinrich, Kai
-- Vu, Minh Anh
-- Vysochyna, Anastasiia
+  - Heinrich, Kai
+  - Vu, Minh Anh
+  - Vysochyna, Anastasiia
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/icis2022/is_futureofwork/is_futureofwork/9"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Heinrich, K., Vu, M. A., & Vysochyna, A. (2022). Algorithms as a Manager: A Critical Literature Review of Algorithm Management. In International Conference on Information Systems. https://aisel.aisnet.org/icis2022/is_futureofwork/is_futureofwork/9.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Heinrich, Kai
 AU  - Vu, Minh Anh
@@ -42,6 +50,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/icis2022/is_futureofwork/is_futureofwork/9
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2022/is_futureofwork/is_futureofwork/9>

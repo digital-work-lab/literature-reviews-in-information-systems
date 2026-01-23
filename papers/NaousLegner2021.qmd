@@ -1,10 +1,11 @@
 ---
 title: "Leveraging Market Research Techniques in IS - A Review and Framework of Conjoint Analysis Studies in the IS Discipline"
 author:
-- Naous, Dana
-- Legner, Christine
+  - Naous, Dana
+  - Legner, Christine
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.17705/1CAIS.04906"
 url: "https://aisel.aisnet.org/cais/vol49/iss1/10"
@@ -13,6 +14,13 @@ journal:
 cited_by: 7
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Naous, D., & Legner, C. (2021). Leveraging Market Research Techniques in IS - A Review and Framework of Conjoint Analysis Studies in the IS Discipline. Communications of the Association for Information Systems, 49, 126–155. https://doi.org/10.17705/1CAIS.04906.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Naous, Dana
 AU  - Legner, Christine
@@ -48,6 +56,7 @@ DO  - 10.17705/1CAIS.04906
 UR  - https://aisel.aisnet.org/cais/vol49/iss1/10
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.04906>

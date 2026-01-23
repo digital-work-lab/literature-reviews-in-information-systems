@@ -1,11 +1,12 @@
 ---
 title: "Toward an Integrative Framework for Online Consumer Behavior Research"
 author:
-- Saeed, Khawaja A.
-- Hwang, Yujong
-- Yi, Mun Y.
-topic: ""
-categories: ['meta-analysis']
+  - Saeed, Khawaja A.
+  - Hwang, Yujong
+  - Yi, Mun Y.
+topic: "E-Commerce"
+categories:
+  - meta-analysis
 date: "2003"
 doi: "https://doi.org/10.4018/JOEUC.2003100101"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 93
 outlet: "Journal of Organizational and End User Computing"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Saeed, K. A., Hwang, Y., & Yi, M. Y. (2003). Toward an Integrative Framework for Online Consumer Behavior Research. Journal of Organizational and End User Computing, 15(4), 1–26. https://doi.org/10.4018/JOEUC.2003100101.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Journal of Organizational and End User Computing"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Saeed, Khawaja A.
 AU  - Hwang, Yujong
@@ -48,6 +56,7 @@ EP  - 26
 DO  - 10.4018/JOEUC.2003100101
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.4018/JOEUC.2003100101>

@@ -1,11 +1,12 @@
 ---
 title: "Evaluating Platform Openness in Logistics based on a Taxonomic Analysis"
 author:
-- Duparc, Estelle
-- Culotta, Carina
-- Otto, Boris
+  - Duparc, Estelle
+  - Culotta, Carina
+  - Otto, Boris
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.598"
 url: "http://hdl.handle.net/10125/79935"
@@ -14,6 +15,13 @@ journal:
 cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Duparc, E., Culotta, C., & Otto, B. (2022). Evaluating Platform Openness in Logistics based on a Taxonomic Analysis. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.598.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Duparc, Estelle
 AU  - Culotta, Carina
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2022.598
 UR  - http://hdl.handle.net/10125/79935
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.598>

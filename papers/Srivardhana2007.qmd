@@ -1,10 +1,11 @@
 ---
 title: "ERP systems as an enabler of sustained business process innovation: A knowledge-based view"
 author:
-- Srivardhana, Thongchai
-- Pawlowski, Suzanne D.
-topic: ""
-categories: ['theoretical-review']
+  - Srivardhana, Thongchai
+  - Pawlowski, Suzanne D.
+topic: "Other Domain"
+categories:
+  - theoretical-review
 date: "2007"
 doi: "https://doi.org/10.1016/J.JSIS.2007.01.003"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 114
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Srivardhana, T., & Pawlowski, S. D. (2007). ERP systems as an enabler of sustained business process innovation: A knowledge-based view. The Journal of Strategic Information Systems, 16(1), 51–69. https://doi.org/10.1016/J.JSIS.2007.01.003.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Srivardhana, Thongchai
 AU  - Pawlowski, Suzanne D.
@@ -45,6 +53,7 @@ EP  - 69
 DO  - 10.1016/J.JSIS.2007.01.003
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2007.01.003>

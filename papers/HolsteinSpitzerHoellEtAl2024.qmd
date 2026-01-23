@@ -1,13 +1,14 @@
 ---
 title: "Understanding data understanding: a framework to navigate the intricacies of data analytics"
 author:
-- Holstein, Joshua
-- Spitzer, Philipp
-- Hoell, Marieke
-- Vössing, Michael
-- Kühl, Niklas
+  - Holstein, Joshua
+  - Spitzer, Philipp
+  - Hoell, Marieke
+  - Vössing, Michael
+  - Kühl, Niklas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2024/track07_busanalytics/track07_busanalytics/5"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Holstein, J., Spitzer, P., Hoell, M., Vössing, M., & Kühl, N. (2024). Understanding data understanding: a framework to navigate the intricacies of data analytics. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2024/track07_busanalytics/track07_busanalytics/5.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Holstein, Joshua
 AU  - Spitzer, Philipp
@@ -45,6 +53,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/ecis2024/track07_busanalytics/track07_busanalytics/5
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2024/track07_busanalytics/track07_busanalytics/5>

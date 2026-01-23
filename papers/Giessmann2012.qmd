@@ -1,10 +1,11 @@
 ---
 title: "Business Models of Platform as a Service (PaaS) Providers: Current State and Future Directions"
 author:
-- Giessmann, Andrea
-- Stanoevska-Slabeva, Katarina
-topic: ""
-categories: ['narrative-review']
+  - Giessmann, Andrea
+  - Stanoevska-Slabeva, Katarina
+topic: "E-Commerce"
+categories:
+  - narrative-review
 date: "2012"
 doi: ""
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Journal of Information Technology Theory and Application"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Giessmann, A., & Stanoevska-Slabeva, K. (2012). Business Models of Platform as a Service (PaaS) Providers: Current State and Future Directions. Journal of Information Technology Theory and Application, 13(4), 31–55.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Journal of Information Technology Theory and Application"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Giessmann, Andrea
 AU  - Stanoevska-Slabeva, Katarina

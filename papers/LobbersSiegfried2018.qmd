@@ -1,10 +1,11 @@
 ---
 title: "Toward a Unified View of IS Certification - A Structured Literature Review on Theoretical Lenses"
 author:
-- Löbbers, Julian
-- Siegfried, Nils
+  - Löbbers, Julian
+  - Siegfried, Nils
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2018_rp/16"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Löbbers, J., & Siegfried, N. (2018). Toward a Unified View of IS Certification - A Structured Literature Review on Theoretical Lenses. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2018_rp/16.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Löbbers, Julian
 AU  - Siegfried, Nils
@@ -38,6 +46,7 @@ PY  - 2018
 UR  - https://aisel.aisnet.org/ecis2018_rp/16
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2018_rp/16>

@@ -1,11 +1,12 @@
 ---
 title: "Privacy and Security in the Cloud: A Review of Guidance and Responses"
 author:
-- Whitley, Edgar A.
-- Willcocks, Leslie P.
-- Venters, Will
-topic: ""
-categories: ['narrative-review']
+  - Whitley, Edgar A.
+  - Willcocks, Leslie P.
+  - Venters, Will
+topic: "Other Domain"
+categories:
+  - narrative-review
 date: "2013"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Journal of International Technology & Information Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Whitley, E. A., Willcocks, L. P., & Venters, W. (2013). Privacy and Security in the Cloud: A Review of Guidance and Responses. Journal of International Technology & Information Management, 22(3), 75–92.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of International Technology & Information Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Whitley, Edgar A.
 AU  - Willcocks, Leslie P.

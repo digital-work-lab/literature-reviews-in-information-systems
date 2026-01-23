@@ -1,9 +1,10 @@
 ---
 title: "Driver Trust in Automated Driving Systems"
 author:
-- Stocker, Alexander
+  - Stocker, Alexander
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rp/35"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Stocker, A. (2022). Driver Trust in Automated Driving Systems. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rp/35.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Stocker, Alexander
 TI  - Driver Trust in Automated Driving Systems
@@ -38,6 +46,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rp/35
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rp/35>

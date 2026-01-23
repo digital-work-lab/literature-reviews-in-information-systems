@@ -1,11 +1,12 @@
 ---
 title: "Think Big with Big Data - Identifying Suitable Big Data Strategies in Corporate Environments"
 author:
-- Ebner, Katharina
-- Buhnen, Thilo
-- Urbach, Nils
+  - Ebner, Katharina
+  - Buhnen, Thilo
+  - Urbach, Nils
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.466"
 url: "https://ieeexplore.ieee.org/document/6759068/"
@@ -14,6 +15,13 @@ journal:
 cited_by: 29
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ebner, K., Buhnen, T., & Urbach, N. (2014). Think Big with Big Data - Identifying Suitable Big Data Strategies in Corporate Environments. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2014.466.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Ebner, Katharina
 AU  - Buhnen, Thilo
@@ -43,6 +51,7 @@ DO  - 10.1109/HICSS.2014.466
 UR  - https://ieeexplore.ieee.org/document/6759068/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2014.466>

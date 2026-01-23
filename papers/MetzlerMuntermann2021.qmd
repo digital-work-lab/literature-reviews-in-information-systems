@@ -1,10 +1,11 @@
 ---
 title: "Digital Transformation-Driven Business Model Innovation - Current State and Future Research Directions"
 author:
-- Metzler, Dennis Renee
-- Muntermann, Jan
+  - Metzler, Dennis Renee
+  - Muntermann, Jan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2021/62"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Metzler, D. R., & Muntermann, J. (2021). Digital Transformation-Driven Business Model Innovation - Current State and Future Research Directions. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2021/62.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Metzler, Dennis Renee
 AU  - Muntermann, Jan
@@ -39,6 +47,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/pacis2021/62
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2021/62>

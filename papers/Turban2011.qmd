@@ -1,11 +1,12 @@
 ---
 title: "Enterprise Social Networking: Opportunities, Adoption, and Risk Mitigation"
 author:
-- Turban, Efraim
-- Bolloju, Narasimha
-- Liang, Ting-Peng
-topic: ""
-categories: ['theoretical-review']
+  - Turban, Efraim
+  - Bolloju, Narasimha
+  - Liang, Ting-Peng
+topic: "Virtual Teams"
+categories:
+  - theoretical-review
 date: "2011"
 doi: "https://doi.org/10.1080/10919392.2011.590109"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 151
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Turban, E., Bolloju, N., & Liang, T.-P. (2011). Enterprise Social Networking: Opportunities, Adoption, and Risk Mitigation. Journal of Organizational Computing and Electronic Commerce, 21(3), 202–220. https://doi.org/10.1080/10919392.2011.590109.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Journal of Organizational Computing and Electronic Commerce"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Turban, Efraim
 AU  - Bolloju, Narasimha
@@ -47,6 +55,7 @@ EP  - 220
 DO  - 10.1080/10919392.2011.590109
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/10919392.2011.590109>

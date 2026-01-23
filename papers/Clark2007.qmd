@@ -1,11 +1,12 @@
 ---
 title: "The Dynamic Structure of Management Support Systems: Theory Development, Research Focus, and Direction"
 author:
-- Clark
-- Jones
-- Armstrong
-topic: ""
-categories: ['theoretical-review']
+  - Clark
+  - Jones
+  - Armstrong
+topic: "Other Domain"
+categories:
+  - theoretical-review
 date: "2007"
 doi: "https://doi.org/10.2307/25148808"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 175
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Clark, Jones, & Armstrong (2007). The Dynamic Structure of Management Support Systems: Theory Development, Research Focus, and Direction. MIS Quarterly, 31(3), 579. https://doi.org/10.2307/25148808.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Clark
 AU  - Jones
@@ -46,6 +54,7 @@ SP  - 579
 DO  - 10.2307/25148808
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/25148808>

@@ -1,13 +1,14 @@
 ---
 title: "Assessing Organizational Users’ Intentions and Behavior to AI Integrated CRM Systems: a Meta-UTAUT Approach"
 author:
-- Chatterjee, Sheshadri
-- Rana, Nripendra P.
-- Khorana, Sangeeta
-- Mikalef, Patrick
-- Sharma, Anuj
+  - Chatterjee, Sheshadri
+  - Rana, Nripendra P.
+  - Khorana, Sangeeta
+  - Mikalef, Patrick
+  - Sharma, Anuj
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.1007/S10796-021-10181-1"
 url: "https://link.springer.com/article/10.1007/s10796-021-10181-1"
@@ -16,6 +17,13 @@ journal:
 cited_by: 116
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chatterjee, S., Rana, N. P., Khorana, S., Mikalef, P., & Sharma, A. (2021). Assessing Organizational Users’ Intentions and Behavior to AI Integrated CRM Systems: a Meta-UTAUT Approach. Information Systems Frontiers, 25. https://doi.org/10.1007/S10796-021-10181-1.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Chatterjee, Sheshadri
 AU  - Rana, Nripendra P.
@@ -49,6 +57,7 @@ DO  - 10.1007/S10796-021-10181-1
 UR  - https://link.springer.com/article/10.1007/s10796-021-10181-1
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-021-10181-1>

@@ -1,10 +1,11 @@
 ---
 title: "Enrichment of Smart Home Services by Integrating Social Network Services and Big Data Analytics"
 author:
-- Wich, Maximilian
-- Kramer, Tommi
+  - Wich, Maximilian
+  - Kramer, Tommi
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1109/HICSS.2016.59"
 url: "https://ieeexplore.ieee.org/document/7427235/"
@@ -13,6 +14,13 @@ journal:
 cited_by: 5
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wich, M., & Kramer, T. (2016). Enrichment of Smart Home Services by Integrating Social Network Services and Big Data Analytics. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2016.59.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wich, Maximilian
 AU  - Kramer, Tommi
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2016.59
 UR  - https://ieeexplore.ieee.org/document/7427235/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2016.59>

@@ -1,13 +1,14 @@
 ---
 title: "To Delegate or Not to Delegate? Factors Influencing Human-Agentic IS Interaction Literature Review"
 author:
-- Strunk, Jobin
-- Banh, Leonardo
-- Nissen, Anika
-- Strobel, Gero
-- Smolnik, Stefan
+  - Strunk, Jobin
+  - Banh, Leonardo
+  - Nissen, Anika
+  - Strobel, Gero
+  - Smolnik, Stefan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Strunk, J., Banh, L., Nissen, A., Strobel, G., & Smolnik, S. (2024). To Delegate or Not to Delegate? Factors Influencing Human-Agentic IS Interaction Literature Review. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Strunk, Jobin
 AU  - Banh, Leonardo

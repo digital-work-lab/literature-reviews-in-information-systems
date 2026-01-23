@@ -1,11 +1,12 @@
 ---
 title: "Internet Social Networking"
 author:
-- Richter, Daniel
-- Riemer, Kai
-- vom Brocke, Jan
-topic: ""
-categories: ['scoping-review']
+  - Richter, Daniel
+  - Riemer, Kai
+  - vom Brocke, Jan
+topic: "Other Domain"
+categories:
+  - scoping-review
 date: "2011"
 doi: "https://doi.org/10.1007/S12599-011-0151-Y"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 57
 outlet: "Business & Information Systems Engineering"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Richter, D., Riemer, K., & vom Brocke, J. (2011). Internet Social Networking. Business & Information Systems Engineering, 3(2), 89–101. https://doi.org/10.1007/S12599-011-0151-Y.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Business & Information Systems Engineering"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Richter, Daniel
 AU  - Riemer, Kai
@@ -48,6 +56,7 @@ EP  - 101
 DO  - 10.1007/S12599-011-0151-Y
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S12599-011-0151-Y>

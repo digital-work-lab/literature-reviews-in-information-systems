@@ -1,11 +1,12 @@
 ---
 title: "Review and critique of the information systems development project failure literature: An argument for exploring information systems development project distress"
 author:
-- Baghizadeh, Zeinab
-- Cecez-Kecmanovic, Dubravka
-- Schlagwein, Daniel
+  - Baghizadeh, Zeinab
+  - Cecez-Kecmanovic, Dubravka
+  - Schlagwein, Daniel
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.1177/0268396219832010"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 38
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Baghizadeh, Z., Cecez-Kecmanovic, D., & Schlagwein, D. (2020). Review and critique of the information systems development project failure literature: An argument for exploring information systems development project distress. Journal of Information Technology, 35(2). https://doi.org/10.1177/0268396219832010.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Baghizadeh, Zeinab
 AU  - Cecez-Kecmanovic, Dubravka
@@ -46,6 +54,7 @@ IS  - 2
 DO  - 10.1177/0268396219832010
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1177/0268396219832010>

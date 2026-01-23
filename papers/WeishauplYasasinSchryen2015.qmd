@@ -1,11 +1,12 @@
 ---
 title: "A Multi-Theoretical Literature Review on Information Security Investments using the Resource-Based View and the Organizational Learning Theory"
 author:
-- Weishäupl, Eva
-- Yasasin, Emrah
-- Schryen, Guido
+  - Weishäupl, Eva
+  - Yasasin, Emrah
+  - Schryen, Guido
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: ""
 url: "http://aisel.aisnet.org/icis2015/proceedings/SecurityIS/16"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Weishäupl, E., Yasasin, E., & Schryen, G. (2015). A Multi-Theoretical Literature Review on Information Security Investments using the Resource-Based View and the Organizational Learning Theory. In International Conference on Information Systems. http://aisel.aisnet.org/icis2015/proceedings/SecurityIS/16.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Weishäupl, Eva
 AU  - Yasasin, Emrah
@@ -40,6 +48,7 @@ PY  - 2015
 UR  - http://aisel.aisnet.org/icis2015/proceedings/SecurityIS/16
 ER  - 
 ```
+
 ## Links
 
 - URL: <http://aisel.aisnet.org/icis2015/proceedings/SecurityIS/16>

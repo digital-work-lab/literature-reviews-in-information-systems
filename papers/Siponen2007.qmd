@@ -1,10 +1,11 @@
 ---
 title: "A review of information security issues and respective research contributions"
 author:
-- Siponen, Mikko T.
-- Oinas-Kukkonen, Harri
-topic: ""
-categories: ['narrative-review']
+  - Siponen, Mikko T.
+  - Oinas-Kukkonen, Harri
+topic: "Security"
+categories:
+  - narrative-review
 date: "2007"
 doi: "https://doi.org/10.1145/1216218.1216224"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 130
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Siponen, M. T., & Oinas-Kukkonen, H. (2007). A review of information security issues and respective research contributions. ACM SIGMIS Database: the DATABASE for Advances in Information Systems, 38(1), 60–80. https://doi.org/10.1145/1216218.1216224.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Siponen, Mikko T.
 AU  - Oinas-Kukkonen, Harri
@@ -46,6 +54,7 @@ EP  - 80
 DO  - 10.1145/1216218.1216224
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1145/1216218.1216224>

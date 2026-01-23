@@ -1,12 +1,13 @@
 ---
 title: "Navigating implicit hate speech -a scoping review"
 author:
-- Xie, Hetiao
-- Namvar, Morteza
-- Risius, Marten
-- Akhlaghpour, Saeed
+  - Xie, Hetiao
+  - Namvar, Morteza
+  - Risius, Marten
+  - Akhlaghpour, Saeed
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Xie, H., Namvar, M., Risius, M., & Akhlaghpour, S. (2024). Navigating implicit hate speech -a scoping review. In European Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Xie, Hetiao
 AU  - Namvar, Morteza

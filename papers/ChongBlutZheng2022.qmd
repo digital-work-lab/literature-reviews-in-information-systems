@@ -1,11 +1,12 @@
 ---
 title: "Factors influencing the acceptance of healthcare information technologies: A meta-analysis"
 author:
-- Chong, Alain Yee Loong
-- Blut, Markus
-- Zheng, Shuning
+  - Chong, Alain Yee Loong
+  - Blut, Markus
+  - Zheng, Shuning
 topic: ""
-categories: ['meta-analysis']
+categories:
+  - meta-analysis
 date: "2022"
 doi: "https://doi.org/10.1016/J.IM.2022.103604"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 62
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chong, A. Y. L., Blut, M., & Zheng, S. (2022). Factors influencing the acceptance of healthcare information technologies: A meta-analysis. Information & Management, 59(3). https://doi.org/10.1016/J.IM.2022.103604.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Chong, Alain Yee Loong
 AU  - Blut, Markus
@@ -44,6 +52,7 @@ IS  - 3
 DO  - 10.1016/J.IM.2022.103604
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2022.103604>

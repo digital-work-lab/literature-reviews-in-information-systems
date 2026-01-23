@@ -1,9 +1,10 @@
 ---
 title: "Mapping the Evolving Intellectual Structure of Digital Innovation Research on the Public Sector: A Document Co-citation Analysis"
 author:
-- Hedlund, Hugo
+  - Hedlund, Hugo
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.250"
 url: "http://hdl.handle.net/10125/63991"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hedlund, H. (2020). Mapping the Evolving Intellectual Structure of Digital Innovation Research on the Public Sector: A Document Co-citation Analysis. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.250.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hedlund, Hugo
 TI  - Mapping the Evolving Intellectual Structure of Digital Innovation Research on the Public Sector: A Document Co-citation Analysis
@@ -40,6 +48,7 @@ DO  - 10.24251/HICSS.2020.250
 UR  - http://hdl.handle.net/10125/63991
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.250>

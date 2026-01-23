@@ -1,11 +1,12 @@
 ---
 title: "The Role of Trust in E-Government Adoption - A Literature Review"
 author:
-- Akkaya, Cigdem
-- Wolf, Petra
-- Krcmar, Helmut
+  - Akkaya, Cigdem
+  - Wolf, Petra
+  - Krcmar, Helmut
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2010"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2010/297"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Akkaya, C., Wolf, P., & Krcmar, H. (2010). The Role of Trust in E-Government Adoption - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2010/297.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Akkaya, Cigdem
 AU  - Wolf, Petra
@@ -40,6 +48,7 @@ PY  - 2010
 UR  - https://aisel.aisnet.org/amcis2010/297
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2010/297>

@@ -1,12 +1,13 @@
 ---
 title: "Multiple voices in the Maker movement - a Nexus analytic literature Review on children, Education and Making"
 author:
-- Iivari, Netta
-- Kinnula, Marianne
-- Molin-Juustila, Tonja
-- Kuure, Leena
+  - Iivari, Netta
+  - Kinnula, Marianne
+  - Molin-Juustila, Tonja
+  - Kuure, Leena
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2017_rp/123"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Iivari, N., Kinnula, M., Molin-Juustila, T., & Kuure, L. (2017). Multiple voices in the Maker movement - a Nexus analytic literature Review on children, Education and Making. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2017_rp/123.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Iivari, Netta
 AU  - Kinnula, Marianne
@@ -42,6 +50,7 @@ PY  - 2017
 UR  - https://aisel.aisnet.org/ecis2017_rp/123
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2017_rp/123>

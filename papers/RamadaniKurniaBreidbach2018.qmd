@@ -1,11 +1,12 @@
 ---
 title: "In Search for Holistic ICT4D Research: A Systematic Literature Review"
 author:
-- Ramadani, Luthfi
-- Kurnia, Sherah
-- Breidbach, Christoph F.
+  - Ramadani, Luthfi
+  - Kurnia, Sherah
+  - Breidbach, Christoph F.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.24251/HICSS.2018.304"
 url: "http://hdl.handle.net/10125/50192"
@@ -14,6 +15,13 @@ journal:
 cited_by: 10
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ramadani, L., Kurnia, S., & Breidbach, C. F. (2018). In Search for Holistic ICT4D Research: A Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2018.304.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Ramadani, Luthfi
 AU  - Kurnia, Sherah
@@ -42,6 +50,7 @@ DO  - 10.24251/HICSS.2018.304
 UR  - http://hdl.handle.net/10125/50192
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2018.304>

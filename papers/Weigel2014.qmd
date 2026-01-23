@@ -1,12 +1,13 @@
 ---
 title: "Diffusion of Innovations and the Theory of Planned Behavior in Information Systems Research: A Metaanalysis"
 author:
-- Weigel, Fred K.
-- Hazen, Benjamin T.
-- Cegielski, Casey G.
-- Hall, Dianne J.
-topic: ""
-categories: ['meta-analysis']
+  - Weigel, Fred K.
+  - Hazen, Benjamin T.
+  - Cegielski, Casey G.
+  - Hall, Dianne J.
+topic: "Other Domain"
+categories:
+  - meta-analysis
 date: "2014"
 doi: "https://doi.org/10.17705/1CAIS.03431"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 31
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Weigel, F. K., Hazen, B. T., Cegielski, C. G., & Hall, D. J. (2014). Diffusion of Innovations and the Theory of Planned Behavior in Information Systems Research: A Metaanalysis. Communications of the Association for Information Systems, 34(1), 619–636. https://doi.org/10.17705/1CAIS.03431.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Weigel, Fred K.
 AU  - Hazen, Benjamin T.
@@ -49,6 +57,7 @@ EP  - 636
 DO  - 10.17705/1CAIS.03431
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03431>

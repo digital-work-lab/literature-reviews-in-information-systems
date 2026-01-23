@@ -1,11 +1,12 @@
 ---
 title: "Artificial Intelligence in Human Resources Management: A Scoping Review"
 author:
-- Gelinas, Daniel
-- Sadreddin, Arman
-- Vahidov, Rustam M.
+  - Gelinas, Daniel
+  - Sadreddin, Arman
+  - Vahidov, Rustam M.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/10"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gelinas, D., Sadreddin, A., & Vahidov, R. M. (2022). Artificial Intelligence in Human Resources Management: A Scoping Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/10.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Gelinas, Daniel
 AU  - Sadreddin, Arman
@@ -43,6 +51,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/10
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/10>

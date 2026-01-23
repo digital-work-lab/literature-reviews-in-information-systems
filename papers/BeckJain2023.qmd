@@ -1,10 +1,11 @@
 ---
 title: "DLT-based Regulatory Systems Dynamics"
 author:
-- Beck, Roman
-- Jain, Geetika
+  - Beck, Roman
+  - Jain, Geetika
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.471"
 url: "https://hdl.handle.net/10125/103102"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Beck, R., & Jain, G. (2023). DLT-based Regulatory Systems Dynamics. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.471.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Beck, Roman
 AU  - Jain, Geetika
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2023.471
 UR  - https://hdl.handle.net/10125/103102
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.471>

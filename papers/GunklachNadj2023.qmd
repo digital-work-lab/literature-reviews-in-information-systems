@@ -1,10 +1,11 @@
 ---
 title: "Guidance in business intelligence and analytics systems: a review and research agenda"
 author:
-- Gunklach, Jonas
-- Nadj, Mario
+  - Gunklach, Jonas
+  - Nadj, Mario
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2023_rp/329"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gunklach, J., & Nadj, M. (2023). Guidance in business intelligence and analytics systems: a review and research agenda. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2023_rp/329.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Gunklach, Jonas
 AU  - Nadj, Mario
@@ -40,6 +48,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/ecis2023_rp/329
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2023_rp/329>

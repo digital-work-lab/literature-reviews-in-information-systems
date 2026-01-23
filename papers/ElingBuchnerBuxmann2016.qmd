@@ -1,11 +1,12 @@
 ---
 title: "Business Models for Free Digital Goods and Services"
 author:
-- Eling, Nicole
-- Buchner, Christian
-- Buxmann, Peter
+  - Eling, Nicole
+  - Buchner, Christian
+  - Buxmann, Peter
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1109/HICSS.2016.188"
 url: "https://ieeexplore.ieee.org/document/7427367/"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Eling, N., Buchner, C., & Buxmann, P. (2016). Business Models for Free Digital Goods and Services. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2016.188.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Eling, Nicole
 AU  - Buchner, Christian
@@ -44,6 +52,7 @@ DO  - 10.1109/HICSS.2016.188
 UR  - https://ieeexplore.ieee.org/document/7427367/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2016.188>

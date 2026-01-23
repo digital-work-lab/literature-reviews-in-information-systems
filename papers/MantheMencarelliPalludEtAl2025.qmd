@@ -1,12 +1,13 @@
 ---
 title: "The dark side of crowdsourcing of complex tasks: A systematic literature review"
 author:
-- Manthé, Elodie
-- Mencarelli, Rémi
-- Pallud, Jessie
-- De- Guevara, Estellés-Arolas
+  - Manthé, Elodie
+  - Mencarelli, Rémi
+  - Pallud, Jessie
+  - De- Guevara, Estellés-Arolas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.1016/J.IM.2025.104108"
 url: "https://www.doi.org/10.1016/J.IM.2025.104108"
@@ -15,6 +16,13 @@ journal:
 cited_by: 1
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Manthé, E., Mencarelli, R., Pallud, J., & De- Guevara, E.-A. (2025). The dark side of crowdsourcing of complex tasks: A systematic literature review. Information & Management, 62(3), 104108. https://doi.org/10.1016/J.IM.2025.104108.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Manthé, Elodie
 AU  - Mencarelli, Rémi
@@ -51,6 +59,7 @@ DO  - 10.1016/J.IM.2025.104108
 UR  - https://www.doi.org/10.1016/J.IM.2025.104108
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2025.104108>

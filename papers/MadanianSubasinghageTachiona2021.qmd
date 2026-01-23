@@ -1,11 +1,12 @@
 ---
 title: "Critical Success Factors of Agile ERP Development and Implementation Projects - A Systematic Literature Review"
 author:
-- Madanian, Samaneh
-- Subasinghage, Maduka
-- Tachiona, Shingai Conrad
+  - Madanian, Samaneh
+  - Subasinghage, Maduka
+  - Tachiona, Shingai Conrad
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2021/211"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Madanian, S., Subasinghage, M., & Tachiona, S. C. (2021). Critical Success Factors of Agile ERP Development and Implementation Projects - A Systematic Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2021/211.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Madanian, Samaneh
 AU  - Subasinghage, Maduka
@@ -40,6 +48,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/pacis2021/211
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2021/211>

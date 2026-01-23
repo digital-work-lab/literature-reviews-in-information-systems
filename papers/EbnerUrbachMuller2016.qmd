@@ -1,11 +1,12 @@
 ---
 title: "Exploring the path to success - A review of the strategic IT benchmarking literature"
 author:
-- Ebner, Katharina
-- Urbach, Nils
-- Müller, Benjamin
+  - Ebner, Katharina
+  - Urbach, Nils
+  - Müller, Benjamin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.1016/J.IM.2015.11.001"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720615001275"
@@ -14,6 +15,13 @@ journal:
 cited_by: 11
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ebner, K., Urbach, N., & Müller, B. (2015). Exploring the path to success - A review of the strategic IT benchmarking literature. Information & Management, 53(4), 447–466. https://doi.org/10.1016/J.IM.2015.11.001.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ebner, Katharina
 AU  - Urbach, Nils
@@ -51,6 +59,7 @@ DO  - 10.1016/J.IM.2015.11.001
 UR  - https://www.sciencedirect.com/science/article/pii/S0378720615001275
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2015.11.001>

@@ -1,9 +1,10 @@
 ---
 title: "IT Service Value Creation in a Global Environment"
 author:
-- Carter, Pamela E.
-topic: ""
-categories: ['theoretical-review']
+  - Carter, Pamela E.
+topic: "Software Development"
+categories:
+  - theoretical-review
 date: "2010"
 doi: "https://doi.org/10.1080/1097198X.2010.10856524"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 5
 outlet: "Journal of Global Information Technology Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Carter, P. E. (2010). IT Service Value Creation in a Global Environment. Journal of Global Information Technology Management, 13(4), 4–27. https://doi.org/10.1080/1097198X.2010.10856524.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Journal of Global Information Technology Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Carter, Pamela E.
 TI  - IT Service Value Creation in a Global Environment
@@ -43,6 +51,7 @@ EP  - 27
 DO  - 10.1080/1097198X.2010.10856524
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/1097198X.2010.10856524>

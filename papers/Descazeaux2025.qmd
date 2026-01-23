@@ -1,9 +1,10 @@
 ---
 title: "Mapping the Narratives of Quantum Computing in IS: A Literature Review"
 author:
-- Ignacio Descazeaux
+  - Ignacio Descazeaux
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Descazeaux, I. (2025). Mapping the Narratives of Quantum Computing in IS: A Literature Review. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -27,7 +35,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Ignacio Descazeaux
 TI  - Mapping the Narratives of Quantum Computing in IS: A Literature Review

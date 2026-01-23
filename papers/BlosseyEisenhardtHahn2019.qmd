@@ -1,11 +1,12 @@
 ---
 title: "Blockchain Technology in Supply Chain Management - An Application Perspective"
 author:
-- Blossey, Gregor
-- Eisenhardt, Jannick
-- Hahn, Gerd J.
+  - Blossey, Gregor
+  - Eisenhardt, Jannick
+  - Hahn, Gerd J.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.24251/HICSS.2019.824"
 url: "http://hdl.handle.net/10125/60124"
@@ -14,6 +15,13 @@ journal:
 cited_by: 102
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Blossey, G., Eisenhardt, J., & Hahn, G. J. (2019). Blockchain Technology in Supply Chain Management - An Application Perspective. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2019.824.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Blossey, Gregor
 AU  - Eisenhardt, Jannick
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2019.824
 UR  - http://hdl.handle.net/10125/60124
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2019.824>

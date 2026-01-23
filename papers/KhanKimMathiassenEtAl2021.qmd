@@ -1,12 +1,13 @@
 ---
 title: "Data breach management: an integrated risk model"
 author:
-- Khan, Freeha S.
-- Kim, Jung Hwan
-- Mathiassen, Lars
-- Moore, Robin L.
+  - Khan, Freeha S.
+  - Kim, Jung Hwan
+  - Mathiassen, Lars
+  - Moore, Robin L.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.1016/J.IM.2020.103392"
 url: "https://www.sciencedirect.com/science/article/pii/S037872062030330X"
@@ -15,6 +16,13 @@ journal:
 cited_by: 59
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Khan, F. S., Kim, J. H., Mathiassen, L., & Moore, R. L. (2021). Data breach management: an integrated risk model. Information & Management, 58(1), 103392. https://doi.org/10.1016/J.IM.2020.103392.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Khan, Freeha S.
 AU  - Kim, Jung Hwan
@@ -51,6 +59,7 @@ DO  - 10.1016/J.IM.2020.103392
 UR  - https://www.sciencedirect.com/science/article/pii/S037872062030330X
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2020.103392>

@@ -1,9 +1,10 @@
 ---
 title: "Morality, Ethics, and Reflection: A Categorization of Normative IS Research"
 author:
-- Stahl, Bernd
-topic: ""
-categories: ['narrative-review']
+  - Stahl, Bernd
+topic: "Other Domain"
+categories:
+  - narrative-review
 date: "2012"
 doi: "https://doi.org/10.17705/1JAIS.00304"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 54
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Stahl, B. (2012). Morality, Ethics, and Reflection: A Categorization of Normative IS Research. Journal of the Association for Information Systems, 13(8), 636–656. https://doi.org/10.17705/1JAIS.00304.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Stahl, Bernd
 TI  - Morality, Ethics, and Reflection: A Categorization of Normative IS Research
@@ -43,6 +51,7 @@ EP  - 656
 DO  - 10.17705/1JAIS.00304
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00304>

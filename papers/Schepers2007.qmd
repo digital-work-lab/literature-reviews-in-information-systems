@@ -1,10 +1,12 @@
 ---
 title: "A meta-analysis of the technology acceptance model: Investigating subjective norm and moderation effects"
 author:
-- Schepers, Jeroen
-- Wetzels, Martin
-topic: ""
-categories: ['meta-analysis', 'highly-cited']
+  - Schepers, Jeroen
+  - Wetzels, Martin
+topic: "Technology Acceptance, and Use"
+categories:
+  - meta-analysis
+  - highly-cited
 date: "2007"
 doi: "https://doi.org/10.1016/J.IM.2006.10.007"
 url: ""
@@ -13,6 +15,13 @@ journal:
 cited_by: 1072
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schepers, J., & Wetzels, M. (2007). A meta-analysis of the technology acceptance model: Investigating subjective norm and moderation effects. Information & Management, 44(1), 90–103. https://doi.org/10.1016/J.IM.2006.10.007.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +40,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Schepers, Jeroen
 AU  - Wetzels, Martin
@@ -45,6 +54,7 @@ EP  - 103
 DO  - 10.1016/J.IM.2006.10.007
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2006.10.007>

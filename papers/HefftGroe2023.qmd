@@ -1,10 +1,11 @@
 ---
 title: "Design Knowledge for GAIA-X-compliant Ecosystems: A Literature Review"
 author:
-- Hefft, Daniel
-- Große, Nick
+  - Hefft, Daniel
+  - Große, Nick
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2023/sig_services/sig_services/2"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hefft, D., & Große, N. (2023). Design Knowledge for GAIA-X-compliant Ecosystems: A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2023/sig_services/sig_services/2.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hefft, Daniel
 AU  - Große, Nick
@@ -40,6 +48,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/amcis2023/sig_services/sig_services/2
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2023/sig_services/sig_services/2>

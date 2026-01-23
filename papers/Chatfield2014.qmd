@@ -1,12 +1,13 @@
 ---
 title: "Creating Value through Virtual Teams: A Current Literature Review"
 author:
-- Chatfield, Akemi Takeoka
-- Shlemoon, Vivian Najem
-- Redublado, Wilbur
-- Darbyshire, Gary
-topic: ""
-categories: ['descriptive-review']
+  - Chatfield, Akemi Takeoka
+  - Shlemoon, Vivian Najem
+  - Redublado, Wilbur
+  - Darbyshire, Gary
+topic: "Virtual Teams"
+categories:
+  - descriptive-review
 date: "2014"
 doi: "https://doi.org/10.3127/AJIS.V18I3.1104"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 6
 outlet: "Australasian Journal of Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chatfield, A. T., Shlemoon, V. N., Redublado, W., & Darbyshire, G. (2014). Creating Value through Virtual Teams: A Current Literature Review. Australasian Journal of Information Systems, 18(3), 257–269. https://doi.org/10.3127/AJIS.V18I3.1104.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Australasian Journal of Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Chatfield, Akemi Takeoka
 AU  - Shlemoon, Vivian Najem
@@ -49,6 +57,7 @@ EP  - 269
 DO  - 10.3127/AJIS.V18I3.1104
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.3127/AJIS.V18I3.1104>

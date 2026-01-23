@@ -1,11 +1,12 @@
 ---
 title: "A Collaborative Creative Process in the Age of AI: A Comparative Analysis of Machine and Human Creativity"
 author:
-- Boo, Chaeeun
-- Kim, Yeongseo
-- Suh, Ayoung
+  - Boo, Chaeeun
+  - Kim, Yeongseo
+  - Suh, Ayoung
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.24251/HICSS.2025.025"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Boo, C., Kim, Y., & Suh, A. (2025). A Collaborative Creative Process in the Age of AI: A Comparative Analysis of Machine and Human Creativity. In Hawaii International Conference on System Sciences (pp. 1–10). https://doi.org/10.24251/HICSS.2025.025.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Boo, Chaeeun
 AU  - Kim, Yeongseo
@@ -44,6 +52,7 @@ EP  - 10
 DO  - 10.24251/HICSS.2025.025
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2025.025>

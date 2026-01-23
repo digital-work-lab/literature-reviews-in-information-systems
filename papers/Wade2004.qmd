@@ -1,10 +1,12 @@
 ---
 title: "Review: The Resource-Based View and Information Systems Research: Review, Extension, and Suggestions for Future Research"
 author:
-- Wade
-- Hulland
-topic: ""
-categories: ['theoretical-review', 'highly-cited']
+  - Wade
+  - Hulland
+topic: "IS Value"
+categories:
+  - theoretical-review
+  - highly-cited
 date: "2004"
 doi: "https://doi.org/10.2307/25148626"
 url: ""
@@ -13,6 +15,13 @@ journal:
 cited_by: 1555
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wade, & Hulland (2004). Review: The Resource-Based View and Information Systems Research: Review, Extension, and Suggestions for Future Research. MIS Quarterly, 28(1), 107. https://doi.org/10.2307/25148626.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +40,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wade
 AU  - Hulland
@@ -44,6 +53,7 @@ SP  - 107
 DO  - 10.2307/25148626
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/25148626>

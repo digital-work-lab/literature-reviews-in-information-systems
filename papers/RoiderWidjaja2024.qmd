@@ -1,10 +1,11 @@
 ---
 title: "Uncovering Privacy in the Metaverse from an Identity Perspective: A Literature Review Literature Review"
 author:
-- Roider, Hanna
-- Widjaja, Thomas
+  - Roider, Hanna
+  - Widjaja, Thomas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Roider, H., & Widjaja, T. (2024). Uncovering Privacy in the Metaverse from an Identity Perspective: A Literature Review Literature Review. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Roider, Hanna
 AU  - Widjaja, Thomas

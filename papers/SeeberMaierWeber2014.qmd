@@ -1,11 +1,12 @@
 ---
 title: "Opening the Black Box of Team Processes and Emergent States - A Literature Review and Agenda for Research on Team Facilitation"
 author:
-- Seeber, Isabella
-- Maier, Ronald
-- Weber, Barbara
+  - Seeber, Isabella
+  - Maier, Ronald
+  - Weber, Barbara
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.66"
 url: "https://ieeexplore.ieee.org/document/6758662"
@@ -14,6 +15,13 @@ journal:
 cited_by: 4
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Seeber, I., Maier, R., & Weber, B. (2014). Opening the Black Box of Team Processes and Emergent States - A Literature Review and Agenda for Research on Team Facilitation. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2014.66.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Seeber, Isabella
 AU  - Maier, Ronald
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2014.66
 UR  - https://ieeexplore.ieee.org/document/6758662
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2014.66>

@@ -1,13 +1,14 @@
 ---
 title: "Deriving Facilitators for Electronic Health Record Implementation: A Systematic Literature Review of Opportunities and Challenges"
 author:
-- Amend, Julia
-- Eymann, Torsten
-- Kauffmann, Anna Lina
-- Münch, Tobias
-- Troglauer, Patrick
+  - Amend, Julia
+  - Eymann, Torsten
+  - Kauffmann, Anna Lina
+  - Münch, Tobias
+  - Troglauer, Patrick
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rp/81"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Amend, J., Eymann, T., Kauffmann, A. L., Münch, T., & Troglauer, P. (2022). Deriving Facilitators for Electronic Health Record Implementation: A Systematic Literature Review of Opportunities and Challenges. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rp/81.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Amend, Julia
 AU  - Eymann, Torsten
@@ -46,6 +54,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rp/81
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rp/81>

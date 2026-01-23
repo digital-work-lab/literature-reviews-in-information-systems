@@ -1,9 +1,10 @@
 ---
 title: "Theories of Meaning in Schema Matching"
 author:
-- Evermann, Joerg
-topic: ""
-categories: ['narrative-review']
+  - Evermann, Joerg
+topic: "Software Development"
+categories:
+  - narrative-review
 date: "2008"
 doi: "https://doi.org/10.4018/JDM.2008070104"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 12
 outlet: "Journal of Database Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Evermann, J. (2008). Theories of Meaning in Schema Matching. Journal of Database Management, 19(3), 55–82. https://doi.org/10.4018/JDM.2008070104.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of Database Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Evermann, Joerg
 TI  - Theories of Meaning in Schema Matching
@@ -44,6 +52,7 @@ EP  - 82
 DO  - 10.4018/JDM.2008070104
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.4018/JDM.2008070104>

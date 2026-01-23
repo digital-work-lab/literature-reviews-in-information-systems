@@ -1,11 +1,12 @@
 ---
 title: "Are IT professionals unique? a second-order meta-analytic comparison of turnover intentions across occupations"
 author:
-- Zaza, Sam
-- Joseph, Damien
-- Armstrong, Deborah
+  - Zaza, Sam
+  - Joseph, Damien
+  - Armstrong, Deborah
 topic: ""
-categories: ['meta-analysis']
+categories:
+  - meta-analysis
 date: "2022"
 doi: "https://doi.org/10.25300/MISQ/2022/16951"
 url: "https://misq.umn.edu/are-it-professionals-unique-a-second-order-meta-analytic-comparison-of-turnover-intentions-across-occupations.html"
@@ -14,6 +15,13 @@ journal:
 cited_by: 13
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Zaza, S., Joseph, D., & Armstrong, D. (2022). Are IT professionals unique? a second-order meta-analytic comparison of turnover intentions across occupations. MIS Quarterly, 47(3), 1213–1238. https://doi.org/10.25300/MISQ/2022/16951.
+:::
 
 ## Citation: BibTeX
 
@@ -36,7 +44,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Zaza, Sam
 AU  - Joseph, Damien
@@ -52,6 +60,7 @@ DO  - 10.25300/MISQ/2022/16951
 UR  - https://misq.umn.edu/are-it-professionals-unique-a-second-order-meta-analytic-comparison-of-turnover-intentions-across-occupations.html
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.25300/MISQ/2022/16951>

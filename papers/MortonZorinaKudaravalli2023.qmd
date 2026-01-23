@@ -1,11 +1,12 @@
 ---
 title: "The strategic value of IT-enabled self-organised collectives during crises"
 author:
-- Morton, Josh
-- Zorina, Aljona
-- Kudaravalli, Sri
+  - Morton, Josh
+  - Zorina, Aljona
+  - Kudaravalli, Sri
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.1016/J.JSIS.2023.101792"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 12
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Morton, J., Zorina, A., & Kudaravalli, S. (2023). The strategic value of IT-enabled self-organised collectives during crises. The Journal of Strategic Information Systems, 32(3), 101792. https://doi.org/10.1016/J.JSIS.2023.101792.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Morton, Josh
 AU  - Zorina, Aljona
@@ -46,6 +54,7 @@ SP  - 101792
 DO  - 10.1016/J.JSIS.2023.101792
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2023.101792>

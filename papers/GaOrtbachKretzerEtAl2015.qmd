@@ -1,13 +1,14 @@
 ---
 title: "Conceptualizing Individualization in Information Systems - A Literature Review"
 author:
-- Gaß, Oliver
-- Ortbach, Kevin
-- Kretzer, Martin
-- Maedche, Alexander
-- Niehaves, Björn
+  - Gaß, Oliver
+  - Ortbach, Kevin
+  - Kretzer, Martin
+  - Maedche, Alexander
+  - Niehaves, Björn
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.17705/1CAIS.03703"
 url: "https://aisel.aisnet.org/cais/vol37/iss1/3"
@@ -16,6 +17,13 @@ journal:
 cited_by: 4
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gaß, O., Ortbach, K., Kretzer, M., Maedche, A., & Niehaves, B. (2015). Conceptualizing Individualization in Information Systems - A Literature Review. Communications of the Association for Information Systems, 37. https://doi.org/10.17705/1CAIS.03703.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Gaß, Oliver
 AU  - Ortbach, Kevin
@@ -48,6 +56,7 @@ DO  - 10.17705/1CAIS.03703
 UR  - https://aisel.aisnet.org/cais/vol37/iss1/3
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03703>

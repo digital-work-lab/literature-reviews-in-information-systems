@@ -1,9 +1,10 @@
 ---
 title: "Responsible digital transformation: a corporate governance perspective"
 author:
-- Christ, Anna-Sophia
+  - Christ, Anna-Sophia
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2025/digitrans/digtrans/6"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Christ, A.-S. (2025). Responsible digital transformation: a corporate governance perspective. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2025/digitrans/digtrans/6.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Christ, Anna-Sophia
 TI  - Responsible digital transformation: a corporate governance perspective
@@ -37,6 +45,7 @@ PY  - 2025
 UR  - https://aisel.aisnet.org/ecis2025/digitrans/digtrans/6
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2025/digitrans/digtrans/6>

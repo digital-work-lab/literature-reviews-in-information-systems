@@ -1,11 +1,12 @@
 ---
 title: "Cyberbullying on social networking sites - A literature review and future research directions"
 author:
-- Chan, Tommy K. H.
-- Cheung, Christy M. K.
-- Lee, Zach W. Y.
+  - Chan, Tommy K. H.
+  - Cheung, Christy M. K.
+  - Lee, Zach W. Y.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.1016/J.IM.2020.103411"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720620303499"
@@ -14,6 +15,13 @@ journal:
 cited_by: 129
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chan, T. K. H., Cheung, C. M. K., & Lee, Z. W. Y. (2021). Cyberbullying on social networking sites - A literature review and future research directions. Information & Management, 58(2). https://doi.org/10.1016/J.IM.2020.103411.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Chan, Tommy K. H.
 AU  - Cheung, Christy M. K.
@@ -46,6 +54,7 @@ DO  - 10.1016/J.IM.2020.103411
 UR  - https://www.sciencedirect.com/science/article/pii/S0378720620303499
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2020.103411>

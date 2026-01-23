@@ -1,11 +1,12 @@
 ---
 title: "Unethical Gamification: A Literature Review"
 author:
-- Al‐Msallam, Samaan
-- Xi, Nannan
-- Hamari, Juho
+  - Al‐Msallam, Samaan
+  - Xi, Nannan
+  - Hamari, Juho
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.136"
 url: "https://hdl.handle.net/10125/102766"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Al‐Msallam, S., Xi, N., & Hamari, J. (2023). Unethical Gamification: A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.136.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Al‐Msallam, Samaan
 AU  - Xi, Nannan
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2023.136
 UR  - https://hdl.handle.net/10125/102766
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.136>

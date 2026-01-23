@@ -1,10 +1,11 @@
 ---
 title: "A Research Review on Building Information Modeling in Construction―An Area Ripe for IS Research"
 author:
-- Merschbrock, Christoph
-- Munkvold, Bjørn Erik
+  - Merschbrock, Christoph
+  - Munkvold, Bjørn Erik
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2012"
 doi: "https://doi.org/10.17705/1CAIS.03110"
 url: "https://aisel.aisnet.org/cais/vol31/iss1/10"
@@ -13,6 +14,13 @@ journal:
 cited_by: 20
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Merschbrock, C., & Munkvold, B. E. (2012). A Research Review on Building Information Modeling in Construction―An Area Ripe for IS Research. Communications of the Association for Information Systems, 31. https://doi.org/10.17705/1CAIS.03110.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Merschbrock, Christoph
 AU  - Munkvold, Bjørn Erik
@@ -45,6 +53,7 @@ DO  - 10.17705/1CAIS.03110
 UR  - https://aisel.aisnet.org/cais/vol31/iss1/10
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03110>

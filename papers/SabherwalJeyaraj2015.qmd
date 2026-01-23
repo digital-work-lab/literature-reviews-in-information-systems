@@ -1,10 +1,11 @@
 ---
 title: "Information Technology Impacts on Firm Performance - An Extension of Kohli and Devaraj (2003)"
 author:
-- Sabherwal, Rajiv
-- Jeyaraj, Anand
+  - Sabherwal, Rajiv
+  - Jeyaraj, Anand
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.25300/MISQ/2015/39.4.4"
 url: "https://misq.umn.edu/information-technology-impacts-on-firm-performance-an-extension-of-kohli-and-devaraj-2003.html"
@@ -13,6 +14,13 @@ journal:
 cited_by: 156
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Sabherwal, R., & Jeyaraj, A. (2015). Information Technology Impacts on Firm Performance - An Extension of Kohli and Devaraj (2003). MIS Quarterly, 39(4), 809–836. https://doi.org/10.25300/MISQ/2015/39.4.4.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Sabherwal, Rajiv
 AU  - Jeyaraj, Anand
@@ -49,6 +57,7 @@ DO  - 10.25300/MISQ/2015/39.4.4
 UR  - https://misq.umn.edu/information-technology-impacts-on-firm-performance-an-extension-of-kohli-and-devaraj-2003.html
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.25300/MISQ/2015/39.4.4>

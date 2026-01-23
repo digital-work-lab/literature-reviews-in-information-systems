@@ -1,12 +1,13 @@
 ---
 title: "Examining the Differential Effectiveness of Fear Appeals in Information Security Management Using Two-Stage Meta-Analysis"
 author:
-- Lowry, Paul Benjamin
-- Moody, Gregory D.
-- Parameswaran, Srikanth
-- Brown, Nicholas James
+  - Lowry, Paul Benjamin
+  - Moody, Gregory D.
+  - Parameswaran, Srikanth
+  - Brown, Nicholas James
 topic: ""
-categories: ['meta-analysis']
+categories:
+  - meta-analysis
 date: "2023"
 doi: "https://doi.org/10.1080/07421222.2023.2267318"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 18
 outlet: "Journal of Management Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lowry, P. B., Moody, G. D., Parameswaran, S., & Brown, N. J. (2023). Examining the Differential Effectiveness of Fear Appeals in Information Security Management Using Two-Stage Meta-Analysis. Journal of Management Information Systems, 40(4), 1099–1138. https://doi.org/10.1080/07421222.2023.2267318.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Journal of Management Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Lowry, Paul Benjamin
 AU  - Moody, Gregory D.
@@ -49,6 +57,7 @@ EP  - 1138
 DO  - 10.1080/07421222.2023.2267318
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/07421222.2023.2267318>

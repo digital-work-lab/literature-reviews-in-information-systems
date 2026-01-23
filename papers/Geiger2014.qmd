@@ -1,10 +1,11 @@
 ---
 title: "Personalized task recommendation in crowdsourcing information systems — Current state of the art"
 author:
-- Geiger, David
-- Schader, Martin
-topic: ""
-categories: ['narrative-review']
+  - Geiger, David
+  - Schader, Martin
+topic: "Other Domain"
+categories:
+  - narrative-review
 date: "2014"
 doi: "https://doi.org/10.1016/J.DSS.2014.05.007"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 169
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Geiger, D., & Schader, M. (2014). Personalized task recommendation in crowdsourcing information systems — Current state of the art. Decision Support Systems, 65(no issue), 3–16. https://doi.org/10.1016/J.DSS.2014.05.007.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Geiger, David
 AU  - Schader, Martin
@@ -45,6 +53,7 @@ EP  - 16
 DO  - 10.1016/J.DSS.2014.05.007
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2014.05.007>

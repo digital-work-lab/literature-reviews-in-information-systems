@@ -1,9 +1,10 @@
 ---
 title: "Schools of Thought in Research into End-User Computing Success"
 author:
-- Harris, Roger W.
-topic: ""
-categories: ['theoretical-review']
+  - Harris, Roger W.
+topic: "Other Domain"
+categories:
+  - theoretical-review
 date: "2000"
 doi: "https://doi.org/10.4018/JOEUC.2000010103"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 4
 outlet: "Journal of Organizational and End User Computing"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Harris, R. W. (2000). Schools of Thought in Research into End-User Computing Success. Journal of Organizational and End User Computing, 12(1), 24–34. https://doi.org/10.4018/JOEUC.2000010103.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of Organizational and End User Computing"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Harris, Roger W.
 TI  - Schools of Thought in Research into End-User Computing Success
@@ -44,6 +52,7 @@ EP  - 34
 DO  - 10.4018/JOEUC.2000010103
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.4018/JOEUC.2000010103>

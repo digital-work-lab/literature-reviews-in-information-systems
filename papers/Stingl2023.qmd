@@ -1,9 +1,10 @@
 ---
 title: "Using Digital Performance Feedback for Behavior Change: A Literature Review"
 author:
-- Stingl, Carlo
+  - Stingl, Carlo
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2023/meta_res/meta_res/5"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Stingl, C. (2023). Using Digital Performance Feedback for Behavior Change: A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2023/meta_res/meta_res/5.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Stingl, Carlo
 TI  - Using Digital Performance Feedback for Behavior Change: A Literature Review
@@ -39,6 +47,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/amcis2023/meta_res/meta_res/5
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2023/meta_res/meta_res/5>

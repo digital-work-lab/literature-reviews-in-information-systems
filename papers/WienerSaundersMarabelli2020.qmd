@@ -1,11 +1,12 @@
 ---
 title: "Big-data business models: A critical literature review and multiperspective research framework"
 author:
-- Wiener, Martin
-- Saunders, Carol
-- Marabelli, Marco
+  - Wiener, Martin
+  - Saunders, Carol
+  - Marabelli, Marco
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.1177/0268396219896811"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 123
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wiener, M., Saunders, C., & Marabelli, M. (2020). Big-data business models: A critical literature review and multiperspective research framework. Journal of Information Technology, 35(1). https://doi.org/10.1177/0268396219896811.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wiener, Martin
 AU  - Saunders, Carol
@@ -46,6 +54,7 @@ IS  - 1
 DO  - 10.1177/0268396219896811
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1177/0268396219896811>

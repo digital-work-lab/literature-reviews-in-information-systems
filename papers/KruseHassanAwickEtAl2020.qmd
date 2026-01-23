@@ -1,12 +1,13 @@
 ---
 title: "A Qualitative Literature Review on Linkage Techniques for Data Integration"
 author:
-- Kruse, Felix
-- Hassan, Ahmad Pajam
-- Awick, Jan-Philipp
-- Marx Gómez, Jorge
+  - Kruse, Felix
+  - Hassan, Ahmad Pajam
+  - Awick, Jan-Philipp
+  - Marx Gómez, Jorge
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.132"
 url: "http://hdl.handle.net/10125/63871"
@@ -15,6 +16,13 @@ journal:
 cited_by: 7
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kruse, F., Hassan, A. P., Awick, J.-P., & Marx Gómez, J. (2020). A Qualitative Literature Review on Linkage Techniques for Data Integration. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.132.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kruse, Felix
 AU  - Hassan, Ahmad Pajam
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2020.132
 UR  - http://hdl.handle.net/10125/63871
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.132>

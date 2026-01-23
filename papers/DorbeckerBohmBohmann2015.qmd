@@ -1,11 +1,12 @@
 ---
 title: "Measuring Modularity and Related Effects for Services, Products, Networks, and Software -- A Comparative Literature Review and a Research Agenda for Service Modularity"
 author:
-- Dörbecker, Regine
-- Böhm, Daniela
-- Böhmann, Tilo
+  - Dörbecker, Regine
+  - Böhm, Daniela
+  - Böhmann, Tilo
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.1109/HICSS.2015.167"
 url: "https://ieeexplore.ieee.org/document/7069975/"
@@ -14,6 +15,13 @@ journal:
 cited_by: 8
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Dörbecker, R., Böhm, D., & Böhmann, T. (2015). Measuring Modularity and Related Effects for Services, Products, Networks, and Software -- A Comparative Literature Review and a Research Agenda for Service Modularity. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2015.167.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Dörbecker, Regine
 AU  - Böhm, Daniela
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2015.167
 UR  - https://ieeexplore.ieee.org/document/7069975/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2015.167>

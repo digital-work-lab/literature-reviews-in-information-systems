@@ -1,12 +1,13 @@
 ---
 title: "A Theoretical Review on AI Affordances for Sustainability"
 author:
-- Natarajan, Harish Karthi
-- de Paula, Danielly F. O.
-- Dremel, Christian
-- Uebernickel, Falk
+  - Natarajan, Harish Karthi
+  - de Paula, Danielly F. O.
+  - Dremel, Christian
+  - Uebernickel, Falk
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2022/sig_green/sig_green/13"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Natarajan, H. K., de Paula, D. F. O., Dremel, C., & Uebernickel, F. (2022). A Theoretical Review on AI Affordances for Sustainability. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2022/sig_green/sig_green/13.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Natarajan, Harish Karthi
 AU  - de Paula, Danielly F. O.
@@ -45,6 +53,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/amcis2022/sig_green/sig_green/13
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2022/sig_green/sig_green/13>

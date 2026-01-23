@@ -1,11 +1,12 @@
 ---
 title: "Alignment's nomological network - Theory and evaluation"
 author:
-- Gerow, Jennifer E.
-- Grover, Varun
-- Thatcher, Jason Bennett
+  - Gerow, Jennifer E.
+  - Grover, Varun
+  - Thatcher, Jason Bennett
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1016/J.IM.2015.12.006"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720615001457"
@@ -14,6 +15,13 @@ journal:
 cited_by: 27
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gerow, J. E., Grover, V., & Thatcher, J. B. (2016). Alignment's nomological network - Theory and evaluation. Information & Management, 53(5), 541–553. https://doi.org/10.1016/J.IM.2015.12.006.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Gerow, Jennifer E.
 AU  - Grover, Varun
@@ -51,6 +59,7 @@ DO  - 10.1016/J.IM.2015.12.006
 UR  - https://www.sciencedirect.com/science/article/pii/S0378720615001457
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2015.12.006>

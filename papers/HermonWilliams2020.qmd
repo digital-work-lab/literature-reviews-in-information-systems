@@ -1,10 +1,11 @@
 ---
 title: "Points of Failure - A Systematic Review of information-flow using Medication Use Cases"
 author:
-- Hermon, Rebecca
-- Williams, Patricia A. H.
+  - Hermon, Rebecca
+  - Williams, Patricia A. H.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.472"
 url: "http://hdl.handle.net/10125/64214"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hermon, R., & Williams, P. A. H. (2020). Points of Failure - A Systematic Review of information-flow using Medication Use Cases. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.472.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hermon, Rebecca
 AU  - Williams, Patricia A. H.
@@ -42,6 +50,7 @@ DO  - 10.24251/HICSS.2020.472
 UR  - http://hdl.handle.net/10125/64214
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.472>

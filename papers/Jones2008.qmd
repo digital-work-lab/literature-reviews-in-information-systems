@@ -1,10 +1,11 @@
 ---
 title: "Giddens's Structuration Theory and Information Systems Research"
 author:
-- Jones
-- Karsten
-topic: ""
-categories: ['critical-review']
+  - Jones
+  - Karsten
+topic: "Other Domain"
+categories:
+  - critical-review
 date: "2008"
 doi: "https://doi.org/10.2307/25148831"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 394
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Jones, & Karsten (2008). Giddens's Structuration Theory and Information Systems Research. MIS Quarterly, 32(1), 127. https://doi.org/10.2307/25148831.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Jones
 AU  - Karsten
@@ -44,6 +52,7 @@ SP  - 127
 DO  - 10.2307/25148831
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/25148831>

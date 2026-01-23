@@ -1,11 +1,12 @@
 ---
 title: "Learning-by-Teaching in CS Education: A Systematic Review"
 author:
-- Li, Yi Joy
-- Li, Zhigang
-- Zhang, Chi
+  - Li, Yi Joy
+  - Li, Zhigang
+  - Zhang, Chi
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.120"
 url: "http://hdl.handle.net/10125/79451"
@@ -14,6 +15,13 @@ journal:
 cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Li, Y. J., Li, Z., & Zhang, C. (2022). Learning-by-Teaching in CS Education: A Systematic Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.120.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Li, Yi Joy
 AU  - Li, Zhigang
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2022.120
 UR  - http://hdl.handle.net/10125/79451
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.120>

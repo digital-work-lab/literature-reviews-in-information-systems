@@ -1,9 +1,10 @@
 ---
 title: "Emergence Antecedents of Enterprise Social Media Networks: A Literature Review and Directions for Future Research"
 author:
-- Schötteler, Sebastian
+  - Schötteler, Sebastian
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rip/53"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schötteler, S. (2022). Emergence Antecedents of Enterprise Social Media Networks: A Literature Review and Directions for Future Research. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rip/53.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schötteler, Sebastian
 TI  - Emergence Antecedents of Enterprise Social Media Networks: A Literature Review and Directions for Future Research
@@ -38,6 +46,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rip/53
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rip/53>

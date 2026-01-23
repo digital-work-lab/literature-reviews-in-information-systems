@@ -1,12 +1,14 @@
 ---
 title: "Research Commentary —The Digital Transformation of Healthcare: Current Status and the Road Ahead"
 author:
-- Agarwal, Ritu
-- Gao, Guodong (Gordon)
-- DesRoches, Catherine
-- Jha, Ashish K.
-topic: ""
-categories: ['scoping-review', 'highly-cited']
+  - Agarwal, Ritu
+  - Gao, Guodong (Gordon)
+  - DesRoches, Catherine
+  - Jha, Ashish K.
+topic: "Other Domain"
+categories:
+  - scoping-review
+  - highly-cited
 date: "2010"
 doi: "https://doi.org/10.1287/ISRE.1100.0327"
 url: ""
@@ -15,6 +17,13 @@ journal:
 cited_by: 782
 outlet: "Information Systems Research"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Agarwal, R., Gao, G. (., DesRoches, C., & Jha, A. K. (2010). Research Commentary —The Digital Transformation of Healthcare: Current Status and the Road Ahead. Information Systems Research, 21(4), 796–809. https://doi.org/10.1287/ISRE.1100.0327.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +43,7 @@ outlet: "Information Systems Research"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Agarwal, Ritu
 AU  - Gao, Guodong (Gordon)
@@ -50,6 +59,7 @@ EP  - 809
 DO  - 10.1287/ISRE.1100.0327
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1287/ISRE.1100.0327>

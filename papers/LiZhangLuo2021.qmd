@@ -1,11 +1,12 @@
 ---
 title: "Using Mixed Reality in K-12 Education - A Literature Review"
 author:
-- Li, Yi
-- Zhang, Chi
-- Luo, Hao Irene
+  - Li, Yi
+  - Zhang, Chi
+  - Luo, Hao Irene
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2021/sig_hci/sig_hci/22"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Li, Y., Zhang, C., & Luo, H. I. (2021). Using Mixed Reality in K-12 Education - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2021/sig_hci/sig_hci/22.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Li, Yi
 AU  - Zhang, Chi
@@ -40,6 +48,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/amcis2021/sig_hci/sig_hci/22
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2021/sig_hci/sig_hci/22>

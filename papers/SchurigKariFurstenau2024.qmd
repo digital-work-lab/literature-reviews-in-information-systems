@@ -1,11 +1,12 @@
 ---
 title: "The symphony of orchestrated participatory data space governance: a systematic review"
 author:
-- Schurig, Tim
-- Kari, Arthur
-- Fürstenau, Daniel
+  - Schurig, Tim
+  - Kari, Arthur
+  - Fürstenau, Daniel
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schurig, T., Kari, A., & Fürstenau, D. (2024). The symphony of orchestrated participatory data space governance: a systematic review. In European Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schurig, Tim
 AU  - Kari, Arthur

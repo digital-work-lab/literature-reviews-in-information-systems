@@ -1,12 +1,13 @@
 ---
 title: "The Ongoing Quest for the it Artifact: Looking Back, Moving Forward"
 author:
-- Akhlaghpour, Saeed
-- Wu, Jing
-- Lapointe, Liette
-- Pinsonneault, Alain
-topic: ""
-categories: ['descriptive-review']
+  - Akhlaghpour, Saeed
+  - Wu, Jing
+  - Lapointe, Liette
+  - Pinsonneault, Alain
+topic: "Other Domain"
+categories:
+  - descriptive-review
 date: "2013"
 doi: "https://doi.org/10.1057/JIT.2013.10"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 45
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Akhlaghpour, S., Wu, J., Lapointe, L., & Pinsonneault, A. (2013). The Ongoing Quest for the it Artifact: Looking Back, Moving Forward. Journal of Information Technology, 28(2), 150–166. https://doi.org/10.1057/JIT.2013.10.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Akhlaghpour, Saeed
 AU  - Wu, Jing
@@ -50,6 +58,7 @@ EP  - 166
 DO  - 10.1057/JIT.2013.10
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/JIT.2013.10>

@@ -1,9 +1,10 @@
 ---
 title: "Transdisciplinary Perspectives on Environmental Sustainability: A Resource Base and Framework for IT-Enabled Business Transformation"
 author:
-- Elliot
-topic: ""
-categories: ['theoretical-review']
+  - Elliot
+topic: "Other Domain"
+categories:
+  - theoretical-review
 date: "2011"
 doi: "https://doi.org/10.2307/23043495"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 304
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Elliot (2011). Transdisciplinary Perspectives on Environmental Sustainability: A Resource Base and Framework for IT-Enabled Business Transformation. MIS Quarterly, 35(1), 197. https://doi.org/10.2307/23043495.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Elliot
 TI  - Transdisciplinary Perspectives on Environmental Sustainability: A Resource Base and Framework for IT-Enabled Business Transformation
@@ -42,6 +50,7 @@ SP  - 197
 DO  - 10.2307/23043495
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/23043495>

@@ -1,11 +1,12 @@
 ---
 title: "Research Commentary—Information Transparency in Business-to-Consumer Markets: Concepts, Framework, and Research Agenda"
 author:
-- Granados, Nelson
-- Gupta, Alok
-- Kauffman, Robert J.
-topic: ""
-categories: ['scoping-review']
+  - Granados, Nelson
+  - Gupta, Alok
+  - Kauffman, Robert J.
+topic: "E-Commerce"
+categories:
+  - scoping-review
 date: "2010"
 doi: "https://doi.org/10.1287/ISRE.1090.0249"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 146
 outlet: "Information Systems Research"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Granados, N., Gupta, A., & Kauffman, R. J. (2010). Research Commentary—Information Transparency in Business-to-Consumer Markets: Concepts, Framework, and Research Agenda. Information Systems Research, 21(2), 207–226. https://doi.org/10.1287/ISRE.1090.0249.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Information Systems Research"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Granados, Nelson
 AU  - Gupta, Alok
@@ -48,6 +56,7 @@ EP  - 226
 DO  - 10.1287/ISRE.1090.0249
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1287/ISRE.1090.0249>

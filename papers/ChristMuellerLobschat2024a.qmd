@@ -1,11 +1,12 @@
 ---
 title: "Corporate Digital Responsibility (CDR): Achieving Synthesized Coherence with CSR Learnings on Corporate Governance Literature Review"
 author:
-- Christ, Anna-Sophia
-- Mueller, Benjamin
-- Lobschat, Lara
+  - Christ, Anna-Sophia
+  - Mueller, Benjamin
+  - Lobschat, Lara
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/icis2024/lit_review/lit_review/6"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Christ, A.-S., Mueller, B., & Lobschat, L. (2024). Corporate Digital Responsibility (CDR): Achieving Synthesized Coherence with CSR Learnings on Corporate Governance Literature Review. In International Conference on Information Systems. https://aisel.aisnet.org/icis2024/lit_review/lit_review/6.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Christ, Anna-Sophia
 AU  - Mueller, Benjamin
@@ -41,6 +49,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/icis2024/lit_review/lit_review/6
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2024/lit_review/lit_review/6>

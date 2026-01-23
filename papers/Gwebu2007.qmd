@@ -1,11 +1,12 @@
 ---
 title: "A Conceptual Framework for Understanding Trust Building and Maintenance in Virtual Organizations"
 author:
-- Gwebu, Kholekile L.
-- Wang, Jing
-- Troutt, Marvin D.
-topic: ""
-categories: ['theoretical-review']
+  - Gwebu, Kholekile L.
+  - Wang, Jing
+  - Troutt, Marvin D.
+topic: "Virtual Teams"
+categories:
+  - theoretical-review
 date: "2007"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Journal of Information Technology Theory and Application"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gwebu, K. L., Wang, J., & Troutt, M. D. (2007). A Conceptual Framework for Understanding Trust Building and Maintenance in Virtual Organizations. Journal of Information Technology Theory and Application, 9(1), 43–63.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of Information Technology Theory and Application"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Gwebu, Kholekile L.
 AU  - Wang, Jing

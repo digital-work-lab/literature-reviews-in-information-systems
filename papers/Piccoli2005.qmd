@@ -1,10 +1,11 @@
 ---
 title: "Review: IT-Dependent Strategic Initiatives and Sustained Competitive Advantage: A Review and Synthesis of the Literature"
 author:
-- Piccoli
-- Ives
-topic: ""
-categories: ['theoretical-review']
+  - Piccoli
+  - Ives
+topic: "IS Value"
+categories:
+  - theoretical-review
 date: "2005"
 doi: "https://doi.org/10.2307/25148708"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 372
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Piccoli, & Ives (2005). Review: IT-Dependent Strategic Initiatives and Sustained Competitive Advantage: A Review and Synthesis of the Literature. MIS Quarterly, 29(4), 747. https://doi.org/10.2307/25148708.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Piccoli
 AU  - Ives
@@ -44,6 +52,7 @@ SP  - 747
 DO  - 10.2307/25148708
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/25148708>

@@ -1,10 +1,11 @@
 ---
 title: "Variability Support in Architecture Knowledge Management Approaches - A Systematic Literature Review"
 author:
-- Groher, Iris
-- Weinreich, Rainer
+  - Groher, Iris
+  - Weinreich, Rainer
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.1109/HICSS.2015.634"
 url: "https://ieeexplore.ieee.org/document/7070463"
@@ -13,6 +14,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Groher, I., & Weinreich, R. (2015). Variability Support in Architecture Knowledge Management Approaches - A Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2015.634.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Groher, Iris
 AU  - Weinreich, Rainer
@@ -40,6 +48,7 @@ DO  - 10.1109/HICSS.2015.634
 UR  - https://ieeexplore.ieee.org/document/7070463
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2015.634>

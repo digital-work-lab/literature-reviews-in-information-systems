@@ -1,9 +1,10 @@
 ---
 title: "Generative AI: A Literature Review on Business Value"
 author:
-- Gabriel, Victoria Sofia Santos
+  - Gabriel, Victoria Sofia Santos
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2024/ai_aa/ai_aa/27"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gabriel, V. S. S. (2024). Generative AI: A Literature Review on Business Value. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2024/ai_aa/ai_aa/27.
+:::
 
 ## Citation: BibTeX
 
@@ -27,7 +35,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Gabriel, Victoria Sofia Santos
 TI  - Generative AI: A Literature Review on Business Value
@@ -36,6 +44,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/amcis2024/ai_aa/ai_aa/27
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2024/ai_aa/ai_aa/27>

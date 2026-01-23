@@ -1,11 +1,12 @@
 ---
 title: "A Taxonomy of Information System Projects' Knowledge-sharing Mechanisms"
 author:
-- Fteimi, Nora
-- Cai, Jianxiao
-- Basten, Dirk
+  - Fteimi, Nora
+  - Cai, Jianxiao
+  - Basten, Dirk
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: "https://doi.org/10.17705/1CAIS.04126"
 url: "https://aisel.aisnet.org/cais/vol41/iss1/26"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Fteimi, N., Cai, J., & Basten, D. (2017). A Taxonomy of Information System Projects' Knowledge-sharing Mechanisms. Communications of the Association for Information Systems, 41, 611–638. https://doi.org/10.17705/1CAIS.04126.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Fteimi, Nora
 AU  - Cai, Jianxiao
@@ -50,6 +58,7 @@ DO  - 10.17705/1CAIS.04126
 UR  - https://aisel.aisnet.org/cais/vol41/iss1/26
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.04126>

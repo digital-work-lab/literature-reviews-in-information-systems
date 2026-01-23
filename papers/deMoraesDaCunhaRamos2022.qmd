@@ -1,11 +1,12 @@
 ---
 title: "Designing digital workplaces for employee engagement: Practical guidelines from a systematic literature review"
 author:
-- de Moraes, Caroline Relva
-- Da Cunha, Paulo
-- Ramos, Isabel
+  - de Moraes, Caroline Relva
+  - Da Cunha, Paulo
+  - Ramos, Isabel
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.769"
 url: "http://hdl.handle.net/10125/80109"
@@ -14,6 +15,13 @@ journal:
 cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+de Moraes, C. R., Da Cunha, P., & Ramos, I. (2022). Designing digital workplaces for employee engagement: Practical guidelines from a systematic literature review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.769.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - de Moraes, Caroline Relva
 AU  - Da Cunha, Paulo
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2022.769
 UR  - http://hdl.handle.net/10125/80109
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.769>

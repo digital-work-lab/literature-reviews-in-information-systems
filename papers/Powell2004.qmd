@@ -1,11 +1,13 @@
 ---
 title: "Virtual teams"
 author:
-- Powell, Anne
-- Piccoli, Gabriele
-- Ives, Blake
-topic: ""
-categories: ['scoping-review', 'highly-cited']
+  - Powell, Anne
+  - Piccoli, Gabriele
+  - Ives, Blake
+topic: "Virtual Teams"
+categories:
+  - scoping-review
+  - highly-cited
 date: "2004"
 doi: "https://doi.org/10.1145/968464.968467"
 url: ""
@@ -14,6 +16,13 @@ journal:
 cited_by: 758
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Powell, A., Piccoli, G., & Ives, B. (2004). Virtual teams. ACM SIGMIS Database: the DATABASE for Advances in Information Systems, 35(1), 6–36. https://doi.org/10.1145/968464.968467.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +42,7 @@ outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Powell, Anne
 AU  - Piccoli, Gabriele
@@ -48,6 +57,7 @@ EP  - 36
 DO  - 10.1145/968464.968467
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1145/968464.968467>

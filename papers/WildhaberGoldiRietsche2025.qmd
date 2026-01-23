@@ -1,11 +1,12 @@
 ---
 title: "Search-augmented Large Language Models: Transforming Internet Search - a Systematic Literature Review"
 author:
-- Wildhaber, Basil
-- Göldi, Andreas
-- Rietsche, Roman
+  - Wildhaber, Basil
+  - Göldi, Andreas
+  - Rietsche, Roman
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2025/hci/hci/4"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wildhaber, B., Göldi, A., & Rietsche, R. (2025). Search-augmented Large Language Models: Transforming Internet Search - a Systematic Literature Review. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2025/hci/hci/4.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wildhaber, Basil
 AU  - Göldi, Andreas
@@ -40,6 +48,7 @@ PY  - 2025
 UR  - https://aisel.aisnet.org/ecis2025/hci/hci/4
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2025/hci/hci/4>

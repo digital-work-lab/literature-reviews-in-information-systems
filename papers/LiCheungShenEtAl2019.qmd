@@ -1,12 +1,13 @@
 ---
 title: "Health Misinformation on Social Media - A Literature Review"
 author:
-- Li, Yangjun
-- Cheung, Christy M. K.
-- Shen, Xiao-Liang
-- Lee, Matthew K. O.
+  - Li, Yangjun
+  - Cheung, Christy M. K.
+  - Shen, Xiao-Liang
+  - Lee, Matthew K. O.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2019/194"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Li, Y., Cheung, C. M. K., Shen, X.-L., & Lee, M. K. O. (2019). Health Misinformation on Social Media - A Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2019/194.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Li, Yangjun
 AU  - Cheung, Christy M. K.
@@ -42,6 +50,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/pacis2019/194
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2019/194>

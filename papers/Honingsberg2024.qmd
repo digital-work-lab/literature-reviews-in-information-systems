@@ -1,9 +1,10 @@
 ---
 title: "Going beyond tracking: understanding the fitness technology use persistence"
 author:
-- Höningsberg, Sarah
+  - Höningsberg, Sarah
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Höningsberg, S. (2024). Going beyond tracking: understanding the fitness technology use persistence. In European Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -27,7 +35,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Höningsberg, Sarah
 TI  - Going beyond tracking: understanding the fitness technology use persistence

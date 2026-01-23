@@ -1,9 +1,10 @@
 ---
 title: "What Makes Consumer Perception of Online Review Helpfulness - Synthesizing the Past to Guide Future Research"
 author:
-- Fan, Wenjie
+  - Fan, Wenjie
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.334"
 url: "https://hdl.handle.net/10125/70948"
@@ -12,6 +13,13 @@ journal:
 cited_by: 3
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Fan, W. (2021). What Makes Consumer Perception of Online Review Helpfulness - Synthesizing the Past to Guide Future Research. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.334.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Fan, Wenjie
 TI  - What Makes Consumer Perception of Online Review Helpfulness - Synthesizing the Past to Guide Future Research
@@ -40,6 +48,7 @@ DO  - 10.24251/HICSS.2021.334
 UR  - https://hdl.handle.net/10125/70948
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.334>

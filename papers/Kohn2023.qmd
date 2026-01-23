@@ -1,9 +1,10 @@
 ---
 title: "Operationalizing Digital Resilience – A Systematic Literature Review on Opportunities and Challenges"
 author:
-- Kohn, Vanessa
+  - Kohn, Vanessa
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.778"
 url: "https://hdl.handle.net/10125/103412"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kohn, V. (2023). Operationalizing Digital Resilience – A Systematic Literature Review on Opportunities and Challenges. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.778.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kohn, Vanessa
 TI  - Operationalizing Digital Resilience – A Systematic Literature Review on Opportunities and Challenges
@@ -41,6 +49,7 @@ DO  - 10.24251/HICSS.2023.778
 UR  - https://hdl.handle.net/10125/103412
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.778>

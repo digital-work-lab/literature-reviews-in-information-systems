@@ -1,10 +1,11 @@
 ---
 title: "Open-Source Development Tools for Domain-Specific Modeling - Results from a Systematic Literature Review"
 author:
-- Hoisl, Bernhard
-- Sobernig, Stefan
+  - Hoisl, Bernhard
+  - Sobernig, Stefan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1109/HICSS.2016.620"
 url: "https://ieeexplore.ieee.org/document/7427807"
@@ -13,6 +14,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hoisl, B., & Sobernig, S. (2016). Open-Source Development Tools for Domain-Specific Modeling - Results from a Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2016.620.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hoisl, Bernhard
 AU  - Sobernig, Stefan
@@ -40,6 +48,7 @@ DO  - 10.1109/HICSS.2016.620
 UR  - https://ieeexplore.ieee.org/document/7427807
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2016.620>

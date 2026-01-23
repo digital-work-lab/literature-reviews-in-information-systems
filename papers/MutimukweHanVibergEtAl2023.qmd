@@ -1,12 +1,13 @@
 ---
 title: "Privacy as Contextual Integrity in Online Proctoring Systems in Higher Education: A Scoping Review"
 author:
-- Mutimukwe, Chantal
-- Han, Shengnan
-- Viberg, Olga
-- Cerratto-Pargman, Teresa
+  - Mutimukwe, Chantal
+  - Han, Shengnan
+  - Viberg, Olga
+  - Cerratto-Pargman, Teresa
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.010"
 url: "https://hdl.handle.net/10125/102638"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Mutimukwe, C., Han, S., Viberg, O., & Cerratto-Pargman, T. (2023). Privacy as Contextual Integrity in Online Proctoring Systems in Higher Education: A Scoping Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.010.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Mutimukwe, Chantal
 AU  - Han, Shengnan
@@ -47,6 +55,7 @@ DO  - 10.24251/HICSS.2023.010
 UR  - https://hdl.handle.net/10125/102638
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.010>

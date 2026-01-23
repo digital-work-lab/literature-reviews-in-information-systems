@@ -1,10 +1,11 @@
 ---
 title: "A Research Framework for the Impact of Cultural Differences on IT Outsourcing"
 author:
-- Gurung, Anil
-- Prater, Edmund
-topic: ""
-categories: ['theoretical-review']
+  - Gurung, Anil
+  - Prater, Edmund
+topic: "Outsourcing"
+categories:
+  - theoretical-review
 date: "2006"
 doi: "https://doi.org/10.1080/1097198X.2006.10856413"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 53
 outlet: "Journal of Global Information Technology Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gurung, A., & Prater, E. (2006). A Research Framework for the Impact of Cultural Differences on IT Outsourcing. Journal of Global Information Technology Management, 9(1), 24–43. https://doi.org/10.1080/1097198X.2006.10856413.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of Global Information Technology Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Gurung, Anil
 AU  - Prater, Edmund
@@ -45,6 +53,7 @@ EP  - 43
 DO  - 10.1080/1097198X.2006.10856413
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/1097198X.2006.10856413>

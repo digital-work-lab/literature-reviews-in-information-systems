@@ -1,10 +1,12 @@
 ---
 title: "The DeLone and McLean Model of Information Systems Success: A Ten-Year Update"
 author:
-- DeLone, William H.
-- McLean, Ephraim R.
-topic: ""
-categories: ['theoretical-review', 'highly-cited']
+  - DeLone, William H.
+  - McLean, Ephraim R.
+topic: "Other Domain"
+categories:
+  - theoretical-review
+  - highly-cited
 date: "2003"
 doi: "https://doi.org/10.1080/07421222.2003.11045748"
 url: ""
@@ -13,6 +15,13 @@ journal:
 cited_by: 6275
 outlet: "Journal of Management Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+DeLone, W. H., & McLean, E. R. (2003). The DeLone and McLean Model of Information Systems Success: A Ten-Year Update. Journal of Management Information Systems, 19(4), 9–30. https://doi.org/10.1080/07421222.2003.11045748.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +40,7 @@ outlet: "Journal of Management Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - DeLone, William H.
 AU  - McLean, Ephraim R.
@@ -45,6 +54,7 @@ EP  - 30
 DO  - 10.1080/07421222.2003.11045748
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/07421222.2003.11045748>

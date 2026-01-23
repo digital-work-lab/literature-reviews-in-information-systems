@@ -1,12 +1,13 @@
 ---
 title: "Two decades of research on business intelligence system adoption, utilization and success – A systematic literature review"
 author:
-- Ain, NoorUl
-- Vaia, Giovanni
-- DeLone, William H.
-- Waheed, Mehwish
+  - Ain, NoorUl
+  - Vaia, Giovanni
+  - DeLone, William H.
+  - Waheed, Mehwish
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.1016/J.DSS.2019.113113"
 url: "https://www.sciencedirect.com/science/article/pii/S0167923619301423"
@@ -15,6 +16,13 @@ journal:
 cited_by: 200
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ain, N., Vaia, G., DeLone, W. H., & Waheed, M. (2019). Two decades of research on business intelligence system adoption, utilization and success – A systematic literature review. Decision Support Systems, 125, 113113. https://doi.org/10.1016/J.DSS.2019.113113.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ain, NoorUl
 AU  - Vaia, Giovanni
@@ -48,6 +56,7 @@ DO  - 10.1016/J.DSS.2019.113113
 UR  - https://www.sciencedirect.com/science/article/pii/S0167923619301423
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2019.113113>

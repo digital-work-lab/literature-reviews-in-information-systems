@@ -1,12 +1,13 @@
 ---
 title: "Enabling Innovation Champions in Organizations - Results of a Systematic Literature Analysis"
 author:
-- Reibenspiess, Victoria
-- Drechsler, Katharina
-- Eckhardt, Andreas
-- Wagner, Heinz-Theo
+  - Reibenspiess, Victoria
+  - Drechsler, Katharina
+  - Eckhardt, Andreas
+  - Wagner, Heinz-Theo
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.24251/HICSS.2018.523"
 url: "http://hdl.handle.net/10125/50412"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Reibenspiess, V., Drechsler, K., Eckhardt, A., & Wagner, H.-T. (2018). Enabling Innovation Champions in Organizations - Results of a Systematic Literature Analysis. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2018.523.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Reibenspiess, Victoria
 AU  - Drechsler, Katharina
@@ -46,6 +54,7 @@ DO  - 10.24251/HICSS.2018.523
 UR  - http://hdl.handle.net/10125/50412
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2018.523>

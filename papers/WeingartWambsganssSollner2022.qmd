@@ -1,11 +1,12 @@
 ---
 title: "Unleashing the Potential of Argument Mining for IS Research: A Systematic Review and Research Agenda"
 author:
-- Weingart, Pablo
-- Wambsganss, Thiemo
-- Söllner, Matthias
+  - Weingart, Pablo
+  - Wambsganss, Thiemo
+  - Söllner, Matthias
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/icis2022/data_analytics/data_analytics/11"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Weingart, P., Wambsganss, T., & Söllner, M. (2022). Unleashing the Potential of Argument Mining for IS Research: A Systematic Review and Research Agenda. In International Conference on Information Systems. https://aisel.aisnet.org/icis2022/data_analytics/data_analytics/11.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Weingart, Pablo
 AU  - Wambsganss, Thiemo
@@ -42,6 +50,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/icis2022/data_analytics/data_analytics/11
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2022/data_analytics/data_analytics/11>

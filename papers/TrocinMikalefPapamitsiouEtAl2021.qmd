@@ -1,12 +1,13 @@
 ---
 title: "Responsible AI for Digital Health: a Synthesis and a Research Agenda"
 author:
-- Trocin, Cristina
-- Mikalef, Patrick
-- Papamitsiou, Zacharoula
-- Conboy, Kieran
+  - Trocin, Cristina
+  - Mikalef, Patrick
+  - Papamitsiou, Zacharoula
+  - Conboy, Kieran
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.1007/S10796-021-10146-4"
 url: "https://link.springer.com/article/10.1007/s10796-021-10146-4"
@@ -15,6 +16,13 @@ journal:
 cited_by: 125
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Trocin, C., Mikalef, P., Papamitsiou, Z., & Conboy, K. (2021). Responsible AI for Digital Health: a Synthesis and a Research Agenda. Information Systems Frontiers, 25(6). https://doi.org/10.1007/S10796-021-10146-4.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Trocin, Cristina
 AU  - Mikalef, Patrick
@@ -49,6 +57,7 @@ DO  - 10.1007/S10796-021-10146-4
 UR  - https://link.springer.com/article/10.1007/s10796-021-10146-4
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-021-10146-4>

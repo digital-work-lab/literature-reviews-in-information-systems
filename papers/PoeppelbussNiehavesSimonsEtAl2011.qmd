@@ -1,12 +1,13 @@
 ---
 title: "Maturity Models in Information Systems Research - Literature Search and Analysis"
 author:
-- Poeppelbuss, Jens
-- Niehaves, Björn
-- Simons, Alexander
-- Becker, Jörg
+  - Poeppelbuss, Jens
+  - Niehaves, Björn
+  - Simons, Alexander
+  - Becker, Jörg
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2011"
 doi: "https://doi.org/10.17705/1CAIS.02927"
 url: "https://aisel.aisnet.org/cais/vol29/iss1/27"
@@ -15,6 +16,13 @@ journal:
 cited_by: 64
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Poeppelbuss, J., Niehaves, B., Simons, A., & Becker, J. (2011). Maturity Models in Information Systems Research - Literature Search and Analysis. Communications of the Association for Information Systems, 29. https://doi.org/10.17705/1CAIS.02927.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Poeppelbuss, Jens
 AU  - Niehaves, Björn
@@ -49,6 +57,7 @@ DO  - 10.17705/1CAIS.02927
 UR  - https://aisel.aisnet.org/cais/vol29/iss1/27
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.02927>

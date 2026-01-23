@@ -1,12 +1,13 @@
 ---
 title: "And here, all threads run together: understanding the strategic functions of intermediaries in digital business ecosystems"
 author:
-- Heim, Sophie
-- Schindler, Rebekka
-- Ge, Tianyu
-- Wittges, Holger
+  - Heim, Sophie
+  - Schindler, Rebekka
+  - Ge, Tianyu
+  - Wittges, Holger
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2024/is_governance/track21_is_govern/2"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Heim, S., Schindler, R., Ge, T., & Wittges, H. (2024). And here, all threads run together: understanding the strategic functions of intermediaries in digital business ecosystems. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2024/is_governance/track21_is_govern/2.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Heim, Sophie
 AU  - Schindler, Rebekka
@@ -43,6 +51,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/ecis2024/is_governance/track21_is_govern/2
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2024/is_governance/track21_is_govern/2>

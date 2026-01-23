@@ -1,12 +1,13 @@
 ---
 title: "Data-driven Applications to Foster Absorptive Capacity: A Literature-based Conceptualization"
 author:
-- Hofmann, Peter
-- Stähle, Philipp
-- Buck, Christoph
-- Thorwarth, Harald
+  - Hofmann, Peter
+  - Stähle, Philipp
+  - Buck, Christoph
+  - Thorwarth, Harald
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.593"
 url: "https://hdl.handle.net/10125/71211"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hofmann, P., Stähle, P., Buck, C., & Thorwarth, H. (2021). Data-driven Applications to Foster Absorptive Capacity: A Literature-based Conceptualization. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.593.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hofmann, Peter
 AU  - Stähle, Philipp
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2021.593
 UR  - https://hdl.handle.net/10125/71211
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.593>

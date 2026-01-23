@@ -1,9 +1,10 @@
 ---
 title: "Virtual Community Studies - A Literature Review, Synthesis and Research Agenda"
 author:
-- Li, Honglei
+  - Li, Honglei
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2004"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2004/324"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Li, H. (2004). Virtual Community Studies - A Literature Review, Synthesis and Research Agenda. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2004/324.
+:::
 
 ## Citation: BibTeX
 
@@ -27,7 +35,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Li, Honglei
 TI  - Virtual Community Studies - A Literature Review, Synthesis and Research Agenda
@@ -36,6 +44,7 @@ PY  - 2004
 UR  - https://aisel.aisnet.org/amcis2004/324
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2004/324>

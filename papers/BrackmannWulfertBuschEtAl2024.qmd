@@ -1,12 +1,13 @@
 ---
 title: "The art of retail pricing: developing a taxonomy for describing pricing algorithms"
 author:
-- Brackmann, Clemens
-- Wulfert, Tobias
-- Busch, Jan
-- Schütte, Reinhard
+  - Brackmann, Clemens
+  - Wulfert, Tobias
+  - Busch, Jan
+  - Schütte, Reinhard
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2024/track04_impactai/track04_impactai/3"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Brackmann, C., Wulfert, T., Busch, J., & Schütte, R. (2024). The art of retail pricing: developing a taxonomy for describing pricing algorithms. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2024/track04_impactai/track04_impactai/3.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Brackmann, Clemens
 AU  - Wulfert, Tobias
@@ -43,6 +51,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/ecis2024/track04_impactai/track04_impactai/3
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2024/track04_impactai/track04_impactai/3>

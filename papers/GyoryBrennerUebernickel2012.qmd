@@ -1,11 +1,12 @@
 ---
 title: "Finding the Right Balanced Scorecard for Business-Driven IT Management - A Literature Review"
 author:
-- Györy, Andreas
-- Brenner, Walter
-- Uebernickel, Falk
+  - Györy, Andreas
+  - Brenner, Walter
+  - Uebernickel, Falk
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2012"
 doi: "https://doi.org/10.1109/HICSS.2012.280"
 url: "https://ieeexplore.ieee.org/document/6149502"
@@ -14,6 +15,13 @@ journal:
 cited_by: 5
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Györy, A., Brenner, W., & Uebernickel, F. (2012). Finding the Right Balanced Scorecard for Business-Driven IT Management - A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2012.280.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Györy, Andreas
 AU  - Brenner, Walter
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2012.280
 UR  - https://ieeexplore.ieee.org/document/6149502
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2012.280>

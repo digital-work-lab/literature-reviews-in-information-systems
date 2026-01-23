@@ -1,13 +1,14 @@
 ---
 title: "Integrating Brand Identity Into AI-Based Conversational Agents: A Systematic Literature Review"
 author:
-- Dittmar, Angelia
-- Reinhard, Philipp
-- Li, Mahei Manhai
-- Karst, Fabian
-- Leimeister, Jan Marco
+  - Dittmar, Angelia
+  - Reinhard, Philipp
+  - Li, Mahei Manhai
+  - Karst, Fabian
+  - Leimeister, Jan Marco
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.24251/HICSS.2025.461"
 url: ""
@@ -16,6 +17,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Dittmar, A., Reinhard, P., Li, M. M., Karst, F., & Leimeister, J. M. (2025). Integrating Brand Identity Into AI-Based Conversational Agents: A Systematic Literature Review. In Hawaii International Conference on System Sciences (pp. 1–10). https://doi.org/10.24251/HICSS.2025.461.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Dittmar, Angelia
 AU  - Reinhard, Philipp
@@ -47,6 +55,7 @@ EP  - 10
 DO  - 10.24251/HICSS.2025.461
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2025.461>

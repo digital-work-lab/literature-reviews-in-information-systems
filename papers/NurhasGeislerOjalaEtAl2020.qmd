@@ -1,12 +1,13 @@
 ---
 title: "Towards a Wellbeing-driven System Design for Intergenerational Collaborative Innovation: A Literature Review"
 author:
-- Nurhas, Irawan
-- Geisler, Stefan
-- Ojala, Arto
-- Pawlowski, Jan
+  - Nurhas, Irawan
+  - Geisler, Stefan
+  - Ojala, Arto
+  - Pawlowski, Jan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.062"
 url: "http://hdl.handle.net/10125/63801"
@@ -15,6 +16,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Nurhas, I., Geisler, S., Ojala, A., & Pawlowski, J. (2020). Towards a Wellbeing-driven System Design for Intergenerational Collaborative Innovation: A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.062.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Nurhas, Irawan
 AU  - Geisler, Stefan
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2020.062
 UR  - http://hdl.handle.net/10125/63801
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.062>

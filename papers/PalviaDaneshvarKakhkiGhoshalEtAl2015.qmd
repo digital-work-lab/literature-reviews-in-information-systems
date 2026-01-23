@@ -1,13 +1,14 @@
 ---
 title: "Methodological and Topic Trends in Information Systems Research: A Meta-Analysis of IS Journals"
 author:
-- Palvia, Prashant
-- Daneshvar Kakhki, Mohammad
-- Ghoshal, Torupallab
-- Uppala, Vishal
-- Wang, Weian
+  - Palvia, Prashant
+  - Daneshvar Kakhki, Mohammad
+  - Ghoshal, Torupallab
+  - Uppala, Vishal
+  - Wang, Weian
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.17705/1CAIS.03730"
 url: ""
@@ -16,6 +17,13 @@ journal:
 cited_by: 15
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Palvia, P., Daneshvar Kakhki, M., Ghoshal, T., Uppala, V., & Wang, W. (2015). Methodological and Topic Trends in Information Systems Research: A Meta-Analysis of IS Journals. Communications of the Association for Information Systems, 37. https://doi.org/10.17705/1CAIS.03730.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Palvia, Prashant
 AU  - Daneshvar Kakhki, Mohammad
@@ -49,6 +57,7 @@ VL  - 37
 DO  - 10.17705/1CAIS.03730
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03730>

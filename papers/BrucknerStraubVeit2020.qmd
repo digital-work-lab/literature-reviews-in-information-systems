@@ -1,11 +1,12 @@
 ---
 title: "Initial Coin Offerings, How Do Investors Decide? - A Systematic Literature Review"
 author:
-- Bruckner, Moritz Tobias
-- Straub, Adrian
-- Veit, Daniel
+  - Bruckner, Moritz Tobias
+  - Straub, Adrian
+  - Veit, Daniel
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2020/global_dev/global_dev/14"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Bruckner, M. T., Straub, A., & Veit, D. (2020). Initial Coin Offerings, How Do Investors Decide? - A Systematic Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2020/global_dev/global_dev/14.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Bruckner, Moritz Tobias
 AU  - Straub, Adrian
@@ -40,6 +48,7 @@ PY  - 2020
 UR  - https://aisel.aisnet.org/amcis2020/global_dev/global_dev/14
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2020/global_dev/global_dev/14>

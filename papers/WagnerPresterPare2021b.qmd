@@ -1,11 +1,12 @@
 ---
 title: "Exploring the boundaries and processes of digital platforms for knowledge work: A review of information systems research"
 author:
-- Wagner, Gerit
-- Prester, Julian
-- Paré, Guy
+  - Wagner, Gerit
+  - Prester, Julian
+  - Paré, Guy
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.1016/J.JSIS.2021.101694"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 39
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wagner, G., Prester, J., & Paré, G. (2021). Exploring the boundaries and processes of digital platforms for knowledge work: A review of information systems research. The Journal of Strategic Information Systems, 30(4), 101694. https://doi.org/10.1016/J.JSIS.2021.101694.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wagner, Gerit
 AU  - Prester, Julian
@@ -46,6 +54,7 @@ SP  - 101694
 DO  - 10.1016/J.JSIS.2021.101694
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2021.101694>

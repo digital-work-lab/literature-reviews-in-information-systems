@@ -1,9 +1,10 @@
 ---
 title: "Disentangling the Effect of Top Management Support and Training on Systems Implementation Success: A Meta-Analysis"
 author:
-- Hwang, Mark I.
-topic: ""
-categories: ['meta-analysis']
+  - Hwang, Mark I.
+topic: "Software Development"
+categories:
+  - meta-analysis
 date: "2014"
 doi: "https://doi.org/10.17705/1CAIS.03502"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 3
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hwang, M. I. (2014). Disentangling the Effect of Top Management Support and Training on Systems Implementation Success: A Meta-Analysis. Communications of the Association for Information Systems, 35(1), 19–37. https://doi.org/10.17705/1CAIS.03502.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Hwang, Mark I.
 TI  - Disentangling the Effect of Top Management Support and Training on Systems Implementation Success: A Meta-Analysis
@@ -43,6 +51,7 @@ EP  - 37
 DO  - 10.17705/1CAIS.03502
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03502>

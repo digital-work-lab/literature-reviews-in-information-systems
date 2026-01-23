@@ -1,11 +1,12 @@
 ---
 title: "CSR Communication on Twitter - A Scoping Review on Social Media Mining and Analytic Methods"
 author:
-- Pilgrim, Katharina
-- Koss, Jonathan
-- Bohnet-Joschko, Sabine
+  - Pilgrim, Katharina
+  - Koss, Jonathan
+  - Bohnet-Joschko, Sabine
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.268"
 url: "https://hdl.handle.net/10125/102899"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Pilgrim, K., Koss, J., & Bohnet-Joschko, S. (2023). CSR Communication on Twitter - A Scoping Review on Social Media Mining and Analytic Methods. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.268.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Pilgrim, Katharina
 AU  - Koss, Jonathan
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2023.268
 UR  - https://hdl.handle.net/10125/102899
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.268>

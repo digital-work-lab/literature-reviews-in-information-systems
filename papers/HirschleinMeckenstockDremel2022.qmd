@@ -1,11 +1,12 @@
 ---
 title: "Towards Bridging the Gap Between BDA Challenges and BDA Capability: A Conceptual Synthesis Based on a Systematic Literature Review"
 author:
-- Hirschlein, Nico
-- Meckenstock, Jan-Niklas
-- Dremel, Christian
+  - Hirschlein, Nico
+  - Meckenstock, Jan-Niklas
+  - Dremel, Christian
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.748"
 url: "http://hdl.handle.net/10125/80088"
@@ -14,6 +15,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hirschlein, N., Meckenstock, J.-N., & Dremel, C. (2022). Towards Bridging the Gap Between BDA Challenges and BDA Capability: A Conceptual Synthesis Based on a Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.748.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hirschlein, Nico
 AU  - Meckenstock, Jan-Niklas
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2022.748
 UR  - http://hdl.handle.net/10125/80088
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.748>

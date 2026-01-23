@@ -1,9 +1,10 @@
 ---
 title: "Identification of Future Skills Using Data-Driven Methods: A Systematic Literature Review and Directions for Future Research"
 author:
-- Brasse, Julia
+  - Brasse, Julia
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.630"
 url: "https://hdl.handle.net/10125/107015"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Brasse, J. (2024). Identification of Future Skills Using Data-Driven Methods: A Systematic Literature Review and Directions for Future Research. In Hawaii International Conference on System Sciences (pp. 5248–5257). https://doi.org/10.24251/HICSS.2024.630.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Brasse, Julia
 TI  - Identification of Future Skills Using Data-Driven Methods: A Systematic Literature Review and Directions for Future Research
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2024.630
 UR  - https://hdl.handle.net/10125/107015
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.630>

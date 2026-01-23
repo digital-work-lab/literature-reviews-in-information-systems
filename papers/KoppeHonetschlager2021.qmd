@@ -1,10 +1,11 @@
 ---
 title: "Exploring Service Innovation in Manufacturing Firms Through the Lens of Service Systems - A Structured Literature Review"
 author:
-- Koppe, Timo
-- Honetschläger, Katharina
+  - Koppe, Timo
+  - Honetschläger, Katharina
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2021/196"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Koppe, T., & Honetschläger, K. (2021). Exploring Service Innovation in Manufacturing Firms Through the Lens of Service Systems - A Structured Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2021/196.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Koppe, Timo
 AU  - Honetschläger, Katharina
@@ -38,6 +46,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/pacis2021/196
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2021/196>

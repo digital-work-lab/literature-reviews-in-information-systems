@@ -1,13 +1,14 @@
 ---
 title: "Ethics Guidelines for Using AI-based Algorithms in Recruiting: Learnings from a Systematic Literature Review"
 author:
-- Hofeditz, Lennart
-- Mirbabaie, Milad
-- Luther, Audrey
-- Mauth, Riccarda
-- Rentemeister, Ina
+  - Hofeditz, Lennart
+  - Mirbabaie, Milad
+  - Luther, Audrey
+  - Mauth, Riccarda
+  - Rentemeister, Ina
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.018"
 url: "http://hdl.handle.net/10125/79348"
@@ -16,6 +17,13 @@ journal:
 cited_by: 10
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hofeditz, L., Mirbabaie, M., Luther, A., Mauth, R., & Rentemeister, I. (2022). Ethics Guidelines for Using AI-based Algorithms in Recruiting: Learnings from a Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.018.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hofeditz, Lennart
 AU  - Mirbabaie, Milad
@@ -49,6 +57,7 @@ DO  - 10.24251/HICSS.2022.018
 UR  - http://hdl.handle.net/10125/79348
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.018>

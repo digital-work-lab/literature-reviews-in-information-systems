@@ -1,10 +1,11 @@
 ---
 title: "Why do People Buy Virtual Goods? A Literature Review"
 author:
-- Hamari, Juho
-- Keronen, Lauri
+  - Hamari, Juho
+  - Keronen, Lauri
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1109/HICSS.2016.171"
 url: "https://ieeexplore.ieee.org/document/7427350"
@@ -13,6 +14,13 @@ journal:
 cited_by: 17
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hamari, J., & Keronen, L. (2016). Why do People Buy Virtual Goods? A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2016.171.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hamari, Juho
 AU  - Keronen, Lauri
@@ -40,6 +48,7 @@ DO  - 10.1109/HICSS.2016.171
 UR  - https://ieeexplore.ieee.org/document/7427350
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2016.171>

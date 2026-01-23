@@ -1,10 +1,11 @@
 ---
 title: "Online knowledge sharing mechanisms: a systematic review of the state of the art literature and recommendations for future research"
 author:
-- Charband, Yeganeh
-- Jafari Navimipour, Nima
+  - Charband, Yeganeh
+  - Jafari Navimipour, Nima
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1007/S10796-016-9628-Z"
 url: "https://link.springer.com/article/10.1007/s10796-016-9628-z"
@@ -13,6 +14,13 @@ journal:
 cited_by: 148
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Charband, Y., & Jafari Navimipour, N. (2016). Online knowledge sharing mechanisms: a systematic review of the state of the art literature and recommendations for future research. Information Systems Frontiers, 18(6), 1131–1151. https://doi.org/10.1007/S10796-016-9628-Z.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Charband, Yeganeh
 AU  - Jafari Navimipour, Nima
@@ -47,6 +55,7 @@ DO  - 10.1007/S10796-016-9628-Z
 UR  - https://link.springer.com/article/10.1007/s10796-016-9628-z
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-016-9628-Z>

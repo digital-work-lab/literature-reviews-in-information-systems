@@ -1,9 +1,10 @@
 ---
 title: "Transaction Costs and Information Systems: Does IT Add Up?"
 author:
-- Cordella, Antonio
-topic: ""
-categories: ['critical-review']
+  - Cordella, Antonio
+topic: "Other Domain"
+categories:
+  - critical-review
 date: "2009"
 doi: "https://doi.org/10.1057/9780230250611_19"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 1
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Cordella, A. (2009). Transaction Costs and Information Systems: Does IT Add Up?. Journal of Information Technology, 21(3), 386–400. https://doi.org/10.1057/9780230250611_19.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Cordella, Antonio
 TI  - Transaction Costs and Information Systems: Does IT Add Up?
@@ -43,6 +51,7 @@ EP  - 400
 DO  - 10.1057/9780230250611_19
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/9780230250611_19>

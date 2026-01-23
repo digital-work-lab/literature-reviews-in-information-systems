@@ -1,9 +1,10 @@
 ---
 title: "Analyzing the Factors that Influence Consumers' Adoption of Social Commerce - A Literature Review"
 author:
-- Friedrich, Thomas
+  - Friedrich, Thomas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2015/e-Biz/GeneralPresentations/15"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Friedrich, T. (2015). Analyzing the Factors that Influence Consumers' Adoption of Social Commerce - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2015/e-Biz/GeneralPresentations/15.
+:::
 
 ## Citation: BibTeX
 
@@ -27,7 +35,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Friedrich, Thomas
 TI  - Analyzing the Factors that Influence Consumers' Adoption of Social Commerce - A Literature Review
@@ -36,6 +44,7 @@ PY  - 2015
 UR  - https://aisel.aisnet.org/amcis2015/e-Biz/GeneralPresentations/15
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2015/e-Biz/GeneralPresentations/15>

@@ -1,10 +1,11 @@
 ---
 title: "Systematic Literature Review: Explainable AI Definitions and Challenges in Education"
 author:
-- Altukhi, Zaid M.
-- Pradhan, Sojen
+  - Altukhi, Zaid M.
+  - Pradhan, Sojen
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/icis2024/lit_review/lit_review/11"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Altukhi, Z. M., & Pradhan, S. (2024). Systematic Literature Review: Explainable AI Definitions and Challenges in Education. In International Conference on Information Systems. https://aisel.aisnet.org/icis2024/lit_review/lit_review/11.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Altukhi, Zaid M.
 AU  - Pradhan, Sojen
@@ -39,6 +47,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/icis2024/lit_review/lit_review/11
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2024/lit_review/lit_review/11>

@@ -1,11 +1,12 @@
 ---
 title: "Literature derived reference models for the adoption of online shopping"
 author:
-- CHANG, M
-- CHEUNG, W
-- LAI, V
-topic: ""
-categories: ['qualitative-systematic-review']
+  - CHANG, M
+  - CHEUNG, W
+  - LAI, V
+topic: "Technology Acceptance, and Use"
+categories:
+  - qualitative-systematic-review
 date: "2005"
 doi: "https://doi.org/10.1016/S0378-7206(04)00051-5"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 262
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+CHANG, M., CHEUNG, W., & LAI, V. (2005). Literature derived reference models for the adoption of online shopping. Information & Management, 42(4), 543–559. https://doi.org/10.1016/S0378-7206(04)00051-5.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - CHANG, M
 AU  - CHEUNG, W
@@ -47,6 +55,7 @@ EP  - 559
 DO  - 10.1016/S0378-7206(04)00051-5
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/S0378-7206(04)00051-5>

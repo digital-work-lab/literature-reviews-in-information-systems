@@ -1,11 +1,12 @@
 ---
 title: "Augmenting the Future: An Exploratory Analysis of the Main Resources, Use Cases, and Implications of Augmented Analytics"
 author:
-- Oesterreich, Thuy Duong
-- Anton, Eduard
-- Feipeng, Xu
+  - Oesterreich, Thuy Duong
+  - Anton, Eduard
+  - Feipeng, Xu
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Oesterreich, T. D., Anton, E., & Feipeng, X. (2021). Augmenting the Future: An Exploratory Analysis of the Main Resources, Use Cases, and Implications of Augmented Analytics. In European Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Oesterreich, Thuy Duong
 AU  - Anton, Eduard

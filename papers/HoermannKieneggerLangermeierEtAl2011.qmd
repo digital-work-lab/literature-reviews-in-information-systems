@@ -1,13 +1,14 @@
 ---
 title: "Comparing Risk and Success Factors in ERP Projects - A Literature Review"
 author:
-- Hoermann, Stefan
-- Kienegger, Harald
-- Langermeier, Melanie
-- Mayer, Manuel
-- Krcmar, Helmut
+  - Hoermann, Stefan
+  - Kienegger, Harald
+  - Langermeier, Melanie
+  - Mayer, Manuel
+  - Krcmar, Helmut
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2011"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2011_submissions/241"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hoermann, S., Kienegger, H., Langermeier, M., Mayer, M., & Krcmar, H. (2011). Comparing Risk and Success Factors in ERP Projects - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2011_submissions/241.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hoermann, Stefan
 AU  - Kienegger, Harald
@@ -44,6 +52,7 @@ PY  - 2011
 UR  - https://aisel.aisnet.org/amcis2011_submissions/241
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2011_submissions/241>

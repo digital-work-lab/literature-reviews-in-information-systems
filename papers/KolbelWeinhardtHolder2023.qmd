@@ -1,11 +1,12 @@
 ---
 title: "Enterprise Business Models Leveraging Self-Sovereign Identity: Towards a User-Empowering Me2X Economy"
 author:
-- Kölbel, Tobias
-- Härdtner, Mahia-Cara
-- Weinhardt, Christof
+  - Kölbel, Tobias
+  - Härdtner, Mahia-Cara
+  - Weinhardt, Christof
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.490"
 url: "https://hdl.handle.net/10125/103121"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kölbel, T., Härdtner, M.-C., & Weinhardt, C. (2023). Enterprise Business Models Leveraging Self-Sovereign Identity: Towards a User-Empowering Me2X Economy. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.490.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kölbel, Tobias
 AU  - Härdtner, Mahia-Cara
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2023.490
 UR  - https://hdl.handle.net/10125/103121
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.490>

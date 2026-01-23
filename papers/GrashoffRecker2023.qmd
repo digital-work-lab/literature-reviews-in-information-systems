@@ -1,10 +1,11 @@
 ---
 title: "Design, development, and implementation of artificial intelligence technology: a scoping review"
 author:
-- Grashoff, Imke
-- Recker, Jan
+  - Grashoff, Imke
+  - Recker, Jan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2023_rp/305"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Grashoff, I., & Recker, J. (2023). Design, development, and implementation of artificial intelligence technology: a scoping review. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2023_rp/305.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Grashoff, Imke
 AU  - Recker, Jan
@@ -40,6 +48,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/ecis2023_rp/305
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2023_rp/305>

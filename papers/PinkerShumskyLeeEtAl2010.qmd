@@ -1,12 +1,13 @@
 ---
 title: "Managing the Outsourcing of Two-Level Service Processes - Literature Review and Integration"
 author:
-- Pinker, Edieal J.
-- Shumsky, Robert A.
-- Lee, Hsiao-Hui
-- Hasija, Sameer
+  - Pinker, Edieal J.
+  - Shumsky, Robert A.
+  - Lee, Hsiao-Hui
+  - Hasija, Sameer
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2010"
 doi: "https://doi.org/10.1109/HICSS.2010.265"
 url: "https://ieeexplore.ieee.org/document/5428607"
@@ -15,6 +16,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Pinker, E. J., Shumsky, R. A., Lee, H.-H., & Hasija, S. (2010). Managing the Outsourcing of Two-Level Service Processes - Literature Review and Integration. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2010.265.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Pinker, Edieal J.
 AU  - Shumsky, Robert A.
@@ -44,6 +52,7 @@ DO  - 10.1109/HICSS.2010.265
 UR  - https://ieeexplore.ieee.org/document/5428607
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2010.265>

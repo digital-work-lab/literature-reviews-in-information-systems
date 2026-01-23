@@ -1,9 +1,10 @@
 ---
 title: "Geographic Information Systems in Information Systems Research - Review and Research Prospects"
 author:
-- Priefer, Jennifer
+  - Priefer, Jennifer
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.618"
 url: "https://hdl.handle.net/10125/103252"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Priefer, J. (2023). Geographic Information Systems in Information Systems Research - Review and Research Prospects. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.618.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Priefer, Jennifer
 TI  - Geographic Information Systems in Information Systems Research - Review and Research Prospects
@@ -41,6 +49,7 @@ DO  - 10.24251/HICSS.2023.618
 UR  - https://hdl.handle.net/10125/103252
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.618>

@@ -1,10 +1,11 @@
 ---
 title: "Comparing conceptual modeling techniques"
 author:
-- Aguirre-Urreta, Miguel I.
-- Marakas, George M.
-topic: ""
-categories: ['critical-review']
+  - Aguirre-Urreta, Miguel I.
+  - Marakas, George M.
+topic: "Software Development"
+categories:
+  - critical-review
 date: "2008"
 doi: "https://doi.org/10.1145/1364636.1364640"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 23
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Aguirre-Urreta, M. I., & Marakas, G. M. (2008). Comparing conceptual modeling techniques. ACM SIGMIS Database: the DATABASE for Advances in Information Systems, 39(2), 9–32. https://doi.org/10.1145/1364636.1364640.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Aguirre-Urreta, Miguel I.
 AU  - Marakas, George M.
@@ -46,6 +54,7 @@ EP  - 32
 DO  - 10.1145/1364636.1364640
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1145/1364636.1364640>

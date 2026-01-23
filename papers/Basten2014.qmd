@@ -1,10 +1,11 @@
 ---
 title: "A Systematic Mapping of Factors Affecting Accuracy of Software Development Effort Estimation"
 author:
-- Basten, Dirk
-- Sunyaev, Ali
-topic: ""
-categories: ['descriptive-review']
+  - Basten, Dirk
+  - Sunyaev, Ali
+topic: "Software Development"
+categories:
+  - descriptive-review
 date: "2014"
 doi: "https://doi.org/10.17705/1CAIS.03404"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 9
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Basten, D., & Sunyaev, A. (2014). A Systematic Mapping of Factors Affecting Accuracy of Software Development Effort Estimation. Communications of the Association for Information Systems, 34(1), 51–86. https://doi.org/10.17705/1CAIS.03404.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Basten, Dirk
 AU  - Sunyaev, Ali
@@ -45,6 +53,7 @@ EP  - 86
 DO  - 10.17705/1CAIS.03404
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03404>

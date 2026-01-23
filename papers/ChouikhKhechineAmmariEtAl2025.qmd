@@ -1,12 +1,13 @@
 ---
 title: "Generative Artificial Intelligence in Information Systems Research: Insights from a Scoping Review and Bibliometric Analysis"
 author:
-- Chouikh, Arbi
-- Khechine, Hager
-- Ammari, Mohamed Lassaad
-- Mellouli, Sehl
+  - Chouikh, Arbi
+  - Khechine, Hager
+  - Ammari, Mohamed Lassaad
+  - Mellouli, Sehl
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.24251/HICSS.2025.860"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chouikh, A., Khechine, H., Ammari, M. L., & Mellouli, S. (2025). Generative Artificial Intelligence in Information Systems Research: Insights from a Scoping Review and Bibliometric Analysis. In Hawaii International Conference on System Sciences (pp. 1–10). https://doi.org/10.24251/HICSS.2025.860.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Chouikh, Arbi
 AU  - Khechine, Hager
@@ -46,6 +54,7 @@ EP  - 10
 DO  - 10.24251/HICSS.2025.860
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2025.860>

@@ -1,11 +1,12 @@
 ---
 title: "Ethical Marketing AI?A Structured Literature Review of the Ethical Challenges Posed by Artificial Intelligence in the Domains of Marketing and Consumer Behavior"
 author:
-- Su, Yiran
-- Wang, Emma Junhong
-- Berthon, Pierre
+  - Su, Yiran
+  - Wang, Emma Junhong
+  - Berthon, Pierre
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.603"
 url: "https://hdl.handle.net/10125/103237"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Su, Y., Wang, E. J., & Berthon, P. (2023). Ethical Marketing AI?A Structured Literature Review of the Ethical Challenges Posed by Artificial Intelligence in the Domains of Marketing and Consumer Behavior. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.603.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Su, Yiran
 AU  - Wang, Emma Junhong
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2023.603
 UR  - https://hdl.handle.net/10125/103237
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.603>

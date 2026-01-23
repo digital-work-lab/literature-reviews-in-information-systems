@@ -1,10 +1,11 @@
 ---
 title: "The Technology Acceptance Model: A Meta-Analysis of Empirical Findings"
 author:
-- Ma, Qingxiong
-- Liu, Liping
-topic: ""
-categories: ['meta-analysis']
+  - Ma, Qingxiong
+  - Liu, Liping
+topic: "Technology Acceptance, and Use"
+categories:
+  - meta-analysis
 date: "2004"
 doi: ""
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Journal of Organizational and End User Computing"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ma, Q., & Liu, L. (2004). The Technology Acceptance Model: A Meta-Analysis of Empirical Findings. Journal of Organizational and End User Computing, 16(1), 59–72.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Journal of Organizational and End User Computing"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ma, Qingxiong
 AU  - Liu, Liping

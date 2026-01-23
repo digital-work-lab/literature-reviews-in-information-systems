@@ -1,9 +1,10 @@
 ---
 title: "A Systematic Review of Developing Team Competencies in Information Systems Education"
 author:
-- Figl, Kathrin
-topic: ""
-categories: ['narrative-review']
+  - Figl, Kathrin
+topic: "Virtual Teams"
+categories:
+  - narrative-review
 date: "2010"
 doi: ""
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Journal of Information Systems Education"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Figl, K. (2010). A Systematic Review of Developing Team Competencies in Information Systems Education. Journal of Information Systems Education, 21(1), 323–337.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Journal of Information Systems Education"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Figl, Kathrin
 TI  - A Systematic Review of Developing Team Competencies in Information Systems Education

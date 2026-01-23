@@ -1,9 +1,10 @@
 ---
 title: "Typification and Characteristics of Digital Safe Spaces: A literature review"
 author:
-- Ruiz-Bravo, Nadia
+  - Ruiz-Bravo, Nadia
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.289"
 url: "https://hdl.handle.net/10125/106668"
@@ -12,6 +13,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ruiz-Bravo, N. (2024). Typification and Characteristics of Digital Safe Spaces: A literature review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2024.289.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Ruiz-Bravo, Nadia
 TI  - Typification and Characteristics of Digital Safe Spaces: A literature review
@@ -40,6 +48,7 @@ DO  - 10.24251/HICSS.2024.289
 UR  - https://hdl.handle.net/10125/106668
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.289>

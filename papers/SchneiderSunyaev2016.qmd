@@ -1,10 +1,11 @@
 ---
 title: "Determinant factors of cloud-sourcing decisions - reflecting on the IT outsourcing literature in the era of cloud computing"
 author:
-- Schneider, Stephan
-- Sunyaev, Ali
+  - Schneider, Stephan
+  - Sunyaev, Ali
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1057/JIT.2014.25"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 174
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schneider, S., & Sunyaev, A. (2016). Determinant factors of cloud-sourcing decisions - reflecting on the IT outsourcing literature in the era of cloud computing. Journal of Information Technology, 31(1), 1–31. https://doi.org/10.1057/JIT.2014.25.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Schneider, Stephan
 AU  - Sunyaev, Ali
@@ -48,6 +56,7 @@ EP  - 31
 DO  - 10.1057/JIT.2014.25
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/JIT.2014.25>

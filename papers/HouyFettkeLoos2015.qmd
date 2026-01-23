@@ -1,11 +1,12 @@
 ---
 title: "Stylized Facts as an Instrument for Literature Review and Cumulative Information Systems Research"
 author:
-- Houy, Constantin
-- Fettke, Peter
-- Loos, Peter
+  - Houy, Constantin
+  - Fettke, Peter
+  - Loos, Peter
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.17705/1CAIS.03710"
 url: "https://aisel.aisnet.org/cais/vol37/iss1/10"
@@ -14,6 +15,13 @@ journal:
 cited_by: 6
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Houy, C., Fettke, P., & Loos, P. (2015). Stylized Facts as an Instrument for Literature Review and Cumulative Information Systems Research. Communications of the Association for Information Systems, 37. https://doi.org/10.17705/1CAIS.03710.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Houy, Constantin
 AU  - Fettke, Peter
@@ -44,6 +52,7 @@ DO  - 10.17705/1CAIS.03710
 UR  - https://aisel.aisnet.org/cais/vol37/iss1/10
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03710>

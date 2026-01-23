@@ -1,14 +1,15 @@
 ---
 title: "Multimodal Wearable Intelligence for Dementia Care in Healthcare 4.0: a Survey"
 author:
-- Yang, Po
-- Bi, Gaoshan
-- Qi, Jun
-- Wang, Xulong
-- Yang, Yun
-- Xu, Lida
+  - Yang, Po
+  - Bi, Gaoshan
+  - Qi, Jun
+  - Wang, Xulong
+  - Yang, Yun
+  - Xu, Lida
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.1007/S10796-021-10163-3"
 url: "https://link.springer.com/article/10.1007/s10796-021-10163-3"
@@ -17,6 +18,13 @@ journal:
 cited_by: 41
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Yang, P., Bi, G., Qi, J., Wang, X., Yang, Y., & Xu, L. (2021). Multimodal Wearable Intelligence for Dementia Care in Healthcare 4.0: a Survey. Information Systems Frontiers, UNKNOWN(UNKNOWN). https://doi.org/10.1007/S10796-021-10163-3.
+:::
 
 ## Citation: BibTeX
 
@@ -36,7 +44,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Yang, Po
 AU  - Bi, Gaoshan
@@ -53,6 +61,7 @@ DO  - 10.1007/S10796-021-10163-3
 UR  - https://link.springer.com/article/10.1007/s10796-021-10163-3
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-021-10163-3>

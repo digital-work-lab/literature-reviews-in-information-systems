@@ -1,14 +1,15 @@
 ---
 title: "A Multivocal Literature Review on Capturing Value Propositions for Private Organizations in a CBDC Ecosystem"
 author:
-- Schaaf, Vincent
-- Lautenschlager, Jonathan
-- Voucko-Glockner, Hannes
-- Plank, Tobias
-- Guggenberger, Tobias
-- Urbach, Nils
+  - Schaaf, Vincent
+  - Lautenschlager, Jonathan
+  - Voucko-Glockner, Hannes
+  - Plank, Tobias
+  - Guggenberger, Tobias
+  - Urbach, Nils
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.17705/1CAIS.05712"
 url: "https://aisel.aisnet.org/cais/vol57/iss1/14"
@@ -17,6 +18,13 @@ journal:
 cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schaaf, V., Lautenschlager, J., Voucko-Glockner, H., Plank, T., Guggenberger, T., & Urbach, N. (2025). A Multivocal Literature Review on Capturing Value Propositions for Private Organizations in a CBDC Ecosystem. Communications of the Association for Information Systems, 57, 289–317. https://doi.org/10.17705/1CAIS.05712.
+:::
 
 ## Citation: BibTeX
 
@@ -36,7 +44,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Schaaf, Vincent
 AU  - Lautenschlager, Jonathan
@@ -54,6 +62,7 @@ DO  - 10.17705/1CAIS.05712
 UR  - https://aisel.aisnet.org/cais/vol57/iss1/14
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05712>

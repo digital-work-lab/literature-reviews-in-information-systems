@@ -1,11 +1,12 @@
 ---
 title: "Cloud Computing Data Protection -- A Literature Review and Analysis"
 author:
-- Pfarr, Florian
-- Buckel, Thomas
-- Winkelmann, Axel
+  - Pfarr, Florian
+  - Buckel, Thomas
+  - Winkelmann, Axel
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.616"
 url: "https://ieeexplore.ieee.org/document/6759219"
@@ -14,6 +15,13 @@ journal:
 cited_by: 16
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Pfarr, F., Buckel, T., & Winkelmann, A. (2014). Cloud Computing Data Protection -- A Literature Review and Analysis. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2014.616.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Pfarr, Florian
 AU  - Buckel, Thomas
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2014.616
 UR  - https://ieeexplore.ieee.org/document/6759219
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2014.616>

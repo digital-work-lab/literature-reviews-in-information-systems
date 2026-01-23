@@ -1,11 +1,12 @@
 ---
 title: "Designing an IT Risk Management Ontology grounded on Systematic Literature Review"
 author:
-- Rosa, Mariana
-- Guerreiro, Sérgio
-- Pereira, Rúben
+  - Rosa, Mariana
+  - Guerreiro, Sérgio
+  - Pereira, Rúben
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.729"
 url: "http://hdl.handle.net/10125/71349"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Rosa, M., Guerreiro, S., & Pereira, R. (2021). Designing an IT Risk Management Ontology grounded on Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.729.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Rosa, Mariana
 AU  - Guerreiro, Sérgio
@@ -42,6 +50,7 @@ DO  - 10.24251/HICSS.2021.729
 UR  - http://hdl.handle.net/10125/71349
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.729>

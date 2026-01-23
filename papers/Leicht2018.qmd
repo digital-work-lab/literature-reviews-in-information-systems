@@ -1,9 +1,10 @@
 ---
 title: "Given Enough Eyeballs, all Bugs are Shallow - A Literature Review for the Use of Crowdsourcing in Software Testing"
 author:
-- Leicht, Niklas
+  - Leicht, Niklas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.24251/HICSS.2018.515"
 url: "http://hdl.handle.net/10125/50404"
@@ -12,6 +13,13 @@ journal:
 cited_by: 5
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Leicht, N. (2018). Given Enough Eyeballs, all Bugs are Shallow - A Literature Review for the Use of Crowdsourcing in Software Testing. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2018.515.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Leicht, Niklas
 TI  - Given Enough Eyeballs, all Bugs are Shallow - A Literature Review for the Use of Crowdsourcing in Software Testing
@@ -38,6 +46,7 @@ DO  - 10.24251/HICSS.2018.515
 UR  - http://hdl.handle.net/10125/50404
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2018.515>

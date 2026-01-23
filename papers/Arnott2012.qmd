@@ -1,10 +1,11 @@
 ---
 title: "Design Science in Decision Support Systems Research: An Assessment using the Hevner, March, Park, and Ram Guidelines"
 author:
-- Arnott, David
-- Pervan, Graham
-topic: ""
-categories: ['descriptive-review']
+  - Arnott, David
+  - Pervan, Graham
+topic: "Other Domain"
+categories:
+  - descriptive-review
 date: "2012"
 doi: "https://doi.org/10.17705/1JAIS.00315"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 44
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Arnott, D., & Pervan, G. (2012). Design Science in Decision Support Systems Research: An Assessment using the Hevner, March, Park, and Ram Guidelines. Journal of the Association for Information Systems, 13(11), 923–949. https://doi.org/10.17705/1JAIS.00315.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Arnott, David
 AU  - Pervan, Graham
@@ -45,6 +53,7 @@ EP  - 949
 DO  - 10.17705/1JAIS.00315
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00315>

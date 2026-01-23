@@ -1,11 +1,13 @@
 ---
 title: "Review: Information Technology and Organizational Performance: An Integrative Model of IT Business Value"
 author:
-- Melville
-- Kraemer
-- Gurbaxani
-topic: ""
-categories: ['theoretical-review', 'highly-cited']
+  - Melville
+  - Kraemer
+  - Gurbaxani
+topic: "IS Value"
+categories:
+  - theoretical-review
+  - highly-cited
 date: "2004"
 doi: "https://doi.org/10.2307/25148636"
 url: ""
@@ -14,6 +16,13 @@ journal:
 cited_by: 1964
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Melville, Kraemer, & Gurbaxani (2004). Review: Information Technology and Organizational Performance: An Integrative Model of IT Business Value. MIS Quarterly, 28(2), 283. https://doi.org/10.2307/25148636.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +41,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Melville
 AU  - Kraemer
@@ -46,6 +55,7 @@ SP  - 283
 DO  - 10.2307/25148636
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/25148636>

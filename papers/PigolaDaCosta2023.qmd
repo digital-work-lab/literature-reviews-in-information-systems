@@ -1,10 +1,11 @@
 ---
 title: "Dynamic Capabilities in Cybersecurity Intelligence: A Meta-Synthesis to Enhance Protection Against Cyber Threats"
 author:
-- Pigola, Angélica
-- Da Costa, Priscila Rezende
+  - Pigola, Angélica
+  - Da Costa, Priscila Rezende
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.17705/1CAIS.05347"
 url: "https://aisel.aisnet.org/cais/vol53/iss1/46"
@@ -13,6 +14,13 @@ journal:
 cited_by: 7
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Pigola, A., & Da Costa, P. R. (2023). Dynamic Capabilities in Cybersecurity Intelligence: A Meta-Synthesis to Enhance Protection Against Cyber Threats. Communications of the Association for Information Systems, 53, 1099–1135. https://doi.org/10.17705/1CAIS.05347.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Pigola, Angélica
 AU  - Da Costa, Priscila Rezende
@@ -47,6 +55,7 @@ DO  - 10.17705/1CAIS.05347
 UR  - https://aisel.aisnet.org/cais/vol53/iss1/46
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05347>

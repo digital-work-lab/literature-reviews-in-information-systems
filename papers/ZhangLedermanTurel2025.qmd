@@ -1,11 +1,12 @@
 ---
 title: "Toward multilevel research on private information disclosure: A systematic review and future agenda"
 author:
-- Zhang, Mingxin
-- Lederman, Reeva
-- Turel, Ofir
+  - Zhang, Mingxin
+  - Lederman, Reeva
+  - Turel, Ofir
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.1016/J.IM.2025.104201"
 url: "https://www.doi.org/10.1016/J.IM.2025.104201"
@@ -14,6 +15,13 @@ journal:
 cited_by: 2
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Zhang, M., Lederman, R., & Turel, O. (2025). Toward multilevel research on private information disclosure: A systematic review and future agenda. Information & Management, 62(7), 104201. https://doi.org/10.1016/J.IM.2025.104201.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Zhang, Mingxin
 AU  - Lederman, Reeva
@@ -48,6 +56,7 @@ DO  - 10.1016/J.IM.2025.104201
 UR  - https://www.doi.org/10.1016/J.IM.2025.104201
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2025.104201>

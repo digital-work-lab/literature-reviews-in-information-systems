@@ -1,10 +1,11 @@
 ---
 title: "Innovation research in information systems - A commentary on contemporary trends and issues"
 author:
-- Jha, Ashish Kumar
-- Bose, Indranil
+  - Jha, Ashish Kumar
+  - Bose, Indranil
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.1016/J.IM.2015.10.007"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720615001238"
@@ -13,6 +14,13 @@ journal:
 cited_by: 36
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Jha, A. K., & Bose, I. (2015). Innovation research in information systems - A commentary on contemporary trends and issues. Information & Management, 53(3), 297–306. https://doi.org/10.1016/J.IM.2015.10.007.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Jha, Ashish Kumar
 AU  - Bose, Indranil
@@ -49,6 +57,7 @@ DO  - 10.1016/J.IM.2015.10.007
 UR  - https://www.sciencedirect.com/science/article/pii/S0378720615001238
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2015.10.007>

@@ -1,10 +1,11 @@
 ---
 title: "The past, present, and future of (net) neutrality: A state of knowledge review and research agenda"
 author:
-- Hildebrand, Christian
-- Wiewiorra, Lukas
+  - Hildebrand, Christian
+  - Wiewiorra, Lukas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.1177/02683962231170891"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 8
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hildebrand, C., & Wiewiorra, L. (2024). The past, present, and future of (net) neutrality: A state of knowledge review and research agenda. Journal of Information Technology, 39(1), 167–193. https://doi.org/10.1177/02683962231170891.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Hildebrand, Christian
 AU  - Wiewiorra, Lukas
@@ -46,6 +54,7 @@ EP  - 193
 DO  - 10.1177/02683962231170891
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1177/02683962231170891>

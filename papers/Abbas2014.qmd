@@ -1,11 +1,12 @@
 ---
 title: "The regulatory considerations and ethical dilemmas of location-based services (LBS)"
 author:
-- Abbas, Roba
-- Michael, Katina
-- Michael, MG
-topic: ""
-categories: ['narrative-review']
+  - Abbas, Roba
+  - Michael, Katina
+  - Michael, MG
+topic: "Other Domain"
+categories:
+  - narrative-review
 date: "2014"
 doi: "https://doi.org/10.1108/ITP-12-2012-0156"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 42
 outlet: "Information Technology & People"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Abbas, R., Michael, K., & Michael, M. (2014). The regulatory considerations and ethical dilemmas of location-based services (LBS). Information Technology & People, 27(1), 2–20. https://doi.org/10.1108/ITP-12-2012-0156.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Information Technology & People"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Abbas, Roba
 AU  - Michael, Katina
@@ -48,6 +56,7 @@ EP  - 20
 DO  - 10.1108/ITP-12-2012-0156
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1108/ITP-12-2012-0156>

@@ -1,10 +1,11 @@
 ---
 title: "Measuring Information Technology Payoff: A Meta-Analysis of Structural Variables in Firm-Level Empirical Research"
 author:
-- Kohli, Rajiv
-- Devaraj, Sarv
-topic: ""
-categories: ['meta-analysis']
+  - Kohli, Rajiv
+  - Devaraj, Sarv
+topic: "IS Value"
+categories:
+  - meta-analysis
 date: "2003"
 doi: "https://doi.org/10.1287/ISRE.14.2.127.16019"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 361
 outlet: "Information Systems Research"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kohli, R., & Devaraj, S. (2003). Measuring Information Technology Payoff: A Meta-Analysis of Structural Variables in Firm-Level Empirical Research. Information Systems Research, 14(2), 127–145. https://doi.org/10.1287/ISRE.14.2.127.16019.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Information Systems Research"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Kohli, Rajiv
 AU  - Devaraj, Sarv
@@ -46,6 +54,7 @@ EP  - 145
 DO  - 10.1287/ISRE.14.2.127.16019
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1287/ISRE.14.2.127.16019>

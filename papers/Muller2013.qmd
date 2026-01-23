@@ -1,10 +1,11 @@
 ---
 title: "Creativity and Information Systems in a Hypercompetitive Environment: A Literature Review"
 author:
-- Muller, Sune Dueholm
-- Ulrich, Frank
-topic: ""
-categories: ['narrative-review']
+  - Muller, Sune Dueholm
+  - Ulrich, Frank
+topic: "Other Domain"
+categories:
+  - narrative-review
 date: "2013"
 doi: "https://doi.org/10.17705/1CAIS.03207"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 16
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Muller, S. D., & Ulrich, F. (2013). Creativity and Information Systems in a Hypercompetitive Environment: A Literature Review. Communications of the Association for Information Systems, 32(7), 175–200. https://doi.org/10.17705/1CAIS.03207.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Muller, Sune Dueholm
 AU  - Ulrich, Frank
@@ -45,6 +53,7 @@ EP  - 200
 DO  - 10.17705/1CAIS.03207
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03207>

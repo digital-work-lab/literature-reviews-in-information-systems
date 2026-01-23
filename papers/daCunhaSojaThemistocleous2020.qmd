@@ -1,11 +1,12 @@
 ---
 title: "Blockchain for Development - Preliminary Insights from a Literature Review"
 author:
-- da Cunha, Paulo Rupino
-- Soja, Piotr
-- Themistocleous, Marinos
+  - da Cunha, Paulo Rupino
+  - Soja, Piotr
+  - Themistocleous, Marinos
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/10"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+da Cunha, P. R., Soja, P., & Themistocleous, M. (2020). Blockchain for Development - Preliminary Insights from a Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/10.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - da Cunha, Paulo Rupino
 AU  - Soja, Piotr
@@ -40,6 +48,7 @@ PY  - 2020
 UR  - https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/10
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/10>

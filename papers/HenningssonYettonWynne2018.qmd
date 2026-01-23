@@ -1,11 +1,12 @@
 ---
 title: "A review of information system integration in mergers and acquisitions"
 author:
-- Henningsson, Stefan
-- Yetton, Philip
-- Wynne, Peter J.
+  - Henningsson, Stefan
+  - Yetton, Philip
+  - Wynne, Peter J.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.1057/S41265-017-0051-9"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 38
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Henningsson, S., Yetton, P., & Wynne, P. J. (2018). A review of information system integration in mergers and acquisitions. Journal of Information Technology, 33(4), 255–303. https://doi.org/10.1057/S41265-017-0051-9.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Henningsson, Stefan
 AU  - Yetton, Philip
@@ -50,6 +58,7 @@ EP  - 303
 DO  - 10.1057/S41265-017-0051-9
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/S41265-017-0051-9>

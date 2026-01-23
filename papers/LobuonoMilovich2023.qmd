@@ -1,10 +1,11 @@
 ---
 title: "Technology Use in Managing the Nutrition Health of Older Adults: A Scoping Review"
 author:
-- Lobuono, Dara
-- Milovich, Michael
+  - Lobuono, Dara
+  - Milovich, Michael
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.357"
 url: "https://hdl.handle.net/10125/102988"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lobuono, D., & Milovich, M. (2023). Technology Use in Managing the Nutrition Health of Older Adults: A Scoping Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.357.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Lobuono, Dara
 AU  - Milovich, Michael
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2023.357
 UR  - https://hdl.handle.net/10125/102988
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.357>

@@ -1,9 +1,10 @@
 ---
 title: "Real Options and IT Platform Adoption: Implications for Theory and Practice"
 author:
-- Fichman, Robert G.
-topic: ""
-categories: ['theoretical-review']
+  - Fichman, Robert G.
+topic: "Other Domain"
+categories:
+  - theoretical-review
 date: "2004"
 doi: "https://doi.org/10.1287/ISRE.1040.0021"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 258
 outlet: "Information Systems Research"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Fichman, R. G. (2004). Real Options and IT Platform Adoption: Implications for Theory and Practice. Information Systems Research, 15(2), 132–154. https://doi.org/10.1287/ISRE.1040.0021.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Information Systems Research"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Fichman, Robert G.
 TI  - Real Options and IT Platform Adoption: Implications for Theory and Practice
@@ -44,6 +52,7 @@ EP  - 154
 DO  - 10.1287/ISRE.1040.0021
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1287/ISRE.1040.0021>

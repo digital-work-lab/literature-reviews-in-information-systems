@@ -1,9 +1,10 @@
 ---
 title: "Scaling Agility in Incumbent Firms: A Literature Review"
 author:
-- Frey, Julian
+  - Frey, Julian
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Frey, J. (2023). Scaling Agility in Incumbent Firms: A Literature Review. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -27,7 +35,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Frey, Julian
 TI  - Scaling Agility in Incumbent Firms: A Literature Review

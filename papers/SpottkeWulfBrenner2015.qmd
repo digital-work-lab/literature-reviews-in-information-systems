@@ -1,11 +1,12 @@
 ---
 title: "Consumer-Centric Information Systems - A Literature Review and Avenues for Further Research"
 author:
-- Spottke, Benjamin
-- Wulf, Jochen
-- Brenner, Walter
+  - Spottke, Benjamin
+  - Wulf, Jochen
+  - Brenner, Walter
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: ""
 url: "http://aisel.aisnet.org/icis2015/proceedings/HCI/3"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Spottke, B., Wulf, J., & Brenner, W. (2015). Consumer-Centric Information Systems - A Literature Review and Avenues for Further Research. In International Conference on Information Systems. http://aisel.aisnet.org/icis2015/proceedings/HCI/3.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Spottke, Benjamin
 AU  - Wulf, Jochen
@@ -40,6 +48,7 @@ PY  - 2015
 UR  - http://aisel.aisnet.org/icis2015/proceedings/HCI/3
 ER  - 
 ```
+
 ## Links
 
 - URL: <http://aisel.aisnet.org/icis2015/proceedings/HCI/3>

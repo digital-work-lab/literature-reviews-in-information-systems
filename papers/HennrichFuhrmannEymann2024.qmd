@@ -1,11 +1,12 @@
 ---
 title: "Accelerating the Adoption of Artificial Intelligence Technologies in Radiology: A Comprehensive Overview on Current Obstacles"
 author:
-- Hennrich, Jasmin
-- Fuhrmann, Hannah
-- Eymann, Torsten
+  - Hennrich, Jasmin
+  - Fuhrmann, Hannah
+  - Eymann, Torsten
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.428"
 url: "https://hdl.handle.net/10125/106811"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hennrich, J., Fuhrmann, H., & Eymann, T. (2024). Accelerating the Adoption of Artificial Intelligence Technologies in Radiology: A Comprehensive Overview on Current Obstacles. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2024.428.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hennrich, Jasmin
 AU  - Fuhrmann, Hannah
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2024.428
 UR  - https://hdl.handle.net/10125/106811
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.428>

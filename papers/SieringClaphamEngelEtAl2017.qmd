@@ -1,12 +1,13 @@
 ---
 title: "A taxonomy of financial market manipulations - establishing trust and market integrity in the financialized economy through automated fraud detection"
 author:
-- Siering, Michael
-- Clapham, Benjamin
-- Engel, Oliver
-- Gomber, Peter
+  - Siering, Michael
+  - Clapham, Benjamin
+  - Engel, Oliver
+  - Gomber, Peter
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: "https://doi.org/10.1057/S41265-016-0029-Z"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 45
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Siering, M., Clapham, B., Engel, O., & Gomber, P. (2017). A taxonomy of financial market manipulations - establishing trust and market integrity in the financialized economy through automated fraud detection. Journal of Information Technology, 32(3), 251–269. https://doi.org/10.1057/S41265-016-0029-Z.
+:::
 
 ## Citation: BibTeX
 
@@ -36,7 +44,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Siering, Michael
 AU  - Clapham, Benjamin
@@ -52,6 +60,7 @@ EP  - 269
 DO  - 10.1057/S41265-016-0029-Z
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/S41265-016-0029-Z>

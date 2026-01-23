@@ -1,11 +1,12 @@
 ---
 title: "Ethics and Morality in AI - A Systematic Literature Review and Future Research"
 author:
-- Selter, Jan-Lukas
-- Wagner, Katja
-- Schramm-Klein, Hanna
+  - Selter, Jan-Lukas
+  - Wagner, Katja
+  - Schramm-Klein, Hanna
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rp/60"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Selter, J.-L., Wagner, K., & Schramm-Klein, H. (2022). Ethics and Morality in AI - A Systematic Literature Review and Future Research. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rp/60.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Selter, Jan-Lukas
 AU  - Wagner, Katja
@@ -42,6 +50,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rp/60
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rp/60>

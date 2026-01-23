@@ -1,13 +1,14 @@
 ---
 title: "Digitally social: review, synthesis, and future directions for digital social innovation"
 author:
-- Graf-Drasch, Valerie
-- Krombacher, Anna
-- Lindenthal, Anna
-- Oberländer, Anna Maria
-- Schäfer, Ricarda
+  - Graf-Drasch, Valerie
+  - Krombacher, Anna
+  - Lindenthal, Anna
+  - Oberländer, Anna Maria
+  - Schäfer, Ricarda
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rp/39"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Graf-Drasch, V., Krombacher, A., Lindenthal, A., Oberländer, A. M., & Schäfer, R. (2022). Digitally social: review, synthesis, and future directions for digital social innovation. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rp/39.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Graf-Drasch, Valerie
 AU  - Krombacher, Anna
@@ -46,6 +54,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rp/39
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rp/39>

@@ -1,13 +1,14 @@
 ---
 title: "Digital Proctoring in Higher Education: a Systematic literature Review"
 author:
-- Han, Shengnan
-- Nikou, Shahrokh
-- Ayele, Workneh Yilma
-- Balasuriya, Balasuriya Lekamalage Prasanna
-- Svee, Eric-Oluf
+  - Han, Shengnan
+  - Nikou, Shahrokh
+  - Ayele, Workneh Yilma
+  - Balasuriya, Balasuriya Lekamalage Prasanna
+  - Svee, Eric-Oluf
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rp/57"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Han, S., Nikou, S., Ayele, W. Y., Balasuriya, B. L. P., & Svee, E.-O. (2022). Digital Proctoring in Higher Education: a Systematic literature Review. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rp/57.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Han, Shengnan
 AU  - Nikou, Shahrokh
@@ -46,6 +54,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rp/57
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rp/57>

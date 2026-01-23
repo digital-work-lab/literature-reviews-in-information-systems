@@ -1,11 +1,12 @@
 ---
 title: "Can you trust me? reviewing more than three decades of AI trust literature"
 author:
-- Knickrehm, Charlotte
-- Voss, Marleen
-- Barton, Marie-Christin
+  - Knickrehm, Charlotte
+  - Voss, Marleen
+  - Barton, Marie-Christin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2023_rp/302"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Knickrehm, C., Voss, M., & Barton, M.-C. (2023). Can you trust me? reviewing more than three decades of AI trust literature. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2023_rp/302.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Knickrehm, Charlotte
 AU  - Voss, Marleen
@@ -42,6 +50,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/ecis2023_rp/302
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2023_rp/302>

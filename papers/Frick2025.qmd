@@ -1,9 +1,10 @@
 ---
 title: "Relationships between Factors Influencing Robotic Process Automation Adoption in Public Administrations: A Systematic Literature Review"
 author:
-- Frick, Norbert
+  - Frick, Norbert
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.24251/HICSS.2025.260"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Frick, N. (2025). Relationships between Factors Influencing Robotic Process Automation Adoption in Public Administrations: A Systematic Literature Review. In Hawaii International Conference on System Sciences (pp. 1–10). https://doi.org/10.24251/HICSS.2025.260.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Frick, Norbert
 TI  - Relationships between Factors Influencing Robotic Process Automation Adoption in Public Administrations: A Systematic Literature Review
@@ -40,6 +48,7 @@ EP  - 10
 DO  - 10.24251/HICSS.2025.260
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2025.260>

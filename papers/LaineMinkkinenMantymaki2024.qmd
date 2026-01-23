@@ -1,11 +1,12 @@
 ---
 title: "Ethics-based AI auditing: A systematic literature review on conceptualizations of ethical principles and knowledge contributions to stakeholders"
 author:
-- Laine, Joakim
-- Minkkinen, Matti
-- Mäntymäki, Matti
+  - Laine, Joakim
+  - Minkkinen, Matti
+  - Mäntymäki, Matti
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.1016/J.IM.2024.103969"
 url: "https://www.doi.org/10.1016/J.IM.2024.103969"
@@ -14,6 +15,13 @@ journal:
 cited_by: 45
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Laine, J., Minkkinen, M., & Mäntymäki, M. (2024). Ethics-based AI auditing: A systematic literature review on conceptualizations of ethical principles and knowledge contributions to stakeholders. Information & Management, 61(5), 103969. https://doi.org/10.1016/J.IM.2024.103969.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Laine, Joakim
 AU  - Minkkinen, Matti
@@ -49,6 +57,7 @@ DO  - 10.1016/J.IM.2024.103969
 UR  - https://www.doi.org/10.1016/J.IM.2024.103969
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2024.103969>

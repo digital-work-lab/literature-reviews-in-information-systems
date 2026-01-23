@@ -1,11 +1,12 @@
 ---
 title: "Resistance to artificial intelligence in health care: Literature review, conceptual framework, and research agenda"
 author:
-- Yang, Yikai
-- Ngai, Eric W T
-- Wang, Lei
+  - Yang, Yikai
+  - Ngai, Eric W T
+  - Wang, Lei
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.1016/J.IM.2024.103961"
 url: "https://www.doi.org/10.1016/J.IM.2024.103961"
@@ -14,6 +15,13 @@ journal:
 cited_by: 39
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Yang, Y., Ngai, E. W. T., & Wang, L. (2024). Resistance to artificial intelligence in health care: Literature review, conceptual framework, and research agenda. Information & Management, 61(4), 103961. https://doi.org/10.1016/J.IM.2024.103961.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Yang, Yikai
 AU  - Ngai, Eric W T
@@ -49,6 +57,7 @@ DO  - 10.1016/J.IM.2024.103961
 UR  - https://www.doi.org/10.1016/J.IM.2024.103961
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2024.103961>

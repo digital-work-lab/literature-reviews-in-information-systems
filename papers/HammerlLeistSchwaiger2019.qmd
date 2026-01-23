@@ -1,11 +1,12 @@
 ---
 title: "Measuring the Success of Social Media: Matching Identified Success Factors to Social Media KPIs"
 author:
-- Hammerl, Timo
-- Leist, Susanne
-- Schwaiger, Josef
+  - Hammerl, Timo
+  - Leist, Susanne
+  - Schwaiger, Josef
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.24251/HICSS.2019.292"
 url: "http://hdl.handle.net/10125/59681"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hammerl, T., Leist, S., & Schwaiger, J. (2019). Measuring the Success of Social Media: Matching Identified Success Factors to Social Media KPIs. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2019.292.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hammerl, Timo
 AU  - Leist, Susanne
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2019.292
 UR  - http://hdl.handle.net/10125/59681
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2019.292>

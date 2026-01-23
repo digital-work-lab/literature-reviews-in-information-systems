@@ -1,11 +1,12 @@
 ---
 title: "Complex Adaptive Systems Theory in Information Systems Research- A Systematic Literature Review"
 author:
-- Onix, Mohammad F. A.
-- Fielt, Erwin
-- Gable, Guy G.
+  - Onix, Mohammad F. A.
+  - Fielt, Erwin
+  - Gable, Guy G.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2017/271"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Onix, M. F. A., Fielt, E., & Gable, G. G. (2017). Complex Adaptive Systems Theory in Information Systems Research- A Systematic Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2017/271.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Onix, Mohammad F. A.
 AU  - Fielt, Erwin
@@ -40,6 +48,7 @@ PY  - 2017
 UR  - https://aisel.aisnet.org/pacis2017/271
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2017/271>

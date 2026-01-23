@@ -1,11 +1,12 @@
 ---
 title: "Vulnerability disclosure mechanisms: A synthesis and framework for market-based and non-market-based disclosures"
 author:
-- Ahmed, Ali
-- Deokar, Amit
-- Lee, Ho Cheung Brian
+  - Ahmed, Ali
+  - Deokar, Amit
+  - Lee, Ho Cheung Brian
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.1016/J.DSS.2021.113586"
 url: "https://www.sciencedirect.com/science/article/pii/S0167923621000968"
@@ -14,6 +15,13 @@ journal:
 cited_by: 14
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ahmed, A., Deokar, A., & Lee, H. C. B. (2021). Vulnerability disclosure mechanisms: A synthesis and framework for market-based and non-market-based disclosures. Decision Support Systems, 148, 113586. https://doi.org/10.1016/J.DSS.2021.113586.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ahmed, Ali
 AU  - Deokar, Amit
@@ -48,6 +56,7 @@ DO  - 10.1016/J.DSS.2021.113586
 UR  - https://www.sciencedirect.com/science/article/pii/S0167923621000968
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2021.113586>

@@ -1,9 +1,10 @@
 ---
 title: "Ethical AI Design and Implementation: A Systematic Literature Review"
 author:
-- Guerra, Katia
+  - Guerra, Katia
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Guerra, K. (2025). Ethical AI Design and Implementation: A Systematic Literature Review. In Americas Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Guerra, Katia
 TI  - Ethical AI Design and Implementation: A Systematic Literature Review

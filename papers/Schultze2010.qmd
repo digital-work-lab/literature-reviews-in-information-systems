@@ -1,9 +1,10 @@
 ---
 title: "Embodiment and presence in virtual worlds: a review"
 author:
-- Schultze, Ulrike
-topic: ""
-categories: ['narrative-review']
+  - Schultze, Ulrike
+topic: "Human Computer Interaction"
+categories:
+  - narrative-review
 date: "2010"
 doi: "https://doi.org/10.1057/JIT.2010.25"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 96
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schultze, U. (2010). Embodiment and presence in virtual worlds: a review. Journal of Information Technology, 25(4), 434–449. https://doi.org/10.1057/JIT.2010.25.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Schultze, Ulrike
 TI  - Embodiment and presence in virtual worlds: a review
@@ -43,6 +51,7 @@ EP  - 449
 DO  - 10.1057/JIT.2010.25
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/JIT.2010.25>

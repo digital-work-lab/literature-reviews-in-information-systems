@@ -1,11 +1,12 @@
 ---
 title: "Beyond Transaction Cost Economics: Towards an endogenous theory of Information Technology Outsourcing"
 author:
-- Lacity, Mary C.
-- Willcocks, Leslie P.
-- Khan, Shaji
-topic: ""
-categories: ['qualitative-systematic-review']
+  - Lacity, Mary C.
+  - Willcocks, Leslie P.
+  - Khan, Shaji
+topic: "Outsourcing"
+categories:
+  - qualitative-systematic-review
 date: "2011"
 doi: "https://doi.org/10.1016/J.JSIS.2011.04.002"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 98
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lacity, M. C., Willcocks, L. P., & Khan, S. (2011). Beyond Transaction Cost Economics: Towards an endogenous theory of Information Technology Outsourcing. The Journal of Strategic Information Systems, 20(2), 139–157. https://doi.org/10.1016/J.JSIS.2011.04.002.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Lacity, Mary C.
 AU  - Willcocks, Leslie P.
@@ -47,6 +55,7 @@ EP  - 157
 DO  - 10.1016/J.JSIS.2011.04.002
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2011.04.002>

@@ -1,11 +1,12 @@
 ---
 title: "What is Digital Intrapreneurship? Insights from a Structured Literature Review"
 author:
-- Pätzmann, Lena-Marie
-- Cahenzli, Marcel
-- Bitzer, Michael
+  - Pätzmann, Lena-Marie
+  - Cahenzli, Marcel
+  - Bitzer, Michael
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.649"
 url: "https://hdl.handle.net/10125/107034"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Pätzmann, L.-M., Cahenzli, M., & Bitzer, M. (2024). What is Digital Intrapreneurship? Insights from a Structured Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2024.649.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Pätzmann, Lena-Marie
 AU  - Cahenzli, Marcel
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2024.649
 UR  - https://hdl.handle.net/10125/107034
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.649>

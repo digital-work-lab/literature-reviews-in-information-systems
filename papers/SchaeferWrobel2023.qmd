@@ -1,10 +1,11 @@
 ---
 title: "Requirements for distributed ledger technology implementations: a perspective on DLT enabled business models in cooperative relationships"
 author:
-- Schaefer, Benjamin
-- Wrobel, Lasse
+  - Schaefer, Benjamin
+  - Wrobel, Lasse
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2023_rip/47"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schaefer, B., & Wrobel, L. (2023). Requirements for distributed ledger technology implementations: a perspective on DLT enabled business models in cooperative relationships. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2023_rip/47.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schaefer, Benjamin
 AU  - Wrobel, Lasse
@@ -40,6 +48,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/ecis2023_rip/47
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2023_rip/47>

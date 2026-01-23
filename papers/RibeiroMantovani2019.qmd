@@ -1,10 +1,11 @@
 ---
 title: "Scale-up transition - Literature review and Brazilian health tech case study"
 author:
-- Ribeiro, Giovani
-- Mantovani, Daielly
+  - Ribeiro, Giovani
+  - Mantovani, Daielly
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2019/treo/treos/6"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ribeiro, G., & Mantovani, D. (2019). Scale-up transition - Literature review and Brazilian health tech case study. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2019/treo/treos/6.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Ribeiro, Giovani
 AU  - Mantovani, Daielly
@@ -38,6 +46,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/amcis2019/treo/treos/6
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2019/treo/treos/6>

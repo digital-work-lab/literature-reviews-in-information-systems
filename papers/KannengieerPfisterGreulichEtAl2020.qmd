@@ -1,13 +1,14 @@
 ---
 title: "Bridges Between Islands - Cross-Chain Technology for Distributed Ledger Technology"
 author:
-- Kannengießer, Niclas
-- Pfister, Michelle
-- Greulich, Malte
-- Lins, Sebastian
-- Sunyaev, Ali
+  - Kannengießer, Niclas
+  - Pfister, Michelle
+  - Greulich, Malte
+  - Lins, Sebastian
+  - Sunyaev, Ali
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.652"
 url: "http://hdl.handle.net/10125/64394"
@@ -16,6 +17,13 @@ journal:
 cited_by: 57
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kannengießer, N., Pfister, M., Greulich, M., Lins, S., & Sunyaev, A. (2020). Bridges Between Islands - Cross-Chain Technology for Distributed Ledger Technology. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.652.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kannengießer, Niclas
 AU  - Pfister, Michelle
@@ -47,6 +55,7 @@ DO  - 10.24251/HICSS.2020.652
 UR  - http://hdl.handle.net/10125/64394
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.652>

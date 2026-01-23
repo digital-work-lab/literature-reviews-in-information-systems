@@ -1,11 +1,12 @@
 ---
 title: "Where are the processes in IS research on digital transformation? A critical literature review and future research directions"
 author:
-- Wiener, Martin
-- Strahringer, Susanne
-- Kotlarsky, Julia
+  - Wiener, Martin
+  - Strahringer, Susanne
+  - Kotlarsky, Julia
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.1016/J.JSIS.2025.101900"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 6
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wiener, M., Strahringer, S., & Kotlarsky, J. (2025). Where are the processes in IS research on digital transformation? A critical literature review and future research directions. The Journal of Strategic Information Systems, 34(2), 101900. https://doi.org/10.1016/J.JSIS.2025.101900.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wiener, Martin
 AU  - Strahringer, Susanne
@@ -46,6 +54,7 @@ SP  - 101900
 DO  - 10.1016/J.JSIS.2025.101900
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2025.101900>

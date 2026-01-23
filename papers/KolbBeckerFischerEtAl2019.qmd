@@ -1,12 +1,13 @@
 ---
 title: "The Role of Blockchain in Enterprise Procurement"
 author:
-- Kolb, Julian
-- Becker, Luc
-- Fischer, Marcus
-- Winkelmann, Axel
+  - Kolb, Julian
+  - Becker, Luc
+  - Fischer, Marcus
+  - Winkelmann, Axel
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.24251/HICSS.2019.554"
 url: "http://hdl.handle.net/10125/59895"
@@ -15,6 +16,13 @@ journal:
 cited_by: 9
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kolb, J., Becker, L., Fischer, M., & Winkelmann, A. (2019). The Role of Blockchain in Enterprise Procurement. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2019.554.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kolb, Julian
 AU  - Becker, Luc
@@ -46,6 +54,7 @@ DO  - 10.24251/HICSS.2019.554
 UR  - http://hdl.handle.net/10125/59895
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2019.554>

@@ -1,9 +1,10 @@
 ---
 title: "The Impact of Technostress on Individuals: A Systematic Literature Review and Future Research Avenues"
 author:
-- Valta, Maximilian
+  - Valta, Maximilian
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Valta, M. (2025). The Impact of Technostress on Individuals: A Systematic Literature Review and Future Research Avenues. In Americas Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Valta, Maximilian
 TI  - The Impact of Technostress on Individuals: A Systematic Literature Review and Future Research Avenues

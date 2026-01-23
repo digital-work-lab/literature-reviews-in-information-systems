@@ -1,10 +1,11 @@
 ---
 title: "Measuring the Speed of Information Technology in Enterprises: A Systematic Literature Review"
 author:
-- Kanin, Oleg
-- Drews, Paul
+  - Kanin, Oleg
+  - Drews, Paul
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2024/track09_digittrans/track09_digittrans/8"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kanin, O., & Drews, P. (2024). Measuring the Speed of Information Technology in Enterprises: A Systematic Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2024/track09_digittrans/track09_digittrans/8.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kanin, Oleg
 AU  - Drews, Paul
@@ -39,6 +47,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/pacis2024/track09_digittrans/track09_digittrans/8
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2024/track09_digittrans/track09_digittrans/8>

@@ -1,11 +1,12 @@
 ---
 title: "Conceptualizing Interactions of Augmented Reality Solutions"
 author:
-- Bräker, Julia
-- Hertel, Julia
-- Semmann, Martin
+  - Bräker, Julia
+  - Hertel, Julia
+  - Semmann, Martin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.088"
 url: "http://hdl.handle.net/10125/79418"
@@ -14,6 +15,13 @@ journal:
 cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Bräker, J., Hertel, J., & Semmann, M. (2022). Conceptualizing Interactions of Augmented Reality Solutions. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.088.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Bräker, Julia
 AU  - Hertel, Julia
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2022.088
 UR  - http://hdl.handle.net/10125/79418
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.088>

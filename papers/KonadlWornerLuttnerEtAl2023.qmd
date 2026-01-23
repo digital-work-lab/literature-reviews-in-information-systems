@@ -1,12 +1,13 @@
 ---
 title: "Artificial intelligence in augmentative and alternative communication systems -a literature-based assessment and implications of different conversation phases and contexts"
 author:
-- Konadl, Daniel
-- Wörner, Janik
-- Luttner, Lucas
-- Leist, Susanne
+  - Konadl, Daniel
+  - Wörner, Janik
+  - Luttner, Lucas
+  - Leist, Susanne
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2023_rp/309"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Konadl, D., Wörner, J., Luttner, L., & Leist, S. (2023). Artificial intelligence in augmentative and alternative communication systems -a literature-based assessment and implications of different conversation phases and contexts. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2023_rp/309.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Konadl, Daniel
 AU  - Wörner, Janik
@@ -44,6 +52,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/ecis2023_rp/309
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2023_rp/309>

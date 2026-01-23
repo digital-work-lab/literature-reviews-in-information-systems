@@ -1,12 +1,13 @@
 ---
 title: "Putting a Price Tag on Personal Information - A Literature Review"
 author:
-- Wagner, Amina
-- Wessels, Nora
-- Buxmann, Peter
-- Krasnova, Hanna
+  - Wagner, Amina
+  - Wessels, Nora
+  - Buxmann, Peter
+  - Krasnova, Hanna
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.24251/HICSS.2018.474"
 url: "http://hdl.handle.net/10125/50362"
@@ -15,6 +16,13 @@ journal:
 cited_by: 23
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wagner, A., Wessels, N., Buxmann, P., & Krasnova, H. (2018). Putting a Price Tag on Personal Information - A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2018.474.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wagner, Amina
 AU  - Wessels, Nora
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2018.474
 UR  - http://hdl.handle.net/10125/50362
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2018.474>

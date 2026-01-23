@@ -1,10 +1,11 @@
 ---
 title: "Relevant Research Areas in IT Service Management - An Examination of Academic and Practitioner Literatures"
 author:
-- Marrone, Mauricio
-- Hammerle, Mara
+  - Marrone, Mauricio
+  - Hammerle, Mara
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: "https://doi.org/10.17705/1CAIS.04123"
 url: "https://aisel.aisnet.org/cais/vol41/iss1/23"
@@ -13,6 +14,13 @@ journal:
 cited_by: 15
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Marrone, M., & Hammerle, M. (2017). Relevant Research Areas in IT Service Management - An Examination of Academic and Practitioner Literatures. Communications of the Association for Information Systems, 41, 517–543. https://doi.org/10.17705/1CAIS.04123.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Marrone, Mauricio
 AU  - Hammerle, Mara
@@ -48,6 +56,7 @@ DO  - 10.17705/1CAIS.04123
 UR  - https://aisel.aisnet.org/cais/vol41/iss1/23
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.04123>

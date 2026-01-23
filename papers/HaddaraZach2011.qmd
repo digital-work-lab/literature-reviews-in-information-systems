@@ -1,10 +1,11 @@
 ---
 title: "ERP Systems in SMEs - A Literature Review"
 author:
-- Haddara, Moutaz
-- Zach, Ondrej
+  - Haddara, Moutaz
+  - Zach, Ondrej
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2011"
 doi: "https://doi.org/10.1109/HICSS.2011.191"
 url: "https://ieeexplore.ieee.org/document/5718924"
@@ -13,6 +14,13 @@ journal:
 cited_by: 54
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Haddara, M., & Zach, O. (2011). ERP Systems in SMEs - A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2011.191.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Haddara, Moutaz
 AU  - Zach, Ondrej
@@ -40,6 +48,7 @@ DO  - 10.1109/HICSS.2011.191
 UR  - https://ieeexplore.ieee.org/document/5718924
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2011.191>

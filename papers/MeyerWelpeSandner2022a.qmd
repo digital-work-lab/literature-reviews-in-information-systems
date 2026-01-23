@@ -1,11 +1,12 @@
 ---
 title: "Decentralized Finance - A Systematic Literature Review and Research Directions"
 author:
-- Meyer, Eva Andrea
-- Welpe, Isabell M.
-- Sandner, Philipp G.
+  - Meyer, Eva Andrea
+  - Welpe, Isabell M.
+  - Sandner, Philipp G.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rp/25"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Meyer, E. A., Welpe, I. M., & Sandner, P. G. (2022). Decentralized Finance - A Systematic Literature Review and Research Directions. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rp/25.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Meyer, Eva Andrea
 AU  - Welpe, Isabell M.
@@ -42,6 +50,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rp/25
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rp/25>

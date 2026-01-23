@@ -1,12 +1,13 @@
 ---
 title: "Online Display Advertising Markets - A Literature Review and Future Directions"
 author:
-- Choi, Hana
-- Mela, Carl F.
-- Balseiro, Santiago R.
-- Leary, Adam
+  - Choi, Hana
+  - Mela, Carl F.
+  - Balseiro, Santiago R.
+  - Leary, Adam
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.1287/ISRE.2019.0902"
 url: "https://www.doi.org/10.1287/ISRE.2019.0902"
@@ -15,6 +16,13 @@ journal:
 cited_by: 130
 outlet: "Information Systems Research"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Choi, H., Mela, C. F., Balseiro, S. R., & Leary, A. (2020). Online Display Advertising Markets - A Literature Review and Future Directions. Information Systems Research, 31(2), 556–575. https://doi.org/10.1287/ISRE.2019.0902.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information Systems Research"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Choi, Hana
 AU  - Mela, Carl F.
@@ -52,6 +60,7 @@ DO  - 10.1287/ISRE.2019.0902
 UR  - https://www.doi.org/10.1287/ISRE.2019.0902
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1287/ISRE.2019.0902>

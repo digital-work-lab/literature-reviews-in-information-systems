@@ -1,13 +1,14 @@
 ---
 title: "Key Performance Indicators for Business Models: A Review of Literature"
 author:
-- van de Ven, Montijn Renard
-- Machado, Paola Lara
-- Athanasopoulou, Alexia
-- Aysolmaz, Banu
-- Türetken, Oktay
+  - van de Ven, Montijn Renard
+  - Machado, Paola Lara
+  - Athanasopoulou, Alexia
+  - Aysolmaz, Banu
+  - Türetken, Oktay
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rp/126"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+{van de Ven}, M. R., Machado, P. L., Athanasopoulou, A., Aysolmaz, B., & Türetken, O. (2022). Key Performance Indicators for Business Models: A Review of Literature. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rp/126.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - {van de Ven}, Montijn Renard
 AU  - Machado, Paola Lara
@@ -46,6 +54,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rp/126
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rp/126>

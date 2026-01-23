@@ -1,11 +1,12 @@
 ---
 title: "How does Federated Learning Impact Decision-Making in Firms: A Systematic Literature Review"
 author:
-- Choudhary, Shweta Kumari
-- Kar, Arpan Kumar
-- Dwivedi, Yogesh K.
+  - Choudhary, Shweta Kumari
+  - Kar, Arpan Kumar
+  - Dwivedi, Yogesh K.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.17705/1CAIS.05419"
 url: "https://aisel.aisnet.org/cais/vol54/iss1/22"
@@ -14,6 +15,13 @@ journal:
 cited_by: 7
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Choudhary, S. K., Kar, A. K., & Dwivedi, Y. K. (2024). How does Federated Learning Impact Decision-Making in Firms: A Systematic Literature Review. Communications of the Association for Information Systems, 54, 519–546. https://doi.org/10.17705/1CAIS.05419.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Choudhary, Shweta Kumari
 AU  - Kar, Arpan Kumar
@@ -49,6 +57,7 @@ DO  - 10.17705/1CAIS.05419
 UR  - https://aisel.aisnet.org/cais/vol54/iss1/22
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05419>

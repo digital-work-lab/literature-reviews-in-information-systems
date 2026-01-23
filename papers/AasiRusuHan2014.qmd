@@ -1,11 +1,12 @@
 ---
 title: "The Influence of Culture on IT Governance - A Literature Review"
 author:
-- Aasi, Parisa
-- Rusu, Lazar
-- Han, Shengnan
+  - Aasi, Parisa
+  - Rusu, Lazar
+  - Han, Shengnan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.546"
 url: "https://ieeexplore.ieee.org/document/6759148"
@@ -14,6 +15,13 @@ journal:
 cited_by: 12
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Aasi, P., Rusu, L., & Han, S. (2014). The Influence of Culture on IT Governance - A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2014.546.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Aasi, Parisa
 AU  - Rusu, Lazar
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2014.546
 UR  - https://ieeexplore.ieee.org/document/6759148
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2014.546>

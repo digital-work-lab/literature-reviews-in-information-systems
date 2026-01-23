@@ -1,11 +1,12 @@
 ---
 title: "Systematic Review of Gamification Research in IS Education - A Multi-method Approach"
 author:
-- Osatuyi, Babajide
-- Osatuyi, Temidayo
-- de la Rosa, Ramiro
+  - Osatuyi, Babajide
+  - Osatuyi, Temidayo
+  - de la Rosa, Ramiro
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.17705/1CAIS.04205"
 url: "https://aisel.aisnet.org/cais/vol42/iss1/5"
@@ -14,6 +15,13 @@ journal:
 cited_by: 32
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Osatuyi, B., Osatuyi, T., & de la Rosa, R. (2018). Systematic Review of Gamification Research in IS Education - A Multi-method Approach. Communications of the Association for Information Systems, 42. https://doi.org/10.17705/1CAIS.04205.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Osatuyi, Babajide
 AU  - Osatuyi, Temidayo
@@ -47,6 +55,7 @@ DO  - 10.17705/1CAIS.04205
 UR  - https://aisel.aisnet.org/cais/vol42/iss1/5
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.04205>

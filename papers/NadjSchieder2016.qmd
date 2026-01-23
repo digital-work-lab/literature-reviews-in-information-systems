@@ -1,10 +1,11 @@
 ---
 title: "Quo vadis Real-Time Business Intelligence? A Descriptive literature Review and Future Directions"
 author:
-- Nadj, Mario
-- Schieder, Christian
+  - Nadj, Mario
+  - Schieder, Christian
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: ""
 url: "http://aisel.aisnet.org/ecis2016_rp/171"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Nadj, M., & Schieder, C. (2016). Quo vadis Real-Time Business Intelligence? A Descriptive literature Review and Future Directions. In European Conference on Information Systems. http://aisel.aisnet.org/ecis2016_rp/171.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Nadj, Mario
 AU  - Schieder, Christian
@@ -38,6 +46,7 @@ PY  - 2016
 UR  - http://aisel.aisnet.org/ecis2016_rp/171
 ER  - 
 ```
+
 ## Links
 
 - URL: <http://aisel.aisnet.org/ecis2016_rp/171>

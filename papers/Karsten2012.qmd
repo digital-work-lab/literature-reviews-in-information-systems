@@ -1,11 +1,12 @@
 ---
 title: "Computer Self-Efficacy"
 author:
-- Karsten, Rex
-- Mitra, Atul
-- Schmidt, Dennis
-topic: ""
-categories: ['meta-analysis']
+  - Karsten, Rex
+  - Mitra, Atul
+  - Schmidt, Dennis
+topic: "Human Computer Interaction"
+categories:
+  - meta-analysis
 date: "2012"
 doi: "https://doi.org/10.4018/JOEUC.2012100104"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 36
 outlet: "Journal of Organizational and End User Computing"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Karsten, R., Mitra, A., & Schmidt, D. (2012). Computer Self-Efficacy. Journal of Organizational and End User Computing, 24(4), 54–80. https://doi.org/10.4018/JOEUC.2012100104.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Journal of Organizational and End User Computing"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Karsten, Rex
 AU  - Mitra, Atul
@@ -48,6 +56,7 @@ EP  - 80
 DO  - 10.4018/JOEUC.2012100104
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.4018/JOEUC.2012100104>

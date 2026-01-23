@@ -1,10 +1,11 @@
 ---
 title: "The Performative and Interpretive Labour of Videoconferencing: Findings from a Literature Review on 'Zoom' Fatigue"
 author:
-- Wang, Blair
-- Prester, Julian
+  - Wang, Blair
+  - Prester, Julian
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/icis2022/is_futureofwork/is_futureofwork/5"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wang, B., & Prester, J. (2022). The Performative and Interpretive Labour of Videoconferencing: Findings from a Literature Review on 'Zoom' Fatigue. In International Conference on Information Systems. https://aisel.aisnet.org/icis2022/is_futureofwork/is_futureofwork/5.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wang, Blair
 AU  - Prester, Julian
@@ -40,6 +48,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/icis2022/is_futureofwork/is_futureofwork/5
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2022/is_futureofwork/is_futureofwork/5>

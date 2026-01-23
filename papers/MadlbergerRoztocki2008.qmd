@@ -1,10 +1,11 @@
 ---
 title: "Cross-Organizational and Cross-Border IS/IT Collaboration - A Literature Review"
 author:
-- Madlberger, Maria
-- Roztocki, Narcyz
+  - Madlberger, Maria
+  - Roztocki, Narcyz
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2008"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2008/200"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Madlberger, M., & Roztocki, N. (2008). Cross-Organizational and Cross-Border IS/IT Collaboration - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2008/200.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Madlberger, Maria
 AU  - Roztocki, Narcyz
@@ -38,6 +46,7 @@ PY  - 2008
 UR  - https://aisel.aisnet.org/amcis2008/200
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2008/200>

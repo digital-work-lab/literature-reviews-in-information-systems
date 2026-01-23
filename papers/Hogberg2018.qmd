@@ -1,9 +1,10 @@
 ---
 title: "Organizational Social Media: A Literature Review and Research Agenda"
 author:
-- Högberg, Karin
+  - Högberg, Karin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.24251/HICSS.2018.235"
 url: "http://hdl.handle.net/10125/50122"
@@ -12,6 +13,13 @@ journal:
 cited_by: 3
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Högberg, K. (2018). Organizational Social Media: A Literature Review and Research Agenda. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2018.235.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Högberg, Karin
 TI  - Organizational Social Media: A Literature Review and Research Agenda
@@ -38,6 +46,7 @@ DO  - 10.24251/HICSS.2018.235
 UR  - http://hdl.handle.net/10125/50122
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2018.235>

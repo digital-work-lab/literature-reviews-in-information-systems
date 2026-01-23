@@ -1,11 +1,12 @@
 ---
 title: "Digital transformation in disaster management: A literature review"
 author:
-- Fischer-Preßler, Diana
-- Bonaretti, Dario
-- Bunker, Deborah
+  - Fischer-Preßler, Diana
+  - Bonaretti, Dario
+  - Bunker, Deborah
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.1016/J.JSIS.2024.101865"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 13
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Fischer-Preßler, D., Bonaretti, D., & Bunker, D. (2024). Digital transformation in disaster management: A literature review. The Journal of Strategic Information Systems, 33(4), 101865. https://doi.org/10.1016/J.JSIS.2024.101865.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Fischer-Preßler, Diana
 AU  - Bonaretti, Dario
@@ -46,6 +54,7 @@ SP  - 101865
 DO  - 10.1016/J.JSIS.2024.101865
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2024.101865>

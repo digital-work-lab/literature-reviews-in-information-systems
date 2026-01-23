@@ -1,12 +1,13 @@
 ---
 title: "The role of Transaction Cost Economics in Information Technology Outsourcing research: A meta-analysis of the choice of contract type"
 author:
-- Schermann, Michael
-- Dongus, Konrad
-- Yetton, Philip
-- Krcmar, Helmut
+  - Schermann, Michael
+  - Dongus, Konrad
+  - Yetton, Philip
+  - Krcmar, Helmut
 topic: ""
-categories: ['meta-analysis']
+categories:
+  - meta-analysis
 date: "2016"
 doi: "https://doi.org/10.1016/J.JSIS.2016.02.004"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 51
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schermann, M., Dongus, K., Yetton, P., & Krcmar, H. (2016). The role of Transaction Cost Economics in Information Technology Outsourcing research: A meta-analysis of the choice of contract type. The Journal of Strategic Information Systems, 25(1). https://doi.org/10.1016/J.JSIS.2016.02.004.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Schermann, Michael
 AU  - Dongus, Konrad
@@ -46,6 +54,7 @@ IS  - 1
 DO  - 10.1016/J.JSIS.2016.02.004
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2016.02.004>

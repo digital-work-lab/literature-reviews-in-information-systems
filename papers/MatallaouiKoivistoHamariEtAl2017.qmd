@@ -1,12 +1,13 @@
 ---
 title: "How Effective Is \"Exergamification\"? A Systematic Review on the Effectiveness of Gamification Features in Exergames"
 author:
-- Matallaoui, Amir
-- Koivisto, Jonna
-- Hamari, Juho
-- Zarnekow, Rüdiger
+  - Matallaoui, Amir
+  - Koivisto, Jonna
+  - Hamari, Juho
+  - Zarnekow, Rüdiger
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: "https://doi.org/10.24251/HICSS.2017.402"
 url: "http://hdl.handle.net/10125/41560"
@@ -15,6 +16,13 @@ journal:
 cited_by: 61
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Matallaoui, A., Koivisto, J., Hamari, J., & Zarnekow, R. (2017). How Effective Is "Exergamification"? A Systematic Review on the Effectiveness of Gamification Features in Exergames. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2017.402.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Matallaoui, Amir
 AU  - Koivisto, Jonna
@@ -46,6 +54,7 @@ DO  - 10.24251/HICSS.2017.402
 UR  - http://hdl.handle.net/10125/41560
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2017.402>

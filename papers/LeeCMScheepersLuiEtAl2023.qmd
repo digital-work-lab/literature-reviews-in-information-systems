@@ -1,12 +1,13 @@
 ---
 title: "The implementation of artificial intelligence in organizations: A systematic literature review"
 author:
-- Lee, Maggie C.M.
-- Scheepers, Helana
-- Lui, Ariel K.H.
-- Ngai, Eric W.T.
+  - Lee, Maggie C.M.
+  - Scheepers, Helana
+  - Lui, Ariel K.H.
+  - Ngai, Eric W.T.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.1016/J.IM.2023.103816"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 100
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lee, M. C., Scheepers, H., Lui, A. K., & Ngai, E. W. (2023). The implementation of artificial intelligence in organizations: A systematic literature review. Information & Management, 60(5), 103816. https://doi.org/10.1016/J.IM.2023.103816.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Lee, Maggie C.M.
 AU  - Scheepers, Helana
@@ -48,6 +56,7 @@ SP  - 103816
 DO  - 10.1016/J.IM.2023.103816
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2023.103816>

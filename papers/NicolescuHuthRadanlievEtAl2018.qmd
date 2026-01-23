@@ -1,12 +1,13 @@
 ---
 title: "Mapping the values of IoT"
 author:
-- Nicolescu, Razvan
-- Huth, Michael
-- Radanliev, Petar
-- De Roure, David
+  - Nicolescu, Razvan
+  - Huth, Michael
+  - Radanliev, Petar
+  - De Roure, David
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.1057/S41265-018-0054-1"
 url: "https://www.doi.org/10.1057/S41265-"
@@ -15,6 +16,13 @@ journal:
 cited_by: 76
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Nicolescu, R., Huth, M., Radanliev, P., & De Roure, D. (2018). Mapping the values of IoT. Journal of Information Technology, 33(4), 345–360. https://doi.org/10.1057/S41265-018-0054-1.
+:::
 
 ## Citation: BibTeX
 
@@ -37,7 +45,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Nicolescu, Razvan
 AU  - Huth, Michael
@@ -54,6 +62,7 @@ DO  - 10.1057/S41265-018-0054-1
 UR  - https://www.doi.org/10.1057/S41265-
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/S41265-018-0054-1>

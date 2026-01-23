@@ -1,10 +1,11 @@
 ---
 title: "Business Value of IT: An Essay on Expanding Research Directions to Keep up with the Times"
 author:
-- Kohli, Rajiv
-- Grover, Varun
-topic: ""
-categories: ['narrative-review']
+  - Kohli, Rajiv
+  - Grover, Varun
+topic: "IS Value"
+categories:
+  - narrative-review
 date: "2008"
 doi: "https://doi.org/10.17705/1JAIS.00147"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 492
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kohli, R., & Grover, V. (2008). Business Value of IT: An Essay on Expanding Research Directions to Keep up with the Times. Journal of the Association for Information Systems, 9(1), 23–39. https://doi.org/10.17705/1JAIS.00147.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Kohli, Rajiv
 AU  - Grover, Varun
@@ -45,6 +53,7 @@ EP  - 39
 DO  - 10.17705/1JAIS.00147
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00147>

@@ -1,10 +1,11 @@
 ---
 title: "ICT-Enabled Self-Management of Chronic Diseases - Literature Review and Analysis Using Value-Sensitive Design"
 author:
-- Dadgar, Majid
-- Joshi, K. D.
+  - Dadgar, Majid
+  - Joshi, K. D.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.1109/HICSS.2015.388"
 url: "https://ieeexplore.ieee.org/document/7070203"
@@ -13,6 +14,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Dadgar, M., & Joshi, K. D. (2015). ICT-Enabled Self-Management of Chronic Diseases - Literature Review and Analysis Using Value-Sensitive Design. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2015.388.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Dadgar, Majid
 AU  - Joshi, K. D.
@@ -40,6 +48,7 @@ DO  - 10.1109/HICSS.2015.388
 UR  - https://ieeexplore.ieee.org/document/7070203
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2015.388>

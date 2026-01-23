@@ -1,10 +1,11 @@
 ---
 title: "A Strategic Management Framework for IT Outsourcing: A Review of the Literature and the Development of a Success Factors Model"
 author:
-- Fjermestad, Jerry
-- Saitta, Jo Ann
-topic: ""
-categories: ['theoretical-review']
+  - Fjermestad, Jerry
+  - Saitta, Jo Ann
+topic: "Other Domain"
+categories:
+  - theoretical-review
 date: "2005"
 doi: "https://doi.org/10.1080/15228053.2005.10856070"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 43
 outlet: "Journal of Information Technology Case and Application Research"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Fjermestad, J., & Saitta, J. A. (2005). A Strategic Management Framework for IT Outsourcing: A Review of the Literature and the Development of a Success Factors Model. Journal of Information Technology Case and Application Research, 7(3), 42–60. https://doi.org/10.1080/15228053.2005.10856070.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of Information Technology Case and Application Research"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Fjermestad, Jerry
 AU  - Saitta, Jo Ann
@@ -45,6 +53,7 @@ EP  - 60
 DO  - 10.1080/15228053.2005.10856070
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/15228053.2005.10856070>

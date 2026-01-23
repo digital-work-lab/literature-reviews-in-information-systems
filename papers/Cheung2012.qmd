@@ -1,10 +1,12 @@
 ---
 title: "The impact of electronic word-of-mouth communication: A literature analysis and integrative model"
 author:
-- Cheung, Christy M.K.
-- Thadani, Dimple R.
-topic: ""
-categories: ['theoretical-review', 'highly-cited']
+  - Cheung, Christy M.K.
+  - Thadani, Dimple R.
+topic: "E-Commerce"
+categories:
+  - theoretical-review
+  - highly-cited
 date: "2012"
 doi: "https://doi.org/10.1016/J.DSS.2012.06.008"
 url: ""
@@ -13,6 +15,13 @@ journal:
 cited_by: 1133
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Cheung, C. M., & Thadani, D. R. (2012). The impact of electronic word-of-mouth communication: A literature analysis and integrative model. Decision Support Systems, 54(1), 461–470. https://doi.org/10.1016/J.DSS.2012.06.008.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +40,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Cheung, Christy M.K.
 AU  - Thadani, Dimple R.
@@ -45,6 +54,7 @@ EP  - 470
 DO  - 10.1016/J.DSS.2012.06.008
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2012.06.008>

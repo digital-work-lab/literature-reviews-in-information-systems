@@ -1,9 +1,10 @@
 ---
 title: "Measuring the Immeasurable? the Intangible Benefits of Digital Information"
 author:
-- Ahlin, Karin
+  - Ahlin, Karin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.24251/HICSS.2019.743"
 url: "http://hdl.handle.net/10125/60052"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ahlin, K. (2019). Measuring the Immeasurable? the Intangible Benefits of Digital Information. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2019.743.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Ahlin, Karin
 TI  - Measuring the Immeasurable? the Intangible Benefits of Digital Information
@@ -40,6 +48,7 @@ DO  - 10.24251/HICSS.2019.743
 UR  - http://hdl.handle.net/10125/60052
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2019.743>

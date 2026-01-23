@@ -1,11 +1,12 @@
 ---
 title: "IT-Based Value Co-Creation - A Literature Review and Directions for Future Research"
 author:
-- Mandrella, Markus
-- Zander, Sebastian
-- Kolbe, Lutz M.
+  - Mandrella, Markus
+  - Zander, Sebastian
+  - Kolbe, Lutz M.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.1109/HICSS.2016.43"
 url: "https://ieeexplore.ieee.org/document/7427218"
@@ -14,6 +15,13 @@ journal:
 cited_by: 10
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Mandrella, M., Zander, S., & Kolbe, L. M. (2016). IT-Based Value Co-Creation - A Literature Review and Directions for Future Research. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2016.43.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Mandrella, Markus
 AU  - Zander, Sebastian
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2016.43
 UR  - https://ieeexplore.ieee.org/document/7427218
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2016.43>

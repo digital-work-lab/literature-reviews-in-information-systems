@@ -1,13 +1,14 @@
 ---
 title: "Barriers to Data Sharing among Private Sector Organizations"
 author:
-- Fassnacht, Marcel
-- Benz, Carina
-- Heinz, Daniel
-- Leimstoll, Jannis
-- Satzger, Gerhard
+  - Fassnacht, Marcel
+  - Benz, Carina
+  - Heinz, Daniel
+  - Leimstoll, Jannis
+  - Satzger, Gerhard
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.453"
 url: "https://hdl.handle.net/10125/103084"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Fassnacht, M., Benz, C., Heinz, D., Leimstoll, J., & Satzger, G. (2023). Barriers to Data Sharing among Private Sector Organizations. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.453.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Fassnacht, Marcel
 AU  - Benz, Carina
@@ -49,6 +57,7 @@ DO  - 10.24251/HICSS.2023.453
 UR  - https://hdl.handle.net/10125/103084
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.453>

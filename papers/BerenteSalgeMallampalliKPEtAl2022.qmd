@@ -1,12 +1,13 @@
 ---
 title: "Rethinking Project Escalation: An Institutional Perspective on the Persistence of Failing Large-Scale Information System Projects"
 author:
-- Berente, Nicholas
-- Salge, Carolina Alves de Lima
-- Mallampalli, Venkata K.P.
-- Park, Ken
+  - Berente, Nicholas
+  - Salge, Carolina Alves de Lima
+  - Mallampalli, Venkata K.P.
+  - Park, Ken
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.1080/07421222.2022.2096545"
 url: "https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096545"
@@ -15,6 +16,13 @@ journal:
 cited_by: 5
 outlet: "Journal of Management Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Berente, N., Salge, C. A. D. L., Mallampalli, V. K., & Park, K. (2022). Rethinking Project Escalation: An Institutional Perspective on the Persistence of Failing Large-Scale Information System Projects. Journal of Management Information Systems, 39(3), 640–672. https://doi.org/10.1080/07421222.2022.2096545.
+:::
 
 ## Citation: BibTeX
 
@@ -36,7 +44,7 @@ outlet: "Journal of Management Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Berente, Nicholas
 AU  - Salge, Carolina Alves de Lima
@@ -53,6 +61,7 @@ DO  - 10.1080/07421222.2022.2096545
 UR  - https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096545
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/07421222.2022.2096545>

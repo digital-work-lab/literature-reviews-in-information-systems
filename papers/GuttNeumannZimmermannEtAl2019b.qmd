@@ -1,13 +1,14 @@
 ---
 title: "Design of review systems – A strategic instrument to shape online reviewing behavior and economic outcomes"
 author:
-- Gutt, Dominik
-- Neumann, Jürgen
-- Zimmermann, Steffen
-- Kundisch, Dennis
-- Chen, Jianqing
+  - Gutt, Dominik
+  - Neumann, Jürgen
+  - Zimmermann, Steffen
+  - Kundisch, Dennis
+  - Chen, Jianqing
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.1016/J.JSIS.2019.01.004"
 url: ""
@@ -16,6 +17,13 @@ journal:
 cited_by: 71
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gutt, D., Neumann, J., Zimmermann, S., Kundisch, D., & Chen, J. (2019). Design of review systems – A strategic instrument to shape online reviewing behavior and economic outcomes. The Journal of Strategic Information Systems, 28(2), 104–117. https://doi.org/10.1016/J.JSIS.2019.01.004.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Gutt, Dominik
 AU  - Neumann, Jürgen
@@ -51,6 +59,7 @@ EP  - 117
 DO  - 10.1016/J.JSIS.2019.01.004
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2019.01.004>

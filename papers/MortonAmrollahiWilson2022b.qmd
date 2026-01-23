@@ -1,11 +1,12 @@
 ---
 title: "Digital strategizing: An assessing review, definition, and research agenda"
 author:
-- Morton, Josh
-- Amrollahi, Alireza
-- Wilson, Alexander D.
+  - Morton, Josh
+  - Amrollahi, Alireza
+  - Wilson, Alexander D.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.1016/J.JSIS.2022.101720"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 30
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Morton, J., Amrollahi, A., & Wilson, A. D. (2022). Digital strategizing: An assessing review, definition, and research agenda. The Journal of Strategic Information Systems, 31(2). https://doi.org/10.1016/J.JSIS.2022.101720.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Morton, Josh
 AU  - Amrollahi, Alireza
@@ -44,6 +52,7 @@ IS  - 2
 DO  - 10.1016/J.JSIS.2022.101720
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2022.101720>

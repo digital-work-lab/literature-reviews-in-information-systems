@@ -1,13 +1,14 @@
 ---
 title: "Virtual Reality Technologies in Health Care: A Literature Review of Theoretical Foundations"
 author:
-- Knop, Michael
-- Ressing, Caroline
-- Mueller, Marius
-- Weber, Sebastian
-- Freude, Henrik
+  - Knop, Michael
+  - Ressing, Caroline
+  - Mueller, Marius
+  - Weber, Sebastian
+  - Freude, Henrik
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.223"
 url: "http://hdl.handle.net/10125/79555"
@@ -16,6 +17,13 @@ journal:
 cited_by: 6
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Knop, M., Ressing, C., Mueller, M., Weber, S., & Freude, H. (2022). Virtual Reality Technologies in Health Care: A Literature Review of Theoretical Foundations. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.223.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Knop, Michael
 AU  - Ressing, Caroline
@@ -49,6 +57,7 @@ DO  - 10.24251/HICSS.2022.223
 UR  - http://hdl.handle.net/10125/79555
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.223>

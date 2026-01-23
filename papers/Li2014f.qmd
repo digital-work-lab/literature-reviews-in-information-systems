@@ -1,11 +1,12 @@
 ---
 title: "Research on IT in China: A Call for Greater Contextualization"
 author:
-- Li, Liang
-- Gao, Ping
-- Mao, Ji-Ye
-topic: ""
-categories: ['descriptive-review']
+  - Li, Liang
+  - Gao, Ping
+  - Mao, Ji-Ye
+topic: "Technology Acceptance, and Use"
+categories:
+  - descriptive-review
 date: "2014"
 doi: "https://doi.org/10.1057/JIT.2014.15"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 24
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Li, L., Gao, P., & Mao, J.-Y. (2014). Research on IT in China: A Call for Greater Contextualization. Journal of Information Technology, 29(3), 208–222. https://doi.org/10.1057/JIT.2014.15.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Li, Liang
 AU  - Gao, Ping
@@ -48,6 +56,7 @@ EP  - 222
 DO  - 10.1057/JIT.2014.15
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/JIT.2014.15>

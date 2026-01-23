@@ -1,12 +1,13 @@
 ---
 title: "Security in grid computing: A review and synthesis"
 author:
-- Cody, Erin
-- Sharman, Raj
-- Rao, Raghav H.
-- Upadhyaya, Shambhu
-topic: ""
-categories: ['scoping-review']
+  - Cody, Erin
+  - Sharman, Raj
+  - Rao, Raghav H.
+  - Upadhyaya, Shambhu
+topic: "Security"
+categories:
+  - scoping-review
 date: "2008"
 doi: "https://doi.org/10.1016/J.DSS.2007.09.007"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 37
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Cody, E., Sharman, R., Rao, R. H., & Upadhyaya, S. (2008). Security in grid computing: A review and synthesis. Decision Support Systems, 44(4), 749–764. https://doi.org/10.1016/J.DSS.2007.09.007.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Cody, Erin
 AU  - Sharman, Raj
@@ -49,6 +57,7 @@ EP  - 764
 DO  - 10.1016/J.DSS.2007.09.007
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2007.09.007>

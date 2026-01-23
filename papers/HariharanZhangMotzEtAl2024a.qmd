@@ -1,12 +1,13 @@
 ---
 title: "Accessible data lineage: A scoping review on open-source data lineage platforms"
 author:
-- Hariharan, Anuja
-- Zhang, Tianren
-- Motz, Marvin
-- Weinhardt, Christof
+  - Hariharan, Anuja
+  - Zhang, Tianren
+  - Motz, Marvin
+  - Weinhardt, Christof
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/icis2024/data_soc/data_soc/5"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hariharan, A., Zhang, T., Motz, M., & Weinhardt, C. (2024). Accessible data lineage: A scoping review on open-source data lineage platforms. In International Conference on Information Systems. https://aisel.aisnet.org/icis2024/data_soc/data_soc/5.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hariharan, Anuja
 AU  - Zhang, Tianren
@@ -43,6 +51,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/icis2024/data_soc/data_soc/5
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2024/data_soc/data_soc/5>

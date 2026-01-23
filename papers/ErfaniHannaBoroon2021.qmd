@@ -1,11 +1,12 @@
 ---
 title: "Social Network Sites Use and Psychological distress: A Systematic Review"
 author:
-- Erfani, Eila
-- Samy Helmy Hanna, Andrew
-- Boroon, Layla
+  - Erfani, Eila
+  - Samy Helmy Hanna, Andrew
+  - Boroon, Layla
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.364"
 url: "https://hdl.handle.net/10125/70978"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Erfani, E., Samy Helmy Hanna, A., & Boroon, L. (2021). Social Network Sites Use and Psychological distress: A Systematic Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.364.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Erfani, Eila
 AU  - Samy Helmy Hanna, Andrew
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2021.364
 UR  - https://hdl.handle.net/10125/70978
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.364>

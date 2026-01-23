@@ -1,12 +1,13 @@
 ---
 title: "IT’s a matter of trust: Literature reviews and analyses of human trust in information technology"
 author:
-- Lacity, Mary C
-- Schuetz, Sebastian W
-- Kuai, Le
-- Steelman, Zachary R
+  - Lacity, Mary C
+  - Schuetz, Sebastian W
+  - Kuai, Le
+  - Steelman, Zachary R
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.1177/02683962231226397"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 18
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lacity, M. C., Schuetz, S. W., Kuai, L., & Steelman, Z. R. (2025). IT’s a matter of trust: Literature reviews and analyses of human trust in information technology. Journal of Information Technology, 40(3), 286–313. https://doi.org/10.1177/02683962231226397.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Lacity, Mary C
 AU  - Schuetz, Sebastian W
@@ -51,6 +59,7 @@ EP  - 313
 DO  - 10.1177/02683962231226397
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1177/02683962231226397>

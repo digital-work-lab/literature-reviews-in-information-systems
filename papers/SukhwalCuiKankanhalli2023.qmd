@@ -1,11 +1,12 @@
 ---
 title: "Knowledge Transfer between Humans and Conversational Agents: A Review, Organizing Framework, and Future Directions"
 author:
-- Sukhwal, Prakash Chandra
-- Cui, Wei
-- Kankanhalli, Atreyi
+  - Sukhwal, Prakash Chandra
+  - Cui, Wei
+  - Kankanhalli, Atreyi
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.556"
 url: "https://hdl.handle.net/10125/103188"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Sukhwal, P. C., Cui, W., & Kankanhalli, A. (2023). Knowledge Transfer between Humans and Conversational Agents: A Review, Organizing Framework, and Future Directions. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.556.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Sukhwal, Prakash Chandra
 AU  - Cui, Wei
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2023.556
 UR  - https://hdl.handle.net/10125/103188
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.556>

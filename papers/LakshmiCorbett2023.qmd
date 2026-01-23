@@ -1,10 +1,11 @@
 ---
 title: "Using AI to Improve Sustainable Agricultural Practices: A Literature Review and Research Agenda"
 author:
-- Lakshmi, Vijaya
-- Corbett, Jacqueline
+  - Lakshmi, Vijaya
+  - Corbett, Jacqueline
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.17705/1CAIS.05305"
 url: "https://aisel.aisnet.org/cais/vol53/iss1/1"
@@ -13,6 +14,13 @@ journal:
 cited_by: 4
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lakshmi, V., & Corbett, J. (2023). Using AI to Improve Sustainable Agricultural Practices: A Literature Review and Research Agenda. Communications of the Association for Information Systems, 53, 96–137. https://doi.org/10.17705/1CAIS.05305.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Lakshmi, Vijaya
 AU  - Corbett, Jacqueline
@@ -47,6 +55,7 @@ DO  - 10.17705/1CAIS.05305
 UR  - https://aisel.aisnet.org/cais/vol53/iss1/1
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05305>

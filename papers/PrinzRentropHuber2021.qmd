@@ -1,11 +1,12 @@
 ---
 title: "Low-Code Development Platforms - A Literature Review"
 author:
-- Prinz, Niculin
-- Rentrop, Christopher
-- Huber, Melanie
+  - Prinz, Niculin
+  - Rentrop, Christopher
+  - Huber, Melanie
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/2"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Prinz, N., Rentrop, C., & Huber, M. (2021). Low-Code Development Platforms - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/2.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Prinz, Niculin
 AU  - Rentrop, Christopher
@@ -40,6 +48,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/2
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/2>

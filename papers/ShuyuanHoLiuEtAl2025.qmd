@@ -1,14 +1,15 @@
 ---
 title: "Synthetic Lies, Digital Truths: A Systematic Review of Computer-Mediated Deception Research in the Era of AI and Deepfakes"
 author:
-- Shuyuan, Mary
-- Ho, 
-- Liu, Yue
-- Hussain, Ghazal
-- Gori, Giacomo
-- Kaur, Rasleen
+  - Shuyuan, Mary
+  - Ho,
+  - Liu, Yue
+  - Hussain, Ghazal
+  - Gori, Giacomo
+  - Kaur, Rasleen
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: ""
@@ -17,6 +18,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Shuyuan, M., Ho, Liu, Y., Hussain, G., Gori, G., & Kaur, R. (2025). Synthetic Lies, Digital Truths: A Systematic Review of Computer-Mediated Deception Research in the Era of AI and Deepfakes. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Shuyuan, Mary
 AU  - Ho,

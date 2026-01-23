@@ -1,10 +1,11 @@
 ---
 title: "An integrative semiotic framework for information systems: The social, personal and material worlds"
 author:
-- Mingers, John
-- Willcocks, Leslie
-topic: ""
-categories: ['narrative-review']
+  - Mingers, John
+  - Willcocks, Leslie
+topic: "Human Computer Interaction"
+categories:
+  - narrative-review
 date: "2014"
 doi: "https://doi.org/10.1016/J.INFOANDORG.2014.01.002"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 52
 outlet: "Information and Organization"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Mingers, J., & Willcocks, L. (2014). An integrative semiotic framework for information systems: The social, personal and material worlds. Information and Organization, 24(1), 48–70. https://doi.org/10.1016/J.INFOANDORG.2014.01.002.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Information and Organization"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Mingers, John
 AU  - Willcocks, Leslie
@@ -45,6 +53,7 @@ EP  - 70
 DO  - 10.1016/J.INFOANDORG.2014.01.002
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.INFOANDORG.2014.01.002>

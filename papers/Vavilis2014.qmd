@@ -1,11 +1,12 @@
 ---
 title: "A reference model for reputation systems"
 author:
-- Vavilis, Sokratis
-- Petković, Milan
-- Zannone, Nicola
-topic: ""
-categories: ['narrative-review']
+  - Vavilis, Sokratis
+  - Petković, Milan
+  - Zannone, Nicola
+topic: "Software Development"
+categories:
+  - narrative-review
 date: "2014"
 doi: "https://doi.org/10.1016/J.DSS.2014.02.002"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 62
 outlet: "Decision Support Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Vavilis, S., Petković, M., & Zannone, N. (2014). A reference model for reputation systems. Decision Support Systems, 61(no issue), 147–154. https://doi.org/10.1016/J.DSS.2014.02.002.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Decision Support Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Vavilis, Sokratis
 AU  - Petković, Milan
@@ -47,6 +55,7 @@ EP  - 154
 DO  - 10.1016/J.DSS.2014.02.002
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.DSS.2014.02.002>

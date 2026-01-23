@@ -1,10 +1,11 @@
 ---
 title: "Structuring Collaborative Business Intelligence - A Literature Review"
 author:
-- Kaufmann, Jens
-- Chamoni, Peter
+  - Kaufmann, Jens
+  - Chamoni, Peter
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.465"
 url: "https://ieeexplore.ieee.org/document/6759067"
@@ -13,6 +14,13 @@ journal:
 cited_by: 6
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kaufmann, J., & Chamoni, P. (2014). Structuring Collaborative Business Intelligence - A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2014.465.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kaufmann, Jens
 AU  - Chamoni, Peter
@@ -40,6 +48,7 @@ DO  - 10.1109/HICSS.2014.465
 UR  - https://ieeexplore.ieee.org/document/6759067
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2014.465>

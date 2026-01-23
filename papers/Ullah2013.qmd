@@ -1,10 +1,11 @@
 ---
 title: "A Systematic Review of Business and Information Technology Alignment"
 author:
-- Ullah, Azmat
-- Lai, Richard
-topic: ""
-categories: ['narrative-review']
+  - Ullah, Azmat
+  - Lai, Richard
+topic: "Other Domain"
+categories:
+  - narrative-review
 date: "2013"
 doi: "https://doi.org/10.1145/2445560.2445564"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 72
 outlet: "ACM Transactions on Management Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ullah, A., & Lai, R. (2013). A Systematic Review of Business and Information Technology Alignment. ACM Transactions on Management Information Systems, 4(1), 1–30. https://doi.org/10.1145/2445560.2445564.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "ACM Transactions on Management Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ullah, Azmat
 AU  - Lai, Richard
@@ -46,6 +54,7 @@ EP  - 30
 DO  - 10.1145/2445560.2445564
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1145/2445560.2445564>

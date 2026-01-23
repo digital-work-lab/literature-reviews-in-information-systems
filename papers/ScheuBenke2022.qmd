@@ -1,10 +1,11 @@
 ---
 title: "Digital Assistants for Self-Regulated Learning: Towards a State-Of-The-Art Overview"
 author:
-- Scheu, Sven
-- Benke, Ivo
+  - Scheu, Sven
+  - Benke, Ivo
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rip/46"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Scheu, S., & Benke, I. (2022). Digital Assistants for Self-Regulated Learning: Towards a State-Of-The-Art Overview. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rip/46.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Scheu, Sven
 AU  - Benke, Ivo
@@ -40,6 +48,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rip/46
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rip/46>

@@ -1,11 +1,12 @@
 ---
 title: "User Engagement and Beyond: A Conceptual Framework for Engagement in Information Systems Research"
 author:
-- Benz, Carina
-- Riefle, Lara
-- Satzger, Gerhard
+  - Benz, Carina
+  - Riefle, Lara
+  - Satzger, Gerhard
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.17705/1CAIS.05412"
 url: "https://aisel.aisnet.org/cais/vol54/iss1/15"
@@ -14,6 +15,13 @@ journal:
 cited_by: 4
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Benz, C., Riefle, L., & Satzger, G. (2024). User Engagement and Beyond: A Conceptual Framework for Engagement in Information Systems Research. Communications of the Association for Information Systems, 54, 331–359. https://doi.org/10.17705/1CAIS.05412.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Benz, Carina
 AU  - Riefle, Lara
@@ -49,6 +57,7 @@ DO  - 10.17705/1CAIS.05412
 UR  - https://aisel.aisnet.org/cais/vol54/iss1/15
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05412>

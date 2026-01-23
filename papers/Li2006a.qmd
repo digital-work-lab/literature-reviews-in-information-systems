@@ -1,10 +1,11 @@
 ---
 title: "An Evolutionary Information-Processing Theory of Knowledge Creation"
 author:
-- Li, Yuan
-- Kettinger, William
-topic: ""
-categories: ['theoretical-review']
+  - Li, Yuan
+  - Kettinger, William
+topic: "Knowledge Management"
+categories:
+  - theoretical-review
 date: "2006"
 doi: "https://doi.org/10.17705/1JAIS.00101"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 17
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Li, Y., & Kettinger, W. (2006). An Evolutionary Information-Processing Theory of Knowledge Creation. Journal of the Association for Information Systems, 7(9), 593–617. https://doi.org/10.17705/1JAIS.00101.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Li, Yuan
 AU  - Kettinger, William
@@ -45,6 +53,7 @@ EP  - 617
 DO  - 10.17705/1JAIS.00101
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00101>

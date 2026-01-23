@@ -1,11 +1,12 @@
 ---
 title: "The Impact of New Technologies on Learning - A Literature review on Mobile Collaborative Learning"
 author:
-- Alyami, Abdulrahman
-- Pileggi, Salvatore F.
-- Hawryszkiewycz, Igor T.
+  - Alyami, Abdulrahman
+  - Pileggi, Salvatore F.
+  - Hawryszkiewycz, Igor T.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2020/213"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Alyami, A., Pileggi, S. F., & Hawryszkiewycz, I. T. (2020). The Impact of New Technologies on Learning - A Literature review on Mobile Collaborative Learning. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2020/213.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Alyami, Abdulrahman
 AU  - Pileggi, Salvatore F.
@@ -40,6 +48,7 @@ PY  - 2020
 UR  - https://aisel.aisnet.org/pacis2020/213
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2020/213>

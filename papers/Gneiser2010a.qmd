@@ -1,9 +1,10 @@
 ---
 title: "Value-based CRM"
 author:
-- Gneiser, Martin S.
-topic: ""
-categories: ['narrative-review']
+  - Gneiser, Martin S.
+topic: "Other Domain"
+categories:
+  - narrative-review
 date: "2010"
 doi: "https://doi.org/10.1007/S12599-010-0095-7"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 17
 outlet: "Business & Information Systems Engineering"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gneiser, M. S. (2010). Value-based CRM. Business & Information Systems Engineering, 2(2), 95–103. https://doi.org/10.1007/S12599-010-0095-7.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Business & Information Systems Engineering"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Gneiser, Martin S.
 TI  - Value-based CRM
@@ -43,6 +51,7 @@ EP  - 103
 DO  - 10.1007/S12599-010-0095-7
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S12599-010-0095-7>

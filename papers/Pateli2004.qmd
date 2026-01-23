@@ -1,10 +1,11 @@
 ---
 title: "A research framework for analysing eBusiness models"
 author:
-- Pateli, Adamantia G
-- Giaglis, George M
-topic: ""
-categories: ['scoping-review']
+  - Pateli, Adamantia G
+  - Giaglis, George M
+topic: "E-Commerce"
+categories:
+  - scoping-review
 date: "2004"
 doi: "https://doi.org/10.1057/PALGRAVE.EJIS.3000513"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 201
 outlet: "European Journal of Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Pateli, A. G., & Giaglis, G. M. (2004). A research framework for analysing eBusiness models. European Journal of Information Systems, 13(4), 302–314. https://doi.org/10.1057/PALGRAVE.EJIS.3000513.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Journal of Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Pateli, Adamantia G
 AU  - Giaglis, George M
@@ -45,6 +53,7 @@ EP  - 314
 DO  - 10.1057/PALGRAVE.EJIS.3000513
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/PALGRAVE.EJIS.3000513>

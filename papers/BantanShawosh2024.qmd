@@ -1,10 +1,11 @@
 ---
 title: "Chief Privacy Officer: A Systematic Literature Review and Future Research Directions"
 author:
-- Bantan, May
-- Shawosh, Mazen
+  - Bantan, May
+  - Shawosh, Mazen
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.17705/1CAIS.05429"
 url: "https://aisel.aisnet.org/cais/vol54/iss1/13"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Bantan, M., & Shawosh, M. (2024). Chief Privacy Officer: A Systematic Literature Review and Future Research Directions. Communications of the Association for Information Systems, 54, 792–814. https://doi.org/10.17705/1CAIS.05429.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Bantan, May
 AU  - Shawosh, Mazen
@@ -47,6 +55,7 @@ DO  - 10.17705/1CAIS.05429
 UR  - https://aisel.aisnet.org/cais/vol54/iss1/13
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05429>

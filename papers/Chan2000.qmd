@@ -1,9 +1,10 @@
 ---
 title: "IT Value: The Great Divide Between Qualitative and Quantitative and Individual and Organizational Measures"
 author:
-- Chan, Yolande E.
-topic: ""
-categories: ['descriptive-review']
+  - Chan, Yolande E.
+topic: "IS Value"
+categories:
+  - descriptive-review
 date: "2000"
 doi: "https://doi.org/10.1080/07421222.2000.11518272"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 166
 outlet: "Journal of Management Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chan, Y. E. (2000). IT Value: The Great Divide Between Qualitative and Quantitative and Individual and Organizational Measures. Journal of Management Information Systems, 16(4), 225–261. https://doi.org/10.1080/07421222.2000.11518272.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Journal of Management Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Chan, Yolande E.
 TI  - IT Value: The Great Divide Between Qualitative and Quantitative and Individual and Organizational Measures
@@ -43,6 +51,7 @@ EP  - 261
 DO  - 10.1080/07421222.2000.11518272
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/07421222.2000.11518272>

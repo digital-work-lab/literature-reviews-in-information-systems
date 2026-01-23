@@ -1,10 +1,11 @@
 ---
 title: "Toward a refined conceptualization of IS discontinuance - Reflection on the past and a way forward"
 author:
-- Soliman, Wael
-- Rinta-Kahila, Tapani
+  - Soliman, Wael
+  - Rinta-Kahila, Tapani
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.1016/J.IM.2019.05.002"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720618303793"
@@ -13,6 +14,13 @@ journal:
 cited_by: 69
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Soliman, W., & Rinta-Kahila, T. (2020). Toward a refined conceptualization of IS discontinuance - Reflection on the past and a way forward. Information & Management, 57(2), 103167. https://doi.org/10.1016/J.IM.2019.05.002.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Soliman, Wael
 AU  - Rinta-Kahila, Tapani
@@ -48,6 +56,7 @@ DO  - 10.1016/J.IM.2019.05.002
 UR  - https://www.sciencedirect.com/science/article/pii/S0378720618303793
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2019.05.002>

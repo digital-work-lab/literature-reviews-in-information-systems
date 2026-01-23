@@ -1,10 +1,11 @@
 ---
 title: "Do Ontological Guidelines Improve Understandability of Conceptual Models? A Meta-analysis of Empirical Work"
 author:
-- Saghafi, Arash
-- Wand, Yair
+  - Saghafi, Arash
+  - Wand, Yair
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.567"
 url: "https://ieeexplore.ieee.org/document/6759168/"
@@ -13,6 +14,13 @@ journal:
 cited_by: 7
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Saghafi, A., & Wand, Y. (2014). Do Ontological Guidelines Improve Understandability of Conceptual Models? A Meta-analysis of Empirical Work. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2014.567.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Saghafi, Arash
 AU  - Wand, Yair
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2014.567
 UR  - https://ieeexplore.ieee.org/document/6759168/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2014.567>

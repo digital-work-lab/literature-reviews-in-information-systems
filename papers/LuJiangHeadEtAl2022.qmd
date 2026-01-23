@@ -1,12 +1,13 @@
 ---
 title: "A Systematic Review of Leadership in Online Communities: Social Leaders, Technical Leaders, and Impacts"
 author:
-- Lu, Xuecong
-- Jiang, Jinglu
-- Head, Milena M.
-- Yang, Junyi
+  - Lu, Xuecong
+  - Jiang, Jinglu
+  - Head, Milena M.
+  - Yang, Junyi
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2022/vcc/vcc/10"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lu, X., Jiang, J., Head, M. M., & Yang, J. (2022). A Systematic Review of Leadership in Online Communities: Social Leaders, Technical Leaders, and Impacts. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2022/vcc/vcc/10.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Lu, Xuecong
 AU  - Jiang, Jinglu
@@ -45,6 +53,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/amcis2022/vcc/vcc/10
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2022/vcc/vcc/10>

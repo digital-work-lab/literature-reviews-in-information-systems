@@ -1,11 +1,12 @@
 ---
 title: "Gambling in Digital Games and Esports: A Scoping Review"
 author:
-- Mattinen, Topias
-- Macey, Joseph
-- Hamari, Juho
+  - Mattinen, Topias
+  - Macey, Joseph
+  - Hamari, Juho
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.479"
 url: "https://hdl.handle.net/10125/103110"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Mattinen, T., Macey, J., & Hamari, J. (2023). Gambling in Digital Games and Esports: A Scoping Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.479.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Mattinen, Topias
 AU  - Macey, Joseph
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2023.479
 UR  - https://hdl.handle.net/10125/103110
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.479>

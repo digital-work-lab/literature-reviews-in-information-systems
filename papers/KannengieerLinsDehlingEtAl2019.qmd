@@ -1,12 +1,13 @@
 ---
 title: "What Does Not Fit Can be Made to Fit! Trade-Offs in Distributed Ledger Technology Designs"
 author:
-- Kannengießer, Niclas
-- Lins, Sebastian
-- Dehling, Tobias
-- Sunyaev, Ali
+  - Kannengießer, Niclas
+  - Lins, Sebastian
+  - Dehling, Tobias
+  - Sunyaev, Ali
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.24251/HICSS.2019.848"
 url: "http://hdl.handle.net/10125/60143"
@@ -15,6 +16,13 @@ journal:
 cited_by: 24
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kannengießer, N., Lins, S., Dehling, T., & Sunyaev, A. (2019). What Does Not Fit Can be Made to Fit! Trade-Offs in Distributed Ledger Technology Designs. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2019.848.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kannengießer, Niclas
 AU  - Lins, Sebastian
@@ -46,6 +54,7 @@ DO  - 10.24251/HICSS.2019.848
 UR  - http://hdl.handle.net/10125/60143
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2019.848>

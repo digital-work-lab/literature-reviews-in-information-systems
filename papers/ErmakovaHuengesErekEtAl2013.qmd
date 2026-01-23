@@ -1,12 +1,13 @@
 ---
 title: "Cloud Computing in Healthcare - a Literature Review on Current State of Research"
 author:
-- Ermakova, Tatiana
-- Huenges, Jan
-- Erek, Koray
-- Zarnekow, Rüdiger
+  - Ermakova, Tatiana
+  - Huenges, Jan
+  - Erek, Koray
+  - Zarnekow, Rüdiger
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2013"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2013/HealthInformation/GeneralPresentations/17"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ermakova, T., Huenges, J., Erek, K., & Zarnekow, R. (2013). Cloud Computing in Healthcare - a Literature Review on Current State of Research. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2013/HealthInformation/GeneralPresentations/17.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Ermakova, Tatiana
 AU  - Huenges, Jan
@@ -42,6 +50,7 @@ PY  - 2013
 UR  - https://aisel.aisnet.org/amcis2013/HealthInformation/GeneralPresentations/17
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2013/HealthInformation/GeneralPresentations/17>

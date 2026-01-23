@@ -1,10 +1,11 @@
 ---
 title: "Is There More Than Pokémon Go? - Exploring the State of Research on Causal Modeling in the Field of Augmented Reality"
 author:
-- Bräker, Julia
-- Semmann, Martin
+  - Bräker, Julia
+  - Semmann, Martin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.163"
 url: "https://hdl.handle.net/10125/102793"
@@ -13,6 +14,13 @@ journal:
 cited_by: 6
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Bräker, J., & Semmann, M. (2023). Is There More Than Pokémon Go? - Exploring the State of Research on Causal Modeling in the Field of Augmented Reality. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.163.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Bräker, Julia
 AU  - Semmann, Martin
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2023.163
 UR  - https://hdl.handle.net/10125/102793
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.163>

@@ -1,9 +1,10 @@
 ---
 title: "A Review on Social Media channel Choice Determinants in Organizations"
 author:
-- Arslan, Kader
+  - Arslan, Kader
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2021_rip/37"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Arslan, K. (2021). A Review on Social Media channel Choice Determinants in Organizations. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2021_rip/37.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Arslan, Kader
 TI  - A Review on Social Media channel Choice Determinants in Organizations
@@ -37,6 +45,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/ecis2021_rip/37
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2021_rip/37>

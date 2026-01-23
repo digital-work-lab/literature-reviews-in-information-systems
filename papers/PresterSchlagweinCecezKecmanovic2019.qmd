@@ -1,11 +1,12 @@
 ---
 title: "Crowdsourcing for Education - literature Review, Conceptual Framework, and Research Agenda"
 author:
-- Prester, Julian
-- Schlagwein, Daniel
-- Cecez-Kecmanovic, Dubravka
+  - Prester, Julian
+  - Schlagwein, Daniel
+  - Cecez-Kecmanovic, Dubravka
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2019_rp/114"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Prester, J., Schlagwein, D., & Cecez-Kecmanovic, D. (2019). Crowdsourcing for Education - literature Review, Conceptual Framework, and Research Agenda. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2019_rp/114.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Prester, Julian
 AU  - Schlagwein, Daniel
@@ -40,6 +48,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/ecis2019_rp/114
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2019_rp/114>

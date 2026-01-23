@@ -1,11 +1,12 @@
 ---
 title: "Risk management in ERP project introduction: Review of the literature"
 author:
-- Aloini, Davide
-- Dulmin, Riccardo
-- Mininno, Valeria
-topic: ""
-categories: ['descriptive-review']
+  - Aloini, Davide
+  - Dulmin, Riccardo
+  - Mininno, Valeria
+topic: "Other Domain"
+categories:
+  - descriptive-review
 date: "2007"
 doi: "https://doi.org/10.1016/J.IM.2007.05.004"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 233
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Aloini, D., Dulmin, R., & Mininno, V. (2007). Risk management in ERP project introduction: Review of the literature. Information & Management, 44(6), 547–567. https://doi.org/10.1016/J.IM.2007.05.004.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Aloini, Davide
 AU  - Dulmin, Riccardo
@@ -47,6 +55,7 @@ EP  - 567
 DO  - 10.1016/J.IM.2007.05.004
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2007.05.004>

@@ -1,10 +1,11 @@
 ---
 title: "The Embeddedness of Information Systems Habits in Organizational and Individual Level Routines: Development and Disruption1"
 author:
-- Polites, Greta L.
-- Karahanna, Elena
-topic: ""
-categories: ['theoretical-review']
+  - Polites, Greta L.
+  - Karahanna, Elena
+topic: "Human Computer Interaction"
+categories:
+  - theoretical-review
 date: "2013"
 doi: "https://doi.org/10.25300/MISQ/2013/37.1.10"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 120
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Polites, G. L., & Karahanna, E. (2013). The Embeddedness of Information Systems Habits in Organizational and Individual Level Routines: Development and Disruption1. MIS Quarterly, 37(1), 221–246. https://doi.org/10.25300/MISQ/2013/37.1.10.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Polites, Greta L.
 AU  - Karahanna, Elena
@@ -47,6 +55,7 @@ EP  - 246
 DO  - 10.25300/MISQ/2013/37.1.10
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.25300/MISQ/2013/37.1.10>

@@ -1,9 +1,10 @@
 ---
 title: "Choosing appropriate approach for research on user participation - A literature review"
 author:
-- Lei, Lei
+  - Lei, Lei
 topic: ""
-categories: []
+categories:
+  - ""
 date: "1994"
 doi: ""
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lei, L. (1994). Choosing appropriate approach for research on user participation - A literature review. In European Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -26,7 +34,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Lei, Lei
 TI  - Choosing appropriate approach for research on user participation - A literature review

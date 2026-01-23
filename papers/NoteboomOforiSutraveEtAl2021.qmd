@@ -1,12 +1,13 @@
 ---
 title: "Agile Project Management: A Systematic Literature Review of Adoption Drivers and Critical Success Factors"
 author:
-- Noteboom, Cherie
-- Ofori, Martinson
-- Sutrave, Kruttika
-- El-Gayar, Omar
+  - Noteboom, Cherie
+  - Ofori, Martinson
+  - Sutrave, Kruttika
+  - El-Gayar, Omar
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.813"
 url: "http://hdl.handle.net/10125/71434"
@@ -15,6 +16,13 @@ journal:
 cited_by: 20
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Noteboom, C., Ofori, M., Sutrave, K., & El-Gayar, O. (2021). Agile Project Management: A Systematic Literature Review of Adoption Drivers and Critical Success Factors. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.813.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Noteboom, Cherie
 AU  - Ofori, Martinson
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2021.813
 UR  - http://hdl.handle.net/10125/71434
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.813>

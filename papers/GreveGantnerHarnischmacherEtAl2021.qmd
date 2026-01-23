@@ -1,13 +1,14 @@
 ---
 title: "Framing Research Questions Intersecting Information Systems and Health: A New Research Perspective at Micro- and Macro-Level"
 author:
-- Greve, Maike
-- Gantner, Morten
-- Harnischmacher, Christine
-- Brendel, Alfred Benedikt
-- Kolbe, Lutz
+  - Greve, Maike
+  - Gantner, Morten
+  - Harnischmacher, Christine
+  - Brendel, Alfred Benedikt
+  - Kolbe, Lutz
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.439"
 url: "https://hdl.handle.net/10125/71055"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Greve, M., Gantner, M., Harnischmacher, C., Brendel, A. B., & Kolbe, L. (2021). Framing Research Questions Intersecting Information Systems and Health: A New Research Perspective at Micro- and Macro-Level. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.439.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Greve, Maike
 AU  - Gantner, Morten
@@ -47,6 +55,7 @@ DO  - 10.24251/HICSS.2021.439
 UR  - https://hdl.handle.net/10125/71055
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.439>

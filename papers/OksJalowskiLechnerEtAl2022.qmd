@@ -1,15 +1,16 @@
 ---
 title: "Cyber-Physical Systems in the Context of Industry 4.0: A Review, Categorization and Outlook"
 author:
-- Oks, Sascha Julian
-- Jalowski, Max
-- Lechner, Michael
-- Mirschberger, Stefan
-- Merklein, Marion
-- Vogel-Heuser, Birgit
-- Möslein, Kathrin M.
+  - Oks, Sascha Julian
+  - Jalowski, Max
+  - Lechner, Michael
+  - Mirschberger, Stefan
+  - Merklein, Marion
+  - Vogel-Heuser, Birgit
+  - Möslein, Kathrin M.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.1007/S10796-022-10252-X"
 url: "https://link.springer.com/article/10.1007/s10796-022-10252-x"
@@ -18,6 +19,13 @@ journal:
 cited_by: 65
 outlet: "Information Systems Frontiers"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Oks, S. J., Jalowski, M., Lechner, M., Mirschberger, S., Merklein, M., Vogel-Heuser, B., & Möslein, K. M. (2022). Cyber-Physical Systems in the Context of Industry 4.0: A Review, Categorization and Outlook. Information Systems Frontiers, 26(5). https://doi.org/10.1007/S10796-022-10252-X.
+:::
 
 ## Citation: BibTeX
 
@@ -37,7 +45,7 @@ outlet: "Information Systems Frontiers"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Oks, Sascha Julian
 AU  - Jalowski, Max
@@ -55,6 +63,7 @@ DO  - 10.1007/S10796-022-10252-X
 UR  - https://link.springer.com/article/10.1007/s10796-022-10252-x
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S10796-022-10252-X>

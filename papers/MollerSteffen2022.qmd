@@ -1,10 +1,11 @@
 ---
 title: "'License to VIT' - A Design Taxonomy for Visual Inquiry Tools"
 author:
-- Möller, Frederik
-- Steffen, Barbara
+  - Möller, Frederik
+  - Steffen, Barbara
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.058"
 url: "http://hdl.handle.net/10125/79388"
@@ -13,6 +14,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Möller, F., & Steffen, B. (2022). 'License to VIT' - A Design Taxonomy for Visual Inquiry Tools. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.058.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Möller, Frederik
 AU  - Steffen, Barbara
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2022.058
 UR  - http://hdl.handle.net/10125/79388
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.058>

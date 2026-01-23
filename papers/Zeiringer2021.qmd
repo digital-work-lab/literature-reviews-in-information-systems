@@ -1,9 +1,10 @@
 ---
 title: "Tackling Knowledge Risks in Data-centric Collaborations - A Literature Review"
 author:
-- Zeiringer, Johannes
+  - Zeiringer, Johannes
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2021/37"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Zeiringer, J. (2021). Tackling Knowledge Risks in Data-centric Collaborations - A Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2021/37.
+:::
 
 ## Citation: BibTeX
 
@@ -27,7 +35,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Zeiringer, Johannes
 TI  - Tackling Knowledge Risks in Data-centric Collaborations - A Literature Review
@@ -36,6 +44,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/pacis2021/37
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2021/37>

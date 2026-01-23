@@ -1,11 +1,12 @@
 ---
 title: "A Review on Consumer Health Information Technology Research in IS"
 author:
-- Li, Yafang
-- Carter, Michelle
-- Crossler, Robert E.
+  - Li, Yafang
+  - Carter, Michelle
+  - Crossler, Robert E.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.451"
 url: "http://hdl.handle.net/10125/64193"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Li, Y., Carter, M., & Crossler, R. E. (2020). A Review on Consumer Health Information Technology Research in IS. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.451.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Li, Yafang
 AU  - Carter, Michelle
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2020.451
 UR  - http://hdl.handle.net/10125/64193
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.451>

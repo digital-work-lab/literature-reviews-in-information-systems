@@ -1,11 +1,12 @@
 ---
 title: "Measuring sustainability in business processes: a systematic literature review of process performance metrics"
 author:
-- Wolf, Nathalie
-- Wittges, Holger
-- Rinderle-Ma, Stefanie
+  - Wolf, Nathalie
+  - Wittges, Holger
+  - Rinderle-Ma, Stefanie
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2025/isresilience/isresilience/9"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wolf, N., Wittges, H., & Rinderle-Ma, S. (2025). Measuring sustainability in business processes: a systematic literature review of process performance metrics. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2025/isresilience/isresilience/9.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wolf, Nathalie
 AU  - Wittges, Holger
@@ -41,6 +49,7 @@ PY  - 2025
 UR  - https://aisel.aisnet.org/ecis2025/isresilience/isresilience/9
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2025/isresilience/isresilience/9>

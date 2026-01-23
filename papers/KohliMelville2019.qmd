@@ -1,10 +1,11 @@
 ---
 title: "Digital innovation - A review and synthesis"
 author:
-- Kohli, Rajiv
-- Melville, Nigel P.
+  - Kohli, Rajiv
+  - Melville, Nigel P.
 topic: ""
-categories: ['highly-cited']
+categories:
+  - highly-cited
 date: "2019"
 doi: "https://doi.org/10.1111/ISJ.12193"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 629
 outlet: "Information Systems Journal"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kohli, R., & Melville, N. P. (2019). Digital innovation - A review and synthesis. Information Systems Journal, 29(1), 200–223. https://doi.org/10.1111/ISJ.12193.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Information Systems Journal"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Kohli, Rajiv
 AU  - Melville, Nigel P.
@@ -48,6 +56,7 @@ EP  - 223
 DO  - 10.1111/ISJ.12193
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1111/ISJ.12193>

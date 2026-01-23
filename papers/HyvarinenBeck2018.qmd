@@ -1,10 +1,11 @@
 ---
 title: "Emotions Trump Facts: The Role of Emotions in on Social Media: A Literature Review"
 author:
-- Hyvärinen, Hissu
-- Beck, Roman
+  - Hyvärinen, Hissu
+  - Beck, Roman
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.24251/HICSS.2018.226"
 url: "http://hdl.handle.net/10125/50113"
@@ -13,6 +14,13 @@ journal:
 cited_by: 19
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hyvärinen, H., & Beck, R. (2018). Emotions Trump Facts: The Role of Emotions in on Social Media: A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2018.226.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hyvärinen, Hissu
 AU  - Beck, Roman
@@ -40,6 +48,7 @@ DO  - 10.24251/HICSS.2018.226
 UR  - http://hdl.handle.net/10125/50113
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2018.226>

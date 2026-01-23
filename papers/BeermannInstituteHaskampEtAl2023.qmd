@@ -1,12 +1,13 @@
 ---
 title: "Addressing Inertia in Pro-Environmental Behavior through Nudges: A Review of Existing Literature and a Framework for Future Research"
 author:
-- Beermann, Vincent
-- Haskamp, Thomas
-- Marx, Carolin
-- Uebernickel, Falk
+  - Beermann, Vincent
+  - Haskamp, Thomas
+  - Marx, Carolin
+  - Uebernickel, Falk
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.095"
 url: "https://hdl.handle.net/10125/102724"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Beermann, V., Haskamp, T., Marx, C., & Uebernickel, F. (2023). Addressing Inertia in Pro-Environmental Behavior through Nudges: A Review of Existing Literature and a Framework for Future Research. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.095.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Beermann, Vincent
 AU  - Haskamp, Thomas
@@ -47,6 +55,7 @@ DO  - 10.24251/HICSS.2023.095
 UR  - https://hdl.handle.net/10125/102724
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.095>

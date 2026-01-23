@@ -1,10 +1,11 @@
 ---
 title: "Dimensions of Digital Twin Applications - A Literature Review"
 author:
-- Enders, Martin Robert
-- Hoßbach, Nadja
+  - Enders, Martin Robert
+  - Hoßbach, Nadja
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2019/org_transformation_is/org_transformation_is/20"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Enders, M. R., & Hoßbach, N. (2019). Dimensions of Digital Twin Applications - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2019/org_transformation_is/org_transformation_is/20.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Enders, Martin Robert
 AU  - Hoßbach, Nadja
@@ -38,6 +46,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/amcis2019/org_transformation_is/org_transformation_is/20
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2019/org_transformation_is/org_transformation_is/20>

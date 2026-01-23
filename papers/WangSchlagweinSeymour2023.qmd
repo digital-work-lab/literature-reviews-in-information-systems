@@ -1,11 +1,12 @@
 ---
 title: "Socio-Technical Phenomena Involving Blockchains: Review, Critique and Agenda"
 author:
-- Wang, Shaoxin
-- Schlagwein, Daniel
-- Seymour, Michael
+  - Wang, Shaoxin
+  - Schlagwein, Daniel
+  - Seymour, Michael
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2023/9"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wang, S., Schlagwein, D., & Seymour, M. (2023). Socio-Technical Phenomena Involving Blockchains: Review, Critique and Agenda. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2023/9.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wang, Shaoxin
 AU  - Schlagwein, Daniel
@@ -41,6 +49,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/pacis2023/9
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2023/9>

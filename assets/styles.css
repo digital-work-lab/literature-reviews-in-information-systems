@@ -1,0 +1,79 @@
+.citebox{
+  position: relative;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.citebox .cite-copy{
+  position: absolute;
+  top: .45rem;
+  right: .45rem;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 2rem;
+  height: 2rem;
+
+  border: 0;
+  border-radius: .25rem;
+  background: transparent;
+  color: inherit;
+  opacity: .7;
+  cursor: pointer;
+}
+
+.citebox .cite-copy:hover{
+  background: rgba(127,127,127,.15);
+  opacity: 1;
+}
+
+.citebox .cite-copy:active{
+  transform: translateY(0.5px);
+}
+
+.citebox .cite-copy:focus-visible{
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+
+.citebox .cite-copy svg{
+  width: 1rem;
+  height: 1rem;
+}
+
+
+/* Fix inner spacing like Quarto code blocks */
+.citebox{
+  padding: 0.85rem 3rem 0.85rem 0; /* top right bottom left */
+}
+
+/* If you also use ::: {.citebox .sourceCode} ... :::, this ensures padding wins */
+.citebox.sourceCode{
+  padding: 0.85rem 3rem 0.85rem 0.95rem;
+}
+
+/* Position icon relative to the padded box */
+.citebox .cite-copy{
+  top: 0.45rem;
+  right: 0.45rem;
+}
+
+
+/* Remove default paragraph margin Quarto adds inside ::: blocks */
+.citebox > p{
+  margin: 0;
+}
+
+/* Hanging indent on the text (apply to the first-level paragraph) */
+.citebox > p{
+  padding-left: 1.75rem;  /* visual start of the block */
+  text-indent: -1.75rem;  /* hanging indent */
+}
+
+/* If you sometimes have multiple paragraphs, keep them aligned */
+.citebox > p + p{
+  margin-top: 0.5rem;
+  text-indent: 0;         /* usually you don't want hanging indent on later paras */
+}

@@ -1,9 +1,10 @@
 ---
 title: "How does social software change knowledge management? Toward a strategic research agenda"
 author:
-- von Krogh, Georg
-topic: ""
-categories: ['narrative-review']
+  - von Krogh, Georg
+topic: "Knowledge Management"
+categories:
+  - narrative-review
 date: "2012"
 doi: "https://doi.org/10.1016/J.JSIS.2012.04.003"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 281
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+von Krogh, G. (2012). How does social software change knowledge management? Toward a strategic research agenda. The Journal of Strategic Information Systems, 21(2), 154–164. https://doi.org/10.1016/J.JSIS.2012.04.003.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - von Krogh, Georg
 TI  - How does social software change knowledge management? Toward a strategic research agenda
@@ -43,6 +51,7 @@ EP  - 164
 DO  - 10.1016/J.JSIS.2012.04.003
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2012.04.003>

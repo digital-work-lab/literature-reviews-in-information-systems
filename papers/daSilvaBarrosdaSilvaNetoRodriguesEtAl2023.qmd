@@ -1,13 +1,14 @@
 ---
 title: "How Artificial Intelligence Can Help the Prediction of Treatment Outcomes of Tuberculosis: A Systematic Literature Review"
 author:
-- da Silva Barros, Maicon Herverton Lino Ferreira
-- da Silva Neto, Sebastião Rogério
-- Rodrigues, Maria Gabriela Almeida
-- de Souza Sampaio, Vanderson
-- Endo, Patricia Takako
+  - da Silva Barros, Maicon Herverton Lino Ferreira
+  - da Silva Neto, Sebastião Rogério
+  - Rodrigues, Maria Gabriela Almeida
+  - de Souza Sampaio, Vanderson
+  - Endo, Patricia Takako
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.173"
 url: "https://hdl.handle.net/10125/102803"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+da Silva Barros, M. H. L. F., da Silva Neto, S. R., Rodrigues, M. G. A., de Souza Sampaio, V., & Endo, P. T. (2023). How Artificial Intelligence Can Help the Prediction of Treatment Outcomes of Tuberculosis: A Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.173.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - da Silva Barros, Maicon Herverton Lino Ferreira
 AU  - da Silva Neto, Sebastião Rogério
@@ -48,6 +56,7 @@ DO  - 10.24251/HICSS.2023.173
 UR  - https://hdl.handle.net/10125/102803
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.173>

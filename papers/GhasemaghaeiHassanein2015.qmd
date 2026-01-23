@@ -1,10 +1,11 @@
 ---
 title: "Online information quality and consumer satisfaction - The moderating roles of contextual factors - A meta-analysis"
 author:
-- Ghasemaghaei, Maryam
-- Hassanein, Khaled
+  - Ghasemaghaei, Maryam
+  - Hassanein, Khaled
 topic: ""
-categories: ['meta-analysis']
+categories:
+  - meta-analysis
 date: "2015"
 doi: "https://doi.org/10.1016/J.IM.2015.07.001"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720615000695"
@@ -13,6 +14,13 @@ journal:
 cited_by: 89
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ghasemaghaei, M., & Hassanein, K. (2015). Online information quality and consumer satisfaction - The moderating roles of contextual factors - A meta-analysis. Information & Management, 52(8), 965–981. https://doi.org/10.1016/J.IM.2015.07.001.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ghasemaghaei, Maryam
 AU  - Hassanein, Khaled
@@ -49,6 +57,7 @@ DO  - 10.1016/J.IM.2015.07.001
 UR  - https://www.sciencedirect.com/science/article/pii/S0378720615000695
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2015.07.001>

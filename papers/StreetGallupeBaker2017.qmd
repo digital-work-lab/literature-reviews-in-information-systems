@@ -1,11 +1,12 @@
 ---
 title: "Strategic Alignment in SMEs - Strengthening Theoretical Foundations"
 author:
-- Street, Chris T.
-- Gallupe, Brent
-- Baker, Jeff
+  - Street, Chris T.
+  - Gallupe, Brent
+  - Baker, Jeff
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: "https://doi.org/10.17705/1CAIS.04020"
 url: "https://aisel.aisnet.org/cais/vol40/iss1/20"
@@ -14,6 +15,13 @@ journal:
 cited_by: 23
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Street, C. T., Gallupe, B., & Baker, J. (2017). Strategic Alignment in SMEs - Strengthening Theoretical Foundations. Communications of the Association for Information Systems, 40, 420–442. https://doi.org/10.17705/1CAIS.04020.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Street, Chris T.
 AU  - Gallupe, Brent
@@ -49,6 +57,7 @@ DO  - 10.17705/1CAIS.04020
 UR  - https://aisel.aisnet.org/cais/vol40/iss1/20
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.04020>

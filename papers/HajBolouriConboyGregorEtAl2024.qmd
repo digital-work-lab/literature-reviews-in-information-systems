@@ -1,12 +1,13 @@
 ---
 title: "Research Perspectives: An Encompassing Framework for Conceptualizing Space in Information Systems: Philosophical Perspectives, Themes, and Concepts"
 author:
-- Haj-Bolouri, Amir
-- Conboy, Kieran
-- Gregor, Shirley
-- Conboy, Amir
+  - Haj-Bolouri, Amir
+  - Conboy, Kieran
+  - Gregor, Shirley
+  - Conboy, Amir
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.17705/1JAIS.00830"
 url: "https://aisel.aisnet.org/jais/vol25/iss2/3"
@@ -15,6 +16,13 @@ journal:
 cited_by: 3
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Haj-Bolouri, A., Conboy, K., Gregor, S., & Conboy, A. (2024). Research Perspectives: An Encompassing Framework for Conceptualizing Space in Information Systems: Philosophical Perspectives, Themes, and Concepts. Journal of the Association for Information Systems, 25(2), 407–441. https://doi.org/10.17705/1JAIS.00830.
+:::
 
 ## Citation: BibTeX
 
@@ -36,7 +44,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Haj-Bolouri, Amir
 AU  - Conboy, Kieran
@@ -53,6 +61,7 @@ DO  - 10.17705/1JAIS.00830
 UR  - https://aisel.aisnet.org/jais/vol25/iss2/3
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00830>

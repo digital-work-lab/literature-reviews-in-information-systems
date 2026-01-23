@@ -1,10 +1,11 @@
 ---
 title: "Data Analytics Capability Maturity Models for Small and Medium Enterprises - A Systematic Literature Review"
 author:
-- Marohn, Robert
-- Li, Yan
+  - Marohn, Robert
+  - Li, Yan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.106"
 url: "https://hdl.handle.net/10125/106483"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Marohn, R., & Li, Y. (2024). Data Analytics Capability Maturity Models for Small and Medium Enterprises - A Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2024.106.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Marohn, Robert
 AU  - Li, Yan
@@ -42,6 +50,7 @@ DO  - 10.24251/HICSS.2024.106
 UR  - https://hdl.handle.net/10125/106483
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.106>

@@ -1,12 +1,13 @@
 ---
 title: "Human-AI Complementarity in Hybrid Intelligence Systems - A Structured Literature Review"
 author:
-- Hemmer, Patrick
-- Schemmer, Max
-- Vössing, Michael
-- Kühl, Niklas
+  - Hemmer, Patrick
+  - Schemmer, Max
+  - Vössing, Michael
+  - Kühl, Niklas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2021/78"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hemmer, P., Schemmer, M., Vössing, M., & Kühl, N. (2021). Human-AI Complementarity in Hybrid Intelligence Systems - A Structured Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2021/78.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hemmer, Patrick
 AU  - Schemmer, Max
@@ -42,6 +50,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/pacis2021/78
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2021/78>

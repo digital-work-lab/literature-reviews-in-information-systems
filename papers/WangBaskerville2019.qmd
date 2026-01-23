@@ -1,10 +1,11 @@
 ---
 title: "The Case for Two-Factor Authentication- Evidence from a Systematic Literature Review"
 author:
-- Wang, Pengcheng
-- Baskerville, Richard L.
+  - Wang, Pengcheng
+  - Baskerville, Richard L.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2019/179"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wang, P., & Baskerville, R. L. (2019). The Case for Two-Factor Authentication- Evidence from a Systematic Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2019/179.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wang, Pengcheng
 AU  - Baskerville, Richard L.
@@ -38,6 +46,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/pacis2019/179
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2019/179>

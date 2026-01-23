@@ -1,10 +1,11 @@
 ---
 title: "Towards A Conceptualisation Of BPM-Culture - Results From A Literature Review"
 author:
-- Brocke, Jan vom
-- Schmiedel, Theresa
+  - Brocke, Jan vom
+  - Schmiedel, Theresa
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2011"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2011/203"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Brocke, J. V., & Schmiedel, T. (2011). Towards A Conceptualisation Of BPM-Culture - Results From A Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2011/203.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Brocke, Jan vom
 AU  - Schmiedel, Theresa
@@ -38,6 +46,7 @@ PY  - 2011
 UR  - https://aisel.aisnet.org/pacis2011/203
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2011/203>

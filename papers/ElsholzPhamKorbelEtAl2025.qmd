@@ -1,12 +1,13 @@
 ---
 title: "Exploring the Effectiveness of Virtual Reality Training: A Scoping Review on Sports Skill Development"
 author:
-- Elsholz, Sophia
-- Pham, Kevin
-- Korbel, Jakob J
-- Zarnekow, Rüdiger
+  - Elsholz, Sophia
+  - Pham, Kevin
+  - Korbel, Jakob J
+  - Zarnekow, Rüdiger
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Elsholz, S., Pham, K., Korbel, J. J., & Zarnekow, R. (2025). Exploring the Effectiveness of Virtual Reality Training: A Scoping Review on Sports Skill Development. In Americas Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Elsholz, Sophia
 AU  - Pham, Kevin

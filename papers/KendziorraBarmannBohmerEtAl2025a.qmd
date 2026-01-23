@@ -1,12 +1,13 @@
 ---
 title: "Ambient Assisted Living for Healthy Aging - A Study on the Acceptance and Use of Wearables among Older Adults"
 author:
-- Kendziorra, Jennifer
-- Barmann, Michelle
-- Böhmer, Martin
-- Winkler, Till J
+  - Kendziorra, Jennifer
+  - Barmann, Michelle
+  - Böhmer, Martin
+  - Winkler, Till J
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kendziorra, J., Barmann, M., Böhmer, M., & Winkler, T. J. (2025). Ambient Assisted Living for Healthy Aging - A Study on the Acceptance and Use of Wearables among Older Adults. In European Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kendziorra, Jennifer
 AU  - Barmann, Michelle

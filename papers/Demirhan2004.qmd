@@ -1,9 +1,10 @@
 ---
 title: "Factors Affecting Investment in IT: A Critical Review"
 author:
-- Demirhan, Didem
-topic: ""
-categories: ['narrative-review']
+  - Demirhan, Didem
+topic: "Other Domain"
+categories:
+  - narrative-review
 date: "2004"
 doi: ""
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Journal of Information Technology Theory and Application"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Demirhan, D. (2004). Factors Affecting Investment in IT: A Critical Review. Journal of Information Technology Theory and Application, 6(4), 1–13.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Journal of Information Technology Theory and Application"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Demirhan, Didem
 TI  - Factors Affecting Investment in IT: A Critical Review

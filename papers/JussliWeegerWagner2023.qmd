@@ -1,11 +1,12 @@
 ---
 title: "Towards New Perspectives on Digitalization: Developing a Multi-dimensional Work Identity Lens"
 author:
-- Jussli, Alexandra
-- Weeger, Andy
-- Wagner, Heinz-Theo
+  - Jussli, Alexandra
+  - Weeger, Andy
+  - Wagner, Heinz-Theo
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.758"
 url: "https://hdl.handle.net/10125/103392"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Jussli, A., Weeger, A., & Wagner, H.-T. (2023). Towards New Perspectives on Digitalization: Developing a Multi-dimensional Work Identity Lens. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.758.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Jussli, Alexandra
 AU  - Weeger, Andy
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2023.758
 UR  - https://hdl.handle.net/10125/103392
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.758>

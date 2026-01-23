@@ -1,12 +1,13 @@
 ---
 title: "Management Support Systems on Different Devices -- A Business Perspective Accommodating Managers' Growing Range of Use Situations"
 author:
-- Mayer, Jörg H.
-- Winter, Robert
-- Stock, Daniel
-- Scholl-Steinepreis, Nadja
+  - Mayer, Jörg H.
+  - Winter, Robert
+  - Stock, Daniel
+  - Scholl-Steinepreis, Nadja
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.56"
 url: "https://ieeexplore.ieee.org/document/6758652/"
@@ -15,6 +16,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Mayer, J. H., Winter, R., Stock, D., & Scholl-Steinepreis, N. (2014). Management Support Systems on Different Devices -- A Business Perspective Accommodating Managers' Growing Range of Use Situations. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2014.56.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Mayer, Jörg H.
 AU  - Winter, Robert
@@ -46,6 +54,7 @@ DO  - 10.1109/HICSS.2014.56
 UR  - https://ieeexplore.ieee.org/document/6758652/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2014.56>

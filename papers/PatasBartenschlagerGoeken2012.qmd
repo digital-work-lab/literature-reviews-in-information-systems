@@ -1,11 +1,12 @@
 ---
 title: "Resource-Based View in Empirical IT Business Value Research--An Evidence-Based Literature Review"
 author:
-- Patas, Janusch
-- Bartenschlager, Jens
-- Goeken, Matthias
+  - Patas, Janusch
+  - Bartenschlager, Jens
+  - Goeken, Matthias
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2012"
 doi: "https://doi.org/10.1109/HICSS.2012.503"
 url: "https://ieeexplore.ieee.org/document/6149506"
@@ -14,6 +15,13 @@ journal:
 cited_by: 7
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Patas, J., Bartenschlager, J., & Goeken, M. (2012). Resource-Based View in Empirical IT Business Value Research--An Evidence-Based Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2012.503.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Patas, Janusch
 AU  - Bartenschlager, Jens
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2012.503
 UR  - https://ieeexplore.ieee.org/document/6149506
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2012.503>

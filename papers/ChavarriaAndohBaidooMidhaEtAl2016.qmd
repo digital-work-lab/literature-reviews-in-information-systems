@@ -1,12 +1,13 @@
 ---
 title: "Software Piracy Research - A Cross-disciplinary Systematic Review"
 author:
-- Chavarria, Juan A.
-- Andoh-Baidoo, Francis Kofi
-- Midha, Vishal
-- Hughes, Jerald
+  - Chavarria, Juan A.
+  - Andoh-Baidoo, Francis Kofi
+  - Midha, Vishal
+  - Hughes, Jerald
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.17705/1CAIS.03831"
 url: "https://aisel.aisnet.org/cais/vol38/iss1/31"
@@ -15,6 +16,13 @@ journal:
 cited_by: 6
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chavarria, J. A., Andoh-Baidoo, F. K., Midha, V., & Hughes, J. (2016). Software Piracy Research - A Cross-disciplinary Systematic Review. Communications of the Association for Information Systems, 38, 624–669. https://doi.org/10.17705/1CAIS.03831.
+:::
 
 ## Citation: BibTeX
 
@@ -36,7 +44,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Chavarria, Juan A.
 AU  - Andoh-Baidoo, Francis Kofi
@@ -52,6 +60,7 @@ DO  - 10.17705/1CAIS.03831
 UR  - https://aisel.aisnet.org/cais/vol38/iss1/31
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03831>

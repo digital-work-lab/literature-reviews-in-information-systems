@@ -1,13 +1,14 @@
 ---
 title: "A Systematic Review of the Factors that Impact the Prediction of Retention and Dropout in Higher Education"
 author:
-- Silva, Edmilson Cosme
-- Freitas, Sergio
-- Soares Ramos, Cristiane
-- Muniz De Menezes, Amanda Emilly
-- Rodrigues De Araujo, Leticia Karla Soares
+  - Silva, Edmilson Cosme
+  - Freitas, Sergio
+  - Soares Ramos, Cristiane
+  - Muniz De Menezes, Amanda Emilly
+  - Rodrigues De Araujo, Leticia Karla Soares
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.157"
 url: "https://hdl.handle.net/10125/102787"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Silva, E. C., Freitas, S., Soares Ramos, C., Muniz De Menezes, A. E., & Rodrigues De Araujo, L. K. S. (2023). A Systematic Review of the Factors that Impact the Prediction of Retention and Dropout in Higher Education. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.157.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Silva, Edmilson Cosme
 AU  - Freitas, Sergio
@@ -48,6 +56,7 @@ DO  - 10.24251/HICSS.2023.157
 UR  - https://hdl.handle.net/10125/102787
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.157>

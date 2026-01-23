@@ -1,11 +1,12 @@
 ---
 title: "Conceptualizing Design Knowledge in IS Research - A Review and Taxonomy of Design Knowledge Properties"
 author:
-- Dickhaut, Ernestine
-- Janson, Andreas
-- Leimeister, Jan Marco
+  - Dickhaut, Ernestine
+  - Janson, Andreas
+  - Leimeister, Jan Marco
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.704"
 url: "http://hdl.handle.net/10125/80044"
@@ -14,6 +15,13 @@ journal:
 cited_by: 1
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Dickhaut, E., Janson, A., & Leimeister, J. M. (2022). Conceptualizing Design Knowledge in IS Research - A Review and Taxonomy of Design Knowledge Properties. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.704.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Dickhaut, Ernestine
 AU  - Janson, Andreas
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2022.704
 UR  - http://hdl.handle.net/10125/80044
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.704>

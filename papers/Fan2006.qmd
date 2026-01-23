@@ -1,10 +1,11 @@
 ---
 title: "What Is Personalization? Perspectives on the Design and Implementation of Personalization in Information Systems"
 author:
-- Fan, Haiyan
-- Poole, Marshall Scott
-topic: ""
-categories: ['theoretical-review']
+  - Fan, Haiyan
+  - Poole, Marshall Scott
+topic: "E-Commerce"
+categories:
+  - theoretical-review
 date: "2006"
 doi: "https://doi.org/10.1207/S15327744JOCE1603&4_2"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 150
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Fan, H., & Poole, M. S. (2006). What Is Personalization? Perspectives on the Design and Implementation of Personalization in Information Systems. Journal of Organizational Computing and Electronic Commerce, 16(3), 179–202. https://doi.org/10.1207/S15327744JOCE1603&4_2.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of Organizational Computing and Electronic Commerce"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Fan, Haiyan
 AU  - Poole, Marshall Scott
@@ -45,6 +53,7 @@ EP  - 202
 DO  - 10.1207/S15327744JOCE1603&4_2
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1207/S15327744JOCE1603&4_2>

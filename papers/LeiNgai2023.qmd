@@ -1,10 +1,11 @@
 ---
 title: "Blockchain from the information systems perspective: Literature review, synthesis, and directions for future research"
 author:
-- Lei, Chun Fong
-- Ngai, Eric W.T.
+  - Lei, Chun Fong
+  - Ngai, Eric W.T.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.1016/J.IM.2023.103856"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 21
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lei, C. F., & Ngai, E. W. (2023). Blockchain from the information systems perspective: Literature review, synthesis, and directions for future research. Information & Management, 60(7), 103856. https://doi.org/10.1016/J.IM.2023.103856.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Lei, Chun Fong
 AU  - Ngai, Eric W.T.
@@ -44,6 +52,7 @@ SP  - 103856
 DO  - 10.1016/J.IM.2023.103856
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2023.103856>

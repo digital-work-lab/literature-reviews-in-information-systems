@@ -1,9 +1,10 @@
 ---
 title: "On the biology of technostress"
 author:
-- Riedl, René
-topic: ""
-categories: ['scoping-review']
+  - Riedl, René
+topic: "Human Computer Interaction"
+categories:
+  - scoping-review
 date: "2012"
 doi: "https://doi.org/10.1145/2436239.2436242"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 204
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Riedl, R. (2012). On the biology of technostress. ACM SIGMIS Database: the DATABASE for Advances in Information Systems, 44(1), 18–55. https://doi.org/10.1145/2436239.2436242.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Riedl, René
 TI  - On the biology of technostress
@@ -44,6 +52,7 @@ EP  - 55
 DO  - 10.1145/2436239.2436242
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1145/2436239.2436242>

@@ -1,11 +1,12 @@
 ---
 title: "The axis of accessibility and the duality of control of remote workers: A literature review"
 author:
-- Cunha, Joao
-- Errichiello, Luisa
-- Pianese, Tommasina
+  - Cunha, Joao
+  - Errichiello, Luisa
+  - Pianese, Tommasina
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.1177/02683962231208218"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 8
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Cunha, J., Errichiello, L., & Pianese, T. (2024). The axis of accessibility and the duality of control of remote workers: A literature review. Journal of Information Technology, 39(1), 194–260. https://doi.org/10.1177/02683962231208218.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Cunha, Joao
 AU  - Errichiello, Luisa
@@ -48,6 +56,7 @@ EP  - 260
 DO  - 10.1177/02683962231208218
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1177/02683962231208218>

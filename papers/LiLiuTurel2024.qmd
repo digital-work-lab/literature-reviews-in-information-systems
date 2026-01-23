@@ -1,11 +1,12 @@
 ---
 title: "Literature Review on Cyberbullying Victimisation"
 author:
-- Li, Qianyi
-- Liu, Libo
-- Turel, Ofir
+  - Li, Qianyi
+  - Liu, Libo
+  - Turel, Ofir
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Li, Q., Liu, L., & Turel, O. (2024). Literature Review on Cyberbullying Victimisation. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Li, Qianyi
 AU  - Liu, Libo

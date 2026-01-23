@@ -1,11 +1,12 @@
 ---
 title: "Research Commentary: Introducing a Third Dimension in Information Systems Design—The Case for Incentive Alignment"
 author:
-- Ba, Sulin
-- Stallaert, Jan
-- Whinston, Andrew B.
-topic: ""
-categories: ['theoretical-review']
+  - Ba, Sulin
+  - Stallaert, Jan
+  - Whinston, Andrew B.
+topic: "Software Development"
+categories:
+  - theoretical-review
 date: "2001"
 doi: "https://doi.org/10.1287/ISRE.12.3.225.9712"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 197
 outlet: "Information Systems Research"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ba, S., Stallaert, J., & Whinston, A. B. (2001). Research Commentary: Introducing a Third Dimension in Information Systems Design—The Case for Incentive Alignment. Information Systems Research, 12(3), 225–239. https://doi.org/10.1287/ISRE.12.3.225.9712.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Information Systems Research"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ba, Sulin
 AU  - Stallaert, Jan
@@ -48,6 +56,7 @@ EP  - 239
 DO  - 10.1287/ISRE.12.3.225.9712
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1287/ISRE.12.3.225.9712>

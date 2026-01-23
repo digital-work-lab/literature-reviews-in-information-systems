@@ -1,11 +1,12 @@
 ---
 title: "Structuring the Quest for Strategic Alignment of Artificial Intelligence (AI): A Taxonomy of the Organizational Business Value of AI Use Cases"
 author:
-- Engel, Christian
-- Schulze Buschhoff, Julius
-- Ebel, Philipp
+  - Engel, Christian
+  - Schulze Buschhoff, Julius
+  - Ebel, Philipp
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.723"
 url: "http://hdl.handle.net/10125/80063"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Engel, C., Schulze Buschhoff, J., & Ebel, P. (2022). Structuring the Quest for Strategic Alignment of Artificial Intelligence (AI): A Taxonomy of the Organizational Business Value of AI Use Cases. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.723.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Engel, Christian
 AU  - Schulze Buschhoff, Julius
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2022.723
 UR  - http://hdl.handle.net/10125/80063
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.723>

@@ -1,9 +1,10 @@
 ---
 title: "Interdisciplinary Review of Business Continuity from an Information Systems Perspective - Toward an Integrative Framework"
 author:
-- Niemimaa, Marko
+  - Niemimaa, Marko
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.17705/1CAIS.03704"
 url: "https://aisel.aisnet.org/cais/vol37/iss1/4"
@@ -12,6 +13,13 @@ journal:
 cited_by: 16
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Niemimaa, M. (2015). Interdisciplinary Review of Business Continuity from an Information Systems Perspective - Toward an Integrative Framework. Communications of the Association for Information Systems, 37. https://doi.org/10.17705/1CAIS.03704.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Niemimaa, Marko
 TI  - Interdisciplinary Review of Business Continuity from an Information Systems Perspective - Toward an Integrative Framework
@@ -43,6 +51,7 @@ DO  - 10.17705/1CAIS.03704
 UR  - https://aisel.aisnet.org/cais/vol37/iss1/4
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03704>

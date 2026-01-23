@@ -1,12 +1,13 @@
 ---
 title: "Travelling the Digital Journey: A Literature Review and Framework for Change Management Actions and Tools in Digital Transformation"
 author:
-- Fischer, Isabel
-- Gimnich, Moritz
-- Papert, Marcel
-- Goertler, Thomas
+  - Fischer, Isabel
+  - Gimnich, Moritz
+  - Papert, Marcel
+  - Goertler, Thomas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.577"
 url: "https://hdl.handle.net/10125/106962"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Fischer, I., Gimnich, M., Papert, M., & Goertler, T. (2024). Travelling the Digital Journey: A Literature Review and Framework for Change Management Actions and Tools in Digital Transformation. In Hawaii International Conference on System Sciences (pp. 4818–4827). https://doi.org/10.24251/HICSS.2024.577.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Fischer, Isabel
 AU  - Gimnich, Moritz
@@ -49,6 +57,7 @@ DO  - 10.24251/HICSS.2024.577
 UR  - https://hdl.handle.net/10125/106962
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.577>

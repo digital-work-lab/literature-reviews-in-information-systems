@@ -1,10 +1,11 @@
 ---
 title: "Digital Transformation of Non-profit Organizations: A Research Agenda"
 author:
-- Cipriano, Michele
-- Za, Stefano
+  - Cipriano, Michele
+  - Za, Stefano
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.17705/1CAIS.05643"
 url: "https://aisel.aisnet.org/cais/vol56/iss1/44"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Cipriano, M., & Za, S. (2025). Digital Transformation of Non-profit Organizations: A Research Agenda. Communications of the Association for Information Systems, 56(UNKNOWN), 1118–1190. https://doi.org/10.17705/1CAIS.05643.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Cipriano, Michele
 AU  - Za, Stefano
@@ -48,6 +56,7 @@ DO  - 10.17705/1CAIS.05643
 UR  - https://aisel.aisnet.org/cais/vol56/iss1/44
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05643>

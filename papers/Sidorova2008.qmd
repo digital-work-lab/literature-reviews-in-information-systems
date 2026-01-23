@@ -1,12 +1,13 @@
 ---
 title: "Uncovering the Intellectual Core of the Information Systems Discipline"
 author:
-- Sidorova
-- Evangelopoulos
-- Valacich
-- Ramakrishnan
-topic: ""
-categories: ['descriptive-review']
+  - Sidorova
+  - Evangelopoulos
+  - Valacich
+  - Ramakrishnan
+topic: "Other Domain"
+categories:
+  - descriptive-review
 date: "2008"
 doi: "https://doi.org/10.2307/25148852"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 332
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Sidorova, Evangelopoulos, Valacich, & Ramakrishnan (2008). Uncovering the Intellectual Core of the Information Systems Discipline. MIS Quarterly, 32(3), 467. https://doi.org/10.2307/25148852.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Sidorova
 AU  - Evangelopoulos
@@ -48,6 +56,7 @@ SP  - 467
 DO  - 10.2307/25148852
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/25148852>

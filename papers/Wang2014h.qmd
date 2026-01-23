@@ -1,10 +1,11 @@
 ---
 title: "The IT Compensation Challenge: Theorizing the Balance Among Multi-Level Internal and External Uncertainties"
 author:
-- Wang, Chingning
-- Kaarst-Brown, Michelle
-topic: ""
-categories: ['theoretical-review']
+  - Wang, Chingning
+  - Kaarst-Brown, Michelle
+topic: "Other Domain"
+categories:
+  - theoretical-review
 date: "2014"
 doi: "https://doi.org/10.17705/1JAIS.00355"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 9
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wang, C., & Kaarst-Brown, M. (2014). The IT Compensation Challenge: Theorizing the Balance Among Multi-Level Internal and External Uncertainties. Journal of the Association for Information Systems, 15(3), 111–146. https://doi.org/10.17705/1JAIS.00355.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wang, Chingning
 AU  - Kaarst-Brown, Michelle
@@ -45,6 +53,7 @@ EP  - 146
 DO  - 10.17705/1JAIS.00355
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00355>

@@ -1,10 +1,11 @@
 ---
 title: "An Umbrella Review for Machine Learning Suicide Prediction and Prevention in Mental Health"
 author:
-- Huang, Kaidi
-- Tulu, Bengisu
+  - Huang, Kaidi
+  - Tulu, Bengisu
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2024/health_it/health_it/17"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Huang, K., & Tulu, B. (2024). An Umbrella Review for Machine Learning Suicide Prediction and Prevention in Mental Health. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2024/health_it/health_it/17.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Huang, Kaidi
 AU  - Tulu, Bengisu
@@ -38,6 +46,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/amcis2024/health_it/health_it/17
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2024/health_it/health_it/17>

@@ -1,9 +1,10 @@
 ---
 title: "IT Outsourcing in the Public Sector: A Literature Analysis"
 author:
-- Gantman, Sonia
-topic: ""
-categories: ['narrative-review']
+  - Gantman, Sonia
+topic: "Outsourcing"
+categories:
+  - narrative-review
 date: "2011"
 doi: "https://doi.org/10.1080/1097198X.2011.10856537"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 24
 outlet: "Journal of Global Information Technology Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gantman, S. (2011). IT Outsourcing in the Public Sector: A Literature Analysis. Journal of Global Information Technology Management, 14(2), 48–83. https://doi.org/10.1080/1097198X.2011.10856537.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Journal of Global Information Technology Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Gantman, Sonia
 TI  - IT Outsourcing in the Public Sector: A Literature Analysis
@@ -43,6 +51,7 @@ EP  - 83
 DO  - 10.1080/1097198X.2011.10856537
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1080/1097198X.2011.10856537>

@@ -1,10 +1,11 @@
 ---
 title: "What drives global ICT adoption? Analysis and research directions"
 author:
-- Weber, David M.
-- Kauffman, Robert J.
-topic: ""
-categories: ['scoping-review']
+  - Weber, David M.
+  - Kauffman, Robert J.
+topic: "Technology Acceptance, and Use"
+categories:
+  - scoping-review
 date: "2011"
 doi: "https://doi.org/10.1016/J.ELERAP.2011.01.001"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 80
 outlet: "Electronic Commerce Research and Applications"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Weber, D. M., & Kauffman, R. J. (2011). What drives global ICT adoption? Analysis and research directions. Electronic Commerce Research and Applications, 10(6), 683–701. https://doi.org/10.1016/J.ELERAP.2011.01.001.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Electronic Commerce Research and Applications"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Weber, David M.
 AU  - Kauffman, Robert J.
@@ -45,6 +53,7 @@ EP  - 701
 DO  - 10.1016/J.ELERAP.2011.01.001
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.ELERAP.2011.01.001>

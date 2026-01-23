@@ -1,10 +1,11 @@
 ---
 title: "The State of Research on Information Systems Satisfaction"
 author:
-- Khalifa, Mohamed
-- Liu, Vanessa
-topic: ""
-categories: ['narrative-review']
+  - Khalifa, Mohamed
+  - Liu, Vanessa
+topic: "Technology Acceptance, and Use"
+categories:
+  - narrative-review
 date: "2004"
 doi: ""
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Journal of Information Technology Theory and Application"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Khalifa, M., & Liu, V. (2004). The State of Research on Information Systems Satisfaction. Journal of Information Technology Theory and Application, 5(4), 37–49.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Journal of Information Technology Theory and Application"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Khalifa, Mohamed
 AU  - Liu, Vanessa

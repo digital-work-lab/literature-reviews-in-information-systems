@@ -1,10 +1,11 @@
 ---
 title: "Aligning in practice - from current cases to a new agenda"
 author:
-- Karpovsky, Anna
-- Galliers, Robert D.
+  - Karpovsky, Anna
+  - Galliers, Robert D.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.1057/JIT.2014.34"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 74
 outlet: "Journal of Information Technology"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Karpovsky, A., & Galliers, R. D. (2015). Aligning in practice - from current cases to a new agenda. Journal of Information Technology, 30(2), 136–160. https://doi.org/10.1057/JIT.2014.34.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Journal of Information Technology"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Karpovsky, Anna
 AU  - Galliers, Robert D.
@@ -48,6 +56,7 @@ EP  - 160
 DO  - 10.1057/JIT.2014.34
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/JIT.2014.34>

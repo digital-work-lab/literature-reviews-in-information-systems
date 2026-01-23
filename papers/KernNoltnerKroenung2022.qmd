@@ -1,11 +1,12 @@
 ---
 title: "The Case of Digital Ethics in IS Research - A Literature Review"
 author:
-- Kern, Christopher Julian
-- Nöltner, Markus
-- Kroenung, Julia Sarah
+  - Kern, Christopher Julian
+  - Nöltner, Markus
+  - Kroenung, Julia Sarah
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/icis2022/soc_impact_is/soc_impact_is/10"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kern, C. J., Nöltner, M., & Kroenung, J. S. (2022). The Case of Digital Ethics in IS Research - A Literature Review. In International Conference on Information Systems. https://aisel.aisnet.org/icis2022/soc_impact_is/soc_impact_is/10.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kern, Christopher Julian
 AU  - Nöltner, Markus
@@ -42,6 +50,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/icis2022/soc_impact_is/soc_impact_is/10
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2022/soc_impact_is/soc_impact_is/10>

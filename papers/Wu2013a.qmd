@@ -1,10 +1,11 @@
 ---
 title: "Effects of Extrinsic and Intrinsic Motivators on Using Utilitarian, Hedonic, and Dual-Purposed Information Systems: A Meta-Analysis"
 author:
-- Wu, Jiming
-- Lu, Xinjian
-topic: ""
-categories: ['meta-analysis']
+  - Wu, Jiming
+  - Lu, Xinjian
+topic: "Technology Acceptance, and Use"
+categories:
+  - meta-analysis
 date: "2013"
 doi: "https://doi.org/10.17705/1JAIS.00325"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 137
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wu, J., & Lu, X. (2013). Effects of Extrinsic and Intrinsic Motivators on Using Utilitarian, Hedonic, and Dual-Purposed Information Systems: A Meta-Analysis. Journal of the Association for Information Systems, 14(3), 153–191. https://doi.org/10.17705/1JAIS.00325.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wu, Jiming
 AU  - Lu, Xinjian
@@ -45,6 +53,7 @@ EP  - 191
 DO  - 10.17705/1JAIS.00325
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00325>

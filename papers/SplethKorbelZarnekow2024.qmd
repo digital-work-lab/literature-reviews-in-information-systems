@@ -1,11 +1,12 @@
 ---
 title: "Sustainability Effects of Digital Twins: A Review"
 author:
-- Spleth, Philipp
-- Korbel, Jakob
-- Zarnekow, Rüdiger
+  - Spleth, Philipp
+  - Korbel, Jakob
+  - Zarnekow, Rüdiger
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2024/track18_sustain/track18_sustain/5"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Spleth, P., Korbel, J., & Zarnekow, R. (2024). Sustainability Effects of Digital Twins: A Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2024/track18_sustain/track18_sustain/5.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Spleth, Philipp
 AU  - Korbel, Jakob
@@ -41,6 +49,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/pacis2024/track18_sustain/track18_sustain/5
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2024/track18_sustain/track18_sustain/5>

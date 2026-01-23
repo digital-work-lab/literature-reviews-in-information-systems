@@ -1,11 +1,12 @@
 ---
 title: "IT Governance Frameworks and COBIT - A Literature Review"
 author:
-- Mangalaraj, George
-- Singh, Anil
-- Taneja, Aakash
+  - Mangalaraj, George
+  - Singh, Anil
+  - Taneja, Aakash
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2014/StrategicUse/GeneralPresentations/13"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Mangalaraj, G., Singh, A., & Taneja, A. (2014). IT Governance Frameworks and COBIT - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2014/StrategicUse/GeneralPresentations/13.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Mangalaraj, George
 AU  - Singh, Anil
@@ -40,6 +48,7 @@ PY  - 2014
 UR  - https://aisel.aisnet.org/amcis2014/StrategicUse/GeneralPresentations/13
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2014/StrategicUse/GeneralPresentations/13>

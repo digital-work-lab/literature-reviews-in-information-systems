@@ -1,11 +1,12 @@
 ---
 title: "Understanding the Current State of Knowledge and Future Directions of Doxing Research: A Social Cognitive Theory Perspective"
 author:
-- Fang, Yuan
-- Risius, Marten
-- Cheung, Christy
+  - Fang, Yuan
+  - Risius, Marten
+  - Cheung, Christy
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.672"
 url: "https://hdl.handle.net/10125/103306"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Fang, Y., Risius, M., & Cheung, C. (2023). Understanding the Current State of Knowledge and Future Directions of Doxing Research: A Social Cognitive Theory Perspective. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.672.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Fang, Yuan
 AU  - Risius, Marten
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2023.672
 UR  - https://hdl.handle.net/10125/103306
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.672>

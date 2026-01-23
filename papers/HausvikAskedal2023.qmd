@@ -1,10 +1,11 @@
 ---
 title: "Digital Innovation of Healthcare Services in Times of Crisis and Beyond"
 author:
-- Hausvik, Geir Inge
-- Askedal, Kirsti
+  - Hausvik, Geir Inge
+  - Askedal, Kirsti
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.229"
 url: "https://hdl.handle.net/10125/102859"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hausvik, G. I., & Askedal, K. (2023). Digital Innovation of Healthcare Services in Times of Crisis and Beyond. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.229.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hausvik, Geir Inge
 AU  - Askedal, Kirsti
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2023.229
 UR  - https://hdl.handle.net/10125/102859
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.229>

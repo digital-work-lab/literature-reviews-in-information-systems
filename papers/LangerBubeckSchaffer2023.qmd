@@ -1,11 +1,12 @@
 ---
 title: "Barriers to the Use of Action Research in Information Systems - A Literature Review"
 author:
-- Langer, Yannik A.
-- Bubeck, Johannes
-- Schäffer, Thomas
+  - Langer, Yannik A.
+  - Bubeck, Johannes
+  - Schäffer, Thomas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2023/meta_res/meta_res/11"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Langer, Y. A., Bubeck, J., & Schäffer, T. (2023). Barriers to the Use of Action Research in Information Systems - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2023/meta_res/meta_res/11.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Langer, Yannik A.
 AU  - Bubeck, Johannes
@@ -43,6 +51,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/amcis2023/meta_res/meta_res/11
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2023/meta_res/meta_res/11>

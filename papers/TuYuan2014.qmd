@@ -1,10 +1,11 @@
 ---
 title: "Critical Success Factors Analysis on Effective Information Security Management - A Literature Review"
 author:
-- Tu, Zhiling
-- Yuan, Yufei
+  - Tu, Zhiling
+  - Yuan, Yufei
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2014/ISSecurity/GeneralPresentations/2"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Tu, Z., & Yuan, Y. (2014). Critical Success Factors Analysis on Effective Information Security Management - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2014/ISSecurity/GeneralPresentations/2.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Tu, Zhiling
 AU  - Yuan, Yufei
@@ -38,6 +46,7 @@ PY  - 2014
 UR  - https://aisel.aisnet.org/amcis2014/ISSecurity/GeneralPresentations/2
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2014/ISSecurity/GeneralPresentations/2>

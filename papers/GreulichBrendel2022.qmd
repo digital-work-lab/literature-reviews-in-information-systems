@@ -1,10 +1,11 @@
 ---
 title: "\"Feel, Don't Think\" Review of the Application of Neuroscience Methods for Conversational Agent Research"
 author:
-- Greulich, R. Stefan
-- Brendel, Alfred Benedikt
+  - Greulich, R. Stefan
+  - Brendel, Alfred Benedikt
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rp/79"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Greulich, R. S., & Brendel, A. B. (2022). "Feel, Don't Think" Review of the Application of Neuroscience Methods for Conversational Agent Research. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rp/79.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Greulich, R. Stefan
 AU  - Brendel, Alfred Benedikt
@@ -40,6 +48,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rp/79
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rp/79>

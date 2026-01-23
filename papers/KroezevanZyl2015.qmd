@@ -1,10 +1,11 @@
 ---
 title: "The Theme of Hermeneutics in IS - The Need for a Structured Literature Review"
 author:
-- Kroeze, Jan H.
-- van Zyl, Izak
+  - Kroeze, Jan H.
+  - van Zyl, Izak
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2015/ISPhil/GeneralPresentations/5"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kroeze, J. H., & van Zyl, I. (2015). The Theme of Hermeneutics in IS - The Need for a Structured Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2015/ISPhil/GeneralPresentations/5.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kroeze, Jan H.
 AU  - van Zyl, Izak
@@ -38,6 +46,7 @@ PY  - 2015
 UR  - https://aisel.aisnet.org/amcis2015/ISPhil/GeneralPresentations/5
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2015/ISPhil/GeneralPresentations/5>

@@ -1,11 +1,12 @@
 ---
 title: "Evolvement of Information Security Research on Employees' Behavior - A Systematic Review and Future Direction"
 author:
-- Alaskar, Mohamed
-- Vodanovich, Shahper
-- Shen, Kathy Ning
+  - Alaskar, Mohamed
+  - Vodanovich, Shahper
+  - Shen, Kathy Ning
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.1109/HICSS.2015.508"
 url: "https://ieeexplore.ieee.org/document/7070327/"
@@ -14,6 +15,13 @@ journal:
 cited_by: 7
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Alaskar, M., Vodanovich, S., & Shen, K. N. (2015). Evolvement of Information Security Research on Employees' Behavior - A Systematic Review and Future Direction. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2015.508.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Alaskar, Mohamed
 AU  - Vodanovich, Shahper
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2015.508
 UR  - https://ieeexplore.ieee.org/document/7070327/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2015.508>

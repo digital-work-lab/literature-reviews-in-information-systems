@@ -1,12 +1,13 @@
 ---
 title: "Integrating Data and Service Lifecycle for Smart Service Systems Engineering: Compilation of a Lifecycle Model for the Data Ecosystem of Smart Living"
 author:
-- Kortum, Henrik
-- Rebstadt, Jonas
-- Hagen, Simon
-- Thomas, Oliver
+  - Kortum, Henrik
+  - Rebstadt, Jonas
+  - Hagen, Simon
+  - Thomas, Oliver
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.24251/HICSS.2022.254"
 url: "http://hdl.handle.net/10125/79586"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kortum, H., Rebstadt, J., Hagen, S., & Thomas, O. (2022). Integrating Data and Service Lifecycle for Smart Service Systems Engineering: Compilation of a Lifecycle Model for the Data Ecosystem of Smart Living. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.254.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kortum, Henrik
 AU  - Rebstadt, Jonas
@@ -47,6 +55,7 @@ DO  - 10.24251/HICSS.2022.254
 UR  - http://hdl.handle.net/10125/79586
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2022.254>

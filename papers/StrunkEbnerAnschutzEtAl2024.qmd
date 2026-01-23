@@ -1,12 +1,13 @@
 ---
 title: "Sorting the Trash: How Smart Waste Management Systems Contribute to Sustainable Development in Smart Cities"
 author:
-- Strunk, Jobin
-- Ebner, Katharina
-- Anschütz, Christian
-- Smolnik, Stefan
+  - Strunk, Jobin
+  - Ebner, Katharina
+  - Anschütz, Christian
+  - Smolnik, Stefan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.277"
 url: "https://hdl.handle.net/10125/106656"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Strunk, J., Ebner, K., Anschütz, C., & Smolnik, S. (2024). Sorting the Trash: How Smart Waste Management Systems Contribute to Sustainable Development in Smart Cities. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2024.277.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Strunk, Jobin
 AU  - Ebner, Katharina
@@ -46,6 +54,7 @@ DO  - 10.24251/HICSS.2024.277
 UR  - https://hdl.handle.net/10125/106656
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.277>

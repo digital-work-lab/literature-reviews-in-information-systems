@@ -1,11 +1,12 @@
 ---
 title: "Online trust: a stakeholder perspective, concepts, implications, and future directions"
 author:
-- Shankar, Venkatesh
-- Urban, Glen L.
-- Sultan, Fareena
-topic: ""
-categories: ['theoretical-review']
+  - Shankar, Venkatesh
+  - Urban, Glen L.
+  - Sultan, Fareena
+topic: "E-Commerce"
+categories:
+  - theoretical-review
 date: "2002"
 doi: "https://doi.org/10.1016/S0963-8687(02)00022-7"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 408
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Shankar, V., Urban, G. L., & Sultan, F. (2002). Online trust: a stakeholder perspective, concepts, implications, and future directions. The Journal of Strategic Information Systems, 11(3-4), 325–344. https://doi.org/10.1016/S0963-8687(02)00022-7.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Shankar, Venkatesh
 AU  - Urban, Glen L.
@@ -47,6 +55,7 @@ EP  - 344
 DO  - 10.1016/S0963-8687(02)00022-7
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/S0963-8687(02)00022-7>

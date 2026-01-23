@@ -1,12 +1,13 @@
 ---
 title: "The state-of-the-art of crowdsourcing systems: A computational literature review and future research agenda using a text analytics approach"
 author:
-- Dissanayake, Indika
-- Nerur, Sridhar P
-- Lukyanenko, Roman
-- Modaresnezhad, Minoo
+  - Dissanayake, Indika
+  - Nerur, Sridhar P
+  - Lukyanenko, Roman
+  - Modaresnezhad, Minoo
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.1016/J.IM.2025.104098"
 url: "https://www.doi.org/10.1016/J.IM.2025.104098"
@@ -15,6 +16,13 @@ journal:
 cited_by: 5
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Dissanayake, I., Nerur, S. P., Lukyanenko, R., & Modaresnezhad, M. (2025). The state-of-the-art of crowdsourcing systems: A computational literature review and future research agenda using a text analytics approach. Information & Management, 62(2), 104098. https://doi.org/10.1016/J.IM.2025.104098.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Dissanayake, Indika
 AU  - Nerur, Sridhar P
@@ -51,6 +59,7 @@ DO  - 10.1016/J.IM.2025.104098
 UR  - https://www.doi.org/10.1016/J.IM.2025.104098
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.IM.2025.104098>

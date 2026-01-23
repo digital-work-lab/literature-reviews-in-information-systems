@@ -1,10 +1,11 @@
 ---
 title: "Paradoxical Tensions in IT Renewal: A Systematic Literature Review"
 author:
-- Grasmeijer, René
-- Elshan, Edona
+  - Grasmeijer, René
+  - Elshan, Edona
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Grasmeijer, R., & Elshan, E. (2025). Paradoxical Tensions in IT Renewal: A Systematic Literature Review. In Americas Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Grasmeijer, René
 AU  - Elshan, Edona

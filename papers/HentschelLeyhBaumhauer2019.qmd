@@ -1,11 +1,12 @@
 ---
 title: "Critical Success Factors for the Implementation and Adoption of Cloud Services in SMEs"
 author:
-- Hentschel, Raoul
-- Leyh, Christian
-- Baumhauer, Teresa
+  - Hentschel, Raoul
+  - Leyh, Christian
+  - Baumhauer, Teresa
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.24251/HICSS.2019.882"
 url: "http://hdl.handle.net/10125/60171"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hentschel, R., Leyh, C., & Baumhauer, T. (2019). Critical Success Factors for the Implementation and Adoption of Cloud Services in SMEs. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2019.882.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hentschel, Raoul
 AU  - Leyh, Christian
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2019.882
 UR  - http://hdl.handle.net/10125/60171
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2019.882>

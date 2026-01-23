@@ -1,10 +1,11 @@
 ---
 title: "Toward a better understanding of behavioral intention and system usage constructs"
 author:
-- Wu, Jiming
-- Du, Hongwei
-topic: ""
-categories: ['meta-analysis']
+  - Wu, Jiming
+  - Du, Hongwei
+topic: "Technology Acceptance, and Use"
+categories:
+  - meta-analysis
 date: "2012"
 doi: "https://doi.org/10.1057/EJIS.2012.15"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 136
 outlet: "European Journal of Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wu, J., & Du, H. (2012). Toward a better understanding of behavioral intention and system usage constructs. European Journal of Information Systems, 21(6), 680–698. https://doi.org/10.1057/EJIS.2012.15.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Journal of Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wu, Jiming
 AU  - Du, Hongwei
@@ -45,6 +53,7 @@ EP  - 698
 DO  - 10.1057/EJIS.2012.15
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/EJIS.2012.15>

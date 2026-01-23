@@ -1,10 +1,11 @@
 ---
 title: "Towards an Understanding of Privacy Assurances - Literature Review and Research Agenda"
 author:
-- Schulmeyer, Julia
-- Hess, Thomas
+  - Schulmeyer, Julia
+  - Hess, Thomas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2022/59"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schulmeyer, J., & Hess, T. (2022). Towards an Understanding of Privacy Assurances - Literature Review and Research Agenda. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2022/59.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schulmeyer, Julia
 AU  - Hess, Thomas
@@ -39,6 +47,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/pacis2022/59
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2022/59>

@@ -1,12 +1,13 @@
 ---
 title: "Absorptive Capacity and Information Systems Research: Review, Synthesis, and Directions for Future Research"
 author:
-- Roberts
-- Galluch
-- Dinger
-- Grover
-topic: ""
-categories: ['critical-review']
+  - Roberts
+  - Galluch
+  - Dinger
+  - Grover
+topic: "Knowledge Management"
+categories:
+  - critical-review
 date: "2012"
 doi: "https://doi.org/10.2307/41703470"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 376
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Roberts, Galluch, Dinger, & Grover (2012). Absorptive Capacity and Information Systems Research: Review, Synthesis, and Directions for Future Research. MIS Quarterly, 36(2), 625. https://doi.org/10.2307/41703470.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Roberts
 AU  - Galluch
@@ -48,6 +56,7 @@ SP  - 625
 DO  - 10.2307/41703470
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/41703470>

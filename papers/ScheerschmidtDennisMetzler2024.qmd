@@ -1,11 +1,12 @@
 ---
 title: "Voice analytics applications and corporate communication: current state and future research directions"
 author:
-- Scheerschmidt, Tim
-- Dennis, Renee
-- Metzler,
+  - Scheerschmidt, Tim
+  - Dennis, Renee
+  - Metzler,
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Scheerschmidt, T., Dennis, R., & Metzler (2024). Voice analytics applications and corporate communication: current state and future research directions. In European Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Scheerschmidt, Tim
 AU  - Dennis, Renee

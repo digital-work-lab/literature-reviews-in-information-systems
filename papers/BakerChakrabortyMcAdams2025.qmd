@@ -1,11 +1,12 @@
 ---
 title: "Revisiting the Information Hierarchy in the AI Era: Implications of Misinformation, Ignorance, and Imprudence"
 author:
-- Baker, Ali
-- Chakraborty, Debarun
-- McAdams, Arthur C.
+  - Baker, Ali
+  - Chakraborty, Debarun
+  - McAdams, Arthur C.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: "https://doi.org/10.17705/1CAIS.05705"
 url: "https://aisel.aisnet.org/cais/vol57/iss1/5"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Baker, A., Chakraborty, D., & McAdams, A. C. (2025). Revisiting the Information Hierarchy in the AI Era: Implications of Misinformation, Ignorance, and Imprudence. Communications of the Association for Information Systems, 57, 102–132. https://doi.org/10.17705/1CAIS.05705.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Baker, Ali
 AU  - Chakraborty, Debarun
@@ -48,6 +56,7 @@ DO  - 10.17705/1CAIS.05705
 UR  - https://aisel.aisnet.org/cais/vol57/iss1/5
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05705>

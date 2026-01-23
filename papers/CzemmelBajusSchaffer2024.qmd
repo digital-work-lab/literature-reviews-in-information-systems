@@ -1,11 +1,12 @@
 ---
 title: "Identification of Criteria for the Evaluation of Reference Models - A Literature Review"
 author:
-- Czemmel, Jan
-- Bajus, Marco
-- Schäffer, Thomas
+  - Czemmel, Jan
+  - Bajus, Marco
+  - Schäffer, Thomas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2024/sig_osra/sig_osra/4"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Czemmel, J., Bajus, M., & Schäffer, T. (2024). Identification of Criteria for the Evaluation of Reference Models - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2024/sig_osra/sig_osra/4.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Czemmel, Jan
 AU  - Bajus, Marco
@@ -42,6 +50,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/amcis2024/sig_osra/sig_osra/4
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2024/sig_osra/sig_osra/4>

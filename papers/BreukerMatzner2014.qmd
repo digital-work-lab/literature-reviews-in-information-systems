@@ -1,10 +1,11 @@
 ---
 title: "Performances of Business Processes and Organizational Routines - Similar Research Problems, Different Research Methods - a literature Review"
 author:
-- Breuker, Dominic
-- Matzner, Martin
+  - Breuker, Dominic
+  - Matzner, Martin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: ""
 url: "http://aisel.aisnet.org/ecis2014/proceedings/track19/7"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Breuker, D., & Matzner, M. (2014). Performances of Business Processes and Organizational Routines - Similar Research Problems, Different Research Methods - a literature Review. In European Conference on Information Systems. http://aisel.aisnet.org/ecis2014/proceedings/track19/7.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Breuker, Dominic
 AU  - Matzner, Martin
@@ -38,6 +46,7 @@ PY  - 2014
 UR  - http://aisel.aisnet.org/ecis2014/proceedings/track19/7
 ER  - 
 ```
+
 ## Links
 
 - URL: <http://aisel.aisnet.org/ecis2014/proceedings/track19/7>

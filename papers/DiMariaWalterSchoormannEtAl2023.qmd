@@ -1,12 +1,13 @@
 ---
 title: "Practical support for unlearning -a systematic review to organize the field"
 author:
-- Di Maria, Marco
-- Walter, David
-- Schoormann, Thorsten
-- Knackstedt, Ralf
+  - Di Maria, Marco
+  - Walter, David
+  - Schoormann, Thorsten
+  - Knackstedt, Ralf
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2023_rip/11"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Di Maria, M., Walter, D., Schoormann, T., & Knackstedt, R. (2023). Practical support for unlearning -a systematic review to organize the field. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2023_rip/11.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Di Maria, Marco
 AU  - Walter, David
@@ -44,6 +52,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/ecis2023_rip/11
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2023_rip/11>

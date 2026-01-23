@@ -1,10 +1,11 @@
 ---
 title: "Chief Privacy Officers - A Literature Review"
 author:
-- Bantan, May
-- Shawosh, Mazen
+  - Bantan, May
+  - Shawosh, Mazen
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/20"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Bantan, M., & Shawosh, M. (2021). Chief Privacy Officers - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/20.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Bantan, May
 AU  - Shawosh, Mazen
@@ -38,6 +46,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/20
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2021/adv_info_systems_general_track/adv_info_systems_general_track/20>

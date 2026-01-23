@@ -1,11 +1,12 @@
 ---
 title: "Unexpected Events in IT Projects: A Conceptual Review and Research Agenda"
 author:
-- Coulon, Thibaut
-- Paré, Guy
-- Barki, Henri
+  - Coulon, Thibaut
+  - Paré, Guy
+  - Barki, Henri
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.17705/1CAIS.05242"
 url: "https://aisel.aisnet.org/cais/vol52/iss1/41"
@@ -14,6 +15,13 @@ journal:
 cited_by: 3
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Coulon, T., Paré, G., & Barki, H. (2022). Unexpected Events in IT Projects: A Conceptual Review and Research Agenda. Communications of the Association for Information Systems, 52, 877–909. https://doi.org/10.17705/1CAIS.05242.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Coulon, Thibaut
 AU  - Paré, Guy
@@ -49,6 +57,7 @@ DO  - 10.17705/1CAIS.05242
 UR  - https://aisel.aisnet.org/cais/vol52/iss1/41
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05242>

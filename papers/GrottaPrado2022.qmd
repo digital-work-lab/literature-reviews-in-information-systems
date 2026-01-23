@@ -1,10 +1,11 @@
 ---
 title: "DevOps Didactic Transposition in IS Higher Education: A Systematic Literature Review"
 author:
-- Grotta, Alexandre
-- Prado, Edmir Parada Vasques
+  - Grotta, Alexandre
+  - Prado, Edmir Parada Vasques
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2022/sig_ed/sig_ed/15"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Grotta, A., & Prado, E. P. V. (2022). DevOps Didactic Transposition in IS Higher Education: A Systematic Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2022/sig_ed/sig_ed/15.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Grotta, Alexandre
 AU  - Prado, Edmir Parada Vasques
@@ -41,6 +49,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/amcis2022/sig_ed/sig_ed/15
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2022/sig_ed/sig_ed/15>

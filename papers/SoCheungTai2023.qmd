@@ -1,11 +1,12 @@
 ---
 title: "Cryptocurrency Research in the Field of Information Systems: A Literature Review and its Implications for Sharing Economy Research"
 author:
-- So, Tin King
-- Cheung, Christy
-- Tai, Samson K.H.
+  - So, Tin King
+  - Cheung, Christy
+  - Tai, Samson K.H.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.080"
 url: "https://hdl.handle.net/10125/102709"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+So, T. K., Cheung, C., & Tai, S. K. (2023). Cryptocurrency Research in the Field of Information Systems: A Literature Review and its Implications for Sharing Economy Research. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.080.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - So, Tin King
 AU  - Cheung, Christy
@@ -45,6 +53,7 @@ DO  - 10.24251/HICSS.2023.080
 UR  - https://hdl.handle.net/10125/102709
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.080>

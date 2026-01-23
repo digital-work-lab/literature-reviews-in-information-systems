@@ -1,11 +1,12 @@
 ---
 title: "Deconstructing e-commerce presences -a systematic review and research agenda"
 author:
-- Schwehm, Kevin
-- Prigge, Jana-Kristin
-- Schwehm, Steven
+  - Schwehm, Kevin
+  - Prigge, Jana-Kristin
+  - Schwehm, Steven
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2023_rp/399"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schwehm, K., Prigge, J.-K., & Schwehm, S. (2023). Deconstructing e-commerce presences -a systematic review and research agenda. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2023_rp/399.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schwehm, Kevin
 AU  - Prigge, Jana-Kristin
@@ -42,6 +50,7 @@ PY  - 2023
 UR  - https://aisel.aisnet.org/ecis2023_rp/399
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2023_rp/399>

@@ -1,11 +1,13 @@
 ---
 title: "Information Privacy Research: An Interdisciplinary Review"
 author:
-- Smith
-- Dinev
-- Xu
-topic: ""
-categories: ['scoping-review', 'highly-cited']
+  - Smith
+  - Dinev
+  - Xu
+topic: "Security"
+categories:
+  - scoping-review
+  - highly-cited
 date: "2011"
 doi: "https://doi.org/10.2307/41409970"
 url: ""
@@ -14,6 +16,13 @@ journal:
 cited_by: 1344
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Smith, Dinev, & Xu (2011). Information Privacy Research: An Interdisciplinary Review. MIS Quarterly, 35(4), 989. https://doi.org/10.2307/41409970.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +41,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Smith
 AU  - Dinev
@@ -46,6 +55,7 @@ SP  - 989
 DO  - 10.2307/41409970
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/41409970>

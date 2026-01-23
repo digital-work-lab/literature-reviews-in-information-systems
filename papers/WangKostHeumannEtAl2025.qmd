@@ -1,12 +1,13 @@
 ---
 title: "Navigating Model Selection and Feature Engineering for Battery Health Prediction: An Evidence-Based Meta-Analysis"
 author:
-- Wang, Yifan
-- Kost, Leonard
-- Heumann, Maximilian
-- Schade, Wolfgang
+  - Wang, Yifan
+  - Kost, Leonard
+  - Heumann, Maximilian
+  - Schade, Wolfgang
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wang, Y., Kost, L., Heumann, M., & Schade, W. (2025). Navigating Model Selection and Feature Engineering for Battery Health Prediction: An Evidence-Based Meta-Analysis. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wang, Yifan
 AU  - Kost, Leonard

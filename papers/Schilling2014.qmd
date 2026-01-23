@@ -1,9 +1,10 @@
 ---
 title: "What Do We Know about FLOSS Developers' Attraction, Retention, and Commitment? A Literature Review"
 author:
-- Schilling, Andreas
+  - Schilling, Andreas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2014"
 doi: "https://doi.org/10.1109/HICSS.2014.495"
 url: "https://ieeexplore.ieee.org/document/6759097"
@@ -12,6 +13,13 @@ journal:
 cited_by: 10
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schilling, A. (2014). What Do We Know about FLOSS Developers' Attraction, Retention, and Commitment? A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2014.495.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schilling, Andreas
 TI  - What Do We Know about FLOSS Developers' Attraction, Retention, and Commitment? A Literature Review
@@ -38,6 +46,7 @@ DO  - 10.1109/HICSS.2014.495
 UR  - https://ieeexplore.ieee.org/document/6759097
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2014.495>

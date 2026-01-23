@@ -1,11 +1,12 @@
 ---
 title: "Mapping the privacy-by-design domain and its organisational activities: two multivocal literature reviews"
 author:
-- Muszynski, Michel
-- van Dijk, Friso W.
-- Brinkkemper, Sjaak
+  - Muszynski, Michel
+  - van Dijk, Friso W.
+  - Brinkkemper, Sjaak
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/23"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Muszynski, M., {van Dijk}, F. W., & Brinkkemper, S. (2024). Mapping the privacy-by-design domain and its organisational activities: two multivocal literature reviews. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/23.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Muszynski, Michel
 AU  - {van Dijk}, Friso W.
@@ -41,6 +49,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/23
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/23>

@@ -1,12 +1,13 @@
 ---
 title: "On the Untapped Value of e-HRM – a Literature Review"
 author:
-- Wirtky, Thomas
-- Laumer, Sven
-- Eckhardt, Andreas
-- Weitzel, Tim
+  - Wirtky, Thomas
+  - Laumer, Sven
+  - Eckhardt, Andreas
+  - Weitzel, Tim
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2016"
 doi: "https://doi.org/10.17705/1CAIS.03802"
 url: "https://aisel.aisnet.org/cais/vol38/iss1/2"
@@ -15,6 +16,13 @@ journal:
 cited_by: 26
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wirtky, T., Laumer, S., Eckhardt, A., & Weitzel, T. (2016). On the Untapped Value of e-HRM – a Literature Review. Communications of the Association for Information Systems, 38, 20–83. https://doi.org/10.17705/1CAIS.03802.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wirtky, Thomas
 AU  - Laumer, Sven
@@ -49,6 +57,7 @@ DO  - 10.17705/1CAIS.03802
 UR  - https://aisel.aisnet.org/cais/vol38/iss1/2
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03802>

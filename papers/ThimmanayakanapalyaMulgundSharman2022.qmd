@@ -1,11 +1,12 @@
 ---
 title: "A TOGAF Based Chatbot Evaluation Metrics: Insights from Literature Review"
 author:
-- Thimmanayakanapalya, Sagarika Suresh
-- Mulgund, Pavankumar
-- Sharman, Raj
+  - Thimmanayakanapalya, Sagarika Suresh
+  - Mulgund, Pavankumar
+  - Sharman, Raj
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2022/sig_odis/sig_odis/18"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Thimmanayakanapalya, S. S., Mulgund, P., & Sharman, R. (2022). A TOGAF Based Chatbot Evaluation Metrics: Insights from Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2022/sig_odis/sig_odis/18.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Thimmanayakanapalya, Sagarika Suresh
 AU  - Mulgund, Pavankumar
@@ -43,6 +51,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/amcis2022/sig_odis/sig_odis/18
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2022/sig_odis/sig_odis/18>

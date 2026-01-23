@@ -1,11 +1,12 @@
 ---
 title: "Social Media Enabled Social Movements in Information Systems Research: A Lakatos Approach to Literature Review"
 author:
-- Oladeji, Oyebisi
-- Syed, Romilla
-- Silva, Leiser
+  - Oladeji, Oyebisi
+  - Syed, Romilla
+  - Silva, Leiser
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.777"
 url: "https://hdl.handle.net/10125/107163"
@@ -14,6 +15,13 @@ journal:
 cited_by: 2
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Oladeji, O., Syed, R., & Silva, L. (2024). Social Media Enabled Social Movements in Information Systems Research: A Lakatos Approach to Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2024.777.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Oladeji, Oyebisi
 AU  - Syed, Romilla
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2024.777
 UR  - https://hdl.handle.net/10125/107163
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.777>

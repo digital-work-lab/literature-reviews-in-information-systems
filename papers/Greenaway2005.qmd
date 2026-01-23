@@ -1,10 +1,11 @@
 ---
 title: "Theoretical Explanations for Firms' Information Privacy Behaviors"
 author:
-- Chan, Yolande
-- Greenaway, Kathleen
-topic: ""
-categories: ['theoretical-review']
+  - Chan, Yolande
+  - Greenaway, Kathleen
+topic: "Security"
+categories:
+  - theoretical-review
 date: "2005"
 doi: "https://doi.org/10.17705/1JAIS.00068"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 32
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chan, Y., & Greenaway, K. (2005). Theoretical Explanations for Firms' Information Privacy Behaviors. Journal of the Association for Information Systems, 6(6), 171–198. https://doi.org/10.17705/1JAIS.00068.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Chan, Yolande
 AU  - Greenaway, Kathleen
@@ -45,6 +53,7 @@ EP  - 198
 DO  - 10.17705/1JAIS.00068
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00068>

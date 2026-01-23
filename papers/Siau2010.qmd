@@ -1,11 +1,12 @@
 ---
 title: "Toward a Unified Model of Information Systems Development Success"
 author:
-- Siau, Keng
-- Long, Yoanna
-- Ling, Min
-topic: ""
-categories: ['theoretical-review']
+  - Siau, Keng
+  - Long, Yoanna
+  - Ling, Min
+topic: "Software Development"
+categories:
+  - theoretical-review
 date: "2010"
 doi: "https://doi.org/10.4018/JDM.2010112304"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 38
 outlet: "Journal of Database Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Siau, K., Long, Y., & Ling, M. (2010). Toward a Unified Model of Information Systems Development Success. Journal of Database Management, 21(1), 80–101. https://doi.org/10.4018/JDM.2010112304.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Journal of Database Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Siau, Keng
 AU  - Long, Yoanna
@@ -48,6 +56,7 @@ EP  - 101
 DO  - 10.4018/JDM.2010112304
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.4018/JDM.2010112304>

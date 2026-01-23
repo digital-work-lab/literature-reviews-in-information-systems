@@ -1,11 +1,12 @@
 ---
 title: "Ethics and AI in Information Systems Research"
 author:
-- Mirbabaie, Milad
-- Benedikt Brendel, Alfred
-- Hofeditz, Lennart
+  - Mirbabaie, Milad
+  - Benedikt Brendel, Alfred
+  - Hofeditz, Lennart
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.17705/1CAIS.05034"
 url: "https://aisel.aisnet.org/cais/vol50/iss1/38"
@@ -14,6 +15,13 @@ journal:
 cited_by: 21
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Mirbabaie, M., Benedikt Brendel, A., & Hofeditz, L. (2022). Ethics and AI in Information Systems Research. Communications of the Association for Information Systems, 50, 726–753. https://doi.org/10.17705/1CAIS.05034.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Mirbabaie, Milad
 AU  - Benedikt Brendel, Alfred
@@ -49,6 +57,7 @@ DO  - 10.17705/1CAIS.05034
 UR  - https://aisel.aisnet.org/cais/vol50/iss1/38
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05034>

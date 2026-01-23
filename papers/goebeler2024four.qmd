@@ -1,11 +1,12 @@
 ---
 title: "Four roles of physicality in digital innovation: A theoretical review"
 author:
-- Goebeler, Lucas
-- Hukal, Philipp
-- Xiao, Xiao
+  - Goebeler, Lucas
+  - Hukal, Philipp
+  - Xiao, Xiao
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.1016/J.JSIS.2024.101862"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 5
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Goebeler, L., Hukal, P., & Xiao, X. (2024). Four roles of physicality in digital innovation: A theoretical review. The Journal of Strategic Information Systems, 33(4), 101862. https://doi.org/10.1016/J.JSIS.2024.101862.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Goebeler, Lucas
 AU  - Hukal, Philipp
@@ -46,6 +54,7 @@ SP  - 101862
 DO  - 10.1016/J.JSIS.2024.101862
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2024.101862>

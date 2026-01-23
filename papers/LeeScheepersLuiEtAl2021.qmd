@@ -1,12 +1,13 @@
 ---
 title: "Implementation of Artificial Intelligence in Organisations - A Systematic Literature Review"
 author:
-- Lee, Maggie C. M.
-- Scheepers, Helana
-- Lui, Ariel K. H.
-- Ngai, Eric W. T.
+  - Lee, Maggie C. M.
+  - Scheepers, Helana
+  - Lui, Ariel K. H.
+  - Ngai, Eric W. T.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2021/215"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lee, M. C. M., Scheepers, H., Lui, A. K. H., & Ngai, E. W. T. (2021). Implementation of Artificial Intelligence in Organisations - A Systematic Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2021/215.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Lee, Maggie C. M.
 AU  - Scheepers, Helana
@@ -42,6 +50,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/pacis2021/215
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2021/215>

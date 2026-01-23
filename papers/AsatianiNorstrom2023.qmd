@@ -1,10 +1,11 @@
 ---
 title: "Information systems for sustainable remote workplaces"
 author:
-- Asatiani, Aleksandre
-- Norström, Livia
+  - Asatiani, Aleksandre
+  - Norström, Livia
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.1016/J.JSIS.2023.101789"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 20
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Asatiani, A., & Norström, L. (2023). Information systems for sustainable remote workplaces. The Journal of Strategic Information Systems, 32(3), 101789. https://doi.org/10.1016/J.JSIS.2023.101789.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Asatiani, Aleksandre
 AU  - Norström, Livia
@@ -44,6 +52,7 @@ SP  - 101789
 DO  - 10.1016/J.JSIS.2023.101789
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2023.101789>

@@ -1,9 +1,10 @@
 ---
 title: "Review: A Cognitive-Affective Model of Organizational Communication for Designing IT"
 author:
-- Te'eni, Dov
-topic: ""
-categories: ['theoretical-review']
+  - Te'eni, Dov
+topic: "Software Development"
+categories:
+  - theoretical-review
 date: "2001"
 doi: "https://doi.org/10.2307/3250931"
 url: ""
@@ -12,6 +13,13 @@ journal:
 cited_by: 299
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Te'eni, D. (2001). Review: A Cognitive-Affective Model of Organizational Communication for Designing IT. MIS Quarterly, 25(2), 251–312. https://doi.org/10.2307/3250931.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Te'eni, Dov
 TI  - Review: A Cognitive-Affective Model of Organizational Communication for Designing IT
@@ -43,6 +51,7 @@ EP  - 312
 DO  - 10.2307/3250931
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/3250931>

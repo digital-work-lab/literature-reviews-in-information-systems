@@ -1,10 +1,11 @@
 ---
 title: "Application of Digital Nudging in Customer Journeys - A Systematic Literature Review"
 author:
-- Schär, Armando
-- Stanoevska-Slabeva, Katarina
+  - Schär, Armando
+  - Stanoevska-Slabeva, Katarina
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2019/meta_research_is/meta_research_is/13"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schär, A., & Stanoevska-Slabeva, K. (2019). Application of Digital Nudging in Customer Journeys - A Systematic Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2019/meta_research_is/meta_research_is/13.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schär, Armando
 AU  - Stanoevska-Slabeva, Katarina
@@ -38,6 +46,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/amcis2019/meta_research_is/meta_research_is/13
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2019/meta_research_is/meta_research_is/13>

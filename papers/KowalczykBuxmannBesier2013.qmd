@@ -1,11 +1,12 @@
 ---
 title: "Investigating Business Intelligence And Analytics From A Decision Process Perspective - A Structured Literature Review"
 author:
-- Kowalczyk, Martin
-- Buxmann, Peter
-- Besier, Jörg
+  - Kowalczyk, Martin
+  - Buxmann, Peter
+  - Besier, Jörg
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2013"
 doi: ""
 url: "http://aisel.aisnet.org/ecis2013_cr/126"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kowalczyk, M., Buxmann, P., & Besier, J. (2013). Investigating Business Intelligence And Analytics From A Decision Process Perspective - A Structured Literature Review. In European Conference on Information Systems. http://aisel.aisnet.org/ecis2013_cr/126.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kowalczyk, Martin
 AU  - Buxmann, Peter
@@ -40,6 +48,7 @@ PY  - 2013
 UR  - http://aisel.aisnet.org/ecis2013_cr/126
 ER  - 
 ```
+
 ## Links
 
 - URL: <http://aisel.aisnet.org/ecis2013_cr/126>

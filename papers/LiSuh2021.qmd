@@ -1,10 +1,11 @@
 ---
 title: "Machinelike or Humanlike? A Literature Review of Anthropomorphism in AI-Enabled Technology"
 author:
-- Li, Mengjun
-- Suh, Ayoung
+  - Li, Mengjun
+  - Suh, Ayoung
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.493"
 url: "http://hdl.handle.net/10125/71110"
@@ -13,6 +14,13 @@ journal:
 cited_by: 47
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Li, M., & Suh, A. (2021). Machinelike or Humanlike? A Literature Review of Anthropomorphism in AI-Enabled Technology. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.493.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Li, Mengjun
 AU  - Suh, Ayoung
@@ -40,6 +48,7 @@ DO  - 10.24251/HICSS.2021.493
 UR  - http://hdl.handle.net/10125/71110
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.493>

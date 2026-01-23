@@ -1,10 +1,11 @@
 ---
 title: "Technology-Organization-Environment Meta-Review and Construct Analysis: Insights for Future Research"
 author:
-- Thomas, Dominic
-- Yao, Yurong
+  - Thomas, Dominic
+  - Yao, Yurong
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.707"
 url: "https://hdl.handle.net/10125/103341"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Thomas, D., & Yao, Y. (2023). Technology-Organization-Environment Meta-Review and Construct Analysis: Insights for Future Research. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.707.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Thomas, Dominic
 AU  - Yao, Yurong
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2023.707
 UR  - https://hdl.handle.net/10125/103341
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.707>

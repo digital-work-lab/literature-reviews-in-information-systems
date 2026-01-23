@@ -1,11 +1,12 @@
 ---
 title: "Calling for Information Systems Research on Esports: An Overview Study"
 author:
-- Ke, Xiaobo
-- Wagner, Christian
-- Du, Helen S
+  - Ke, Xiaobo
+  - Wagner, Christian
+  - Du, Helen S
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.17705/1CAIS.05010"
 url: "https://aisel.aisnet.org/cais/vol50/iss1/10"
@@ -14,6 +15,13 @@ journal:
 cited_by: 6
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ke, X., Wagner, C., & Du, H. S. (2022). Calling for Information Systems Research on Esports: An Overview Study. Communications of the Association for Information Systems, 50, 261–285. https://doi.org/10.17705/1CAIS.05010.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ke, Xiaobo
 AU  - Wagner, Christian
@@ -49,6 +57,7 @@ DO  - 10.17705/1CAIS.05010
 UR  - https://aisel.aisnet.org/cais/vol50/iss1/10
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05010>

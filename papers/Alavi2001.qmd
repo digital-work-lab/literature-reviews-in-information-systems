@@ -1,10 +1,12 @@
 ---
 title: "Review: Knowledge Management and Knowledge Management Systems: Conceptual Foundations and Research Issues"
 author:
-- Alavi, Maryam
-- Leidner, Dorothy E.
-topic: ""
-categories: ['narrative-review', 'highly-cited']
+  - Alavi, Maryam
+  - Leidner, Dorothy E.
+topic: "Knowledge Management"
+categories:
+  - narrative-review
+  - highly-cited
 date: "2001"
 doi: "https://doi.org/10.2307/3250961"
 url: ""
@@ -13,6 +15,13 @@ journal:
 cited_by: 5767
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Alavi, M., & Leidner, D. E. (2001). Review: Knowledge Management and Knowledge Management Systems: Conceptual Foundations and Research Issues. MIS Quarterly, 25(1), 107. https://doi.org/10.2307/3250961.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +40,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Alavi, Maryam
 AU  - Leidner, Dorothy E.
@@ -44,6 +53,7 @@ SP  - 107
 DO  - 10.2307/3250961
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.2307/3250961>

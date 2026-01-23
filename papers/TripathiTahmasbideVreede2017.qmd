@@ -1,11 +1,12 @@
 ---
 title: "Theoretical Fashions in Crowdsourcing: A Snapshot of IS Research"
 author:
-- Tripathi, Abhishek
-- Tahmasbi, Nargess
-- de Vreede, Gert-Jan
+  - Tripathi, Abhishek
+  - Tahmasbi, Nargess
+  - de Vreede, Gert-Jan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: "https://doi.org/10.24251/HICSS.2017.086"
 url: "http://hdl.handle.net/10125/41235"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Tripathi, A., Tahmasbi, N., & de Vreede, G.-J. (2017). Theoretical Fashions in Crowdsourcing: A Snapshot of IS Research. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2017.086.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Tripathi, Abhishek
 AU  - Tahmasbi, Nargess
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2017.086
 UR  - http://hdl.handle.net/10125/41235
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2017.086>

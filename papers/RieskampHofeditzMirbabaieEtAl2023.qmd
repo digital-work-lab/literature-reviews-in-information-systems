@@ -1,12 +1,13 @@
 ---
 title: "Approaches to Improve Fairness when Deploying AI-based Algorithms in Hiring – Using a Systematic Literature Review to Guide Future Research"
 author:
-- Rieskamp, Jonas
-- Hofeditz, Lennart
-- Mirbabaie, Milad
-- Stieglitz, Stefan
+  - Rieskamp, Jonas
+  - Hofeditz, Lennart
+  - Mirbabaie, Milad
+  - Stieglitz, Stefan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.026"
 url: "https://hdl.handle.net/10125/102654"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Rieskamp, J., Hofeditz, L., Mirbabaie, M., & Stieglitz, S. (2023). Approaches to Improve Fairness when Deploying AI-based Algorithms in Hiring – Using a Systematic Literature Review to Guide Future Research. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.026.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Rieskamp, Jonas
 AU  - Hofeditz, Lennart
@@ -47,6 +55,7 @@ DO  - 10.24251/HICSS.2023.026
 UR  - https://hdl.handle.net/10125/102654
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.026>

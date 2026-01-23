@@ -1,13 +1,14 @@
 ---
 title: "Context-aware Knowledge-based Systems: A Literature Review"
 author:
-- Vu, Thi-My-Hang
-- Le Dinh, Thang
-- Nguyen, Anh Khoa
-- Dam, 
-- Pham-Nguyen, Cuong
+  - Vu, Thi-My-Hang
+  - Le Dinh, Thang
+  - Nguyen, Anh Khoa
+  - Dam,
+  - Pham-Nguyen, Cuong
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.558"
 url: "https://hdl.handle.net/10125/103190"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Vu, T.-M.-H., Le Dinh, T., Nguyen, A. K., Dam, & Pham-Nguyen, C. (2023). Context-aware Knowledge-based Systems: A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.558.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Vu, Thi-My-Hang
 AU  - Le Dinh, Thang
@@ -49,6 +57,7 @@ DO  - 10.24251/HICSS.2023.558
 UR  - https://hdl.handle.net/10125/103190
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.558>

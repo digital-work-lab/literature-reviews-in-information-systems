@@ -1,12 +1,13 @@
 ---
 title: "Information Systems and Healthcare XXXIV: Clinical Knowledge Management Systems—Literature Review and Research Issues for Information Systems"
 author:
-- Wills, Matthew J.
-- Sarnikar, Surendra
-- El-Gayar, Omar F.
-- Deokar, Amit V.
-topic: ""
-categories: ['scoping-review']
+  - Wills, Matthew J.
+  - Sarnikar, Surendra
+  - El-Gayar, Omar F.
+  - Deokar, Amit V.
+topic: "Knowledge Management"
+categories:
+  - scoping-review
 date: "2010"
 doi: "https://doi.org/10.17705/1CAIS.02626"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 5
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wills, M. J., Sarnikar, S., El-Gayar, O. F., & Deokar, A. V. (2010). Information Systems and Healthcare XXXIV: Clinical Knowledge Management Systems—Literature Review and Research Issues for Information Systems. Communications of the Association for Information Systems, 26(26), 565–598. https://doi.org/10.17705/1CAIS.02626.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wills, Matthew J.
 AU  - Sarnikar, Surendra
@@ -49,6 +57,7 @@ EP  - 598
 DO  - 10.17705/1CAIS.02626
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.02626>

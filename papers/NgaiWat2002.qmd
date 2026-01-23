@@ -1,10 +1,11 @@
 ---
 title: "A literature review and classification of electronic commerce research"
 author:
-- Ngai, Eric W. T.
-- Wat, F. K. T.
+  - Ngai, Eric W. T.
+  - Wat, F. K. T.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2002"
 doi: "https://doi.org/10.1016/S0378-7206(01)00107-0"
 url: "https://www.sciencedirect.com/science/article/pii/S0378720601001070"
@@ -13,6 +14,13 @@ journal:
 cited_by: 281
 outlet: "Information & Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Ngai, E. W. T., & Wat, F. K. T. (2002). A literature review and classification of electronic commerce research. Information & Management, 39(5), 415–429. https://doi.org/10.1016/S0378-7206(01)00107-0.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Information & Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Ngai, Eric W. T.
 AU  - Wat, F. K. T.
@@ -47,6 +55,7 @@ DO  - 10.1016/S0378-7206(01)00107-0
 UR  - https://www.sciencedirect.com/science/article/pii/S0378720601001070
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/S0378-7206(01)00107-0>

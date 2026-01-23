@@ -1,11 +1,12 @@
 ---
 title: "Critical Issues in Enterprise Architecting - A Literature Review"
 author:
-- Lucke, Carsten
-- Krell, Sascha
-- Lechner, Ulrike
+  - Lucke, Carsten
+  - Krell, Sascha
+  - Lechner, Ulrike
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2010"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2010/305"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lucke, C., Krell, S., & Lechner, U. (2010). Critical Issues in Enterprise Architecting - A Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2010/305.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Lucke, Carsten
 AU  - Krell, Sascha
@@ -40,6 +48,7 @@ PY  - 2010
 UR  - https://aisel.aisnet.org/amcis2010/305
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2010/305>

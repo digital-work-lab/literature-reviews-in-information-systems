@@ -1,13 +1,14 @@
 ---
 title: "Business Model Configurations for Digital Platform Success - Towards a Typology of Digital Platform Business Models"
 author:
-- Böttcher, Timo Phillip
-- Bootz, Valentin
-- Schaffer, Norman
-- Weking, Jörg
-- Hein, Andreas
+  - Böttcher, Timo Phillip
+  - Bootz, Valentin
+  - Schaffer, Norman
+  - Weking, Jörg
+  - Hein, Andreas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rip/34"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Böttcher, T. P., Bootz, V., Schaffer, N., Weking, J., & Hein, A. (2022). Business Model Configurations for Digital Platform Success - Towards a Typology of Digital Platform Business Models. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rip/34.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Böttcher, Timo Phillip
 AU  - Bootz, Valentin
@@ -46,6 +54,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rip/34
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rip/34>

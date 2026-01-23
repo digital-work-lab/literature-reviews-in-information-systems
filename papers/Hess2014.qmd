@@ -1,11 +1,12 @@
 ---
 title: "Reliability Generalization of Perceived Ease of Use, Perceived Usefulness, and Behavioral Intentions1"
 author:
-- Hess, Traci J.
-- McNab, Anna L.
-- Basoglu, K. Asli
-topic: ""
-categories: ['meta-analysis']
+  - Hess, Traci J.
+  - McNab, Anna L.
+  - Basoglu, K. Asli
+topic: "Technology Acceptance, and Use"
+categories:
+  - meta-analysis
 date: "2014"
 doi: "https://doi.org/10.25300/MISQ/2014/38.1.01"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 160
 outlet: "MIS Quarterly"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hess, T. J., McNab, A. L., & Basoglu, K. A. (2014). Reliability Generalization of Perceived Ease of Use, Perceived Usefulness, and Behavioral Intentions1. MIS Quarterly, 38(1), 1–28. https://doi.org/10.25300/MISQ/2014/38.1.01.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "MIS Quarterly"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Hess, Traci J.
 AU  - McNab, Anna L.
@@ -49,6 +57,7 @@ EP  - 28
 DO  - 10.25300/MISQ/2014/38.1.01
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.25300/MISQ/2014/38.1.01>

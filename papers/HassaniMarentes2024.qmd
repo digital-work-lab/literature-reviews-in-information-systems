@@ -1,10 +1,11 @@
 ---
 title: "Digital Transformation and Big Data Analytics Capabilities: A Systematic Literature Review"
 author:
-- Hassani, Abdeslam
-- Marentes, Janeth
+  - Hassani, Abdeslam
+  - Marentes, Janeth
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2024/sig_osra/sig_osra/6"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hassani, A., & Marentes, J. (2024). Digital Transformation and Big Data Analytics Capabilities: A Systematic Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2024/sig_osra/sig_osra/6.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hassani, Abdeslam
 AU  - Marentes, Janeth
@@ -40,6 +48,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/amcis2024/sig_osra/sig_osra/6
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2024/sig_osra/sig_osra/6>

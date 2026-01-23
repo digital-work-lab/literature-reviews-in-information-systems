@@ -1,11 +1,12 @@
 ---
 title: "A Requirements Framework for the Design of Smart City Reference Architectures"
 author:
-- Bastidas, Viviana
-- Helfert, Markus
-- Bezbradica, Marija
+  - Bastidas, Viviana
+  - Helfert, Markus
+  - Bezbradica, Marija
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2018"
 doi: "https://doi.org/10.24251/HICSS.2018.317"
 url: "http://hdl.handle.net/10125/50205"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Bastidas, V., Helfert, M., & Bezbradica, M. (2018). A Requirements Framework for the Design of Smart City Reference Architectures. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2018.317.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Bastidas, Viviana
 AU  - Helfert, Markus
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2018.317
 UR  - http://hdl.handle.net/10125/50205
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2018.317>

@@ -1,13 +1,14 @@
 ---
 title: "Identifying Quality Factors for Self-Tracking Solutions: A Systematic Literature Review"
 author:
-- Schiller, Barbara
-- Brogt, Tobias
-- Schuler, J. Peter M.
-- Strobel, Gero
-- Eicker, Stefan
+  - Schiller, Barbara
+  - Brogt, Tobias
+  - Schuler, J. Peter M.
+  - Strobel, Gero
+  - Eicker, Stefan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.452"
 url: "http://hdl.handle.net/10125/64194"
@@ -16,6 +17,13 @@ journal:
 cited_by: 3
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Schiller, B., Brogt, T., Schuler, J. P. M., Strobel, G., & Eicker, S. (2020). Identifying Quality Factors for Self-Tracking Solutions: A Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.452.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Schiller, Barbara
 AU  - Brogt, Tobias
@@ -46,6 +54,7 @@ DO  - 10.24251/HICSS.2020.452
 UR  - http://hdl.handle.net/10125/64194
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.452>

@@ -1,10 +1,11 @@
 ---
 title: "Contracting Decisions on Digital Markets for Knowledge Work Services: A Qualitative Systematic Review"
 author:
-- Prester, Julian
-- Wagner, Gerit
+  - Prester, Julian
+  - Wagner, Gerit
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/icis2021/sharing_econ/sharing_econ/6"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Prester, J., & Wagner, G. (2021). Contracting Decisions on Digital Markets for Knowledge Work Services: A Qualitative Systematic Review. In International Conference on Information Systems. https://aisel.aisnet.org/icis2021/sharing_econ/sharing_econ/6.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Prester, Julian
 AU  - Wagner, Gerit
@@ -40,6 +48,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/icis2021/sharing_econ/sharing_econ/6
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2021/sharing_econ/sharing_econ/6>

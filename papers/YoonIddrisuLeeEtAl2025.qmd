@@ -1,12 +1,13 @@
 ---
 title: "Information Systems, AI and Climate Resilience: A Systematic Literature Review"
 author:
-- Yoon, Youngho
-- Iddrisu, Mubarak
-- Lee, Carol
-- Bharati, Pratyush
+  - Yoon, Youngho
+  - Iddrisu, Mubarak
+  - Lee, Carol
+  - Bharati, Pratyush
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Yoon, Y., Iddrisu, M., Lee, C., & Bharati, P. (2025). Information Systems, AI and Climate Resilience: A Systematic Literature Review. In Americas Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Yoon, Youngho
 AU  - Iddrisu, Mubarak

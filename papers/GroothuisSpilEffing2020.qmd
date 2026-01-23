@@ -1,11 +1,12 @@
 ---
 title: "Facebook Marketing Intelligence"
 author:
-- Groothuis, Daan
-- Spil, Ton
-- Effing, Robin
+  - Groothuis, Daan
+  - Spil, Ton
+  - Effing, Robin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.312"
 url: "http://hdl.handle.net/10125/64054"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Groothuis, D., Spil, T., & Effing, R. (2020). Facebook Marketing Intelligence. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.312.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Groothuis, Daan
 AU  - Spil, Ton
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2020.312
 UR  - http://hdl.handle.net/10125/64054
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.312>

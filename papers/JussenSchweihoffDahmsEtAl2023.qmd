@@ -1,13 +1,14 @@
 ---
 title: "Data Sharing Fundamentals: Definition and Characteristics"
 author:
-- Jussen, Ilka
-- Schweihoff, Julia
-- Dahms, Valentin
-- Möller, Frederik
-- Otto, Boris
+  - Jussen, Ilka
+  - Schweihoff, Julia
+  - Dahms, Valentin
+  - Möller, Frederik
+  - Otto, Boris
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.452"
 url: "https://hdl.handle.net/10125/103083"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Jussen, I., Schweihoff, J., Dahms, V., Möller, F., & Otto, B. (2023). Data Sharing Fundamentals: Definition and Characteristics. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.452.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Jussen, Ilka
 AU  - Schweihoff, Julia
@@ -49,6 +57,7 @@ DO  - 10.24251/HICSS.2023.452
 UR  - https://hdl.handle.net/10125/103083
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.452>

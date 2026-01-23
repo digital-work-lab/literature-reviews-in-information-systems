@@ -1,12 +1,13 @@
 ---
 title: "The business value of agile software development: Results from a systematic literature review"
 author:
-- Meckenstock, Jan-Niklas
-- Hirschlein, Nico
-- Schlauderer, Sebastian
-- Overhage, Sven
+  - Meckenstock, Jan-Niklas
+  - Hirschlein, Nico
+  - Schlauderer, Sebastian
+  - Overhage, Sven
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rp/24"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Meckenstock, J.-N., Hirschlein, N., Schlauderer, S., & Overhage, S. (2022). The business value of agile software development: Results from a systematic literature review. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rp/24.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Meckenstock, Jan-Niklas
 AU  - Hirschlein, Nico
@@ -44,6 +52,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rp/24
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rp/24>

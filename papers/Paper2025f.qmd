@@ -1,11 +1,12 @@
 ---
 title: "How are search-augmented large language models changing internet search? -a systematic literature review"
 author:
-- Wildhaber, Basil
-- Göldi, Andreas
-- Rietsche, Roman
+  - Wildhaber, Basil
+  - Göldi, Andreas
+  - Rietsche, Roman
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wildhaber, B., Göldi, A., & Rietsche, R. (2025). How are search-augmented large language models changing internet search? -a systematic literature review. In European Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wildhaber, Basil
 AU  - Göldi, Andreas

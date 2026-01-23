@@ -1,10 +1,11 @@
 ---
 title: "A Meta-Analysis Comparing the Sunk Cost Effect for IT and Non-IT Projects"
 author:
-- Wang, Jijie
-- Keil, Mark
-topic: ""
-categories: ['meta-analysis']
+  - Wang, Jijie
+  - Keil, Mark
+topic: "Other Domain"
+categories:
+  - meta-analysis
 date: "2007"
 doi: "https://doi.org/10.4018/IRMJ.2007070101"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 10
 outlet: "Information Resources Management Journal"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wang, J., & Keil, M. (2007). A Meta-Analysis Comparing the Sunk Cost Effect for IT and Non-IT Projects. Information Resources Management Journal, 20(3), 1–18. https://doi.org/10.4018/IRMJ.2007070101.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Information Resources Management Journal"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wang, Jijie
 AU  - Keil, Mark
@@ -46,6 +54,7 @@ EP  - 18
 DO  - 10.4018/IRMJ.2007070101
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.4018/IRMJ.2007070101>

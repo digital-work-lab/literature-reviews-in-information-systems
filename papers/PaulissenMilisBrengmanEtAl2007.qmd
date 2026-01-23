@@ -1,13 +1,14 @@
 ---
 title: "Voids in the Current CRM Literature - Academic Literature Review and Classification (2000-2005)"
 author:
-- Paulissen, Kristel
-- Milis, Koen
-- Brengman, Malaika
-- Fjermestad, Jerry
-- Romano Jr., Nicholas C.
+  - Paulissen, Kristel
+  - Milis, Koen
+  - Brengman, Malaika
+  - Fjermestad, Jerry
+  - Romano Jr., Nicholas C.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2007"
 doi: "https://doi.org/10.1109/HICSS.2007.609"
 url: "https://ieeexplore.ieee.org/document/4076679"
@@ -16,6 +17,13 @@ journal:
 cited_by: 13
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Paulissen, K., Milis, K., Brengman, M., Fjermestad, J., & Romano Jr., N. C. (2007). Voids in the Current CRM Literature - Academic Literature Review and Classification (2000-2005). In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2007.609.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Paulissen, Kristel
 AU  - Milis, Koen
@@ -46,6 +54,7 @@ DO  - 10.1109/HICSS.2007.609
 UR  - https://ieeexplore.ieee.org/document/4076679
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2007.609>

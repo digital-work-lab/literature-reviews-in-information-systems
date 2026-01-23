@@ -1,10 +1,11 @@
 ---
 title: "The imperative of revival strategies through digital transformation in the cultural sector -a taxonomy approach"
 author:
-- Althaus, Maike
-- Hansmeier, Philipp
+  - Althaus, Maike
+  - Hansmeier, Philipp
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/3"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Althaus, M., & Hansmeier, P. (2024). The imperative of revival strategies through digital transformation in the cultural sector -a taxonomy approach. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/3.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Althaus, Maike
 AU  - Hansmeier, Philipp
@@ -39,6 +47,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/3
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2024/track12_digtrans/track12_digtrans/3>

@@ -1,10 +1,11 @@
 ---
 title: "Deepfakes: An Integrative Review of the Literature and an Agenda for Future Research"
 author:
-- Nanjundaswamy Vasist, Pramukh
-- Krishnan, Satish
+  - Nanjundaswamy Vasist, Pramukh
+  - Krishnan, Satish
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: "https://doi.org/10.17705/1CAIS.05126"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Nanjundaswamy Vasist, P., & Krishnan, S. (2022). Deepfakes: An Integrative Review of the Literature and an Agenda for Future Research. Communications of the Association for Information Systems, 51, 590–636. https://doi.org/10.17705/1CAIS.05126.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Nanjundaswamy Vasist, Pramukh
 AU  - Krishnan, Satish
@@ -45,6 +53,7 @@ EP  - 636
 DO  - 10.17705/1CAIS.05126
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05126>

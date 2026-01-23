@@ -1,13 +1,14 @@
 ---
 title: "Methods and (Lack) of Theory in Digital Inclusion, Digital Divide, and Digital Equity Research on Older Adults"
 author:
-- Chikomba, Alfred
-- Goudling, Anne
-- Sanderson, Lara
-- Sylvester, Allan
-- Campbell-Meier, Jennifer
+  - Chikomba, Alfred
+  - Goudling, Anne
+  - Sanderson, Lara
+  - Sylvester, Allan
+  - Campbell-Meier, Jennifer
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.234"
 url: "https://hdl.handle.net/10125/102864"
@@ -16,6 +17,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chikomba, A., Goudling, A., Sanderson, L., Sylvester, A., & Campbell-Meier, J. (2023). Methods and (Lack) of Theory in Digital Inclusion, Digital Divide, and Digital Equity Research on Older Adults. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.234.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Chikomba, Alfred
 AU  - Goudling, Anne
@@ -49,6 +57,7 @@ DO  - 10.24251/HICSS.2023.234
 UR  - https://hdl.handle.net/10125/102864
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.234>

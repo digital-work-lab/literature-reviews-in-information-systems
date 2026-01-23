@@ -1,11 +1,12 @@
 ---
 title: "A Systematic Literature Review on the Applications of Big Data Analytics - Identifying Influential Factors and Impact"
 author:
-- Duan, Yanqing
-- Ramanathan, Ramakrishnan
-- Cao, Guangming
+  - Duan, Yanqing
+  - Ramanathan, Ramakrishnan
+  - Cao, Guangming
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/31"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Duan, Y., Ramanathan, R., & Cao, G. (2019). A Systematic Literature Review on the Applications of Big Data Analytics - Identifying Influential Factors and Impact. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/31.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Duan, Yanqing
 AU  - Ramanathan, Ramakrishnan
@@ -40,6 +48,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/31
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2019/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/31>

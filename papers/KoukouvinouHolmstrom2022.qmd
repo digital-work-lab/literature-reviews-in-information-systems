@@ -1,10 +1,11 @@
 ---
 title: "Ai Management beyond the Narratives of Dystopian Nightmares and Utopian Dreams: a Systematic Review and synthesis of the literature"
 author:
-- Koukouvinou, Panagiota
-- Holmström, Jonny
+  - Koukouvinou, Panagiota
+  - Holmström, Jonny
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2022_rp/137"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Koukouvinou, P., & Holmström, J. (2022). Ai Management beyond the Narratives of Dystopian Nightmares and Utopian Dreams: a Systematic Review and synthesis of the literature. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2022_rp/137.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Koukouvinou, Panagiota
 AU  - Holmström, Jonny
@@ -40,6 +48,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/ecis2022_rp/137
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2022_rp/137>

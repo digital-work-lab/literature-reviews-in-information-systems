@@ -1,10 +1,11 @@
 ---
 title: "Service Engineering : An Interdisciplinary Framework"
 author:
-- Wu, Liang-Chuan
-- Wu, Liang-Hong
-topic: ""
-categories: ['scoping-review']
+  - Wu, Liang-Chuan
+  - Wu, Liang-Hong
+topic: "Software Development"
+categories:
+  - scoping-review
 date: "2010"
 doi: ""
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Journal of Computer Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wu, L.-C., & Wu, L.-H. (2010). Service Engineering : An Interdisciplinary Framework. Journal of Computer Information Systems, 51(2), 14–23.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Journal of Computer Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wu, Liang-Chuan
 AU  - Wu, Liang-Hong

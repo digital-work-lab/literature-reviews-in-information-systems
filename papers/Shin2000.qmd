@@ -1,12 +1,13 @@
 ---
 title: "Telework: Existing Research and Future Directions"
 author:
-- Shin, Bongsik
-- El Sawy, Omar A.
-- Sheng, Olivia R. Liu
-- Higa, Kunihiko
-topic: ""
-categories: ['narrative-review']
+  - Shin, Bongsik
+  - El Sawy, Omar A.
+  - Sheng, Olivia R. Liu
+  - Higa, Kunihiko
+topic: "Virtual Teams"
+categories:
+  - narrative-review
 date: "2000"
 doi: "https://doi.org/10.1207/S15327744JOCE1002_2"
 url: ""
@@ -15,6 +16,13 @@ journal:
 cited_by: 69
 outlet: "Journal of Organizational Computing and Electronic Commerce"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Shin, B., El Sawy, O. A., Sheng, O. R. L., & Higa, K. (2000). Telework: Existing Research and Future Directions. Journal of Organizational Computing and Electronic Commerce, 10(2), 85–101. https://doi.org/10.1207/S15327744JOCE1002_2.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Journal of Organizational Computing and Electronic Commerce"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Shin, Bongsik
 AU  - El Sawy, Omar A.
@@ -49,6 +57,7 @@ EP  - 101
 DO  - 10.1207/S15327744JOCE1002_2
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1207/S15327744JOCE1002_2>

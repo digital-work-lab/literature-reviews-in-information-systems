@@ -1,10 +1,11 @@
 ---
 title: "Literature review - Understanding information systems strategy in the digital age"
 author:
-- Teubner, Rolf Alexander
-- Stockhinger, Jan
+  - Teubner, Rolf Alexander
+  - Stockhinger, Jan
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.1016/J.JSIS.2020.101642"
 url: "https://www.sciencedirect.com/science/article/pii/S0963868720300500"
@@ -13,6 +14,13 @@ journal:
 cited_by: 79
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Teubner, R. A., & Stockhinger, J. (2020). Literature review - Understanding information systems strategy in the digital age. The Journal of Strategic Information Systems, 29(4), 101642. https://doi.org/10.1016/J.JSIS.2020.101642.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Teubner, Rolf Alexander
 AU  - Stockhinger, Jan
@@ -46,6 +54,7 @@ DO  - 10.1016/J.JSIS.2020.101642
 UR  - https://www.sciencedirect.com/science/article/pii/S0963868720300500
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2020.101642>

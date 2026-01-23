@@ -1,12 +1,13 @@
 ---
 title: "Conceptualization of the Human-Machine Symbiosis – A Literature Review"
 author:
-- Gerber, Alina
-- Derckx, Patrick
-- Döppner, Daniel A.
-- Schoder, Detlef
+  - Gerber, Alina
+  - Derckx, Patrick
+  - Döppner, Daniel A.
+  - Schoder, Detlef
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.036"
 url: "http://hdl.handle.net/10125/63775"
@@ -15,6 +16,13 @@ journal:
 cited_by: 25
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gerber, A., Derckx, P., Döppner, D. A., & Schoder, D. (2020). Conceptualization of the Human-Machine Symbiosis – A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.036.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Gerber, Alina
 AU  - Derckx, Patrick
@@ -44,6 +52,7 @@ DO  - 10.24251/HICSS.2020.036
 UR  - http://hdl.handle.net/10125/63775
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.036>

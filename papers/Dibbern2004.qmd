@@ -1,12 +1,14 @@
 ---
 title: "Information systems outsourcing"
 author:
-- Dibbern, Jens
-- Goles, Tim
-- Hirschheim, Rudy
-- Jayatilaka, Bandula
-topic: ""
-categories: ['theoretical-review', 'highly-cited']
+  - Dibbern, Jens
+  - Goles, Tim
+  - Hirschheim, Rudy
+  - Jayatilaka, Bandula
+topic: "Outsourcing"
+categories:
+  - theoretical-review
+  - highly-cited
 date: "2004"
 doi: "https://doi.org/10.1145/1035233.1035236"
 url: ""
@@ -15,6 +17,13 @@ journal:
 cited_by: 703
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Dibbern, J., Goles, T., Hirschheim, R., & Jayatilaka, B. (2004). Information systems outsourcing. ACM SIGMIS Database: the DATABASE for Advances in Information Systems, 35(4), 6–102. https://doi.org/10.1145/1035233.1035236.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +43,7 @@ outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Dibbern, Jens
 AU  - Goles, Tim
@@ -50,6 +59,7 @@ EP  - 102
 DO  - 10.1145/1035233.1035236
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1145/1035233.1035236>

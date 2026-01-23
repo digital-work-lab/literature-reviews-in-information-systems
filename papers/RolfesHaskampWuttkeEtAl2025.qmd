@@ -1,12 +1,13 @@
 ---
 title: "Going into the cloud in digital transformation: a literature review of cloud computing and its impact on information systems development"
 author:
-- Rolfes, Theresa
-- Haskamp, Thomas
-- Wuttke, Tobias
-- Uebernickel, Falk
+  - Rolfes, Theresa
+  - Haskamp, Thomas
+  - Wuttke, Tobias
+  - Uebernickel, Falk
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2025"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2025/general_track/general_track/19"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Rolfes, T., Haskamp, T., Wuttke, T., & Uebernickel, F. (2025). Going into the cloud in digital transformation: a literature review of cloud computing and its impact on information systems development. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2025/general_track/general_track/19.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Rolfes, Theresa
 AU  - Haskamp, Thomas
@@ -43,6 +51,7 @@ PY  - 2025
 UR  - https://aisel.aisnet.org/ecis2025/general_track/general_track/19
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2025/general_track/general_track/19>

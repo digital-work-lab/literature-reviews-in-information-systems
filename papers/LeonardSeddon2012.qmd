@@ -1,10 +1,11 @@
 ---
 title: "A Meta-model of Alignment"
 author:
-- Leonard, Jenny
-- Seddon, Peter B.
+  - Leonard, Jenny
+  - Seddon, Peter B.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2012"
 doi: "https://doi.org/10.17705/1CAIS.03111"
 url: "https://aisel.aisnet.org/cais/vol31/iss1/11"
@@ -13,6 +14,13 @@ journal:
 cited_by: 5
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Leonard, J., & Seddon, P. B. (2012). A Meta-model of Alignment. Communications of the Association for Information Systems, 31. https://doi.org/10.17705/1CAIS.03111.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Leonard, Jenny
 AU  - Seddon, Peter B.
@@ -45,6 +53,7 @@ DO  - 10.17705/1CAIS.03111
 UR  - https://aisel.aisnet.org/cais/vol31/iss1/11
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.03111>

@@ -1,9 +1,10 @@
 ---
 title: "The Role of Information Quality in Healthcare Organizations: A Multi-Disciplinary Literature Review"
 author:
-- Hausvik, Geir Inge
+  - Hausvik, Geir Inge
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2017"
 doi: "https://doi.org/10.24251/HICSS.2017.328"
 url: "http://hdl.handle.net/10125/41484"
@@ -12,6 +13,13 @@ journal:
 cited_by: 4
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hausvik, G. I. (2017). The Role of Information Quality in Healthcare Organizations: A Multi-Disciplinary Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2017.328.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hausvik, Geir Inge
 TI  - The Role of Information Quality in Healthcare Organizations: A Multi-Disciplinary Literature Review
@@ -38,6 +46,7 @@ DO  - 10.24251/HICSS.2017.328
 UR  - http://hdl.handle.net/10125/41484
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2017.328>

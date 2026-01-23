@@ -1,9 +1,10 @@
 ---
 title: "Artificial intelligence and the future of managerial roles: a theoretical review"
 author:
-- Lippert, Isabell
+  - Lippert, Isabell
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2024/track05_fow/track05_fow/6"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Lippert, I. (2024). Artificial intelligence and the future of managerial roles: a theoretical review. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2024/track05_fow/track05_fow/6.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Lippert, Isabell
 TI  - Artificial intelligence and the future of managerial roles: a theoretical review
@@ -37,6 +45,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/ecis2024/track05_fow/track05_fow/6
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2024/track05_fow/track05_fow/6>

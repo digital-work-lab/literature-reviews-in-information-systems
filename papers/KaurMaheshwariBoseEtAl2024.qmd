@@ -1,12 +1,13 @@
 ---
 title: "Watch Out, You are Live! Toward Understanding the Impact of AI on Privacy of Employees"
 author:
-- Kaur, Ashneet
-- Maheshwari, Sudhanshu
-- Bose, Indranil
-- Singh, Simarjeet
+  - Kaur, Ashneet
+  - Maheshwari, Sudhanshu
+  - Bose, Indranil
+  - Singh, Simarjeet
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.17705/1CAIS.05523"
 url: "https://aisel.aisnet.org/cais/vol55/iss1/24"
@@ -15,6 +16,13 @@ journal:
 cited_by: 2
 outlet: "Communications of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kaur, A., Maheshwari, S., Bose, I., & Singh, S. (2024). Watch Out, You are Live! Toward Understanding the Impact of AI on Privacy of Employees. Communications of the Association for Information Systems, 55(UNKNOWN), 603–626. https://doi.org/10.17705/1CAIS.05523.
+:::
 
 ## Citation: BibTeX
 
@@ -35,7 +43,7 @@ outlet: "Communications of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Kaur, Ashneet
 AU  - Maheshwari, Sudhanshu
@@ -52,6 +60,7 @@ DO  - 10.17705/1CAIS.05523
 UR  - https://aisel.aisnet.org/cais/vol55/iss1/24
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1CAIS.05523>

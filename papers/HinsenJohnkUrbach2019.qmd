@@ -1,11 +1,12 @@
 ---
 title: "Disentangling the Concept and Role of Continuous Change for IS Research - A Systematic Literature Review"
 author:
-- Hinsen, Silvana
-- Jöhnk, Jan
-- Urbach, Nils
+  - Hinsen, Silvana
+  - Jöhnk, Jan
+  - Urbach, Nils
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/icis2019/business_models/business_models/12"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hinsen, S., Jöhnk, J., & Urbach, N. (2019). Disentangling the Concept and Role of Continuous Change for IS Research - A Systematic Literature Review. In International Conference on Information Systems. https://aisel.aisnet.org/icis2019/business_models/business_models/12.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Hinsen, Silvana
 AU  - Jöhnk, Jan
@@ -40,6 +48,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/icis2019/business_models/business_models/12
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2019/business_models/business_models/12>

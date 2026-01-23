@@ -1,11 +1,12 @@
 ---
 title: "Agile Modeling, Agile Software Development, and Extreme Programming"
 author:
-- Erickson, John
-- Lyytinen, Kalle
-- Siau, Keng
-topic: ""
-categories: ['narrative-review']
+  - Erickson, John
+  - Lyytinen, Kalle
+  - Siau, Keng
+topic: "Software Development"
+categories:
+  - narrative-review
 date: "2005"
 doi: "https://doi.org/10.4018/JDM.2005100105"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 183
 outlet: "Journal of Database Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Erickson, J., Lyytinen, K., & Siau, K. (2005). Agile Modeling, Agile Software Development, and Extreme Programming. Journal of Database Management, 16(4), 88–100. https://doi.org/10.4018/JDM.2005100105.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Journal of Database Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Erickson, John
 AU  - Lyytinen, Kalle
@@ -48,6 +56,7 @@ EP  - 100
 DO  - 10.4018/JDM.2005100105
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.4018/JDM.2005100105>

@@ -1,11 +1,12 @@
 ---
 title: "A review of the practical relevance of IS strategy scholarly research"
 author:
-- Moeini, Mohammad
-- Rahrovani, Yasser
-- Chan, Yolande E.
+  - Moeini, Mohammad
+  - Rahrovani, Yasser
+  - Chan, Yolande E.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.1016/J.JSIS.2018.12.003"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 41
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Moeini, M., Rahrovani, Y., & Chan, Y. E. (2019). A review of the practical relevance of IS strategy scholarly research. The Journal of Strategic Information Systems, 28(2), 196–217. https://doi.org/10.1016/J.JSIS.2018.12.003.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Moeini, Mohammad
 AU  - Rahrovani, Yasser
@@ -47,6 +55,7 @@ EP  - 217
 DO  - 10.1016/J.JSIS.2018.12.003
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2018.12.003>

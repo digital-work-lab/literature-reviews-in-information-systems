@@ -1,11 +1,12 @@
 ---
 title: "AI Literacy in Adult Education - A Literature Review"
 author:
-- Wolters, Anna
-- von Straussenburg, Arnold F. Arz
-- Riehle, Dennis M.
+  - Wolters, Anna
+  - von Straussenburg, Arnold F. Arz
+  - Riehle, Dennis M.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: "https://doi.org/10.24251/HICSS.2024.825"
 url: "https://hdl.handle.net/10125/107211"
@@ -14,6 +15,13 @@ journal:
 cited_by: 3
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wolters, A., {von Straussenburg}, A. F. A., & Riehle, D. M. (2024). AI Literacy in Adult Education - A Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2024.825.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wolters, Anna
 AU  - {von Straussenburg}, Arnold F. Arz
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2024.825
 UR  - https://hdl.handle.net/10125/107211
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2024.825>

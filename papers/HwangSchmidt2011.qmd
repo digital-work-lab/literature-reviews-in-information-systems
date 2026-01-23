@@ -1,10 +1,11 @@
 ---
 title: "Assessing moderating effect in meta-analysis - a re-analysis of top management support studies and suggestions for researchers"
 author:
-- Hwang, Mark I.
-- Schmidt, Frank L.
+  - Hwang, Mark I.
+  - Schmidt, Frank L.
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2011"
 doi: "https://doi.org/10.1057/EJIS.2011.12"
 url: "https://www.tandfonline.com/doi/full/10.1057/ejis.2011.12"
@@ -13,6 +14,13 @@ journal:
 cited_by: 34
 outlet: "European Journal of Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Hwang, M. I., & Schmidt, F. L. (2011). Assessing moderating effect in meta-analysis - a re-analysis of top management support studies and suggestions for researchers. European Journal of Information Systems, 20(6), 693–702. https://doi.org/10.1057/EJIS.2011.12.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "European Journal of Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Hwang, Mark I.
 AU  - Schmidt, Frank L.
@@ -49,6 +57,7 @@ DO  - 10.1057/EJIS.2011.12
 UR  - https://www.tandfonline.com/doi/full/10.1057/ejis.2011.12
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1057/EJIS.2011.12>

@@ -1,11 +1,12 @@
 ---
 title: "Sustainability in Business Process Management Research - a Literature Review"
 author:
-- Stolze, Carl
-- Semmler, Gebke
-- Thomas, Oliver
+  - Stolze, Carl
+  - Semmler, Gebke
+  - Thomas, Oliver
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2012"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2012/proceedings/GreenIS/10"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Stolze, C., Semmler, G., & Thomas, O. (2012). Sustainability in Business Process Management Research - a Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2012/proceedings/GreenIS/10.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Stolze, Carl
 AU  - Semmler, Gebke
@@ -40,6 +48,7 @@ PY  - 2012
 UR  - https://aisel.aisnet.org/amcis2012/proceedings/GreenIS/10
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2012/proceedings/GreenIS/10>

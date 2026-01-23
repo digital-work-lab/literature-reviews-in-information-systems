@@ -1,10 +1,11 @@
 ---
 title: "15 Years of Information System Design Science Research - A Bibliographic Analysis"
 author:
-- Pascal, Amandine
-- Renaud, Alexandre
+  - Pascal, Amandine
+  - Renaud, Alexandre
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.618"
 url: "http://hdl.handle.net/10125/64360"
@@ -13,6 +14,13 @@ journal:
 cited_by: 3
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Pascal, A., & Renaud, A. (2020). 15 Years of Information System Design Science Research - A Bibliographic Analysis. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.618.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Pascal, Amandine
 AU  - Renaud, Alexandre
@@ -41,6 +49,7 @@ DO  - 10.24251/HICSS.2020.618
 UR  - http://hdl.handle.net/10125/64360
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.618>

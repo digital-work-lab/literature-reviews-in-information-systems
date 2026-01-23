@@ -1,10 +1,11 @@
 ---
 title: "Culture In Information Systems Research - A Systematic Literature Review"
 author:
-- Xue, Yuan
-- Dasgupta, Subhasish
+  - Xue, Yuan
+  - Dasgupta, Subhasish
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2022"
 doi: ""
 url: "https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/4"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Americas Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Xue, Y., & Dasgupta, S. (2022). Culture In Information Systems Research - A Systematic Literature Review. In Americas Conference on Information Systems. https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/4.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Americas Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Xue, Yuan
 AU  - Dasgupta, Subhasish
@@ -41,6 +49,7 @@ PY  - 2022
 UR  - https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/4
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/amcis2022/sig_meta/sig_meta/4>

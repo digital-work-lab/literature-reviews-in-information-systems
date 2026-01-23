@@ -1,9 +1,10 @@
 ---
 title: "Explainability in Interactive Machine Learning - Novel Avenues for Information Systems Research"
 author:
-- Pfeuffer, Nicolas
+  - Pfeuffer, Nicolas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2021/231"
@@ -12,6 +13,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Pfeuffer, N. (2021). Explainability in Interactive Machine Learning - Novel Avenues for Information Systems Research. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2021/231.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Pfeuffer, Nicolas
 TI  - Explainability in Interactive Machine Learning - Novel Avenues for Information Systems Research
@@ -37,6 +45,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/pacis2021/231
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2021/231>

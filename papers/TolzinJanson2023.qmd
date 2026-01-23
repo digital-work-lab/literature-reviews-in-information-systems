@@ -1,10 +1,11 @@
 ---
 title: "Mechanisms of Common Ground in Human-Agent Interaction: A Systematic Review of Conversational Agent Research"
 author:
-- Tolzin, Antonia
-- Janson, Andreas
+  - Tolzin, Antonia
+  - Janson, Andreas
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.042"
 url: "https://hdl.handle.net/10125/102670"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Tolzin, A., & Janson, A. (2023). Mechanisms of Common Ground in Human-Agent Interaction: A Systematic Review of Conversational Agent Research. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.042.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Tolzin, Antonia
 AU  - Janson, Andreas
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2023.042
 UR  - https://hdl.handle.net/10125/102670
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.042>

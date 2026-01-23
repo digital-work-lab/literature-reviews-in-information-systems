@@ -1,10 +1,11 @@
 ---
 title: "Social Business Intelligence - a Literature Review and Research Agenda"
 author:
-- Dinter, Barbara
-- Lorenz, Anja
+  - Dinter, Barbara
+  - Lorenz, Anja
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2012"
 doi: ""
 url: "http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/104"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Dinter, B., & Lorenz, A. (2012). Social Business Intelligence - a Literature Review and Research Agenda. In International Conference on Information Systems. http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/104.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Dinter, Barbara
 AU  - Lorenz, Anja
@@ -38,6 +46,7 @@ PY  - 2012
 UR  - http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/104
 ER  - 
 ```
+
 ## Links
 
 - URL: <http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/104>

@@ -1,12 +1,13 @@
 ---
 title: "\"Can't Get No Satisfaction?\" – The Case for Broadening Information Systems Research on E-Commerce"
 author:
-- Kernstock, Philipp
-- Przybilla, Leonard
-- Thatcher, Jason
-- Krcmar, Helmut
+  - Kernstock, Philipp
+  - Przybilla, Leonard
+  - Thatcher, Jason
+  - Krcmar, Helmut
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.465"
 url: "https://hdl.handle.net/10125/103096"
@@ -15,6 +16,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Kernstock, P., Przybilla, L., Thatcher, J., & Krcmar, H. (2023). "Can't Get No Satisfaction?" – The Case for Broadening Information Systems Research on E-Commerce. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.465.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Kernstock, Philipp
 AU  - Przybilla, Leonard
@@ -47,6 +55,7 @@ DO  - 10.24251/HICSS.2023.465
 UR  - https://hdl.handle.net/10125/103096
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.465>

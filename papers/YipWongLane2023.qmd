@@ -1,11 +1,12 @@
 ---
 title: "Critical Success Factors Classification Framework for Measuring Maturity of Organisations using New Generation ERP Systems: A Systematic Literature Review"
 author:
-- Yip, Wai
-- Wong, Freddy
-- Lane, Michael
+  - Yip, Wai
+  - Wong, Freddy
+  - Lane, Michael
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: ""
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Yip, W., Wong, F., & Lane, M. (2023). Critical Success Factors Classification Framework for Measuring Maturity of Organisations using New Generation ERP Systems: A Systematic Literature Review. In International Conference on Information Systems.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Yip, Wai
 AU  - Wong, Freddy

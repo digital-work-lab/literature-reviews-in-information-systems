@@ -1,12 +1,13 @@
 ---
 title: "Human resource management and its impact on strategic business-IT alignment - A literature review and avenues for future research"
 author:
-- Oehlhorn, Caroline Ernestine
-- Maier, Christian
-- Laumer, Sven
-- Weitzel, Tim
+  - Oehlhorn, Caroline Ernestine
+  - Maier, Christian
+  - Laumer, Sven
+  - Weitzel, Tim
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.1016/J.JSIS.2020.101641"
 url: "https://www.sciencedirect.com/science/article/pii/S0963868720300494"
@@ -15,6 +16,13 @@ journal:
 cited_by: 44
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Oehlhorn, C. E., Maier, C., Laumer, S., & Weitzel, T. (2020). Human resource management and its impact on strategic business-IT alignment - A literature review and avenues for future research. The Journal of Strategic Information Systems, 29(4), 101641. https://doi.org/10.1016/J.JSIS.2020.101641.
+:::
 
 ## Citation: BibTeX
 
@@ -34,7 +42,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Oehlhorn, Caroline Ernestine
 AU  - Maier, Christian
@@ -50,6 +58,7 @@ DO  - 10.1016/J.JSIS.2020.101641
 UR  - https://www.sciencedirect.com/science/article/pii/S0963868720300494
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2020.101641>

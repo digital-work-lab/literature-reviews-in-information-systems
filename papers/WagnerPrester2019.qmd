@@ -1,10 +1,11 @@
 ---
 title: "Information Systems Research on Digital Platforms for Knowledge Work - A Scoping Review"
 author:
-- Wagner, Gerit
-- Prester, Julian
+  - Wagner, Gerit
+  - Prester, Julian
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: ""
 url: "https://aisel.aisnet.org/icis2019/future_of_work/future_work/2"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "International Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wagner, G., & Prester, J. (2019). Information Systems Research on Digital Platforms for Knowledge Work - A Scoping Review. In International Conference on Information Systems. https://aisel.aisnet.org/icis2019/future_of_work/future_work/2.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "International Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Wagner, Gerit
 AU  - Prester, Julian
@@ -40,6 +48,7 @@ PY  - 2019
 UR  - https://aisel.aisnet.org/icis2019/future_of_work/future_work/2
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/icis2019/future_of_work/future_work/2>

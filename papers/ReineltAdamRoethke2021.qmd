@@ -1,11 +1,12 @@
 ---
 title: "Accounting for gambling design elements: A proposal to advance gamification taxonomies"
 author:
-- Reinelt, Annika
-- Adam, Martin
-- Roethke, Konstantin
+  - Reinelt, Annika
+  - Adam, Martin
+  - Roethke, Konstantin
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: ""
 url: "https://aisel.aisnet.org/ecis2021_rp/17"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "European Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Reinelt, A., Adam, M., & Roethke, K. (2021). Accounting for gambling design elements: A proposal to advance gamification taxonomies. In European Conference on Information Systems. https://aisel.aisnet.org/ecis2021_rp/17.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "European Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Reinelt, Annika
 AU  - Adam, Martin
@@ -41,6 +49,7 @@ PY  - 2021
 UR  - https://aisel.aisnet.org/ecis2021_rp/17
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/ecis2021_rp/17>

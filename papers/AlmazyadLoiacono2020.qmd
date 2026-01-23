@@ -1,10 +1,11 @@
 ---
 title: "Control vs Content: A Systematic Review of the Social Media Research Literature"
 author:
-- Almazyad, Fadi
-- Loiacono, Eleanor
+  - Almazyad, Fadi
+  - Loiacono, Eleanor
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2020"
 doi: "https://doi.org/10.24251/HICSS.2020.316"
 url: "http://hdl.handle.net/10125/64058"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Almazyad, F., & Loiacono, E. (2020). Control vs Content: A Systematic Review of the Social Media Research Literature. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2020.316.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Almazyad, Fadi
 AU  - Loiacono, Eleanor
@@ -42,6 +50,7 @@ DO  - 10.24251/HICSS.2020.316
 UR  - http://hdl.handle.net/10125/64058
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2020.316>

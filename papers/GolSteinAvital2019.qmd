@@ -1,11 +1,12 @@
 ---
 title: "Crowdwork platform governance toward organizational value creation"
 author:
-- Gol, Elham Shafiei
-- Stein, Mari-Klara
-- Avital, Michel
+  - Gol, Elham Shafiei
+  - Stein, Mari-Klara
+  - Avital, Michel
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2019"
 doi: "https://doi.org/10.1016/J.JSIS.2019.01.001"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 83
 outlet: "The Journal of Strategic Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Gol, E. S., Stein, M.-K., & Avital, M. (2019). Crowdwork platform governance toward organizational value creation. The Journal of Strategic Information Systems, 28(2). https://doi.org/10.1016/J.JSIS.2019.01.001.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "The Journal of Strategic Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Gol, Elham Shafiei
 AU  - Stein, Mari-Klara
@@ -44,6 +52,7 @@ IS  - 2
 DO  - 10.1016/J.JSIS.2019.01.001
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1016/J.JSIS.2019.01.001>

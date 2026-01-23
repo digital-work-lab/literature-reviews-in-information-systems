@@ -1,10 +1,11 @@
 ---
 title: "Self-Disclosure in Online Interaction - A Meta-analysis"
 author:
-- Bauer, Christine
-- Schiffinger, Michael
+  - Bauer, Christine
+  - Schiffinger, Michael
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2015"
 doi: "https://doi.org/10.1109/HICSS.2015.435"
 url: "https://ieeexplore.ieee.org/document/7070250/"
@@ -13,6 +14,13 @@ journal:
 cited_by: 7
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Bauer, C., & Schiffinger, M. (2015). Self-Disclosure in Online Interaction - A Meta-analysis. In Hawaii International Conference on System Sciences. https://doi.org/10.1109/HICSS.2015.435.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Bauer, Christine
 AU  - Schiffinger, Michael
@@ -42,6 +50,7 @@ DO  - 10.1109/HICSS.2015.435
 UR  - https://ieeexplore.ieee.org/document/7070250/
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1109/HICSS.2015.435>

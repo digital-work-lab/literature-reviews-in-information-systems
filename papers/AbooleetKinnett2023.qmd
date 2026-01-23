@@ -1,10 +1,11 @@
 ---
 title: "A Systematic Review of Blockchain-based Loyalty Programs"
 author:
-- Abooleet, Saeed
-- Kinnett, Seth
+  - Abooleet, Saeed
+  - Kinnett, Seth
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2023"
 doi: "https://doi.org/10.24251/HICSS.2023.650"
 url: "https://hdl.handle.net/10125/103284"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Abooleet, S., & Kinnett, S. (2023). A Systematic Review of Blockchain-based Loyalty Programs. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2023.650.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Abooleet, Saeed
 AU  - Kinnett, Seth
@@ -43,6 +51,7 @@ DO  - 10.24251/HICSS.2023.650
 UR  - https://hdl.handle.net/10125/103284
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2023.650>

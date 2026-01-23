@@ -1,11 +1,12 @@
 ---
 title: "The Literature Review of Technology Acceptance Model - A Study of the Bibliometric Distributions"
 author:
-- Chang, Shu-Hsun
-- Chou, Chien-Hsiang
-- Yang, Jiann-Min
+  - Chang, Shu-Hsun
+  - Chou, Chien-Hsiang
+  - Yang, Jiann-Min
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2010"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2010/158"
@@ -14,6 +15,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Chang, S.-H., Chou, C.-H., & Yang, J.-M. (2010). The Literature Review of Technology Acceptance Model - A Study of the Bibliometric Distributions. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2010/158.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Chang, Shu-Hsun
 AU  - Chou, Chien-Hsiang
@@ -40,6 +48,7 @@ PY  - 2010
 UR  - https://aisel.aisnet.org/pacis2010/158
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2010/158>

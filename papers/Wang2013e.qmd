@@ -1,11 +1,12 @@
 ---
 title: "Digital Natives and Digital Immigrants"
 author:
-- Wang, Qian
-- Myers, Michael D.
-- Sundaram, David
-topic: ""
-categories: ['theoretical-review']
+  - Wang, Qian
+  - Myers, Michael D.
+  - Sundaram, David
+topic: "Technology Acceptance, and Use"
+categories:
+  - theoretical-review
 date: "2013"
 doi: "https://doi.org/10.1007/S12599-013-0296-Y"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 142
 outlet: "Business & Information Systems Engineering"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Wang, Q., Myers, M. D., & Sundaram, D. (2013). Digital Natives and Digital Immigrants. Business & Information Systems Engineering, 5(6), 409–419. https://doi.org/10.1007/S12599-013-0296-Y.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Business & Information Systems Engineering"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Wang, Qian
 AU  - Myers, Michael D.
@@ -48,6 +56,7 @@ EP  - 419
 DO  - 10.1007/S12599-013-0296-Y
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1007/S12599-013-0296-Y>

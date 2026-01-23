@@ -1,10 +1,11 @@
 ---
 title: "E-government"
 author:
-- Mishra, Alok
-- Mishra, Deepti
-topic: ""
-categories: ['descriptive-review']
+  - Mishra, Alok
+  - Mishra, Deepti
+topic: "Other Domain"
+categories:
+  - descriptive-review
 date: "2012"
 doi: "https://doi.org/10.1145/2096140.2096143"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 25
 outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Mishra, A., & Mishra, D. (2012). E-government. ACM SIGMIS Database: the DATABASE for Advances in Information Systems, 42(4), 23–37. https://doi.org/10.1145/2096140.2096143.
+:::
 
 ## Citation: BibTeX
 
@@ -32,7 +40,7 @@ outlet: "ACM SIGMIS Database: the DATABASE for Advances in Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Mishra, Alok
 AU  - Mishra, Deepti
@@ -46,6 +54,7 @@ EP  - 37
 DO  - 10.1145/2096140.2096143
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.1145/2096140.2096143>

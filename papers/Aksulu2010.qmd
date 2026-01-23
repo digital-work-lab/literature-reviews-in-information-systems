@@ -1,10 +1,11 @@
 ---
 title: "A Comprehensive Review and Synthesis of Open Source Research"
 author:
-- Aksulu, Altay
-- Wade, Michael
-topic: ""
-categories: ['theoretical-review']
+  - Aksulu, Altay
+  - Wade, Michael
+topic: "Other Domain"
+categories:
+  - theoretical-review
 date: "2010"
 doi: "https://doi.org/10.17705/1JAIS.00245"
 url: ""
@@ -13,6 +14,13 @@ journal:
 cited_by: 104
 outlet: "Journal of the Association for Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Aksulu, A., & Wade, M. (2010). A Comprehensive Review and Synthesis of Open Source Research. Journal of the Association for Information Systems, 11(11), 576–656. https://doi.org/10.17705/1JAIS.00245.
+:::
 
 ## Citation: BibTeX
 
@@ -31,7 +39,7 @@ outlet: "Journal of the Association for Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Aksulu, Altay
 AU  - Wade, Michael
@@ -45,6 +53,7 @@ EP  - 656
 DO  - 10.17705/1JAIS.00245
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.17705/1JAIS.00245>

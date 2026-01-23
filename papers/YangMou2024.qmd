@@ -1,10 +1,11 @@
 ---
 title: "Customer Engagement in Online Brand Communities: A Literature Review"
 author:
-- Xueping Yang
-- Aolan Mou
+  - Xueping Yang
+  - Aolan Mou
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2024"
 doi: ""
 url: "https://aisel.aisnet.org/pacis2024/track20_general/track20_general/11"
@@ -13,6 +14,13 @@ journal:
 cited_by: 0
 outlet: "Pacific Asia Conference on Information Systems"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Yang, X., & Mou, A. (2024). Customer Engagement in Online Brand Communities: A Literature Review. In Pacific Asia Conference on Information Systems. https://aisel.aisnet.org/pacis2024/track20_general/track20_general/11.
+:::
 
 ## Citation: BibTeX
 
@@ -29,7 +37,7 @@ outlet: "Pacific Asia Conference on Information Systems"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Xueping Yang
 AU  - Aolan Mou
@@ -39,6 +47,7 @@ PY  - 2024
 UR  - https://aisel.aisnet.org/pacis2024/track20_general/track20_general/11
 ER  - 
 ```
+
 ## Links
 
 - URL: <https://aisel.aisnet.org/pacis2024/track20_general/track20_general/11>

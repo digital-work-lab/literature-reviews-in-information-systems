@@ -1,11 +1,12 @@
 ---
 title: "A Meta-Analysis Comparing Relational and Semantic Models"
 author:
-- Siau, Keng
-- Nah, Fiona F.H.
-- Cao, Qing
-topic: ""
-categories: ['meta-analysis']
+  - Siau, Keng
+  - Nah, Fiona F.H.
+  - Cao, Qing
+topic: "Software Development"
+categories:
+  - meta-analysis
 date: "2011"
 doi: "https://doi.org/10.4018/JDM.2011100103"
 url: ""
@@ -14,6 +15,13 @@ journal:
 cited_by: 3
 outlet: "Journal of Database Management"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Siau, K., Nah, F. F., & Cao, Q. (2011). A Meta-Analysis Comparing Relational and Semantic Models. Journal of Database Management, 22(4), 57–72. https://doi.org/10.4018/JDM.2011100103.
+:::
 
 ## Citation: BibTeX
 
@@ -33,7 +41,7 @@ outlet: "Journal of Database Management"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - JOUR
 AU  - Siau, Keng
 AU  - Nah, Fiona F.H.
@@ -48,6 +56,7 @@ EP  - 72
 DO  - 10.4018/JDM.2011100103
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.4018/JDM.2011100103>

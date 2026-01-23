@@ -1,10 +1,11 @@
 ---
 title: "Richard, Are We There Yet? - An Internet of Nano Things Information System Architecture"
 author:
-- Strobel, Gero
-- Mittnacht, Judith
+  - Strobel, Gero
+  - Mittnacht, Judith
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.555"
 url: "https://hdl.handle.net/10125/71172"
@@ -13,6 +14,13 @@ journal:
 cited_by: 5
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Strobel, G., & Mittnacht, J. (2021). Richard, Are We There Yet? - An Internet of Nano Things Information System Architecture. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.555.
+:::
 
 ## Citation: BibTeX
 
@@ -30,7 +38,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Strobel, Gero
 AU  - Mittnacht, Judith
@@ -41,6 +49,7 @@ DO  - 10.24251/HICSS.2021.555
 UR  - https://hdl.handle.net/10125/71172
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.555>

@@ -1,9 +1,10 @@
 ---
 title: "Online Employer Reviews as a Data Source: A Systematic Literature Review"
 author:
-- Höllig, Christoph
+  - Höllig, Christoph
 topic: ""
-categories: []
+categories:
+  - ""
 date: "2021"
 doi: "https://doi.org/10.24251/HICSS.2021.527"
 url: "http://hdl.handle.net/10125/71144"
@@ -12,6 +13,13 @@ journal:
 cited_by: 6
 outlet: "Hawaii International Conference on System Sciences"
 ---
+
+## Citation: APA
+
+
+::: {.citebox}
+Höllig, C. (2021). Online Employer Reviews as a Data Source: A Systematic Literature Review. In Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2021.527.
+:::
 
 ## Citation: BibTeX
 
@@ -28,7 +36,7 @@ outlet: "Hawaii International Conference on System Sciences"
 
 ## Citation: RIS
 
-```bibtex
+```Markdown
 TY  - CONF
 AU  - Höllig, Christoph
 TI  - Online Employer Reviews as a Data Source: A Systematic Literature Review
@@ -38,6 +46,7 @@ DO  - 10.24251/HICSS.2021.527
 UR  - http://hdl.handle.net/10125/71144
 ER  - 
 ```
+
 ## Links
 
 - DOI: <https://doi.org/10.24251/HICSS.2021.527>
