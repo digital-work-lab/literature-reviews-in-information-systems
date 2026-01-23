@@ -22,8 +22,14 @@
 
 
 
+<section id="citation-apa" class="level2">
+<h2 class="anchored" data-anchor-id="citation-apa">Citation: APA</h2>
+<div class="citebox">
+<p>Boo, C., Kim, Y., &amp; Suh, A. (2025). A Collaborative Creative Process in the Age of AI: A Comparative Analysis of Machine and Human Creativity. In Hawaii International Conference on System Sciences (pp.&nbsp;1–10). https://doi.org/10.24251/HICSS.2025.025.</p>
+</div>
+</section>
 <section id="citation-bibtex" class="level2">
-
+<h2 class="anchored" data-anchor-id="citation-bibtex">Citation: BibTeX</h2>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
@@ -54,39 +60,17 @@ font-style: inherit;">pages</span>      = {1--10}</span>
 </section>
 <section id="citation-ris" class="level2">
 <h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - CONF</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Boo, Chaeeun</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Kim, Yeongseo</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Suh, Ayoung</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - A Collaborative Creative Process in the Age of AI: A Comparative Analysis of Machine and Human Creativity</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - Hawaii International Conference on System Sciences</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">SP  - 1</span></span>
-<span id="cb2-9"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">EP  - 10</span></span>
-<span id="cb2-10"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">DO  - 10.24251/HICSS.2025.025</span></span>
-<span id="cb2-11"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1">TY  - CONF</span>
+<span id="cb2-2">AU  - Boo, Chaeeun</span>
+<span id="cb2-3">AU  - Kim, Yeongseo</span>
+<span id="cb2-4">AU  - Suh, Ayoung</span>
+<span id="cb2-5">TI  - A Collaborative Creative Process in the Age of AI: A Comparative Analysis of Machine and Human Creativity</span>
+<span id="cb2-6">T2  - Hawaii International Conference on System Sciences</span>
+<span id="cb2-7">PY  - 2025</span>
+<span id="cb2-8">SP  - 1</span>
+<span id="cb2-9">EP  - 10</span>
+<span id="cb2-10">DO  - 10.24251/HICSS.2025.025</span>
+<span id="cb2-11">ER  - </span></code></pre></div></div>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
@@ -98,6 +82,7 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 </section>
 
  ]]></description>
+  <category></category>
   <guid>http://0.0.0.0:4200/papers/BooKimSuh2025.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
@@ -110,8 +95,14 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
+<section id="citation-apa" class="level2">
+<h2 class="anchored" data-anchor-id="citation-apa">Citation: APA</h2>
+<div class="citebox">
+<p>Ma, Y. (2025). Ecosystem Beyond a Metaphor: A Critical Literature Review and Research Agenda. In International Conference on Information Systems.</p>
+</div>
+</section>
 <section id="citation-bibtex" class="level2">
-
+<h2 class="anchored" data-anchor-id="citation-bibtex">Citation: BibTeX</h2>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
@@ -136,29 +127,18 @@ font-style: inherit;">year</span>       = {2025}</span>
 </section>
 <section id="citation-ris" class="level2">
 <h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - CONF</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Ma, Yao</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - Ecosystem Beyond a Metaphor: A Critical Literature Review and Research Agenda</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - International Conference on Information Systems</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1">TY  - CONF</span>
+<span id="cb2-2">AU  - Ma, Yao</span>
+<span id="cb2-3">TI  - Ecosystem Beyond a Metaphor: A Critical Literature Review and Research Agenda</span>
+<span id="cb2-4">T2  - International Conference on Information Systems</span>
+<span id="cb2-5">PY  - 2025</span>
+<span id="cb2-6">ER  - </span></code></pre></div></div>
 
 
 </section>
 
  ]]></description>
+  <category></category>
   <guid>http://0.0.0.0:4200/papers/Ma2025.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
@@ -175,8 +155,14 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
+<section id="citation-apa" class="level2">
+<h2 class="anchored" data-anchor-id="citation-apa">Citation: APA</h2>
+<div class="citebox">
+<p>Mazhari, A., Haggerty, N., Ohuruogo, A., Osinde, L. M., &amp; Kirakalaprathapan, A. (2025). From Silos to Synergy: A Comprehensive Scoping Review of IT and Business Partnership. In Americas Conference on Information Systems.</p>
+</div>
+</section>
 <section id="citation-bibtex" class="level2">
-
+<h2 class="anchored" data-anchor-id="citation-bibtex">Citation: BibTeX</h2>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
@@ -204,41 +190,22 @@ font-style: inherit;">year</span>       = {2025}</span>
 </section>
 <section id="citation-ris" class="level2">
 <h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - CONF</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Mazhari, Amin</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Haggerty, Nicole</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Ohuruogo, Adaku</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Osinde, Lameck M</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Kirakalaprathapan, Apery</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - From Silos to Synergy: A Comprehensive Scoping Review of IT and Business Partnership</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - Americas Conference on Information Systems</span></span>
-<span id="cb2-9"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-10"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1">TY  - CONF</span>
+<span id="cb2-2">AU  - Mazhari, Amin</span>
+<span id="cb2-3">AU  - Haggerty, Nicole</span>
+<span id="cb2-4">AU  - Ohuruogo, Adaku</span>
+<span id="cb2-5">AU  - Osinde, Lameck M</span>
+<span id="cb2-6">AU  - Kirakalaprathapan, Apery</span>
+<span id="cb2-7">TI  - From Silos to Synergy: A Comprehensive Scoping Review of IT and Business Partnership</span>
+<span id="cb2-8">T2  - Americas Conference on Information Systems</span>
+<span id="cb2-9">PY  - 2025</span>
+<span id="cb2-10">ER  - </span></code></pre></div></div>
 
 
 </section>
 
  ]]></description>
+  <category></category>
   <guid>http://0.0.0.0:4200/papers/MazhariHaggertyOhuruogoEtAl2025.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
@@ -253,8 +220,14 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
+<section id="citation-apa" class="level2">
+<h2 class="anchored" data-anchor-id="citation-apa">Citation: APA</h2>
+<div class="citebox">
+<p>Zhang, M., Lederman, R., &amp; Turel, O. (2025). Toward multilevel research on private information disclosure: A systematic review and future agenda. Information &amp; Management, 62(7), 104201. https://doi.org/10.1016/J.IM.2025.104201.</p>
+</div>
+</section>
 <section id="citation-bibtex" class="level2">
-
+<h2 class="anchored" data-anchor-id="citation-bibtex">Citation: BibTeX</h2>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -291,45 +264,19 @@ font-style: inherit;">url</span>        = {https://www.doi.org/10.1016/J.IM.2025
 </section>
 <section id="citation-ris" class="level2">
 <h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - JOUR</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Zhang, Mingxin</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Lederman, Reeva</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Turel, Ofir</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - Toward multilevel research on private information disclosure: A systematic review and future agenda</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - Information &amp; Management</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">VL  - 62</span></span>
-<span id="cb2-9"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">IS  - 7</span></span>
-<span id="cb2-10"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">SP  - 104201</span></span>
-<span id="cb2-11"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">DO  - 10.1016/J.IM.2025.104201</span></span>
-<span id="cb2-12"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">UR  - https://www.doi.org/10.1016/J.IM.2025.104201</span></span>
-<span id="cb2-13"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1">TY  - JOUR</span>
+<span id="cb2-2">AU  - Zhang, Mingxin</span>
+<span id="cb2-3">AU  - Lederman, Reeva</span>
+<span id="cb2-4">AU  - Turel, Ofir</span>
+<span id="cb2-5">TI  - Toward multilevel research on private information disclosure: A systematic review and future agenda</span>
+<span id="cb2-6">T2  - Information &amp; Management</span>
+<span id="cb2-7">PY  - 2025</span>
+<span id="cb2-8">VL  - 62</span>
+<span id="cb2-9">IS  - 7</span>
+<span id="cb2-10">SP  - 104201</span>
+<span id="cb2-11">DO  - 10.1016/J.IM.2025.104201</span>
+<span id="cb2-12">UR  - https://www.doi.org/10.1016/J.IM.2025.104201</span>
+<span id="cb2-13">ER  - </span></code></pre></div></div>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
@@ -342,6 +289,7 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 </section>
 
  ]]></description>
+  <category></category>
   <guid>http://0.0.0.0:4200/papers/ZhangLedermanTurel2025.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
@@ -355,8 +303,14 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
+<section id="citation-apa" class="level2">
+<h2 class="anchored" data-anchor-id="citation-apa">Citation: APA</h2>
+<div class="citebox">
+<p>Wang, B., &amp; Prester, J. (2025). A labour perspective on videoconferencing fatigue: Critical review and reframing. The Journal of Strategic Information Systems, 34(2), 101903. https://doi.org/10.1016/J.JSIS.2025.101903.</p>
+</div>
+</section>
 <section id="citation-bibtex" class="level2">
-
+<h2 class="anchored" data-anchor-id="citation-bibtex">Citation: BibTeX</h2>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -390,39 +344,17 @@ font-style: inherit;">pages</span>      = {101903}</span>
 </section>
 <section id="citation-ris" class="level2">
 <h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - JOUR</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Wang, Blair</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Prester, Julian</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - A labour perspective on videoconferencing fatigue: Critical review and reframing</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - The Journal of Strategic Information Systems</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">VL  - 34</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">IS  - 2</span></span>
-<span id="cb2-9"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">SP  - 101903</span></span>
-<span id="cb2-10"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">DO  - 10.1016/J.JSIS.2025.101903</span></span>
-<span id="cb2-11"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1">TY  - JOUR</span>
+<span id="cb2-2">AU  - Wang, Blair</span>
+<span id="cb2-3">AU  - Prester, Julian</span>
+<span id="cb2-4">TI  - A labour perspective on videoconferencing fatigue: Critical review and reframing</span>
+<span id="cb2-5">T2  - The Journal of Strategic Information Systems</span>
+<span id="cb2-6">PY  - 2025</span>
+<span id="cb2-7">VL  - 34</span>
+<span id="cb2-8">IS  - 2</span>
+<span id="cb2-9">SP  - 101903</span>
+<span id="cb2-10">DO  - 10.1016/J.JSIS.2025.101903</span>
+<span id="cb2-11">ER  - </span></code></pre></div></div>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
@@ -434,6 +366,7 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 </section>
 
  ]]></description>
+  <category></category>
   <guid>http://0.0.0.0:4200/papers/wang2025labour.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
@@ -448,8 +381,14 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
+<section id="citation-apa" class="level2">
+<h2 class="anchored" data-anchor-id="citation-apa">Citation: APA</h2>
+<div class="citebox">
+<p>Wildhaber, B., Göldi, A., &amp; Rietsche, R. (2025). How are search-augmented large language models changing internet search? -a systematic literature review. In European Conference on Information Systems.</p>
+</div>
+</section>
 <section id="citation-bibtex" class="level2">
-
+<h2 class="anchored" data-anchor-id="citation-bibtex">Citation: BibTeX</h2>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
@@ -474,35 +413,20 @@ font-style: inherit;">year</span>       = {2025}</span>
 </section>
 <section id="citation-ris" class="level2">
 <h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - CONF</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Wildhaber, Basil</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Göldi, Andreas</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Rietsche, Roman</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - How are search-augmented large language models changing internet search? -a systematic literature review</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - European Conference on Information Systems</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1">TY  - CONF</span>
+<span id="cb2-2">AU  - Wildhaber, Basil</span>
+<span id="cb2-3">AU  - Göldi, Andreas</span>
+<span id="cb2-4">AU  - Rietsche, Roman</span>
+<span id="cb2-5">TI  - How are search-augmented large language models changing internet search? -a systematic literature review</span>
+<span id="cb2-6">T2  - European Conference on Information Systems</span>
+<span id="cb2-7">PY  - 2025</span>
+<span id="cb2-8">ER  - </span></code></pre></div></div>
 
 
 </section>
 
  ]]></description>
+  <category></category>
   <guid>http://0.0.0.0:4200/papers/Paper2025f.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
@@ -517,8 +441,14 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
+<section id="citation-apa" class="level2">
+<h2 class="anchored" data-anchor-id="citation-apa">Citation: APA</h2>
+<div class="citebox">
+<p>Haffner, L., Oshri, I., &amp; Kotlarsky, J. (2025). Directions for future IS research on sports digitalisation: A stakeholder perspective. The Journal of Strategic Information Systems, 34(2), 101905. https://doi.org/10.1016/J.JSIS.2025.101905.</p>
+</div>
+</section>
 <section id="citation-bibtex" class="level2">
-
+<h2 class="anchored" data-anchor-id="citation-bibtex">Citation: BibTeX</h2>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -552,42 +482,18 @@ font-style: inherit;">pages</span>      = {101905}</span>
 </section>
 <section id="citation-ris" class="level2">
 <h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - JOUR</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Haffner, Lily</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Oshri, Ilan</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Kotlarsky, Julia</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - Directions for future IS research on sports digitalisation: A stakeholder perspective</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - The Journal of Strategic Information Systems</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">VL  - 34</span></span>
-<span id="cb2-9"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">IS  - 2</span></span>
-<span id="cb2-10"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">SP  - 101905</span></span>
-<span id="cb2-11"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">DO  - 10.1016/J.JSIS.2025.101905</span></span>
-<span id="cb2-12"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1">TY  - JOUR</span>
+<span id="cb2-2">AU  - Haffner, Lily</span>
+<span id="cb2-3">AU  - Oshri, Ilan</span>
+<span id="cb2-4">AU  - Kotlarsky, Julia</span>
+<span id="cb2-5">TI  - Directions for future IS research on sports digitalisation: A stakeholder perspective</span>
+<span id="cb2-6">T2  - The Journal of Strategic Information Systems</span>
+<span id="cb2-7">PY  - 2025</span>
+<span id="cb2-8">VL  - 34</span>
+<span id="cb2-9">IS  - 2</span>
+<span id="cb2-10">SP  - 101905</span>
+<span id="cb2-11">DO  - 10.1016/J.JSIS.2025.101905</span>
+<span id="cb2-12">ER  - </span></code></pre></div></div>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
@@ -599,6 +505,7 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 </section>
 
  ]]></description>
+  <category></category>
   <guid>http://0.0.0.0:4200/papers/haffner2025directions.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
@@ -614,8 +521,14 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
+<section id="citation-apa" class="level2">
+<h2 class="anchored" data-anchor-id="citation-apa">Citation: APA</h2>
+<div class="citebox">
+<p>Yeh, Y.-T., Eden, R., Fielt, E., &amp; Syed, R. (2025). The role of use for the business value of big data analytics. The Journal of Strategic Information Systems, 34(2), 101888. https://doi.org/10.1016/J.JSIS.2025.101888.</p>
+</div>
+</section>
 <section id="citation-bibtex" class="level2">
-
+<h2 class="anchored" data-anchor-id="citation-bibtex">Citation: BibTeX</h2>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@article</span>{<span class="ot" style="color: #003B4F;
@@ -649,45 +562,19 @@ font-style: inherit;">pages</span>      = {101888}</span>
 </section>
 <section id="citation-ris" class="level2">
 <h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - JOUR</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Yeh, Yi-Ting</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Eden, Rebekah</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Fielt, Erwin</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Syed, Rehan</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - The role of use for the business value of big data analytics</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - The Journal of Strategic Information Systems</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-9"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">VL  - 34</span></span>
-<span id="cb2-10"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">IS  - 2</span></span>
-<span id="cb2-11"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">SP  - 101888</span></span>
-<span id="cb2-12"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">DO  - 10.1016/J.JSIS.2025.101888</span></span>
-<span id="cb2-13"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1">TY  - JOUR</span>
+<span id="cb2-2">AU  - Yeh, Yi-Ting</span>
+<span id="cb2-3">AU  - Eden, Rebekah</span>
+<span id="cb2-4">AU  - Fielt, Erwin</span>
+<span id="cb2-5">AU  - Syed, Rehan</span>
+<span id="cb2-6">TI  - The role of use for the business value of big data analytics</span>
+<span id="cb2-7">T2  - The Journal of Strategic Information Systems</span>
+<span id="cb2-8">PY  - 2025</span>
+<span id="cb2-9">VL  - 34</span>
+<span id="cb2-10">IS  - 2</span>
+<span id="cb2-11">SP  - 101888</span>
+<span id="cb2-12">DO  - 10.1016/J.JSIS.2025.101888</span>
+<span id="cb2-13">ER  - </span></code></pre></div></div>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
@@ -699,6 +586,7 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 </section>
 
  ]]></description>
+  <category></category>
   <guid>http://0.0.0.0:4200/papers/yeh2025role.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
@@ -714,8 +602,14 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
+<section id="citation-apa" class="level2">
+<h2 class="anchored" data-anchor-id="citation-apa">Citation: APA</h2>
+<div class="citebox">
+<p>Yoon, Y., Iddrisu, M., Lee, C., &amp; Bharati, P. (2025). Information Systems, AI and Climate Resilience: A Systematic Literature Review. In Americas Conference on Information Systems.</p>
+</div>
+</section>
 <section id="citation-bibtex" class="level2">
-
+<h2 class="anchored" data-anchor-id="citation-bibtex">Citation: BibTeX</h2>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
@@ -743,38 +637,21 @@ font-style: inherit;">year</span>       = {2025}</span>
 </section>
 <section id="citation-ris" class="level2">
 <h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - CONF</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Yoon, Youngho</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Iddrisu, Mubarak</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Lee, Carol</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Bharati, Pratyush</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - Information Systems, AI and Climate Resilience: A Systematic Literature Review</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - Americas Conference on Information Systems</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-9"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1">TY  - CONF</span>
+<span id="cb2-2">AU  - Yoon, Youngho</span>
+<span id="cb2-3">AU  - Iddrisu, Mubarak</span>
+<span id="cb2-4">AU  - Lee, Carol</span>
+<span id="cb2-5">AU  - Bharati, Pratyush</span>
+<span id="cb2-6">TI  - Information Systems, AI and Climate Resilience: A Systematic Literature Review</span>
+<span id="cb2-7">T2  - Americas Conference on Information Systems</span>
+<span id="cb2-8">PY  - 2025</span>
+<span id="cb2-9">ER  - </span></code></pre></div></div>
 
 
 </section>
 
  ]]></description>
+  <category></category>
   <guid>http://0.0.0.0:4200/papers/YoonIddrisuLeeEtAl2025.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
@@ -790,8 +667,14 @@ font-style: inherit;">ER  - </span></span></code></pre></div></div>
 
 
 
+<section id="citation-apa" class="level2">
+<h2 class="anchored" data-anchor-id="citation-apa">Citation: APA</h2>
+<div class="citebox">
+<p>Elsholz, S., Pham, K., Korbel, J. J., &amp; Zarnekow, R. (2025). Exploring the Effectiveness of Virtual Reality Training: A Scoping Review on Sports Skill Development. In Americas Conference on Information Systems.</p>
+</div>
+</section>
 <section id="citation-bibtex" class="level2">
-
+<h2 class="anchored" data-anchor-id="citation-bibtex">Citation: BibTeX</h2>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><span class="va" style="color: #111111;
 background-color: null;
 font-style: inherit;">@inproceedings</span>{<span class="ot" style="color: #003B4F;
@@ -819,38 +702,21 @@ font-style: inherit;">year</span>       = {2025}</span>
 </section>
 <section id="citation-ris" class="level2">
 <h2 class="anchored" data-anchor-id="citation-ris">Citation: RIS</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TY  - CONF</span></span>
-<span id="cb2-2"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Elsholz, Sophia</span></span>
-<span id="cb2-3"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Pham, Kevin</span></span>
-<span id="cb2-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Korbel, Jakob J</span></span>
-<span id="cb2-5"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">AU  - Zarnekow, Rüdiger</span></span>
-<span id="cb2-6"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">TI  - Exploring the Effectiveness of Virtual Reality Training: A Scoping Review on Sports Skill Development</span></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">T2  - Americas Conference on Information Systems</span></span>
-<span id="cb2-8"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">PY  - 2025</span></span>
-<span id="cb2-9"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">ER  - </span></span></code></pre></div></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1">TY  - CONF</span>
+<span id="cb2-2">AU  - Elsholz, Sophia</span>
+<span id="cb2-3">AU  - Pham, Kevin</span>
+<span id="cb2-4">AU  - Korbel, Jakob J</span>
+<span id="cb2-5">AU  - Zarnekow, Rüdiger</span>
+<span id="cb2-6">TI  - Exploring the Effectiveness of Virtual Reality Training: A Scoping Review on Sports Skill Development</span>
+<span id="cb2-7">T2  - Americas Conference on Information Systems</span>
+<span id="cb2-8">PY  - 2025</span>
+<span id="cb2-9">ER  - </span></code></pre></div></div>
 
 
 </section>
 
  ]]></description>
+  <category></category>
   <guid>http://0.0.0.0:4200/papers/ElsholzPhamKorbelEtAl2025.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
 </item>
